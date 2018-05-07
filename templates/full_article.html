@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/main.css') }}">
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="{{ url_for('static', filename='scripts/post.js') }}"></script>
+  <script src="{{ url_for('static', filename='scripts/article.js') }}"></script>
+</head>
+
+<body>
+
+  <!-- Initialize the tab with titles . -->
+  <div style = "margin-bottom:10px;">
+    <div class = "tab">
+      {% for tab in tabs %}
+        <button id = 'link_{{ tab[0] }}' class="tablinks" onclick="openTab(event, '{{ tab[0] }}')">{{ tab[0] }}</button>
+      {% endfor %}
+
+    </div>
+
+    <!-- Create a place to put content for each tab. -->
+    {%for tab in tabs %}
+    <div id = '{{ tab[0] }}', class="tabcontent" style = "max-height: 400px; overflow: auto;">
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class = "bottom-display">
+
+    <!-- Table with editing and clear options - displays what has been written thus far -->
+    <div class = "column" style = "width: 70%; height: 250px; overflow-y: auto; float: left;">
+
+      <table class="table table-bordered" id = "data-table">
+        <!-- Headers for the table -->
+        <thead>
+          <tr>
+            <th>Outcome</th>
+            <th>Intervention</th>
+            <th>Comparator</th>
+            <th>Answer</th>
+            <th>Reasoning</th>
+          </tr>
+        </thead>
+
+        <!-- Body of the Table -->
+        <tbody id = "data-table-body">
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Button panel -->
+    <div class = "column" style = "width: 15%; float: left; margin-left: 5%;">
+
+      <!-- Add button for adding in prompts -->
+      <div class = "row" style = "margin-bottom: 5px;">
+        <button id = "add-but" type="button" class="btn btn-default btn-block"> Add </button>
+      </div>
+
+      <!-- Edit button for changing potential prompts -->
+      <div class = "row" style = "margin-bottom: 5px;">
+        <button id = "edit-but" type="button" class="btn btn-default btn-block" disabled> Edit </button>
+      </div>
+
+      <!-- Delete button for removing in prompts -->
+      <div class = "row" style = "margin-bottom: 5px;">
+        <button id = "delete-but" type="button" class="btn btn-default btn-block" disabled> Delete </button>
+      </div>
+
+      <!-- Final submission button to move on to the next article -->
+      <div class = "row" style = "margin-bottom: 5px;">
+        <button id = "submit-but" type="button" class="btn btn-default btn-block" disabled> Submit </button>
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <!-- Modalfor adding in a prompt -->
+  <div id="addPromptModal" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-lg">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+
+        <!-- Simple header for the modal to introduce the task -->
+        <div class="modal-header">
+          <button id = "close-modal" type="button" class="close" data-dismiss="modal">&times;</button>
+          <h5> <b> Please fill in the following information: </b> </h5>
+
+          With respect to <b> outcome,</b> characterize the reported difference
+          between patients receiving <b> intervention </b> and those receiving <b> comparator </b>.
+        </div>
+
+        <!-- Content of the modal -->
+        <div class = "modal-body">
+
+          <!-- Outcome slot -->
+          <div class="form-group">
+            <label for="outcome-resp">Outcome:</label>
+            <input type="outcome" class="form-control" id="outcome-resp">
+          </div>
+
+          <!-- Comparator slot -->
+          <div class="form-group">
+            <label for="comparator-resp">Comparator:</label>
+            <input type="comparator" class="form-control" id="comparator-resp">
+          </div>
+
+          <!-- Intervention slot -->
+          <div class="form-group">
+            <label for="intervention-resp">Intervention:</label>
+            <input type="intervention" class="form-control" id="intervention-resp">
+          </div>
+
+          <!-- Label for the next section -->
+          <label> Result: </label>
+
+          <!-- Select one of these options -->
+          <div class = "row" id = "radio-but" style = "margin-left:1%;">
+            <!-- Intervention "significantly increases" outcome in comparison to comparator -->
+            <div class="radio" >
+              <label>
+                <input type="radio" id = "sig-inc-but" name="select" value = "Significantly increased">
+                Significantly increased
+              </label>
+            </div>
+
+            <!-- Intervention "significantly decreases" outcome in comparison to comparator -->
+            <div class="radio" >
+              <label>
+                <input type="radio" id = "sig-dec-but" name="select" value = "Significantly decreased">
+                Significantly decreased
+              </label>
+            </div>
+
+            <!-- No difference between comparator and intervention -->
+            <div class="radio" >
+              <label>
+                <input type="radio" id = "no-sig-dif-but" name="select" value = "No significant difference">
+                No significant difference
+              </label>
+            </div>
+        </div>
+
+        <!-- Selection of text slot -->
+        <div class="form-group">
+          <label for="reasoning-resp">Reasoning:</label>
+
+          <!-- Put the response and the text selection button next to each other -->
+          <div class = "row" style = "margin-left: 0%;">
+            <div class = "column" style = "width: 75%; float: left;">
+              <input type="reasoning" class="form-control" id="reasoning-resp" readonly>
+            </div>
+
+            <!-- Buttons for selecting text -->
+            <div class = "column" style = "width: 20%; float: left; margin-left: 10px;">
+              <button id = "select-text-but" type = "button" class="btn btn-default"> Select Text </button>
+              <button id = "clear-text-but" type = "button" class="btn btn-default" disabled> Clear </button>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Submission button -->
+        <div class="modal-footer">
+          <button id = "final-prompt-submit-but" type="button" class="btn btn-success" disabled> Submit </button>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    // Add content to the tabs
+    var tab = {{ tabs|tojson }};
+    breakDownText(tab);
+    tablinks = document.getElementsByClassName("tablinks"); // get all the tab headers
+    tablinks[0].click();
+  </script>
+
+  <!-- Storing of data to be used for later when submitting -->
+  <div id="store">
+      <p id="userid">{{ userid }}</p>
+      <p id="id">{{ id }}</p>
+      <p id="rowID"> {{ rowid }} </p>
+  </div>
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="{{ url_for('static', filename='scripts/table.js') }}"></script>
+  <script src="{{ url_for('static', filename='scripts/forum_functionality.js') }}"></script>
+</body>
+</html>
