@@ -50,7 +50,6 @@ function update_row() {
   document.getElementById("final-prompt-submit-but").onclick = submit_text;
   reset_form();
   $("#close-modal").click();
-  document.getElementsByClassName("selected")[0].classList.remove('selected');
   document.getElementById("close-modal").onclick = null;
 
 }
@@ -61,8 +60,8 @@ function edit_prompt_row() {
 
   // Put highlighted's data into the form
   $("#outcome-resp").val(highlighted[0].innerHTML);
-  $("#comparator-resp").val(highlighted[1].innerHTML);
-  $("#intervention-resp").val(highlighted[2].innerHTML);
+  $("#intervention-resp").val(highlighted[1].innerHTML);
+  $("#comparator-resp").val(highlighted[2].innerHTML);
   $("#reasoning-resp").val(highlighted[4].innerHTML);
 
   switch (highlighted[3].innerHTML) {
