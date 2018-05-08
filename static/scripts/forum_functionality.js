@@ -72,12 +72,12 @@ function addToTable() {
 
   // insert comparison
   var newCell = newRow.insertCell(1);
-  var newText = document.createTextNode(data['cmp']);
+  var newText = document.createTextNode(data['int']);
   newCell.appendChild(newText);
 
   // insert intervention
   var newCell = newRow.insertCell(2);
-  var newText = document.createTextNode(data['int']);
+  var newText = document.createTextNode(data['cmp']);
   newCell.appendChild(newText);
 
   // insert answer
