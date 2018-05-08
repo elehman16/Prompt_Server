@@ -107,7 +107,8 @@ function submit() {
   }
 
   post("/submit/", {"userid": document.getElementById("userid").innerHTML,
-                    "id": document.getElementById("id").innerHTML,
+                    "id": document.getElementById("pmc").innerHTML,
+                    "pmid": document.getElementById("id").innerHTML,
                     "prompts": JSON.stringify(table_data),
                     "rowID": document.getElementById("rowID").innerHTML});
 }

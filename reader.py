@@ -152,6 +152,20 @@ class XMLReader(Reader):
             # Provided path has no files
             return None
         return next_file
+        
+    """
+    Return the proper ids associated with this specific XML file.
+    
+    @param article_meta is the XML element that holds the article title.
+    """
+    def _get_PMC_ids(self, article_meta):
+        ids = article_meta.findall('article-id')
+        id_ = None # the number associated with the xml
+        for id in ids:
+            if 'pub-id-type' in id.attrib and id.attrib['pub-id-type'].lower() == 'pmc':
+                id_ = id.text
+        
+        return id_
     
     """
     Return the proper ids associated with this specific XML file.
@@ -162,7 +176,7 @@ class XMLReader(Reader):
         ids = article_meta.findall('article-id')
         id_ = None # the number associated with the xml
         for id in ids:
-            if 'pub-id-type' in id.attrib and id.attrib['pub-id-type'].lower() == 'pmc':
+            if 'pub-id-type' in id.attrib and id.attrib['pub-id-type'].lower() == 'pmid':
                 id_ = id.text
         
         return id_
@@ -223,6 +237,7 @@ class XMLReader(Reader):
     """
     def _init_article_(self, next_file, article_meta, body):
         id_ = self._get_ids(article_meta)
+        pmc_tag = self._get_PMC_ids(article_meta)
         title = self._get_title(article_meta)   
         try:
             temp = article_meta.find('abstract')
@@ -259,9 +274,10 @@ class XMLReader(Reader):
         art.get_extra()['outcome'] = sp_file_data['outcome_name']
         art.get_extra()['comparator'] = sp_file_data['intervention2']
         art.get_extra()['intervention'] = sp_file_data['intervention1']
+        art.get_extra()['PMC'] = pmc_tag
                 
         text.insert(1, ["Title", [['Article Title', title], 
-                                  ['PubMed Id', sp_file_data['pmid']]]])
+                                  ['PubMed Id', sp_file_data['pmid']], ['PMC', pmc_tag]]])
         
         # only get the abstract if the next_file is None or it doesn't exist
         if (not(abstract is None) and not(next_file is None)):
