@@ -162,11 +162,10 @@ class XMLReader(Reader):
         ids = article_meta.findall('article-id')
         id_ = None # the number associated with the xml
         for id in ids:
-            if 'pub-id-type' in id.attrib and id.attrib['pub-id-type'] == 'pmid':
+            if 'pub-id-type' in id.attrib and id.attrib['pub-id-type'].lower() == 'pmc':
                 id_ = id.text
         
         return id_
-    
     
     """
     Return the title of the article.
