@@ -14,6 +14,8 @@ function is_active_submit_but() {
 * Show a modal that is essentially a form for users to fill out information for.
 */
 function add_prompt() {
+  $("#reasoning-resp").val(getSelectedText());
+  document.getElementById("clear-text-but").disabled = true;
   $("#addPromptModal").modal('show');
 }
 
