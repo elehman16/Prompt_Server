@@ -40,6 +40,7 @@ function mouse_up_select_text() {
     $("#reasoning-resp").val(selected_text);
     document.onmouseup = null;
     is_active_submit_but();
+    $("#reasoning-table-tag").css("background-color", "white");
     return ;
   }
 }
@@ -55,8 +56,67 @@ function mouse_up_select_text() {
 */
 function select_text() {
   $("#addPromptModal").modal('hide');
+  $("#reasoning-table-tag").css("background-color", "yellow");
   document.onmouseup = mouse_up_select_text;
   document.getElementById("clear-text-but").disabled = false;
+}
+
+/**
+* Make modal visable when mouse click up AND something is selected.
+* If so, make modal visable, save the text, and reset the button-up to null.
+* Also, check if we should make the submit button available.
+*/
+function mouse_up_select_text_out_cmp_int(type) {
+  var selected_text = getSelectedText();
+  if (selected_text !== "") {
+    $("#addPromptModal").modal('show'); // make modal visable
+    switch(type) {
+      case "out":
+        $("#outcome-resp").val(selected_text);
+        $("#outcome-table-tag").css("background-color", "white"); // reset
+        break;
+      case "cmp":
+        $("#comparator-resp").val(selected_text);
+        $("#comparator-table-tag").css("background-color", "white"); // reset
+        break;
+      case "int":
+        $("#intervention-resp").val(selected_text);
+        $("#intervention-table-tag").css("background-color", "white"); // reset
+        break;
+    }
+
+    document.onmouseup = null;
+    is_active_submit_but();
+    return ;
+  }
+}
+
+/**
+* Display the article for the user in order to select text.
+*   1. Disable the visibility of the Modal.
+*   2. Make modal visable when mouse click up AND something is selected.
+*   3. Get the selected text and store it in the modal's response section.
+*   4. Remove the window's mouse-up function.
+*   5. Display the modal
+*   6. Allow user to clear.
+*/
+function select_text_out_cmp_int(type) {
+  $("#addPromptModal").modal('hide');
+  switch(type) {
+    case "out":
+      $("#outcome-table-tag").css("background-color", "yellow");
+      break;
+    case "cmp":
+      $("#comparator-table-tag").css("background-color", "yellow");
+      break;
+    case "int":
+      $("#intervention-table-tag").css("background-color", "yellow");
+      break;
+  }
+
+  document.onmouseup = (function() {
+    mouse_up_select_text_out_cmp_int(type);
+  });
 }
 
 // Adds the data to the table.
@@ -124,6 +184,9 @@ document.getElementById("add-but").onclick = add_prompt;
 document.getElementById("select-text-but").onclick = select_text;
 document.getElementById("clear-text-but").onclick = clear_resp;
 document.getElementById("final-prompt-submit-but").onclick = submit_text;
+$("#cmp-select-text-but").click(function() { select_text_out_cmp_int("cmp"); });
+$("#int-select-text-but").click(function() { select_text_out_cmp_int("int"); });
+$("#out-select-text-but").click(function() { select_text_out_cmp_int("out"); });
 
 // After typing, determine if we should make the submit button available
 $("#outcome-resp").keyup(is_active_submit_but);

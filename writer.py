@@ -43,7 +43,7 @@ class CSVWriter(Writer):
     Submit the data to a CSV.
     """
     def submit_annotation(self, data):
-        row_heading = ['RowID', 'Outcome', 'Comparator', 'Intervention', 'Answer', 'Reasoning', 'XML', 'PMID']
+        row_heading = ['RowID', 'Outcome', 'Comparator', 'Intervention', 'Answer', 'Reasoning', 'XML', 'PMID', 'Location']
         self.update_user_progress(data['userid'])
         
         path = './/all_outputs//out_{}.csv'.format(data['userid'])
@@ -100,9 +100,10 @@ class CSVWriter(Writer):
             cmp = row[1]
             inter = row[2]
             ans = row[3]
-            res = row[4] 
+            res = row[4]
+            where = row[-1]
             
-            row_data = [rowid, out, cmp, inter, ans, res, id_, pmid]
+            row_data = [rowid, out, cmp, inter, ans, res, id_, pmid, where]
             data.append(row_data)
        
         return data

@@ -119,6 +119,26 @@ function getSelectedText() {
 }
 
 /**
+* Determines which tab the given tag is in.
+*/
+function which_tab(text_to_find) {
+  var tabs = document.getElementsByClassName("tabcontent");
+  for (var i = 0; i < tabs.length; i++) {
+    var tab = tabs[i];
+    var child = tab.children;
+    for (var j = 0; j < child.length; j++) {
+      var text = child[j].innerText;
+      if (~text.indexOf(text_to_find)) {
+        return tab.id;
+      }
+    }
+  }
+
+  return "Unavailable";
+
+}
+
+/**
 * Check that the string is already highlighted.
 *
 * @param highlighted represents that the user wants to add to the highlighted list.

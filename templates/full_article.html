@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/main.css') }}">
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
   <script src="{{ url_for('static', filename='scripts/post.js') }}"></script>
   <script src="{{ url_for('static', filename='scripts/article.js') }}"></script>
 </head>
@@ -21,7 +23,7 @@
 
     <!-- Create a place to put content for each tab. -->
     {%for tab in tabs %}
-    <div id = '{{ tab[0] }}', class="tabcontent" style = "max-height: 400px; overflow: auto;">
+    <div id = '{{ tab[0] }}' class="tabcontent" style = "max-height: 400px; overflow: auto;">
     </div>
     {% endfor %}
   </div>
@@ -35,11 +37,11 @@
         <!-- Headers for the table -->
         <thead>
           <tr>
-            <th>Outcome</th>
-            <th>Intervention</th>
-            <th>Comparator</th>
-            <th>Answer</th>
-            <th>Reasoning</th>
+            <th id = "outcome-table-tag">Outcome</th>
+            <th id = "intervention-table-tag">Intervention</th>
+            <th id = "comparator-table-tag">Comparator</th>
+            <th id = "answer-table-tag">Answer</th>
+            <th id = "reasoning-table-tag">Reasoning</th>
           </tr>
         </thead>
 
@@ -62,6 +64,11 @@
         <button id = "edit-but" type="button" class="btn btn-default btn-block" disabled> Edit </button>
       </div>
 
+      <!-- Copy button for adding new prompts -->
+      <div class = "row" style = "margin-bottom: 5px;">
+        <button id = "copy-but" type="button" class="btn btn-default btn-block" disabled> Copy </button>
+      </div>
+
       <!-- Delete button for removing in prompts -->
       <div class = "row" style = "margin-bottom: 5px;">
         <button id = "delete-but" type="button" class="btn btn-default btn-block" disabled> Delete </button>
@@ -78,7 +85,7 @@
 
 
   <!-- Modalfor adding in a prompt -->
-  <div id="addPromptModal" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false">
+  <div id = "addPromptModal" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false">
     <div class="modal-dialog modal-lg">
 
       <!-- Modal content-->
@@ -96,22 +103,58 @@
         <!-- Content of the modal -->
         <div class = "modal-body">
 
-          <!-- Outcome slot -->
+          <!-- Put in a selecting button for the intervention -->
           <div class="form-group">
             <label for="outcome-resp">Outcome:</label>
-            <input type="outcome" class="form-control" id="outcome-resp">
+
+            <!-- Put the response and the text selection button next to each other -->
+            <div class = "row" style = "margin-left: 0%;">
+              <div class = "column" style = "width: 75%; float: left;">
+                <input type = "outcome" class="form-control" id="outcome-resp">
+              </div>
+
+              <!-- Buttons for selecting text -->
+              <div class = "column" style = "width: 20%; float: left; margin-left: 10px;">
+                <button id = "out-select-text-but" type = "button" class="btn btn-default"> Select Text </button>
+              </div>
+            </div>
+
           </div>
 
-          <!-- Intervention slot -->
+          <!-- Put in a selecting button for the intervention -->
           <div class="form-group">
             <label for="intervention-resp">Intervention:</label>
-            <input type="intervention" class="form-control" id="intervention-resp">
+
+            <!-- Put the response and the text selection button next to each other -->
+            <div class = "row" style = "margin-left: 0%;">
+              <div class = "column" style = "width: 75%; float: left;">
+                <input type="intervention" class="form-control" id="intervention-resp">
+              </div>
+
+              <!-- Buttons for selecting text -->
+              <div class = "column" style = "width: 20%; float: left; margin-left: 10px;">
+                <button id = "int-select-text-but" type = "button" class="btn btn-default"> Select Text </button>
+              </div>
+            </div>
+
           </div>
 
-          <!-- Comparator slot -->
+          <!-- Put in a selecting button for the comparator -->
           <div class="form-group">
             <label for="comparator-resp">Comparator:</label>
-            <input type="comparator" class="form-control" id="comparator-resp">
+
+            <!-- Put the response and the text selection button next to each other -->
+            <div class = "row" style = "margin-left: 0%;">
+              <div class = "column" style = "width: 75%; float: left;">
+                <input type="comparator" class="form-control" id="comparator-resp">
+              </div>
+
+              <!-- Buttons for selecting text -->
+              <div class = "column" style = "width: 20%; float: left; margin-left: 10px;">
+                <button id = "cmp-select-text-but" type = "button" class="btn btn-default"> Select Text </button>
+              </div>
+            </div>
+
           </div>
 
           <!-- Label for the next section -->
@@ -170,8 +213,31 @@
 
       </div>
 
+      </div>
     </div>
   </div>
+
+    <!-- Modal -->
+    <div class="modal" id="error-modal" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Error</h4>
+          </div>
+          <div class="modal-body">
+            <p id = "error-body"> </p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
 
   <script>
     // Add content to the tabs
@@ -189,8 +255,6 @@
       <p id="pmc"> {{ pmc }} </p>
   </div>
 
-  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   <script src="{{ url_for('static', filename='scripts/table.js') }}"></script>
   <script src="{{ url_for('static', filename='scripts/forum_functionality.js') }}"></script>
 </body>
