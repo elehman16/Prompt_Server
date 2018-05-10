@@ -169,7 +169,7 @@ function submit() {
       row_data.push(col.innerHTML);
       // if at the end, then find in which tab the string is
       if (j == row.length - 1) {
-        row_data.push(which_tab(col.innerHTML));
+        row_data.push(which_tab(col.innerText));
       }
     }
 
