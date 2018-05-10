@@ -1,7 +1,10 @@
 // Make all the rows in the table selectable.
 function selectable_table() {
+  $('#data-table-body tr').unbind('click');
   $("#data-table-body tr").click(function() {
 
+    console.log($(this));
+    console.log($(this).hasClass('selected'));
     if ($(this).hasClass('selected')) {
       $("#edit-but").click();
       return;
