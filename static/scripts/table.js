@@ -166,6 +166,26 @@ function submit() {
     var row_data = [];
     for (var j = 0; j < row.length; j++) {
       var col = row[j];
+      // if at the end, determine if we should replace the object with the actual html.
+      if (j == row.length - 1) {
+        // Determine if this is in a table.
+        var tc = Array.from(document.getElementsByClassName("tabcontent"));
+        var trs = [];
+        tc.forEach(function(elem) {
+          trs.concat(elem.getElementsByTagName("tr"));
+        });
+
+        var text = col.innerHTML;
+        for (var k = 0; i < trs.length; k++) {
+          var tr = trs[k];
+          var txt = tr.innerText;
+          // Check if either are a substring of another -> if so, save it.
+          if (text.indexOf(txt) != -1 || txt.indexOf(text) != -1) {
+            col = tr;
+          }
+        }
+      }
+
       row_data.push(col.innerHTML);
       // if at the end, then find in which tab the string is
       if (j == row.length - 1) {

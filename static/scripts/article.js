@@ -115,6 +115,7 @@ function getSelectedText() {
     window.getSelection().removeAllRanges();
 
     text = text.trim();
+
     return text;
 }
 

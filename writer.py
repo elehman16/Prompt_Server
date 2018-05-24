@@ -47,7 +47,7 @@ class CSVWriter(Writer):
         self.update_user_progress(data['userid'])
         
         path = './/all_outputs//out_{}.csv'.format(data['userid'])
-        data = self.__finish_data__(data) 
+        data = self.__finish_data__(data)
         my_file = Path(path)
         not_file = not(my_file.is_file())
         

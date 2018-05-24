@@ -4,8 +4,6 @@ import os
 import random
 import sqlite3
 import xml.etree.ElementTree as ET
-from get_file_description import get_file_description
-from data.by_row_description import by_row_description
 import numpy as np
 from functools import reduce
 
@@ -113,8 +111,6 @@ class XMLReader(Reader):
 
     def __init__(self, path):
         self.path = path
-        self.file_description = get_file_description()
-        self.by_row_description = by_row_description()
 
     """
     Given the path that leads to a folder of ONLY XML files, the function
@@ -123,7 +119,12 @@ class XMLReader(Reader):
     def _get_next_file(self, user):
         user_progress = np.genfromtxt('.//data//user_progress.csv', delimiter = ",", dtype = str)
         user_progress = user_progress.reshape((int(user_progress.size / 2), 2))      
-        ordering = np.loadtxt('.//data//ordering_list.txt', dtype = float)
+        
+        try:
+            ordering = np.loadtxt('.//data//ordering_list_' + user + '.txt', dtype = float)
+        except:
+            ordering = np.loadtxt('.//data//ordering_list.txt', dtype = float)
+
         i = 0
         for row in user_progress:
             row_val = int(float(row[1]))
@@ -238,6 +239,7 @@ class XMLReader(Reader):
     def _init_article_(self, next_file, article_meta, body):
         id_ = self._get_ids(article_meta)
         pmc_tag = self._get_PMC_ids(article_meta)
+        pmid = self._get_ids(article_meta)
         title = self._get_title(article_meta)   
         try:
             temp = article_meta.find('abstract')
@@ -264,20 +266,9 @@ class XMLReader(Reader):
         # store the path of this file
         art = article.Article(id_= id_, title=title, text=text)
         art.get_extra()['path'] = next_file
-                
-        file_data = self.file_description[int(id_)]
-        sp_file_data = None
-        for row in file_data:
-            if (row['Unnamed: 0'] == int(next_file)):
-                sp_file_data = row
-                
-        art.get_extra()['outcome'] = sp_file_data['outcome_name']
-        art.get_extra()['comparator'] = sp_file_data['intervention2']
-        art.get_extra()['intervention'] = sp_file_data['intervention1']
         art.get_extra()['PMC'] = pmc_tag
-                
         text.insert(1, ["Title", [['Article Title', title], 
-                                  ['PubMed Id', sp_file_data['pmid']], ['PMC', pmc_tag]]])
+                                  ['PubMed Id', pmid], ['PMC', pmc_tag]]])
         
         # only get the abstract if the next_file is None or it doesn't exist
         if (not(abstract is None) and not(next_file is None)):
@@ -297,7 +288,7 @@ class XMLReader(Reader):
         if not next_file:
             return None
             
-        pmc = self.by_row_description[int(next_file)][0]['XML_file_names']
+        pmc = "PMC" + str(int(next_file)) + ".nxml"
         path_to_file =  self.path + '/' + pmc # the path to XML files
         et = ET.parse(path_to_file) 
         root = et.getroot() 
