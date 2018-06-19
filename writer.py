@@ -43,7 +43,6 @@ class CSVWriter(Writer):
     Submit the data to a CSV.
     """
     def submit_annotation(self, data):
-        import pdb; pdb.set_trace()
         self.update_user_progress(data['userid'])
         if len(data) == 1:
             return None
