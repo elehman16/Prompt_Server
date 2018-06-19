@@ -81,7 +81,6 @@ Submits the article id with all annotations.
 @application.route('/submit/', methods=['POST'])
 def submit(): 
     userid = flask.request.form['userid']
-    id_ = flask.request.form['id']
     anne.submit_annotation(flask.request.form)
     
     # otherwise go to the next abstract
