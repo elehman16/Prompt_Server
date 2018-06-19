@@ -206,6 +206,20 @@ function submit() {
 
 }
 
+// The invalid button to call the modal to open
+$('#invalid-but').on('click', function() {
+    $('#confirm-modal').show();
+});
+
+// The invalid button to call the modal
+$('#invalid-yes').on('click', function() {
+    post("/submit/", {"userid": document.getElementById("userid").innerHTML});
+});
+
+$('#invalid-no').on('click', function() {
+    $('#confirm-modal').hide();
+});
+
 document.getElementById("delete-but").onclick = delete_prompt_row;
 document.getElementById("edit-but").onclick = edit_prompt_row;
 document.getElementById("copy-but").onclick = copy_row;
