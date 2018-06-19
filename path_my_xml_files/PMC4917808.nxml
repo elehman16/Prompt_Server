@@ -1,0 +1,1061 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Clin Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Br J Clin Pharmacol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2125</journal-id><journal-id journal-id-type="publisher-id">BCP</journal-id><journal-title-group><journal-title>British Journal of Clinical Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0306-5251</issn><issn pub-type="epub">1365-2125</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26852904</article-id><article-id pub-id-type="pmc">4917808</article-id><article-id pub-id-type="doi">10.1111/bcp.12900</article-id><article-id pub-id-type="publisher-id">BCP12900</article-id><article-id pub-id-type="other">MP-00624-15.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Pharmacokinetic Dynamic Relationships</subject></subj-group><subj-group subj-group-type="heading"><subject>Pharmacokinetic Dynamic Relationships</subject></subj-group></article-categories><title-group><article-title>Safety, pharmacokinetics and pharmacodynamics of GLPG0974, a potent and selective FFA2 antagonist, in healthy male subjects</article-title><alt-title alt-title-type="right-running-head">Safety, PK and PD of GLPG0974, a selective FFA2 antagonist</alt-title><alt-title alt-title-type="left-running-head">F. Namour et al.</alt-title></title-group><contrib-group><contrib id="bcp12900-cr-0001" contrib-type="author" corresp="yes"><name><surname>Namour</surname><given-names>Florence</given-names></name><xref ref-type="aff" rid="bcp12900-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bcp12900-cr-0002" contrib-type="author"><name><surname>Galien</surname><given-names>Ren&#x000e9;</given-names></name><xref ref-type="aff" rid="bcp12900-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bcp12900-cr-0003" contrib-type="author"><name><surname>Van Kaem</surname><given-names>Tim</given-names></name><xref ref-type="aff" rid="bcp12900-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bcp12900-cr-0004" contrib-type="author"><name><surname>Van der Aa</surname><given-names>Annegret</given-names></name><xref ref-type="aff" rid="bcp12900-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bcp12900-cr-0005" contrib-type="author"><name><surname>Vanhoutte</surname><given-names>Fr&#x000e9;d&#x000e9;ric</given-names></name><xref ref-type="aff" rid="bcp12900-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bcp12900-cr-0006" contrib-type="author"><name><surname>Beetens</surname><given-names>Johan</given-names></name><xref ref-type="aff" rid="bcp12900-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bcp12900-cr-0007" contrib-type="author"><name><surname>van't Klooster</surname><given-names>Gerben</given-names></name><xref ref-type="aff" rid="bcp12900-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="bcp12900-aff-0001" content-type="private-address"><label><sup>1</sup></label><institution>Galapagos SASU</institution><named-content content-type="post-code">93230</named-content><named-content content-type="city">Romainville</named-content><country>France</country></aff><aff id="bcp12900-aff-0002" content-type="private-address"><label><sup>2</sup></label><institution>Galapagos NV</institution><named-content content-type="post-code">2800</named-content><named-content content-type="city">Mechelen</named-content><country country="BE">Belgium</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence<break/>
+F. Namour, MSc, Galapagos SASU, 102 avenue Gaston Roussel, 93230 Romainville, France. Tel.: +33 1 4942 4744; E&#x02010;mail: <email>florence.namour@glpg.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>5</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2016</year></pub-date><pub-date pub-type="pmc-release"><day>01</day><month>5</month><year>2016</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>82</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/bcp.v82.1</issue-id><fpage>139</fpage><lpage>148</lpage><history><date date-type="received"><day>12</day><month>10</month><year>2015</year></date><date date-type="rev-recd"><day>21</day><month>1</month><year>2016</year></date><date date-type="accepted"><day>03</day><month>2</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 The British Pharmacological Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 Galapagos SASU / Galapagos NV. British Journal of Clincal Pharmacology published by John Wiley &#x00026; Sons Ltd on behalf of British Pharmacological Society.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BCP-82-139.pdf"/><abstract><sec id="bcp12900-sec-0001"><title>Aims</title><p>Free fatty acids (FFA) can act as direct signalling molecules through activation of several membrane&#x02010;bound G&#x02010;protein coupled receptors. The FFA2 receptor (known as GPR43) is activated by short chain fatty acids (SCFA) such as acetate and has been shown to play a major role in SCFA&#x02010;induced neutrophil activation and migration and to contribute in the development and control of inflammation. GLPG0974 is a potent and selective antagonist of the human FFA2. The main objectives of the two phase 1 trials were to characterize the safety, tolerability, pharmacokinetics and pharmacodynamics of GLPG0974.</p></sec><sec id="bcp12900-sec-0002"><title>Methods</title><p>Two consecutive randomized, double&#x02010;blind, placebo&#x02010;controlled, single centre trials in healthy subjects were performed. In the first, GLPG0974 was administered as single doses up to 250&#x000a0;mg and in the second, multiple daily doses up to 400&#x000a0;mg for 14&#x000a0;days were evaluated. Non&#x02010;compartmental analysis was used to determine GLPG0974 pharmacokinetics while target engagement was investigated through the inhibition of neutrophils in acetate&#x02010;simulated whole blood samples using surface expression of CD11b activated epitope as a marker of neutrophil activation.</p></sec><sec id="bcp12900-sec-0003"><title>Results</title><p>The investigation of safety/tolerability and pharmacokinetics in the early development phase showed that GLPG0974 was safe and well tolerated up to a daily dose of 400&#x000a0;mg. GLPG0974 showed good and dose proportional exposure up to 400&#x000a0;mg daily as well as a substantial and sustained inhibition of acetate&#x02010;stimulated neutrophil activation.</p></sec><sec id="bcp12900-sec-0004"><title>Conclusion</title><p>Based on these results, a proof&#x02010;of&#x02010;concept study was initiated to evaluate the safety, tolerability and efficacy of GLPG0974 in patients with mild to moderate ulcerative colitis.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bcp12900-kwd-0001">FFA2</kwd><kwd id="bcp12900-kwd-0002">GPR43</kwd><kwd id="bcp12900-kwd-0003">GLPG0974</kwd><kwd id="bcp12900-kwd-0004">healthy subjects</kwd><kwd id="bcp12900-kwd-0005">safety</kwd><kwd id="bcp12900-kwd-0006">PK</kwd><kwd id="bcp12900-kwd-0007">PD</kwd></kwd-group><counts><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bcp12900</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.5 mode:remove_FC converted:21.10.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="bcp12900-cit-0000">
+<string-name>
+<surname>Namour</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Galien</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Van Kaem</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Van der Aa</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vanhoutte</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Beetens</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>van't Klooster</surname>, <given-names>G.</given-names>
+</string-name> (<year>2016</year>) <article-title>Safety, pharmacokinetics and pharmacodynamics of GLPG0974, a potent and selective FFA2 antagonist, in healthy male subjects</article-title>. <source>Br J Clin Pharmacol</source>, <volume>82</volume>: <fpage>139</fpage>&#x02013;<lpage>148</lpage>. doi: <ext-link ext-link-type="doi" xlink:href="10.1111/bcp.12900">10.1111/bcp.12900</ext-link>.<pub-id pub-id-type="pmid">26852904</pub-id></mixed-citation>
+</p></notes></front><body><sec id="bcp12900-sec-0005"><title>What is Already Known about this Subject</title><p>
+<list list-type="bullet"><list-item id="bcp12900-li-0001"><p>This is the first report of a clinical trial with a potent and selective antagonist of the human FFA2 receptor.</p></list-item></list>
+</p></sec><sec id="bcp12900-sec-0006"><title>What this Study Adds</title><p>
+<list list-type="bullet"><list-item id="bcp12900-li-0002"><p>GLPG0974 is the first human FFA2 antagonist to be clinically evaluated. The study presents the molecule's safety, including the absence of metabolic effects on glucose and insulin, and demonstrates good oral pharmacokinetics.</p></list-item><list-item id="bcp12900-li-0003"><p>The study presents the practical implementation of a neutrophil activation assay to demonstrate pharmacodynamics through target engagement <italic>ex vivo</italic>.</p></list-item><list-item id="bcp12900-li-0004"><p>The study establishes a dose range from minimal effect to maximal achievable pharmacodynamic response in the early clinical development phase.</p></list-item></list>
+</p></sec><sec id="bcp12900-sec-0007"><title>Introduction</title><p>Free fatty acids, in particular short chain fatty acids (SCFAs) such acetate, propionate and butyrate, are well known to be a direct source of energy. In addition they have been recognized to play an important role in the regulation of metabolic and inflammatory processes. In the human body, SCFAs are mainly produced by anaerobic bacterial fermentation of non&#x02010;digestible carbohydrates in the gut. The principal SCFA in human blood is acetate, since butyrate is mainly utilized by enterocytes as metabolic fuel and propionate is mostly converted to glucose in the liver <xref rid="bcp12900-bib-0001" ref-type="ref">1</xref>, <xref rid="bcp12900-bib-0002" ref-type="ref">2</xref>. Various studies have shown that treatment with SCFAs of polymorphonuclear cells <xref rid="bcp12900-bib-0003" ref-type="ref">3</xref>, leukocytes <xref rid="bcp12900-bib-0004" ref-type="ref">4</xref> or neutrophils <xref rid="bcp12900-bib-0005" ref-type="ref">5</xref> induces a rise in intracellular Ca<sup>2</sup>
+<sup>+</sup> and subsequent chemotaxis. Thus, immune cells are activated and migrate towards areas with elevated concentrations of SCFAs. This mechanism is likely to offer an evolutionary advantage. Cells such as neutrophils that present the first line of immunological defence are attracted towards areas of bacterial activity.</p><p>In recent years, receptors have been identified for which free fatty acids act as ligands. Several G protein&#x02010;coupled receptors (GPCRs) including FFA1, FFA2, FFA3, GRP84, GRP119 and GRP120 are activated by free fatty acids of different carbon chain length (short, mid or long chain). The free fatty acid receptor 2 (FFA2), also known as G&#x02010;protein&#x02010;coupled receptor 43 (GPR43), is activated by SCFAs <xref rid="bcp12900-bib-0003" ref-type="ref">3</xref>, <xref rid="bcp12900-bib-0006" ref-type="ref">6</xref>. FFA2 expression has been shown in immune cells like polymorphonuclear leukocytes, neutrophils and eosinophils, peripheral blood mononuclear cells, monocytes and B lymphocytes <xref rid="bcp12900-bib-0003" ref-type="ref">3</xref>, <xref rid="bcp12900-bib-0004" ref-type="ref">4</xref>, <xref rid="bcp12900-bib-0007" ref-type="ref">7</xref>. FFA2 is also expressed on enterocytes and some enteroendocrine cells <xref rid="bcp12900-bib-0008" ref-type="ref">8</xref>, <xref rid="bcp12900-bib-0009" ref-type="ref">9</xref> as well as in adipocytes <xref rid="bcp12900-bib-0010" ref-type="ref">10</xref>. In human neutrophils <italic>in vitro</italic>, FFA2 mRNA expression is down regulated by SCFAs, but strongly up&#x02010;regulated under conditions of experimental inflammation by bacterial endotoxin lipopolysaccharide <xref rid="bcp12900-bib-0011" ref-type="ref">11</xref>. SCFAs have been shown to induce neutrophil migration both <italic>in vitro</italic>
+<xref rid="bcp12900-bib-0001" ref-type="ref">1</xref>, <xref rid="bcp12900-bib-0002" ref-type="ref">2</xref>, <xref rid="bcp12900-bib-0003" ref-type="ref">3</xref> and <italic>in vivo</italic>
+<xref rid="bcp12900-bib-0005" ref-type="ref">5</xref>. Intravital microscopy of rat mesenteric venules revealed that SCFAs stimulate neutrophil rolling and adherence to endothelium, which are the key steps in neutrophil transmigration from the blood stream into tissues <xref rid="bcp12900-bib-0005" ref-type="ref">5</xref>. Neutrophils isolated from FFA2 knock&#x02010;out (KO) mice lose the ability to migrate in response to SCFA, indicating a key function for FFA2 in SCFA&#x02010;induced neutrophil chemotaxis and tissue accumulation<xref rid="bcp12900-bib-0012" ref-type="ref">12</xref>
+</p><p>Neutrophils play a key role in a number of chronic inflammatory diseases such as inflammatory bowel disease (IBD), chronic obstructive pulmonary disease, cystic fibrosis, periodontitis, vasculitis and others <xref rid="bcp12900-bib-0014" ref-type="ref">14</xref>. Mechanisms that inhibit neutrophil chemotaxis may attenuate neutrophil&#x02010;driven inflammation and resulting tissue destruction. GLPG0974 is a potent and selective FFA2 antagonist that inhibits SCFA&#x02010;induced neutrophil activation and migration <xref rid="bcp12900-bib-0015" ref-type="ref">15</xref>. GLPG0974 is only active against human and monkey FFA2, but not rodent FFA2 (data not shown). For this reason, GLPG0974 could not be evaluated in the classical rodent <italic>in vivo</italic> models of inflammation. Appropriate primate models are not readily available, so evaluation of this compound in animal models was not possible. GLPG0974 may offer an innovative treatment opportunity for a variety of neutrophil&#x02010;dependent pathologies, especially those where SCFA&#x02010;induced chemotaxis and activation may play a significant role such as in IBD <xref rid="bcp12900-bib-0016" ref-type="ref">16</xref>.</p><p>Studies in FFA2 KO mice suggest an important contribution of FFA2 in the development and control of inflammation in the gut <xref rid="bcp12900-bib-0013" ref-type="ref">13</xref>, <xref rid="bcp12900-bib-0017" ref-type="ref">17</xref>, with conflicting results. While Maslowski <italic>et al.</italic>
+<xref rid="bcp12900-bib-0013" ref-type="ref">13</xref> and Masui <italic>et al</italic>. <xref rid="bcp12900-bib-0018" ref-type="ref">18</xref> reported that FFA2 KO mice exhibited an exacerbated inflammatory response in models of colitis, arthritis and asthma, Sina <italic>et al</italic>. <xref rid="bcp12900-bib-0014" ref-type="ref">14</xref> and Kim <italic>et al.</italic>
+<xref rid="bcp12900-bib-0019" ref-type="ref">19</xref> found FFA2 KO mice were protected against chronic dextran sodium sulfate (DSS)&#x02010;induced colitis. It remains unclear whether FFA2 deficiency attenuates or exacerbates the inflammatory response. Controversial data between studies may be explained by different genetic backgrounds across FFA2 KO mice studies <xref rid="bcp12900-bib-0020" ref-type="ref">20</xref> and microbiota differences between mice strains.</p><p>As FFA2 is also expressed in adipocytes, enterocytes and entero&#x02010;endocrine cells, a role in glucose homeostasis, obesity, dyslipidaemia and metabolic processes has been suggested. However, again contradictory results in FFA2 KO mice are described. Some studies have indicated that GPR43 promotes leptin secretion, adipogenesis and inhibition of lipolysis in adipose tissue and adipocytes, thereby regulating energy metabolism <xref rid="bcp12900-bib-0021" ref-type="ref">21</xref>, <xref rid="bcp12900-bib-0022" ref-type="ref">22</xref>. Furthermore, in FFA2 KO mice, impaired glucose tolerance with reduced insulin and glucagon&#x02010;like peptide (GLP)&#x02010;1 levels, as well as decreased insulin sensitivity and obesity are described <xref rid="bcp12900-bib-0023" ref-type="ref">23</xref>, <xref rid="bcp12900-bib-0024" ref-type="ref">24</xref>. On the other hand, FFA2 deficiency protected against high fat diet (HFD)&#x02010;induced obesity and dyslipidaemia and improved glucose tolerance <xref rid="bcp12900-bib-0025" ref-type="ref">25</xref>.</p><p>Here the first clinical data of GLPG0974 are presented. The main objectives of these first phase I clinical trials were to characterize the safety, tolerability, pharmacokinetics (PK) and pharmacodynamics (PD) of GLPG0974 in healthy volunteers. As a PD biomarker demonstrating target engagement, the inhibition of activated CD11b (CD11b Active epitope) expression on neutrophils following <italic>ex vivo</italic> blood stimulation with sodium acetate was used.</p></sec><sec id="bcp12900-sec-0008"><title>Methods</title><p>Studies were conducted in accordance with accepted standards for the protection of subject safety and welfare and the principles of the Declaration of Helsinski and its amendments, and were in compliance with Good Clinical Practice. Protocols and informed consents were approved by the Ziekenhuis Netwerk <styled-content style="fixed-case">Antwerpen</styled-content> (ZNA) Institutional Review Board (<styled-content style="fixed-case">Belgium</styled-content>). All healthy subjects gave written informed consent prior to study initiation.</p><sec id="bcp12900-sec-0009"><title>Study designs</title><p>Studies were phase 1, randomized, double&#x02010;blind, placebo&#x02010;controlled, single centre studies evaluating the safety, tolerability, PK and PD of single and multiple ascending oral doses of GLPG0974 in healthy subjects (NCT01496937 and NCT01721980). Eligible subjects (aged 18&#x02013;50&#x000a0;years, body mass index [BMI] 18&#x02013;30&#x000a0;kg&#x000a0;m<sup>&#x02212;2</sup>) were in good health with no clinically significant deviation from normal ranges in terms of medical history, physical examinations, ECGs or clinical laboratory determinations. Subjects were excluded from the study if they had a medical history of abnormal platelet function or a history of a current immunosuppressive condition.</p><p>Thirty&#x02010;two subjects in four panels of eight subjects received single ascending doses of 10, 30, 90 and 250&#x000a0;mg or placebo, in such a way that in each panel, six subjects received GLPG0974 and two placebo. In a subsequent study, four cohorts of eight subjects (six on active and two on placebo) received once daily (50&#x000a0;mg once daily, 100&#x000a0;mg once daily, 200&#x000a0;mg once daily) and twice daily doses (200&#x000a0;mg twice daily) of GLPG0974 or placebo for 14&#x000a0;days. Dose selection for the single ascending doses was based on preclinical observations and dose predictions from animal studies, whereas the multiple ascending doses were chosen based on the preclinical data and PK and PD results from the single dose study. Single doses were administered as an oral solution (10 and 50&#x000a0;mg&#x000a0;ml<sup>&#x02212;1</sup>&#x000a0;L&#x02212; &#x02010;arginine&#x02010;buffered aqueous oral solution and matching placebo) while for repeated doses GLPG0974 and matching placebo were formulated using standard excipients (such as microcrystalline cellulose, croscarmellose sodium, colloidal anhydrous silica and magnesium stearate) in hard gelatin capsules. A volume of 240&#x000a0;ml water was given to each subject immediately at the time of dosing. GLPG0974 is poorly soluble at acidic pH such as human gastric pH (1&#x02013;3). As food induces a rise in gastric pH, dosing with food would increase the solubility of GLPG0974 and hence its absorption and bioavailability. Thus, treatments were administered after a standard breakfast (and evening meal for b.i.d regimen). Drinks were standardized to at least 1000&#x000a0;ml of water&#x000a0;day.</p><p>Blood samples for PK were collected at regular intervals over 48&#x000a0;h (single escalating doses) or over 13&#x000a0;days post&#x02010;dose (multiple ascending doses). Additionally morning predose samples to determine steady&#x02010;state concentrations for GLPG0974 were taken on days 2, 3, 4, 6, 8, and 14 (24&#x000a0;h after dose on day 13 or 12&#x000a0;h in case of twice daily dosing). Blood was collected in tubes containing lithium heparin as an anticoagulant in order to obtain plasma for the analysis of concentrations of GLPG0974. Within 30&#x000a0;min after blood collection the plasma was separated in a refrigerated centrifuge (4&#x02013;8&#x000a0;&#x000b0;C) for 10&#x000a0;min at <italic>circa</italic> 1500&#x000a0;<italic>g</italic> and transferred into two polypropylene tubes with at least 400&#x000a0;&#x003bc;l of plasma per tube. Plasma samples were stored at &#x02212;20&#x000a0;&#x000b0;C until analysis. Three urine fractions were collected over a 24&#x000a0;h period during the multiple ascending doses to determine the amount of GLPG0974 excreted in urine. After homogenization and recording of the total weight, two 10&#x000a0;ml samples were stored at &#x02212;20&#x000a0;&#x000b0;C until analysis.</p><p>Blood samples for PD analysis were collected at predose and at 1 (or 2), 4 and 8&#x000a0;h post&#x02010;dose after single doses and at predose and at 2, 4, 8, 12 and 24&#x000a0;h on day 1 and day 13 during the multiple ascending doses. Blood was obtained by venepuncture in tubes containing sodium citrate as anticoagulant and used subsequently for CD11b activated epitope measurement in neutrophils.</p></sec><sec id="bcp12900-sec-0010"><title>Safety assessments</title><p>General safety was evaluated by the incidence of adverse events (AEs) through non&#x02010;leading questioning, vital signs, 12&#x02010;lead electrocardiograms (ECG), and physical examinations, clinical laboratory parameters (haematology, biochemistry and urinalysis), as well as glucose and insulin monitoring after an oral glucose tolerance test (OGTT) performed prior to and after 14&#x000a0;days dosing with GLPG0974. Exposures under the glucose or insulin plasma concentration&#x02013;time curve (AUC) were calculated on both occasions.</p></sec><sec id="bcp12900-sec-0011"><title>Bioanalytical and PK methods</title><p>Plasma concentrations of GLPG0974 were determined using a validated liquid&#x02010;chromatography&#x02010;mass spectrometry/mass spectrometry (LC&#x02013;MS/MS) assay. In brief, the internal standard (deuterated GLPG0974) was added to plasma samples and then processed by liquid/liquid extraction. The evaporated and reconstituted samples were injected into a SCIEX API4000 LC&#x02013;MS/MS equipped with a XBridge&#x02122; C18 chromatography column. GLPG0974 was detected with multiple reaction monitoring. Quantification was performed using peak area ratios and standard curves (with 1/x<sup>2</sup> linear regression) prepared from calibration standards. The lower limit of quantification was 1.00&#x000a0;ng&#x000a0;ml<sup>&#x02212;1</sup>. The overall precision and repeatability precision for quality controls expressed as coefficient of variation (CV%) were not greater than 2.8 and 2.3%, respectively, with deviation from nominal concentrations of no more than &#x02212;1.9%. At this early development stage, an adapted method from the plasma bioanalytical method was used to determine the concentrations of GLPG0974 in urine.</p><p>The plasma GLPG0974 concentrations were analyzed by non&#x02010;compartmental methods. The peak plasma concentrations (<italic>C</italic>
+<sub>max</sub>) and time to reach the <italic>C</italic>
+<sub>max</sub> (<italic>t</italic>
+<sub>max</sub>) were directly observed from the data. The terminal elimination rate constant (&#x003bb;<sub>z</sub>) was determined by log&#x02010;linear regression analysis of the elimination phase. The apparent terminal half&#x02010;life calculated from <italic>t</italic>
+<sub>1/2,&#x003bb;z</sub>&#x000a0;=&#x000a0;ln2/&#x003bb;<sub>z</sub> was reported only if more than three data points were used for linear regression to determine &#x003bb;z with an adjusted <italic>r</italic>
+<sup>2</sup> value &#x02265;0.900. The area under the curve (AUC) was calculated by the linear&#x02010;trapezoidal rule over the dosing interval (AUC(0,&#x003c4;)) or up to the last quantifiable concentration (AUC(0,<italic>t</italic>)) using standard non&#x02010;compartmental methods (WinNonLin<sup>&#x000ae;</sup>, version 5.3; Pharsight corporation, Mountain View, CA, <styled-content style="fixed-case">USA</styled-content>). Exposures extrapolated to infinity (AUC<sub>0&#x02010;&#x0221e;</sub>) were calculated from AUC(0,<italic>t</italic>)&#x000a0;+&#x000a0;(<italic>C</italic>
+<sub><italic>t</italic></sub>/&#x003bb;<sub>z</sub>), where <italic>C</italic>
+<sub><italic>t</italic></sub> is the last observed quantifiable concentration. Urine parameters were determined after multiple dosing. The amount of GLPG0974 excreted over the dosing interval period (i.e. 12 or 24&#x000a0;h) expressed in percentage of the dose (Ae%) and the renal clearance (CL<sub>R</sub>) calculated as Ae(0,&#x003c4;)/AUC(0,&#x003c4;), with Ae(0,&#x003c4;) and AUC(0,&#x003c4;) corresponding to the amount excreted in urine and the plasma exposure over the dosing interval, respectively.</p></sec><sec id="bcp12900-sec-0012"><title>PD method: measurement of neutrophil CD11b activated epitope</title><p>Measurements of the CD11b activated epitope expression on human neutrophils in whole blood were performed as described in Polancec <italic>et al</italic>. <xref rid="bcp12900-bib-0026" ref-type="ref">26</xref>. Fresh blood was diluted twice in RPMI medium containing TNF&#x003b1; (2&#x000a0;ng&#x000a0;ml<sup>&#x02212;1</sup>) and cytochalasin B (20&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>) and incubated for 15&#x000a0;min at 37&#x000a0;&#x000b0;C for neutrophil priming. After stimulation of diluted blood for 2&#x000a0;h at 37&#x000a0;&#x000b0;C with 10&#x000a0;m<sc>m</sc> acetate, cells were pelleted with washing/staining buffer (W/S buffer: phosphate&#x02010;buffered saline, 2% heat inactivated fetal bovine serum, 0.02% EDTA) and blocked with normal mouse IgG (<styled-content style="fixed-case">Invitrogen</styled-content>/molecular probe) for 10&#x000a0;min at 4&#x000a0;&#x000b0;C. Then, cells were labelled for 30&#x000a0;min at 4&#x000a0;&#x000b0;C with anti&#x02010;CD45, anti&#x02010;CD16 and anti&#x02010;CD11b activated epitope antibodies (eBioscience). Red blood cell lysis and white blood cell fixation were performed by incubating the tubes for 10&#x000a0;min at 37&#x000a0;&#x000b0;C in 10 volumes of 1X FACS&#x02122; lysing solution (BD Bioscience). After two washing steps, cells were re&#x02010;suspended in 400&#x000a0;&#x003bc;l of W/S buffer and the CD11b [AE] marker was quantified on CD45<sup>+</sup>/CD16<sup>high+</sup> neutrophils by flow cytometry (FACSCanto, BD Bioscience). Data are calculated as the percentage of inhibition of CD11b activated epitope expression on neutrophils with regard to data obtained predose on day 1. Maximum percentage of inhibition observed (E<sub>max</sub>) on day 1 and day 13, were determined from individual effect&#x02013;time profiles.</p><p>The same assay was used for determination of GLPG0974 <italic>in vitro</italic> activity on day &#x02212;1. In this setting, GLPG0974 was added to blood samples in a concentration ranging from 0 to 3&#x000a0;&#x003bc;<sc>m</sc>, and processed as described above.</p></sec><sec id="bcp12900-sec-0013"><title>Statistical analyses</title><p>Clinical safety was addressed by assessing AEs, physical examinations, laboratory assessments (including glucose and insulin monitoring after OGTT), ECG and vital sign results in a descriptive manner. Descriptive statistics and shift tables (according to normal ranges) were calculated for each parameter at every time point and in each treatment group. A treatment&#x02010;emergent AE (TEAE) analysis was performed. The change in exposure (AUC) from day &#x02212;1 at day 14 was compared between the treatment groups (placebo subjects pooled) using an <sc>ancova</sc> model with treatment and day &#x02212;1 AUC as fixed effects.</p><p>For the PK analyses, the descriptive statistics analysis included the arithmetic means and CVs for <italic>C</italic>
+<sub>max</sub>, AUC, <italic>t</italic>
+<sub>1/2,&#x003bb;z</sub>, Ae% and CL<sub>R</sub> and the medians and range for <italic>t</italic>
+<sub>max</sub>.</p><p>At this early stage of development, the study was not powered to assess dose proportionality using a 90% CI approach, but rather to get a first estimate of human PK characteristics. Consequently, dose proportionality over the entire dosage range was tested on ln&#x02010;transformed GLPG0974 (single dose: <italic>C</italic>
+<sub>max</sub>/dose, AUC(0,24&#x000a0;h)/dose, AUC(0,&#x0221e;)/dose and <italic>t</italic>
+<sub>1/2,&#x003bb;z</sub>; repeated dose: C<sub>max</sub>/dose, AUC(0,&#x003c4;)/dose, Ae(0,&#x003c4;)/dose, <italic>t</italic>
+<sub>1/2,&#x003bb;z</sub> and CL<sub>R</sub>) by means of a mixed&#x02010;effect <sc>anova</sc>. In case of a significant dose effect observed on these parameters, comparison between doses was performed using <styled-content style="fixed-case">Tukey's</styled-content> test. For the 200&#x000a0;mg twice daily dose, values of AUC(0,&#x003c4;) and Ae(0,&#x003c4;) were multiplied by two to get an estimate of the exposure over the same period as the once daily dosing regimen (i.e. 24&#x000a0;h) and dose&#x02010;normalized to the total daily dose (i.e. 400&#x000a0;mg). Wilcoxon&#x02013;Mann&#x02013;Whitney non&#x02010;parametric test was used to assess the dose proportionality of <italic>t</italic>
+<sub>max</sub>.</p><p>Time to reach steady&#x02010;state after repeated dosing was assessed by visual inspection of the <italic>C</italic>
+<sub>trough</sub> plasma concentrations of GLPG0974 determined on days 2, 3, 4, 6, 8, 13 and 14 (24&#x000a0;h after dose of day 13 or 12&#x000a0;h in case of twice daily dosing) for each dose group as well by means of a mixed&#x02010;effect <sc>anova</sc> on natural ln&#x02010;transformed GLPG0974 trough plasma concentrations.</p><p>For PD, mean percentage of inhibition (&#x000b1;SE) <italic>vs.</italic> time plots were presented after single and repeated administrations at each dose level. The relation between the percentage of inhibition and the plasma concentrations of GLPG0974 in the multiple dose study was explored with an E<sub>max</sub> model. After visual inspection of individual plots no real hysteresis was observed and the following E<sub>max</sub> model was used:
+<disp-formula id="bcp12900-disp-0001"><mml:math id="nlm-math-1"><mml:mtext mathvariant="normal">Inhibition</mml:mtext><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mtext mathvariant="normal">plasma</mml:mtext><mml:mspace width="0.5em"/><mml:mtext mathvariant="normal">concentration</mml:mtext><mml:mspace width="0.5em"/><mml:mo>&#x000d7;</mml:mo><mml:mspace width="0.5em"/><mml:msub><mml:mi mathvariant="normal">E</mml:mi><mml:mtext mathvariant="italic">max</mml:mtext></mml:msub></mml:mrow><mml:mrow><mml:mtext mathvariant="normal">plasma</mml:mtext><mml:mspace width="0.5em"/><mml:mtext mathvariant="normal">concentration</mml:mtext><mml:mo>+</mml:mo><mml:mtext mathvariant="normal">E</mml:mtext><mml:msub><mml:mtext mathvariant="italic">D</mml:mtext><mml:mn>50</mml:mn></mml:msub></mml:mrow></mml:mfrac></mml:math></disp-formula>with E<sub>max</sub> and E<italic>D</italic>
+<sub>50</sub> corresponding to the maximum inhibition and 50% inhibition, respectively.</p><p>Statistical inferential analyses were conducted using SAS<sup>&#x000ae;</sup> version 9.1 (SAS institute Inc. Cary, NC, <styled-content style="fixed-case">USA</styled-content>) at the 0.05 level of significance.</p></sec></sec><sec id="bcp12900-sec-0014"><title>Results</title><sec id="bcp12900-sec-0015"><title>Safety/tolerability</title><p>No subjects reported a treatment&#x02010;emergent AE that led to treatment discontinuation. All TEAEs were mild in severity and transient in nature. No relevant differences in incidence or severity of AEs were observed between the treatment groups (see Tables&#x000a0;<xref rid="bcp12900-tbl-0001" ref-type="table-wrap">1</xref>, <xref rid="bcp12900-tbl-0002" ref-type="table-wrap">2</xref>).</p><table-wrap id="bcp12900-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Treatment&#x02010;emergent adverse events (TEAEs) reported by more than one subject at any single dose</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="." span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="." span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="." span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="." span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="." span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="bottom" colspan="1">
+<bold>System organ class adverse event</bold>
+</th><th rowspan="2" align="left" valign="bottom" colspan="1">
+<bold>Pooled placebo <italic>n</italic>&#x000a0;=&#x000a0;8</bold>
+</th><th colspan="4" align="center" valign="bottom" rowspan="1">
+<bold>GLPG0974</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>10&#x000a0;mg&#x000a0;<italic>n</italic>&#x000a0;=&#x000a0;6</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>30&#x000a0;mg&#x000a0;<italic>n</italic>&#x000a0;=&#x000a0;6</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>90&#x000a0;mg&#x000a0;<italic>n</italic>&#x000a0;=&#x000a0;6</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>250&#x000a0;mg&#x000a0;<italic>n</italic>&#x000a0;=&#x000a0;6</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>Any AE</italic></bold>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Gastrointestinal disorders</bold>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Nausea</bold>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Infections and infestations</bold>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Urethritis chlamydial</bold>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Renal and urinary disorders</bold>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Polyuria</bold>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Respiratory, thoracic and mediastinal disorders</bold>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Cough</bold>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Oropharyngeal pain</bold>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot><fn id="bcp12900-note-0001"><p>
+<italic>n</italic>&#x000a0;=&#x000a0;number of subjects with that observation.</p></fn></table-wrap-foot></table-wrap><table-wrap id="bcp12900-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Treatment&#x02010;emergent adverse events (TEAEs) reported by more than one subject in any of the repeated dose administration periods</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="bottom" colspan="1">
+<bold>System organ class adverse event</bold>
+</th><th rowspan="2" align="left" valign="bottom" colspan="1">
+<bold>Pooled placebo <italic>n</italic>&#x000a0;=&#x000a0;8</bold>
+</th><th colspan="4" align="center" valign="bottom" rowspan="1">
+<bold>GLPG0974</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>50&#x000a0;mg once daily <italic>n</italic>&#x000a0;=&#x000a0;6</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>100&#x000a0;mg once daily <italic>n</italic>&#x000a0;=&#x000a0;6</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>200&#x000a0;mg once daily <italic>n</italic>&#x000a0;=&#x000a0;6</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>200&#x000a0;mg twice daily <italic>n</italic>&#x000a0;=&#x000a0;6</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>Any AE</italic></bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Infections and infestations</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Nasopharyngitis</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Oral herpes</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Gastrointestinal disorders</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Diarrhea</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Abdominal discomfort</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Abdominal pain</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Dry mouth</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Gastro&#x02010;oesophageal reflux disease</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Nausea</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Nervous system disorders</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">2</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Headache</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<bold>&#x02022; Presyncope</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">2</td></tr></tbody></table><table-wrap-foot><fn id="bcp12900-note-0002"><p>
+<italic>n</italic>&#x000a0;=&#x000a0;number of subjects with this observation.</p></fn></table-wrap-foot></table-wrap><p>No clinically relevant changes in mean or median laboratory values were observed over time. One subject in the 200&#x000a0;mg twice daily group had an AE related to laboratory abnormalities. This subject had abnormal liver function test values (ALT and AST near to 2&#x02010;fold the upper limit of normal) by the end of the treatment period, which were reported as an AE considered possibly related to the study drug by the investigator. The liver function test returned to normal within 14&#x000a0;days after discontinuation of GLPG0974 intake.</p><p>Over all groups, no noteworthy effects were seen on vital signs, on ECGs or on physical examinations.</p><p>There were no statistically significant differences between the GLPG0974 treatment groups and the pooled placebo group in the glucose and insulin AUC values on day 14 relative to day &#x02212;1. There were also no statistically significant differences in the glucose and insulin AUC values between the different GLPG0974 treatment groups.</p></sec><sec id="bcp12900-sec-0016"><title>Pharmacokinetics</title><p>Mean plasma concentration&#x02013;time profiles of GLPG0974 are depicted in Figure&#x000a0;<xref rid="bcp12900-fig-0001" ref-type="fig">1</xref> and PK parameters are summarized in Tables&#x000a0;<xref rid="bcp12900-tbl-0003" ref-type="table-wrap">3</xref>, <xref rid="bcp12900-tbl-0004" ref-type="table-wrap">4</xref>.</p><fig fig-type="Figure" xml:lang="en" id="bcp12900-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Mean (&#x000b1;SE) plasma concentrations of GLPG0974 after the single (A) and repeated (B) administration of GLPG0974 given as oral solution (A) or capsules (B) to fed healthy male subjects (<italic>n</italic>&#x000a0;=&#x000a0;6 per dose group)</p></caption><graphic id="nlm-graphic-1" xlink:href="BCP-82-139-g001"/></fig><table-wrap id="bcp12900-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Pharmacokinetic parameters of GLP0974 after a single oral GLPG0974 dose as an oral solution to fed healthy subjects (<italic>n</italic>&#x000a0;=&#x000a0;6 per dose group)</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Dose (mg)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold><italic>C</italic></bold>
+<sub><bold>max</bold></sub>
+<bold>(&#x003bc;g&#x000a0;ml</bold>
+<sup><bold>&#x02212;1</bold></sup>
+<bold>)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold><italic>t</italic></bold>
+<sub><bold>max</bold></sub>
+<bold>(h)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>AUC(0,24&#x000a0;h) (&#x003bc;g&#x000a0;ml</bold>
+<sup><bold>&#x02212;1</bold></sup>&#x000a0;<bold>h)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>AUC(0,&#x0221e;) (&#x003bc;g&#x000a0;ml</bold>
+<sup><bold>&#x02212;1</bold></sup>&#x000a0;<bold>h)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold><italic>t</italic></bold>
+<sub><bold>1/2,&#x003bb;z</bold></sub>
+<bold>(h)</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>10</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.122 (13.5)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (2&#x02013;4)</td><td align="center" valign="top" rowspan="1" colspan="1">0.921 (12.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.984 (11.5)</td><td align="center" valign="top" rowspan="1" colspan="1">6.62 (17.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>30</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.362 (29.3)</td><td align="center" valign="top" rowspan="1" colspan="1">2.5 (2&#x02013;4)</td><td align="center" valign="top" rowspan="1" colspan="1">2.51 (18.7)</td><td align="center" valign="top" rowspan="1" colspan="1">2.67 (20.7)</td><td align="center" valign="top" rowspan="1" colspan="1">6.03 (14.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>90</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1.45 (34.8)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (3&#x02013;4)</td><td align="center" valign="top" rowspan="1" colspan="1">11.2 (21.3)</td><td align="center" valign="top" rowspan="1" colspan="1">12.3 (20.2)</td><td align="center" valign="top" rowspan="1" colspan="1">7.37 (9.20)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>250</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">3.56 (32.3)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (2&#x02013;6)</td><td align="center" valign="top" rowspan="1" colspan="1">26.3 (17.5)</td><td align="center" valign="top" rowspan="1" colspan="1">28.4 (18.2) <sup><italic>n</italic>=5</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">7.28 (11.9) <sup><italic>n</italic>=5</sup>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><sc>anova</sc></bold>
+<xref ref-type="fn" rid="bcp12900-note-0005">
+<bold>*</bold>
+</xref>
+<bold>(<italic>P</italic>&#x000a0;value)</bold>
+<styled-content style="fixed-case"><bold>Tukey's</bold></styled-content>
+<bold>test</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.0090</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.0047</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.0451</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.4480</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.1459</td><td align="center" valign="top" rowspan="1" colspan="1">
+<underline underline-style="single">30 10 250</underline> 90</td><td align="center" valign="top" rowspan="1" colspan="1">
+<underline underline-style="single">30 10 250</underline> 90</td><td align="center" valign="top" rowspan="1" colspan="1">
+<underline underline-style="single">30 10 250 90</underline>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;&#x02014;&#x02014;&#x02014;&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;&#x02014;&#x02014;&#x02014;&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="bcp12900-note-0003"><p>Estimates are expressed as arithmetic means (CV%) except median (range) for <italic>t</italic>
+<sub>max.</sub>
+</p></fn><fn id="bcp12900-note-0004"><p>AUC(0,24&#x000a0;h), AUC up to 24&#x000a0;h; AUC(0,&#x0221e;), AUC extrapolated up to infinity; <italic>C</italic>
+<sub>max</sub>, maximal plasma concentration; <italic>t</italic>
+<sub>max</sub>, time to reach <italic>C</italic>
+<sub>max</sub>; <italic>t</italic>
+<sub>1/2,&#x003bb;z</sub>, apparent terminal half&#x02010;life.</p></fn><fn id="bcp12900-note-0005"><label>*</label><p>
+Dose effect: <sc>anova</sc> performed on dose normalized parameters, except for <italic>t</italic>
+<sub>max</sub> and <italic>t</italic>
+<sub>1/2,&#x003bb;z</sub> &#x02010; <styled-content style="fixed-case">Tukey's</styled-content> test (pair comparison): means are sorted in ascending order, doses underlined with the same line are not statistically different.</p></fn></table-wrap-foot></table-wrap><table-wrap id="bcp12900-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Steady&#x02010;state pharmacokinetic parameters of GLPG0974 after once or twice daily oral doses as capsules to fed healthy subjects (<italic>n</italic>&#x000a0;=&#x000a0;6 per dose group)</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><col align="char" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" char="(" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Dose (mg)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Regimen</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold><italic>C</italic></bold>
+<sub><bold>max</bold></sub>
+<bold>(&#x003bc;g&#x000a0;ml</bold>
+<sup><bold>&#x02212;1</bold></sup>
+<bold>)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold><italic>t</italic></bold>
+<sub><bold>max</bold></sub>
+<bold>(h)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>AUC(0,&#x003c4;) (&#x003bc;g&#x000a0;ml</bold>
+<sup><bold>&#x02212;1</bold></sup>&#x000a0;<bold>h)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold><italic>t</italic></bold>
+<sub><bold>1/2,&#x003bb;z</bold></sub>
+<bold>(h)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Ae(0,&#x003c4;) (%)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>CL</bold>
+<sub><bold>R</bold></sub>
+<bold>(l&#x000a0;h</bold>
+<sup><bold>&#x02212;1</bold></sup>
+<bold>)</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">50</td><td align="left" valign="top" rowspan="1" colspan="1">Once daily</td><td align="center" valign="top" rowspan="1" colspan="1">0.695 (17.2)</td><td align="center" valign="top" rowspan="1" colspan="1">2.5 (1&#x02013;6)</td><td align="center" valign="top" rowspan="1" colspan="1">5.48 (31.4)</td><td align="center" valign="top" rowspan="1" colspan="1">5.46 (16.4)</td><td align="center" valign="top" rowspan="1" colspan="1">2.97 (36.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0.289 (45.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">100</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">1.58 (48.4)</td><td align="center" valign="top" rowspan="1" colspan="1">2.5 (1&#x02013;4)</td><td align="center" valign="top" rowspan="1" colspan="1">10.8 (21.4)</td><td align="center" valign="top" rowspan="1" colspan="1">5.42 (12.4)</td><td align="center" valign="top" rowspan="1" colspan="1">2.14 (35.4)</td><td align="center" valign="top" rowspan="1" colspan="1">0.209 (40.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">200</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">3.34 (42.7)</td><td align="center" valign="top" rowspan="1" colspan="1">3.0 (2&#x02013;4)</td><td align="center" valign="top" rowspan="1" colspan="1">21.4 (20.9)</td><td align="center" valign="top" rowspan="1" colspan="1">5.68 (13.1)</td><td align="center" valign="top" rowspan="1" colspan="1">1.91 (17.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0.186 (29.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">200</td><td align="left" valign="top" rowspan="1" colspan="1">Twice daily</td><td align="center" valign="top" rowspan="1" colspan="1">3.84 (27.3)</td><td align="center" valign="top" rowspan="1" colspan="1">3.0 (2&#x02013;4)</td><td align="center" valign="top" rowspan="1" colspan="1">19.4 (20.6)</td><td align="center" valign="top" rowspan="1" colspan="1">5.39 (10.6)<sup><italic>n</italic>=3</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">2.10 (35.8)</td><td align="center" valign="top" rowspan="1" colspan="1">0.217 (33.5)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">
+<sc>anova</sc>
+<xref ref-type="fn" rid="bcp12900-note-0008">*</xref> (<italic>P</italic>&#x000a0;value)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.2767</td><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.6605</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.9088</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.5531</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.2239</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x000a0;=&#x000a0;0.1860</td></tr></tbody></table><table-wrap-foot><fn id="bcp12900-note-0006"><p>Estimates are expressed as arithmetic means (CV%) except median (range) for <italic>t</italic>
+<sub>max.</sub>
+</p></fn><fn id="bcp12900-note-0007"><p>AUC(0,&#x003c4;) and Ae(0,&#x003c4;), AUC and amount excreted in urine over the dosing interval i.e. 12&#x000a0;h (twice daily) or 24&#x000a0;h (once daily); CL<sub>R</sub>; renal clearance; <italic>C</italic>
+<sub>max</sub>, maximal concentration; <italic>t</italic>
+<sub>max</sub>, time to reach the <italic>C</italic>
+<sub>max</sub>; <italic>t</italic>
+<sub><bold>1/2</bold>,&#x003bb;z</sub>, apparent terminal half&#x02010;life.</p></fn><fn id="bcp12900-note-0008"><label>*</label><p>
+Dose effect: <sc>anova</sc> performed on dose normalized parameters, except for <italic>t</italic>
+<sub>max</sub>, <italic>t</italic>
+<sub>1/2,&#x003bb;z)</sub> and CL<sub>R.</sub>
+</p></fn></table-wrap-foot></table-wrap><p>After single and repeated oral administration of GLPG0974 to healthy fed male subjects, GLPG0974 was rapidly absorbed with a median <italic>t</italic>
+<sub>max</sub> of 2.5&#x02013;3&#x000a0;h. Decrease in plasma concentrations of GLPG0974 displayed a multiphasic profile (see Figure&#x000a0;<xref rid="bcp12900-fig-0001" ref-type="fig">1</xref>A,B).</p><p>After single dosing, maximal plasma concentration (C<sub>max</sub>) increased dose proportionally over the entire dose range while a statistically significant dose effect was observed on the dose normalized exposure (AUC(0,&#x0221e;)/dose). However, pairwise comparison performed by <styled-content style="fixed-case">Tukey's</styled-content> test did not show ranking between doses. Therefore, it was concluded that AUCs increased dose proportionally within the 10 to 250&#x000a0;mg single dose range (Table&#x000a0;<xref rid="bcp12900-tbl-0003" ref-type="table-wrap">3</xref>).</p><p>After repeated dosing, steady&#x02010;state for GLPG0974 plasma concentrations were attained by day 2, regardless of dose and dose regimen (once daily or twice daily see Figure&#x000a0;<xref rid="bcp12900-fig-0002" ref-type="fig">2</xref>) without accumulation. At steady&#x02010;state, the plasma exposure (both <italic>C</italic>
+<sub>max</sub> and AUC over the 24&#x000a0;h time interval) increased dose proportionally over the 50 to 400&#x000a0;mg daily dose range (Table&#x000a0;<xref rid="bcp12900-tbl-0004" ref-type="table-wrap">4</xref>). The overall plasma terminal elimination half&#x02010;life was 5.3&#x000a0;h.</p><fig fig-type="Figure" xml:lang="en" id="bcp12900-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Mean (&#x000b1;SE) trough plasma concentrations of GLPG0974 after repeated dosing (<italic>C</italic>
+<sub>24h</sub> after once daily and <italic>C</italic>
+<sub>12h</sub> after twice daily dosing; <italic>n</italic>&#x000a0;=&#x000a0;6 per dose group)</p></caption><graphic id="nlm-graphic-3" xlink:href="BCP-82-139-g002"/></fig><p>Low amounts of GLPG0974 were excreted unchanged in urine (less than 3.0%). To the extent there was excretion of unchanged GLPG0974, this was rapid with 88% of the amount excreted within the first 12&#x000a0;h (data not shown). The renal clearance of GLPG0974 was about 0.23&#x000a0;l&#x000a0;h<sup>&#x02212;1</sup>.</p><p>Overall, the between&#x02010;subject variability of AUC and <italic>C</italic>
+<sub>max</sub> at steady&#x02010;state was low to moderate (between&#x02010;subject CV% range 17&#x02013;48%).</p><p>At the highest dose tested for the oral solution (250&#x000a0;mg) and the capsule (200&#x000a0;mg), the <italic>C</italic>
+<sub>max</sub> values were 3.56 and 3.34&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> and AUC(0,24 h) values were 26.3 and 21.4&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>&#x000a0;h (Tables&#x000a0;<xref rid="bcp12900-tbl-0003" ref-type="table-wrap">3</xref>, <xref rid="bcp12900-tbl-0004" ref-type="table-wrap">4</xref>). Although the doses of GLPG0974 administered were not exactly the same, the bioavailability could be considered as similar for GLPG0974 given as an oral solution or capsule.</p></sec><sec id="bcp12900-sec-0017"><title>Pharmacodynamics</title><p>In the single dose study, <italic>in vitro</italic> activity of GLPG0974 was evaluated in the blood of the subjects before GLPG0974 administration. The compound inhibited the CD11b activated epitope expression on neutrophils concentration&#x02010;dependently in all subjects, with an I<italic>C</italic>
+<sub>50</sub> of 483&#x000a0;&#x000b1;&#x000a0;286&#x000a0;n<sc>m</sc>, corresponding to 234&#x000a0;&#x000b1;&#x000a0;139&#x000a0;ng&#x000a0;ml<sup>&#x02212;1</sup>.</p><p>In the single dose study, target engagement was explored up to 8&#x000a0;h after administration of the 30, 90 and 250&#x000a0;mg doses, evaluating the inhibitory effect of GLPG0974 on the <italic>ex vivo</italic> sodium acetate&#x02010;induced CD11b activated epitope expression on neutrophils. GLPG0974 dose&#x02010;dependently inhibited the PD marker, from 1&#x02013;2&#x000a0;h post&#x02010;dose up to 8&#x000a0;h post&#x02010;dosing with maximal percentages of inhibition of 61%, 73% or 89%, respectively, compared with baseline. A clear relationship between GLPG0974 exposure and PD effect was observed.</p><p>In the multiple ascending dose study, the PD effects were evaluated more extensively. Figure&#x000a0;<xref rid="bcp12900-fig-0003" ref-type="fig">3</xref>A shows that a single administration of GLPG0974 (day 1) dose&#x02010;dependently inhibited sodium acetate&#x02010;induced expression of CD11b activated epitope on neutrophils. The average inhibition reached its maximum 4&#x000a0;h post&#x02010;dose with corresponding values ranging between 68% and 78% over the 50&#x02013;400&#x000a0;mg daily dose range. The PD effect was sustained for at least 12&#x000a0;h from the 100&#x000a0;mg dose onwards with inhibition ranging from 59% to 74%, while a decline of about half the maximum inhibition (31%) was observed at 50&#x000a0;mg once daily. Dose&#x02013;response effect of GLPG0974 clearly appeared 24&#x000a0;h post&#x02010;dose, with a marked dose&#x02010;dependent decrease in the inhibition of C11b activated epitope expression. Twice daily administration of GLPG0974 resulted in the maintenance of maximum inhibition of CD11b activated epitope expression in circulating neutrophils over 24&#x000a0;h. Average maximal percentages of inhibition were 70%, 76%, 82% and 93% for 50, 100, 200 mg once daily and 200&#x000a0;mg twice daily respectively.</p><fig fig-type="Figure" xml:lang="en" id="bcp12900-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Mean (&#x000b1;SE) percentages of inhibition of sodium acetate&#x02010;induced CD11b activated epitope in the whole blood of healthy subjects administered with GLPG0974 at 50&#x000a0;mg once daily (green curve), 100&#x000a0;mg once daily (red curve), 200&#x000a0;mg once daily (blue curve), 200&#x000a0;mg twice daily (purple curve) or with placebo (orange curve) (<italic>n</italic>&#x000a0;=&#x000a0;8 placebo; <italic>n</italic>&#x000a0;=&#x000a0;6 per dose group) A: day 1 B: day 13</p></caption><graphic id="nlm-graphic-5" xlink:href="BCP-82-139-g003"/></fig><p>At steady&#x02010;state (day 13, Figure&#x000a0;<xref rid="bcp12900-fig-0003" ref-type="fig">3</xref>B), a similar PD profile was observed as on day 1, with all doses of GLPG0974 inhibiting the C11b activated epitope expression on neutrophils. The maximal inhibition was obtained with the highest dose (200&#x000a0;mg once daily) showing a sustained PD effect for 12&#x000a0;h. The same dose given twice daily (200&#x000a0;mg twice daily) resulted in sustained inhibition of C11b activated epitope expression for 24&#x000a0;h. At pre&#x02010;dose (day 13), the groups receiving 200&#x000a0;mg GLPG0974, either once daily or twice daily, displayed a similar percentage inhibition as 24&#x000a0;h after start of the administration (day 1), indicating the target engagement is maintained at the same level over the 13&#x000a0;days treatment period. Average maximal percentages of inhibition were 66%, 66%, 95% and 94% for 50, 100, 200 mg once daily and 200&#x000a0;mg twice daily, respectively.</p><p>Overall a robust and sustained PD effect was observed with 200&#x000a0;mg twice daily GLPG0974, allowing a maximal inhibition of the target over 24&#x000a0;h.</p><p>In Figure&#x000a0;<xref rid="bcp12900-fig-0004" ref-type="fig">4</xref>, plasma concentrations of GLPG0974 are plotted against the percentage of CD11b activated epitope inhibition. The PK/PD analysis indicated that 50% inhibition was obtained at a plasma concentration of 238&#x000a0;ng&#x000a0;ml<sup>&#x02212;1</sup> (ED50), which was very similar to the IC<sub>50</sub> observed <italic>in vitro</italic> (234&#x000a0;ng&#x000a0;ml<sup>&#x02212;1</sup>). Inhibition of CD11b activated epitope activation on neutrophils plateaued at a plasma concentration of 1100 ng&#x000a0;ml<sup>&#x02212;1</sup>, which is close to the plasma concentrations observed 12&#x000a0;h after administration of 200&#x000a0;mg. As such 200&#x000a0;mg twice daily warrants a maximal inhibition of neutrophil activation for 24&#x000a0;h.</p><fig fig-type="Figure" xml:lang="en" id="bcp12900-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Correlation between the GLPG0974 plasma concentration and the percentage of CD11b activated epitope inhibition measured in whole blood of the same healthy subjects</p></caption><graphic id="nlm-graphic-7" xlink:href="BCP-82-139-g004"/></fig></sec></sec><sec id="bcp12900-sec-0018"><title>Discussion</title><p>The safety, PK and PD of GLPG0974 were evaluated over a wide dose range (10 to 400&#x000a0;mg) and different dosing regimens (once daily and twice daily) in healthy male subjects.</p><p>In healthy male subjects, single doses up to 250&#x000a0;mg and multiple dosing up to 400&#x000a0;mg daily of GLPG0974 for 14&#x000a0;days were generally safe and well tolerated. Overall, no noteworthy effects were seen on laboratory parameters, on vital signs or on ECGs. At the end of the 14&#x000a0;day dosing period one subject in the 200&#x000a0;mg twice daily cohort showed increased liver function test results up to near two&#x02010;fold of the upper limit of normal, which returned to normal within a fortnight after the end of GLPG0974 administration.</p><p>In the literature there is some debate on the role of FFA2 in the regulation of the energy balance explored <italic>in vivo</italic> in FFA2 knock&#x02010;out mice <xref rid="bcp12900-bib-0023" ref-type="ref">23</xref>, <xref rid="bcp12900-bib-0024" ref-type="ref">24</xref>, <xref rid="bcp12900-bib-0025" ref-type="ref">25</xref>. On the one hand, obesity, impaired systemic insulin sensitivity and glucose tolerance with reduced insulin and (GLP)&#x02010;1 levels were reported in FFA2<sup>&#x02212;/&#x02212;</sup> mice <xref rid="bcp12900-bib-0024" ref-type="ref">24</xref>, <xref rid="bcp12900-bib-0027" ref-type="ref">27</xref>. On the other hand, FFA2 deficiency improved insulin sensitivity and glucose tolerance and protected against HFD&#x02010;induced obesity and dyslipidaemia <xref rid="bcp12900-bib-0025" ref-type="ref">25</xref>. As such an oral glucose tolerance test was performed to evaluate the potential effect of GLPG0974 on glucose homeostasis in man. Up to the highest dose tested, GLPG0974 had no effect on the glucose and insulin concentrations, suggesting that the compound has no negative impact on glucose homeostasis, which should be further corroborated in larger follow&#x02010;up trials.</p><p>After oral administration, GLPG0974 was rapidly absorbed with peak plasma concentrations reached between 2 and 4&#x000a0;h. The apparent elimination half&#x02010;life ranged between 5 and 7&#x000a0;h. Given this moderate elimination half&#x02010;life, a twice daily dosing regimen may be considered to ensure a sustained and maximal PD effect over a 24&#x000a0;h period. Approximately 3% of GLPG0974 was excreted unchanged in urine, suggesting metabolism to be the primary route of elimination of GLPG0974. At steady&#x02010;state, the exposure to GLPG0974 increased in proportion to the dose over the 50&#x02013;400&#x000a0;mg daily dose range. Although the initial GLPG0974 oral solution did show sufficient bioavailability to trigger a PD effect, an oral solid dosage form (i.e. capsule) was envisaged and tested during the multiple ascending dose study. Identical doses were not tested with the two formulations (90 and 250&#x000a0;mg for the oral solution and 100 and 200&#x000a0;mg for the capsule). However given the absence of a difference in the PK of GLPG0974 at very close doses (90 and 100&#x000a0;mg or 200 and 250&#x000a0;mg), it could be concluded that the bioavailability of GLPG0974 given as a capsule or oral solution to fed healthy subjects was similar. These data suggest that the disposition of GLPG0974 administered in the fed state not to be limited by drug dissolution.</p><p>In human whole blood, GLPG0974 potently inhibits the acetate&#x02010;induced expression of activated CD11b (CD11b activated epitope) on neutrophils, <italic>in vitro</italic> as well as <italic>ex vivo</italic>. CD11b forms together with CD18 the membrane activated complex&#x02010;1 (Mac&#x02010;1), a cell surface receptor. Through interaction with ICAM&#x02010;1, MAC&#x02010;1 mediates firm adhesion and arrest of neutrophils on endothelium, an essential step in neutrophil extravasation, leading to neutrophil migration into tissues at foci of inflammation and infection. For interaction with ICAM&#x02010;1, a conformational change of CD11b (CD11b activation&#x02010;specific epitope) is needed. Different inflammatory stimuli upregulate CD11b activated epitope expression which is considered a more relevant marker of neutrophil activation in blood than the total CD11b level <xref rid="bcp12900-bib-0027" ref-type="ref">27</xref>, <xref rid="bcp12900-bib-0028" ref-type="ref">28</xref>. The current studies corroborate further the potential of CD11b activated epitope as a biomarker for neutrophil activation in a clinical setting. <italic>Ex vivo</italic> measurement of acetate&#x02010;induced CD11b activated epitope in whole blood clearly indicates target engagement by GLPG0974 after single as well as multiple oral doses. A rapid and substantial inhibition is observed with all doses, in line with the PK profile. A dose&#x02013;response effect is observed, best exemplified in the maintenance of inhibition obtained over time (after <italic>t</italic>
+<sub>max</sub>). A dose of 200&#x000a0;mg twice daily results in a robust and maximal inhibition of the biomarker during 24&#x000a0;h. At steady&#x02010;state (day 13), inhibition levels at predose are in the same range as 24&#x000a0;h after the first dose (day 1) and the inhibition profiles over time are similar to the profiles at day 1 after <italic>t</italic>
+<sub>max</sub>, indicative for a sustained effect of GLPG0974 on the target receptor, without inducing tachyphylaxis. These data are further corroborated by the good PK/PD relationship observed between GLPG0974 plasma concentrations and inhibition of neutrophil biomarker expression. Inhibition of CD11b activated epitope activation on neutrophils plateaued at a plasma concentration of 1100&#x000a0;ng&#x000a0;ml<sup>&#x02212;1</sup>, further substantiating that at 200&#x000a0;mg twice daily GLPG0974 maximal target engagement is maintained for 24&#x000a0;h.</p><p>The data presented here show that GLPG0974 is safe and well&#x02010;tolerated up to a daily dose of 400&#x000a0;mg. Twice daily 200&#x000a0;mg dosing leads to sufficiently high GLPG0974 plasma concentrations to inhibit SCFA&#x02010;induced GPR43 activity on neutrophil activation for 24&#x000a0;h. One of the hallmarks of IBD is the invasion of activated neutrophils in the inflamed gut. Due to the high level of SCFA produced in the gut, it is tempting to consider GLPG0974 as a potential candidate molecule to inhibit neutrophil activation and subsequent recruitment in the gut, thus potentially impacting positively pathologies involving gut inflammation, such as IBD. Based on these results, a proof&#x02010;of&#x02010;concept study is being performed to evaluate the safety, tolerability and efficacy of 200&#x000a0;mg twice daily. GLPG0974 in patients with mild to moderate ulcerative colitis.</p></sec><sec id="bcp12900-sec-0019"><title>Competing Interests</title><p>All authors have completed the Unified Competing Interest form at <ext-link ext-link-type="uri" xlink:href="http://www.icmje.org/coi_disclosure.pdf">www.icmje.org/coi_disclosure.pdf</ext-link> (available on request from the corresponding author) and declare no support from any organization for the submitted work, no financial relationships with any organizations that might have an interest in the submitted work in the previous 3&#x000a0;years and no other relationships or activities that could appear to have influenced the submitted work.</p><p>
+<italic>The authors would like to acknowledge Dr M. Petkova and W. Haazen and their study teams from SGS Life Science Services Clinical Pharmacology Unit (<styled-content style="fixed-case">Antwerpen</styled-content>, <styled-content style="fixed-case">Belgium</styled-content>) for conducting these studies, Mr D. Polancec from Fidelta (<styled-content style="fixed-case">Zagreb</styled-content>, <styled-content style="fixed-case">Croatia</styled-content>) and D. Van Bockstaele from Laboratory Corporation of <styled-content style="fixed-case">America</styled-content> Holdings/LabCorp Clinical Trials (Mechelen, <styled-content style="fixed-case">Belgium</styled-content>), for the development and application of the flow cytometry method for the PD assay, Ms L. Allamassey from <styled-content style="fixed-case">Galapagos</styled-content> NV for the PK/PD analysis and Mr M. Boterman and A. Muntendam from Analytical Biochemical Laboratory (Assen, The Netherlands) for plasma and urine samples analysis.</italic>
+</p></sec></body><back><ref-list id="bcp12900-bibl-0001" content-type="cited-references"><title>References</title><ref id="bcp12900-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="bcp12900-cit-0002">
+<string-name>
+<surname>Cummings</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Pomare</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name>
+<surname>Branch</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Naylor</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Macfarlane</surname>
+<given-names>GT</given-names>
+</string-name>. <article-title>Short chain fatty acids in human large intestine, portal, hepatic and venous blood</article-title>. <source>Gut</source>
+<year>1987</year>; <volume>28</volume>: <fpage>1221</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">3678950</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="bcp12900-cit-0003">
+<string-name>
+<surname>Pouteau</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ball&#x000e8;vre</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Krempf</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Production rates and metabolism of short chain fatty acids in the colon and whole body using stable isotopes</article-title>. <source>Proc Nutr Soc</source>
+<year>2003</year>; <volume>62</volume>: <fpage>87</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">12740063</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="bcp12900-cit-0004">
+<string-name>
+<surname>Le Poul</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Loison</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Struyf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Springael</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Lannoy</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Decobecq</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Brezillon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dupriez</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Vassart</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Van Damme</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Parmentier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Detheux</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Functional characterization of human receptors for short chain fatty acids and their role in polymorphonuclear cell activation</article-title>. <source>J Biol Chem</source>
+<year>2003</year>; <volume>278</volume>: <fpage>25481</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">12711604</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="bcp12900-cit-0005">
+<string-name>
+<surname>Cavaglieri</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Nishiyama</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fernandes</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Curi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Miles</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Calder</surname>
+<given-names>PC</given-names>
+</string-name>. <article-title>Differential effects of short chain fatty acids on proliferation and production of pro&#x02010; and anti&#x02010;inflammatory cytokines by cultured lymphocytes</article-title>. <source>Life Sci</source>
+<year>2003</year>; <volume>73</volume>: <fpage>1683</fpage>&#x02013;<lpage>960</lpage>.<pub-id pub-id-type="pmid">12875900</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="bcp12900-cit-0006">
+<string-name>
+<surname>Vinolo</surname>
+<given-names>MAR</given-names>
+</string-name>, <string-name>
+<surname>Rodrigues</surname>
+<given-names>HG</given-names>
+</string-name>, <string-name>
+<surname>Hatanaka</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hebeda</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Farsky</surname>
+<given-names>SHP</given-names>
+</string-name>, <string-name>
+<surname>Curi</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Short chain fatty acids stimulate the migration of neutrophils to inflammatory sites</article-title>. <source>Clin Sci</source>
+<year>2009</year>; <volume>117</volume>: <fpage>331</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">19335337</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="bcp12900-cit-0007">
+<string-name>
+<surname>Brown</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Goldsworthy</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Barnes</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Eilert</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Tcheang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Daniels</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Muir</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Wigglesworth</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Kinghorn</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Fraser</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Pike</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name>
+<surname>Strum</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Steplewski</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Murdock</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Holder</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>Szekeres</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ignar</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Foord</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Wise</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dowell</surname>
+<given-names>SJ</given-names>
+</string-name>. <article-title>The orphan G protein&#x02010;coupled receptors GPR41 and GPR43 are activated by propionate and other short chain carboxylic acids</article-title>. <source>J Biol Chem</source>
+<year>2003</year>; <volume>278</volume>: <fpage>11312</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">12496283</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="bcp12900-cit-0008">
+<string-name>
+<surname>Nilsson</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Kotarsky</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Owman</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Olde</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Identification of a free fatty acid receptor, FFA2R, expressed on leukocytes and activated by short&#x02010;chain fatty acids</article-title>. <source>Biochem Biophys Res Commun</source>
+<year>2003</year>; <volume>303</volume>: <fpage>1047</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">12684041</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="bcp12900-cit-0009">
+<string-name>
+<surname>Tazoe</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Otomo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kaji</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Karaki</surname>
+<given-names>SI</given-names>
+</string-name>, <string-name>
+<surname>Kuwahara</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Roles of short&#x02010;chain fatty acids receptors, GPR41 and GPR43 on colonic functions</article-title>. <source>J Physiol Pharmacol</source>
+<year>2008</year>; <volume>59</volume>: <fpage>251</fpage>&#x02013;<lpage>62</lpage>.</mixed-citation></ref><ref id="bcp12900-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="bcp12900-cit-0010">
+<string-name>
+<surname>Karaki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tazoe</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hayashi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kashiwabara</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tooyama</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kuwahara</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Expression of the short&#x02010;chain fatty acid receptor, GPR43, in the human colon</article-title>. <source>J Mol Histol</source>
+<year>2008</year>; <volume>39</volume>: <fpage>135</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">17899402</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="bcp12900-cit-0011">
+<string-name>
+<surname>Hong</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Nishimura</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hishikawa</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tsuzuki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Miyahara</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gotoh</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HG</given-names>
+</string-name>, <string-name>
+<surname>Katoh</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Roh</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Acetate and propionate short chain fatty acids stimulate adipogenesis via GPCR43</article-title>. <source>Endocrinology</source>
+<year>2005</year>; <volume>146</volume>: <fpage>5092</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">16123168</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="bcp12900-cit-0012">
+<string-name>
+<surname>Aoyama</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kotani</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Usami</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Butyrate and propionate induced activated or nonactivated neutrophil apoptosis via <styled-content style="fixed-case">HDAC</styled-content> inhibitor activity but without activating GPR&#x02010;41/GPR&#x02010;43 pathways</article-title>. <source>Nutrition</source>
+<year>2010</year>; <volume>26</volume>: <fpage>653</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">20004081</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="bcp12900-cit-0013">
+<string-name>
+<surname>Vinolo</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Kulkarni</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>SCFAs induce mouse neutrophil chemotaxis through the GPR43 receptor</article-title>. <source>PLoS One</source>
+<year>2011</year>; <volume>6</volume>: e21205.</mixed-citation></ref><ref id="bcp12900-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="bcp12900-cit-0014">
+<string-name>
+<surname>Maslowski</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Vieira</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kranich</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sierro</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Schilter</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Rolph</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Mackay</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Artis</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Xavier</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Teixeira</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Mackay</surname>
+<given-names>CR</given-names>
+</string-name>. <article-title>Regulation of inflammatory responses by gut microbiota and chemoattractant receptor GPR43</article-title>. <source>Nature</source>
+<year>2009</year>; <volume>461</volume>: <fpage>1282</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">19865172</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="bcp12900-cit-0015">
+<string-name>
+<surname>Witko&#x02010;Sarsat</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Rieu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Descamps&#x02010;Latscha</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lesavre</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Halbwachs&#x02010;Mecarelli</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Neutrophils: molecules, functions and pathophysiological aspects</article-title>. <source>Lab Invest</source>
+<year>2000</year>; <volume>80</volume>: <fpage>617</fpage>&#x02013;<lpage>53</lpage>.<pub-id pub-id-type="pmid">10830774</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="bcp12900-cit-0016">
+<string-name>
+<surname>Pizzonero</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dupont</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Babel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Beaumont</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bienvenu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Blanqu&#x000e9;</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cherel</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Christophe</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Crescenzi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>De Lemos</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Delerive</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Deprez</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>De Vos</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Djata</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fletcher</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kopiejewski</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>L'Ebraly</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lefran&#x000e7;ois</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Lavazais</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Manioc</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nelles</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Oste</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Polancec</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Qu&#x000e9;n&#x000e9;hen</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Soulas</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Triballeau</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>van der Aar</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Vandeghinste</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Wakselman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Brys</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Saniere</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Discovery and optimization of an azetidine chemical series as a free fatty acid receptor 2 (FFA2) antagonist: from hit to clinic</article-title>. <source>J Med Chem</source>
+<year>2014</year>; <volume>57</volume>: <fpage>10044</fpage>&#x02013;<lpage>57</lpage>.<pub-id pub-id-type="pmid">25380412</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="bcp12900-cit-0017">
+<string-name>
+<surname>Niederman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kashket</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Short&#x02010;chain carboxylic&#x02010;acid&#x02010;stimulated, PMN&#x02010;mediated gingival inflammation</article-title>. <source>Crit Rev Oral Biol Med</source>
+<year>1997</year>; <volume>8</volume>: <fpage>269</fpage>&#x02013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">9260044</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="bcp12900-cit-0018">
+<string-name>
+<surname>Sina</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gavrilova</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>F&#x000f6;rster</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Till</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Derer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hildebrand</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Raabe</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Chalaris</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scheller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rehmann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Franke</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ott</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e4;sler</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nikolaus</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>F&#x000f6;lsch</surname>
+<given-names>UR</given-names>
+</string-name>, <string-name>
+<surname>Rose&#x02010;John</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schreiber</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rosenstiel</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>G protein&#x02010;coupled receptor 43 is essential for neutrophil recruitment during intestinal inflammation</article-title>. <source>J Immunol</source>
+<year>2009</year>; <volume>183</volume>: <fpage>7514</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">19917676</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="bcp12900-cit-0019">
+<string-name>
+<surname>Masui</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Funaki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ogasawara</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Mizuno</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Iida</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Izawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kondo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tamura</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yanamoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Noda</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tanabe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Okaniwa</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Yamaguchi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Iwamoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kasugai</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>G protein&#x02010;coupled receptor 43 moderates gut inflammation through cytokine regulation from mononuclear cells</article-title>. <source>Inflamm Bowel Dis</source>
+<year>2013</year>; <volume>19</volume>: <fpage>2848</fpage>&#x02013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">24141712</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="bcp12900-cit-0020">
+<string-name>
+<surname>Kim</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Yanagisawa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Short&#x02010;chain fatty acids activate GPR41 and GPR43 on intestinal epithelial cells to promote inflammatory responses in mice</article-title>. <source>Gastroenterology</source>
+<year>2013</year>; <volume>145</volume>: <fpage>396</fpage>&#x02013;<lpage>406</lpage>.<pub-id pub-id-type="pmid">23665276</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="bcp12900-cit-0021">
+<string-name>
+<surname>Blad</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Offermanns</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>G protein&#x02010;coupled receptors for energy metabolites as new therapeutic targets</article-title>. <source>Nat Rev Drug Discov</source>
+<year>2012</year>; <volume>11</volume>: <fpage>603</fpage>&#x02013;<lpage>19</lpage>.<pub-id pub-id-type="pmid">22790105</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="bcp12900-cit-0022">
+<string-name>
+<surname>Ge</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Weiszmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Baribault</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Activation of G protein&#x02010;coupled receptor 43 in adipocytes leads to inhibition of lipolysis and suppression of plasma free fatty acids</article-title>. <source>Endocrinology</source>
+<year>2008</year>; <volume>149</volume>: <fpage>4519</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">18499755</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="bcp12900-cit-0023">
+<string-name>
+<surname>Zaibi</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Stocker</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>O'Dowd</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bellahcene</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cawthorne</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Arch</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Roles of GPR41 and GPR43 in leptin secretory responses of murine adipocytes to short chain fatty acids</article-title>. <source>FEBS Lett</source>
+<year>2010</year>; <volume>584</volume>: <fpage>2381</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">20399779</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="bcp12900-cit-0024">
+<string-name>
+<surname>Tolhurst</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Heffron</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lam</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Habib</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Diakogiannaki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Grosse</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Reimann</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gribble</surname>
+<given-names>FM</given-names>
+</string-name>. <article-title>Short&#x02010;chain fatty acids stimulate glucagon&#x02010;like peptide&#x02010;1 secretion via the G&#x02010;protein&#x02010;coupled receptor FFAR2</article-title>. <source>Diabetes</source>
+<year>2012</year>; <volume>61</volume>: <fpage>364</fpage>&#x02013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">22190648</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="bcp12900-cit-0025">
+<string-name>
+<surname>Kimura</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ozawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Imamura</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kimura</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Maeda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Terasawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kashihara</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hirano</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tani</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Miyauchi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shioi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tsujimoto</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The gut microbiota suppresses insulin&#x02010;mediated fat accumulation via the short chain fatty acid receptor GPR43</article-title>. <source>Nat Commun</source>
+<year>2013</year>; <volume>4</volume>: <fpage>1829</fpage>.<pub-id pub-id-type="pmid">23652017</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="bcp12900-cit-0026">
+<string-name>
+<surname>Bjursell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Admyre</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f6;ransson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marley</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Oscarsson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bohlooly</surname>
+<given-names>YM</given-names>
+</string-name>. <article-title>Improved glucose control and reduced body fat mass in free fatty acid receptor 2&#x02010;deficient mice fed a high&#x02010;fat diet</article-title>. <source>Am J Physiol Endocrinol Metab</source>
+<year>2011</year>; <volume>00</volume>: <fpage>E211</fpage>&#x02013;<lpage>20</lpage>.</mixed-citation></ref><ref id="bcp12900-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="bcp12900-cit-0027">
+<string-name>
+<surname>Polancec</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Vrancic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dupont</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Oreskovic</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Erakovic Haber</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Flow cytometric measurement of the CD11b Activated Epitope [AE] expression on human neutrophils in whole blood as a tool in drug development</article-title>. <source>Cyto</source>
+<year>2013</year>.</mixed-citation></ref><ref id="bcp12900-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="bcp12900-cit-0028">
+<string-name>
+<surname>Orr</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Cartland</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bannon</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Geczy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kritharides</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Conformational activation of C11b without shedding of L&#x02010;selectin on circulating human neutrophils</article-title>. <source>J Leukoc Biol</source>
+<year>2007</year>; <volume>82</volume>: <fpage>1115</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">17675559</pub-id></mixed-citation></ref><ref id="bcp12900-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="bcp12900-cit-0029">
+<string-name>
+<surname>Zarbock</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ley</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Neutrophil adhesion and activation under flow</article-title>. <source>Microcirculation</source>
+<year>2009</year>; <volume>16</volume>: <fpage>31</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">19037827</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,501 @@
+<?xml-model href="http://dtd.nlm.nih.gov/publishing/3.0/rng/journalpublishing3.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bone Joint J</journal-id><journal-id journal-id-type="iso-abbrev">Bone Joint J</journal-id><journal-title-group><journal-title>The Bone &#x00026; Joint Journal</journal-title></journal-title-group><issn pub-type="ppub">2049-4394</issn><issn pub-type="epub">2049-4408</issn><publisher><publisher-name>British Editorial Society of Bone and Joint Surgery</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28663395</article-id><article-id pub-id-type="pmc">5633832</article-id><article-id pub-id-type="doi">10.1302/0301-620X.99B7.BJJ-2016-0767.R2</article-id><article-id pub-id-type="publisher-id">BJJ-2016-0767.R2</article-id><article-categories><subj-group subj-group-type="heading"><subject>Knee</subject></subj-group><subj-group subj-group-type="hwp-journal-coll"><subject>2</subject></subj-group><subj-group subj-group-type="search-keyword"><subject>Total Knee Arthroplasty</subject><subject>Periarticular Infiltration</subject><subject>Femoral Nerve Block</subject><subject>Randomised Controlled Trial</subject></subj-group></article-categories><title-group><article-title>A pragmatic randomised controlled trial comparing the efficacy of a
+femoral nerve block and periarticular infiltration for early pain relief following
+total knee arthroplasty</article-title></title-group><contrib-group><contrib id="c1" contrib-type="author"><name><surname>Wall</surname><given-names>P. D. H.</given-names></name><degrees>FRCS (Orth), PhD</degrees><role>Clinical Lecturer in Trauma and Orthopaedics, Warwick Clinical Trials Unit,
+Warwick Medical School, Coventry, CV4 7AL, UK and</role><xref ref-type="aff" rid="a1">1</xref></contrib><contrib id="c3" contrib-type="author"><name><surname>Parsons</surname><given-names>N. R.</given-names></name><degrees>BSc MSc PhD </degrees><role>Statistician, Statistics and Epidemiology Unit</role><xref ref-type="aff" rid="a3">3</xref></contrib><contrib id="c4" contrib-type="author"><name><surname>Parsons</surname><given-names>H.</given-names></name><degrees>PhD</degrees><role>Senior Research Fellow, Warwick Clinical Trials Unit</role><xref ref-type="aff" rid="a3">3</xref></contrib><contrib id="c5" contrib-type="author"><name><surname>Achten</surname><given-names>J.</given-names></name><degrees>MSc, PhD</degrees><role>Research Manager Oxford Trauma</role><xref ref-type="aff" rid="a5">4</xref></contrib><contrib id="c6" contrib-type="author"><name><surname>Balasubramanian</surname><given-names>S.</given-names></name><degrees>MBBS, MD, MSc, FRCA, FFPMRCA</degrees><role>Anaesthetic Consultant and Specialist in Pain Management</role><xref ref-type="aff" rid="a2">2</xref></contrib><contrib id="c7" contrib-type="author"><name><surname>Thompson</surname><given-names>P.</given-names></name><degrees>FRCS (Orth)</degrees><role>Trauma and Orthopaedic Consultant</role><xref ref-type="aff" rid="a2">2</xref></contrib><contrib id="c8" contrib-type="author"><name><surname>Costa</surname><given-names>M. L.</given-names></name><degrees>FRCS (Orth), PhD</degrees><role>Professor of Orthopaedic Trauma, Warwick Clinical Trials Unit, Warwick Medical
+School, Coventry, CV4 7AL, UK and</role><xref ref-type="aff" rid="a8">5</xref></contrib><aff id="a1"><label>1</label>University Hospitals Coventry and Warwickshire NHS Trust,
+Coventry, CV2 2DX, UK.</aff><aff id="a2"><label>2</label>University Hospitals Coventry and Warwickshire NHS Trust,
+Coventry, CV2 2DX, UK.</aff><aff id="a3"><label>3</label>Warwick Medical School, Coventry, CV4 7AL, UK.</aff><aff id="a5"><label>4</label>Warwick Clinical Trials Unit, Warwick Medical School,
+Coventry, CV4 7AL and NDORMs, Oxford University, Oxford, OX3 7LD, UK.</aff><aff id="a8"><label>5</label>NDORMs, Oxford University, Oxford, OX3 7LD, UK.</aff></contrib-group><author-notes><corresp>Correspondence should be sent to P. D. H. Wall; email:
+<email>p.d.h.wall@warwick.ac.uk</email></corresp></author-notes><pub-date pub-type="collection"><month>7</month><year>2017</year></pub-date><pub-date pub-type="epub"><day>01</day><month>7</month><year>2017</year></pub-date><volume>99-B</volume><issue>7</issue><fpage>904</fpage><lpage>911</lpage><history><date date-type="received"><day>03</day><month>8</month><year>2016</year></date><date date-type="accepted"><day>10</day><month>3</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9;2017 Wall et al</copyright-statement><license license-type="open-access"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons (CC-BY) license, which permits copying and redistributing the material in
+any medium or format, remixing, transforming and building upon the material for
+any purpose, even commercially, provided the original author and source are
+credited, and changes made are indicated. This may be done in a reasonable manner,
+but not in any way that suggests the licensor endorses you or your
+use.</license-p></license></permissions><abstract><sec><title>Aims</title><p>The aim of this study was to compare the effectiveness of a femoral nerve block
+and a periarticular infiltration in the management of early post-operative pain
+after total knee arthroplasty (TKA).</p></sec><sec><title>Patients and Methods</title><p>A pragmatic, single centre, two arm parallel group, patient blinded, randomised
+controlled trial was undertaken. All patients due for TKA were eligible. Exclusion
+criteria included contraindications to the medications involved in the study and
+patients with a neurological abnormality of the lower limb. Patients received
+either a femoral nerve block with 75 mg of 0.25% levobupivacaine hydrochloride
+around the nerve, or periarticular infiltration with 150 mg of 0.25%
+levobupivacaine hydrochloride, 10 mg morphine sulphate, 30 mg ketorolac trometamol
+and 0.25 mg of adrenaline all diluted with 0.9% saline to make a volume of 150
+ml.</p></sec><sec><title>Results</title><p>A total of 264 patients were recruited and data from 230 (88%) were available for
+the primary analysis. Intention-to-treat analysis of the primary outcome measure
+of a visual analogue score for pain on the first post-operative day, prior to
+physiotherapy, was similar in both groups. The mean difference was -0.7 (95%
+confidence interval (CI) -5.9 to 4.5; p = 0.834). The periarticular group used
+less morphine in the first post-operative day compared with the femoral nerve
+block group (74%, 95% CI 55 to 99). The femoral nerve block group reported 39
+adverse events, of which 27 were serious, in 31 patients and the periarticular
+group reported 51 adverse events, of which 38 were serious, in 42 patients up to
+six weeks post-operatively. None of the adverse events were directly attributed to
+either of the interventions under investigation.</p></sec><sec><title>Conclusion </title><p>Periarticular infiltration is a viable and safe alternative to femoral nerve block
+for the early post-operative relief of pain following TKA.</p><p>Cite this article: <italic>Bone Joint J</italic> 2017;99-B:904&#x02013;11.</p></sec></abstract><kwd-group><kwd>Total knee arthroplasty</kwd><kwd>Periarticular infiltration</kwd><kwd>Femoral nerve block</kwd><kwd>Randomised controlled trial</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>odf2nlm-version</meta-name><meta-value>1.0</meta-value></custom-meta><custom-meta><meta-name>price</meta-name><meta-value>$2.00</meta-value></custom-meta><custom-meta><meta-name>principal-institution</meta-name><meta-value>Warwick Clinical Trials Unit, Warwick, United Kingdom</meta-value></custom-meta><custom-meta><meta-name>article-type</meta-name><meta-value>Knee</meta-value></custom-meta><custom-meta><meta-name>coi-statement</meta-name><meta-value>None declared</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>About 93 000 total knee arthroplasties (TKAs) were performed by surgeons in the NHS in the
+United Kingdom in 2014; a 200% increase since 2004.<sup><xref rid="r1" ref-type="bibr">1</xref></sup> There may be severe pain in the early post-operative period after
+this operation.<sup><xref rid="r2" ref-type="bibr">2</xref></sup> A femoral nerve block, as
+a single routine peri-operative infiltration of local anaesthetic, improves the control of
+pain and reduces the need for systemic analgesics such as opiates.<sup><xref rid="r2" ref-type="bibr">2</xref>,<xref rid="r3" ref-type="bibr">3</xref></sup>
+However, it does not provide analgesic effects to the posterior aspect of the knee joint,
+which is supplied by the sciatic nerve, and so pain relief is often incomplete. A femoral
+nerve block may occasionally be associated with serious complications, including damage to
+the adjacent major blood vessels and to the nerve itself.<sup><xref rid="r2" ref-type="bibr">2</xref></sup> It also temporally impairs quadriceps muscle function leading
+to limited extension of the knee and falls post-operatively.<sup><xref rid="r2" ref-type="bibr">2</xref>,<xref rid="r4" ref-type="bibr">4</xref></sup> Alternative analgesic
+regimes include an adductor canal block, but this also does not provide analgesic effects
+to the back of the knee.<sup><xref rid="r5" ref-type="bibr">5</xref></sup></p><p>A popular alternative approach is the intra-operative periarticular infiltration of
+analgesic agents including local anaesthetics, opiates and non-steroidal anti-inflammatory
+drugs, which may be delivered directly to the sources of pain, reducing the risk of
+systemic side effects.<sup><xref rid="r6" ref-type="bibr">6</xref></sup> Periarticular
+infiltration can be administered by the operating surgeon without specialist equipment,
+compared with a femoral nerve block which requires ultrasound or a nerve stimulator or both
+to be administered safely. Periarticular infiltration does not inhibit quadriceps function
+and can provide analgesia to the whole of the knee joint.<sup><xref rid="r2" ref-type="bibr">2</xref></sup> However, there is little evidence to support its routine use
+in the management of early post-operative pain.<sup><xref rid="r2" ref-type="bibr">2</xref>,<xref rid="r7" ref-type="bibr">7</xref>,<xref rid="r8" ref-type="bibr">8</xref></sup></p><p>We report a randomised controlled trial (RCT) comparing the use of a femoral nerve block
+and periarticular infiltration in patients undergoing TKA to establish the most effective
+management of early post-operative pain.</p><sec sec-type="methods"><title>Patients and Methods</title><p>This was a single centre, two arm parallel group RCT undertaken at the University
+Hospitals Coventry and Warwickshire NHS Trust, Hospital of St. Cross, Rugby. Patients
+were recruited between December 2013 and October 2015. All those undergoing primary
+unilateral TKA were eligible. Exclusion criteria were:</p><p>- concomitant medical or psychiatric problems which would interfere with treatment or
+follow-up;</p><p>- a neurological abnormality in the ipsilateral leg, e.g. history of stroke, neurogenic
+pain or previous nerve pain;</p><p>- a specific contraindication to the analgesic agents used;</p><p>- participation in a clinical trial involving a pharmaceutical product during the
+previous 90 days;</p><p>- previous entry in the present trial;</p><p>- an inability to adhere to any procedure involved in the trial.</p><p>Patients were allocated to treatment by a remote telephone 1:1 randomisation service
+using a computer-generated schedule with randomised blocks and stratified by type of
+anaesthetic (general or spinal). The sizes of the blocks were randomly chosen to ensure
+concealment. Randomisation was undertaken by an independent member of the operating
+theatre staff on the day of surgery after a spinal anaesthetic with sedation or a
+general anaesthetic had been administered.</p><p>All patients attended a routine pre-operative TKA education class. Unless
+contraindicated, they were given gabapentin as premedication and received either a
+spinal anaesthetic with sedation or a general anaesthetic. After randomisation, they
+were allocated to receive either femoral nerve block or periarticular infiltration. The
+femoral nerve block technique involved identification of the femoral nerve below the
+inguinal ligament using nerve stimulation and/or ultrasound, according to the
+anaesthetist&#x02019;s normal practice, and infiltration of 75 mg of 0.25% levobupivacaine
+hydrochloride around the nerve. Periarticular infiltration involved 150 mg of 0.25%
+levobupivacaine hydrochloride, 10 mg morphine sulphate, 30 mg ketorolac trometamol and
+0.25 mg of adrenaline, all diluted with 0.9% saline to make a volume of 150 ml. This was
+infiltrated into the skin and soft tissues of the knee by the surgeon. The zones of
+infiltration included the medial, lateral, suprapatellar and posterior soft tissues.
+Surgeons were advised to infiltrate roughly equal quantities to all four zones.</p><p>The remainder of the operation was performed according to the surgeons&#x02019; routine
+practice. All patients followed the same routine post-operative pathway unless they had
+specific contraindications. All received regular paracetamol, ibuprofen and gabapentin
+and morphine sulphate sustained release. Oramorph was administered as required. Routine
+thromboprophylaxis included intermittent positive pressure calf compression until mobile
+and subcutaneous low molecular heparin for 14 days post-operatively.</p><p>The fidelity with which both interventions were delivered was reviewed by an independent
+clinician (TC). The results were relayed to those delivering the interventions in order
+to maintain compliance with the protocol.</p><p>The primary outcome measure was a 100 visual analogue score (VAS) of pain reported by
+the patient on the first day post-operatively and before the start of physiotherapy,
+with 0 being no pain and 100 being the worst pain. This has been validated for the
+assessment of pain after TKA.<sup><xref rid="r8" ref-type="bibr">8</xref></sup> The
+primary endpoint was chosen after feedback from the patient indicating adequate pain
+relief on the first post-operative day prior to physiotherapy, and was of principal
+importance to the study population; this is consistent with other smaller RCTs which
+have also used this time point.<sup><xref rid="r9" ref-type="bibr">9</xref>-<xref rid="r11" ref-type="bibr">11</xref></sup>
+</p><p>The secondary outcome measures are described below. Pain after physiotherapy on the
+first post-operative day and pain before and after physiotherapy on the second
+post-operative day, was assessed using the same VAS as the primary outcome. Functional
+assessment was carried out by a physiotherapist using straight leg raise and range of
+movement of the knee, and the ability to transfer from bed to chair and the time taken
+to rise from a chair, walk 3 m, turn around, walk back to the chair, and sit down (timed
+up and go).<sup><xref rid="r12" ref-type="bibr">12</xref></sup> Total opiate,
+paracetamol, ibuprofen and gabapentin analgesia used up to 24 and 48 hours
+post-operatively were recorded. All opiates were converted to a morphine equivalent dose
+using a multiplication conversion factor of 0.1 for codeine and tramadol, as outlined in
+the British National Formulary.<sup><xref rid="r13" ref-type="bibr">13</xref></sup> The
+Oxford Knee Score (OKS),<sup><xref rid="r14" ref-type="bibr">14</xref></sup> EuroQol
+(EQ-5D-5L),<sup><xref rid="r15" ref-type="bibr">15</xref>-<xref rid="r17" ref-type="bibr">17</xref></sup> and Douleur Neuropathic Pain (DN2) score<sup><xref rid="r18" ref-type="bibr">18</xref>,<xref rid="r19" ref-type="bibr">19</xref></sup> were taken six weeks post-operatively. The OKS is a validated
+self-administered outcome measure.<sup><xref rid="r14" ref-type="bibr">14</xref></sup>
+The EQ-5D-5L is a validated measure of health-related quality of life, consisting of
+five dimensions and a separate VAS.<sup><xref rid="r15" ref-type="bibr">15</xref>,<xref rid="r16" ref-type="bibr">16</xref></sup> The values were calculated using the 3L
+crosswalk value sets.<sup><xref rid="r17" ref-type="bibr">17</xref></sup> The DN2
+assesses neuropathic pain using two questions.<sup><xref rid="r18" ref-type="bibr">18</xref>,<xref rid="r19" ref-type="bibr">19</xref></sup> Adverse events (AEs) up
+to six weeks post-operatively were recorded. An AE was defined as any untoward medical
+occurrence in a patient, which does not necessarily have a causal relationship with the
+treatment. They were further classified into serious adverse events (SAEs) if they
+fulfilled any of the following criteria: were immediately life-threatening, required
+hospitalisation or prolongation of the existing hospitalisation, resulted in persistent
+or significant disability or incapacity or were&#x000a0;regarded by the study team as an
+important medical condition.</p><p>Although not reported in this study, patients were followed up at up to 12 months with
+OKS, EQ-5D-5L, DN2 and AEs being recorded.<sup><xref rid="r20" ref-type="bibr">20</xref></sup> These additional data are being used to help inform the design of a
+further trial examining chronic pain after TKA.</p><p>Patients were blind to the intervention to which they were allocated. Concealment was
+maintained by ensuring randomisation was performed after spinal anaesthesia and sedation
+or general anaesthesia and then administered within a sterile zone with drapes to
+prevent the patients from seeing which intervention they received. In addition, in order
+to ensure post-operative concealment, all patients had a standard dressing applied to
+the area where a femoral nerve block is usually performed. It was not possible to blind
+the surgeon and anaesthetist delivering the interventions to the treatment options.
+Outcome data were collected by independent physiotherapists who were blinded to the
+allocation of treatment.</p><p>The protocol was prepared in accordance with the Standard Protocol Items:
+Recommendations for Interventional Trials guidelines<sup><xref rid="r21" ref-type="bibr">21</xref></sup> and published <italic>a priori</italic>.<sup><xref rid="r19" ref-type="bibr">19</xref></sup> Statutory NHS research and ethical
+approval was obtained on 23 September 2013, reference 13/WM/0316. The trial was
+conducted in accordance with the Medicines for Human use (Clinical Trials) Regulations
+2004, the International Conference on Harmonisation Good Clinical Practice and reported
+in line with the Consolidated Standards of Reporting Trials statement.<sup><xref rid="r22" ref-type="bibr">22</xref></sup></p><p>Patients were consulted during their routine clinical appointments to determine if the
+research question was important to them and those in a successful pilot trial were asked
+to provide feedback on the processes of the trial.<sup><xref rid="r21" ref-type="bibr">21</xref></sup> A small number of those in the pilot trial helped to develop the
+full proposal including the choice of primary outcome measure. One of the patients who
+was in the trial steering group was active in overseeing the running of the trial and
+the ways of disseminating the results.</p><sec><title content-type="h3">Sample size and analysis plan</title><p>The available literature suggested a difference in the VAS for pain between the
+groups of 12 mm (95% confidence interval (CI) 9 to 15) to be the minimum clinically
+important difference (MCID).<sup><xref rid="r23" ref-type="bibr">23</xref></sup>
+Based on pilot data, the standard deviation (<sc>sd</sc>) for VAS for pain was 30
+mm.<sup><xref rid="r24" ref-type="bibr">24</xref></sup> Therefore, to test the
+null hypothesis of equality of the means of the treatment groups, assuming
+approximate normality for the VAS, primary outcome data for 264 patients (132 in each
+arm) were required for 90% power and 5% significance.</p><p>Initial analysis investigated differences in the primary outcome scores on an
+intention-to-treat basis using an independent samples <italic>t</italic>-test. This
+was augmented with linear regression analysis that adjusted for age, gender and type
+of anaesthetic. Tests were two-sided and considered to provide evidence for a
+significant difference at p &#x0003c; 0.05. Estimates of treatment effects were presented
+with 95% CIs. For continuous approximately normally distributed secondary outcome
+measures (e.g. OKS, EQ-5D-5L), data were analysed in a similar manner to the primary
+outcome. In hospital medication variables were log transformed prior to testing in
+order to improve the approximation of the normal distribution. Data, such as adverse
+events, were compared between groups using chi-squared tests.</p><p>Some data were not available due to the voluntary withdrawal of patients, lack of
+completion of individual items or loss to follow-up. Where possible, the reasons for
+missing data were determined and reported. All analysis presented are based on
+complete cases. The analysis was implemented using the software package R (R
+Foundation for Statistical Computing, Vienna, Austria).</p></sec></sec><sec><title>Results</title><p>A total of 264 patients were recruited between March 2014 and November 2015 and, of
+these, 262 were randomised. Two patients were not randomised due to an error of data
+entry. Figure 1 shows the flow of patients through the trial. Baseline characteristics
+including age, gender, OKS and EQ-5D-5L were similar in both groups (Table I).</p><fig id="f1" orientation="portrait" position="float"><label>Fig. 1</label><caption><p>Overall flow of patients within the trial.</p></caption><graphic xlink:href="BJJ-2016-0767.R2-galleyfig1"/></fig><table-wrap id="t1" orientation="portrait" position="float"><label>Table I</label><caption><p>The baseline characteristics of the patients</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"><bold>Patient characteristic</bold></th><th rowspan="1" colspan="1"><bold>Femoral nerve block (n = 131)</bold></th><th rowspan="1" colspan="1"><bold>Periarticular (n = 131)</bold></th></tr></thead><tbody><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Gender, male, n (%)</td><td rowspan="1" colspan="1">51 (<italic>38.9</italic>)</td><td rowspan="1" colspan="1">54 (<italic>41.2</italic>)</td></tr><tr><td rowspan="1" colspan="1">Age (yrs), mean (<sc>sd</sc>)</td><td rowspan="1" colspan="1">68.2 (10.0)</td><td rowspan="1" colspan="1">68.7 (9.6)</td></tr><tr><td rowspan="1" colspan="1">Weight (kg), mean (<sc>sd</sc>)</td><td rowspan="1" colspan="1">82.0 (17.2)</td><td rowspan="1" colspan="1">83.2 (17.6)</td></tr><tr><td rowspan="1" colspan="1">Smoker, yes, n (%)</td><td rowspan="1" colspan="1">13 (<italic>10.2</italic>)</td><td rowspan="1" colspan="1">10 (<italic>7.8</italic>)</td></tr><tr><td rowspan="1" colspan="1">Oxford Knee Score, mean (<sc>sd</sc>)</td><td rowspan="1" colspan="1">23.0 (6.8)</td><td rowspan="1" colspan="1">23.5 (7.9)</td></tr><tr><td rowspan="1" colspan="1">EuroQol-5D-5L, mean (<sc>sd</sc>)</td><td rowspan="1" colspan="1">0.5 (0.2)</td><td rowspan="1" colspan="1">0.5 (0.2)</td></tr><tr><td rowspan="1" colspan="1">Received spinal anaesthetic (remainder received general anaesthetic), n
+(%)</td><td rowspan="1" colspan="1">78 (<italic>48</italic>)</td><td rowspan="1" colspan="1">86 (<italic>52</italic>)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn><p>
+<sc>sd</sc>, standard deviation </p></fn></table-wrap-foot></table-wrap><p>A total of 59 anaesthetists performed the femoral nerve blocks (median, three per
+anaesthetist, interquartile range (IQR) 1 to 7; three operation notes did not name the
+anaesthetist) and 33 surgeons performed the periarticular infiltrations (median, four
+per surgeon, IQR 2 to 11).</p><p>The main outcomes are shown in Table II.</p><table-wrap id="t2" orientation="portrait" position="float"><label>Table II</label><caption><p>Main outcomes (excluding analgesia use and adverse events) </p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"><bold>Outcome</bold></th><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1"><bold>FNB</bold></th><th rowspan="1" colspan="1"><bold>PI</bold></th><th rowspan="1" colspan="1"><bold>Valid responses FNB</bold></th><th rowspan="1" colspan="1"><bold>Valid responses PI</bold></th><th rowspan="1" colspan="1"><bold>p-value</bold></th><th rowspan="1" colspan="1"><bold>Treatment difference (95% CI)</bold></th></tr></thead><tbody><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Pain score day 1 pre-physio</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">44.1 (23.0)</td><td rowspan="1" colspan="1">43.2 (24.9)</td><td rowspan="1" colspan="1">113</td><td rowspan="1" colspan="1">117</td><td rowspan="1" colspan="1">0.770</td><td rowspan="1" colspan="1">-0.9 (-5.3 to 7.2)</td></tr><tr><td rowspan="1" colspan="1">Pain score day 1 pre-physio; per protocol</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">43.7 (23.5)</td><td rowspan="1" colspan="1">43.7 (24.6)</td><td rowspan="1" colspan="1">112</td><td rowspan="1" colspan="1">116</td><td rowspan="1" colspan="1">0.990</td><td rowspan="1" colspan="1">0.04 (-6.2 to 6.3)</td></tr><tr><td rowspan="1" colspan="1">Pain score day 1 after physio</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">49.0 (22.4)</td><td rowspan="1" colspan="1">51.7 (22.0)</td><td rowspan="1" colspan="1">108</td><td rowspan="1" colspan="1">111</td><td rowspan="1" colspan="1">0.371</td><td rowspan="1" colspan="1">-2.7 (-8.6 to 3.2)</td></tr><tr><td rowspan="1" colspan="1">Pain score day 2 before physio</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">40.8 (26.4)</td><td rowspan="1" colspan="1">38.1 (24.3)</td><td rowspan="1" colspan="1">107</td><td rowspan="1" colspan="1">102</td><td rowspan="1" colspan="1">0.435</td><td rowspan="1" colspan="1">2.7 (-4.2 to 9.7)</td></tr><tr><td rowspan="1" colspan="1">Pain score day 2 after physio</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">43.3 (24.1)</td><td rowspan="1" colspan="1">41.5 (22.6)</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">98</td><td rowspan="1" colspan="1">0.591</td><td rowspan="1" colspan="1">1.8 (-4.8 to 8.3)</td></tr><tr><td rowspan="1" colspan="1">Able to straight leg raise day 1, n (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">50 (<italic>42.4</italic>)</td><td rowspan="1" colspan="1">61 (<italic>51.7</italic>)</td><td rowspan="1" colspan="1">118</td><td rowspan="1" colspan="1">118</td><td rowspan="1" colspan="1">0.192</td><td rowspan="1" colspan="1">-9.3 (-22.8 to 4.2) </td></tr><tr><td rowspan="1" colspan="1">Able to straight leg raise day 2, n (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">44 (<italic>41.1</italic>)</td><td rowspan="1" colspan="1">53 (<italic>50.5</italic>)</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">105</td><td rowspan="1" colspan="1">0.219</td><td rowspan="1" colspan="1">-9.4 (-0.23.7 to 4.9)</td></tr><tr><td rowspan="1" colspan="1">Knee ROM day 1</td><td rowspan="1" colspan="1">Extension (&#x000b0;)</td><td rowspan="1" colspan="1">-5.4&#x000b0; (7.4&#x000b0;)</td><td rowspan="1" colspan="1">-3.5&#x000b0; (12.9&#x000b0;)</td><td rowspan="1" colspan="1">118</td><td rowspan="1" colspan="1">117</td><td rowspan="1" colspan="1">0.174</td><td rowspan="1" colspan="1">-1.7 (-4.6 to 0.8)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Flexion (&#x000b0;)</td><td rowspan="1" colspan="1">67.4&#x000b0; (18.2&#x000b0;)</td><td rowspan="1" colspan="1">72.8&#x000b0; (40.9&#x000b0;)</td><td rowspan="1" colspan="1">118</td><td rowspan="1" colspan="1">117</td><td rowspan="1" colspan="1">0.197</td><td rowspan="1" colspan="1">-5.4 (-13.5 to 2.8)</td></tr><tr><td rowspan="1" colspan="1">Knee ROM day 2</td><td rowspan="1" colspan="1">Extension (&#x000b0;)</td><td rowspan="1" colspan="1">-4.6&#x000b0; (6.4&#x000b0;)</td><td rowspan="1" colspan="1">-4.8&#x000b0; (5.6&#x000b0;)</td><td rowspan="1" colspan="1">111</td><td rowspan="1" colspan="1">103</td><td rowspan="1" colspan="1">0.848</td><td rowspan="1" colspan="1">0.1 (-1.4 to 1.8)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Flexion (&#x000b0;)</td><td rowspan="1" colspan="1">73.6&#x000b0; (14.2&#x000b0;)</td><td rowspan="1" colspan="1">79.0&#x000b0; (13.6&#x000b0;)</td><td rowspan="1" colspan="1">110</td><td rowspan="1" colspan="1">103</td><td rowspan="1" colspan="1">0.005*</td><td rowspan="1" colspan="1">-5.4 (-9.1 to -1.6)</td></tr><tr><td rowspan="1" colspan="1">Ability to transfer day 1</td><td rowspan="1" colspan="1">No. independent (%)</td><td rowspan="1" colspan="1">44 (<italic>36.1</italic>)</td><td rowspan="1" colspan="1">51 (<italic>43.6</italic>)</td><td rowspan="1" colspan="1">122</td><td rowspan="1" colspan="1">117</td><td rowspan="1" colspan="1">0.069</td><td rowspan="1" colspan="1">-7.5 (-20.7 to 5.7)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">No. assistance of 1 (%)</td><td rowspan="1" colspan="1">42 (<italic>34.4</italic>)</td><td rowspan="1" colspan="1">47 (<italic>40.2</italic>)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">-5.8 (-18.8 to 7.3)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">No. assistance of 2 (%)</td><td rowspan="1" colspan="1">15 (<italic>12.3</italic>)</td><td rowspan="1" colspan="1">5 (<italic>4.3</italic>)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">8.0 (0.3 to 15.7)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">No. unable (%)</td><td rowspan="1" colspan="1">21 (<italic>17.2</italic>)</td><td rowspan="1" colspan="1">14 (<italic>12.0</italic>)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">5.2 (-4.5 to 15.0)</td></tr><tr><td rowspan="1" colspan="1">Ability to transfer day 2</td><td rowspan="1" colspan="1">No. independent (%)</td><td rowspan="1" colspan="1">69 (<italic>62.7</italic>)</td><td rowspan="1" colspan="1">76 (<italic>72.4</italic>)</td><td rowspan="1" colspan="1">110</td><td rowspan="1" colspan="1">105</td><td rowspan="1" colspan="1">0.254&#x02020;</td><td rowspan="1" colspan="1">-9.7 (-23.0 to 3.7)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">No. assistance of 1 (%)</td><td rowspan="1" colspan="1">30 (<italic>27.3</italic>)</td><td rowspan="1" colspan="1">19 (<italic>18.1</italic>)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">9.2 (-2.9 to 21.2)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">No. assistance of 2 (%)</td><td rowspan="1" colspan="1">6 (<italic>5.5</italic>)</td><td rowspan="1" colspan="1">6 (<italic>5.7</italic>)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">-0.2 (-6.7 to 6.1)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">No. unable (%)</td><td rowspan="1" colspan="1">5 (<italic>4.5</italic>)</td><td rowspan="1" colspan="1">4 (<italic>3.8</italic>)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">1.6 (-5.3 to 6.8)</td></tr><tr><td rowspan="1" colspan="1">Timed up and go day 1</td><td rowspan="1" colspan="1">Time of those able in seconds</td><td rowspan="1" colspan="1">99.3 (51.8)</td><td rowspan="1" colspan="1">92.8 (41.8)</td><td rowspan="1" colspan="1">61</td><td rowspan="1" colspan="1">70</td><td rowspan="1" colspan="1">0.436</td><td rowspan="1" colspan="1">6.5 (-10.0 to 22.9)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">No. unable (%)</td><td rowspan="1" colspan="1">53 (<italic>46.5</italic>)</td><td rowspan="1" colspan="1">40 (<italic>36.4</italic>)</td><td rowspan="1" colspan="1">114</td><td rowspan="1" colspan="1">110</td><td rowspan="1" colspan="1">0.161</td><td rowspan="1" colspan="1">10.1 (-3.6 to 23.9)</td></tr><tr><td rowspan="1" colspan="1">Timed up and go day 2</td><td rowspan="1" colspan="1">Time of those able in seconds</td><td rowspan="1" colspan="1">89.8 (65.8)</td><td rowspan="1" colspan="1">73.3 (41.3)</td><td rowspan="1" colspan="1">85</td><td rowspan="1" colspan="1">90</td><td rowspan="1" colspan="1">0.051</td><td rowspan="1" colspan="1">16.4 (-0.1 to 33.0)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">No. unable (%)</td><td rowspan="1" colspan="1">20 (<italic>19.0</italic>)</td><td rowspan="1" colspan="1">14 (<italic>13.3</italic>)</td><td rowspan="1" colspan="1">105</td><td rowspan="1" colspan="1">105</td><td rowspan="1" colspan="1">0.349</td><td rowspan="1" colspan="1">-13.1 (-5.2 to 16.6)</td></tr><tr><td rowspan="1" colspan="1">OKS at 6 wks</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">31.0 (7.2)</td><td rowspan="1" colspan="1">31.4 (8.2)</td><td rowspan="1" colspan="1">120</td><td rowspan="1" colspan="1">125</td><td rowspan="1" colspan="1">0.673</td><td rowspan="1" colspan="1">-0.4 (-2.4 to 1.5)</td></tr><tr><td rowspan="1" colspan="1">EQ-5D-5L at 6 wks</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.8 (0.2)</td><td rowspan="1" colspan="1">0.8 (0.2)</td><td rowspan="1" colspan="1">122</td><td rowspan="1" colspan="1">123</td><td rowspan="1" colspan="1">0.670</td><td rowspan="1" colspan="1">-0.01 (-0.06 to 0.04)</td></tr><tr><td rowspan="1" colspan="1">DN2 at 6 wks</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">2.0 (1.6)</td><td rowspan="1" colspan="1">1.7 (1.4)</td><td rowspan="1" colspan="1">102</td><td rowspan="1" colspan="1">108</td><td rowspan="1" colspan="1">0.118</td><td rowspan="1" colspan="1">0.4 (-0.04 to 0.77)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn><p> *&#x0003c; 0.05 therefore reached significance &#x02020;to conduct chi-squared test,
+due to small cell counts &#x0201c;assistance of 2&#x0201d; and &#x0201c;unable&#x0201d;
+responses have been combined. For continuous outcomes, means (standard
+deviations) are reported and were compared using <italic>t</italic>-tests. For
+count outcomes, number (percentage valid) are reported and were compared using
+chi-squared tests. Analyses are intention-to-treat unless stated FNB, femoral
+nerve block; PI, periarticular infiltration; CI, confidence interval; physio,
+physiotherapy; ROM, range of movement; OKS, Oxford Knee Score; EQ-5D-5L,
+EuroQol-5D-5L; DN2, Douleur Neuropathic Pain score </p></fn></table-wrap-foot></table-wrap><p>On an intention-to-treat primary analysis, the mean difference between groups was not
+statistically significant; -0.9 (p = 0.770, 95% CI -5.3 to 7.2). Using multiple linear
+regression analysis to adjust for age, gender and type of anaesthetic, the mean
+difference between groups was not statistically significant: -0.7 (p = 0.834, 95% CI
+-5.9 to 4.5).</p><p>The results of the secondary analysis are shown in Tables II and III.</p><table-wrap id="t3" orientation="portrait" position="float"><label>Table III</label><caption><p>Analgesic use up to 24 and 48 hours (log transformed treatment difference)</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"><bold>Analgesia type and timing</bold></th><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1"><bold>FNB (n = 125)</bold></th><th rowspan="1" colspan="1"><bold>PI (n = 120)</bold></th><th rowspan="1" colspan="1"><bold>p-value (transformed <italic>t</italic>-test)</bold></th><th rowspan="1" colspan="1"><bold>Treatment difference, % of FNB (95% CI)</bold></th></tr></thead><tbody><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Paracetamol (mg), mean (<sc>sd</sc>)</td><td rowspan="1" colspan="1">Up to 24 hrs </td><td rowspan="1" colspan="1">3524 (689.4)</td><td rowspan="1" colspan="1">3533 (620.8)</td><td rowspan="1" colspan="1">0.338</td><td rowspan="1" colspan="1">82 (50 to 122)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">24 to 48 hrs</td><td rowspan="1" colspan="1">3720 (929.8)</td><td rowspan="1" colspan="1">3791 (818.9)</td><td rowspan="1" colspan="1">0.817</td><td rowspan="1" colspan="1">94 (55 to 149)</td></tr><tr><td rowspan="1" colspan="1">Ibuprofen (mg), mean (<sc>sd</sc>)</td><td rowspan="1" colspan="1">Up to 24 hrs </td><td rowspan="1" colspan="1">332 (492.7)</td><td rowspan="1" colspan="1">265 (436.3)</td><td rowspan="1" colspan="1">0.285</td><td rowspan="1" colspan="1">67 (30 to 103)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">24 to 48 hrs</td><td rowspan="1" colspan="1">340.6 (531.8)</td><td rowspan="1" colspan="1">301.7 (520.5)</td><td rowspan="1" colspan="1">0.309</td><td rowspan="1" colspan="1">67 (55 to 103)</td></tr><tr><td rowspan="1" colspan="1">Morphine equivalent dose (mg), mean (<sc>sd</sc>)</td><td rowspan="1" colspan="1">Up to 24 hrs</td><td rowspan="1" colspan="1">62.7 (39.7)</td><td rowspan="1" colspan="1">54.8 (39.8)</td><td rowspan="1" colspan="1">0.042<sup>*</sup></td><td rowspan="1" colspan="1">74 (55 to 99)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">24 to 48 hrs</td><td rowspan="1" colspan="1">40.0 (44.4)</td><td rowspan="1" colspan="1">32.5 (28.1)</td><td rowspan="1" colspan="1">0.203</td><td rowspan="1" colspan="1">82 (55 to 111)</td></tr><tr><td rowspan="1" colspan="1">Gabapentin (mg), mean (<sc>sd)</sc></td><td rowspan="1" colspan="1">Up to 24 hrs</td><td rowspan="1" colspan="1">492 (354.3)</td><td rowspan="1" colspan="1">522 (397.3)</td><td rowspan="1" colspan="1">0.835</td><td rowspan="1" colspan="1">106 (61 to 182)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">24 to 48 hrs </td><td rowspan="1" colspan="1">522.2 (384.7)</td><td rowspan="1" colspan="1">580.0 (419.2)</td><td rowspan="1" colspan="1">0.671</td><td rowspan="1" colspan="1">110 (61 to 201)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn><p> *p &#x0003c; 0.05 FNB, femoral nerve block; PI, periarticular infiltration; CI,
+confidence interval; <sc>sd</sc>, standard deviation </p></fn></table-wrap-foot></table-wrap><p>On the first post-operative day, after physiotherapy, the mean pain scores increased in
+both groups, (femoral nerve block group, 49; periarticular group, 52), however,
+there&#x000a0;was no statistically significant difference between groups; -2.7 (p = 0.371,
+95% CI -8.6 to 3.2). The mean differences in pain scores on the second post-operative
+day, both before and after physiotherapy, were also not statistically different between
+the groups, 2.7 (p = 0.435, 95% CI -4.2 to 9.7) and 1.8 (p = 0.591, 95% CI -4.8 to 8.3),
+respectively. Figure 2 shows the pain scores on the first and second post-operative days
+as box plots. </p><fig id="f2" orientation="portrait" position="float"><label>Fig. 2</label><caption><p>Box plots of visual analogue pain scores (VAS) on day 1 and 2.</p></caption><graphic xlink:href="BJJ-2016-0767.R2-galleyfig2"/></fig><p>The proportion of patients able to transfer from bed to chair independently on the first
+post-operative day (treatment difference -7.5%; p = 0.069, 95% CI -20.7 to 5.7) and the
+mean time in seconds to get up and go on the second post-operative day (treatment
+difference 16.4 seconds; p&#x000a0;=&#x000a0;0.051, 95% CI -0.1 to 33.0), were both marginally
+in favour of periarticular infiltration and had borderline statistical significance. The
+mean flexion of the knee on the second post-operative day was better in the
+periarticular group, however the difference between the groups was small at -5.4&#x000b0;
+(p = 0.005, 95% CI -9.1 to -1.6). Amongst the remaining functional outcomes on the first
+and second post-operative days, there was no significant difference between groups: the
+ability to straight leg raise (day 1 p&#x000a0;=&#x000a0;0.192 and day 2 p = 0.219), the
+ability to transfer independently (day 1 p = 0.069 and day 2 p = 0.254) and timed up and
+go (day 1 p = 0.161 and day 2 p = 0.349).</p><p>There was no statistically significant difference in the total use of analgesia up to 24
+and 48 hours post-operatively for paracetamol (p = 0.338 and 0.817, respectively),
+ibuprofen (p = 0.285 and 0.309, respectively) or gabapentin (p = 0.835 and 0.671,
+respectively) which were given routinely. However, the requirement for morphine, which
+was administered according to requirement, was less up to 24 hours post-operatively in
+those receiving periarticular infiltration (74% of the total dose given in the femoral
+nerve block group, p = 0.042, 95% CI 55 to 99). At 48 hours there was no statistically
+significant difference in the equivalent dose of morphine (p = 0.203) (Table III).</p><p>At six weeks post-operatively, there was no statistically significant differences in
+mean OKS (-0.4, p = 0.673, 95% CI -2.4 to 1.5), EQ-5D-5L (-0.01, p = 0.670, 95% CI -0.06
+to 0.04) or DN2 scores (0.4, p = 0.118, 95% CI -0.04 to 0.77).</p><p>There were two deaths during the trial. One patient who had been allocated to and
+received periarticular infiltration died of a myocardial infarction (Table IV). One
+patient who had been allocated to and received a femoral nerve block died of sepsis.
+There were 39 AEs, of which 27 were SAE, amongst 31 patients in the femoral nerve block
+group, and 51 AEs, of which 38 were SAEs, amongst 42 patients in the periarticular
+infiltration group (Table IV). The most frequent AEs were: superficial wound infection
+(15), acute renal failure (nine) and chest infection (eight). None were related to the
+type of anaesthetic under investigation.</p><table-wrap id="t4" orientation="portrait" position="float"><label>Table IV</label><caption><p>Reported adverse events within six weeks of surgery</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"><bold>Adverse event within 6 wks</bold></th><th rowspan="1" colspan="1"><bold>FNB</bold></th><th rowspan="1" colspan="1"><bold>PI</bold></th><th rowspan="1" colspan="1"><bold>Odds ratio of adverse events (95% CI)<sup>*</sup></bold></th><th rowspan="1" colspan="1"><bold>p-value</bold><sup>&#x02020;</sup></th></tr></thead><tbody><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Death</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1 (0.0 to 79.0)</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Cement syndrome (peri-operative hypotension)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Deep wound infection undergoing revision</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Superficial wound infection </td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">9</td><td rowspan="1" colspan="1">0.7 (0.2 to 2.1)</td><td rowspan="1" colspan="1">0.596</td></tr><tr><td rowspan="1" colspan="1">Leaking wound no infection</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Knee instability undergoing revision</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Wound haematoma</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Reduced early ROM (physio only)</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1 (0.0 to 79.0)</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Reduced early ROM (requiring manipulation)</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">1 (0.1 to 14.0)</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Leg paraesthesia </td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1 (0.0 to 79.0)</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Foot drop</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Morphine overdose</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">0.3 (0.006 to 4.2)</td><td rowspan="1" colspan="1">0.622</td></tr><tr><td rowspan="1" colspan="1">Acute kidney injury</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">0.5 (0.1 to 2.4)</td><td rowspan="1" colspan="1">0.500</td></tr><tr><td rowspan="1" colspan="1">Chest Infection </td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">3.1 (0.5 to 31.8)</td><td rowspan="1" colspan="1">0.281</td></tr><tr><td rowspan="1" colspan="1">Leg swelling (no deep vein thrombosis)</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">1 (0.1 to 14.0)</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Pulmonary embolism</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Atrial fibrillation</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Symptomatic anaemia requiring blood transfusion</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">0.3 (0.0 to 4.2)</td><td rowspan="1" colspan="1">0.622</td></tr><tr><td rowspan="1" colspan="1">Bleeding gastric ulcer</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Vomiting</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Gastroenteritis</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Urinary tract infection</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Urinary retention</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">0.5 (0.0 to 9.7)</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Small bowel obstruction</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Exacerbation of asthma </td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Leg rash</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">1 (0.1 to 14.0)</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Shingles</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Leg skin tear</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Pressure sore</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Dehydration</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Admission to manage pain </td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1 (0.0 to 79.0)</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Admission to remove skin clips</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Admission no cause found</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">General malaise (no cause found)</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">0.3 (0.0 to 4.2)</td><td rowspan="1" colspan="1">0.622</td></tr><tr><td rowspan="1" colspan="1">Back pain</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1"><bold>Total</bold></td><td rowspan="1" colspan="1"><bold>39</bold></td><td rowspan="1" colspan="1"><bold>51</bold></td><td rowspan="1" colspan="1"><bold>0.7 (0.4 to 1.1)</bold></td><td rowspan="1" colspan="1"><bold>0.152</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Classified as serious adverse event</bold></td><td rowspan="1" colspan="1"><bold>27</bold></td><td rowspan="1" colspan="1"><bold>38</bold></td><td rowspan="1" colspan="1"><bold>0.6 (0.3 to 1.2)</bold></td><td rowspan="1" colspan="1"><bold>0.152</bold></td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn><p> *if only one adverse event, odds ratio not calculated &#x02020;Fisher&#x02019;s
+exact test FNB, femoral nerve block; PI, periarticular infiltration; CI,
+confidence interval; ROM, range of movement </p></fn></table-wrap-foot></table-wrap><p>Following the primary analysis, we did a <italic>post hoc</italic> per protocol analysis
+for equivalence of outcome. This also revealed that the mean difference between the
+groups was&#x000a0;not statistically significant 0.04 (95%CI -6.2 to 6.3, p&#x000a0;=
+0.990).</p></sec><sec><title>Discussion</title><p>This trial shows that pain scores on the day after TKA are the same in patients who have
+had a femoral nerve block and those who have had periarticular infiltration of local
+anaesthetic. It was not designed to show equivalence in outcomes; however, the 95% CIs
+for the difference between the groups in the per protocol analysis were only just over
+half of the pre-specified MCID. We can, therefore be confident that we have excluded a
+clinically important difference in pain scores on the first post-operative day between
+the two interventions.</p><p>Although the pain scores were similar in the two groups, the use of morphine up to 24
+hours post-operatively was less in the periarticular group. Although morphine is an
+effective supplementary analgesic for post-operative pain, dose dependent systemic side
+effects, including nausea, vomiting, respiratory depression, pruritus, reduced gut
+mobility and urinary retention mean that lower doses are preferable.<sup><xref rid="r25" ref-type="bibr">25</xref></sup></p><p>Two other early functional secondary outcomes had borderline significant differences
+between the groups (the ability to transfer independently on day 1 and the flexion of
+the knee on day 2) and both were in favour of periarticular infiltration. Although
+caution is needed in interpreting the relevance of the secondary observations, these and
+the primary outcome findings support the suggestion that periarticular infiltration is a
+good alternative to femoral nerve block. Both are designed to provide early analgesia
+and by six weeks we found no difference in PROMs between the groups.</p><p>None of the AEs were directly attributed to either of the interventions and the
+frequency of AEs was similar in both treatment groups, and were comparable with those
+reported in the literature, suggesting that periarticular infiltration does not pose an
+additional risk to the patients.<sup><xref rid="r26" ref-type="bibr">26</xref>-<xref rid="r28" ref-type="bibr">28</xref></sup></p><p>Periarticular infiltration has previously been compared with femoral nerve block for
+early pain relief following TKA in three small RCTs including, in total, 181
+patients.<sup><xref rid="r9" ref-type="bibr">9</xref>-<xref rid="r11" ref-type="bibr">11</xref></sup> However, meta-analyses by Marques et al<sup><xref rid="r8" ref-type="bibr">8</xref></sup> and Albrecht et al<sup><xref rid="r29" ref-type="bibr">29</xref></sup> and a Cochrane Review by Chan et
+al<sup><xref rid="r2" ref-type="bibr">2</xref></sup> of these RCTs have been
+unable to draw firm conclusions about the comparative effectiveness of these
+interventions, largely because of a lack of statistical power and moderate quality
+(GRADE)<sup><xref rid="r30" ref-type="bibr">30</xref></sup> evidence. Our results
+now show that periarticular infiltration offers comparable early pain relief, and
+safety. Patients and clinicians should therefore consider other factors including the
+availability of specialist equipment such as a nerve stimulator or ultrasound for
+administering the femoral nerve block, and any specific contraindications when making a
+preference for either intervention. </p><p>The main strengths of this trial are the blinded assessment of outcome and its pragmatic
+design. It followed a published protocol and included an intention-to-treat primary
+analysis, meaning that the findings should be applicable to routine clinical practice. </p><p>The main weakness is that it involved only one NHS centre. Although, it included many
+different surgeons and anaesthetists, the study should be repeated in other healthcare
+settings. We tested only one regime of periarticular infiltration, but there are others
+with different types and doses of local anaesthetic. However, the regime that we chose
+and tested was representative of our region and many hospitals in the United Kingdom. An
+error of data entry resulted in the final sample for primary analysis being two less
+than anticipated. However, the evaluated treatment difference of -0.9 was less than the
+MCID of 1.2, and smaller than the anticipated <sc>sd</sc>; we are therefore confident
+that the study was not underpowered and that there is no clinical difference between the
+two treatment arms.</p><p>In conclusion, we did not find a clinically meaningful difference in the perception of
+pain on the day after TKA between patients who have a femoral nerve block and those
+having a periarticular infiltration of local anaesthetic. Periarticular infiltration,
+which can be administered without the need for specialist additional equipment and
+reduces post-operative morphine requirements, should be considered as a viable and safe
+alternative to femoral nerve block for early pain relief following TKA.</p><p><bold>Take home message:</bold></p><p>- Periarticular infiltration is a good alternative to femoral nerve block for managing
+post-operative pain following TKA.</p><p>- Periarticular infiltration may reduce a patients&#x02019; requirements for additional
+morphine following TKA.</p><p>- Within the limits of the trial, periarticular infiltration was a safe alternative to
+femoral nerve block.</p></sec></body><back><ref-list><ref id="r1"><label>1</label><mixed-citation publication-type="other">NJR Editorial Board. National Joint Registry for England Wales and
+Northern Ireland and the Isle of Man. 12th Annual Report. 2015.
+<uri xlink:type="simple" xlink:href="http://www.njrcentre.org.uk/njrcentre/Reports,PublicationsandMinutes/Annualreports/tabid/86/Default.aspx">http://www.njrcentre.org.uk/njrcentre/Reports,PublicationsandMinutes/Annualreports/tabid/86/Default.aspx</uri>
+(date last accessed 23 March <year>2017</year>).</mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><string-name><surname>Chan</surname>
+<given-names>EY</given-names></string-name>,
+<string-name><surname>Fransen</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Parker</surname>
+<given-names>DA</given-names></string-name>, <string-name><surname>Assam</surname>
+<given-names>PN</given-names></string-name>, <string-name><surname>Chua</surname>
+<given-names>N</given-names></string-name>. <article-title>Femoral nerve blocks
+for acute postoperative pain after knee replacement surgery</article-title>.
+<source>Cochrane Database Syst Rev</source>
+<year>2014</year>;<volume>5</volume>:<fpage>CD009941</fpage>.</mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><string-name><surname>Serpell</surname>
+<given-names>MG</given-names></string-name>,
+<string-name><surname>Millar</surname>
+<given-names>FA</given-names></string-name>,
+<string-name><surname>Thomson</surname>
+<given-names>MF</given-names></string-name>. <article-title>Comparison of lumbar
+plexus block versus conventional opioid analgesia after total knee
+replacement</article-title>. <source>Anaesthesia</source>
+<year>1991</year>;<volume>46</volume>:<fpage>275</fpage>&#x02013;<lpage>277</lpage>.<pub-id pub-id-type="pmid">2024744</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><string-name><surname>Mauerhan</surname>
+<given-names>DR</given-names></string-name>,
+<string-name><surname>Campbell</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Miller</surname>
+<given-names>JS</given-names></string-name>, <etal/>
+<article-title>Intra-articular morphine and/or bupivacaine in the management of
+pain after total knee arthroplasty</article-title>. <source>J
+Arthroplasty</source>
+<year>1997</year>;<volume>12</volume>:<fpage>546</fpage>&#x02013;<lpage>552</lpage>.<pub-id pub-id-type="pmid">9268795</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><string-name><surname>Ludwigson</surname>
+<given-names>JL</given-names></string-name>,
+<string-name><surname>Tillmans</surname>
+<given-names>SD</given-names></string-name>,
+<string-name><surname>Galgon</surname>
+<given-names>RE</given-names></string-name>, <etal/>
+<article-title>A Comparison
+of Single-Shot Adductor Canal Block vs Femoral Nerve Catheter for Total Knee
+Arthroplasty</article-title>. <source>J Arthroplasty</source>
+<year>2016</year>;<volume>31</volume>:<fpage>741</fpage>.<pub-id pub-id-type="pmid">26474953</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><string-name><surname>Badner</surname>
+<given-names>NH</given-names></string-name>,
+<string-name><surname>Bourne</surname>
+<given-names>RB</given-names></string-name>,
+<string-name><surname>Rorabeck</surname>
+<given-names>CH</given-names></string-name>,
+<string-name><surname>MacDonald</surname>
+<given-names>SJ</given-names></string-name>, <string-name><surname>Doyle</surname>
+<given-names>JA</given-names></string-name>. <article-title>Intra-articular
+injection of bupivacaine in knee-replacement operations. Results of use for
+analgesia and for preemptive blockade</article-title>. <source>J Bone Joint Surg
+[Am]</source>
+<year>1996</year>;<volume>78-A</volume>:<fpage>734</fpage>&#x02013;<lpage>738</lpage>.</mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><string-name><surname>Widmer</surname>
+<given-names>BJ</given-names></string-name>,
+<string-name><surname>Scholes</surname>
+<given-names>CJ</given-names></string-name>,
+<string-name><surname>Pattullo</surname>
+<given-names>GG</given-names></string-name>, <etal/>
+<article-title>Is femoral
+nerve block necessary during total knee arthroplasty?: a randomized controlled
+trial</article-title>. <source>J Arthroplasty</source>
+<year>2012</year>;<volume>27</volume>:<fpage>1800</fpage>&#x02013;<lpage>1805</lpage>.<pub-id pub-id-type="pmid">22658231</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><string-name><surname>Marques</surname>
+<given-names>EM</given-names></string-name>, <string-name><surname>Jones</surname>
+<given-names>HE</given-names></string-name>,
+<string-name><surname>Elvers</surname>
+<given-names>KT</given-names></string-name>, <etal/>
+<article-title>Local
+anaesthetic infiltration for peri-operative pain control in total hip and knee
+replacement: systematic review and meta-analyses of short- and long-term
+effectiveness</article-title>. <source>BMC Musculoskelet Disord</source>
+<year>2014</year>;<volume>15</volume>:<fpage>220</fpage>.<pub-id pub-id-type="pmid">24996539</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><string-name><surname>Meftah</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Wong</surname>
+<given-names>AC</given-names></string-name>,
+<string-name><surname>Nawabi</surname>
+<given-names>DH</given-names></string-name>, <etal/>
+<article-title>Pain
+management after total knee arthroplasty using a multimodal
+approach</article-title>. <source>Orthopedics</source>
+<year>2012</year>;<volume>35</volume>:<fpage>660</fpage>&#x02013;<lpage>664</lpage>.</mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><string-name><surname>Ng</surname>
+<given-names>FY</given-names></string-name>, <string-name><surname>Ng</surname>
+<given-names>JK</given-names></string-name>, <string-name><surname>Chiu</surname>
+<given-names>KY</given-names></string-name>, <string-name><surname>Yan</surname>
+<given-names>CH</given-names></string-name>, <string-name><surname>Chan</surname>
+<given-names>CW</given-names></string-name>. <article-title>Multimodal
+periarticular injection vs continuous femoral nerve block after total knee
+arthroplasty: a prospective, crossover, randomized clinical trial</article-title>.
+<source>J Arthroplasty</source>
+<year>2012</year>;<volume>27</volume>:<fpage>1234</fpage>&#x02013;<lpage>1238</lpage>.<pub-id pub-id-type="pmid">22325963</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><string-name><surname>Parvataneni</surname>
+<given-names>HK</given-names></string-name>, <string-name><surname>Shah</surname>
+<given-names>VP</given-names></string-name>,
+<string-name><surname>Howard</surname>
+<given-names>H</given-names></string-name>, <etal/>
+<article-title>Controlling
+pain after total hip and knee arthroplasty using a multimodal protocol with local
+periarticular injections: a prospective randomized study</article-title>.
+<source>J Arthroplasty</source>
+<year>2007</year>;<volume>22</volume>:<fpage>33</fpage>&#x02013;<lpage>38</lpage>.<pub-id pub-id-type="pmid">17823012</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><string-name><surname>Podsiadlo</surname>
+<given-names>D</given-names></string-name>,
+<string-name><surname>Richardson</surname>
+<given-names>S</given-names></string-name>. <article-title>The Timed &#x0201c;Up
+&#x00026; Go&#x0201d;: a test of basic functional mobility for frail elderly
+persons</article-title>. <source>J Am Geriatr Soc</source>
+<year>1991</year>;<volume>39</volume>:<fpage>142</fpage>&#x02013;<lpage>148</lpage>.<pub-id pub-id-type="pmid">1991946</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="other">Joint Formulary Committee. BNF 71 March to September 2016. London: BMJ
+Group and Pharmaceutical Press, <year>2016</year>.</mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><string-name><surname>Dawson</surname>
+<given-names>J</given-names></string-name>,
+<string-name><surname>Fitzpatrick</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Murray</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Carr</surname>
+<given-names>A</given-names></string-name>. <article-title>Questionnaire on the
+perceptions of patients about total knee replacement</article-title>. <source>J
+Bone Joint Surg [Br]</source>
+<year>1998</year>;<volume>80-B</volume>:<fpage>63</fpage>&#x02013;<lpage>69</lpage>.</mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><institution>EuroQol Group</institution>
+EuroQol--a new facility for the measurement of health-related quality of life
+<source>Health Policy</source>
+<year>1990</year>;<volume>16</volume>:<fpage>199</fpage>&#x02013;<lpage>208</lpage>.<pub-id pub-id-type="pmid">10109801</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><string-name><surname>Walters</surname>
+<given-names>SJ</given-names></string-name>,
+<string-name><surname>Brazier</surname>
+<given-names>JE</given-names></string-name>. <article-title>Comparison of the
+minimally important difference for two health state utility measures: EQ-5D and
+SF-6D</article-title>. <source>Qual Life Res</source>
+<year>2005</year>;<volume>14</volume>:<fpage>1523</fpage>&#x02013;<lpage>1532</lpage>.<pub-id pub-id-type="pmid">16110932</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><string-name><surname>van Hout</surname>
+<given-names>B</given-names></string-name>,
+<string-name><surname>Janssen</surname>
+<given-names>MF</given-names></string-name>, <string-name><surname>Feng</surname>
+<given-names>YS</given-names></string-name>, <etal/>
+<article-title>Interim
+scoring for the EQ-5D-5L: mapping the EQ-5D-5L to EQ-5D-3L value
+sets</article-title>. <source>Value Health</source>
+<year>2012</year>;<volume>15</volume>:<fpage>708</fpage>&#x02013;<lpage>715</lpage>.<pub-id pub-id-type="pmid">22867780</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><string-name><surname>Remerand</surname>
+<given-names>F</given-names></string-name>,
+<string-name><surname>Godfroid</surname>
+<given-names>HB</given-names></string-name>,
+<string-name><surname>Brilhault</surname>
+<given-names>J</given-names></string-name>, <etal/>
+<article-title>Chronic pain 1
+year after foot surgery: Epidemiology and associated factors</article-title>.
+<source>Orthop Traumatol Surg Res</source>
+<year>2014</year>;<volume>100</volume>:<fpage>767</fpage>&#x02013;<lpage>773</lpage>.<pub-id pub-id-type="pmid">25306303</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><string-name><surname>Bouhassira</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Attal</surname>
+<given-names>N</given-names></string-name>,
+<string-name><surname>Alchaar</surname>
+<given-names>H</given-names></string-name>, <etal/>
+<article-title>Comparison of
+pain syndromes associated with nervous or somatic lesions and development of a new
+neuropathic pain diagnostic questionnaire (DN4)</article-title>.
+<source>Pain</source>
+<year>2005</year>;<volume>114</volume>:<fpage>29</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">15733628</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><string-name><surname>Wall</surname>
+<given-names>PD</given-names></string-name>,
+<string-name><surname>Sprowson</surname>
+<given-names>AP</given-names></string-name>,
+<string-name><surname>Parsons</surname>
+<given-names>N</given-names></string-name>, <etal/>
+<article-title>Protocol for a
+single-centre randomised controlled trial of multimodal periarticular anaesthetic
+infiltration versus single-agent femoral nerve blockade as analgesia for total
+knee arthroplasty: Perioperative Analgesia for Knee Arthroplasty
+(PAKA)</article-title>. <source>BMJ Open</source>
+<year>2015</year>;<volume>5</volume>:<fpage>009898</fpage>.</mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><string-name><surname>Chan</surname>
+<given-names>AW</given-names></string-name>,
+<string-name><surname>Tetzlaff</surname>
+<given-names>JM</given-names></string-name>,
+<string-name><surname>Altman</surname>
+<given-names>DG</given-names></string-name>, <etal/>
+<article-title>SPIRIT 2013
+statement: defining standard protocol items for clinical trials</article-title>.
+<source>Ann Intern Med</source>
+<year>2013</year>;<volume>158</volume>:<fpage>200</fpage>&#x02013;<lpage>207</lpage>.<pub-id pub-id-type="pmid">23295957</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><string-name><surname>Schulz</surname>
+<given-names>KF</given-names></string-name>,
+<string-name><surname>Altman</surname>
+<given-names>DG</given-names></string-name>, <string-name><surname>Moher</surname>
+<given-names>D</given-names></string-name>. <article-title>, CONSORT Group.
+CONSORT 2010 statement: updated guidelines for reporting parallel group randomised
+trials</article-title>. <source>Int J Surg</source>
+<year>2011</year>;<volume>9</volume>:<fpage>672</fpage>&#x02013;<lpage>677</lpage>.<pub-id pub-id-type="pmid">22019563</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><string-name><surname>Kelly</surname>
+<given-names>AM</given-names></string-name>. <article-title>The minimum clinically
+significant difference in visual analogue scale pain score does not differ with
+severity of pain</article-title>. <source>Emerg Med J</source>
+<year>2001</year>;<volume>18</volume>:<fpage>205</fpage>&#x02013;<lpage>207</lpage>.<pub-id pub-id-type="pmid">11354213</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><string-name><surname>Wallace</surname>
+<given-names>DF</given-names></string-name>,
+<string-name><surname>Emmett</surname>
+<given-names>SR</given-names></string-name>, <string-name><surname>Kang</surname>
+<given-names>KK</given-names></string-name>, <etal/>
+<article-title>The safety of
+peri-articular local anaesthetic injection for patients undergoing total knee
+replacement with autologous blood transfusion: a randomised trial</article-title>.
+<source>J Bone Joint Surg [Br]</source>
+<year>2012</year>;<volume>94-B</volume>:<fpage>1632</fpage>&#x02013;<lpage>1636</lpage>.</mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><string-name><surname>White</surname>
+<given-names>PF</given-names></string-name>. <article-title>The changing role of
+non-opioid analgesic techniques in the management of postoperative
+pain</article-title>. <source>Anesth Analg</source>
+<year>2005</year>;<volume>101</volume>:<fpage>S5</fpage>&#x02013;<lpage>S22</lpage>.<pub-id pub-id-type="pmid">16334489</pub-id></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><string-name><surname>Hunt</surname>
+<given-names>LP</given-names></string-name>,
+<string-name><surname>Ben-Shlomo</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Clark</surname>
+<given-names>EM</given-names></string-name>, <etal/>
+<article-title>45-day
+mortality after 467,779 knee replacements for osteoarthritis from the National
+Joint Registry for England and Wales: an observational study</article-title>.
+<source>Lancet</source>
+<year>2014</year>;<volume>384</volume>:<fpage>1429</fpage>&#x02013;<lpage>1436</lpage>.<pub-id pub-id-type="pmid">25012118</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><string-name><surname>Liddle</surname>
+<given-names>AD</given-names></string-name>, <string-name><surname>Judge</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Pandit</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Murray</surname>
+<given-names>DW</given-names></string-name>. <article-title>Adverse outcomes after
+total and unicompartmental knee replacement in 101,330 matched patients: a study
+of data from the National Joint Registry for England and Wales</article-title>.
+<source>Lancet</source>
+<year>2014</year>;<volume>384</volume>:<fpage>1437</fpage>&#x02013;<lpage>1445</lpage>.<pub-id pub-id-type="pmid">25012116</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><string-name><surname>Babkin</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Raveh</surname>
+<given-names>D</given-names></string-name>,
+<string-name><surname>Lifschitz</surname>
+<given-names>M</given-names></string-name>, <etal/>
+<article-title>Incidence and
+risk factors for surgical infection after total knee replacement</article-title>.
+<source>Scand J Infect Dis</source>
+<year>2007</year>;<volume>39</volume>:<fpage>890</fpage>&#x02013;<lpage>895</lpage>.<pub-id pub-id-type="pmid">17852911</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><string-name><surname>Albrecht</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Guyen</surname>
+<given-names>O</given-names></string-name>,
+<string-name><surname>Jacot-Guillarmod</surname>
+<given-names>A</given-names></string-name>,
+<string-name><surname>Kirkham</surname>
+<given-names>KR</given-names></string-name>. <article-title>The analgesic efficacy
+of local infiltration analgesia vs femoral nerve block after total knee
+arthroplasty: a systematic review and meta-analysis</article-title>. <source>Br J
+Anaesth</source>
+<year>2016</year>;<volume>116</volume>:<fpage>597</fpage>&#x02013;<lpage>609</lpage>.<pub-id pub-id-type="pmid">27106963</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><string-name><surname>Balshem</surname>
+<given-names>H</given-names></string-name>,
+<string-name><surname>Helfand</surname>
+<given-names>M</given-names></string-name>,
+<string-name><surname>Sch&#x000fc;nemann</surname>
+<given-names>HJ</given-names></string-name>, <etal/>
+<article-title>GRADE
+guidelines: 3. Rating the quality of evidence</article-title>. <source>J Clin
+Epidemiol</source>
+<year>2011</year>;<volume>64</volume>:<fpage>401</fpage>&#x02013;<lpage>406</lpage>.<pub-id pub-id-type="pmid">21208779</pub-id></mixed-citation></ref></ref-list></back></article>

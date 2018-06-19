@@ -1,0 +1,426 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Brain Sci</journal-id><journal-id journal-id-type="iso-abbrev">Brain Sci</journal-id><journal-id journal-id-type="publisher-id">brainsci</journal-id><journal-title-group><journal-title>Brain Sciences</journal-title></journal-title-group><issn pub-type="epub">2076-3425</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28025539</article-id><article-id pub-id-type="pmc">5297290</article-id><article-id pub-id-type="doi">10.3390/brainsci7010001</article-id><article-id pub-id-type="publisher-id">brainsci-07-00001</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Group vs. Individual Treatment for Acute Insomnia: A Pilot Study Evaluating a &#x0201c;One-Shot&#x0201d; Treatment Strategy</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Boullin</surname><given-names>Pam</given-names></name></contrib><contrib contrib-type="author"><name><surname>Ellwood</surname><given-names>Christina</given-names></name></contrib><contrib contrib-type="author"><name><surname>Ellis</surname><given-names>Jason G.</given-names></name><xref rid="c1-brainsci-07-00001" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Bastien</surname><given-names>C&#x000e9;lyne H.</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-brainsci-07-00001">Northumbria Sleep Research Laboratory, Northumbria University, Newcastle-upon-Tyne NE18ST, UK; <email>Pamela.Boullin@nuth.nhs.uk</email> (P.B.); <email>christina.ellwood@northumbria.ac.uk</email> (C.E.)</aff><author-notes><corresp id="c1-brainsci-07-00001"><label>*</label>Correspondence: <email>jason.ellis@northumbria.ac.uk</email>; Tel.: +44-191-227-3081</corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>12</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2017</year></pub-date><volume>7</volume><issue>1</issue><elocation-id>1</elocation-id><history><date date-type="received"><day>17</day><month>11</month><year>2016</year></date><date date-type="accepted"><day>20</day><month>12</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2016</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Background: Despite undeniable evidence for the efficacy and effectiveness of Cognitive Behaviour Therapy for Insomnia (CBT-I), the potential for its widespread dissemination and implementation has yet to be realised. A suggested reason for this is that traditional CBT-I is considered too burdensome for deployment, in its current form, within the context of where it would be most beneficial&#x02014;Primary Care. One strategy, aimed to address this, has been to develop briefer versions of CBT-I, whilst another has been to deliver CBT-I in a group format. An alternative has been to attempt to address insomnia during its acute phase with a view to circumventing its progression to chronic insomnia. The aim of the present study was to compare a brief version of CBT-I (one-shot) when delivered individually or in groups to those with acute insomnia. Method: Twenty-eight individuals with acute insomnia (i.e., meeting full DSM-5 criteria for insomnia disorder for less than three months) self-assigned to either a group or individual treatment arm. Treatment consisted of a single one-hour session accompanied by a self-help pamphlet. Subjects completed measures of insomnia severity, anxiety and depression pre-treatment and at one-month post-treatment. Additionally, daily sleep diaries were compared between pre-treatment and at the one-month follow up. Results: There were no significant between group differences in treatment outcome on any sleep or mood measures although those in the group treatment arm were less adherent than those who received individual treatment. Furthermore, the combined (group and individual treatment arms) pre-post test effect size on insomnia symptoms, using the Insomnia Severity Index, was large (<italic>d</italic> = 2.27). Discussion: It appears that group treatment is as efficacious as individual treatment within the context of a &#x0201c;one shot&#x0201d; intervention for individuals with acute insomnia. The results are discussed with a view to integrating one-shot CBT-I in Primary Care.</p></abstract><kwd-group><kwd>acute insomnia</kwd><kwd>CBT-I</kwd><kwd>treatment</kwd><kwd>group therapy</kwd></kwd-group></article-meta></front><body><sec id="sec1-brainsci-07-00001"><title>1. Introduction</title><p>Insomnia is a significant public health concern affecting approximately 30%&#x02013;36% of the population in its subsyndromal form and between 8% and 15% in its syndromal, or chronic, form [<xref rid="B1-brainsci-07-00001" ref-type="bibr">1</xref>,<xref rid="B2-brainsci-07-00001" ref-type="bibr">2</xref>]. Not only are the costs, both direct and indirect, associated with insomnia considerable but recent research points to insomnia being a risk factor for the development and/or worsening of a myriad of other illnesses and conditions [<xref rid="B3-brainsci-07-00001" ref-type="bibr">3</xref>,<xref rid="B4-brainsci-07-00001" ref-type="bibr">4</xref>,<xref rid="B5-brainsci-07-00001" ref-type="bibr">5</xref>]. Moreover, chronic insomnia appears to be persistent with studies demonstrating both low natural remission rates [<xref rid="B6-brainsci-07-00001" ref-type="bibr">6</xref>] and high recurrence rates [<xref rid="B7-brainsci-07-00001" ref-type="bibr">7</xref>] over time. As such, there is a definite need to address insomnia at both individual and societal levels.</p><p>Cognitive Behavioural Therapy for Insomnia (CBT-I), traditionally delivered individually face-to-face over the course of 6&#x02013;8 weeks, is now considered the first-line treatment option for individuals with chronic insomnia [<xref rid="B8-brainsci-07-00001" ref-type="bibr">8</xref>,<xref rid="B9-brainsci-07-00001" ref-type="bibr">9</xref>]. Through a series of taught techniques, the aim of CBT-I is to increase the drive to sleep whilst eliminating any conditioned arousal to the bedroom and bedtime routine, reducing sleep-related catastrophic worry and concerns and identifying and challenging any pre-existing sleep-related dysfunctional attitudes and beliefs. In terms of its potency, there are now a large number of meta-analyses (see <xref ref-type="fig" rid="brainsci-07-00001-f001">Figure 1</xref>) which not only demonstrate the efficacy and effectiveness of CBT-I, in the main, but also show that it can be successfully delivered in: (a) a group context; (b) via digital technology; and (c) to individuals with a range of physical and psychological co-morbidities [<xref rid="B10-brainsci-07-00001" ref-type="bibr">10</xref>]. That said, there are several issues that hamper the widespread dissemination and implementation of CBT-I. Notably, and despite its relatively short duration compared to other psychotherapeutic techniques, traditional CBT-I is often considered too burdensome in its current format by patients [<xref rid="B11-brainsci-07-00001" ref-type="bibr">11</xref>,<xref rid="B12-brainsci-07-00001" ref-type="bibr">12</xref>] and this is reflected in the relatively high levels of attrition and non-adherence, especially in clinical settings [<xref rid="B13-brainsci-07-00001" ref-type="bibr">13</xref>]. To that end, there have been several attempts to modify traditional CBT-I into abbreviated versions [<xref rid="B14-brainsci-07-00001" ref-type="bibr">14</xref>,<xref rid="B15-brainsci-07-00001" ref-type="bibr">15</xref>,<xref rid="B16-brainsci-07-00001" ref-type="bibr">16</xref>,<xref rid="B17-brainsci-07-00001" ref-type="bibr">17</xref>] to address these issues of patient burden. Whilst these studies have demonstrated good efficacy and effectiveness, the widespread implementation and dissemination of CBT-I has yet to be realized [<xref rid="B18-brainsci-07-00001" ref-type="bibr">18</xref>].</p><p>An alternative perspective, highlighted by Ellis and colleagues in 2012, is to circumvent the development of chronic insomnia by attempting to treat it during its acute phase (i.e., within the first three months of manifesting) [<xref rid="B38-brainsci-07-00001" ref-type="bibr">38</xref>]. The rationale for this being that treatment during the acute phase should be even less burdensome for the patient and faster to administer due to: (i) less conditioned arousal to the bedroom and pre-sleep routine; and (ii) a less realised self-schemata of having &#x0201c;insomnia&#x0201d; which would be evidenced by lower levels of sleep-related catastrophic worry and sleep-related dysfunctional thinking. Moreover, as the intimate link between insomnia and depression appears to become realised during the acute phase of insomnia, Ellis and colleagues argue a need to treat acute insomnia in its own right in an effort to aid in the prevention of depression [<xref rid="B39-brainsci-07-00001" ref-type="bibr">39</xref>]. To that end, Ellis, Cushing and Germain [<xref rid="B40-brainsci-07-00001" ref-type="bibr">40</xref>] created a brief &#x0201c;one-shot&#x0201d; intervention for individuals with acute insomnia. The one-shot consisted of a self-help pamphlet and a single 60&#x02013;70 min face-to-face treatment session. The pamphlet aimed to identify and address sleep-related dysfunctional thinking, through education about sleep, provide techniques to distract from intrusive worrisome thoughts at night and provide the guidelines for sleep-related stimulus control (using the bedroom for sleep and sex alone and leaving the bedroom if unable to sleep). During the single treatment session a personalised sleep &#x0201c;restriction&#x0201d; protocol is created which focuses on maximising sleep efficiency (the amount of time in bed spent asleep) and increasing the depth and quality of sleep. They tested the efficacy and effectiveness of the intervention in a Randomised Controlled Trial with 40 individuals with acute insomnia. One month after delivery, 60% of those in the treatment arm had remitted whereas only 15% of those in the control group had remitted. Further, the authors showed moderate effect sizes for reducing the time it took to get off to sleep (<italic>d</italic> = 0.77), the amount of time awake during the night (<italic>d</italic> = 0.71) and a relative increase in sleep efficiency (<italic>d</italic> = 0.69). Interestingly, three months following treatment, 73.3% of those in the treatment arm had naturally remitted. Despite the success of this brief intervention there still remains a need to determine whether it can be delivered even more efficiently, without losing its efficacy, when considering the increasing financial and practical demands on healthcare services [<xref rid="B41-brainsci-07-00001" ref-type="bibr">41</xref>].</p><p>The aim of the present study was to examine the impact of group therapy versus individual therapy for the single shot treatment in individuals with acute insomnia. In line with the meta-analytic data from group delivered traditional CBT-I [<xref rid="B27-brainsci-07-00001" ref-type="bibr">27</xref>], it was expected that the one-shot within the context of group therapy would be as impactful, both in terms of efficacy and effectiveness, than when delivered on an individual basis.</p></sec><sec id="sec2-brainsci-07-00001"><title>2. Method</title><sec id="sec2dot1-brainsci-07-00001" sec-type="subjects"><title>2.1. Participants</title><p>Subjects were recruited using two advertising posters, which were displayed for approximately 90 days each in community areas (e.g., libraries, and community centres) in two demographically similar regions in the northeast United Kingdom. The posters were similar in design, asking for individuals who had been suffering from acute insomnia to contact the research team with regard to a new treatment study, except one poster stated the treatment session would be in groups whilst the other stated that the treatment would be delivered individually. Each poster had a different contact email address so the research team could track levels of interest for each treatment arm. In order to be eligible participants had to be: (i) between the ages of 18 and 60 years old; (ii) within the first three months of having insomnia; (iii) no history or current experience of CBT-I; and (iv) not currently using sleep medication. Individuals who reported a suspected, untreated or unstable chronic illness or a diagnosis, whether treated and stable, or not, of migraine, Post Traumatic Stress Disorder, epilepsy, seizures, or Parasomnia were excluded from taking part. With respect to the diagnosis of acute insomnia, in line with DSM-5 criteria for Insomnia Disorder, subjects had to report dissatisfaction with their sleep characterised as either a difficulty getting off to sleep, staying asleep or waking earlier than required. Further, the problem should exist despite adequate opportunity to sleep and should occur for, at a minimum, three nights per week. Finally, subjects had to report that the insomnia results in significant impairment to daytime functioning or mood. Within the context of acute insomnia, subjects had to report that the problem had been present for between two weeks and three months.</p></sec><sec id="sec2dot2-brainsci-07-00001"><title>2.2. Procedure</title><p>Potential subjects that contacted the research team, from the email addresses on the poster, were provided an information sheet, which outlined the commitment required by the subject (i.e., two visits to the sleep research laboratory and the completion of questionnaires every week and sleep diaries every day) in addition to the inclusion and exclusion criteria. Those who were eligible and still wanted to take part were screened to ensure they met inclusion criteria and if still eligible were asked to provide informed consent before being enrolled on to the respective arm of the study. Enrolled subjects were sent a weeklong sleep diary and the questionnaires (Insomnia Severity Index [<xref rid="B42-brainsci-07-00001" ref-type="bibr">42</xref>], Patient Health Questionnaire&#x02014;9 [<xref rid="B43-brainsci-07-00001" ref-type="bibr">43</xref>], and General Anxiety Disorder&#x02014;7 [<xref rid="B44-brainsci-07-00001" ref-type="bibr">44</xref>]), for baseline assessment, and were provided an appointment date and time, at the sleep research laboratory, to attend the treatment session approximately a week following enrolment. Subjects were instructed to bring the completed questionnaires and sleep diary with them to the session. The procedure for the &#x0201c;one-shot&#x0201d; insomnia treatment is published elsewhere [<xref rid="B40-brainsci-07-00001" ref-type="bibr">40</xref>]. However, the group therapy subjects were treated in groups of 4. Two Master&#x02019;s level psychologists delivered treatment and both were trained and supervised by an experienced CBT-I therapist (JGE). During the treatment session subjects&#x02019; baseline sleep diaries were used to create personalised sleep plans to follow for the duration of the study. From the personalised sleep plan the average amount of sleep obtained per night (mean Total Sleep Time (TST)) was derived from the baseline sleep diary. TST was then set at the amount of time the individual was required to be in bed each night over the following week (Prescribed Time In Bed (PTIB)) as long as the average was a minimum five hours in duration. If the average from the sleep diaries was less than five hours then PTIB was set at five hours. The subjects, following instruction, and then checked by the investigators during the treatment session, calculated their PTIB. From this point subjects &#x0201c;anchored&#x0201d; their Prescribed Time Out of Bed (PTOB), usually to the time they had to be up in the morning owing to work or social commitments, and then subjects worked backwards to derive their Prescribed Time To Bed (PTTB) for the week. Subjects were told to stick with their personalised sleep plan even on non-work days. At the session subjects were also told that following a week of this new plan they were to titrate their prescription based upon their Sleep Efficiency averages from the week using the following rules: less than 85% SE they were to increase their PTTB by 15 min (i.e., from 12:45 a.m. to 1:00 a.m.), a SE between 85% and 90% to stay with their current schedule and a SE of more than 90% they were to reduce their PTTB by 15 min (i.e., from 12:45 a.m. to 12:30 a.m.). Again, subjects were told not to go below the minimum threshold of five hours PTIB. Finally, subjects were told to titrate at the end of each week for the remaining duration of the study. On completion of the treatment session subjects were provided four weeklong sleep diaries to complete over the duration of the study and a follow-up appointment was made for them to return the diaries and complete the same questionnaires that they completed at baseline. On completion of the study, subjects were thanked, debriefed and offered additional support (i.e., a full six week course of CBT-I) if necessary. The study had been granted ethical approval by Northumbria University Ethics Committee (SUB33_300315 &#x00026; SUB17_180315). </p></sec><sec id="sec2dot3-brainsci-07-00001"><title>2.3. Measures</title><p>The Insomnia Severity Index (ISI) is a 7-item self-report indicator of the presence and severity of insomnia. It takes approximately 5 min to complete. The scale has been used extensively and has excellent psychometric properties [<xref rid="B42-brainsci-07-00001" ref-type="bibr">42</xref>]. Furthermore, the ISI has been shown to be sensitive to change following intervention [<xref rid="B45-brainsci-07-00001" ref-type="bibr">45</xref>]. For the purposes of the present study, subjects were asked to complete the ISI on the basis of the last week. Scores range between 0 and 28 with higher scores indicating higher insomnia symptomology.</p><p>The Patient Health Questionnaire (PHQ 9) is a 9-item self-report questionnaire that examines depression severity. It takes approximately 5 min to complete. The scale is suitable for assessing depression and monitoring change following intervention and has been used extensively in health-related research. It has excellent psychometric properties and is sensitive to change following intervention. For the purpose of the present study the reporting period was matched to that of the other questionnaires and subjects reported on the basis of the last week. For the purposes of analysis, item 3 &#x0201c;Trouble falling or staying asleep, or sleeping too much&#x0201d; was excluded. As such scores ranged from 0 to 24 with higher scores indicating higher depression symptomology.</p><p>The GAD-7 is a 7-item self-report questionnaire that examines anxiety severity. It takes approximately 3 min to complete. The scale is suitable for assessing Generalized Anxiety Disorder and monitoring change following intervention and has been used extensively in primary care research. Scores on the GAD-7 range between 0 and 21 with higher scores indicating higher anxiety symptomology. It has excellent psychometric properties and is sensitive to change following intervention. As with the ISI and PHQ-9, subjects were asked to report on the basis of the previous week.</p><p>The Consensus Sleep Diary [<xref rid="B46-brainsci-07-00001" ref-type="bibr">46</xref>] contains 10 items relating to the previous night&#x02019;s sleep. Subjects were asked to complete the sleep diary each morning over the duration of the study, approximately 20&#x02013;40 min after awakening. From the sleep diary the variables of interest related to the main symptoms of insomnia and were derived from the data averaged over the previous week&#x02014;Sleep Latency (the time elapsed between intending to sleep and sleeping), Wake After Sleep Onset (the duration of time awake over the course of the night not including sleep latency), Sleep Efficiency (the amount of time spent in bed asleep over the duration of time spend in bed overall&#x02014;expressed as a percentage) and Total Sleep Time (the amount of sleep obtained). </p></sec><sec id="sec2dot4-brainsci-07-00001"><title>2.4. Analytic Strategy</title><p>Baseline differences in demographic characteristics and self-reported sleep were examined using a series of <italic>t</italic>-tests. Following checks for normality and homogeneity, a mixed ANOVA was used to examine between and within group differences on the primary outcome measure (i.e., ISI scores). Further, pre-post treatment change scores were used in a multivariate ANOVA to examine group differences and to calculate effect sizes. As in the earlier trial of a &#x0201c;one shot&#x0201d; CBT-I treatment for individuals with acute insomnia [<xref rid="B40-brainsci-07-00001" ref-type="bibr">40</xref>], adherence was operationalized and calculated as an average number of minutes, from the first weeklong sleep diary following treatment, that the subject was outside their Prescribed Time in Bed and if this average was outside 15 min subjects were considered non-adherent. </p></sec></sec><sec id="sec3-brainsci-07-00001"><title>3. Results</title><p>There were 13 enquiries to the group treatment arm, by eligible subjects, whereas there were 15 to the individual treatment arm. However, one subject in the group treatment arm and two in the individual treatment arm did not complete the study. Of note, despite the posters advertising for individuals with acute insomnia there were a number of enquiries by individuals with chronic insomnia to both studies (<italic>n</italic> = 11 in the individual arm and <italic>n</italic> = 8 in the group arm). The final sample consisted of 19 females and six males. In the group treatment arm, there were 10 females and three males and in the individual treatment arm there were 9 females and 3 males. There were no differences between the groups in terms of age (group arm, Mean Age 39.62 &#x000b1; 13.64; individual arm, Mean Age 42.00 &#x000b1; 17.83) or sex (both at <italic>p</italic> &#x0003e; 0.05). There were no significant between group differences, at baseline, on any of the reported measures (all at <italic>p</italic> &#x0003e; 0.05) (see <xref ref-type="table" rid="brainsci-07-00001-t001">Table 1</xref>). </p><p>A mixed ANOVA was used to examine group by time changes on scores on the primary outcome measure (i.e., Insomnia Severity Index Scores). There was no interaction effect (Wilks Lambda = 0.94, F(1,23) = 1.4, <italic>p</italic> &#x0003e; 0.05, partial eta squared = 0.06) or a main effect for group (F(1,23) = 0.03, <italic>p</italic> &#x0003e; 0.05, partial eta squared = 0.001) but there was a main effect for time (Wilks Lambda = 0.2, F(1,23) = 93.14, <italic>p</italic> &#x0003c; 0.001, partial eta squared = 0.8). Following a one-way multivariate analysis of variance on pre-post change scores for each of the variables of interest, psychometric scales (PHQ-9, GAD-7, ISI) and sleep diaries (TST, SL, WASO, SE) revealed the overall model was not significant (F(7,17) = 0.6, <italic>p</italic> &#x0003e; 0.05&#x02014;Pillai&#x02019;s Trace = 0.2, partial eta squared = 0.2). Further analysis of each scale and sleep diary item revealed no between-group differences on any dimension (all at <italic>p</italic> &#x0003e; 0.05).</p><p>In terms of a responder analysis, using the criteria of a score of &#x02264;8 on the ISI, nine out of the 13 participants (69.23%) no longer met criteria for insomnia in the group treatment condition and nine out of 12 (75%) participants in the individual treatment group no longer met criteria for insomnia at the one-month follow-up. There were no significant between-group differences in effectiveness using this criterion (Fishers Exact X<sup>2</sup> (1) = 0.1, <italic>p</italic> &#x0003e; 0.05). With regard to symptom reduction, in line with Morin and colleagues [<xref rid="B36-brainsci-07-00001" ref-type="bibr">36</xref>] (i.e., a reduction of 7 points on the ISI), nine out of 13 (69.23%) subjects in the group arm showed an improvement, whereas 10 out of 12 (83.33%) subjects in the individual arm showed an improvement. There was no difference in treatment response between groups (Fishers Exact X<sup>2</sup> (1) = 0.68, <italic>p</italic> &#x0003e; 0.05).</p><p>Considering there were no apparent differences between the groups, Cohen&#x02019;s d effect sizes were calculated, from pre-post means and standard deviations, for each variable of interest from the overall sample. The results show high effect sizes for PHQ-9 (<italic>d</italic> = 1.28), GAD-7 (<italic>d</italic> = 1.26), ISI (<italic>d</italic> = 2.27), Sleep Latency (<italic>d</italic> = 1.06), Wake after Sleep Onset (<italic>d</italic> = 1.01) and Sleep Efficiency (<italic>d</italic> = 1.23). As expected, the Cohen&#x02019;s d for Total Sleep Time (<italic>d</italic> = 0.17) was small.</p><p>Finally, using the criteria of adherence (i.e., those, on average, who were within 15 min of their PTIB), 7 (53.85%) of the subjects in the group treatment arm were adherent versus 11 (91.67%) in the individual treatment arm. A chi-square demonstrated a significant difference between the groups (Fishers Exact X<sup>2</sup> (1) = 4.43, <italic>p</italic> &#x0003c; 0.05) with those in the individual treatment arm demonstrating higher adherence levels than those in the group treatment arm.</p></sec><sec id="sec4-brainsci-07-00001"><title>4. Discussion</title><p>The present study sought to examine whether the &#x0201c;one shot&#x0201d; CBT-I could be used in a group treatment format and provide an, albeit preliminary, examination of the comparative efficacy and effectiveness of group therapy compared to individual therapy within the context of acute insomnia. </p><p>In line with the hypothesis, the results suggest that in terms of the symptoms and treatment outcomes with respect to sleep and insomnia, with the exception of adherence, group treatment appears to be comparable to individual treatment. Whilst this finding is certainly not new within the context of chronic insomnia and the standard duration of CBT-I [<xref rid="B27-brainsci-07-00001" ref-type="bibr">27</xref>,<xref rid="B47-brainsci-07-00001" ref-type="bibr">47</xref>], this is interesting within the confines of acute insomnia and the &#x0201c;one-shot&#x0201d; treatment strategy. These findings suggest that it is plausible to deliver this intervention to individuals with acute insomnia in a very intensive manner (i.e., via groups) without reducing its efficacy or effectiveness. This naturally will aid in its potential for widespread dissemination and implementation in settings where it may be needed most (i.e., Primary Care), as it will be attractive to both patients and the agencies responsible for healthcare delivery. That said, there is concern with regard to levels of adherence in the group treatment arm, with just under half of the subjects meeting the criteria for being non-adherent. Interestingly, however, it would appear that levels of adherence have not impacted heavily on treatment outcome, although again sample size should be noted here. One possible explanation for this disparity in findings (non-adherence not influencing treatment outcome) is considering at present that there is no &#x0201c;gold standard&#x0201d; definition of adherence following CBT-I it may be that the criteria set down in the present study may have been too conservative and that variations outside this threshold of prescribed time in and out of bed do not impact on treatment outcome. Alternatively, it could be conceivable that the &#x0201c;sleep restriction&#x0201d; prescription, on which adherence rates were based in this study, may not be integral to treatment outcome in this population and a different measure of adherence is needed within the context of acute insomnia. Irrespective, adherence will need to be examined more closely in a larger trial, ideally a randomised control trial, of the intervention and if necessary the &#x0201c;one-shot&#x0201d; may need to be adapted to address adherence before widespread deployment.</p><p>Interestingly, the results suggest that, irrespective of delivery format (group or individual), the &#x0201c;one-shot&#x0201d; appears not only to confer a positive impact on insomnia severity and self-reported symptoms of insomnia (sleep latency and wake after sleep onset), but also impacts of the symptoms of anxiety and depression. Whilst this has been previously demonstrated in samples with chronic insomnia, using a &#x0201c;traditional&#x0201d; CBT-I approach [<xref rid="B48-brainsci-07-00001" ref-type="bibr">48</xref>,<xref rid="B49-brainsci-07-00001" ref-type="bibr">49</xref>], this is the first time these results have been shown within the context of a brief version of CBT-I or for those with acute insomnia. That said, these results should be viewed with a certain degree of caution as it is unknown whether this reduction in symptoms was due to the intervention or whether a level of natural remission occurs, in terms of the symptoms of anxiety and depression, over the early developmental course of insomnia. Sadly, the small sample size precluded a fine-grained analysis of this question.</p><p>The results should be viewed within the context of a few limitations. Primarily this was a relatively small self-selecting sample. More specifically, uptake was very low considering the suggested prevalence and incidence of acute insomnia in the general population [<xref rid="B2-brainsci-07-00001" ref-type="bibr">2</xref>]. Whether this speaks to the context of recruitment within community settings used in the present study or more broadly to a need to increase health literacy with regard to insomnia in general and acute insomnia specifically, so that appropriate pathways to prevention and treatment can be created, is unknown. Certainly it would be interesting to compare differences in uptake if the same study were to be advertised within the context of Primary Care as opposed to in community settings. Further, it should also be acknowledged that the groups were relatively small (i.e., four people) and so it is unknown whether the present findings would be translatable to bigger groups. That said, to date there is limited evidence on optimal group size within the context of the treatment of insomnia and as such it would be difficult to make any conclusions as to whether the small group size had a positive, or indeed negative, influence on treatment outcomes. Additionally, as subjects were not randomly allocated to either individual or group therapy we are unable to make any inferences about the acceptability of the different interventions. Certainly, the next step in this research agenda is to conduct a full RCT, which will include a no-treatment control group, additionally focusing on the acceptability of the different treatment modalities, for people with acute insomnia. Finally, the measure of adherence in the current study could be considered a limitation. Defining adherence on the basis of the first week of sleep diaries following treatment, although used previously [<xref rid="B40-brainsci-07-00001" ref-type="bibr">40</xref>], only provides data on initial adherence to the sleep restriction aspect of the overall CBT-I and nothing more. </p></sec><sec id="sec5-brainsci-07-00001"><title>5. Conclusions</title><p>In summary, the present study demonstrates, albeit rather preliminarily, that a &#x0201c;one-shot&#x0201d; intervention for acute insomnia could be delivered in a group context without losing efficacy or effectiveness, at least compared to it being delivered individually. Moreover, the intervention, irrespective of its delivery modality, appears to confer benefits &#x0201c;above and beyond&#x0201d; sleep itself with an impact on the symptoms of depression and anxiety. However, issues of uptake and adherence will need to be addressed before wide scale dissemination and implementation can occur in Primary Care.</p></sec></body><back><ack><title>Acknowledgments</title><p>We would like to thank Phoebe Windebank for assisting with the data collection and placing of advertisements.</p></ack><notes><title>Author Contributions</title><p>All authors contributed to the design and conduct and data management of the study. J.G.E. was additionally responsible for the initial draft and analysis of the data.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-brainsci-07-00001"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leblanc</surname><given-names>M.</given-names></name><name><surname>M&#x000e9;rette</surname><given-names>C.</given-names></name><name><surname>Savard</surname><given-names>J.</given-names></name><name><surname>Ivers</surname><given-names>H.</given-names></name><name><surname>Baillargeon</surname><given-names>L.</given-names></name><name><surname>Morin</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>Incidence and risk factors of insomnia in a population-based sample</article-title>
+<source>Sleep</source>
+<year>2009</year>
+<volume>32</volume>
+<fpage>1027</fpage>
+<lpage>1037</lpage>
+<pub-id pub-id-type="pmid">19725254</pub-id></element-citation></ref><ref id="B2-brainsci-07-00001"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellis</surname><given-names>J.G.</given-names></name><name><surname>Perlis</surname><given-names>M.L.</given-names></name><name><surname>Neale</surname><given-names>L.F.</given-names></name><name><surname>Espie</surname><given-names>C.A.</given-names></name><name><surname>Bastien</surname><given-names>C.H.</given-names></name></person-group>
+<article-title>The natural history of insomnia: Focus on prevalence and incidence of acute insomnia</article-title>
+<source>J. Psychiatr. Res.</source>
+<year>2012</year>
+<volume>46</volume>
+<fpage>1278</fpage>
+<lpage>1285</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpsychires.2012.07.001</pub-id>
+<pub-id pub-id-type="pmid">22800714</pub-id></element-citation></ref><ref id="B3-brainsci-07-00001"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>L&#x000e9;ger</surname><given-names>D.</given-names></name><name><surname>Bayon</surname><given-names>V.</given-names></name></person-group>
+<article-title>Societal costs of insomnia</article-title>
+<source>Sleep Med. Rev.</source>
+<year>2010</year>
+<volume>14</volume>
+<fpage>379</fpage>
+<lpage>389</lpage>
+<pub-id pub-id-type="doi">10.1016/j.smrv.2010.01.003</pub-id>
+<pub-id pub-id-type="pmid">20359916</pub-id></element-citation></ref><ref id="B4-brainsci-07-00001"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>J.K.</given-names></name></person-group>
+<article-title>Clinical and socioeconomic correlates of insomnia</article-title>
+<source>J. Clin. Psychiatry</source>
+<year>2004</year>
+<volume>65</volume>
+<fpage>13</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="pmid">15153063</pub-id></element-citation></ref><ref id="B5-brainsci-07-00001"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Daley</surname><given-names>M.</given-names></name><name><surname>Morin</surname><given-names>C.M.</given-names></name><name><surname>LeBlanc</surname><given-names>M.</given-names></name><name><surname>Gregoire</surname><given-names>J.P.</given-names></name><name><surname>Savard</surname><given-names>J.</given-names></name></person-group>
+<article-title>The economic burden of insomnia: Direct and indirect costs for individuals with insomnia syndrome, insomnia symptoms, and good sleepers</article-title>
+<source>Sleep</source>
+<year>2009</year>
+<volume>32</volume>
+<fpage>55</fpage>
+<lpage>64</lpage>
+<pub-id pub-id-type="pmid">19189779</pub-id></element-citation></ref><ref id="B6-brainsci-07-00001"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morin</surname><given-names>C.M.</given-names></name><name><surname>B&#x000e9;langer</surname><given-names>L.</given-names></name><name><surname>LeBlanc</surname><given-names>M.</given-names></name><name><surname>Ivers</surname><given-names>H.</given-names></name><name><surname>Savard</surname><given-names>J.</given-names></name><name><surname>Espie</surname><given-names>C.A.</given-names></name><name><surname>M&#x000e9;rette</surname><given-names>C.</given-names></name><name><surname>Baillargeon</surname><given-names>L.</given-names></name><name><surname>Gr&#x000e9;goire</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>The natural history of insomnia: A population-based 3-year longitudinal study</article-title>
+<source>Arch. Intern.</source>
+<year>2009</year>
+<volume>169</volume>
+<fpage>447</fpage>
+<lpage>453</lpage>
+<pub-id pub-id-type="doi">10.1001/archinternmed.2008.610</pub-id>
+<pub-id pub-id-type="pmid">19273774</pub-id></element-citation></ref><ref id="B7-brainsci-07-00001"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Buysse</surname><given-names>D.J.</given-names></name><name><surname>Angst</surname><given-names>J.</given-names></name><name><surname>Gamma</surname><given-names>A.</given-names></name><name><surname>Ajdacic</surname><given-names>V.</given-names></name><name><surname>Eich</surname><given-names>D.</given-names></name><name><surname>Rossler</surname><given-names>W.</given-names></name></person-group>
+<article-title>Prevalence, course, and comorbidity of insomnia and depression in young adults</article-title>
+<source>Sleep</source>
+<year>2008</year>
+<volume>31</volume>
+<fpage>473</fpage>
+<lpage>480</lpage>
+<pub-id pub-id-type="pmid">18457234</pub-id></element-citation></ref><ref id="B8-brainsci-07-00001"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wilson</surname><given-names>S.J.</given-names></name><name><surname>Nutt</surname><given-names>D.J.</given-names></name><name><surname>Alford</surname><given-names>C.</given-names></name><name><surname>Argyropoulos</surname><given-names>S.V.</given-names></name><name><surname>Baldwin</surname><given-names>D.S.</given-names></name><name><surname>Bateson</surname><given-names>A.N.</given-names></name><name><surname>Britton</surname><given-names>T.C.</given-names></name><name><surname>Crowe</surname><given-names>C.</given-names></name><name><surname>Dijk</surname><given-names>D.J.</given-names></name><name><surname>Espie</surname><given-names>C.A.</given-names></name><etal/></person-group>
+<article-title>British Association for Psychopharmacology consensus statement on evidence-based treatment of insomnia, parasomnias and circadian rhythm disorders</article-title>
+<source>J. Psychopharmacol.</source>
+<year>2010</year>
+<volume>24</volume>
+<fpage>1577</fpage>
+<lpage>1601</lpage>
+<pub-id pub-id-type="doi">10.1177/0269881110379307</pub-id>
+<pub-id pub-id-type="pmid">20813762</pub-id></element-citation></ref><ref id="B9-brainsci-07-00001"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qaseem</surname><given-names>A.</given-names></name><name><surname>Kansagara</surname><given-names>D.</given-names></name><name><surname>Forciea</surname><given-names>M.A.</given-names></name><name><surname>Cooke</surname><given-names>M.</given-names></name><name><surname>Denberg</surname><given-names>T.D.</given-names></name></person-group>
+<article-title>Clinical Guidelines Committee of the American College of Physicians. Management of chronic insomnia disorder in adults: A clinical practice guideline from the American College of Physicians</article-title>
+<source>Ann. Intern. Med.</source>
+<year>2016</year>
+<volume>165</volume>
+<fpage>125</fpage>
+<lpage>133</lpage>
+<pub-id pub-id-type="doi">10.7326/M15-2175</pub-id>
+<pub-id pub-id-type="pmid">27136449</pub-id></element-citation></ref><ref id="B10-brainsci-07-00001"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>M.T.</given-names></name><name><surname>Huang</surname><given-names>M.I.</given-names></name><name><surname>Manber</surname><given-names>R.</given-names></name></person-group>
+<article-title>Cognitive behavior therapy for chronic insomnia occurring within the context of medical and psychiatric disorders</article-title>
+<source>Clin. Psychol. Rev.</source>
+<year>2005</year>
+<volume>25</volume>
+<fpage>559</fpage>
+<lpage>592</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cpr.2005.04.004</pub-id>
+<pub-id pub-id-type="pmid">15970367</pub-id></element-citation></ref><ref id="B11-brainsci-07-00001"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gotts</surname><given-names>Z.</given-names></name><name><surname>Deary</surname><given-names>V.</given-names></name><name><surname>Newton</surname><given-names>J.L.</given-names></name><name><surname>Ellis</surname><given-names>J.</given-names></name></person-group>
+<article-title>Treatment of insomnia reduces fatigue in chronic fatigue syndrome in those able to comply with the intervention</article-title>
+<source>Fatigue Biomed. Health Behav.</source>
+<year>2016</year>
+<volume>4</volume>
+<fpage>208</fpage>
+<lpage>216</lpage>
+<pub-id pub-id-type="doi">10.1080/21641846.2016.1222699</pub-id>
+</element-citation></ref><ref id="B12-brainsci-07-00001"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lamberg</surname><given-names>L.</given-names></name></person-group>
+<article-title>Despite effectiveness, behavioral therapy for chronic insomnia still underused</article-title>
+<source>JAMA</source>
+<year>2008</year>
+<volume>300</volume>
+<fpage>2474</fpage>
+<lpage>2475</lpage>
+<pub-id pub-id-type="doi">10.1001/jama.2008.719</pub-id>
+<pub-id pub-id-type="pmid">19050184</pub-id></element-citation></ref><ref id="B13-brainsci-07-00001"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ong</surname><given-names>J.C.</given-names></name><name><surname>Kuo</surname><given-names>T.F.</given-names></name><name><surname>Manber</surname><given-names>R.</given-names></name></person-group>
+<article-title>Who is at risk for dropout from group cognitive-behavior therapy for insomnia?</article-title>
+<source>J. Psychosom. Res.</source>
+<year>2008</year>
+<volume>64</volume>
+<fpage>419</fpage>
+<lpage>425</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpsychores.2007.10.009</pub-id>
+<pub-id pub-id-type="pmid">18374742</pub-id></element-citation></ref><ref id="B14-brainsci-07-00001"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Edinger</surname><given-names>J.D.</given-names></name><name><surname>Sampson</surname><given-names>W.S.</given-names></name></person-group>
+<article-title>A primary care &#x0201c;friendly&#x0201d; cognitive behavioral insomnia therapy</article-title>
+<source>Sleep</source>
+<year>2003</year>
+<volume>26</volume>
+<fpage>177</fpage>
+<lpage>184</lpage>
+<pub-id pub-id-type="pmid">12683477</pub-id></element-citation></ref><ref id="B15-brainsci-07-00001"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Germain</surname><given-names>A.</given-names></name><name><surname>Moul</surname><given-names>D.E.</given-names></name><name><surname>Franzen</surname><given-names>P.L.</given-names></name><name><surname>Miewald</surname><given-names>J.M.</given-names></name><name><surname>Reynolds</surname><given-names>C.F.</given-names></name><name><surname>Monk</surname><given-names>T.H.</given-names></name><name><surname>Buysse</surname><given-names>D.J.</given-names></name></person-group>
+<article-title>Effects of a brief behavioral treatment for late-life insomnia: Preliminary findings</article-title>
+<source>J. Clin. Sleep Med.</source>
+<year>2006</year>
+<volume>2</volume>
+<fpage>403</fpage>
+<lpage>406</lpage>
+<pub-id pub-id-type="pmid">17557467</pub-id></element-citation></ref><ref id="B16-brainsci-07-00001"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lovato</surname><given-names>N.</given-names></name><name><surname>Lack</surname><given-names>L.</given-names></name><name><surname>Wright</surname><given-names>H.</given-names></name><name><surname>Kennaway</surname><given-names>D.J.</given-names></name></person-group>
+<article-title>Evaluation of a brief treatment program of cognitive behavior therapy for insomnia in older adults</article-title>
+<source>Sleep</source>
+<year>2014</year>
+<volume>37</volume>
+<fpage>117</fpage>
+<lpage>126</lpage>
+<pub-id pub-id-type="doi">10.5665/sleep.3320</pub-id>
+<pub-id pub-id-type="pmid">24470701</pub-id></element-citation></ref><ref id="B17-brainsci-07-00001"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Troxel</surname><given-names>W.M.</given-names></name><name><surname>Conrad</surname><given-names>T.S.</given-names></name><name><surname>Germain</surname><given-names>A.</given-names></name><name><surname>Buysse</surname><given-names>D.J.</given-names></name></person-group>
+<article-title>Predictors of treatment response to brief behavioral treatment of insomnia (BBTI) in older adults</article-title>
+<source>J. Clin. Sleep Med.</source>
+<year>2013</year>
+<volume>9</volume>
+<fpage>1281</fpage>
+<lpage>1289</lpage>
+<pub-id pub-id-type="doi">10.5664/jcsm.3270</pub-id>
+<pub-id pub-id-type="pmid">24340290</pub-id></element-citation></ref><ref id="B18-brainsci-07-00001"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perlis</surname><given-names>M.L.</given-names></name><name><surname>Smith</surname><given-names>M.T.</given-names></name></person-group>
+<article-title>How can we make CBT-I and other BSM services widely available</article-title>
+<source>J. Clin. Sleep Med.</source>
+<year>2008</year>
+<volume>4</volume>
+<fpage>11</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="pmid">18350955</pub-id></element-citation></ref><ref id="B19-brainsci-07-00001"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morin</surname><given-names>C.M.</given-names></name><name><surname>Culbert</surname><given-names>J.P.</given-names></name><name><surname>Schwartz</surname><given-names>S.M.</given-names></name></person-group>
+<article-title>Nonpharmacological interventions for insomnia</article-title>
+<source>Am. J. Psychiatry</source>
+<year>1994</year>
+<volume>151</volume>
+<fpage>1172</fpage>
+<lpage>1180</lpage>
+<pub-id pub-id-type="pmid">8037252</pub-id></element-citation></ref><ref id="B20-brainsci-07-00001"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murtagh</surname><given-names>D.R.</given-names></name><name><surname>Greenwood</surname><given-names>K.M.</given-names></name></person-group>
+<article-title>Identifying effective psychological treatments for insomnia: A meta-analysis</article-title>
+<source>J. Consult. Clin. Psychol.</source>
+<year>1995</year>
+<volume>63</volume>
+<fpage>79</fpage>
+<lpage>89</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-006X.63.1.79</pub-id>
+<pub-id pub-id-type="pmid">7896994</pub-id></element-citation></ref><ref id="B21-brainsci-07-00001"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pallesen</surname><given-names>S.</given-names></name><name><surname>Nordhus</surname><given-names>I.H.</given-names></name><name><surname>Kvale</surname><given-names>G.</given-names></name></person-group>
+<article-title>Nonpharmacological interventions for insomnia in older adults: A meta-analysis of treatment efficacy</article-title>
+<source>Psychotherapy</source>
+<year>1998</year>
+<volume>35</volume>
+<fpage>472</fpage>
+<lpage>482</lpage>
+<pub-id pub-id-type="doi">10.1037/h0087829</pub-id>
+</element-citation></ref><ref id="B22-brainsci-07-00001"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Montgomery</surname><given-names>P.</given-names></name><name><surname>Dennis</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Cognitive behavioural interventions for sleep problems in adults aged 60+</article-title>
+<source>Cochrane Database Syst. Rev.</source>
+<year>2002</year>
+<volume>2</volume>
+<fpage>CD003161</fpage>
+</element-citation></ref><ref id="B23-brainsci-07-00001"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Irwin</surname><given-names>M.R.</given-names></name><name><surname>Cole</surname><given-names>J.C.</given-names></name><name><surname>Nicassio</surname><given-names>P.M.</given-names></name></person-group>
+<article-title>Comparative meta-analysis of behavioral interventions for insomnia and their efficacy in middle-aged adults and in older adults 55+ years of age</article-title>
+<source>Health Psychol.</source>
+<year>2006</year>
+<volume>25</volume>
+<fpage>3</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="doi">10.1037/0278-6133.25.1.3</pub-id>
+<pub-id pub-id-type="pmid">16448292</pub-id></element-citation></ref><ref id="B24-brainsci-07-00001"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Okajima</surname><given-names>I.</given-names></name><name><surname>Komada</surname><given-names>Y.</given-names></name><name><surname>Inoue</surname><given-names>Y.</given-names></name></person-group>
+<article-title>A meta-analysis on the treatment effectiveness of cognitive behavioral therapy for primary insomnia</article-title>
+<source>Sleep Biol. Rhythms.</source>
+<year>2011</year>
+<volume>9</volume>
+<fpage>24</fpage>
+<lpage>34</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1479-8425.2010.00481.x</pub-id>
+</element-citation></ref><ref id="B25-brainsci-07-00001"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mitchell</surname><given-names>M.D.</given-names></name><name><surname>Gehrman</surname><given-names>P.</given-names></name><name><surname>Perlis</surname><given-names>M.</given-names></name><name><surname>Umscheid</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Comparative effectiveness of cognitive behavioral therapy for insomnia: A systematic review</article-title>
+<source>BMC Fam. Pract.</source>
+<year>2012</year>
+<volume>13</volume>
+<elocation-id>40</elocation-id>
+<pub-id pub-id-type="doi">10.1186/1471-2296-13-40</pub-id>
+<pub-id pub-id-type="pmid">22631616</pub-id></element-citation></ref><ref id="B26-brainsci-07-00001"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>C.B.</given-names></name><name><surname>Espie</surname><given-names>C.A.</given-names></name><name><surname>Epstein</surname><given-names>D.R.</given-names></name><name><surname>Friedman</surname><given-names>L.</given-names></name><name><surname>Morin</surname><given-names>C.M.</given-names></name><name><surname>Pigeon</surname><given-names>W.R.</given-names></name><name><surname>Spielman</surname><given-names>A.J.</given-names></name><name><surname>Kyle</surname><given-names>S.D.</given-names></name></person-group>
+<article-title>The evidence base of sleep restriction therapy for treating insomnia disorder</article-title>
+<source>Sleep Med. Rev.</source>
+<year>2014</year>
+<volume>18</volume>
+<fpage>415</fpage>
+<lpage>424</lpage>
+<pub-id pub-id-type="doi">10.1016/j.smrv.2014.01.006</pub-id>
+<pub-id pub-id-type="pmid">24629826</pub-id></element-citation></ref><ref id="B27-brainsci-07-00001"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koffel</surname><given-names>E.A.</given-names></name><name><surname>Koffel</surname><given-names>J.B.</given-names></name><name><surname>Gehrman</surname><given-names>P.R.</given-names></name></person-group>
+<article-title>A meta-analysis of group cognitive behavioral therapy for insomnia</article-title>
+<source>Sleep Med. Rev.</source>
+<year>2015</year>
+<volume>19</volume>
+<fpage>6</fpage>
+<lpage>16</lpage>
+<pub-id pub-id-type="doi">10.1016/j.smrv.2014.05.001</pub-id>
+<pub-id pub-id-type="pmid">24931811</pub-id></element-citation></ref><ref id="B28-brainsci-07-00001"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>J.Q.</given-names></name><name><surname>Appleman</surname><given-names>E.R.</given-names></name><name><surname>Salazar</surname><given-names>R.D.</given-names></name><name><surname>Ong</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>Cognitive behavioral therapy for insomnia comorbid with psychiatric and medical conditions: A meta-analysis</article-title>
+<source>JAMA</source>
+<year>2015</year>
+<volume>175</volume>
+<fpage>1461</fpage>
+<lpage>1472</lpage>
+<pub-id pub-id-type="doi">10.1001/jamainternmed.2015.3006</pub-id>
+<pub-id pub-id-type="pmid">26147487</pub-id></element-citation></ref><ref id="B29-brainsci-07-00001"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Trauer</surname><given-names>J.M.</given-names></name><name><surname>Qian</surname><given-names>M.Y.</given-names></name><name><surname>Doyle</surname><given-names>J.S.</given-names></name><name><surname>Rajaratnam</surname><given-names>S.M.</given-names></name><name><surname>Cunnington</surname><given-names>D.</given-names></name></person-group>
+<article-title>Cognitive behavioral therapy for chronic insomnia: A systematic review and meta-analysis</article-title>
+<source>Ann. Intern. Med.</source>
+<year>2015</year>
+<volume>163</volume>
+<fpage>191</fpage>
+<lpage>204</lpage>
+<pub-id pub-id-type="doi">10.7326/M14-2841</pub-id>
+<pub-id pub-id-type="pmid">26054060</pub-id></element-citation></ref><ref id="B30-brainsci-07-00001"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ho</surname><given-names>F.Y.</given-names></name><name><surname>Chung</surname><given-names>K.F.</given-names></name><name><surname>Yeung</surname><given-names>W.F.</given-names></name><name><surname>Ng</surname><given-names>T.H.</given-names></name><name><surname>Kwan</surname><given-names>K.S.</given-names></name><name><surname>Yung</surname><given-names>K.P.</given-names></name><name><surname>Cheng</surname><given-names>S.K.</given-names></name></person-group>
+<article-title>Self-help cognitive-behavioral therapy for insomnia: A meta-analysis of randomized controlled trials</article-title>
+<source>Sleep Med. Rev.</source>
+<year>2015</year>
+<volume>19</volume>
+<fpage>17</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="doi">10.1016/j.smrv.2014.06.010</pub-id>
+<pub-id pub-id-type="pmid">25104471</pub-id></element-citation></ref><ref id="B31-brainsci-07-00001"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Geiger-Brown</surname><given-names>J.M.</given-names></name><name><surname>Rogers</surname><given-names>V.E.</given-names></name><name><surname>Liu</surname><given-names>W.</given-names></name><name><surname>Ludeman</surname><given-names>E.M.</given-names></name><name><surname>Downton</surname><given-names>K.D.</given-names></name><name><surname>Diaz-Abad</surname><given-names>M.</given-names></name></person-group>
+<article-title>Cognitive behavioral therapy in persons with comorbid insomnia: A meta-analysis</article-title>
+<source>Sleep Med. Rev.</source>
+<year>2015</year>
+<volume>23</volume>
+<fpage>54</fpage>
+<lpage>67</lpage>
+<pub-id pub-id-type="doi">10.1016/j.smrv.2014.11.007</pub-id>
+<pub-id pub-id-type="pmid">25645130</pub-id></element-citation></ref><ref id="B32-brainsci-07-00001"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tang</surname><given-names>N.K.</given-names></name><name><surname>Lereya</surname><given-names>S.T.</given-names></name><name><surname>Boulton</surname><given-names>H.</given-names></name><name><surname>Miller</surname><given-names>M.A.</given-names></name><name><surname>Wolke</surname><given-names>D.</given-names></name><name><surname>Cappuccio</surname><given-names>F.P.</given-names></name></person-group>
+<article-title>Nonpharmacological treatments of insomnia for long-term painful conditions: A systematic review and meta-analysis of patient-reported outcomes in randomized controlled trials</article-title>
+<source>Sleep</source>
+<year>2015</year>
+<volume>38</volume>
+<fpage>1751</fpage>
+<lpage>1764</lpage>
+<pub-id pub-id-type="doi">10.5665/sleep.5158</pub-id>
+<pub-id pub-id-type="pmid">25902806</pub-id></element-citation></ref><ref id="B33-brainsci-07-00001"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ye</surname><given-names>Y.Y.</given-names></name><name><surname>Zhang</surname><given-names>Y.F.</given-names></name><name><surname>Chen</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>X.J.</given-names></name><name><surname>Liu</surname><given-names>Y.Z.</given-names></name><name><surname>Lang</surname><given-names>Y.</given-names></name><name><surname>Lin</surname><given-names>L.</given-names></name><name><surname>Yang</surname><given-names>X.J.</given-names></name><name><surname>Jiang</surname><given-names>X.J.</given-names></name></person-group>
+<article-title>Internet-based cognitive behavioral therapy for insomnia (ICBT-i) improves comorbid anxiety and depression&#x02014;A meta-analysis of randomized controlled trials</article-title>
+<source>PLoS ONE</source>
+<year>2015</year>
+<volume>10</volume>
+<elocation-id>e0142258</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0142258</pub-id>
+<pub-id pub-id-type="pmid">26581107</pub-id></element-citation></ref><ref id="B34-brainsci-07-00001"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zachariae</surname><given-names>R.</given-names></name><name><surname>Lyby</surname><given-names>M.S.</given-names></name><name><surname>Ritterband</surname><given-names>L.M.</given-names></name><name><surname>O&#x02019;Toole</surname><given-names>M.S.</given-names></name></person-group>
+<article-title>Efficacy of internet-delivered cognitive-behavioral therapy for insomnia&#x02013;A systematic review and meta-analysis of randomized controlled trials</article-title>
+<source>Sleep Med. Rev.</source>
+<year>2016</year>
+<volume>30</volume>
+<fpage>1</fpage>
+<lpage>10</lpage>
+<pub-id pub-id-type="doi">10.1016/j.smrv.2015.10.004</pub-id>
+<pub-id pub-id-type="pmid">26615572</pub-id></element-citation></ref><ref id="B35-brainsci-07-00001"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Crescenzo</surname><given-names>F.</given-names></name><name><surname>Foti</surname><given-names>F.</given-names></name><name><surname>Ciabattini</surname><given-names>M.</given-names></name><name><surname>Del Giovane</surname><given-names>C.</given-names></name><name><surname>Watanabe</surname><given-names>N.</given-names></name><name><surname>Sa&#x000f1;&#x000e9; Schepisi</surname><given-names>M.</given-names></name><name><surname>Quested</surname><given-names>D.J.</given-names></name><name><surname>Cipriani</surname><given-names>A.</given-names></name><name><surname>Barbui</surname><given-names>C.</given-names></name><name><surname>Amato</surname><given-names>L.</given-names></name></person-group>
+<article-title>Comparative efficacy and acceptability of pharmacological treatments for insomnia in adults: A systematic review and network meta-analysis</article-title>
+<source>Cochrane Database Syst. Rev.</source>
+<year>2016</year>
+<pub-id pub-id-type="doi">10.1002/14651858.CD012364</pub-id>
+</element-citation></ref><ref id="B36-brainsci-07-00001"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johnson</surname><given-names>J.A.</given-names></name><name><surname>Rash</surname><given-names>J.A.</given-names></name><name><surname>Campbell</surname><given-names>T.S.</given-names></name><name><surname>Savard</surname><given-names>J.</given-names></name><name><surname>Gehrman</surname><given-names>P.R.</given-names></name><name><surname>Perlis</surname><given-names>M.</given-names></name><name><surname>Carlson</surname><given-names>L.E.</given-names></name><name><surname>Garland</surname><given-names>S.N.</given-names></name></person-group>
+<article-title>A systematic review and meta-analysis of randomized controlled trials of cognitive behavior therapy for insomnia (CBT-I) in cancer survivors</article-title>
+<source>Sleep Med. Rev.</source>
+<year>2016</year>
+<volume>30</volume>
+<fpage>20</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="doi">10.1016/j.smrv.2015.07.001</pub-id>
+<pub-id pub-id-type="pmid">26434673</pub-id></element-citation></ref><ref id="B37-brainsci-07-00001"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Seyffert</surname><given-names>M.</given-names></name><name><surname>Lagisetty</surname><given-names>P.</given-names></name><name><surname>Landgraf</surname><given-names>J.</given-names></name><name><surname>Chopra</surname><given-names>V.</given-names></name><name><surname>Pfeiffer</surname><given-names>P.N.</given-names></name><name><surname>Conte</surname><given-names>M.L.</given-names></name><name><surname>Rogers</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>Internet-Delivered Cognitive Behavioral Therapy to Treat Insomnia: A Systematic Review and Meta-Analysis</article-title>
+<source>PLoS ONE</source>
+<year>2016</year>
+<volume>11</volume>
+<elocation-id>e0149139</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0149139</pub-id>
+<pub-id pub-id-type="pmid">26867139</pub-id></element-citation></ref><ref id="B38-brainsci-07-00001"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellis</surname><given-names>J.G.</given-names></name><name><surname>Gehrman</surname><given-names>P.</given-names></name><name><surname>Espie</surname><given-names>C.A.</given-names></name><name><surname>Riemann</surname><given-names>D.</given-names></name><name><surname>Perlis</surname><given-names>M.L.</given-names></name></person-group>
+<article-title>Acute insomnia: Current conceptualizations and future directions</article-title>
+<source>Sleep Med. Rev.</source>
+<year>2012</year>
+<volume>16</volume>
+<fpage>5</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="doi">10.1016/j.smrv.2011.02.002</pub-id>
+<pub-id pub-id-type="pmid">21596596</pub-id></element-citation></ref><ref id="B39-brainsci-07-00001"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellis</surname><given-names>J.G.</given-names></name><name><surname>Perlis</surname><given-names>M.L.</given-names></name><name><surname>Gardani</surname><given-names>M.</given-names></name><name><surname>Bastien</surname><given-names>C.H.</given-names></name><name><surname>Espie</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>The Natural History of Insomnia: Acute insomnia and first onset depression</article-title>
+<source>Sleep</source>
+<year>2014</year>
+<volume>37</volume>
+<fpage>97</fpage>
+<lpage>106</lpage>
+<pub-id pub-id-type="doi">10.5665/sleep.3316</pub-id>
+<pub-id pub-id-type="pmid">24470699</pub-id></element-citation></ref><ref id="B40-brainsci-07-00001"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellis</surname><given-names>J.G.</given-names></name><name><surname>Cushing</surname><given-names>T.</given-names></name><name><surname>Germain</surname><given-names>A.</given-names></name></person-group>
+<article-title>Treating Acute Insomnia: A Randomized Controlled Trial of a &#x0201c;Single-Shot&#x0201d; of Cognitive Behavioral Therapy for Insomnia</article-title>
+<source>Sleep</source>
+<year>2015</year>
+<volume>38</volume>
+<fpage>971</fpage>
+<lpage>978</lpage>
+<pub-id pub-id-type="doi">10.5665/sleep.4752</pub-id>
+<pub-id pub-id-type="pmid">25515106</pub-id></element-citation></ref><ref id="B41-brainsci-07-00001"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bower</surname><given-names>P.</given-names></name><name><surname>Gilbody</surname><given-names>S.</given-names></name></person-group>
+<article-title>Stepped care in psychological therapies: Access, effectiveness and efficiency</article-title>
+<source>Br. J. Psychiatry</source>
+<year>2005</year>
+<volume>186</volume>
+<fpage>11</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.186.1.11</pub-id>
+<pub-id pub-id-type="pmid">15630118</pub-id></element-citation></ref><ref id="B42-brainsci-07-00001"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bastien</surname><given-names>C.H.</given-names></name><name><surname>Valli&#x000e8;res</surname><given-names>A.</given-names></name><name><surname>Morin</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>Validation of the Insomnia Severity Index as an outcome measure for insomnia research</article-title>
+<source>Sleep Med.</source>
+<year>2001</year>
+<volume>2</volume>
+<fpage>297</fpage>
+<lpage>307</lpage>
+<pub-id pub-id-type="doi">10.1016/S1389-9457(00)00065-4</pub-id>
+<pub-id pub-id-type="pmid">11438246</pub-id></element-citation></ref><ref id="B43-brainsci-07-00001"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kroenke</surname><given-names>K.</given-names></name><name><surname>Spitzer</surname><given-names>R.L.</given-names></name></person-group>
+<article-title>The PHQ-9: A new depression diagnostic and severity measure</article-title>
+<source>Psychiatr. Ann.</source>
+<year>2002</year>
+<volume>32</volume>
+<fpage>509</fpage>
+<lpage>515</lpage>
+<pub-id pub-id-type="doi">10.3928/0048-5713-20020901-06</pub-id>
+</element-citation></ref><ref id="B44-brainsci-07-00001"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spitzer</surname><given-names>R.L.</given-names></name><name><surname>Kroenke</surname><given-names>K.</given-names></name><name><surname>Williams</surname><given-names>J.B.</given-names></name><name><surname>L&#x000f6;we</surname><given-names>B.</given-names></name></person-group>
+<article-title>A brief measure for assessing generalized anxiety disorder: The GAD-7</article-title>
+<source>Arch. Intern. Med.</source>
+<year>2006</year>
+<volume>166</volume>
+<fpage>1092</fpage>
+<lpage>1097</lpage>
+<pub-id pub-id-type="doi">10.1001/archinte.166.10.1092</pub-id>
+<pub-id pub-id-type="pmid">16717171</pub-id></element-citation></ref><ref id="B45-brainsci-07-00001"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>M.</given-names></name><name><surname>Morin</surname><given-names>C.M.</given-names></name><name><surname>Schaefer</surname><given-names>K.</given-names></name><name><surname>Wallenstein</surname><given-names>G.V.</given-names></name></person-group>
+<article-title>Interpreting score differences in the Insomnia Severity Index: Using health-related outcomes to define the minimally important difference</article-title>
+<source>Curr. Med. Res. Opin.</source>
+<year>2009</year>
+<volume>25</volume>
+<fpage>2487</fpage>
+<lpage>2494</lpage>
+<pub-id pub-id-type="doi">10.1185/03007990903167415</pub-id>
+<pub-id pub-id-type="pmid">19689221</pub-id></element-citation></ref><ref id="B46-brainsci-07-00001"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carney</surname><given-names>C.E.</given-names></name><name><surname>Buysse</surname><given-names>D.J.</given-names></name><name><surname>Ancoli-Israel</surname><given-names>S.</given-names></name><name><surname>Edinger</surname><given-names>J.D.</given-names></name><name><surname>Krystal</surname><given-names>A.D.</given-names></name><name><surname>Lichstein</surname><given-names>K.L.</given-names></name><name><surname>Morin</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>The consensus sleep diary: Standardizing prospective sleep self-monitoring</article-title>
+<source>Sleep</source>
+<year>2012</year>
+<volume>35</volume>
+<fpage>287</fpage>
+<lpage>302</lpage>
+<pub-id pub-id-type="doi">10.5665/sleep.1642</pub-id>
+<pub-id pub-id-type="pmid">22294820</pub-id></element-citation></ref><ref id="B47-brainsci-07-00001"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bastien</surname><given-names>C.H.</given-names></name><name><surname>Morin</surname><given-names>C.M.</given-names></name><name><surname>Ouellet</surname><given-names>M.C.</given-names></name><name><surname>Blais</surname><given-names>F.C.</given-names></name><name><surname>Bouchard</surname><given-names>S.</given-names></name></person-group>
+<article-title>Cognitive-behavioral therapy for insomnia: Comparison of individual therapy, group therapy, and telephone consultations</article-title>
+<source>J. Consult. Clin. Psychol.</source>
+<year>2004</year>
+<volume>72</volume>
+<fpage>653</fpage>
+<lpage>659</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-006X.72.4.653</pub-id>
+<pub-id pub-id-type="pmid">15301650</pub-id></element-citation></ref><ref id="B48-brainsci-07-00001"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Manber</surname><given-names>R.</given-names></name><name><surname>Bernert</surname><given-names>R.A.</given-names></name><name><surname>Suh</surname><given-names>S.</given-names></name><name><surname>Nowakowski</surname><given-names>S.</given-names></name><name><surname>Siebern</surname><given-names>A.T.</given-names></name><name><surname>Ong</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>CBT for insomnia in patients with high and low depressive symptom severity: Adherence and clinical outcomes</article-title>
+<source>J. Clin. Sleep Med.</source>
+<year>2011</year>
+<volume>7</volume>
+<fpage>645</fpage>
+<lpage>652</lpage>
+<pub-id pub-id-type="doi">10.5664/jcsm.1472</pub-id>
+<pub-id pub-id-type="pmid">22171204</pub-id></element-citation></ref><ref id="B49-brainsci-07-00001"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Manber</surname><given-names>R.</given-names></name><name><surname>Edinger</surname><given-names>J.D.</given-names></name><name><surname>Gress</surname><given-names>J.L.</given-names></name><name><surname>San Pedro-Salcedo</surname><given-names>M.G.</given-names></name><name><surname>Kuo</surname><given-names>T.F.</given-names></name><name><surname>Kalista</surname><given-names>T.</given-names></name></person-group>
+<article-title>Cognitive behavioral therapy for insomnia enhances depression outcome in patients with comorbid major depressive disorder and insomnia</article-title>
+<source>Sleep</source>
+<year>2008</year>
+<volume>31</volume>
+<fpage>489</fpage>
+<lpage>495</lpage>
+<pub-id pub-id-type="pmid">18457236</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="brainsci-07-00001-f001" position="float"><label>Figure 1</label><caption><p>An overview of CBT-I meta-analyses.</p></caption><graphic xlink:href="brainsci-07-00001-g001"/></fig><table-wrap id="brainsci-07-00001-t001" position="float"><object-id pub-id-type="pii">brainsci-07-00001-t001_Table 1</object-id><label>Table 1</label><caption><p>Means and Standard Deviations by Group.</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Variables</th><th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Baseline</th><th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Follow-Up</th><th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Change Scores</th></tr><tr><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Group (<italic>n</italic> = 13)</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Individual (<italic>n</italic> = 12)</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Group (<italic>n</italic> = 13)</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Individual (<italic>n</italic> = 12)</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">PHQ-9</td><td align="center" valign="middle" rowspan="1" colspan="1">7.39 (5.46)</td><td align="center" valign="middle" rowspan="1" colspan="1">6.92 (2.68)</td><td align="center" valign="middle" rowspan="1" colspan="1">2.15 (2.58)</td><td align="center" valign="middle" rowspan="1" colspan="1">3.5 (1.68)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;4.36 (3.92)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">GAD-7</td><td align="center" valign="middle" rowspan="1" colspan="1">7.08 (5.14)</td><td align="center" valign="middle" rowspan="1" colspan="1">8.00 (3.44)</td><td align="center" valign="middle" rowspan="1" colspan="1">2.54 (2.6)</td><td align="center" valign="middle" rowspan="1" colspan="1">3.75 (1.91)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;4.4 (4.26)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">ISI</td><td align="center" valign="middle" rowspan="1" colspan="1">15.92 (6.14)</td><td align="center" valign="middle" rowspan="1" colspan="1">14.5 (3.8)</td><td align="center" valign="middle" rowspan="1" colspan="1">5.15 (3.69)</td><td align="center" valign="middle" rowspan="1" colspan="1">6.08 (2.61)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;9.64 (5.01)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">SL</td><td align="center" valign="middle" rowspan="1" colspan="1">27.95 (25.58)</td><td align="center" valign="middle" rowspan="1" colspan="1">28.53 (17.81)</td><td align="center" valign="middle" rowspan="1" colspan="1">10.8 (6.93)</td><td align="center" valign="middle" rowspan="1" colspan="1">12.24 (7.57)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;16.73 (19.81)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">WASO</td><td align="center" valign="middle" rowspan="1" colspan="1">54.33 (35.63)</td><td align="center" valign="middle" rowspan="1" colspan="1">28.65 (26.98)</td><td align="center" valign="middle" rowspan="1" colspan="1">17.1 (13.92)</td><td align="center" valign="middle" rowspan="1" colspan="1">14.62 (14.89)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;26.11 (33.58)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">SE</td><td align="center" valign="middle" rowspan="1" colspan="1">74.75 (13.54)</td><td align="center" valign="middle" rowspan="1" colspan="1">78.83 (9.81)</td><td align="center" valign="middle" rowspan="1" colspan="1">89.19 (4.83)</td><td align="center" valign="middle" rowspan="1" colspan="1">87.46 (7.58)</td><td align="center" valign="middle" rowspan="1" colspan="1">11.65 (13.21)</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TST</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">397.55 (76.9)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">425 (35.71)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">407.47 (53.68)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">433.45 (41.91)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9.21 (52.01)</td></tr></tbody></table><table-wrap-foot><fn><p>PHQ-9: Patient Health Questionnaire; GAD-7: Generalized Anxiety Disorder; ISI: Insomnia Severity Index; SL: Sleep Latency; WASO: Wake After Sleep Onset; SE: Sleep Efficiency; TST:Total Sleep Time.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

@@ -1,0 +1,527 @@
+<?xml-model href="http://dtd.nlm.nih.gov/publishing/3.0/rng/journalpublishing3.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bone Joint Res</journal-id><journal-id journal-id-type="iso-abbrev">Bone Joint Res</journal-id><journal-title-group><journal-title>Bone &#x00026; Joint Research</journal-title></journal-title-group><issn pub-type="ppub">2046-3758</issn><issn pub-type="epub">2046-3758</issn><publisher><publisher-name>British Editorial Society of Bone and Joint Surgery</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">23610700</article-id><article-id pub-id-type="pmc">3626218</article-id><article-id pub-id-type="doi">10.1302/2046-3758.22.2000137</article-id><article-id pub-id-type="publisher-id">2000137</article-id><article-categories><subj-group subj-group-type="heading"><subject>Hip</subject></subj-group><subj-group subj-group-type="hwp-journal-coll"><subject>1</subject></subj-group><subj-group subj-group-type="search-keyword"><subject>Femoroacetabular Impingement</subject><subject>Randomised Controlled Trial</subject><subject>Hip</subject><subject>Feasibility</subject><subject>Equipoise</subject><subject>Trial Design</subject></subj-group></article-categories><title-group><article-title>The feasibility of performing a randomised
+controlled trial for femoroacetabular impingement surgery</article-title></title-group><contrib-group><contrib id="c1" contrib-type="author"><name><surname>Palmer</surname><given-names>A. J. R.</given-names></name><degrees>MA, BMBCh, MRCS</degrees><role>Clinical Research Fellow</role><xref ref-type="aff" rid="a1">1</xref><uri content-type="homepage" xlink:type="simple" xlink:href="http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1000308">http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1000308</uri></contrib><contrib id="c2" contrib-type="author"><name><surname>Thomas</surname><given-names>G. E. R.</given-names></name><degrees>MA, MBBS, MRCS</degrees><role>Clinical
+Research Fellow</role><xref ref-type="aff" rid="a1">1</xref><uri content-type="homepage" xlink:type="simple" xlink:href="http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1005172">http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1005172</uri></contrib><contrib id="c3" contrib-type="author"><name><surname>Pollard</surname><given-names>T. C. B.</given-names></name><degrees>BSc, MD, FRCS</degrees><role>Consultant
+Orthopaedic Surgeon</role><xref ref-type="aff" rid="a3">2</xref><uri content-type="homepage" xlink:type="simple" xlink:href="http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1004133">http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1004133</uri></contrib><contrib id="c4" contrib-type="author"><name><surname>Rombach</surname><given-names>I.</given-names></name><degrees>MSc</degrees><role>Clinical
+Trials Statistician</role><xref ref-type="aff" rid="a1">1</xref></contrib><contrib id="c5" contrib-type="author"><name><surname>Taylor</surname><given-names>A.</given-names></name><degrees>FRCS</degrees><role>Consultant
+Orthopaedic Surgeon</role><xref ref-type="aff" rid="a5">3</xref></contrib><contrib id="c6" contrib-type="author"><name><surname>Arden</surname><given-names>N.</given-names></name><degrees>MSc, MD, FRCP</degrees><role>Professor
+of Rheumatology</role><xref ref-type="aff" rid="a1">1</xref></contrib><contrib id="c7" contrib-type="author"><name><surname>Beard</surname><given-names>D. J.</given-names></name><degrees>MSc, DPhil</degrees><role>Professor of Musculoskeletal
+Sciences</role><xref ref-type="aff" rid="a1">1</xref><uri content-type="homepage" xlink:type="simple" xlink:href="http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1001032">http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1001032</uri></contrib><contrib id="c8" contrib-type="author"><name><surname>Andrade</surname><given-names>A. J.</given-names></name><degrees>MSc, FRCS</degrees><role>Consultant Orthopaedic Surgeon</role><xref ref-type="aff" rid="a3">2</xref><uri content-type="homepage" xlink:type="simple" xlink:href="http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1000239">http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1000239</uri></contrib><contrib id="c9" contrib-type="author"><name><surname>Carr</surname><given-names>A. J.</given-names></name><degrees>FRCS, FMedSci</degrees><role>Nuffield Professor of Orthopaedic
+Surgery</role><xref ref-type="aff" rid="a1">1</xref><uri content-type="homepage" xlink:type="simple" xlink:href="http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1000741">http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1000741</uri></contrib><contrib id="c10" contrib-type="author"><name><surname>Glyn-Jones</surname><given-names>S.</given-names></name><degrees>MS, DPhil, FRCS</degrees><role>Consultant Orthopaedic Surgeon</role><xref ref-type="aff" rid="a1">1</xref><uri content-type="homepage" xlink:type="simple" xlink:href="http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1001826">http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1001826</uri></contrib><aff id="a1"><label>1</label>Nuffield Department of Orthopaedics, Rheumatology
+and Musculoskeletal Sciences (NDORMS), University
+of Oxford, Windmill Road, Headington, Oxford
+OX3 7LD, UK.</aff><aff id="a3"><label>2</label>Royal Berkshire Hospital, London
+Road, Reading RG1 5AN, UK.</aff><aff id="a5"><label>3</label>Nuffield Orthopaedic Centre, Windmill
+Road, Headington, Oxford
+OX3 7LD, UK.</aff></contrib-group><author-notes><corresp>Correspondence should be sent to Mr A. J.
+R. Palmer; e-mail: <email>antony.palmer@ndorms.ox.ac.uk</email></corresp></author-notes><pub-date pub-type="collection"><month>2</month><year>2013</year></pub-date><pub-date pub-type="epub"><day>01</day><month>2</month><year>2013</year></pub-date><volume>2</volume><issue>2</issue><fpage>33</fpage><lpage>40</lpage><history><date date-type="received"><day>01</day><month>10</month><year>2012</year></date><date date-type="accepted"><day>09</day><month>1</month><year>2013</year></date></history><permissions><copyright-statement>&#x000a9;2013 The British Editorial Society of Bone &#x00026; Joint Surgery</copyright-statement><license license-type="open-access"><license-p>&#x000a9;2013 The British Editorial Society of Bone &#x00026; Joint Surgery. This is an open-access article distributed under the terms of the Creative Commons Attributions licence, which permits unrestricted use, distribution, and reproduction in any medium, but not for commercial gain, provided the original author and source are credited.</license-p></license></permissions><abstract><sec><title>Objectives</title><p>The number of surgical procedures performed each year to treat
+femoroacetabular impingement (FAI) continues to rise. Although there
+is evidence that surgery can improve symptoms in the short-term,
+there is no evidence that it slows the development of osteoarthritis
+(OA). We performed a feasibility study to determine whether patient
+and surgeon opinion was permissive for a Randomised Controlled Trial
+(RCT) comparing operative with non-operative treatment for FAI.</p></sec><sec><title>Methods</title><p>Surgeon opinion was obtained using validated questionnaires at
+a Specialist Hip Meeting (n&#x000a0;= 61, 30 of whom stated that they routinely
+performed FAI surgery) and patient opinion was obtained from clinical
+patients with a new diagnosis of FAI (n = 31).</p></sec><sec><title>Results</title><p>Clinical equipoise was demonstrated when surgeons were given
+clinical scenarios and asked whether they would manage a patient
+operatively or non-operatively. A total of 23 surgeons (77%) who
+routinely perform FAI surgery were willing to recruit patients into
+a RCT, and 28&#x000a0;patients (90%) were willing to participate. 75% of
+responding surgeons believed it was appropriate to randomise patients
+to non-operative treatment for &#x02265; 12 months. Conversely, only eight
+patients (26%) felt this was acceptable, although 29 (94%) were
+willing to continue non-operative treatment for six months. More
+patients were concerned about their risk of developing OA than their
+current symptoms, although most patients felt that the two were
+of equal importance.</p></sec><sec><title>Conclusions</title><p>We conclude that a RCT comparing operative and non-operative
+management of FAI is feasible and should be considered a research
+priority. An important finding for orthopaedic surgical trials is
+that patients without life-threatening pathology appear willing
+to trial a treatment for six months without improvement in their
+symptoms.</p></sec></abstract><kwd-group><kwd>Femoroacetabular impingement</kwd><kwd>Randomised controlled trial</kwd><kwd>Hip</kwd><kwd>Feasibility</kwd><kwd>Equipoise</kwd><kwd>Trial design</kwd></kwd-group><funding-group><funding-statement>None declared</funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>odf2nlm-version</meta-name><meta-value>1.0</meta-value></custom-meta><custom-meta><meta-name>price</meta-name><meta-value>$2.00</meta-value></custom-meta><custom-meta><meta-name>principal-institution</meta-name><meta-value>Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences (NDORMS), University of Oxford, Oxford, United Kingdom</meta-value></custom-meta><custom-meta><meta-name>article-type</meta-name><meta-value>Research</meta-value></custom-meta><custom-meta><meta-name>coi-statement</meta-name><meta-value>None declared</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Article focus</title><list list-type="bullet"><list-item><p>The number of surgical procedures performed each year to treat
+femoroacetabular impingement (FAI) continues to rise exponentially
+in the absence of evidence to show long-term benefit</p></list-item><list-item><p>Funding bodies increasingly request evidence of study feasibility</p></list-item><list-item><p>Our study aim was to determine whether surgeon and patient opinion
+is permissive of a randomised controlled trial (RCT) to investigate
+whether surgery is superior to non-operative management of FAI</p></list-item></list></sec><sec><title>Key messages</title><list list-type="bullet"><list-item><p>RCT to compare operative and non-operative management of FAI
+is feasible</p></list-item><list-item><p>Patients are willing to continue non-operative management without
+improvement in their symptoms for no longer than six months</p></list-item><list-item><p>Individual equipoise is not required for a surgeon to recruit
+patients into a RCT</p></list-item></list></sec><sec><title>Strengths and limitations</title><list list-type="bullet"><list-item><p>This is a large feasibility study that addresses both patient
+and surgeon opinion</p></list-item><list-item><p>Similar studies have reliably predicted recruitment rates in
+subsequent clinical trials</p></list-item><list-item><p>Opinions of those surveyed may not be representative of national
+or international opinion</p></list-item></list></sec><sec><title>Introduction</title><p>Randomised controlled trials (RCTs) are considered to be the
+optimal study design for comparing the efficacy and effectiveness
+of treatments. However, they are particularly difficult to perform
+in the field of surgery due to difficulties in blinding, standardising
+procedures, and a lack of acceptance by patients and surgeons.<sup><xref ref-type="bibr" rid="r1">1</xref>,<xref ref-type="bibr" rid="r2">2</xref></sup> Only 7% of research articles in surgical
+journals are RCTs,<sup><xref ref-type="bibr" rid="r3">3</xref></sup> and
+treatments in surgery are half as likely to be based on evidence from
+RCTs than in medicine.<sup><xref ref-type="bibr" rid="r4">4</xref>,<xref ref-type="bibr" rid="r5">5</xref></sup> Furthermore, as
+a result of the above difficulties, RCTs pertaining to surgical
+intervention may be poorly constructed and may not always represent
+the ideal study type.<sup><xref ref-type="bibr" rid="r2">2</xref></sup></p><p>A RCT is not always possible because once a procedure has been
+accepted as best practice, it may be considered unethical to allocate
+patients to an alternative treatment.<sup><xref ref-type="bibr" rid="r6">6</xref></sup> RCTs require a setting of equipoise,
+a situation where both patients and clinicians feel a genuine conscious
+uncertainty as to the optimal management strategy.<sup><xref ref-type="bibr" rid="r7">7</xref></sup> Equipoise can relate
+to either an individual or a community. Individual equipoise refers
+to a setting where an individual is undecided as to the optimal
+treatment. Community equipoise refers to a setting where individuals
+may not display equipoise, but broadly equal numbers of individuals within
+a community are proponents of each different treatment. Individual
+equipoise is considered necessary for trial recruitment, whereas
+community equipoise is considered necessary for a trial to be ethically
+acceptable.<sup><xref ref-type="bibr" rid="r8">8</xref>-<xref ref-type="bibr" rid="r10">10</xref></sup></p><p>Patient preference for a particular treatment is a frequent cause
+of trial abandonment, primarily because patients often have a preferred
+treatment in mind.<sup><xref ref-type="bibr" rid="r11">11</xref>,<xref ref-type="bibr" rid="r12">12</xref></sup> Equipoise is therefore
+essential within the patient population, but is highly dependent
+on the information made available. Measurement of surgeon and patient
+preference is a crucial aspect of feasibility assessment,<sup><xref ref-type="bibr" rid="r7">7</xref></sup> and is increasingly
+requested by funding bodies. Feasibility studies seek to determine
+whether a study is possible, and to estimate important parameters
+for the design of the main study.<sup><xref ref-type="bibr" rid="r13">13</xref></sup> In this instance, the proposed study
+is a RCT to determine whether surgery in patients with femoroacetabular
+impingement (FAI) can delay the onset of osteoarthritis (OA) compared
+with non-operative treatment.</p><p>FAI describes abnormalities in the orientation of the acetabulum
+(pincer impingement) or abnormalities in the shape of the femoral
+head and neck (cam impingement). This results in abutment of the
+femoral head&#x02013;neck junction against the acetabular rim and labrum,
+progressing to cartilage delamination and OA at this site.<sup><xref ref-type="bibr" rid="r14">14</xref>,<xref ref-type="bibr" rid="r15">15</xref></sup> This pathogenesis is supported by
+several observations. A 20-year longitudinal study of an asymptomatic
+population-based cohort has shown that the presence of a cam lesion increases
+the risk of future THR by sixfold.<sup><xref ref-type="bibr" rid="r16">16</xref></sup> Cam lesions have been observed in
+&#x0003e; 50% of patients undergoing hip replacement,<sup><xref ref-type="bibr" rid="r17">17</xref></sup> and significant
+cartilage damage has also been seen intra-operatively at the specific
+sites where impingement occurs.<sup><xref ref-type="bibr" rid="r18">18</xref></sup> Lastly,
+early signs of cartilage damage have been detected using delayed
+Gadolinium Enhanced Magnetic Resonance Imaging of Cartilage (dGEMRIC)
+in asymptomatic patients with cam lesions.<sup><xref ref-type="bibr" rid="r19">19</xref></sup></p><p>The United Kingdom maintains a database (Hospital Episode Statistics)
+of all medical procedures performed on the National Health Service.
+Analysis of this database reveals that the number of surgical procedures
+performed each year to treat FAI is rising exponentially, with a
+442% increase over the past 10 years.<sup><xref ref-type="bibr" rid="r20">20</xref></sup> This trend has been mirrored in
+the United States, and in 2012 the American Academy of Orthopaedic
+Surgeons hosted a FAI Research Symposium to address the increasing
+recognition and intervention for this condition.</p><p>The options for treatment include physiotherapy and activity
+modification, or surgery to treat the cartilage damage with or without
+reshaping the impinging bony deformities. While cohort studies show
+that each of these treatment options can improve symptoms in the
+short-term,<sup><xref ref-type="bibr" rid="r21">21</xref>-<xref ref-type="bibr" rid="r23">23</xref></sup> the greatest potential
+benefit lies in being able to arrest or delay the onset of OA, for
+which there is currently no evidence. There are now calls for a
+RCT to make a robust comparison between the above treatment modalities.
+We constructed this study with the goal of determining the feasibility
+of a RCT studying FAI surgery. Our specific aims were to ascertain
+whether specialist hip surgeons believe that a RCT for FAI management
+is required, to establish whether there is evidence of surgeon and
+patient equipoise, and to determine whether patients are willing
+to participate in such a trial.</p><p>Information gained may also help to decide the optimum trial
+design. We identified three areas of design as being crucial to
+trial feasibility: Which patients should be included in a RCT? How
+long are patients and surgeons prepared to continue a treatment
+if symptoms do not improve? What should be used as the primary outcome measure?</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><p>We designed two different questionnaires to ascertain surgeon
+and patient preferences.</p><sec><title content-type="h3">Surgeon preference</title><p>A written questionnaire was developed to establish surgeon preferences
+using a combination of questions requiring discrete &#x02018;yes&#x02019; or &#x02018;no&#x02019; responses,
+and validated bidirectional linear analogue scales requiring surgeons
+to mark their responses on an 11-point scale from -5 to +5 (Fig.
+1).<sup><xref ref-type="bibr" rid="r7">7</xref></sup> Data were
+collected at the 2012 meeting of the British Hip Society during
+a session focusing on pathology of the hip in the young adult. This
+forum has a high attendance by consultant surgeons specialising
+in the management of FAI. Responses were analysed in numerical format
+and using a surgical equipoise ratio (SER).<sup><xref ref-type="bibr" rid="r7">7</xref></sup> This scale comprises three digits,
+representing the number of
+surgeons with negative value responses, those at zero, and those
+with positive value responses.</p><fig id="f1" orientation="portrait" position="float"><label>Fig. 1</label><caption><p>Example questions using a bidirectional
+linear scale to determine surgeon or patient opinion.</p></caption><graphic xlink:href="2000137-galleyfig1"/></fig></sec><sec><title content-type="h3">Patient preference</title><p>A Patient Information Leaflet was developed with the aid of a
+Patient Advocate (PL), attached to which was a written questionnaire.
+This included a description of FAI and how it results in damage to
+the labrum and articular cartilage. It also contained an overview
+of conservative and surgical treatment options, along with a discussion
+of the potential risks and benefits of each. Conservative management
+was said to comprise weekly physiotherapy and activity modification,
+and surgical treatment was said to comprise hip arthroscopy with
+labral debridement or repair, and osteochondroplasty. During a three
+week period, all patients aged between 18 and 65 years with newly
+diagnosed FAI seen in clinic at the Nuffield Orthopaedic Centre,
+Oxford, and the Royal Berkshire Hospital, Reading, were invited
+to read through the Patient Information Leaflet and answer the questionnaire
+to identify patient preferences for the management of their hip
+pathology. The 11-point bidirectional scale was used to ask patients
+whether their principal concern was the risk of developing arthritis
+or their current pain, and a linear scale from 0 to 24 months (with
+three-month divisions) was used to ask patients how long they would
+be happy to trial non-operative management if their symptoms did
+not improve. Patients were seen again immediately after they completed
+the questionnaire to address any further questions.</p></sec></sec><sec><title>Results</title><sec><title content-type="h3">Surgeon preference</title><p>Questionnaires were completed by 61 surgeons, 30 of whom indicated
+that they routinely performed surgery for FAI. Of these 30 surgeons
+who routinely performed FAI surgery, six (20%) performed &#x0003c;&#x000a0;ten&#x000a0;procedures
+annually, four (13%) performed between ten and 20, six (20%) performed
+between 20&#x000a0;and 30, four (13%) performed between 30 and 50, three
+(10%) performed between 50 and 100, and seven (23%) performed &#x0003e;
+100 procedures per year. The preferred surgical approach of these
+surgeons was arthroscopic (53%, n = 16), followed by arthroscopic
+and mini-open (30%, n = 9), followed by open only (17%, n&#x000a0;=&#x000a0;5).
+The questionnaire also asked surgeons to state their preferred Patient
+Reported Outcome Measure (PROM). Some authors did not respond and
+others gave multiple measures: the Non-Arthritic Hip Score (NAHS)<sup><xref ref-type="bibr" rid="r24">24</xref></sup> was the most common
+(49%), followed by the Oxford hip score (OHS)<sup><xref ref-type="bibr" rid="r25">25</xref></sup> (20%), the Hip
+Disability and Osteoarthritis Outcome Score (HOOS)<sup><xref ref-type="bibr" rid="r26">26</xref></sup> (18%), the Harris
+hip score (HHS)<sup><xref ref-type="bibr" rid="r27">27</xref></sup> (9%)
+and the Hip Outcome Score<sup><xref ref-type="bibr" rid="r28">28</xref></sup> (9%).</p><p>Of all surgeons surveyed, 75% stated that they would modify their
+practice in response to level 1 evidence demonstrating FAI surgery
+was superior to conservative management in delaying the onset of
+OA. This question was answered by 28 surgeons who routinely perform
+FAI surgery, of whom 21 (75%) said they would modify their practice,
+and by 20 surgeons who do not routinely perform FAI surgery, of
+whom 15 (75%) said they would modify their practice. Of the surgeons
+who routinely perform surgery for FAI, 23 of 28 responses (82%)
+indicated that they were willing to participate in a multi-centre
+RCT. However, if the two non-responders are assumed to be unwilling,
+77% of surgeons would be willing to participate in such a trial. </p><p>Approximately 75% of surgeons found it appropriate to randomise
+patients to non-surgical management for &#x02265;&#x000a0;12&#x000a0;months, and of those
+surgeons who did not believe this is appropriate, the shortest specified
+length of time was six months. This question was answered by 28
+surgeons who routinely perform FAI surgery, of whom 20&#x000a0;(71%) believed
+&#x0003e; 12 months was appropriate, and 20&#x000a0;surgeons who do not routinely
+perform FAI surgery, of whom 16 (80%) believed &#x0003e; 12 months was appropriate.</p><p>The responses to questions using the bidirectional linear scale are
+both tabulated (Table I) and displayed as histograms (Figs 2 to
+8). Not every surgeon responded to every question, and the total
+responses for each question are given in Table I. The majority of
+surgeons believed FAI is a cause of osteoarthritis with a surgical
+equipoise ratio (SER) of 7:6:39 for &#x02018;no&#x02019;, &#x02018;undecided&#x02019; and &#x02018;yes&#x02019;,
+respectively (Fig. 2), although the belief that optimal debridement
+of FAI lesions prevented the development of osteoarthritis was more
+controversial, with an SER of 13:19:20 for &#x02018;no&#x02019;, &#x02018;undecided&#x02019; and
+&#x02018;yes&#x02019;, respectively (Fig. 3). When asked whether they would manage
+a patient non-operatively or operatively on first presentation,
+the SER was 29:6:15 and 10:6:34 for mild and severe symptoms, respectively,
+representing &#x02018;non-operatively&#x02019;, &#x02018;undecided&#x02019; and &#x02018;operatively&#x02019; (Figs
+4 and 5). Considering the subgroup of 23 surgeons who routinely
+perform FAI surgery and who were willing to recruit patients into
+a RCT, the SER was 12:2:9 for mild symptoms and 3:1:19 for severe
+symptoms, representing &#x02018;non-operatively&#x02019;, &#x02018;undecided&#x02019; and &#x02018;operatively&#x02019;,
+respectively (Figs 6 and 7). Evidence of early osteoarthritis was likely
+to make a surgeon less likely to perform FAI surgery, giving a SER
+of 35:4:8, representing &#x02018;yes&#x02019; (less likely), &#x02018;undecided&#x02019; and &#x02018;no&#x02019;,
+respectively (Fig. 8).</p><fig id="f2" orientation="portrait" position="float"><label>Fig. 2</label><caption><p>Bar chart showing the surgeon responses
+to the question &#x02018;Do you believe femoroacetabular impingement (FAI)
+is a cause of osteoarthritis?&#x02019; The responses of surgeons who routinely
+perform FAI surgery are represented in blue, and those who do not
+are in red. The three digits of the surgical equipoise ratio (SER)
+represent the sum of the scores within the range &#x02018;-5 to -1&#x02019;, followed by
+scores of &#x02018;0&#x02019;, followed by scores within the range &#x02018;+1 to +5&#x02019;.</p></caption><graphic xlink:href="2000137-galleyfig2"/></fig><fig id="f3" orientation="portrait" position="float"><label>Fig. 3</label><caption><p>Bar chart showing the surgeon responses
+to the question &#x02018;Does optimal debridement of femoroacetabular impingement
+(FAI) lesions prevent osteoarthritis?&#x02019; The responses of surgeons
+who routinely perform FAI surgery are represented in blue, and those who
+do not are in red. The three digits of the surgical equipoise ratio
+(SER) represent the sum of the scores within the range &#x02018;-5 to -1&#x02019;,
+followed by scores of &#x02018;0&#x02019;, followed by scores within the range &#x02018;+1
+to +5&#x02019;.</p></caption><graphic xlink:href="2000137-galleyfig3"/></fig><fig id="f4" orientation="portrait" position="float"><label>Fig. 4</label><caption><p>Bar chart showing the surgeon responses
+to the question &#x02018;How do you manage patients with mild symptoms on
+first presentation (limits sports)?&#x02019; The responses of surgeons who
+routinely perform femoroacetabular impingement (FAI) surgery are
+represented in blue, and those who do not are in red. The three
+digits of the surgical equipoise ratio (SER) represent the sum of
+the scores within the range &#x02018;-5 to -1&#x02019;, followed by scores of &#x02018;0&#x02019;,
+followed by scores within the range &#x02018;+1 to +5&#x02019;.</p></caption><graphic xlink:href="2000137-galleyfig4"/></fig><fig id="f5" orientation="portrait" position="float"><label>Fig. 5</label><caption><p>Bar chart showing the surgeon responses
+to the question &#x02018;How do you manage patients with severe symptoms
+on first presentation (limits daily activity)?&#x02019; The responses of
+surgeons who routinely perform femoroacetabular impingement (FAI) surgery
+are represented in blue, and those who do not are in red. The three
+digits of the surgical equipoise ratio (SER) represent the sum of
+the scores within the range &#x02018;-5 to -1&#x02019;, followed by scores of &#x02018;0&#x02019;,
+followed by scores within the range &#x02018;+1 to +5&#x02019;.</p></caption><graphic xlink:href="2000137-galleyfig5"/></fig><fig id="f6" orientation="portrait" position="float"><label>Fig. 6</label><caption><p>Bar chart showing the responses to the
+question &#x02018;How do you manage patients with mild symptoms on first
+presentation (limits sports)?&#x02019; for the subgroup of 23 surgeons who
+routinely perform femoroacetabular impingement (FAI) surgery and
+who would be willing to recruit patients into a randomised controlled
+trial. The three digits of the surgical equipoise ratio (SER) represent
+the sum of the scores within the range &#x02018;-5 to -1&#x02019;, followed by scores
+of &#x02018;0&#x02019;, followed by scores within the range &#x02018;+1 to +5&#x02019;.</p></caption><graphic xlink:href="2000137-galleyfig6"/></fig><fig id="f7" orientation="portrait" position="float"><label>Fig. 7</label><caption><p>Bar chart showing the responses to the
+question &#x02018;How do you manage patients with severe symptoms on first
+presentation (limits daily activity)?&#x02019; for the subgroup of 23 surgeons
+who routinely perform femoroacetabular impingement (FAI) surgery
+and who would be willing to recruit patients into a randomised controlled
+trial. The three digits of the surgical equipoise ratio (SER) represent
+the sum of the scores within the range &#x02018;-5 to -1&#x02019;, followed by scores
+of &#x02018;0&#x02019;, followed by scores within the range &#x02018;+1 to +5&#x02019;.</p></caption><graphic xlink:href="2000137-galleyfig7"/></fig><fig id="f8" orientation="portrait" position="float"><label>Fig. 8</label><caption><p>Bar chart showing the surgeon responses
+to the question &#x02018;Does evidence of early osteoarthritis on imaging
+make you less likely to perform femoroacetabular impingement (FAI) surgery?&#x02019;
+The responses of surgeons who routinely perform femoroacetabular
+impingement (FAI) surgery are represented in blue, and those who
+do not are in red. The three digits of the surgical equipoise ratio
+(SER) represent the sum of the scores within the range &#x02018;-5 to -1&#x02019;,
+followed by scores of &#x02018;0&#x02019;, followed by scores within the range &#x02018;+1
+to +5&#x02019;.</p></caption><graphic xlink:href="2000137-galleyfig8"/></fig><table-wrap id="t1" orientation="portrait" position="float"><label>Table I</label><caption><p>Surgeon responses to each of the
+questions asked using a bidirectional linear scale. Responses are
+displayed as the Surgical Equipoise Scale<sup><xref ref-type="bibr" rid="r7">7</xref></sup> (FAI, femoroacetabular impingement;
+OA, osteoarthritis)</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1"/><th colspan="3" rowspan="1">Surgeon <bold>response</bold></th></tr><tr><th rowspan="1" colspan="1"><bold>Question</bold></th><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1"><bold>No</bold></th><th rowspan="1" colspan="1"><bold>Undecided</bold></th><th rowspan="1" colspan="1"><bold>Yes</bold></th></tr></thead><tbody><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Do you believe FAI is a cause of osteoarthritis?</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;All surgeons (n = 52)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x000a0;&#x000a0;7</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;6</td><td rowspan="1" colspan="1">39</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;Surgeons who routinely perform FAI surgery (n = 28)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;2</td><td rowspan="1" colspan="1">24</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;Surgeons who do not routinely perform FAI surgery (n = 24)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x000a0;&#x000a0;5</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;4</td><td rowspan="1" colspan="1">15</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Does optimal debridement of FAI lesions prevent OA?</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;All surgeons (n = 52)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">19</td><td rowspan="1" colspan="1">20</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;Surgeons who routinely perform FAI surgery (n = 28)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x000a0;&#x000a0;3</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;8</td><td rowspan="1" colspan="1">17</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;Surgeons who do not routinely perform FAI surgery (n = 24)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;3</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>Non-operatively</bold></td><td rowspan="1" colspan="1"><bold>Undecided</bold></td><td rowspan="1" colspan="1"><bold>Operatively</bold></td></tr><tr><td rowspan="1" colspan="1">How do you manage patients with mild symptoms on first presentation
+(limits sports)?</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;All surgeons (n = 50)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">29</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;6</td><td rowspan="1" colspan="1">15</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;Surgeons who routinely perform FAI surgery (n = 28)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;3</td><td rowspan="1" colspan="1">12</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">How do you manage patients with severe symptoms on first presentation
+(limits daily activity)?</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;All surgeons (n = 50)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;6</td><td rowspan="1" colspan="1">34</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;Surgeons who routinely perform FAI surgery (n = 28)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x000a0;&#x000a0;5</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;1</td><td rowspan="1" colspan="1">22</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>Yes</bold></td><td rowspan="1" colspan="1"><bold>Undecided</bold></td><td rowspan="1" colspan="1"><bold>No</bold></td></tr><tr><td rowspan="1" colspan="1">Does evidence of early osteoarthritis on imaging make you less
+likely to perform FAI surgery?</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;All surgeons (n = 47)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">35</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;4</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;8</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;Surgeons who routinely perform FAI surgery (n = 28)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">20</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;0</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;8</td></tr></tbody></table></table-wrap></sec><sec><title content-type="h3">Patient preference</title><p>Questionnaires were completed by 31 patients (19 female and 12
+male) with a mean age of 37 years (21 to 63). Prior to onset of
+symptoms, 26&#x000a0;patients (84%) reported regular participation in sporting
+activities. A total of 28 patients (90%) stated that they would
+be willing to participate in a trial randomising to either operative
+or non-operative management. Of the three remaining patients, two
+indicated that they would find randomisation to the non-operative arm
+unacceptable, and one found randomisation to the operative arm unacceptable.</p><p>When asked whether they were
+more concerned about future
+arthritis or their current pain, 12 patients (39%) indicated arthritis,
+five (16%) current pain, and the remaining 14 patients (45%) felt
+them to be of equal importance. When asked how long they were prepared
+to trial physiotherapy if their symptoms did not improve, the mean
+response was 7.5 months (3 to 18), with the majority (94%, n = 29)
+indicating that they found &#x02265; six months to be acceptable (Table
+II, Figs 9 and 10).</p><fig id="f9" orientation="portrait" position="float"><label>Fig. 9</label><caption><p>Bar chart showing the patient response
+to the question &#x02018;What is more important: treating your current pain
+or reducing you future risk of arthritis?&#x02019; The three digits of the
+surgical equipoise ratio (SER) represent the sum of the scores within
+the range &#x02018;-5 to -1&#x02019;, followed by scores of &#x02018;0&#x02019;, followed by scores within
+the range &#x02018;+1 to +5&#x02019;.</p></caption><graphic xlink:href="2000137-galleyfig9"/></fig><fig id="f10" orientation="portrait" position="float"><label>Fig. 10</label><caption><p>Bar chart showing the patient response
+to the question &#x02018;How long would you be prepared to trial physiotherapy
+before wishing to have surgery if your symptoms did not improve?&#x02019; Responses
+are plotted on a unidirectional linear scale from 0 to 24 months.</p></caption><graphic xlink:href="2000137-galleyfig10"/></fig><table-wrap id="t2" orientation="portrait" position="float"><label>Table II</label><caption><p>Patient responses to each of the
+questions asked using a linear scale</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"/><th colspan="5" rowspan="1"><bold>Patient response</bold></th></tr><tr><th rowspan="1" colspan="1"><bold>Question</bold></th><th rowspan="1" colspan="1"><bold>Future arthritis</bold></th><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1"><bold>Equal importance</bold></th><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1"><bold>Current pain</bold></th></tr></thead><tbody><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">What is more important: Treating your current pain or reducing
+your future risk 
+of arthritis?</td><td rowspan="1" colspan="1">12</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">14</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">5</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">How long would you be prepared to trial physiotherapy before
+wishing to have surgery if your symptoms did not improve?</td><td rowspan="1" colspan="1">Mean 7.5 months (3 to 18)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr></tbody></table></table-wrap></sec></sec><sec><title>Discussion</title><p>The value of this feasibility study is threefold: it determines
+whether there is a requirement for a study, it establishes whether
+surgeon and patient opinion is permissive of the proposed
+trial, and it also provides guidance for trial design.</p><p>Our study demonstrates a requirement for a RCT to compare the
+operative and non-operative management of FAI. Although surgeons
+in our feasibility study displayed uncertainty as to whether osteochondroplasty
+for FAI could prevent OA, the number of surgical procedures performed
+each year to treat FAI continues to rise exponentially. This may
+reflect increasing evidence
+that surgery can improve symptoms in the short-term,<sup><xref ref-type="bibr" rid="r21">21</xref>-<xref ref-type="bibr" rid="r23">23</xref></sup> however, our study shows that the
+primary concern of patients was more frequently the prevention of
+OA rather than their current pain. This supports the need for a
+well-designed RCT. Indeed, 75% of surgeons said they would modify
+their clinical practice in response to level 1 evidence showing
+FAI surgery slowed the development of OA over conservative management
+strategies.</p><p>We have also shown that surgeon and patient opinion was permissive
+for a RCT, and that there was evidence of equipoise. The ideal position
+of equipoise for a trial is when both patient and clinician have
+no particular preference for alternative treatment strategies. In
+reality, this theoretical model is rarely seen. Community equipoise describes
+disagreement within an expert clinical body as to the preferred
+treatment strategy. If the majority of clinicians strongly believe
+one treatment is superior to another, it would not be ethical to
+randomise patients to the treatment that is perceived to be inferior.
+When members of the public were asked to specify the degree of community
+equipoise they would require to cast an approving vote on an ethical
+committee, half believed a RCT was unethical when community equipoise
+is disturbed beyond 70% cent of clinicians favouring one of the
+treatment options.<sup><xref ref-type="bibr" rid="r29">29</xref></sup> By
+this threshold our study demonstrates adequate community equipoise,
+as when we asked surgeons their preferred treatment for a patient with
+mild and severe symptoms, no more than 70% of surgeons favoured
+either treatment option. When presented with patients experiencing
+mild symptoms, 58% of surgeons favoured non-operative management, whereas
+with patients experiencing severe
+symptoms, 68% of surgeons favoured operative management (Figs 4 and
+5). These findings suggest it is ethical to perform a RCT for all
+symptom severities.</p><p>An individual is in equipoise when they themselves do not display
+a preference for one treatment option over another. This is considered
+essential if clinicians are to willingly recruit patients into a
+trial, and also minimises researcher bias for either treatment arm.<sup><xref ref-type="bibr" rid="r30">30</xref></sup> In our study, individual
+equipoise is illustrated when a surgeon marks &#x02018;undecided&#x02019; as their
+preferred treatment option for a given clinical scenario. As the
+number of surgeons without a treatment preference increases, the
+number of surgeons willing to recruit patients would be expected
+to rise. Although a study may require relatively few surgeons for
+adequate recruitment, if no surgeon displays individual equipoise,
+trial recruitment is unlikely to be possible. We found that 12%
+of surgeons were undecided as to whether to adopt operative or non-operative management
+in patients with both mild and severe symptoms. Whereas for mild
+symptoms this represented an equal number of surgeons who did and
+did not perform FAI surgery, for severe symptoms, the vast majority were
+surgeons who did not routinely perform FAI surgery (Figs 4 and 5).
+This finding suggests that few surgeons would be willing to recruit
+patients into a RCT; however, this was not the case. We found 77%
+of surgeons who routinely perform FAI surgery to be willing to recruit
+patients into a RCT. This supports the theory that individual equipoise
+in clinicians is not essential.<sup><xref ref-type="bibr" rid="r31">31</xref></sup> Surgeons
+who had a strong preference for one treatment arm were still willing
+to recruit patients into a trial (Figs 6 and 7). </p><p>A RCT for FAI management with operative and non-operative treatment
+arms should achieve a high rate of patient recruitment, as 90% of
+patients indicated that they were willing to participate. But recruitment
+and drop-out rates are conditional on trial design. A crucial factor is the length of time
+patients are randomised to non-surgical treatment. While 75% of
+surgeons indicated that it is appropriate to adopt a non-operative
+treatment strategy for one year or more, only 26% of patients found this
+acceptable if their symptoms did not improve. This is likely to
+result in low recruitment rates and high drop-out rates. Given that
+the majority of patients surveyed (94%) found six months to be acceptable,
+cross-over to a surgical treatment arm must be allowed at this time
+point in order to ensure success of the trial. This finding dictates the
+primary outcome measure and sample size of such a trial, and feasibility
+therefore depends on the ability to detect a clinically relevant
+difference within six months. This is only possible using advanced
+imaging techniques to detect surrogate markers of OA, such as T<sub>2</sub> mapping
+or dGEMRIC.<sup><xref ref-type="bibr" rid="r32">32</xref></sup> The
+finding that patients are happy to pursue a treatment strategy for
+six months without improvement in their symptoms may have important
+implications for clinical trials addressing other orthopaedic pathology.</p><p>When considering the inclusion criteria for a RCT, we demonstrated
+strong community opinion that surgeons are less likely to perform
+FAI surgery in the presence of early OA (Fig.&#x000a0;8). In order to avoid
+confusion we intentionally excluded a specific definition of early OA, as there are many classifications,
+and few are commonly used in a clinical setting. Nevertheless, responses
+suggest surgeons would find it unacceptable to perform FAI surgery
+on patients with established OA. We therefore believe trial inclusion
+would need to be limited to patients with a T&#x000f6;nnis grade<sup><xref ref-type="bibr" rid="r33">33</xref></sup> or Kellgren-Lawrence
+score<sup><xref ref-type="bibr" rid="r34">34</xref></sup> &#x0003c;
+2. We also recommend that a RCT addresses arthroscopic surgery,
+and uses the Non-Arthritic Hip Score as the PROM, as these are preferred
+by the majority of surgeons and ensure applicability of study findings.</p><p>There are limitations to this feasibility study. The patients
+and surgeons completing our questionnaires do not necessarily represent
+national or international opinion, despite this being one of the
+largest surgical feasibility studies published, and not every surgeon
+answered every question. The same two surgeons who routinely perform
+FAI surgery did not mark their responses on the bidirectional scales,
+and a higher number of surgeons who do not routinely perform FAI
+surgery did not complete all of the questions. This may be because
+they did not feel sufficiently well informed to provide a response, but
+it could also be a reflection on the survey design.</p><p>Although we are cautious that a patient may be more likely to
+consent to a trial in theory than in practice when approached by
+the trial team, similar studies to ours have reliably predicted
+recruitment rates in the subsequent trial.<sup><xref ref-type="bibr" rid="r35">35</xref>-<xref ref-type="bibr" rid="r37">37</xref></sup> It
+is also extremely difficult not to display bias towards the operative
+treatment arm. If symptoms do not improve with non-operative therapy,
+it is possible to consider surgery. However, the reverse is not
+possible when surgery reflects a definitive and irreversible procedure.
+As a result, patients may interpret this to mean surgery is the
+optimum treatment. This is a significant hurdle to performing a
+surgical RCT, and one that is extremely difficult to overcome.</p></sec><sec><title>Conclusions</title><p>All proposed studies should demonstrate, rather than assume,
+feasibility. Our study demonstrates that a RCT is required to investigate
+whether surgical debridement of FAI slows the development of osteoarthritis
+compared with a non-operative control. We also showed that this
+study is feasible in terms of both surgeon and patient opinion.
+Consensus opinion is a dynamic concept, and while surgeon and patient
+opinions currently appear permissive, this may not be the case in
+the future. We recommend that a RCT for FAI treatment be conducted,
+and that it is considered a research priority. Important findings
+of this study relevant to the design of other clinical trials are
+that individual surgeon equipoise is not essential, and that surgeons
+expressing a strong preference for a particular treatment strategy
+may still be happy to recruit patients into a RCT. Also, patients
+are happy to pursue a treatment strategy for six months, even if their
+symptoms do not improve.</p><p>The authors would like to thank P. Lovell for his role as Patient
+Advocate.</p></sec></body><back><fn-group content-type="bjr-block"><fn fn-type="con"><p><bold>Author contributions:</bold>A. J. R. Palmer: Study conception and design, Data collection
+and analysis, Drafting of article</p><p>G. E. R. Thomas: Drafting of article and critical revision</p><p>T. C. B. Pollard: Data collection and critical revision</p><p>I. Rombach: Data analysis and critical revision</p><p>A. Taylor: Study conception and design</p><p>N. Arden: Critical revision</p><p>D. J. Beard: Critical revision</p><p>A. J. Andrade: Data collection and critical revision</p><p>A. J. Carr: Critical revision</p><p>S. Glyn-Jones: Study conception and design, Drafting of article
+and critical revision</p></fn><fn fn-type="conflict"><p><bold>ICMJE Conflict of Interest:</bold>None declared</p></fn></fn-group><ref-list><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><string-name><surname>McLeod</surname>
+<given-names>R</given-names></string-name>. <article-title>Randomized, controlled trials: is there a role for them in surgery?</article-title><source>Ann Surg</source><year>2006</year>;<volume>244</volume>:<fpage>684</fpage>&#x02013;<lpage>685</lpage><pub-id pub-id-type="pmid">17060759</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><string-name><surname>McCulloch</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Taylor</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Sasako</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Lovett</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Griffin</surname>
+<given-names>D</given-names></string-name>. <article-title>Randomised trials in surgery: problems and possible solutions</article-title>. <source>BMJ</source><year>2002</year>;<volume>324</volume>:<fpage>1448</fpage>&#x02013;<lpage>1451</lpage><pub-id pub-id-type="pmid">12065273</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><string-name><surname>Solomon</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>McLeod</surname>
+<given-names>RS</given-names></string-name>. <article-title>Clinical studies in surgical journals: have we improved?</article-title><source>Dis Colon Rectum</source><year>1993</year>;<volume>36</volume>:<fpage>43</fpage>&#x02013;<lpage>48</lpage><pub-id pub-id-type="pmid">8416778</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><string-name><surname>Ellis</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Mulligan</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Rowe</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Sackett</surname>
+<given-names>DL</given-names></string-name>. <article-title>Inpatient general medicine is evidence based: A-Team, Nuffield Department of Clinical Medicine</article-title>. <source>Lancet</source><year>1995</year>;<volume>346</volume>:<fpage>407</fpage>&#x02013;<lpage>410</lpage><pub-id pub-id-type="pmid">7623571</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><string-name><surname>Howes</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Chagla</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Thorpe</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>McCulloch</surname>
+<given-names>P</given-names></string-name>. <article-title>Surgical practice is evidence based</article-title>. <source>Br J Surg</source><year>1997</year>;<volume>84</volume>:<fpage>1220</fpage>&#x02013;<lpage>1223</lpage><pub-id pub-id-type="pmid">9313697</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><string-name><surname>Black</surname>
+<given-names>N</given-names></string-name>. <article-title>Why we need observational studies to evaluate the effectiveness of health care</article-title>. <source>BMJ</source><year>1996</year>;<volume>312</volume>:<fpage>1215</fpage>&#x02013;<lpage>1218</lpage><pub-id pub-id-type="pmid">8634569</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><string-name><surname>Young</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Solomon</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Harrison</surname>
+<given-names>JD</given-names></string-name>, <string-name><surname>Salkeld</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Butow</surname>
+<given-names>P</given-names></string-name>. <article-title>Measuring patient preference and surgeon choice</article-title>. <source>Surgery</source><year>2008</year>;<volume>143</volume>:<fpage>582</fpage>&#x02013;<lpage>588</lpage><pub-id pub-id-type="pmid">18436005</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><string-name><surname>Freedman</surname>
+<given-names>B</given-names></string-name>. <article-title>Equipoise and the ethics of clinical research</article-title>. <source>N Engl J Med</source><year>1987</year>;<volume>317</volume>:<fpage>141</fpage>&#x02013;<lpage>145</lpage><pub-id pub-id-type="pmid">3600702</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><string-name><surname>Miller</surname>
+<given-names>FG</given-names></string-name>. <article-title>Clinical equipoise and risk-benefit assessment</article-title>. <source>Clin Trials</source><year>2012</year>;<volume>9</volume>:<fpage>621</fpage>&#x02013;<lpage>627</lpage><pub-id pub-id-type="pmid">22777654</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><string-name><surname>Young</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Solomon</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Harrison</surname>
+<given-names>JD</given-names></string-name>, <string-name><surname>Salkeld</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Butow</surname>
+<given-names>P</given-names></string-name>. <article-title>Measuring patient preference and surgeon choice</article-title>. <source>Surgery</source><year>2008</year>;<volume>143</volume>:<fpage>582</fpage>&#x02013;<lpage>588</lpage><pub-id pub-id-type="pmid">18436005</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><string-name><surname>Ross</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Grant</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Counsell</surname>
+<given-names>C</given-names></string-name>, <etal/>
+<article-title>Barriers to participation in randomised controlled trials: a systematic review</article-title>. <source>J Clin Epidemiol</source><year>1999</year>;<volume>52</volume>:<fpage>1143</fpage>&#x02013;<lpage>1156</lpage><pub-id pub-id-type="pmid">10580777</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><string-name><surname>Solomon</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>McLeod</surname>
+<given-names>RS</given-names></string-name>. <article-title>Should we be performing more randomized controlled trials evaluating surgical operations?</article-title><source>Surgery</source><year>1995</year>;<volume>118</volume>:<fpage>459</fpage>&#x02013;<lpage>467</lpage><pub-id pub-id-type="pmid">7652679</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><string-name><surname>Arain</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Campbell</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Cooper</surname>
+<given-names>CL</given-names></string-name>, <string-name><surname>Lancaster</surname>
+<given-names>GA</given-names></string-name>. <article-title>What is a pilot or feasibility study?: a review of current practice and editorial policy</article-title>. <source>BMC Med Res Methodol</source><year>2010</year>;<volume>10</volume>:<fpage>67</fpage><pub-id pub-id-type="pmid">20637084</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><string-name><surname>Ganz</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Parvizi</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Beck</surname>
+<given-names>M</given-names></string-name>, <etal/>
+<article-title>Femoroacetabular impingement: a cause for osteoarthritis of the hip</article-title>. <source>Clin Orthop Relat Res</source><year>2003</year>;<volume>417</volume>:<fpage>112</fpage>&#x02013;<lpage>120</lpage><pub-id pub-id-type="pmid">14646708</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><string-name><surname>Tibor</surname>
+<given-names>LM</given-names></string-name>, <string-name><surname>Leunig</surname>
+<given-names>M</given-names></string-name>. <article-title>The pathoanatomy and arthroscopic management of femoroacetabular impingement</article-title>. <source>Bone Joint Res</source><year>2012</year>;<volume>1</volume>:<fpage>245</fpage>&#x02013;<lpage>257</lpage><pub-id pub-id-type="pmid">23610655</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><string-name><surname>Thomas</surname>
+<given-names>GE</given-names></string-name>, <string-name><surname>Kiran</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Batra</surname>
+<given-names>RN</given-names></string-name>, <etal/>
+<article-title>The association between hip morphology and end-stage osteoarthritis at 12-year follow up</article-title>. <source>Osteoarthritis Cartilage</source><year>2012</year>;<volume>20(Suppl 1)</volume>:<fpage>S204</fpage></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><string-name><surname>Clohisy</surname>
+<given-names>JC</given-names></string-name>, <string-name><surname>Dobson</surname>
+<given-names>MA</given-names></string-name>, <string-name><surname>Robison</surname>
+<given-names>JF</given-names></string-name>, <etal/>
+<article-title>Radiographic structural abnormalities associated with premature, natural hip-joint failure</article-title>. <source>J Bone Joint Surg [Am]</source><year>2011</year>;<volume>93-A(Suppl 2)</volume>:<fpage>3</fpage>&#x02013;<lpage>9</lpage></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><string-name><surname>Reichenbach</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Leunig</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Werlen</surname>
+<given-names>S</given-names></string-name>, <etal/>
+<article-title>Association between cam-type deformities and magnetic resonance imaging-detected structural hip damage: a cross-sectional study in young men</article-title>. <source>Arthritis Rheum</source><year>2011</year>;<volume>63</volume>:<fpage>4023</fpage>&#x02013;<lpage>4030</lpage><pub-id pub-id-type="pmid">21904996</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><string-name><surname>Pollard</surname>
+<given-names>TC</given-names></string-name>, <string-name><surname>McNally</surname>
+<given-names>EG</given-names></string-name>, <string-name><surname>Wilson</surname>
+<given-names>DC</given-names></string-name>, <etal/>
+<article-title>Localized cartilage assessment with three-dimensional dGEMRIC in asymptomatic hips with normal morphology and cam deformity</article-title>. <source>J Bone Joint Surg [Am]</source><year>2010</year>;<volume>92-A</volume>:<fpage>2557</fpage>&#x02013;<lpage>2569</lpage></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="other">No authors listed. Hospital Episode Statistics. <uri xlink:type="simple" xlink:href="http://www.hesonline.nhs.uk">http://www.hesonline.nhs.uk</uri> (date last accessed 5 December 2012).</mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><string-name><surname>Clohisy</surname>
+<given-names>JC</given-names></string-name>, <string-name><surname>St John</surname>
+<given-names>LC</given-names></string-name>, <string-name><surname>Schutz</surname>
+<given-names>AL</given-names></string-name>. <article-title>Surgical treatment of femoroacetabular impingement: a systematic review of the literature</article-title>. <source>Clin Orthop Relat Res</source><year>2010</year>;<volume>468</volume>:<fpage>555</fpage>&#x02013;<lpage>564</lpage><pub-id pub-id-type="pmid">19830504</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><string-name><surname>Ng</surname>
+<given-names>VY</given-names></string-name>, <string-name><surname>Arora</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Best</surname>
+<given-names>TM</given-names></string-name>, <string-name><surname>Pan</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Ellis</surname>
+<given-names>TJ</given-names></string-name>. <article-title>Efficacy of surgery for femoroacetabular impingement: a systematic review</article-title>. <source>Am J Sports Med</source><year>2010</year>;<volume>38</volume>:<fpage>2337</fpage>&#x02013;<lpage>2345</lpage><pub-id pub-id-type="pmid">20489213</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><string-name><surname>Bedi</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Chen</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Robertson</surname>
+<given-names>W</given-names></string-name>, <string-name><surname>Kelly</surname>
+<given-names>BT</given-names></string-name>. <article-title>The management of labral tears and femoroacetabular impingement of the hip in the young, active patient</article-title>. <source>Arthroscopy</source><year>2008</year>;<volume>24</volume>:<fpage>1135</fpage>&#x02013;<lpage>1145</lpage><pub-id pub-id-type="pmid">19028166</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><string-name><surname>Christensen</surname>
+<given-names>CP</given-names></string-name>, <string-name><surname>Althausen</surname>
+<given-names>PL</given-names></string-name>, <string-name><surname>Mittleman</surname>
+<given-names>MA</given-names></string-name>, <string-name><surname>Lee</surname>
+<given-names>JA</given-names></string-name>, <string-name><surname>McCarthy</surname>
+<given-names>JC</given-names></string-name>. <article-title>The nonarthritic hip score: reliable and validated</article-title>. <source>Clin Orthop Relat Res</source><year>2003</year>;<volume>406</volume>:<fpage>75</fpage>&#x02013;<lpage>83</lpage><pub-id pub-id-type="pmid">12579003</pub-id></mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><string-name><surname>Dawson</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Fitzpatrick</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Carr</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Murray</surname>
+<given-names>D</given-names></string-name>. <article-title>Questionnaire on the perceptions of patients about total hip replacement</article-title>. <source>J Bone Joint Surg [Br]</source><year>1996</year>;<volume>78-B</volume>:<fpage>185</fpage>&#x02013;<lpage>190</lpage></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><string-name><surname>Kl&#x000e4;ssbo</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Larsson</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Mannevik</surname>
+<given-names>E</given-names></string-name>. <article-title>Hip disability and osteoarthritis outcome score: an extension of the Western Ontario and McMaster Universities Osteoarthritis Index</article-title>. <source>Scand J Rheumatol</source><year>2003</year>;<volume>32</volume>:<fpage>46</fpage>&#x02013;<lpage>51</lpage><pub-id pub-id-type="pmid">12635946</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><string-name><surname>Harris</surname>
+<given-names>WH</given-names></string-name>. <article-title>Traumatic arthritis of the hip after dislocation and acetabular fractures: treatment by mold arthroplasty: an end-result study using a new method of result evaluation</article-title>. <source>J Bone Joint Surg [Am]</source><year>1969</year>;<volume>51-A</volume>:<fpage>737</fpage>&#x02013;<lpage>755</lpage></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><string-name><surname>Martin</surname>
+<given-names>RL</given-names></string-name>, <string-name><surname>Kelly</surname>
+<given-names>BT</given-names></string-name>, <string-name><surname>Philippon</surname>
+<given-names>MJ</given-names></string-name>. <article-title>Evidence of validity for the hip outcome score</article-title>. <source>Arthroscopy</source><year>2006</year>;<volume>22</volume>:<fpage>1304</fpage>&#x02013;<lpage>1311</lpage><pub-id pub-id-type="pmid">17157729</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><string-name><surname>Johnson</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Lilford</surname>
+<given-names>RJ</given-names></string-name>, <string-name><surname>Brazier</surname>
+<given-names>W</given-names></string-name>. <article-title>At what level of collective equipoise does a clinical trial become ethical?</article-title><source>J Med Ethics</source><year>1991</year>;<volume>17</volume>:<fpage>30</fpage>&#x02013;<lpage>34</lpage><pub-id pub-id-type="pmid">2033628</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><string-name><surname>Markman</surname>
+<given-names>M</given-names></string-name>. <article-title>Ethical difficulties with randomized clinical trials involving cancer patients: examples from the field of gynecologic oncology</article-title>. <source>J Clin Ethics</source><year>1992</year>;<volume>3</volume>:<fpage>193</fpage>&#x02013;<lpage>195</lpage><pub-id pub-id-type="pmid">1356520</pub-id></mixed-citation></ref><ref id="r31"><label>31</label><mixed-citation publication-type="journal"><string-name><surname>Freedman</surname>
+<given-names>B</given-names></string-name>. <article-title>Equipoise and the ethics of clinical research</article-title>. <source>N Engl J Med</source><year>1987</year>;<volume>317</volume>:<fpage>141</fpage>&#x02013;<lpage>145</lpage><pub-id pub-id-type="pmid">3600702</pub-id></mixed-citation></ref><ref id="r32"><label>32</label><mixed-citation publication-type="journal"><string-name><surname>Roos</surname>
+<given-names>EM</given-names></string-name>, <string-name><surname>Dahlberg</surname>
+<given-names>L</given-names></string-name>. <article-title>Positive effects of moderate exercise on glycosaminoglycan content in knee cartilage: a four-month, randomized, controlled trial in patients at risk of osteoarthritis</article-title>. <source>Arthritis Rheum</source><year>2005</year>;<volume>52</volume>:<fpage>3507</fpage>&#x02013;<lpage>3514</lpage><pub-id pub-id-type="pmid">16258919</pub-id></mixed-citation></ref><ref id="r33"><label>33</label><mixed-citation publication-type="journal"><string-name><surname>Kellgren</surname>
+<given-names>JH</given-names></string-name>, <string-name><surname>Lawrence</surname>
+<given-names>JS</given-names></string-name>. <article-title>Radiological assessment of osteo-arthrosis</article-title>. <source>Ann Rheum Dis</source><year>1957</year>;<volume>16</volume>:<fpage>494</fpage>&#x02013;<lpage>502</lpage><pub-id pub-id-type="pmid">13498604</pub-id></mixed-citation></ref><ref id="r34"><label>34</label><mixed-citation publication-type="journal"><string-name><surname>T&#x000f6;nnis</surname>
+<given-names>D</given-names></string-name>. <article-title>Normal values of the hip joint for the evaluation of X-rays in children and adults</article-title>. <source>Clin Orthop Relat Res</source><year>1976</year>;<volume>119</volume>:<fpage>39</fpage>&#x02013;<lpage>47</lpage><pub-id pub-id-type="pmid">954321</pub-id></mixed-citation></ref><ref id="r35"><label>35</label><mixed-citation publication-type="journal"><string-name><surname>Abraham</surname>
+<given-names>NS</given-names></string-name>, <string-name><surname>Hewett</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Young</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Solomon</surname>
+<given-names>MJ</given-names></string-name>. <article-title>Non-entry of eligible patients into the Australasian Laparoscopic Colon Cancer Study</article-title>. <source>ANZ J Surg</source><year>2006</year>;<volume>76</volume>:<fpage>825</fpage>&#x02013;<lpage>829</lpage><pub-id pub-id-type="pmid">16922907</pub-id></mixed-citation></ref><ref id="r36"><label>36</label><mixed-citation publication-type="journal"><string-name><surname>Solomon</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Pager</surname>
+<given-names>CK</given-names></string-name>, <string-name><surname>Keshava</surname>
+<given-names>A</given-names></string-name>, <etal/>
+<article-title>What do patients want?: patient preferences and surrogate decision making in the treatment of colorectal cancer</article-title>. <source>Dis Colon Rectum</source><year>2003</year>;<volume>46</volume>:<fpage>1351</fpage>&#x02013;<lpage>1357</lpage><pub-id pub-id-type="pmid">14530674</pub-id></mixed-citation></ref><ref id="r37"><label>37</label><mixed-citation publication-type="journal"><string-name><surname>Solomon</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Pager</surname>
+<given-names>CK</given-names></string-name>, <string-name><surname>Young</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Roberts</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Butow</surname>
+<given-names>P</given-names></string-name>. <article-title>Patient entry into randomized controlled trials of colorectal cancer treatment: factors influencing participation</article-title>. <source>Surgery</source><year>2003</year>;<volume>133</volume>:<fpage>608</fpage>&#x02013;<lpage>613</lpage><pub-id pub-id-type="pmid">12796726</pub-id></mixed-citation></ref></ref-list></back></article>

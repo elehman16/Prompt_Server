@@ -1,0 +1,563 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="iso-abbrev">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2328-9503</journal-id><journal-id journal-id-type="publisher-id">ACN3</journal-id><journal-title-group><journal-title>Annals of Clinical and Translational Neurology</journal-title></journal-title-group><issn pub-type="epub">2328-9503</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28589163</article-id><article-id pub-id-type="pmc">5454402</article-id><article-id pub-id-type="doi">10.1002/acn3.412</article-id><article-id pub-id-type="publisher-id">ACN3412</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>A novel design of a Phase III trial of isradipine in early Parkinson disease (STEADY&#x02010;PD III)</article-title><alt-title alt-title-type="left-running-head">K. M. Biglan et al.</alt-title></title-group><contrib-group><contrib id="acn3412-cr-0001" contrib-type="author" corresp="yes"><name><surname>Biglan</surname><given-names>Kevin M.</given-names></name><address><email>Kevin_biglan@urmc.rochester.edu</email></address><xref ref-type="aff" rid="acn3412-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="acn3412-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="acn3412-cr-0002" contrib-type="author"><name><surname>Oakes</surname><given-names>David</given-names></name><xref ref-type="aff" rid="acn3412-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="acn3412-cr-0003" contrib-type="author"><name><surname>Lang</surname><given-names>Anthony E.</given-names></name><xref ref-type="aff" rid="acn3412-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="acn3412-cr-0004" contrib-type="author"><name><surname>Hauser</surname><given-names>Robert A.</given-names></name><xref ref-type="aff" rid="acn3412-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="acn3412-cr-0005" contrib-type="author"><name><surname>Hodgeman</surname><given-names>Karen</given-names></name><xref ref-type="aff" rid="acn3412-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="acn3412-cr-0006" contrib-type="author"><name><surname>Greco</surname><given-names>Brittany</given-names></name><xref ref-type="aff" rid="acn3412-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="acn3412-cr-0007" contrib-type="author"><name><surname>Lowell</surname><given-names>Jillian</given-names></name><xref ref-type="aff" rid="acn3412-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acn3412-cr-0008" contrib-type="author"><name><surname>Rockhill</surname><given-names>Rebecca</given-names></name><xref ref-type="aff" rid="acn3412-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="acn3412-cr-0009" contrib-type="author"><name><surname>Shoulson</surname><given-names>Ira</given-names></name><xref ref-type="aff" rid="acn3412-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="acn3412-cr-0010" contrib-type="author"><name><surname>Venuto</surname><given-names>Charles</given-names></name><xref ref-type="aff" rid="acn3412-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="acn3412-cr-0011" contrib-type="author"><name><surname>Young</surname><given-names>Diony</given-names></name><xref ref-type="aff" rid="acn3412-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="acn3412-cr-0012" contrib-type="author"><name><surname>Simuni</surname><given-names>Tanya</given-names></name><xref ref-type="aff" rid="acn3412-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="acn3412-cr-0013" contrib-type="author"><collab collab-type="authors">the Parkinson Study Group STEADY&#x02010;PD III Investigators</collab></contrib></contrib-group><aff id="acn3412-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Neurology</named-content><institution>University of Rochester</institution><named-content content-type="city">Rochester</named-content><named-content content-type="country-part">New York</named-content></aff><aff id="acn3412-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Center for Human Experimental Therapeutics</named-content><institution>University of Rochester</institution><named-content content-type="city">Rochester</named-content><named-content content-type="country-part">New York</named-content></aff><aff id="acn3412-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Biostatistics and Computational Biology</named-content><institution>University of Rochester</institution><named-content content-type="city">Rochester</named-content><named-content content-type="country-part">New York</named-content></aff><aff id="acn3412-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Morton and Gloria Shulman Movement Disorder Unit &#x00026; Edmond J. Safra Parkinson Disease Program</named-content><named-content content-type="organisation-division">Neurology Division</named-content><named-content content-type="organisation-division">Department of Medicine</named-content><named-content content-type="organisation-division">Toronto Western Hospital</named-content><institution>University Health Network, University of Toronto</institution><named-content content-type="city">Toronto</named-content><named-content content-type="country-part">Ontario</named-content><country country="CA">Canada</country></aff><aff id="acn3412-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Department of Neurology</named-content><institution>University of South Florida</institution><named-content content-type="city">Tampa</named-content><named-content content-type="country-part">Florida</named-content></aff><aff id="acn3412-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Department of Neurology and Program for Regulatory Science &#x00026; Medicine</named-content><institution>Georgetown University</institution><named-content content-type="city">Washington</named-content><named-content content-type="country-part">District of Columbia</named-content></aff><aff id="acn3412-aff-0007"><label><sup>7</sup></label><institution>Parkinson Disease Foundation</institution><named-content content-type="city">New York City</named-content><named-content content-type="country-part">New York</named-content></aff><aff id="acn3412-aff-0008"><label><sup>8</sup></label><named-content content-type="organisation-division">Department of Neurology</named-content><institution>Northwestern University</institution><named-content content-type="city">Chicago</named-content><named-content content-type="country-part">Illinois</named-content></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Kevin M. Biglan, 265 Crittenden Boulevard, Suite B240, Rochester, NY 14620. Tel: 585&#x02010;275&#x02010;7430; Fax: 585&#x02010;276&#x02010;1870; E&#x02010;mail: <email>Kevin_biglan@urmc.rochester.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>5</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2017</year></pub-date><volume>4</volume><issue>6</issue><issue-id pub-id-type="doi">10.1002/acn3.2017.4.issue-6</issue-id><fpage>360</fpage><lpage>368</lpage><history><date date-type="received"><day>19</day><month>12</month><year>2016</year></date><date date-type="rev-recd"><day>15</day><month>3</month><year>2017</year></date><date date-type="accepted"><day>16</day><month>3</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 American Neurological Association <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>Annals of Clinical and Translational Neurology</italic> published by Wiley Periodicals, Inc on behalf of American Neurological Association.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ACN3-4-360.pdf"/><abstract id="acn3412-abs-0001"><title>Abstract</title><sec id="acn3412-sec-0001"><title>Objective</title><p>To describe the rationale for a novel study design and baseline characteristics of a disease&#x02010;modifying trial of isradipine 10 mg daily in early Parkinson disease (<styled-content style="fixed-case">PD</styled-content>).</p></sec><sec id="acn3412-sec-0002"><title>Methods</title><p>
+<styled-content style="fixed-case">STEADY</styled-content>&#x02010;<styled-content style="fixed-case">PDIII</styled-content> is a 36&#x02010;month, Phase 3, parallel group, placebo&#x02010;controlled study of the efficacy of isradipine 10 mg daily in 336 participants with early <styled-content style="fixed-case">PD</styled-content> as measured by the change in the Unified Parkinson Disease Rating Scale (<styled-content style="fixed-case">UPDRS</styled-content>) Part I&#x02010;<styled-content style="fixed-case">III</styled-content> score in the practically defined <styled-content style="fixed-case">ON</styled-content> state. <italic>Secondary outcome</italic> measures include clinically meaningful measures of disability progression in early <styled-content style="fixed-case">PD</styled-content>: (1) Time to initiation and utilization of dopaminergic therapy; (2) Time to onset of motor complications; (3) Change in nonmotor disability. Exploratory measures include global measures of functional disability, quality of life, change in the ambulatory capacity, cognitive function, and pharmacokinetic analysis. Rationale for the current design and alternative design approaches are discussed.</p></sec><sec id="acn3412-sec-0003"><title>Results</title><p>The entire cohort of 336 participants was enrolled at 55 Parkinson Study Group sites in North America. The percentage of male participants were 68.5% with a mean age of 61.9 years (sd 9.0), mean Hoehn and Yahr stage of 1.7 (sd 0.5), mean <styled-content style="fixed-case">UPDRS</styled-content> total of 23.1 (sd 8.6), and Mo<styled-content style="fixed-case">CA</styled-content> of 28.1 (sd 1.4).</p></sec><sec id="acn3412-sec-0004"><title>Interpretation</title><p>
+<styled-content style="fixed-case">STEADY</styled-content>&#x02010;<styled-content style="fixed-case">PD III</styled-content> has a novel and innovative design allowing for the determination of longer duration benefits on clinically relevant outcomes in a relatively small cohort on top of the benefit derived from symptomatic therapy. Baseline characteristics are similar to those in previously enrolled de novo <styled-content style="fixed-case">PD</styled-content> trials. This study represents a unique opportunity to evaluate the potential impact of a novel therapy to slow progression of <styled-content style="fixed-case">PD</styled-content> disability and provide clinically meaningful benefits.</p></sec></abstract><funding-group><award-group><funding-source>NINDS</funding-source><award-id>U01NS080818</award-id><award-id>U01NS080840</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="2"/><page-count count="9"/><word-count count="6406"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>acn3412</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.0 mode:remove_FC converted:02.06.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="acn3412-sec-0005"><title>Introduction</title><p>Parkinson disease (PD) is a significant and increasing public health issue. PD is the second most common chronic neurodegenerative disease, after Alzheimer's disease, affecting nearly 1% of the population over the age of 65.<xref rid="acn3412-bib-0001" ref-type="ref">1</xref> The prevalence of PD is expected to double in the next 20 years in the world's most populous nations.<xref rid="acn3412-bib-0002" ref-type="ref">2</xref> The economic burden of PD is estimated to be $23 billion annually in US and projected to increase to $50 billion by year 2040.<xref rid="acn3412-bib-0003" ref-type="ref">3</xref> Current therapy is limited to symptomatic treatment; however, the disease continues to progress with accumulation of significant disability, worsening quality of life, reduced productivity, nursing home placement, and increased mortality.<xref rid="acn3412-bib-0004" ref-type="ref">4</xref> Attempts to slow or modify disease progression in PD have resulted in mixed outcomes and no treatment has yet to definitively demonstrate disease modification (see Table <xref rid="acn3412-tbl-0001" ref-type="table-wrap">1</xref> for recent disease&#x02010;modifying trials).<xref rid="acn3412-bib-0005" ref-type="ref">5</xref>, <xref rid="acn3412-bib-0006" ref-type="ref">6</xref>, <xref rid="acn3412-bib-0007" ref-type="ref">7</xref>, <xref rid="acn3412-bib-0008" ref-type="ref">8</xref> Therefore, treatments that slow disease progression remain a major unmet therapeutic need in PD.</p><table-wrap id="acn3412-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Representative Phase III disease&#x02010;modifying trials in Parkinson disease</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Trial</th><th align="center" valign="top" rowspan="1" colspan="1">Intervention</th><th align="center" valign="top" rowspan="1" colspan="1">N</th><th align="center" valign="top" rowspan="1" colspan="1">Design</th><th align="center" valign="top" rowspan="1" colspan="1">PD population</th><th align="center" valign="top" rowspan="1" colspan="1">Duration</th><th align="center" valign="top" rowspan="1" colspan="1">Primary outcome(s)</th><th align="center" valign="top" rowspan="1" colspan="1">Results</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">DATATOP</td><td align="char" rowspan="1" colspan="1">Deprenyl and centertocopherol</td><td align="char" char="." rowspan="1" colspan="1">800</td><td align="char" rowspan="1" colspan="1">2 &#x000d7; 2 factorial</td><td align="char" rowspan="1" colspan="1">Early untreated</td><td align="char" rowspan="1" colspan="1">24 months</td><td align="char" rowspan="1" colspan="1">Time to development of disability requiring levodopa therapy</td><td align="char" rowspan="1" colspan="1">Deprenyl resulted in reduced hazard of requiring levodopa therapy</td></tr><tr><td align="left" rowspan="1" colspan="1">PRECEPT</td><td align="char" rowspan="1" colspan="1">
+CEP&#x02010;1347<break/>
+10 mg BID<break/>
+25 mg BID<break/>
+50 mg BID
+</td><td align="char" char="." rowspan="1" colspan="1">806</td><td align="char" rowspan="1" colspan="1">Parallel group</td><td align="char" rowspan="1" colspan="1">Early untreated</td><td align="char" rowspan="1" colspan="1">24 months</td><td align="char" rowspan="1" colspan="1">Time to development of disability requiring dopaminergic therapy</td><td align="char" rowspan="1" colspan="1">Terminated early for futility</td></tr><tr><td align="left" rowspan="1" colspan="1">QE3</td><td align="char" rowspan="1" colspan="1">
+Coenzyme Q10<break/>
+1200 mg/day<break/>
+2400 mg/day
+</td><td align="char" char="." rowspan="1" colspan="1">600</td><td align="char" rowspan="1" colspan="1">Parallel group</td><td align="char" rowspan="1" colspan="1">Early untreated</td><td align="char" rowspan="1" colspan="1">16 months</td><td align="char" rowspan="1" colspan="1">UPDRS change</td><td align="char" rowspan="1" colspan="1">Terminated for prespecified futility</td></tr><tr><td align="left" rowspan="1" colspan="1">ADAGIO</td><td align="char" rowspan="1" colspan="1">
+Rasagiline<break/>
+1 mg/day<break/>
+2 mg/day
+</td><td align="char" char="." rowspan="1" colspan="1">1176</td><td align="char" rowspan="1" colspan="1">Delayed start</td><td align="char" rowspan="1" colspan="1">Early untreated</td><td align="char" rowspan="1" colspan="1">18 months</td><td align="char" rowspan="1" colspan="1">
+<list list-type="order" id="acn3412-list-0001"><list-item><p>Superiority of UPDRS change in early start to placebo between weeks 12&#x02013;36</p></list-item><list-item><p>Superiority of UPDRS change in early start to delayed start between baseline and week 72</p></list-item><list-item><p>Noninferiority of early to delayed start in rate of UPDRS change between weeks 48&#x02010;72</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">1 mg/day but not 2 mg/day met all criteria for efficacy</td></tr><tr><td align="char" rowspan="1" colspan="1">LS1</td><td align="char" rowspan="1" colspan="1">Creatine</td><td align="char" char="." rowspan="1" colspan="1">1741</td><td align="char" rowspan="1" colspan="1">Parallel group</td><td align="char" rowspan="1" colspan="1">Early stable treatment</td><td align="char" rowspan="1" colspan="1">60 months</td><td align="char" rowspan="1" colspan="1">Global statistical test defined by 5 outcome measures: Modified Rankin Scale, Symbol Digit Modalities Test, PDQ&#x02010;39 Summary Index, Schwab and England Activities of Daily Living scale, and ambulatory capacity (UPDRS)</td><td align="char" rowspan="1" colspan="1">Terminated due to futility in an interim analysis of 955 subjects followed up for 5 years</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Isradipine, a dihydropyridine calcium channel antagonist (DHP) that is approved for the treatment of hypertension, is being tested as a potential disease&#x02010;modifying intervention in early PD. Isradipine was shown to be neuroprotective in in vitro and in vivo models of parkinsonism.<xref rid="acn3412-bib-0009" ref-type="ref">9</xref>, <xref rid="acn3412-bib-0010" ref-type="ref">10</xref> The mechanism of neuroprotection is linked to selective vulnerability of substantia nigra pars compacta neurons that preferentially express L&#x02010;type calcium channels. Neuroprotective effects of isradipine are achieved at the plasma concentration that is obtained within the safe dose range for human administration<xref rid="acn3412-bib-0010" ref-type="ref">10</xref>, <xref rid="acn3412-bib-0011" ref-type="ref">11</xref> and consistent with the tolerable dosage identified in our phase II study of isradipine in PD (STEADY&#x02010;PDII).<xref rid="acn3412-bib-0012" ref-type="ref">12</xref> Isradipine is the most potent of the clinically available Cav1.3 DHPs and has excellent central nervous system penetration suggesting it is the optimal DHP to target this novel mechanism of neuroprotection.<xref rid="acn3412-bib-0013" ref-type="ref">13</xref>, <xref rid="acn3412-bib-0014" ref-type="ref">14</xref>
+</p><p>Importantly, multiple epidemiological studies have demonstrated a reduced risk of development of PD in individuals treated with DHPs compared with other antihypertensive agents<xref rid="acn3412-bib-0015" ref-type="ref">15</xref>, <xref rid="acn3412-bib-0016" ref-type="ref">16</xref>, <xref rid="acn3412-bib-0017" ref-type="ref">17</xref> In addition, 4733 hypertensive individuals with parkinsonism treated with DHPs had a decreased risk of requiring symptomatic therapy (ST), admission to a nursing home, and death compared with those treated with other antihypertensive agents.<xref rid="acn3412-bib-0018" ref-type="ref">18</xref> Although select epidemiological studies have failed to demonstrate this effect, these studies have been limited by small sample sizes and nonrepresentative cohorts.<xref rid="acn3412-bib-0019" ref-type="ref">19</xref>, <xref rid="acn3412-bib-0020" ref-type="ref">20</xref> Therefore, convergent data from in vivo, in vitro, and epidemiological studies strongly support the potential ability of isradipine to slow progression of disability in PD; representing the strongest preclinical and clinical rationale of any past or current putative disease&#x02010;modifying agent for PD.</p><p>In addition to sufficient preclinical and early clinical data, it is critical to use a trial design and outcomes that will be sensitive to clinically meaningful impacts of an intervention above and beyond current ST. Most previous trials (Table <xref rid="acn3412-tbl-0001" ref-type="table-wrap">1</xref>) have used designs that rely on assessments prior to the initiation of ST or have used the time to initiation of ST as the primary outcome. These studies may be affected by differential drop out and differential use of symptomatic therapies and relatively short duration of follow&#x02010;up.</p><p>STEADY&#x02010;PDIII (clinicaltrials.gov NCT02168842) is a 36&#x02013;month, parallel group, double&#x02010;blind, placebo&#x02010;controlled trial that will evaluate the effect of isradipine on the progression of PD disability in untreated individuals with early PD.</p></sec><sec id="acn3412-sec-0006"><title>Methods</title><sec id="acn3412-sec-0007"><title>Trial design</title><p>STEADY&#x02010;PD III is an ongoing 36&#x02010;month, double&#x02010;blind, randomized, placebo&#x02010;controlled study of isradipine in 336 participants with early PD at baseline not receiving or requiring ST (Fig. <xref rid="acn3412-fig-0001" ref-type="fig">1</xref>). This design will test the hypothesis that individuals treated with isradipine will have slower progression of PD disability as determined by the change in the total Unified Parkinson Disease Rating Scale (UPDRS) score<xref rid="acn3412-bib-0021" ref-type="ref">21</xref> in the active treatment arm versus placebo between baseline and 36 months. Eligible participants are randomized to isradipine 5 mg twice daily or matching placebo. Participants are titrated to the treatment dosage over a period of 4&#x02013;12 weeks and then followed prospectively and systematically during a maintenance period over the remaining 36 months followed by a 3&#x02010;day titration off the study drug and 2 week post&#x02010;titration safety visit. Temporary study drug suspensions are allowed at the discretion of the investigator and participants who permanently discontinue the study drug are encouraged to remain in the study.</p><fig fig-type="Figure" xml:lang="en" id="acn3412-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Phase <styled-content style="fixed-case">III</styled-content> Study Design.</p></caption><graphic id="nlm-graphic-1" xlink:href="ACN3-4-360-g001"/></fig></sec><sec id="acn3412-sec-0008"><title>Setting</title><p>The study is being conducted at 57 Parkinson Study Group (PSG) sites in North America and is funded by the National Institute of Neurological Disorders and Stroke (NINDS) and the Michael J. Fox Foundation. The PSG is an independent consortium of scientific investigators committed to the cooperative planning, implementation, analysis, and reporting of controlled clinical trials and other research in PD and has successfully completed over 35 multi&#x02010;center cooperative therapeutic studies including STEADY&#x02010;PDII.</p></sec><sec id="acn3412-sec-0009"><title>Participants</title><p>Eligible participants have early idiopathic PD (presence of two out of three cardinal manifestations of PD)<xref rid="acn3412-bib-0022" ref-type="ref">22</xref>; Age greater than or equal to 30 years at the time of diagnosis; Hoehn and Yahr stage<xref rid="acn3412-bib-0023" ref-type="ref">23</xref> less than or equal to 2; Diagnosis of PD less than 3 years, currently NOT receiving ST (levodopa, dopamine agonist or MAO&#x02010;B inhibitors) and NOT projected to require ST for at least 3 months from the baseline visit. Use of amantadine and/or anticholinergics is allowed at stable dosages prior to enrollment. The key exclusion criteria include a diagnosis of an atypical parkinsonism; prior exposure to ST, history of orthostatic hypotension (based on standard definitions), bradycardia, congestive heart failure or other cardiac and other systemic diseases, abnormalities on the screening laboratories or ECG that might preclude safe participation in the study; presence of cognitive dysfunction defined by a Montreal Cognitive assessment (MOCA)(104) score &#x0003c; 26;<xref rid="acn3412-bib-0024" ref-type="ref">24</xref> clinically significant depression as determined by a Beck Depression Inventory II (BDI&#x02010;II) score &#x0003e; 15.<xref rid="acn3412-bib-0025" ref-type="ref">25</xref> Participants may take up to two other antihypertensives with the exception of calcium channel blockers which are exclusionary.</p><p>In addition, participants must meet blood pressure criteria during home blood pressure monitoring prior to initiating study drug.<xref rid="acn3412-bib-0026" ref-type="ref">26</xref>
+</p></sec><sec id="acn3412-sec-0010"><title>Outcome measures</title><p>Figure <xref rid="acn3412-fig-0002" ref-type="fig">2</xref> outlines the primary and major secondary outcomes in this study.</p><fig fig-type="Figure" xml:lang="en" id="acn3412-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Overview of Efficacy Analyses. Primary outcomes &#x02013; change in <styled-content style="fixed-case">UPDRS</styled-content> from baseline to 36 months. A&#x02010;change in <styled-content style="fixed-case">UPDRS</styled-content> prior to initiation of dopaminergic therapy (<styled-content style="fixed-case">DT</styled-content>). B&#x02010;change in <styled-content style="fixed-case">UPDRS</styled-content> due to <styled-content style="fixed-case">ST</styled-content> initiation. C&#x02010;time to initiation of <styled-content style="fixed-case">ST</styled-content>. D&#x02010;trajectory of <styled-content style="fixed-case">UPDRS</styled-content> change over time.</p></caption><graphic id="nlm-graphic-3" xlink:href="ACN3-4-360-g002"/></fig><p>The <italic>primary outcome</italic> is the change in total UPDRS (sum of mental, ADL and motor components) from baseline to 36 months in the medications &#x0201c;ON&#x0201d; state approximately 1 h after dose of ST for those receiving symptomatic treatment<italic><bold>.</bold></italic> The UPDRS is a valid and reliable measure of PD disability that has been effectively used in a number of PD trials.<xref rid="acn3412-bib-0021" ref-type="ref">21</xref>, <xref rid="acn3412-bib-0027" ref-type="ref">27</xref>, <xref rid="acn3412-bib-0028" ref-type="ref">28</xref>
+</p><p>Key <italic>secondary outcomes</italic> of clinical importance have been identified and include: (1) <italic>Time to initiation of ST</italic> has been used as a primary outcome measure in several previous studies of putative disease&#x02010;modifying agents<xref rid="acn3412-bib-0005" ref-type="ref">5</xref>, <xref rid="acn3412-bib-0029" ref-type="ref">29</xref> and reflects progression early in disease not obscured by symptomatic therapy; (2) <italic>Time to and severity of motor complications</italic> may reflect a secondary measure of progression once type of initial symptomatic treatment is accounted for<xref rid="acn3412-bib-0030" ref-type="ref">30</xref>, <xref rid="acn3412-bib-0031" ref-type="ref">31</xref>; (3) A potential beneficial effect of isradipine on disease progression could be masked by differential usage of ST. To account for this factor, we will evaluate <italic>differential use of ST</italic> by calculating the levodopa equivalent dosages between treatment groups<xref rid="acn3412-bib-0032" ref-type="ref">32</xref>; (4) Incidence and severity of nonmotor symptoms, as these contribute disproportionately to quality of life and reflect clinically relevant outcomes in PD.<xref rid="acn3412-bib-0033" ref-type="ref">33</xref>, <xref rid="acn3412-bib-0034" ref-type="ref">34</xref>, <xref rid="acn3412-bib-0035" ref-type="ref">35</xref>
+</p><p>A variety of <italic>exploratory outcome measures</italic> will be evaluated including global measures of functional disability measured by the modified Rankin scale,<xref rid="acn3412-bib-0036" ref-type="ref">36</xref> quality of life measured by PDQ&#x02010;39<xref rid="acn3412-bib-0037" ref-type="ref">37</xref> and NeuroQOL,<xref rid="acn3412-bib-0038" ref-type="ref">38</xref> the change in the ambulatory capacity (sum of 5 UPDRS items: falling, freezing, walking, gait, postural stability)<xref rid="acn3412-bib-0039" ref-type="ref">39</xref>, and cognitive function as measured by MOCA.<xref rid="acn3412-bib-0024" ref-type="ref">24</xref> Finally, we will model the trajectory of UPDRS change before and after initiation of ST (D in Fig. <xref rid="acn3412-fig-0002" ref-type="fig">2</xref>).</p><p>Plasma pharmacokinetic (PK) samples will be collected at the screening, 3 month and 6 month visits. The objective of collecting blood PK samples is to confirm isradipine trough concentrations and to establish a sparse PK profile of isradipine in this population. In addition, blood samples to extract DNA will be collected at screening and plasma will be collected at screening and at the end of the study and stored for future unspecified research.</p></sec><sec id="acn3412-sec-0011"><title>Statistical analyses</title><p>Efficacy analyses will use the intent&#x02010;to&#x02010;treat principle. The primary analysis will compare the active treatment group (all participants randomized to receive active isradipine) with the placebo group. All <italic>P</italic>&#x02010;values for efficacy outcomes will be two&#x02010;sided.</p><p>The primary analysis will use analysis of covariance applied to the change from baseline in the total UPDRS score. The baseline value will also be entered into the model as a continuous variable, the assigned treatment and enrolling site will be entered as categorical variables. A two&#x02010;tailed test with <italic>&#x003b1;</italic> = 0.05 will be used to declare statistical significance.</p><p>Secondary efficacy analyses of continuous outcome measures will be performed similar to the primary analysis. The time to initiation of ST and the time to onset of motor complications will be analyzed using Kaplan&#x02013;Meier plots and Cox Regression.</p><p>Supplementary analyses of the final study outcomes will be conducted with current use of symptomatic medication (levodopa equivalents) added as an additional predictor variable. The purpose of this analysis is to assess whether any differences seen in the primary outcome variable could be attributed to differential use of ST between the treatment groups. We aim to demonstrate that at 36 months participants on isradipine will have less functional decline than participants on placebo, without requiring more ST. We will also perform exploratory analyses of the primary outcome, using quantitative modeling along the lines suggested by Holford and Nutt,<xref rid="acn3412-bib-0040" ref-type="ref">40</xref> which permits exploration of both short&#x02010;term symptomatic effects and long&#x02010;term disease&#x02010;modifying effects of treatment in order to further evaluate the differential impact of isradipine and ST.</p><p>Recognizing that the study does not have high power to detect treatment effects among subgroups, we will conduct exploratory analyses to check the consistency of treatment effects on the primary and secondary efficacy measures in relation to selected baseline characteristics, including gender and race/ethnicity.</p></sec><sec id="acn3412-sec-0012"><title>Power and sample size considerations</title><p>Previous studies<xref rid="acn3412-bib-0029" ref-type="ref">29</xref>, <xref rid="acn3412-bib-0030" ref-type="ref">30</xref>, <xref rid="acn3412-bib-0041" ref-type="ref">41</xref> support a standard deviation of 12.0 units for the change in the primary outcome, total UPDRS from baseline to 36 months. The same data suggest an average change in total UPDRS of around 4.0 points over this same time period. However, this change is deceiving, as the change would likely be much greater in the absence of symptomatic treatment. If we assume that treatment with levodopa or a dopaminergic agonist provides a &#x0201c;bonus&#x0201d; of 12 points, then the underlying true decline in function over this period would be approximately 16 points, a value broadly consistent with the rate of change in total UPDRS in participants prior to treatment. We have chosen to power our study to detect a 4&#x02010;point effect, representing an overall 25% reduction in the underlying rate of progression. Using the above assumptions, a two&#x02010;sided test with <italic>&#x003b1;</italic> = 0.05 and <italic>&#x003b2;</italic> = 0.8 and making allowance for 15% dropouts, the required sample size is 168 participants per group or a total 336 participants.</p><p>We are also sufficiently powered to address our key secondary outcomes. Given the sample size above, we will be able to detect a 29% reduction in the risk of initiating ST; a reduction of 40% in the risk of developing motor complications; an approximately 25% reduction in the dosage of ST; and an effect size of 1.5 points on the nonmotor experiences of daily living between treatment groups.</p></sec><sec id="acn3412-sec-0013"><title>Interim analyses</title><p>An interim analysis for futility and efficacy will be performed after primary outcome data are available for the first 168 participants (50%) to enroll. The study will be terminated for futility if the interim analysis shows that the conditional power of rejecting the null hypothesis in favor of a beneficial effect of isradipine is lower than 20% under any scenario that is consistent with the data accrued at that time. A two&#x02010;sided P&#x02010;value in favor of isradipine of less than 0.001 will be required to stop for efficacy at the interim analysis. The stringent alpha level for efficacy was chosen so as to have minimal effect on the final <italic>P</italic>&#x02010;value, should the study run to completion. In addressing futility, the DSMB will examine a range of possible treatment effects consistent with the data obtained in the study at the time of analysis.</p></sec></sec><sec id="acn3412-sec-0014"><title>Results</title><p>Enrollment of the 336 participants began in November 2014 and was completed in October 2015 at 55 of the 57 active PSG sites. The final subject is expected to complete the study in November 2018. Baseline characteristics of the enrolled cohort are detailed in Table <xref rid="acn3412-tbl-0002" ref-type="table-wrap">2</xref>. At the time of this report, 330 participants remain active in the study with 322 participants on active drug.</p><table-wrap id="acn3412-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Baseline characteristics of the enrolled cohort</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Enrolled cohort (<italic>n</italic> = 336)</th><th align="center" valign="top" rowspan="1" colspan="1">Value<xref ref-type="fn" rid="acn3412-note-0003">a</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age</td><td align="char" char=" " rowspan="1" colspan="1">61.9 (9.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Male gender, <italic>n</italic> (%)</td><td align="char" char=" " rowspan="1" colspan="1">230 (68.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">White, non&#x02010;Hispanic, <italic>n</italic> (%)</td><td align="char" char=" " rowspan="1" colspan="1">300 (89.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Years from diagnosis</td><td align="char" char=" " rowspan="1" colspan="1">0.9 (0.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hoehn and Yahr Stage</td><td align="char" char=" " rowspan="1" colspan="1">1.7 (0.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Schwab and England ADL score</td><td align="char" char=" " rowspan="1" colspan="1">94.0 (7.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Total UPDRS</td><td align="char" char=" " rowspan="1" colspan="1">23.1 (8.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mental UPDRS</td><td align="char" char=" " rowspan="1" colspan="1">0.7 (1.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">ADL UPDRS</td><td align="char" char=" " rowspan="1" colspan="1">5.2 (3.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Motor UPDRS</td><td align="char" char=" " rowspan="1" colspan="1">17.2 (7.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">MDS&#x02010;UPDRS Total</td><td align="char" char=" " rowspan="1" colspan="1">32.4 (11.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">MoCA</td><td align="char" char=" " rowspan="1" colspan="1">28.1 (1.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Amantadine use at baseline, <italic>n</italic> (%)</td><td align="char" char=" " rowspan="1" colspan="1">20 (6.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Anticholinergic use at baseline, <italic>n</italic> (%)</td><td align="char" char=" " rowspan="1" colspan="1">5 (1.5)</td></tr></tbody></table><table-wrap-foot><fn id="acn3412-note-0002"><p>ADL, activities of daily living; UPDRS, Unified Parkinson Disease Rating Scale; MDS, Movement Disorders Society; MoCA, Montreal Cognitive Assessment.</p></fn><fn id="acn3412-note-0003"><label>a</label><p>Values represent mean (standard deviation) unless otherwise specified.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="acn3412-sec-0015"><title>Discussion</title><p>STEADY&#x02010;PDIII is a novel PD disease&#x02010;modifying trial evaluating efficacy of isradipine compared with placebo over 36 months. Several novel aspects of study design can be highlighted. It is the longest duration disease modifying trial ever conducted in de novo PD. In addition, the primary outcome (UPDRS change in the practically defined ON state) is powered to detect a 25% slowing of functional decline with isradipine above the benefit from ST, a difference that would be sufficient to influence clinical practice and may suggest the likelihood of longer term benefit. Finally, we are looking at a variety of relevant motor and nonmotor outcomes that will serve to support the effect of isradipine on outcomes that are clinically relevant to patients and clinicians.</p><p>PD is a slowly progressive neurodegenerative disease. Most of the previously conducted disease&#x02010;modifying studies enrolled participants with newly diagnosed PD not yet requiring ST and followed them for a relatively short period of time (12&#x02013;24 months) assuming that if benefit is shown it will persist long term.<xref rid="acn3412-bib-0042" ref-type="ref">42</xref> In case the participant required initiation of ST, the last observation prior to symptomatic treatment was carried forward. Such design is driven by lack of objective biomarkers of PD progression and the significant impact of ST on standard clinical outcome measures. However, this design is artificial and does not address &#x0201c;real life scenarios&#x0201d; where all patients are ultimately treated with ST. Indeed, on average 50% of de novo PD patients initiate ST within 1 year<xref rid="acn3412-bib-0043" ref-type="ref">43</xref> with nearly 100% requiring therapy by 3 years.<xref rid="acn3412-bib-0044" ref-type="ref">44</xref>, <xref rid="acn3412-bib-0045" ref-type="ref">45</xref> If the effect of isradipine on progression influences the rates of initiation of therapy, then we will be able to evaluate this through our key secondary outcome measures looking at time to initiation of ST and differential use of ST. Even if an intervention is effective early in the course of the disease, it remains to be proven that the benefit will persist longer term and specifically after initiation of ST. The interpretation of previous disease&#x02010;modifying therapies has been obscured by this lack of long&#x02010;term follow&#x02010;up.</p><p>STEADY&#x02010;PDIII attempts to address these limitations through 36&#x02010;month follow&#x02010;up of a randomized and blinded cohort. At 36 months, nearly all participants are expected to be treated with symptomatic therapies; therefore, this study is powered to demonstrate a disease&#x02010;modifying effect, if such exists, &#x0201c;on top of&#x0201d; the symptomatic benefit of existing treatments, making the results more clinically relevant and reflecting a &#x0201c;real life scenario&#x0201d; in a relatively small cohort of patients. Although we recognize that 36 months is not a substantially long period to see the emergences of long&#x02010;term complications such as postural instability and dementia, it is the longest duration ever proposed for a study in a de novo untreated PD population and is likely long enough to provide insight into the effect of isradipine on relevant motor and nonmotor outcomes. It is also a practically feasible time to maximize participant retention. Thus, the study design is novel in that it allows us to take advantage of a relatively small cohort to address the longer duration benefits of isradipine on top of the benefit derived from ST and to address clinically relevant longer duration motor and nonmotor outcomes.</p><p>We considered alternative study designs including a &#x0201c;simple long duration study&#x0201d; design (LS&#x02010;1), but this design would require in excess of 1500 participants and 7&#x02013;8 years to complete.<xref rid="acn3412-bib-0039" ref-type="ref">39</xref> Another design used in PD neuroprotective trials is the delayed&#x02010;start design.<xref rid="acn3412-bib-0007" ref-type="ref">7</xref> The arguments against a delayed&#x02010;start design are the lack of demonstrable symptomatic benefit of isradipine, the requirement of &#x0003e;1000 participants for sufficient power, and controversy on its ability to demonstrate disease modification in PD. Another consideration would be to enroll individuals at the time of initiation of symptomatic therapy (e.g., CALM&#x02010;PD),<xref rid="acn3412-bib-0030" ref-type="ref">30</xref> however, this would not allow us to evaluate the impact of isradipine on progression early in disease not confounded by symptomatic therapy, would not allow us to assess the impact of isradipine on the timing of initiation of ST and would be unlikely to add value as both scenarios would assess baseline UPDRS prior to the initiation of symptomatic therapy. In addition, enrolling participants as early as possible in the disease process would allow us to maximize the neuroprotective benefit of isradipine if such an effect exists. We also considered a prolonged wash out at the end of study or at the time of initiation of ST to reassess for the evidence of symptomatic benefit, but there are strong arguments against such design, including lack of obvious symptomatic effect of isradipine in our Phase II STEADY&#x02010;PD2 study and participant burden. In addition, there is no consensus regarding the necessary duration of the washout that would be required for isradipine.<xref rid="acn3412-bib-0005" ref-type="ref">5</xref>, <xref rid="acn3412-bib-0028" ref-type="ref">28</xref> Therefore, our design represents the most rational approach to study the efficacy of isradipine on disability in PD.</p><p>Our primary outcome is the change in UPDRS in the practically defined &#x0201c;ON&#x0201d; state from baseline to 36 months. Despite its limitations, UPDRS remains the best characterized outcome measure in PD and motor UPDRS correlates with neuronal loss in the substantia nigra.<xref rid="acn3412-bib-0046" ref-type="ref">46</xref> In addition, substantial data exist on the rate of change in the UPDRS in the de novo PD population and on the clinical meaningfulness of this outcome to allow us to adequately power this study. We have chosen to evaluate UPDRS in the medication &#x0201c;ON&#x0201d; state once ST is initiated, which will allow us to identify the benefit of isradipine &#x0201c;on top of&#x0201d; the benefit conferred by ST, an outcome with &#x0201c;real world&#x0201d; relevance to patients and clinicians. We have carefully considered UPDRS &#x0201c;OFF&#x0201d; as an alternative primary outcome. While it may be argued that the &#x0201c;OFF&#x0201d; assessment is a better representation of dopaminergic deficit this is not supported by the clinical data (31&#x02013;33).<xref rid="acn3412-bib-0047" ref-type="ref">47</xref>, <xref rid="acn3412-bib-0048" ref-type="ref">48</xref>, <xref rid="acn3412-bib-0049" ref-type="ref">49</xref> Both levodopa and dopamine agonists have shown long duration effects on UPDRS lasting days and even weeks, so that traditional 12 h off medication assessment does not reflect true dopaminergic deficiency. Despite these limitations, we recognize the potential value of &#x0201c;OFF&#x0201d; assessments and the motor UPDRS will be assessed as an exploratory outcome in the defined medication &#x0201c;OFF&#x0201d; state (at least 12 h after last dose of ST) once ST has been initiated.</p><p>In addition, we have identified a number of key secondary outcomes to corroborate the findings from the primary analysis. These outcomes include time to initiation of ST, time to the development of motor complications, use of ST and nonmotor disability. Time to initiation of ST has been a primary outcome in several completed studies that examined the efficacy of putative disease&#x02010;modifying interventions.<xref rid="acn3412-bib-0005" ref-type="ref">5</xref>, <xref rid="acn3412-bib-0029" ref-type="ref">29</xref> Although it has been criticized for the subjective nature of the measure and being impacted by the change in the treatment algorithms that overall lead to the earlier initiation of ST, nevertheless it can be considered a surrogate measure of the disease progression and allows us to compare our findings with previous trials. The differential use of ST has the potential to obscure the results and may represent a surrogate of disease severity. For instance, individuals with greater progression may be on higher dosages of ST which may offset the benefit of slower progression as measured by the UPDRS. Not only will this serve as a surrogate of disease progression and severity, it will allow us to conduct exploratory analyses accounting for ST effects.</p><p>The development of motor complications represents a significant milestone in PD progression and results in impaired quality of life, function, and social isolation.<xref rid="acn3412-bib-0050" ref-type="ref">50</xref> Therapies aimed at preventing or ameliorating motor complications represent a major unmet therapeutic need in PD. If isradipine only resulted in a difference in the rate of motor complications, this would represent a clinically meaningful outcome that would likely influence care. Nonmotor symptoms can be challenging to treat and have a disproportionate impact on quality of life.<xref rid="acn3412-bib-0051" ref-type="ref">51</xref>, <xref rid="acn3412-bib-0052" ref-type="ref">52</xref>, <xref rid="acn3412-bib-0053" ref-type="ref">53</xref> Therefore, therapy that influences these outcomes will likely have a significant impact on PD quality of life. The MDS&#x02010;UPDRS evaluated a variety of nonmotor outcomes not assessed in the traditional UPDRS. STEADY&#x02010;PD III represents the first interventional trial in de novo population to systematically evaluate the MDS&#x02010;UPDRS and will allow for further validation of this scale. We have chosen not to use it as the primary outcome as there were limited data on the change in MDS&#x02010;UPDRS in de novo PD to power the study. We have also chosen a number of exploratory measures that take advantage of the longer duration of follow&#x02010;up in this study compared with previous de novo studies and represent clinically valuable and complementary outcomes in PD. These measures represent components of the NINDS Common Data Elements and have largely been validated in PD and include measures of function, quality of life, gait, and cognition.</p><p>The study design has some limitations. A biomarker to validate target engagement of isradipine at the CAV1.3 channel does not exist and therefore a negative study may reflect a failure of target engagement. We have considered collecting biomarkers of oxidative stress and mitochondrial function as potential down steam effects of isradipine but these would only be indirect measures and have not been validated with isradipine in in vivo or in vitro models. We are collecting DNA and plasma for future analyses of novel biomarkers that may assist in interpretation of the study. We will analyze PK data to ensure that a minimum concentration necessary for neuroprotection is achieved and to address whether variability in clinical response is related to variations in serum concentrations. A final limitation is that participants are enrolled based on the clinical diagnosis of PD, raising the possibility that approximately 10% of participants might not have a presynaptic dopaminergic deficit. The use of DAT scan at enrollment could obviate this concern but would be associated with increased costs and time and would not definitively exclude individuals without PD. All investigators are credentialed by the PSG, experienced in the diagnosis and care of PD and the conduct of PD&#x02010;related trials and therefore, we anticipate a low false&#x02010;positive diagnosis rate. Regardless, we are collecting data on the change in diagnosis and will conduct post hoc analyses that incorporate this information.</p><p>In conclusion, this study is testing isradipine as a potential novel neuroprotective agent in PD based on robust preclinical and strong epidemiological data. The STEADY&#x02010;PDIII study design is unique in assessing the impact of isradipine over 36 months, at a time point where all participants will likely be on ST allowing us to determine if the benefit is sustained &#x0201c;on top of&#x0201d; traditional ST. In addition, the study design allows us to determine if the effects on motor function are corroborated by important secondary outcomes assessing clinically relevant measures of ST use, motor complications, nonmotor function, global disability, quality of life, ambulatory capacity, and cognition. This design is novel and innovative and allows for the determination of longer duration benefits on several clinically relevant outcomes in a relatively small cohort on top of the benefit derived from ST.</p></sec><sec id="acn3412-sec-0016"><title>Conflict of Interest</title><p>None of the authors have relevant conflicts of interest.</p></sec></body><back><ref-list content-type="cited-references" id="acn3412-bibl-0001"><title>References</title><ref id="acn3412-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="acn3412-cit-0001">
+<string-name>
+<surname>de Lau</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Breteler</surname>
+<given-names>MM</given-names>
+</string-name>. <article-title>Epidemiology of Parkinson's disease</article-title>. <source>Lancet Neurol</source>
+<year>2006</year>;<volume>5</volume>:<fpage>525</fpage>&#x02013;<lpage>535</lpage>.<pub-id pub-id-type="pmid">16713924</pub-id></mixed-citation></ref><ref id="acn3412-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="acn3412-cit-0002">
+<string-name>
+<surname>Dorsey</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Constantinescu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>JP</given-names>
+</string-name>, et al. <article-title>Projected number of people with Parkinson disease in the most populous nations, 2005 through 2030</article-title>. <source>Neurology</source>
+<year>2007</year>;<volume>68</volume>:<fpage>384</fpage>&#x02013;<lpage>386</lpage>.<pub-id pub-id-type="pmid">17082464</pub-id></mixed-citation></ref><ref id="acn3412-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="acn3412-cit-0003">
+<string-name>
+<surname>Dodel</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Singer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kohne&#x02010;Volland</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The economic impact of Parkinson's disease. An estimation based on a 3&#x02010;month prospective analysis</article-title>. <source>Pharmacoeconomics</source>
+<year>1998</year>;<volume>14</volume>:<fpage>299</fpage>&#x02013;<lpage>312</lpage>.<pub-id pub-id-type="pmid">10186468</pub-id></mixed-citation></ref><ref id="acn3412-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="acn3412-cit-0004">
+<string-name>
+<surname>Huse</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Schulman</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Orsini</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Burden of illness in Parkinson's disease</article-title>. <source>Mov Disord</source>
+<year>2005</year>;<volume>20</volume>:<fpage>1449</fpage>&#x02013;<lpage>1454</lpage>.<pub-id pub-id-type="pmid">16007641</pub-id></mixed-citation></ref><ref id="acn3412-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="acn3412-cit-0005">
+<collab collab-type="authors">Parkinson Study Group</collab>
+. <article-title>Effects of tocopherol and deprenyl on the progression of disability in early Parkinson's disease</article-title>. <source>N Engl J Med</source>
+<year>1993</year>;<volume>328</volume>:<fpage>176</fpage>&#x02013;<lpage>183</lpage>.<pub-id pub-id-type="pmid">8417384</pub-id></mixed-citation></ref><ref id="acn3412-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="acn3412-cit-0006">
+<collab collab-type="authors">The NINDS NET&#x02010;PD Investigators</collab>
+. <article-title>A randomized, double&#x02010;blind, futility clinical trial of creatine and minocycline in early Parkinson disease</article-title>. <source>Neurology</source>
+<year>2006</year>;<volume>66</volume>:<fpage>664</fpage>&#x02013;<lpage>671</lpage>.<pub-id pub-id-type="pmid">16481597</pub-id></mixed-citation></ref><ref id="acn3412-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="acn3412-cit-0007">
+<string-name>
+<surname>Rascol</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Fitzer&#x02010;Attas</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Hauser</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>A double&#x02010;blind, delayed&#x02010;start trial of rasagiline in Parkinson's disease (the ADAGIO study): prespecified and post&#x02010;hoc analyses of the need for additional therapies, changes in UPDRS scores, and non&#x02010;motor outcomes</article-title>. <source>Lancet Neurol</source>
+<year>2011</year>;<volume>10</volume>:<fpage>415</fpage>&#x02013;<lpage>423</lpage>.<pub-id pub-id-type="pmid">21482191</pub-id></mixed-citation></ref><ref id="acn3412-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="acn3412-cit-0008">
+<string-name>
+<surname>Beal</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Oakes</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Shoulson</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>A randomized clinical trial of high&#x02010;dosage coenzyme Q10 in early Parkinson disease: no evidence of benefit</article-title>. <source>JAMA Neurol</source>
+<year>2014</year>;<volume>71</volume>:<fpage>543</fpage>&#x02013;<lpage>552</lpage>.<pub-id pub-id-type="pmid">24664227</pub-id></mixed-citation></ref><ref id="acn3412-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="acn3412-cit-0009">
+<string-name>
+<surname>Chan</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Guzman</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Ilijic</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>&#x02018;Rejuvenation&#x02019; protects neurons in mouse models of Parkinson's disease</article-title>. <source>Nature</source>
+<year>2007</year>;<volume>447</volume>:<fpage>1081</fpage>&#x02013;<lpage>1086</lpage>.<pub-id pub-id-type="pmid">17558391</pub-id></mixed-citation></ref><ref id="acn3412-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="acn3412-cit-0010">
+<string-name>
+<surname>Ilijic</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Guzman</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Surmeier</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>The L&#x02010;type channel antagonist isradipine is neuroprotective in a mouse model of Parkinson's disease</article-title>. <source>Neurobiol Dis</source>
+<year>2011</year>;<volume>43</volume>:<fpage>364</fpage>&#x02013;<lpage>371</lpage>.<pub-id pub-id-type="pmid">21515375</pub-id></mixed-citation></ref><ref id="acn3412-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="acn3412-cit-0011">
+<string-name>
+<surname>Anekonda</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Quinn</surname>
+<given-names>JF</given-names>
+</string-name>. <article-title>Calcium channel blocking as a therapeutic strategy for Alzheimer's disease: the case for isradipine</article-title>. <source>Biochim Biophys Acta</source>
+<year>2011</year>;<volume>1812</volume>:<fpage>1584</fpage>&#x02013;<lpage>1590</lpage>.<pub-id pub-id-type="pmid">21925266</pub-id></mixed-citation></ref><ref id="acn3412-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="acn3412-cit-0012">
+<collab collab-type="authors">Parkinson Study Group</collab>
+. <article-title>Phase II safety, tolerability, and dose selection study of isradipine as a potential disease&#x02010;modifying intervention in early Parkinson's disease (STEADY&#x02010;PD)</article-title>. <source>Mov Disord</source>
+<year>2013</year>;<volume>28</volume>:<fpage>1823</fpage>&#x02013;<lpage>1831</lpage>.<pub-id pub-id-type="pmid">24123224</pub-id></mixed-citation></ref><ref id="acn3412-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="acn3412-cit-0013">
+<string-name>
+<surname>Sinnegger&#x02010;Brauns</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>
+<given-names>IG</given-names>
+</string-name>, <string-name>
+<surname>Koschak</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Expression and 1,4&#x02010;dihydropyridine&#x02010;binding properties of brain L&#x02010;type calcium channel isoforms</article-title>. <source>Mol Pharmacol</source>
+<year>2009</year>;<volume>75</volume>:<fpage>407</fpage>&#x02013;<lpage>414</lpage>.<pub-id pub-id-type="pmid">19029287</pub-id></mixed-citation></ref><ref id="acn3412-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="acn3412-cit-0014">
+<string-name>
+<surname>Puopolo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Raviola</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bean</surname>
+<given-names>BP</given-names>
+</string-name>. <article-title>Roles of subthreshold calcium current and sodium current in spontaneous firing of mouse midbrain dopamine neurons</article-title>. <source>J Neurosci</source>
+<year>2007</year>;<volume>27</volume>:<fpage>645</fpage>&#x02013;<lpage>656</lpage>.<pub-id pub-id-type="pmid">17234596</pub-id></mixed-citation></ref><ref id="acn3412-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="acn3412-cit-0015">
+<string-name>
+<surname>Becker</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Jick</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Meier</surname>
+<given-names>CR</given-names>
+</string-name>. <article-title>Use of antihypertensives and the risk of Parkinson disease</article-title>. <source>Neurology</source>
+<year>2008</year>;<volume>70</volume>:<fpage>1438</fpage>&#x02013;<lpage>1444</lpage>.<pub-id pub-id-type="pmid">18256367</pub-id></mixed-citation></ref><ref id="acn3412-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="acn3412-cit-0016">
+<string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rhodes</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>L&#x02010;type calcium channel blockers and Parkinson disease in Denmark</article-title>. <source>Ann Neurol</source>
+<year>2010</year>;<volume>67</volume>:<fpage>600</fpage>&#x02013;<lpage>606</lpage>.<pub-id pub-id-type="pmid">20437557</pub-id></mixed-citation></ref><ref id="acn3412-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="acn3412-cit-0017">
+<string-name>
+<surname>Pasternak</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Svanstrom</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>
+<given-names>NM</given-names>
+</string-name>, et al. <article-title>Use of calcium channel blockers and Parkinson's disease</article-title>. <source>Am J Epidemiol</source>
+<year>2012</year>;<volume>175</volume>:<fpage>627</fpage>&#x02013;<lpage>635</lpage>.<pub-id pub-id-type="pmid">22387374</pub-id></mixed-citation></ref><ref id="acn3412-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="acn3412-cit-0018">
+<string-name>
+<surname>Marras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gruneir</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rochon</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Dihydropyridine calcium channel blockers and the progression of parkinsonism</article-title>. <source>Ann Neurol</source>
+<year>2012</year>;<volume>71</volume>:<fpage>362</fpage>&#x02013;<lpage>369</lpage>.<pub-id pub-id-type="pmid">22451203</pub-id></mixed-citation></ref><ref id="acn3412-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="acn3412-cit-0019">
+<string-name>
+<surname>Ton</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Heckbert</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Longstreth</surname>
+<given-names>WT</given-names>
+<suffix>Jr</suffix>
+</string-name>, et al. <article-title>Calcium channel blockers and beta&#x02010;blockers in relation to Parkinson's disease</article-title>. <source>Parkinsonism Relat Disord</source>
+<year>2007</year>;<volume>13</volume>:<fpage>165</fpage>&#x02013;<lpage>169</lpage>.<pub-id pub-id-type="pmid">17055323</pub-id></mixed-citation></ref><ref id="acn3412-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="acn3412-cit-0020">
+<string-name>
+<surname>Simon</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Calcium channel blocker use and risk of Parkinson's disease</article-title>. <source>Mov Disord</source>
+<year>2010</year>;<volume>25</volume>:<fpage>1818</fpage>&#x02013;<lpage>1822</lpage>.<pub-id pub-id-type="pmid">20669249</pub-id></mixed-citation></ref><ref id="acn3412-bib-0021"><label>21</label><mixed-citation publication-type="book" id="acn3412-cit-0021">
+<string-name>
+<surname>Fahn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Elton</surname>
+<given-names>RL</given-names>
+</string-name>, <chapter-title>UPDRS Development Committee. Unified Parkinson's Disease Rating Scale</chapter-title> In: <person-group person-group-type="editor"><name><surname>Fahn</surname><given-names>S. M. C.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Calne</surname><given-names>D. B.</given-names></name></person-group>, and <person-group person-group-type="editor"><name><surname>Lieberman</surname><given-names>A.</given-names></name></person-group>, Eds., <source>Recent Developments in Parkinson's Disease</source>. <publisher-loc>Florman Park, NJ</publisher-loc>: <publisher-name>Macmillan</publisher-name>; <year>1987</year> Pp. <fpage>153</fpage>&#x02013;<lpage>163</lpage>.</mixed-citation></ref><ref id="acn3412-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="acn3412-cit-0022">
+<string-name>
+<surname>Hughes</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Ben&#x02010;Shlomo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Daniel</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>What features improve the accuracy of clinical diagnosis in Parkinson's disease: a clinicopathologic study</article-title>. <source>Neurology</source>
+<year>1992</year>;<volume>42</volume>:<fpage>1142</fpage>&#x02013;<lpage>1146</lpage>.<pub-id pub-id-type="pmid">1603339</pub-id></mixed-citation></ref><ref id="acn3412-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="acn3412-cit-0023">
+<string-name>
+<surname>Hoehn</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Yahr</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Parkinsonism: onset, progression and mortality</article-title>. <source>Neurology</source>
+<year>1967</year>;<volume>17</volume>:<fpage>427</fpage>&#x02013;<lpage>442</lpage>.<pub-id pub-id-type="pmid">6067254</pub-id></mixed-citation></ref><ref id="acn3412-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="acn3412-cit-0024">
+<string-name>
+<surname>Nasreddine</surname>
+<given-names>ZS</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Bedirian</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>The Montreal cognitive assessment, MoCA: a brief screening tool for mild cognitive impairment</article-title>. <source>J Am Geriatr Soc</source>
+<year>2005</year>;<volume>53</volume>:<fpage>695</fpage>&#x02013;<lpage>699</lpage>.<pub-id pub-id-type="pmid">15817019</pub-id></mixed-citation></ref><ref id="acn3412-bib-0025"><label>25</label><mixed-citation publication-type="book" id="acn3412-cit-0025">
+<string-name>
+<surname>Beck</surname>
+<given-names>Beck AT</given-names>
+</string-name>, <string-name>
+<surname>Inventory</surname>
+<given-names>Depression</given-names>
+</string-name>. <source>San Antonio</source>. <publisher-loc>Texas</publisher-loc>: <publisher-name>The Psychological Corporation</publisher-name>, <year>1987</year>.Ref Type: Pamphlet</mixed-citation></ref><ref id="acn3412-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="acn3412-cit-0026">
+<string-name>
+<surname>Adams</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Biemiller</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Andrzejewski</surname>
+<given-names>KL</given-names>
+</string-name>, et al. <article-title>Utilizing remote blood pressure monitoring in a Phase III clinical drug trial for Parkinson's disease [abstract]</article-title>. <source>Mov Disord</source>
+<year>2016</year>;<volume>31</volume> (<issue>suppl</issue> 2). <ext-link ext-link-type="uri" xlink:href="http://www.mdsabstracts.org/abstract/utilizing-remote-blood-pressure-monitoring-in-a-phase-iii-clinical-drug-trial-for-parkinsons-disease/">http://www.mdsabstracts.org/abstract/utilizing-remote-blood-pressure-monitoring-in-a-phase-iii-clinical-drug-trial-for-parkinsons-disease/</ext-link>. Accessed April 25, 2017.</mixed-citation></ref><ref id="acn3412-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="acn3412-cit-0027">
+<collab collab-type="authors">Parkinson Study Group</collab>
+. <article-title>A controlled trial of rasagiline in early Parkinson disease</article-title>. <source>Arch Neurol</source>
+<year>2002</year>;<volume>59</volume>:<fpage>1937</fpage>&#x02013;<lpage>1943</lpage>.<pub-id pub-id-type="pmid">12470183</pub-id></mixed-citation></ref><ref id="acn3412-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="acn3412-cit-0028">
+<string-name>
+<surname>Fahn</surname>
+<given-names>S</given-names>
+</string-name>. <collab collab-type="authors">Parkinson Study Group</collab>
+. <article-title>Results of the ELLDOPA (earlier vs. later levodopa) study</article-title>. <source>Mov Disord</source>
+<year>2002</year>;<volume>17</volume>:<fpage>S13</fpage>&#x02013;<lpage>S14</lpage>.<pub-id pub-id-type="pmid">12211136</pub-id></mixed-citation></ref><ref id="acn3412-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="acn3412-cit-0029">
+<collab collab-type="authors">Mixed lineage kinase inhibitor</collab>
+. <article-title>CEP&#x02010;1347 fails to delay disability in early Parkinson disease</article-title>. <source>Neurology</source>
+<year>2007</year>;<volume>69</volume>:<fpage>1480</fpage>&#x02013;<lpage>1490</lpage>.<pub-id pub-id-type="pmid">17881719</pub-id></mixed-citation></ref><ref id="acn3412-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="acn3412-cit-0030">
+<collab collab-type="authors">Parkinson Study Group</collab>
+. <article-title>Pramipexole vs levodopa as initial treatment for Parkinson disease: a randomized controlled trial</article-title>. <source>JAMA</source>
+<year>2000</year>;<volume>284</volume>:<fpage>1931</fpage>&#x02013;<lpage>1938</lpage>.<pub-id pub-id-type="pmid">11035889</pub-id></mixed-citation></ref><ref id="acn3412-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="acn3412-cit-0031">
+<string-name>
+<surname>Rascol</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Korczyn</surname>
+<given-names>AD</given-names>
+</string-name>, et al. <article-title>A five&#x02010;year study of the incidence of dyskinesia in patients with early Parkinson's disease who were treated with ropinirole or levodopa</article-title>. <source>N Engl J Med</source>
+<year>2000</year>;<volume>342</volume>:<fpage>1484</fpage>&#x02013;<lpage>1491</lpage>.<pub-id pub-id-type="pmid">10816186</pub-id></mixed-citation></ref><ref id="acn3412-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="acn3412-cit-0032">
+<string-name>
+<surname>Tomlinson</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Stowe</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Systematic review of levodopa dose equivalency reporting in Parkinson's disease</article-title>. <source>Mov Disord</source>
+<year>2010</year>;<volume>25</volume>:<fpage>2649</fpage>&#x02013;<lpage>2653</lpage>.<pub-id pub-id-type="pmid">21069833</pub-id></mixed-citation></ref><ref id="acn3412-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="acn3412-cit-0033">
+<string-name>
+<surname>Allain</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Schuck</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mauduit</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Depression in Parkinson's disease</article-title>. <source>BMJ</source>
+<year>2000</year>;<volume>2000</volume>:<fpage>1287</fpage>&#x02013;<lpage>1288</lpage>.</mixed-citation></ref><ref id="acn3412-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="acn3412-cit-0034">
+<string-name>
+<surname>Cahn</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>
+<given-names>EV</given-names>
+</string-name>, <string-name>
+<surname>Shear</surname>
+<given-names>PK</given-names>
+</string-name>, et al. <article-title>Differential contributions of cognitive and motor component processes to physical and instrumental activities of daily living in Parkinson's Disease</article-title>. <source>Arch Clin Neuropsychol</source>
+<year>1998</year>;<volume>13</volume>:<fpage>575</fpage>&#x02013;<lpage>583</lpage>.<pub-id pub-id-type="pmid">14590618</pub-id></mixed-citation></ref><ref id="acn3412-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="acn3412-cit-0035">
+<string-name>
+<surname>Gallagher</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Schrag</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Psychosis, apathy, depression and anxiety in Parkinson's disease</article-title>. <source>Neurobiol Dis</source>
+<year>2012</year>;<volume>46</volume>:<fpage>581</fpage>&#x02013;<lpage>589</lpage>.<pub-id pub-id-type="pmid">22245219</pub-id></mixed-citation></ref><ref id="acn3412-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="acn3412-cit-0036">
+<string-name>
+<surname>Weisscher</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Vermeulen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Roos</surname>
+<given-names>YB</given-names>
+</string-name>, <string-name>
+<surname>de Haan</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>What should be defined as good outcome in stroke trials; a modified Rankin score of 0&#x02010;1 or 0&#x02010;2?</article-title>
+<source>J Neurol</source>
+<year>2008</year>;<volume>255</volume>:<fpage>867</fpage>&#x02013;<lpage>874</lpage>.<pub-id pub-id-type="pmid">18338195</pub-id></mixed-citation></ref><ref id="acn3412-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="acn3412-cit-0037">
+<string-name>
+<surname>Peto</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Jenkinson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fitzpatrick</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Greenhall</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>The development and validation of a short measure of functioning and well being for individuals with Parkinson's disease</article-title>. <source>Qual Life Res</source>
+<year>1995</year>;<volume>4</volume>:<fpage>241</fpage>&#x02013;<lpage>248</lpage>.<pub-id pub-id-type="pmid">7613534</pub-id></mixed-citation></ref><ref id="acn3412-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="acn3412-cit-0038">
+<string-name>
+<surname>Nowinski</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Siderowf</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Simuni</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Neuro&#x02010;QoL health&#x02010;related quality of life measurement system: validation in Parkinson's disease</article-title>. <source>Mov Disord</source>
+<year>2016</year>;<volume>31</volume>:<fpage>725</fpage>&#x02013;<lpage>733</lpage>.<pub-id pub-id-type="pmid">26919664</pub-id></mixed-citation></ref><ref id="acn3412-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="acn3412-cit-0039">
+<string-name>
+<surname>Elm</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Design innovations and baseline findings in a long&#x02010;term Parkinson's trial: the National institute of neurological disorders and stroke exploratory trials in Parkinson's disease long&#x02010;term study&#x02010;1</article-title>. <source>Mov Disord</source>
+<year>2012</year>;<volume>27</volume>:<fpage>1513</fpage>&#x02013;<lpage>1521</lpage>.<pub-id pub-id-type="pmid">23079770</pub-id></mixed-citation></ref><ref id="acn3412-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="acn3412-cit-0040">
+<string-name>
+<surname>Holford</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name>
+<surname>Nutt</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Interpreting the results of Parkinson's disease clinical trials: time for a change</article-title>. <source>Mov Disord</source>
+<year>2011</year>;<volume>26</volume>:<fpage>569</fpage>&#x02013;<lpage>577</lpage>.<pub-id pub-id-type="pmid">21370266</pub-id></mixed-citation></ref><ref id="acn3412-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="acn3412-cit-0041">
+<string-name>
+<surname>Palhagen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Heinonen</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Hagglund</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Selegiline delays the onset of disability in de novo parkinsonian patients. Swedish Parkinson Study Group</article-title>. <source>Neurology</source>
+<year>1998</year>;<volume>51</volume>:<fpage>520</fpage>&#x02013;<lpage>525</lpage>.<pub-id pub-id-type="pmid">9710028</pub-id></mixed-citation></ref><ref id="acn3412-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="acn3412-cit-0042">
+<string-name>
+<surname>Hart</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Pearce</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Ravina</surname>
+<given-names>BM</given-names>
+</string-name>, et al. <article-title>Neuroprotection trials in Parkinson's disease: systematic review</article-title>. <source>Mov Disord</source>
+<year>2009</year>;<volume>24</volume>:<fpage>647</fpage>&#x02013;<lpage>654</lpage>.<pub-id pub-id-type="pmid">19117366</pub-id></mixed-citation></ref><ref id="acn3412-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="acn3412-cit-0043">
+<string-name>
+<surname>Parashos</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Swearingen</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Biglan</surname>
+<given-names>KM</given-names>
+</string-name>, et al. <article-title>Determinants of the timing of symptomatic treatment in early Parkinson disease: The National Institutes of health exploratory trials in Parkinson disease (NET&#x02010;PD) experience</article-title>. <source>Arch Neurol</source>
+<year>2009</year>;<volume>66</volume>:<fpage>1099</fpage>&#x02013;<lpage>1104</lpage>.<pub-id pub-id-type="pmid">19597081</pub-id></mixed-citation></ref><ref id="acn3412-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="acn3412-cit-0044">
+<string-name>
+<surname>Shoulson</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>DATATOP: a decade of neuroprotective inquiry. Parkinson Study Group. Deprenyl and tocopherol antioxidative therapy of parkinsonism</article-title>. <source>Ann Neurol</source>
+<year>1998</year>;<volume>44</volume>:<fpage>S160</fpage>&#x02013;<lpage>S166</lpage>.<pub-id pub-id-type="pmid">9749589</pub-id></mixed-citation></ref><ref id="acn3412-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="acn3412-cit-0045">
+<string-name>
+<surname>Ravina</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tanner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Dieuliis</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>A longitudinal program for biomarker development in Parkinson's disease: a feasibility study</article-title>. <source>Mov Disord</source>
+<year>2009</year>;<volume>24</volume>:<fpage>2081</fpage>&#x02013;<lpage>2090</lpage>.<pub-id pub-id-type="pmid">19691116</pub-id></mixed-citation></ref><ref id="acn3412-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="acn3412-cit-0046">
+<string-name>
+<surname>Greffard</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Verny</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>Motor score of the Unified Parkinson Disease Rating Scale as a good predictor of Lewy body&#x02010;associated neuronal loss in the substantia nigra</article-title>. <source>Arch Neurol</source>
+<year>2006</year>;<volume>63</volume>:<fpage>584</fpage>&#x02013;<lpage>588</lpage>.<pub-id pub-id-type="pmid">16606773</pub-id></mixed-citation></ref><ref id="acn3412-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="acn3412-cit-0047">
+<string-name>
+<surname>Fahn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Oakes</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Shoulson</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Levodopa and the progression of Parkinson's disease</article-title>. <source>N Engl J Med</source>
+<year>2004</year>;<volume>351</volume>:<fpage>2498</fpage>&#x02013;<lpage>2508</lpage>.<pub-id pub-id-type="pmid">15590952</pub-id></mixed-citation></ref><ref id="acn3412-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="acn3412-cit-0048">
+<string-name>
+<surname>Stocchi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Vacca</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Berardelli</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Long&#x02010;duration effect and the postsynaptic compartment: study using a dopamine agonist with a short half&#x02010;life</article-title>. <source>Mov Disord</source>
+<year>2001</year>;<volume>16</volume>:<fpage>301</fpage>&#x02013;<lpage>305</lpage>.<pub-id pub-id-type="pmid">11295785</pub-id></mixed-citation></ref><ref id="acn3412-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="acn3412-cit-0049">
+<string-name>
+<surname>Barbato</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Stocchi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Monge</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>The long&#x02010;duration action of levodopa may be due to a postsynaptic effect</article-title>. <source>Clin Neuropharmacol</source>
+<year>1997</year>;<volume>20</volume>:<fpage>394</fpage>&#x02013;<lpage>401</lpage>.<pub-id pub-id-type="pmid">9331515</pub-id></mixed-citation></ref><ref id="acn3412-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="acn3412-cit-0050">
+<string-name>
+<surname>Hechtner</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Vogt</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zollner</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Quality of life in Parkinson's disease patients with motor fluctuations and dyskinesias in five European countries</article-title>. <source>Parkinsonism Relat Disord</source>
+<year>2014</year>;<volume>20</volume>:<fpage>969</fpage>&#x02013;<lpage>974</lpage>.<pub-id pub-id-type="pmid">24953743</pub-id></mixed-citation></ref><ref id="acn3412-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="acn3412-cit-0051">
+<string-name>
+<surname>Hobson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Holden</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Meara</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Measuring the impact of Parkinson's disease with the Parkinson's Disease Quality of Life questionnaire</article-title>. <source>Age Ageing</source>
+<year>1999</year>;<volume>28</volume>:<fpage>341</fpage>&#x02013;<lpage>346</lpage>.<pub-id pub-id-type="pmid">10459785</pub-id></mixed-citation></ref><ref id="acn3412-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="acn3412-cit-0052">
+<string-name>
+<surname>Martinez&#x02010;Martin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez&#x02010;Blazquez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kurtis</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Chaudhuri</surname>
+<given-names>KR</given-names>
+</string-name>. <article-title>The impact of non&#x02010;motor symptoms on health&#x02010;related quality of life of patients with Parkinson's disease</article-title>. <source>Mov Disord</source>
+<year>2011</year>;<volume>26</volume>:<fpage>399</fpage>&#x02013;<lpage>406</lpage>.<pub-id pub-id-type="pmid">21264941</pub-id></mixed-citation></ref><ref id="acn3412-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="acn3412-cit-0053">
+<string-name>
+<surname>Leroi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Pantula</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Harbishettar</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Cognitive impairment in Parkinson disease: impact on quality of life, disability, and caregiver burden</article-title>. <source>J Geriatr Psychiatry Neurol</source>
+<year>2012</year>;<volume>25</volume>:<fpage>208</fpage>&#x02013;<lpage>214</lpage>.<pub-id pub-id-type="pmid">23172765</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,943 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Arthritis Rheumatol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2326-5205</journal-id><journal-id journal-id-type="publisher-id">ART</journal-id><journal-title-group><journal-title>Arthritis &#x00026; Rheumatology (Hoboken, N.j.)</journal-title></journal-title-group><issn pub-type="ppub">2326-5191</issn><issn pub-type="epub">2326-5205</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28622463</article-id><article-id pub-id-type="pmc">5656813</article-id><article-id pub-id-type="doi">10.1002/art.40186</article-id><article-id pub-id-type="publisher-id">ART40186</article-id><article-categories><subj-group subj-group-type="overline"><subject>Rheumatoid Arthritis</subject></subj-group><subj-group subj-group-type="heading"><subject>Rheumatoid Arthritis</subject></subj-group></article-categories><title-group><article-title>Efficacy, Safety, Pharmacokinetics, and Pharmacodynamics of Filgotinib, a Selective JAK&#x02010;1 Inhibitor, After Short&#x02010;Term Treatment of Rheumatoid Arthritis: Results of Two Randomized Phase IIa Trials</article-title><alt-title alt-title-type="right-running-head">CLINICAL EXPLORATION OF FILGOTINIB IN RA</alt-title><alt-title alt-title-type="left-running-head">VANHOUTTE ET AL</alt-title></title-group><contrib-group><contrib id="art40186-cr-0001" contrib-type="author"><name><surname>Vanhoutte</surname><given-names>Fr&#x000e9;d&#x000e9;ric</given-names></name><xref ref-type="aff" rid="art40186-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="art40186-cr-0002" contrib-type="author"><name><surname>Mazur</surname><given-names>Minodora</given-names></name><xref ref-type="aff" rid="art40186-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="art40186-cr-0003" contrib-type="author"><name><surname>Voloshyn</surname><given-names>Oleksandr</given-names></name><xref ref-type="aff" rid="art40186-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="art40186-cr-0004" contrib-type="author"><name><surname>Stanislavchuk</surname><given-names>Mykola</given-names></name><xref ref-type="aff" rid="art40186-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="art40186-cr-0005" contrib-type="author"><name><surname>Van der Aa</surname><given-names>Annegret</given-names></name><xref ref-type="aff" rid="art40186-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="art40186-cr-0006" contrib-type="author"><name><surname>Namour</surname><given-names>Florence</given-names></name><xref ref-type="aff" rid="art40186-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="art40186-cr-0007" contrib-type="author"><name><surname>Galien</surname><given-names>Ren&#x000e9;</given-names></name><xref ref-type="aff" rid="art40186-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="art40186-cr-0008" contrib-type="author"><name><surname>Meuleners</surname><given-names>Luc</given-names></name><xref ref-type="aff" rid="art40186-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="art40186-cr-0009" contrib-type="author" corresp="yes"><name><surname>van 't Klooster</surname><given-names>Gerben</given-names></name><address><email>gerben.vantklooster@glpg.com</email></address><xref ref-type="aff" rid="art40186-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="art40186-aff-0001">
+<label><sup>1</sup></label>
+<institution>Gal&#x000e1;pagos NV</institution>
+<named-content content-type="city">Mechelen</named-content>
+<country country="BE">Belgium</country>
+</aff><aff id="art40186-aff-0002">
+<label><sup>2</sup></label>
+<institution>University Hospital</institution>
+<named-content content-type="city">Chisinau</named-content>
+<country country="MD">Moldova</country>
+</aff><aff id="art40186-aff-0003">
+<label><sup>3</sup></label>
+<institution>Chernivtsi Regional Clinical Hospital</institution>
+<named-content content-type="city">Chernivtsi</named-content>
+<country country="UA">Ukraine</country>
+</aff><aff id="art40186-aff-0004">
+<label><sup>4</sup></label>
+<institution>Vinnytsia Regional Clinical Hospital</institution>
+<named-content content-type="city">Vinnytsia</named-content>
+<country country="UA">Ukraine</country>
+</aff><aff id="art40186-aff-0005">
+<label><sup>5</sup></label>
+<institution>Gal&#x000e1;pagos SASU</institution>
+<named-content content-type="city">Romainville</named-content>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Address correspondence to Gerben van 't Klooster, PhD, Gal&#x000e1;pagos NV, Generaal de Wittelaan, L11 A3 Mechelen, Antwerp 2800, Belgium. E&#x02010;mail: <email>gerben.vantklooster@glpg.com</email>.</corresp></author-notes><pub-date pub-type="epub"><day>31</day><month>8</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2017</year></pub-date><volume>69</volume><issue>10</issue><issue-id pub-id-type="doi">10.1002/art.v69.10</issue-id><fpage>1949</fpage><lpage>1959</lpage><history><date date-type="received"><day>08</day><month>7</month><year>2016</year></date><date date-type="accepted"><day>15</day><month>6</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017, American College of Rheumatology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Arthritis &#x00026; Rheumatology published by Wiley Periodicals, Inc. on behalf of American College of Rheumatology.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ART-69-1949.pdf"/><abstract><sec id="art40186-sec-0001"><title>Objective</title><p>JAK inhibitors have shown efficacy in rheumatoid arthritis (RA). We undertook this study to test our hypothesis that selective inhibition of JAK&#x02010;1 would combine good efficacy with a better safety profile compared with less selective JAK inhibitors.</p></sec><sec id="art40186-sec-0002"><title>Methods</title><p>In two 4&#x02010;week exploratory, double&#x02010;blind, placebo&#x02010;controlled phase IIa trials, 127 RA patients with an insufficient response to methotrexate (MTX) received filgotinib (GLPG0634, GS&#x02010;6034) oral capsules (100 mg twice daily or 30, 75, 150, 200, or 300 mg once daily) or placebo, added onto a stable regimen of MTX, to evaluate safety, efficacy, pharmacokinetics (PK), and pharmacodynamics (PD) of filgotinib. The primary efficacy end point was the number and percentage of patients in each treatment group meeting the American College of Rheumatology 20% improvement criteria (achieving an ACR20 response) at week 4.</p></sec><sec id="art40186-sec-0003"><title>Results</title><p>Treatment with filgotinib at 75&#x02013;300 mg met the primary end point and showed early onset of efficacy. ACR20 response rates progressively increased to week 4, and the Disease Activity Score in 28 joints using the C&#x02010;reactive protein (CRP) level decreased. Marked and sustained improvements were observed in serum CRP level and other PD markers. The PK of filgotinib and its major metabolite was dose proportional over the 30&#x02013;300 mg range. Early side effects seen with other less selective JAK inhibitors were not observed (e.g., there was no worsening of anemia [JAK&#x02010;2 inhibition related], no effects on liver transaminases, and no increase in low&#x02010;density lipoprotein or total cholesterol). A limited decrease in neutrophils without neutropenia was consistent with immunomodulatory effects through JAK&#x02010;1 inhibition. There were no infections. Overall, filgotinib was well tolerated. Events related to study drug were mild or moderate and transient during therapy, and the most common such event was nausea.</p></sec><sec id="art40186-sec-0004"><title>Conclusion</title><p>Selective inhibition of JAK&#x02010;1 with filgotinib shows initial efficacy in RA with an encouraging safety profile in these exploratory studies.</p></sec></abstract><funding-group><award-group><funding-source>Gal&#x000e1;pagos
+</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="4"/><page-count count="11"/><word-count count="9402"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>art40186</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.1 mode:remove_FC converted:26.10.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="art40186-note-0001"><p>
+<ext-link ext-link-type="uri" xlink:href="http://ClinicalTrials.gov">ClinicalTrials.gov</ext-link> identifiers: NCT01384422; NCT01668641.</p></fn><fn id="art40186-note-0002"><p>Supported by Gal&#x000e1;pagos.</p></fn><fn id="art40186-note-0003"><p>Drs. Vanhoutte, Van der Aa, Galien, and van 't Klooster and Ms Namour and Mr. Meuleners own stock or stock options in Gal&#x000e1;pagos NV/SASU.</p></fn></fn-group></notes></front><body><p>Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory and degenerative joint disease that affects almost 1% of the adult population worldwide, with onset classically between ages 30 and 50 years and a higher prevalence in women <xref rid="art40186-bib-0001" ref-type="ref">1</xref>, <xref rid="art40186-bib-0002" ref-type="ref">2</xref>. Current therapeutic approaches rely on disease&#x02010;modifying antirheumatic drugs (DMARDs), such as methotrexate (MTX), as well as on biologic therapeutics that target tumor necrosis factor, interleukin&#x02010;6 (IL&#x02010;6), and T cell activation (abatacept, a CTLA&#x02010;4Ig fusion protein) or that eliminate CD20+ B cells (rituximab) <xref rid="art40186-bib-0003" ref-type="ref">3</xref>. Limitations with these treatments, such as waning efficacy over time, are observed in a proportion of patients and are associated with side effects (e.g., with MTX or steroids) and dosing inconvenience (injected biologic therapeutics). This has led to the exploration of alternative oral treatments. In the past decade, small&#x02010;molecule inhibitors targeting kinases involved in disease&#x02010;relevant signal transduction pathways such as p38 MAPK, Syk, and JAK have been evaluated in RA patients <xref rid="art40186-bib-0004" ref-type="ref">4</xref>. In 2012, tofacitinib became the first JAK inhibitor approved by the US Food and Drug Administration for the treatment of RA.</p><p>JAKs are intracellular cytoplasmic tyrosine kinases, which signal in pairs and transduce cytokine signaling from membrane receptors via the STAT factors to the cell nucleus <xref rid="art40186-bib-0005" ref-type="ref">5</xref>. JAK inhibitors block the signaling of various cytokines, growth factors, and hormones, including IL&#x02010;6. Four different types of JAKs are known: JAK&#x02010;1, JAK&#x02010;2, JAK&#x02010;3, and Tyk&#x02010;2. JAK&#x02010;1 is a novel target for inflammatory diseases, transducing cytokine&#x02010;driven proinflammatory signaling, and for other diseases driven by JAK&#x02010;mediated signal transduction. JAK&#x02010;2 signals for a range of cytokines, often pairing with JAK&#x02010;1, but only JAK&#x02010;2 is downstream of a number of growth factors involved in hematopoiesis, such as erythropoietin (EPO) and thrombopoietin (TPO). JAK&#x02010;3 is considered a prime target for immunosuppression, being downstream of proinflammatory cytokines, and also for immunoinflammatory diseases. While JAK&#x02010;1, JAK&#x02010;2, and Tyk&#x02010;2 are expressed in many cell types and tissues, JAK&#x02010;3 expression is restricted to the lymphoid lineage.</p><p>The first marketed JAK inhibitor, tofacitinib, inhibits JAK&#x02010;3, JAK&#x02010;1, and JAK&#x02010;2 in descending order of potency. It is efficacious in treating the signs and symptoms of RA with a rapid onset of action. The most common adverse events (AEs) are infections and infestations, increases in serum creatinine, and a decrease in neutrophil counts <xref rid="art40186-bib-0006" ref-type="ref">6</xref>, <xref rid="art40186-bib-0007" ref-type="ref">7</xref>. Tofacitinib also increases total cholesterol levels, with low&#x02010;density lipoprotein (LDL) increases typically exceeding those for high&#x02010;density lipoprotein (HDL). At doses exceeding the approved regimen of 5 mg twice daily, tofacitinib treatment was associated with anemia, which is thought to be linked to inhibition of JAK&#x02010;2. Several other JAK inhibitors with varying selectivity profiles are in development for RA, including baricitinib (JAK&#x02010;1/JAK&#x02010;2 inhibitor), peficitinib (JAK&#x02010;3/JAK&#x02010;1/JAK&#x02010;2 inhibitor), and ABT&#x02010;494 (JAK&#x02010;1 inhibitor) <xref rid="art40186-bib-0008" ref-type="ref">8</xref>.</p><p>It has been hypothesized that inhibition of JAK&#x02010;1 in particular is beneficial in RA treatment. While inhibition of JAK&#x02010;2 and &#x003b2;&#x02010;chain receptor&#x02013;interacting family cytokines may contribute to the efficacy, it could also cause anemia, thrombocytopenia, and neutropenia by interfering with EPO signaling and with colony&#x02010;stimulating factors <xref rid="art40186-bib-0009" ref-type="ref">9</xref>, <xref rid="art40186-bib-0010" ref-type="ref">10</xref>.</p><p>We present the first data in RA patients for filgotinib (GLPG0634, GS&#x02010;6034), a highly selective orally available JAK&#x02010;1 inhibitor with &#x0223c;30&#x02010;fold selectivity for inhibition of JAK&#x02010;1 relative to JAK&#x02010;2 in human whole blood assays <xref rid="art40186-bib-0011" ref-type="ref">11</xref>. Filgotinib is metabolized to form one major metabolite, which also exhibits selective JAK&#x02010;1 inhibition, although with &#x0223c;10&#x02010;fold lower potency. As the overall exposure of this metabolite in humans is &#x0223c;15&#x02010;fold higher than that of filgotinib, the clinical activity likely results from the combination of the parent molecule and the major metabolite <xref rid="art40186-bib-0012" ref-type="ref">12</xref>.</p><p>Filgotinib treatment of healthy volunteers for up to 10 days with doses up to 450 mg once daily was well tolerated and safe <xref rid="art40186-bib-0013" ref-type="ref">13</xref>. Significant inhibition of JAK&#x02010;1 pathways but not JAK&#x02010;2 was found in pharmacodynamic (PD) assays at daily doses of &#x02265;100 mg. In healthy volunteers, the exposure of filgotinib was well in excess of that showing efficacy in animal models of RA.</p><p>We present data obtained in two 4&#x02010;week trials with filgotinib, one proof&#x02010;of&#x02010;concept study and one dose&#x02010;ranging study. The observed safety and efficacy in RA patients provide initial evidence that selective inhibition of JAK&#x02010;1 may represent a future way to treat RA.</p><sec id="art40186-sec-0006"><title>PATIENTS AND METHODS</title><sec id="art40186-sec-0007"><title>Study design and treatments</title><p>Two 4&#x02010;week exploratory, randomized, double&#x02010;blind, placebo&#x02010;controlled studies were performed in RA patients who had an inadequate response to MTX. Both studies aimed to evaluate the preliminary safety, efficacy, pharmacokinetics (PK), and PD of filgotinib added onto a stable regimen of MTX. Study 1 (GLPG0634&#x02010;CL&#x02010;201; NCT01384422) was a phase IIa proof&#x02010;of&#x02010;concept study enrolling 36 patients and evaluating daily doses of 200 mg of filgotinib, given at 200 mg once daily or 100 mg twice daily, versus placebo. The study was conducted at a single site in the Republic of Moldova. Study 2 (GLPG0634&#x02010;CL&#x02010;202; NCT01668641) was a phase IIa dose&#x02010;ranging study in which 91 patients were enrolled to receive filgotinib once daily at 30 mg, 75 mg, 150 mg, or 300 mg versus placebo. The study was conducted at 19 sites in 4 countries (Republic of Moldova, Ukraine, Russia, and Hungary). Eligible patients were randomly assigned to receive filgotinib or matching placebo as capsules for 4 weeks, with a 7&#x02013;10&#x02010;day follow&#x02010;up period. For both studies, local ethics committees approved the protocol. All patients gave informed consent, and the studies were conducted in accordance with the Declaration of Helsinki.</p></sec><sec id="art40186-sec-0008"><title>Patients</title><p>Eligible patients fulfilled the American College of Rheumatology (ACR) 1987 revised criteria for the classification of RA <xref rid="art40186-bib-0014" ref-type="ref">14</xref>, were ages 18&#x02013;70 years, had &#x02265;5 swollen joints and &#x02265;5 tender joints, and had a serum C&#x02010;reactive protein (CRP) level of &#x02265;10 mg/liter at screening. Prior to screening, patients had to have received MTX for at least 12 weeks (study 2) or at least 6 months (study 1) and had to have been receiving a stable dose of 7.5&#x02013;25 mg/week for at least 4 weeks. Oral steroids at a stable dose (&#x02264;10 mg once daily) for at least 4 weeks prior to screening and nonsteroidal antiinflammatory drugs at a stable dose for at least 2 weeks prior to screening were allowed. Major exclusion criteria were having received DMARDs other than MTX within the 8 weeks prior to screening or having received treatment with a biologic agent, with the exception of a biologic agent administered in a single clinical study setting &#x0003e;6 months prior to screening (&#x0003e;12 months prior to screening for rituximab or other cell&#x02010;depleting agents).</p></sec><sec id="art40186-sec-0009"><title>Efficacy assessments</title><p>In both studies, the primary efficacy end point was the number and percentage of patients in each treatment group meeting the ACR 20% improvement criteria (achieving an ACR20 response) <xref rid="art40186-bib-0015" ref-type="ref">15</xref> at week 4. Secondary efficacy end points included the number and percentage of patients achieving an ACR20/ACR50/ACR70 response in each treatment group at weeks 1 and 2, and at week 4 for an ACR50/ACR70 response; the Disease Activity Score in 28 joints <xref rid="art40186-bib-0016" ref-type="ref">16</xref> using the CRP level (DAS28&#x02010;CRP) at weeks 1, 2, and 4 and change from baseline in the DAS28&#x02010;CRP at weeks 1, 2, and 4; and change from baseline and percentage of change from baseline at each visit in the individual components of the ACR core set of disease activity measures <xref rid="art40186-bib-0017" ref-type="ref">17</xref> (swollen joint count in 66 joints [SJC66], tender joint count in 68 joints [TJC68], physician's and patient's global assessments of disease activity and patient's assessment of pain on a visual analog scale, Health Assessment Questionnaire disability index [HAQ DI] score <xref rid="art40186-bib-0018" ref-type="ref">18</xref>, and serum CRP level).</p></sec><sec id="art40186-sec-0010"><title>Safety assessments</title><p>AEs, vital signs, concomitant medications, routine hematology, serum biochemistry, coagulation, urinalysis, and other clinical laboratory test results were collected at each visit. A 12&#x02010;lead electrocardiogram (EKG) was carried out at baseline and follow&#x02010;up, and also at week 4 for study 1. A physical examination was performed at screening and follow&#x02010;up. Data were summarized in a descriptive manner. No formal statistical comparisons of safety data were performed.</p></sec><sec id="art40186-sec-0011"><title>PK</title><p>Plasma concentrations of filgotinib and its major metabolite were measured in samples collected from a subset of patients in both studies (12 patients in study 1 and 15 patients in study 2) to assess individual steady&#x02010;state PK of filgotinib and its major metabolite. Blood samples were collected before the morning dose and 1, 2, 3, 5, and 8 hours after the morning dose at either the week 2 or week 4 visit.</p></sec><sec id="art40186-sec-0012"><title>PD</title><p>In plasma samples collected at the baseline and week 4 visits from all participants in study 2, levels of various marker proteins were assessed using 2 different technologies. The measurement of the concentration of the YKL&#x02010;40 factor (chitinase 3&#x02013;like protein 1) was performed using an enzyme&#x02010;linked immunosorbent assay from R&#x00026;D Systems. The other markers (vascular cell adhesion molecule 1 [VCAM&#x02010;1], intercellular adhesion molecule 1 [ICAM&#x02010;1], matrix metalloproteinase 3 [MMP&#x02010;3], haptoglobin, IL&#x02010;18) were quantified at Myriad RBM. Data were normalized to the baseline value for each patient and plotted as the percentage of change from baseline.</p></sec><sec id="art40186-sec-0013"><title>Statistical analysis</title><p>No formal statistical power calculation was used to determine sample sizes, as the studies were purely exploratory. All randomized patients who received at least one dose of study drug and had at least one postbaseline efficacy assessment (intent&#x02010;to&#x02010;treat population) were included in the efficacy analyses. Descriptive statistics were calculated by dose for each of the PK parameters for filgotinib and its major metabolite. Exploratory between&#x02010;group comparisons were also performed.</p><p>Safety data were summarized for all randomized patients who received at least one dose of study drug (safety population). Descriptive statistics were calculated for each parameter at every time point and in each treatment group. A treatment&#x02010;emergent AE analysis was performed.</p><p>PD data are expressed as the mean&#x02009;&#x000b1;&#x02009;SEM. Comparisons of PD marker levels among the groups were made using a nonparametric Kruskal&#x02010;Wallis test followed by Dunn's post hoc test.</p></sec></sec><sec id="art40186-sec-0014"><title>RESULTS</title><sec id="art40186-sec-0015"><title>Patient disposition and baseline demographics</title><p>A total of 127 RA patients, 36 in study 1 and 91 in study 2, were randomly assigned to receive the study treatment. All randomized patients completed the studies, except for 1 patient in the placebo group of study 2 who discontinued for safety reasons (sponsor request) due to initial positive HIV test results and before negative confirmatory test results became available.</p><p>Of the 98 patients screened for study 1, 36 met the inclusion/exclusion criteria and were randomly assigned in a 1:1:1 ratio to receive 100 mg GLPG0634 twice daily, 200 mg GLPG0634 once daily, or placebo. All randomized subjects completed the study. While some differences in various parameters were apparent among the 3 treatment groups at baseline, DAS28&#x02010;CRP scores reflecting overall RA activity status were very similar (see Supplementary Table 1, available on the <italic>Arthritis &#x00026; Rheumatology</italic> web site at <ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1002/art.40186/abstract">http://onlinelibrary.wiley.com/doi/10.1002/art.40186/abstract</ext-link>).</p><p>For study 2, 214 patients were screened, 91 of whom were randomly assigned in a 1:1:1:1:1 allocation ratio to receive treatment during 4 weeks with 30 mg GLPG0634, 75 mg GLPG0634, 150 mg GLPG0634, 300 mg GLPG0634, or placebo. The patients in the placebo group in study 2 were comparatively younger and had shorter disease duration than those in the filgotinib treatment groups; the group receiving 150 mg filgotinib showed more severe disease at baseline, with consistently higher values in DAS28&#x02010;CRP, SJC66, TJC68, HAQ DI score, and CRP level (see Supplementary Table 1, <ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1002/art.40186/abstract">http://onlinelibrary.wiley.com/doi/10.1002/art.40186/abstract</ext-link>). In both studies, all participants were Caucasian and the majority were women.</p></sec><sec id="art40186-sec-0016"><title>Efficacy findings</title><p>In study 1 at the end of 4 weeks of treatment, &#x0003e;83% of the filgotinib&#x02010;treated patients achieved an ACR20 response, which was statistically significantly different compared to placebo. In study 2 at week 4 of treatment, the majority of patients receiving 300 mg filgotinib (65%) achieved an ACR20 response, but the difference from the placebo group was not statistically significant (Table <xref rid="art40186-tbl-0001" ref-type="table-wrap">1</xref>). In all treatment groups for both studies, the ACR20 response rate tended to increase progressively from week 1 to week 4, although in the 300 mg group the peak response was already reached at week 2, and it was maintained at week 4 (Figure <xref rid="art40186-fig-0001" ref-type="fig">1</xref>). Within the filgotinib treatment groups, an increasing ACR20 response rate with increasing dose was observed with the exception of the 150 mg dose.</p><fig fig-type="Figure" xml:lang="en" id="art40186-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Percentage of patients in each treatment group in study 1 (top) and study 2 (bottom) meeting the American College of Rheumatology 20% improvement criteria (achieving an ACR20 response) at each visit. bid&#x02009;=&#x02009;twice daily; qd&#x02009;=&#x02009;once daily.</p></caption><graphic id="nlm-graphic-1" xlink:href="ART-69-1949-g001"/></fig><table-wrap id="art40186-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Efficacy parameters at week 4<xref ref-type="fn" rid="art40186-note-0004">a</xref>
+</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1"/><th style="border-bottom:solid 1px #000000" colspan="3" align="center" valign="bottom" rowspan="1">Study 1</th><th style="border-bottom:solid 1px #000000" colspan="5" align="center" valign="bottom" rowspan="1">Study 2</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Placebo (n&#x02009;=&#x02009;12)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 200 mg once daily (n&#x02009;=&#x02009;12)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 100 mg twice daily (n&#x02009;=&#x02009;12)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Placebo (n&#x02009;=&#x02009;17)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 30 mg once daily (n&#x02009;=&#x02009;17)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 75 mg once daily (n&#x02009;=&#x02009;22)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 150 mg once daily (n&#x02009;=&#x02009;15)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 300 mg once daily (n&#x02009;=&#x02009;20)</th></tr></thead><tbody valign="top"><tr><td colspan="9" align="left" valign="top" rowspan="1">ACR responders, no. (%)<xref ref-type="fn" rid="art40186-note-0005">b</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">ACR20</td><td align="center" valign="top" rowspan="1" colspan="1">4 (33.3)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (75.0)</td><td align="center" valign="top" rowspan="1" colspan="1">11 (91.7)</td><td align="center" valign="top" rowspan="1" colspan="1">7 (41.2)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (35.3)</td><td align="center" valign="top" rowspan="1" colspan="1">12 (54.5)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (40.0)</td><td align="center" valign="top" rowspan="1" colspan="1">13 (65.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x02003;&#x02003;P</italic> vs. placebo</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.0995</td><td align="center" valign="top" rowspan="1" colspan="1">0.0094</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">0.736</td><td align="center" valign="top" rowspan="1" colspan="1">0.456</td><td align="center" valign="top" rowspan="1" colspan="1">0.834</td><td align="center" valign="top" rowspan="1" colspan="1">0.111</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">ACR50</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (33.3)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (11.8)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (27.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">9 (45.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x02003;&#x02003;P</italic> vs. placebo</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003e;0.9999</td><td align="center" valign="top" rowspan="1" colspan="1">0.3168</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">0.386</td><td align="center" valign="top" rowspan="1" colspan="1">0.072</td><td align="center" valign="top" rowspan="1" colspan="1">0.414</td><td align="center" valign="top" rowspan="1" colspan="1">0.010</td></tr><tr><td colspan="9" align="left" valign="top" rowspan="1">Secondary efficacy &#x02003;parameters, mean &#x02003;change from baseline</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum CRP, mg/liter</td><td align="center" valign="top" rowspan="1" colspan="1">21.87</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;35.05</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;13.84</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;5.74</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;13.28</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;15.09</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;20.50</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;20.98</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x02003;&#x02003;P</italic> vs. placebo</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">0.121</td><td align="center" valign="top" rowspan="1" colspan="1">0.006</td><td align="center" valign="top" rowspan="1" colspan="1">0.012</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">DAS28&#x02010;CRP</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.30</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;2.23</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;2.81</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;1.20</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;1.08</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;1.72</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;1.80</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;2.25</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x02003;&#x02003;P</italic> vs. placebo</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">0.893</td><td align="center" valign="top" rowspan="1" colspan="1">0.119</td><td align="center" valign="top" rowspan="1" colspan="1">0.278</td><td align="center" valign="top" rowspan="1" colspan="1">0.005</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">SJC66</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;4.6</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;12.8</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;15.4</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;7.76</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;6.24</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;8.42</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;10.52</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;8.48</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x02003;&#x02003;P</italic> vs. placebo</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.0365</td><td align="center" valign="top" rowspan="1" colspan="1">0.0920</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">0.749</td><td align="center" valign="top" rowspan="1" colspan="1">0.427</td><td align="center" valign="top" rowspan="1" colspan="1">0.558</td><td align="center" valign="top" rowspan="1" colspan="1">0.496</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">TJC68</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;13.7</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;23.1</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;36.3</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;9.71</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;10.18</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;13.72</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;14.85</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;14.68</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x02003;&#x02003;P</italic> vs. placebo</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.2031</td><td align="center" valign="top" rowspan="1" colspan="1">0.0080</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">0.886</td><td align="center" valign="top" rowspan="1" colspan="1">0.161</td><td align="center" valign="top" rowspan="1" colspan="1">0.492</td><td align="center" valign="top" rowspan="1" colspan="1">0.225</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Physician's global &#x02003;assessment of disease &#x02003;activity, 0&#x02013;10&#x02010;cm VAS</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;5.8</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;26.7</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;35.0</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;19.65</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;9.76</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;27.09</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;24.87</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;29.20</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x02003;&#x02003;P</italic> vs. placebo</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.0043</td><td align="center" valign="top" rowspan="1" colspan="1">0.0004</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">0.463</td><td align="center" valign="top" rowspan="1" colspan="1">0.089</td><td align="center" valign="top" rowspan="1" colspan="1">0.431</td><td align="center" valign="top" rowspan="1" colspan="1">0.057</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Patient's global &#x02003;assessment of disease &#x02003;activity, 0&#x02013;10&#x02010;cm VAS</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;13.6</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;23.8</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;25.8</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;17.82</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;11.88</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;21.00</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;12.33</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;25.85</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x02003;&#x02003;P</italic> vs. placebo</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.1176</td><td align="center" valign="top" rowspan="1" colspan="1">0.0918</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">0.563</td><td align="center" valign="top" rowspan="1" colspan="1">0.364</td><td align="center" valign="top" rowspan="1" colspan="1">0.681</td><td align="center" valign="top" rowspan="1" colspan="1">0.122</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Patient's assessment &#x02003;of pain, 0&#x02013;10&#x02010;cm VAS</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;8.8</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;24.3</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;29.8</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;11.65</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;7.41</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;21.27</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;14.07</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;29.85</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x02003;&#x02003;P</italic> vs. placebo</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.0458</td><td align="center" valign="top" rowspan="1" colspan="1">0.0167</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">0.596</td><td align="center" valign="top" rowspan="1" colspan="1">0.089</td><td align="center" valign="top" rowspan="1" colspan="1">0.727</td><td align="center" valign="top" rowspan="1" colspan="1">0.015</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HAQ DI score</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.11</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.57</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.52</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.31</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.15</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.47</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.26</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.68</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x02003;&#x02003;P</italic> vs. placebo</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.0283</td><td align="center" valign="top" rowspan="1" colspan="1">0.0272</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02013;</td><td align="center" valign="top" rowspan="1" colspan="1">0.540</td><td align="center" valign="top" rowspan="1" colspan="1">0.065</td><td align="center" valign="top" rowspan="1" colspan="1">0.596</td><td align="center" valign="top" rowspan="1" colspan="1">0.014</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">EULAR cumulative score, &#x02003;good/moderate, %</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">58.8</td><td align="center" valign="top" rowspan="1" colspan="1">58.8</td><td align="center" valign="top" rowspan="1" colspan="1">68.2</td><td align="center" valign="top" rowspan="1" colspan="1">66.7</td><td align="center" valign="top" rowspan="1" colspan="1">80.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Remission rate, no. (%)<xref ref-type="fn" rid="art40186-note-0006">c</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">2 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (25.0)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (11.8)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (13.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">5 (25.0)</td></tr></tbody></table><table-wrap-foot><fn id="art40186-note-0004"><label>a</label><p>Percentages are calculated based on the number of patients in the intent&#x02010;to&#x02010;treat population in each treatment group. SJC66&#x02009;=&#x02009;swollen joint count in 66 joints; TJC68&#x02009;=&#x02009;tender joint count in 68 joints; VAS&#x02009;=&#x02009;visual analog scale; HAQ DI&#x02009;=&#x02009;Health Assessment Questionnaire disability index; EULAR&#x02009;=&#x02009;European League Against Rheumatism; NA&#x02009;=&#x02009;not available.</p></fn><fn id="art40186-note-0005"><label>b</label><p>The last observation carried forward rule is applied to each component variable used to calculate the number and percentage of patients in each treatment group meeting the American College of Rheumatology 20% or 50% improvement criteria (achieving an ACR20 or ACR50 response).</p></fn><fn id="art40186-note-0006"><label>c</label><p>A Disease Activity Score in 28 joints using the C&#x02010;reactive protein level (DAS28&#x02010;CRP) of &#x0003c;2.6.</p></fn></table-wrap-foot></table-wrap><p>The antiinflammatory effect of filgotinib was confirmed by changes in secondary efficacy parameters by week 4 (Table <xref rid="art40186-tbl-0001" ref-type="table-wrap">1</xref>). In both studies, within 1 week of treatment, mean serum CRP levels progressively and consistently decreased from baseline in all filgotinib dose groups, and these lower CRP levels were sustained throughout the remaining study treatment period. In both studies, dose&#x02010;dependent decreases in DAS28&#x02010;CRP scores were apparent within 1 week and became more pronounced from week 1 to week 4 for the filgotinib&#x02010;treated groups. Within the 4&#x02010;week treatment duration, a proportion of patients (up to 25% in the 300 mg group) achieved remission (DAS28&#x02010;CRP &#x0003c;2.6). In the 150 mg filgotinib group, which had the highest level of disease activity at baseline, relevant improvements in patient's global assessment of disease activity, patient's assessment of pain, and HAQ DI score were not achieved after 4 weeks of treatment, while numerical improvements were found in serum CRP levels, physician's global assessment of disease activity, TJC68, and SJC66.</p></sec><sec id="art40186-sec-0017"><title>Safety findings</title><p>Filgotinib was generally well tolerated. All reported treatment&#x02010;emergent AEs were mild or moderate and transient during therapy. No study participant permanently discontinued treatment due to treatment&#x02010;emergent AEs. One patient in the 300 mg group (study 2) had a 1&#x02010;day treatment interruption because of nausea, and 1 patient receiving placebo in study 1 was reported as having an insect bite (serious AE), resulting in a temporary treatment interruption.</p><p>Of the patients in study 1, 16 (44.4%) had at least 1 treatment&#x02010;emergent AE, while in study 2, 30 patients (33.0%) experienced at least 1 treatment&#x02010;emergent AE (see Supplementary Table 2, <ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1002/art.40186/abstract">http://onlinelibrary.wiley.com/doi/10.1002/art.40186/abstract</ext-link>). Although no notable dose relationship trends were observed in the incidences of treatment&#x02010;emergent AEs, the highest incidence of treatment&#x02010;emergent AEs in study 2 was observed at a dose of 300 mg (45.0%). In study 1, treatment&#x02010;emergent AEs considered by the investigator to be at least possibly related to study drug were reported in 9 patients (25.0%) (Table <xref rid="art40186-tbl-0002" ref-type="table-wrap">2</xref>). All drug&#x02010;related treatment&#x02010;emergent AEs were reported in 1 patient at most, except for nausea (n&#x02009;=&#x02009;4) and asthenia (n&#x02009;=&#x02009;2). In study 2, treatment&#x02010;emergent AEs considered to be at least possibly related to study drug were reported in 11 patients (12.1%) (Table <xref rid="art40186-tbl-0002" ref-type="table-wrap">2</xref>). The only drug&#x02010;related treatment&#x02010;emergent AE reported by &#x0003e;1 patient was nausea (n&#x02009;=&#x02009;2). One case of cystitis, which resolved during the study, was reported in the 300 mg group.</p><table-wrap id="art40186-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Incidence of treatment&#x02010;related treatment&#x02010;emergent AEs by system organ class and preferred term (regardless of intensity)<xref ref-type="fn" rid="art40186-note-0007">a</xref>
+</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1"/><th style="border-bottom:solid 1px #000000" colspan="3" align="center" valign="bottom" rowspan="1">Study 1</th><th style="border-bottom:solid 1px #000000" colspan="5" align="center" valign="bottom" rowspan="1">Study 2</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">System organ class, preferred term</th><th align="center" valign="bottom" rowspan="1" colspan="1">Placebo (n&#x02009;=&#x02009;12)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 200 mg once daily (n&#x02009;=&#x02009;12)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 100 mg twice daily (n&#x02009;=&#x02009;12)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Placebo (n&#x02009;=&#x02009;17)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 30 mg once daily (n&#x02009;=&#x02009;17)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 75 mg once daily (n&#x02009;=&#x02009;22)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 150 mg once daily (n&#x02009;=&#x02009;15)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 300 mg once daily (n&#x02009;=&#x02009;20)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Any AE</td><td align="center" valign="top" rowspan="1" colspan="1">4 (33.3)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (25.0)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (17.6)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (13.6)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (6.7)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (15.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Blood and lymphatic system disorders</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (4.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Thrombocytopenia</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Anemia</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (4.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ear and labyrinth disorders</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Vertigo</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gastrointestinal disorders</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">2 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (9.1)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (6.7)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (10.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Nausea</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">2 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (6.7)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Abdominal pain, upper</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Abdominal discomfort</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Duodenogastric reflux</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (4.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Gastritis</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Gastrointestinal pain</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Gingival bleeding</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (4.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">General disorders and administration site reactions</td><td align="center" valign="top" rowspan="1" colspan="1">2 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Asthenia</td><td align="center" valign="top" rowspan="1" colspan="1">2 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Infections and infestations</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Cystitis</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Laboratory findings</td><td align="center" valign="top" rowspan="1" colspan="1">2 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">2 (11.8)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Lipase increased</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Aspartate aminotransferase increased</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Blood amylase increased</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Blood triglycerides increased</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Musculoskeletal and connective tissue disorders</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Arthralgia</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nervous system disorders</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Headache</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Dysgeusia</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Somnolence</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Renal and urinary disorders</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Cystitis, noninfectious</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (5.0)</td></tr></tbody></table><table-wrap-foot><fn id="art40186-note-0007"><label>a</label><p>Adverse events (AEs) were classified as treatment&#x02010;emergent if they started on or after the date of the first dose of study treatment. AEs with partial or missing start dates were classified as treatment&#x02010;emergent unless the nonmissing components of the start date confirmed otherwise. A patient with &#x0003e;1 treatment&#x02010;emergent AE with the same preferred term was counted once for that term. A patient with &#x0003e;1 treatment&#x02010;emergent AE under a system organ class was counted once for that class. Values are the number (%) of patients.</p></fn></table-wrap-foot></table-wrap><p>Hematologic evaluation during filgotinib treatment showed a mild mean decrease in platelets and in neutrophils but no neutropenia (Table <xref rid="art40186-tbl-0003" ref-type="table-wrap">3</xref>). Lymphocytes and lymphocyte subpopulations were unaffected. Mean hemoglobin levels increased slightly with filgotinib treatment.</p><table-wrap id="art40186-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Selected laboratory safety and hematologic findings during 4 weeks of filgotinib treatment<xref ref-type="fn" rid="art40186-note-0008">a</xref>
+</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Placebo (n&#x02009;=&#x02009;28)<xref ref-type="fn" rid="art40186-note-0009">b</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 30 mg once daily (n&#x02009;=&#x02009;17)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 75 mg once daily (n&#x02009;=&#x02009;21)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 150 mg once daily (n&#x02009;=&#x02009;14)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 200 mg once daily (n&#x02009;=&#x02009;12)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 100 mg twice daily (n&#x02009;=&#x02009;12)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 300 mg once daily (n&#x02009;=&#x02009;20)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Hemoglobin, gm/liter</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">114</td><td align="center" valign="top" rowspan="1" colspan="1">124</td><td align="center" valign="top" rowspan="1" colspan="1">122</td><td align="center" valign="top" rowspan="1" colspan="1">125</td><td align="center" valign="top" rowspan="1" colspan="1">113</td><td align="center" valign="top" rowspan="1" colspan="1">112</td><td align="center" valign="top" rowspan="1" colspan="1">125</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Change, day 28</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.3</td><td align="center" valign="top" rowspan="1" colspan="1">2.0</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;1.0</td><td align="center" valign="top" rowspan="1" colspan="1">7.8</td><td align="center" valign="top" rowspan="1" colspan="1">3.0</td><td align="center" valign="top" rowspan="1" colspan="1">4.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Neutrophils, &#x000d7;10<sup>9</sup>/liter</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">5.42</td><td align="center" valign="top" rowspan="1" colspan="1">4.85</td><td align="center" valign="top" rowspan="1" colspan="1">5.41</td><td align="center" valign="top" rowspan="1" colspan="1">5.59</td><td align="center" valign="top" rowspan="1" colspan="1">5.10</td><td align="center" valign="top" rowspan="1" colspan="1">4.94</td><td align="center" valign="top" rowspan="1" colspan="1">5.00</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Change, day 28</td><td align="center" valign="top" rowspan="1" colspan="1">0.17</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.65</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.74</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;1.37</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;1.21</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;1.45</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;1.13</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Platelets, &#x000d7;10<sup>9</sup>/liter</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">307</td><td align="center" valign="top" rowspan="1" colspan="1">279</td><td align="center" valign="top" rowspan="1" colspan="1">294</td><td align="center" valign="top" rowspan="1" colspan="1">289</td><td align="center" valign="top" rowspan="1" colspan="1">295</td><td align="center" valign="top" rowspan="1" colspan="1">287</td><td align="center" valign="top" rowspan="1" colspan="1">304</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Change, day 28</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;19</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;18</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;35</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;32</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;33</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;35</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;58</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Creatinine, &#x003bc;moles/liter</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">58.1</td><td align="center" valign="top" rowspan="1" colspan="1">65.1</td><td align="center" valign="top" rowspan="1" colspan="1">64.4</td><td align="center" valign="top" rowspan="1" colspan="1">61.3</td><td align="center" valign="top" rowspan="1" colspan="1">68.7</td><td align="center" valign="top" rowspan="1" colspan="1">70.8</td><td align="center" valign="top" rowspan="1" colspan="1">60.1</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Change, day 28</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;2.32</td><td align="center" valign="top" rowspan="1" colspan="1">1.47</td><td align="center" valign="top" rowspan="1" colspan="1">5.18</td><td align="center" valign="top" rowspan="1" colspan="1">4.50</td><td align="center" valign="top" rowspan="1" colspan="1">5.47</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;6.98</td><td align="center" valign="top" rowspan="1" colspan="1">6.90</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LDL cholesterol, mmoles/liter</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">2.70</td><td align="center" valign="top" rowspan="1" colspan="1">3.39</td><td align="center" valign="top" rowspan="1" colspan="1">3.22</td><td align="center" valign="top" rowspan="1" colspan="1">3.01</td><td align="center" valign="top" rowspan="1" colspan="1">3.06</td><td align="center" valign="top" rowspan="1" colspan="1">2.77</td><td align="center" valign="top" rowspan="1" colspan="1">2.82</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Change, day 28</td><td align="center" valign="top" rowspan="1" colspan="1">0.05</td><td align="center" valign="top" rowspan="1" colspan="1">0.25</td><td align="center" valign="top" rowspan="1" colspan="1">0.14</td><td align="center" valign="top" rowspan="1" colspan="1">0.01</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.25</td><td align="center" valign="top" rowspan="1" colspan="1">0.07</td><td align="center" valign="top" rowspan="1" colspan="1">0.37</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HDL cholesterol, mmoles/liter</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">1.41</td><td align="center" valign="top" rowspan="1" colspan="1">1.40</td><td align="center" valign="top" rowspan="1" colspan="1">1.46</td><td align="center" valign="top" rowspan="1" colspan="1">1.46</td><td align="center" valign="top" rowspan="1" colspan="1">1.54</td><td align="center" valign="top" rowspan="1" colspan="1">1.52</td><td align="center" valign="top" rowspan="1" colspan="1">1.36</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Change, day 28</td><td align="center" valign="top" rowspan="1" colspan="1">0.01</td><td align="center" valign="top" rowspan="1" colspan="1">0.03</td><td align="center" valign="top" rowspan="1" colspan="1">0.11</td><td align="center" valign="top" rowspan="1" colspan="1">0.07</td><td align="center" valign="top" rowspan="1" colspan="1">0.16</td><td align="center" valign="top" rowspan="1" colspan="1">0.20</td><td align="center" valign="top" rowspan="1" colspan="1">0.48</td></tr></tbody></table><table-wrap-foot><fn id="art40186-note-0008"><label>a</label><p>Values are the mean. LDL&#x02009;=&#x02009;low&#x02010;density lipoprotein; HDL&#x02009;=&#x02009;high&#x02010;density lipoprotein.</p></fn><fn id="art40186-note-0009"><label>b</label><p>Pooled placebo&#x02010;treated patients from study 1 and study 2.</p></fn></table-wrap-foot></table-wrap><p>No relevant abnormalities in serum biochemistry were reported, and there were no trends indicating a difference between placebo and filgotinib treatment. Importantly, this included a lack of changes on liver function tests (transaminases). Slight variations were observed in total cholesterol and LDL levels (Table <xref rid="art40186-tbl-0003" ref-type="table-wrap">3</xref>). Increases in LDL or total cholesterol observed at week 4 were generally similar for placebo and filgotinib treatment groups. An apparent dose response was observed for increase in HDL levels. HDL tended to increase more in filgotinib&#x02010;treated patients than in placebo&#x02010;treated patients (2% on average at week 4 versus baseline), with an &#x0223c;15% increase at 200 mg and a &#x0003e;30% increase at 300 mg.</p><p>Incidental laboratory abnormalities were reported as treatment&#x02010;emergent AEs without apparent relationship to dose, including a single case of anemia at 75 mg and a single case of increased aspartate aminotransferase at 30 mg; the latter normalized during treatment. Hypercholesterolemia was reported once in the 75 mg group and once in the placebo group.</p><p>No clinically relevant trends or changes were observed over time in vital signs values and EKG parameters. Both angina pectoris and hypertension were reported once. These were reported as not being drug related. No clinically relevant treatment&#x02010;emergent urinalysis abnormalities or clinically significant physical examination findings were observed during the treatment phase.</p></sec><sec id="art40186-sec-0018"><title>PK findings</title><p>Steady&#x02010;state PK of filgotinib and its major metabolite was investigated in a subset of 27 patients included in study 1 or study 2 (Table <xref rid="art40186-tbl-0004" ref-type="table-wrap">4</xref>). Exposure to filgotinib and its major metabolite increased essentially in proportion to the dose within the 30&#x02013;300 mg dose range. Given the low number of patients per treatment group (n&#x02009;=&#x02009;2 to n&#x02009;=&#x02009;6) and the variability observed in filgotinib PK parameters, these results should be interpreted with caution. At steady state, attained within 2 days and 4 days of dosing for filgotinib and its metabolite, respectively, exposure to the major metabolite was 13&#x02010;fold higher than exposure to the parent filgotinib within the 75&#x02013;300 mg dose range.</p><table-wrap id="art40186-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Steady&#x02010;state pharmacokinetic parameters of filgotinib and its major metabolite after once&#x02010;daily and twice&#x02010;daily dosing with filgotinib<xref ref-type="fn" rid="art40186-note-0010">a</xref>
+</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 30 mg once daily (study 2) (n&#x02009;=&#x02009;3)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 75 mg once daily (study 2) (n&#x02009;=&#x02009;2)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 100 mg twice daily (study 1) (n&#x02009;=&#x02009;6)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 150 mg once daily (study 2) (n&#x02009;=&#x02009;5)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 200 mg once daily (study 1) (n&#x02009;=&#x02009;6)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Filgotinib 300 mg once daily (study 2) (n&#x02009;=&#x02009;5)</th></tr></thead><tbody valign="top"><tr><td colspan="7" align="left" valign="top" rowspan="1">Filgotinib parameters</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">C<sub>max</sub>, &#x003bc;g/ml</td><td align="center" valign="top" rowspan="1" colspan="1">0.0716 (112)</td><td align="center" valign="top" rowspan="1" colspan="1">0.492</td><td align="center" valign="top" rowspan="1" colspan="1">0.730 (43.2)</td><td align="center" valign="top" rowspan="1" colspan="1">1.16 (29.8)</td><td align="center" valign="top" rowspan="1" colspan="1">1.43 (54.4)</td><td align="center" valign="top" rowspan="1" colspan="1">1.34 (38.2)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">T<sub>max</sub>, median (range) hours</td><td align="center" valign="top" rowspan="1" colspan="1">1 (0&#x02013;5)</td><td align="center" valign="top" rowspan="1" colspan="1">1.5 (1&#x02013;2)</td><td align="center" valign="top" rowspan="1" colspan="1">2.0 (1&#x02013;3)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1&#x02013;2)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (1&#x02013;3)</td><td align="center" valign="top" rowspan="1" colspan="1">1.5 (1&#x02013;2)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">AUC<sub>tau</sub>, &#x003bc;g.hour/ml</td><td align="center" valign="top" rowspan="1" colspan="1">1.34 (155)</td><td align="center" valign="top" rowspan="1" colspan="1">2.12</td><td align="center" valign="top" rowspan="1" colspan="1">2.47 (23.4)</td><td align="center" valign="top" rowspan="1" colspan="1">6.44 (60.4)<xref ref-type="fn" rid="art40186-note-0012">b</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">5.38 (34.6)</td><td align="center" valign="top" rowspan="1" colspan="1">7.71 (73.8)</td></tr><tr><td colspan="7" align="left" valign="top" rowspan="1">Major metabolite parameters</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">C<sub>max</sub>, &#x003bc;g/ml</td><td align="center" valign="top" rowspan="1" colspan="1">0.582 (48.5)</td><td align="center" valign="top" rowspan="1" colspan="1">1.46</td><td align="center" valign="top" rowspan="1" colspan="1">3.18 (25.0)</td><td align="center" valign="top" rowspan="1" colspan="1">3.79 (26.5)</td><td align="center" valign="top" rowspan="1" colspan="1">3.77 (23.6)</td><td align="center" valign="top" rowspan="1" colspan="1">4.62 (9.98)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">T<sub>max</sub>, median (range) hours</td><td align="center" valign="top" rowspan="1" colspan="1">5 (1&#x02013;8)</td><td align="center" valign="top" rowspan="1" colspan="1">5.5 (3&#x02013;8)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (0&#x02013;5)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (2&#x02013;5)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (1&#x02013;5)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (3&#x02013;8)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">AUC<sub>tau</sub>, &#x003bc;g.hour/ml</td><td align="center" valign="top" rowspan="1" colspan="1">11.2 (52.2)</td><td align="center" valign="top" rowspan="1" colspan="1">26.0</td><td align="center" valign="top" rowspan="1" colspan="1">33.1 (26.3)</td><td align="center" valign="top" rowspan="1" colspan="1">75.9 (31.0)</td><td align="center" valign="top" rowspan="1" colspan="1">71.8 (31.3)</td><td align="center" valign="top" rowspan="1" colspan="1">93.9 (20.4)</td></tr></tbody></table><table-wrap-foot><fn id="art40186-note-0010"><label>a</label><p>Except where indicated otherwise, values are the arithmetic mean (coefficient of variation). C<sub>max</sub>&#x02009;=&#x02009;maximum plasma concentration; T<sub>max</sub>&#x02009;=&#x02009;time to C<sub>max</sub>; AUC<sub>tau</sub>&#x02009;=&#x02009;area under the plasma drug concentration&#x02013;time curve of a dosing interval.</p></fn><fn id="art40186-note-0012"><label>b</label><p>One outlier with higher exposure (AUC<sub>tau</sub>&#x02009;&#x02009;13.3 &#x003bc;g.hour/ml) compared to the other 4 patients (AUC<sub>tau</sub>&#x02009;&#x02009;4.79&#x02013;5.29 &#x003bc;g.hour/ml).</p></fn></table-wrap-foot></table-wrap></sec><sec id="art40186-sec-0019"><title>PD findings</title><p>The concentration of several known markers of RA and of inflammation was measured in plasma from participants in study 2 treated with filgotinib at 75, 150, or 300 mg or treated with placebo. Data presented in Figure <xref rid="art40186-fig-0002" ref-type="fig">2</xref> demonstrate a dose&#x02010;dependent effect of filgotinib on levels of these circulating markers after 4 weeks of treatment.</p><fig fig-type="Figure" xml:lang="en" id="art40186-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Plasma levels of biomarkers for rheumatoid arthritis and inflammation after 4 weeks of filgotinib or placebo treatment, assessed in plasma from patients in study 2. Values are the mean&#x02009;&#x000b1;&#x02009;SEM. &#x02217;&#x02009;=&#x02009;<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05; &#x02217;&#x02217;&#x02009;=&#x02009;<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01; &#x02217;&#x02217;&#x02217;&#x02009;=&#x02009;<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001 versus placebo. VCAM&#x02010;1&#x02009;=&#x02009;vascular cell adhesion molecule 1; ICAM&#x02010;1&#x02009;=&#x02009;intercellular adhesion molecule 1; MMP&#x02010;3&#x02009;=&#x02009;matrix metalloproteinase 3; IL&#x02010;18&#x02009;=&#x02009;interleukin&#x02010;18.</p></caption><graphic id="nlm-graphic-3" xlink:href="ART-69-1949-g002"/></fig></sec></sec><sec id="art40186-sec-0020"><title>DISCUSSION</title><p>Less selective JAK inhibitors like tofacitinib have shown an early onset of action and long&#x02010;term efficacy in RA; however, dose levels were limited by side effects. We have targeted JAK&#x02010;1 with selective inhibition based on the hypothesis that JAK&#x02010;1 is the predominant JAK family member in inflammatory pathways and autoimmune pathology, while a cleaner safety profile may be achieved by avoiding inhibition of other JAK types.</p><p>We have described a 4&#x02010;week proof&#x02010;of&#x02010;concept study testing the hypothesis of the efficacy of selective JAK&#x02010;1 inhibition in the treatment of RA, followed by a study further exploring the preliminary efficacy, safety, PK, and PD of the compound over a 30&#x02013;300 mg dose range. Both phase IIa trials were exploratory, randomized, double&#x02010;blind, placebo&#x02010;controlled studies in patients with active RA with an inadequate response to MTX who continued their stable dose of MTX for the duration of the study. As the same population has been studied in initial explorations of other JAK inhibitors in RA, a global comparison of results after 4 weeks of treatment was possible.</p><p>While we recognized that the small number of patients treated for a short period of time was insufficient to reach maximal efficacy levels or to obtain a full safety picture, we envisioned that the rapid onset of action of JAK inhibitors would enable a rapid evaluation of JAK&#x02010;1 inhibition with a minimal burden to patients. For previously studied JAK inhibitors, achieving maximal ACR20 response rates took 12 weeks, but roughly 70&#x02013;80% of the achievable rates were reached within the first 4 weeks <xref rid="art40186-bib-0019" ref-type="ref">19</xref>, <xref rid="art40186-bib-0020" ref-type="ref">20</xref>. However, a 4&#x02010;week treatment period is deemed insufficient to make an estimate of the ACR50 response rate and, even more so, of the ACR70 response rate, as these were only stable after 6&#x02013;9 months. For short&#x02010;term treatment, inflammation markers such as serum CRP level or continuous patient efficacy scores (e.g., the DAS28&#x02010;CRP) are clearly more helpful than the binary ACR scores.</p><p>In the current studies, filgotinib treatment showed signs of early efficacy, while the duration of treatment and limited group size did not allow clear differentiation among daily oral doses from 75 mg to 300 mg. In all treatment groups, the ACR20 response rate increased and the DAS28&#x02010;CRP decreased progressively from week 1 to week 4 at doses of &#x02265;75 mg, while the 30 mg dose was suboptimal. However, even at this low dose, filgotinib induced a marked and maintained improvement in serum CRP level. The results achieved at 300 mg were similar to those at 200 mg in the initial proof&#x02010;of&#x02010;concept study.</p><p>It was remarkable that in the absence of a maintained effect on CRP level, the clinical response in the placebo group of the dose&#x02010;ranging study exceeded that in the 30 mg filgotinib group. The relatively high response in this placebo group may have been influenced by some imbalance in baseline patient characteristics (i.e., a lower disease activity at baseline). Somewhat unexpected and apparently contradictory results were also observed in the 150 mg group, which had more pronounced disease activity at baseline than did other groups. The results suggest that for this dose group, 4 weeks of treatment was too short to obtain good patient&#x02010;reported outcomes, probably because the measured improvements in physician's global assessment of disease activity, serum CRP level, TJC68, and SJC66 were not large enough to translate into relevant patient&#x02010;reported improvements in pain, global disease activity, and HAQ DI score.</p><p>Filgotinib had a PK half&#x02010;life of &#x0223c;7 hours, and it was metabolized to form a major active metabolite with a half&#x02010;life of &#x0223c;1 day <xref rid="art40186-bib-0013" ref-type="ref">13</xref>. Therefore, the proof&#x02010;of&#x02010;concept study was designed to evaluate both once&#x02010; and twice&#x02010;daily dosing, with an equal daily dose of 200 mg, thus comparing 200 mg once daily and 100 mg twice daily. Both regimens showed encouraging early efficacy rates, with normalization of serum CRP level within 1 week and similar safety; therefore, only once&#x02010;daily regimens were selected for evaluation in the subsequent dose&#x02010;ranging study.</p><p>The PK of filgotinib and its major metabolite was essentially dose proportional over the 30&#x02013;300 mg range, with &#x0223c;13&#x02010;fold higher plasma concentrations of the major metabolite compared to those of its parent filgotinib. These results were highly similar to previous results in healthy volunteers <xref rid="art40186-bib-0013" ref-type="ref">13</xref>, indicating that neither the disease status nor the coadministered drugs, in particular MTX, had a relevant impact on the PK of filgotinib.</p><p>While the treatment duration of 4 weeks limits the safety assessment of filgotinib, several of the safety observations with other JAK inhibitors relate to events occurring early in treatment. Reduced hemoglobin and induction of anemia have been observed within 2 weeks and are thought to be linked to inhibition of JAK&#x02010;2 <xref rid="art40186-bib-0021" ref-type="ref">21</xref>. Similarly, effects on liver transaminases and cholesterol appear early on with other JAK inhibitors.</p><p>A dose&#x02010;dependent increase in HDL was found relative to placebo, without a corresponding increase in LDL or total cholesterol. This was an unexpected finding, as it has been suggested that interference with the IL&#x02010;6 pathway may be associated with generalized changes in blood lipids <xref rid="art40186-bib-0022" ref-type="ref">22</xref>. Increases in LDL and total cholesterol were reported with anti&#x02013;IL&#x02010;6 monoclonal antibodies as well as with JAK inhibitors <xref rid="art40186-bib-0019" ref-type="ref">19</xref>, <xref rid="art40186-bib-0023" ref-type="ref">23</xref>. Since JAK&#x02010;1 is dominant in signaling for IL&#x02010;6 (24), the limited effects on LDL with more clear effects on HDL following filgotinib treatment cannot readily be explained. Larger and longer&#x02010;term studies are needed to determine if these are transient or long&#x02010;term effects of filgotinib on HDL and LDL levels.</p><p>Similarly, the very low incidence of filgotinib&#x02010;related infections is encouraging, but the short treatment duration in a limited number of patients does not allow assessment of a potential benefit of selective JAK&#x02010;1 inhibition as related to immunomodulatory effects. It has been suggested that avoiding inhibition of JAK&#x02010;3 may lead to less immunosuppression through a differential effect of JAK inhibition <xref rid="art40186-bib-0024" ref-type="ref">24</xref>. This hypothesis needs further clinical substantiation in larger, longer clinical studies.</p><p>Hematologic evaluations in filgotinib&#x02010;treated patients showed a limited decrease in neutrophils (an &#x0223c;14&#x02013;24% decrease from baseline for doses of &#x02265;75 mg), consistent with immunomodulatory effects through inhibition of JAK&#x02010;1, but it did not lead to neutropenia. Based on experience with other RA therapies, a decline in the first month with stabilization of neutrophils thereafter is typically observed and has been suggested to be an early sign of efficacy <xref rid="art40186-bib-0025" ref-type="ref">25</xref>. In addition, the decrease observed in some plasma biomarkers such as ICAM&#x02010;1 or VCAM&#x02010;1 (chemoattractant molecules for leukocytes like neutrophils) may further explain this decrease in circulating neutrophils <xref rid="art40186-bib-0025" ref-type="ref">25</xref>. Similarly, the slight decrease in platelets is deemed indicative of the antiinflammatory effects of the compound.</p><p>In contrast to observations with inhibitors of JAK&#x02010;2 that interfere with signaling for EPO and TPO, no anemia or decline in hemoglobin was observed, but instead a modest increase in hemoglobin was induced. The absence of effects on reticulocytes also supports the conclusion that filgotinib does not cause a clinically relevant inhibition of JAK&#x02010;2.</p><p>Genovese et al recently reported results from a phase IIb study with the selective JAK&#x02010;1 inhibitor ABT&#x02010;494 combined with MTX in patients with RA who had had an insufficient response to MTX <xref rid="art40186-bib-0026" ref-type="ref">26</xref>. Within 4 weeks, the middle and higher doses of ABT&#x02010;494 led to a decline in hemoglobin. Natural killer (NK) cells also decreased. Both observations are not consistent with what was observed in filgotinib&#x02010;treated patients, up to the highest doses. The authors suggest that less selectiveness of ABT&#x02010;494 for JAK at higher doses may explain the findings. Reductions in hemoglobin and NK cells have also been reported with tofacitinib, and these are deemed to be associated with inhibition of JAK<sc>&#x02010;</sc>2 and JAK&#x02010;3, respectively. Tofacitinib potently inhibits JAK&#x02010;3 and has a functional selectivity for JAK&#x02010;1 over JAK&#x02010;2; consequently, JAK&#x02010;1, JAK&#x02010;2, and JAK&#x02010;3 are inhibited at high doses <xref rid="art40186-bib-0005" ref-type="ref">5</xref>. Clinical findings with ABT&#x02010;494 suggest a similar dose dependency for signs of JAK&#x02010;2 and JAK&#x02010;3 inhibition and are consistent with patent data for ABT&#x02010;494 showing a similar JAK inhibition profile as tofacitinib, with hematologic findings in ABT&#x02010;494 animal studies resembling those observed in clinical studies.</p><p>Filgotinib was generally well tolerated. No AEs were considered to be related to treatment in the majority of RA patients treated in both phase IIa studies (107 of 127 patients [84.3%]) (98 patients received filgotinib). All events reported as potentially related to study drug were mild or moderate and transient during therapy. The most commonly reported event was nausea (in 9 patients [7%]).</p><p>Several plasma proteins proposed as markers of inflammation or RA were evaluated in study 2. ICAM&#x02010;1 and VCAM&#x02010;1 are involved in adhesion of immune cells facilitating their invasion into inflamed tissue <xref rid="art40186-bib-0027" ref-type="ref">27</xref>. MMP&#x02010;3 is a protease involved in arthritis pathology that has been shown to be increased in the plasma of RA patients <xref rid="art40186-bib-0028" ref-type="ref">28</xref>. Gene expression of the acute&#x02010;phase proteins CRP and haptoglobin, as well as YKL&#x02010;40, which plays a role in inflammation and tissue remodeling <xref rid="art40186-bib-0029" ref-type="ref">29</xref>, is under the control of the JAK/STAT pathway <xref rid="art40186-bib-0030" ref-type="ref">30</xref>, <xref rid="art40186-bib-0031" ref-type="ref">31</xref>. IL&#x02010;18 is well known as a proinflammatory cytokine <xref rid="art40186-bib-0032" ref-type="ref">32</xref>. The observed decrease of the levels of these 7 proteins in the plasma of RA patients after 4 weeks of filgotinib treatment was paralleled by the improvement in their disease status. Several of these proteins have been reported to be affected by treatments used in RA patients <xref rid="art40186-bib-0033" ref-type="ref">33</xref>, <xref rid="art40186-bib-0034" ref-type="ref">34</xref>, <xref rid="art40186-bib-0035" ref-type="ref">35</xref>, <xref rid="art40186-bib-0036" ref-type="ref">36</xref>. Declines in plasma levels of VCAM&#x02010;1, MMP&#x02010;3, and YKL&#x02010;40 are similar to those reported for the JAK inhibitor tofacitinib <xref rid="art40186-bib-0037" ref-type="ref">37</xref> and the anti&#x02013;IL&#x02010;6 monoclonal antibody tocilizumab <xref rid="art40186-bib-0038" ref-type="ref">38</xref>.</p><p>From these two 4&#x02010;week phase IIa studies of filgotinib in RA patients with an insufficient response to MTX, we conclude that selective inhibition of JAK&#x02010;1 demonstrated early efficacy. With a mild increase in hemoglobin and no change in reticulocytes, treatment with filgotinib did not show signs of inhibition of JAK&#x02010;2. Four&#x02010;week treatment had an encouraging safety profile. These promising results warrant further development of filgotinib in larger studies of longer duration.</p></sec><sec id="art40186-sec-0022"><title>AUTHOR CONTRIBUTIONS</title><p>All authors were involved in drafting the article or revising it critically for important intellectual content, and all authors approved the final version to be published. Dr. van 't Klooster had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.</p><sec id="art40186-sec-0023"><title>Study conception and design</title><p>Vanhoutte, Van der Aa, Namour, Galien, Meuleners, van 't Klooster.</p></sec><sec id="art40186-sec-0024"><title>Acquisition of data</title><p>Mazur, Voloshyn, Stanislavchuk.</p></sec><sec id="art40186-sec-0025"><title>Analysis and interpretation of data</title><p>Vanhoutte, Van der Aa, Namour, Galien, Meuleners, van 't Klooster.</p></sec></sec><sec id="art40186-sec-0026"><title>ROLE OF THE STUDY SPONSORS</title><p>These studies were supported by Gal&#x000e1;pagos, which was involved in design of the study, interpretation of the data, and writing of the manuscript. AbbVie provided funding to Gal&#x000e1;pagos for phase II development of filgotinib. SGS, Innophar, and Pharmanet&#x02010;i3 were responsible for operational management of the clinical studies and for data collection and data analysis but were not involved in preparation of the manuscript. The authors had the final decision to submit the manuscript for publication. Publication of this article was not contingent upon approval by Gal&#x000e1;pagos, AbbVie, SGS, Innophar, or Pharmanet&#x02010;i3.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supplementary Table 1: Baseline demographics and clinical characteristics of the subjects.</p><p>Supplementary Table 2: Incidence of treatment&#x02010;emergent adverse events by system organ class and preferred term (regardless of intensity and treatment relatedness).</p></caption><media xlink:href="ART-69-1949-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="art40186-sec-0021"><title>ACKNOWLEDGMENTS</title><p>The authors would like to thank T. Rotaru (RTL SM Ltd), L. Fagard (SGS), M. De Weer (Galapagos NV), O. Boyarskaya (Pharmanet&#x02010;i3), and A. La Noce (Pharmanet&#x02010;i3) for their contribution to the successful conduct of the studies.</p></ack><ref-list content-type="cited-references"><title>REFERENCES</title><ref id="art40186-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="art40186-cit-0001">
+<string-name>
+<surname>Firestein</surname>
+<given-names>GS.</given-names>
+</string-name>
+<article-title>Evolving concepts of rheumatoid arthritis</article-title>. <source>Nature</source>
+<year>2003</year>;<volume>423</volume>:<fpage>356</fpage>&#x02013;<lpage>61</lpage>.
+<pub-id pub-id-type="pmid">12748655</pub-id></mixed-citation></ref><ref id="art40186-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="art40186-cit-0002">
+<string-name>
+<surname>Smolen</surname>
+<given-names>JS</given-names>
+</string-name>, 
+<string-name>
+<surname>Steiner</surname>
+<given-names>G.</given-names>
+</string-name>
+<article-title>Therapeutic strategies for rheumatoid arthritis</article-title>. <source>Nat Rev Drug Discov</source>
+<year>2003</year>;<volume>2</volume>:<fpage>473</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="pmid">12776222</pub-id></mixed-citation></ref><ref id="art40186-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="art40186-cit-0003">
+<string-name>
+<surname>Koenders</surname>
+<given-names>MI</given-names>
+</string-name>, 
+<string-name>
+<surname>van den Berg</surname>
+<given-names>WB.</given-names>
+</string-name>
+<article-title>Novel therapeutic targets in rheumatoid arthritis</article-title>. <source>Trends Pharmacol Sci</source>
+<year>2015</year>;<volume>36</volume>:<fpage>189</fpage>&#x02013;<lpage>95</lpage>.
+<pub-id pub-id-type="pmid">25732812</pub-id></mixed-citation></ref><ref id="art40186-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="art40186-cit-0004">
+<string-name>
+<surname>Kyttaris</surname>
+<given-names>VC.</given-names>
+</string-name>
+<article-title>Kinase inhibitors: a new class of antirheumatic drugs</article-title>. <source>Drug Des Devel Ther</source>
+<year>2012</year>;<volume>6</volume>:<fpage>245</fpage>&#x02013;<lpage>50</lpage>.
+</mixed-citation></ref><ref id="art40186-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="art40186-cit-0005">
+<string-name>
+<surname>O'Shea</surname>
+<given-names>JJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Schwartz</surname>
+<given-names>DM</given-names>
+</string-name>, 
+<string-name>
+<surname>Villarino</surname>
+<given-names>AV</given-names>
+</string-name>, 
+<string-name>
+<surname>Gadina</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>McInnes</surname>
+<given-names>IB</given-names>
+</string-name>, 
+<string-name>
+<surname>Laurence</surname>
+<given-names>A.</given-names>
+</string-name>
+<article-title>The JAK&#x02010;STAT pathway: impact on human disease and therapeutic intervention</article-title>. <source>Ann Rev Med</source>
+<year>2015</year>;<volume>66</volume>:<fpage>311</fpage>&#x02013;<lpage>28</lpage>.
+<pub-id pub-id-type="pmid">25587654</pub-id></mixed-citation></ref><ref id="art40186-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="art40186-cit-0006">
+<string-name>
+<surname>Kaur</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Kalra</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Kaushal</surname>
+<given-names>S.</given-names>
+</string-name>
+<article-title>Systematic review of tofacitinib: a new drug for the management of rheumatoid arthritis</article-title>. <source>Clin Ther</source>
+<year>2014</year>;<volume>36</volume>:<fpage>1074</fpage>&#x02013;<lpage>86</lpage>.
+<pub-id pub-id-type="pmid">25047498</pub-id></mixed-citation></ref><ref id="art40186-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="art40186-cit-0007">
+<string-name>
+<surname>Vyas</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>O'Dell</surname>
+<given-names>KM</given-names>
+</string-name>, 
+<string-name>
+<surname>Bandy</surname>
+<given-names>JL</given-names>
+</string-name>, 
+<string-name>
+<surname>Boyce</surname>
+<given-names>EG.</given-names>
+</string-name>
+<article-title>Tofacitinib: the first janus kinase (JAK) inhibitor for the treatment of rheumatoid arthritis</article-title>. <source>Ann Pharmacother</source>
+<year>2013</year>;<volume>47</volume>:<fpage>1524</fpage>&#x02013;<lpage>31</lpage>.
+<pub-id pub-id-type="pmid">24285764</pub-id></mixed-citation></ref><ref id="art40186-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="art40186-cit-0008">
+<string-name>
+<surname>Norman</surname>
+<given-names>P.</given-names>
+</string-name>
+<article-title>Selective JAK inhibitors in development for rheumatoid arthritis</article-title>. <source>Expert Opin Investig Drugs</source>
+<year>2014</year>;<volume>23</volume>:<fpage>1067</fpage>&#x02013;<lpage>77</lpage>.
+</mixed-citation></ref><ref id="art40186-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="art40186-cit-0009">
+<string-name>
+<surname>Grisouard</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Hao&#x02010;Shen</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Dirnhofer</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Wagner</surname>
+<given-names>KU</given-names>
+</string-name>, 
+<string-name>
+<surname>Skoda</surname>
+<given-names>RC.</given-names>
+</string-name>
+<article-title>Selective deletion of Jak2 in adult mouse hematopoietic cells leads to lethal anemia and thrombocytopenia</article-title>. <source>Haematologica</source>
+<year>2014</year>;<volume>99</volume>:<fpage>e52</fpage>&#x02013;<issue>4</issue>.
+<pub-id pub-id-type="pmid">24510341</pub-id></mixed-citation></ref><ref id="art40186-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="art40186-cit-0010">
+<string-name>
+<surname>Neubauer</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Cumano</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>M&#x000fc;ller</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Wu</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Huffstadt</surname>
+<given-names>U</given-names>
+</string-name>, 
+<string-name>
+<surname>Pfeffer</surname>
+<given-names>K.</given-names>
+</string-name>
+<article-title>JAK2 deficiency defines an essential developmental checkpoint in definitive hematopoiesis</article-title>. <source>Cell</source>
+<year>1998</year>;<volume>93</volume>:<fpage>397</fpage>&#x02013;<lpage>409</lpage>.
+<pub-id pub-id-type="pmid">9590174</pub-id></mixed-citation></ref><ref id="art40186-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="art40186-cit-0011">
+<string-name>
+<surname>Van Rompaey</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Galien</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>van der Aar</surname>
+<given-names>EM</given-names>
+</string-name>, 
+<string-name>
+<surname>Clement&#x02010;Lacroix</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Nelles</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Smets</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Preclinical characterization of GLPG0634, a selective inhibitor of JAK1, for the treatment of inflammatory diseases</article-title>. <source>J Immunol</source>
+<year>2013</year>;<volume>191</volume>:<fpage>3568</fpage>&#x02013;<lpage>77</lpage>.
+<pub-id pub-id-type="pmid">24006460</pub-id></mixed-citation></ref><ref id="art40186-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="art40186-cit-0012">
+<string-name>
+<surname>Namour</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Diderichsen</surname>
+<given-names>PM</given-names>
+</string-name>, 
+<string-name>
+<surname>Cox</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Vayssi&#x000e8;re</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>van der Aa</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Tasset</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Pharmacokinetics and pharmacokinetic/pharmacodynamic modeling of filgotinib (GLPG0634), a selective JAK1 inhibitor, in support of phase IIB dose selection</article-title>. <source>Clin Pharmacokinet</source>
+<year>2015</year>;<volume>54</volume>:<fpage>859</fpage>&#x02013;<lpage>74</lpage>.
+<pub-id pub-id-type="pmid">25681059</pub-id></mixed-citation></ref><ref id="art40186-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="art40186-cit-0013">
+<string-name>
+<surname>Namour</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Galien</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Gheyle</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Vanhoutte</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Vayssiere</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>van der Aa</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Once daily high dose regimens of GLPG0634 in healthy volunteers are safe and provide continuous inhibition of JAK1 but not JAK2 [abstract]</article-title>. <source>Arthritis Rheum</source>
+<year>2012</year>;<volume>64</volume>
+<issue>Suppl</issue>:<fpage>S573</fpage>.
+</mixed-citation></ref><ref id="art40186-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="art40186-cit-0014">
+<string-name>
+<surname>Arnett</surname>
+<given-names>FC</given-names>
+</string-name>, 
+<string-name>
+<surname>Edworthy</surname>
+<given-names>SM</given-names>
+</string-name>, 
+<string-name>
+<surname>Bloch</surname>
+<given-names>DA</given-names>
+</string-name>, 
+<string-name>
+<surname>McShane</surname>
+<given-names>DJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Fries</surname>
+<given-names>JF</given-names>
+</string-name>, 
+<string-name>
+<surname>Cooper</surname>
+<given-names>NS</given-names>
+</string-name>, et al. <article-title>The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis</article-title>. <source>Arthritis Rheum</source>
+<year>1988</year>;<volume>31</volume>:<fpage>315</fpage>&#x02013;<lpage>24</lpage>.
+<pub-id pub-id-type="pmid">3358796</pub-id></mixed-citation></ref><ref id="art40186-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="art40186-cit-0015">
+<string-name>
+<surname>Felson</surname>
+<given-names>DT</given-names>
+</string-name>, 
+<string-name>
+<surname>Anderson</surname>
+<given-names>JJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Boers</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Bombardier</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Furst</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Goldsmith</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>American College of Rheumatology preliminary definition of improvement in rheumatoid arthritis</article-title>. <source>Arthritis Rheum</source>
+<year>1995</year>;<volume>38</volume>:<fpage>727</fpage>&#x02013;<lpage>35</lpage>.
+<pub-id pub-id-type="pmid">7779114</pub-id></mixed-citation></ref><ref id="art40186-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="art40186-cit-0016">
+<string-name>
+<surname>Prevoo</surname>
+<given-names>ML</given-names>
+</string-name>, 
+<string-name>
+<surname>van 't Hof</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name>
+<surname>Kuper</surname>
+<given-names>HH</given-names>
+</string-name>, 
+<string-name>
+<surname>van Leeuwen</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name>
+<surname>van de Putte</surname>
+<given-names>LB</given-names>
+</string-name>, 
+<string-name>
+<surname>van Riel</surname>
+<given-names>PL.</given-names>
+</string-name>
+<article-title>Modified disease activity scores that include twenty&#x02010;eight&#x02013;joint counts: development and validation in a prospective longitudinal study of patients with rheumatoid arthritis</article-title>. <source>Arthritis Rheum</source>
+<year>1995</year>;<volume>38</volume>:<fpage>44</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">7818570</pub-id></mixed-citation></ref><ref id="art40186-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="art40186-cit-0017">
+<string-name>
+<surname>Felson</surname>
+<given-names>DT</given-names>
+</string-name>, 
+<string-name>
+<surname>Anderson</surname>
+<given-names>JJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Boers</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Bombardier</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Chernoff</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Fried</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>The American College of Rheumatology preliminary core set of disease activity measures for rheumatoid arthritis clinical trials</article-title>. <source>Arthritis Rheum</source>
+<year>1993</year>;<volume>36</volume>:<fpage>729</fpage>&#x02013;<lpage>40</lpage>.
+<pub-id pub-id-type="pmid">8507213</pub-id></mixed-citation></ref><ref id="art40186-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="art40186-cit-0018">
+<string-name>
+<surname>Fries</surname>
+<given-names>JF</given-names>
+</string-name>, 
+<string-name>
+<surname>Spitz</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Kraines</surname>
+<given-names>RG</given-names>
+</string-name>, 
+<string-name>
+<surname>Holman</surname>
+<given-names>HR.</given-names>
+</string-name>
+<article-title>Measurement of patient outcome in arthritis</article-title>. <source>Arthritis Rheum</source>
+<year>1980</year>;<volume>23</volume>:<fpage>137</fpage>&#x02013;<lpage>45</lpage>.
+<pub-id pub-id-type="pmid">7362664</pub-id></mixed-citation></ref><ref id="art40186-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="art40186-cit-0019">
+<string-name>
+<surname>Kremer</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>Cohen</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Wilkinson</surname>
+<given-names>BE</given-names>
+</string-name>, 
+<string-name>
+<surname>Connell</surname>
+<given-names>CA</given-names>
+</string-name>, 
+<string-name>
+<surname>French</surname>
+<given-names>JL</given-names>
+</string-name>, 
+<string-name>
+<surname>Gomez&#x02010;Reino</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>A phase IIb dose&#x02010;ranging study of the oral JAK inhibitor tofacitinib (CP&#x02010;690,550) versus placebo in combination with background methotrexate in patients with active rheumatoid arthritis and an inadequate response to methotrexate alone</article-title>. <source>Arthritis Rheum</source>
+<year>2012</year>;<volume>64</volume>:<fpage>970</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="pmid">22006202</pub-id></mixed-citation></ref><ref id="art40186-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="art40186-cit-0020">
+<string-name>
+<surname>Keystone</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Taylor</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Genovese</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Schlichting</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Beattie</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Gaich</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>12&#x02010;week results of a phase 2B dose&#x02010;ranging study of LY3009104 (INCB028050), an oral JAK1/JAK2 inhibitor, in combination with traditional DMARDS in patients with rheumatoid arthritis [abstract]</article-title>. <source>Ann Rheum Dis</source>
+<year>2012</year>;<volume>71</volume>
+<issue>Suppl 3</issue>:<fpage>152</fpage>.
+</mixed-citation></ref><ref id="art40186-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="art40186-cit-0021">
+<string-name>
+<surname>Kremer</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>Bloom</surname>
+<given-names>BJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Breedveld</surname>
+<given-names>FC</given-names>
+</string-name>, 
+<string-name>
+<surname>Coombs</surname>
+<given-names>JH</given-names>
+</string-name>, 
+<string-name>
+<surname>Fletcher</surname>
+<given-names>MP</given-names>
+</string-name>, 
+<string-name>
+<surname>Gruben</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>The safety and efficacy of a JAK inhibitor in patients with active rheumatoid arthritis: results of a double&#x02010;blind, placebo&#x02010;controlled phase IIa trial of three dosage levels of CP&#x02010;690,550 versus placebo [published erratum appears in Arthritis Rheum 2012;64:1487]</article-title>. <source>Arthritis Rheum</source>
+<year>2009</year>;<volume>60</volume>:<fpage>1895</fpage>&#x02013;<lpage>905</lpage>.
+<pub-id pub-id-type="pmid">19565475</pub-id></mixed-citation></ref><ref id="art40186-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="art40186-cit-0022">
+<string-name>
+<surname>Popa</surname>
+<given-names>CD</given-names>
+</string-name>, 
+<string-name>
+<surname>Arts</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Fransen</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>van Riel</surname>
+<given-names>PL.</given-names>
+</string-name>
+<article-title>Atherogenic index and high&#x02010;density lipoprotein cholesterol as cardiovascular risk determinants in rheumatoid arthritis: the impact of therapy with biologicals</article-title>. <source>Mediators Inflamm</source>
+<year>2012</year>;<volume>2012</volume>:<fpage>785946</fpage>.
+<pub-id pub-id-type="pmid">22991486</pub-id></mixed-citation></ref><ref id="art40186-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="art40186-cit-0023">
+<string-name>
+<surname>McInnes</surname>
+<given-names>IB</given-names>
+</string-name>, 
+<string-name>
+<surname>Thompson</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Giles</surname>
+<given-names>JT</given-names>
+</string-name>, 
+<string-name>
+<surname>Bathon</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>Salmon</surname>
+<given-names>JE</given-names>
+</string-name>, 
+<string-name>
+<surname>Beaulieu</surname>
+<given-names>AD</given-names>
+</string-name>, et al. <article-title>Effect of interleukin&#x02010;6 receptor blockade on surrogates of vascular risk in rheumatoid arthritis: MEASURE, a randomised, placebo&#x02010;controlled study</article-title>. <source>Ann Rheum Dis</source>. In Press.
+</mixed-citation></ref><ref id="art40186-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="art40186-cit-0024">
+<string-name>
+<surname>Rodig</surname>
+<given-names>SJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Meraz</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name>
+<surname>White</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>Lampe</surname>
+<given-names>PA</given-names>
+</string-name>, 
+<string-name>
+<surname>Riley</surname>
+<given-names>JK</given-names>
+</string-name>, 
+<string-name>
+<surname>Arthur</surname>
+<given-names>CD</given-names>
+</string-name>, et al. <article-title>Disruption of the Jak1 gene demonstrates obligatory and nonredundant roles of the Jaks in cytokine&#x02010;induced biologic responses</article-title>. <source>Cell</source>
+<year>1998</year>;<volume>93</volume>:<fpage>373</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="pmid">9590172</pub-id></mixed-citation></ref><ref id="art40186-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="art40186-cit-0025">
+<string-name>
+<surname>Schnoor</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Alcaide</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Voisin</surname>
+<given-names>MB</given-names>
+</string-name>, 
+<string-name>
+<surname>van Buul</surname>
+<given-names>JD.</given-names>
+</string-name>
+<article-title>Crossing the vascular wall: common and unique mechanisms exploited by different leukocyte subsets during extravasation</article-title>. <source>Mediators Inflamm</source>
+<year>2015</year>;<volume>2015</volume>:<fpage>946509</fpage>.
+<pub-id pub-id-type="pmid">26568666</pub-id></mixed-citation></ref><ref id="art40186-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="art40186-cit-0026">
+<string-name>
+<surname>Genovese</surname>
+<given-names>MC</given-names>
+</string-name>, 
+<string-name>
+<surname>Smolen</surname>
+<given-names>JS</given-names>
+</string-name>, 
+<string-name>
+<surname>Weinblatt</surname>
+<given-names>ME</given-names>
+</string-name>, 
+<string-name>
+<surname>Burmester</surname>
+<given-names>GR</given-names>
+</string-name>, 
+<string-name>
+<surname>Meerwein</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Camp</surname>
+<given-names>HS</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of ABT&#x02010;494, a selective JAK&#x02010;1 inhibitor, in a phase IIb study in patients with rheumatoid arthritis and an inadequate response to methotrexate</article-title>. <source>Arthritis Rheumatol</source>
+<year>2016</year>;<volume>68</volume>:<fpage>2857</fpage>&#x02013;<lpage>66</lpage>.
+<pub-id pub-id-type="pmid">27390150</pub-id></mixed-citation></ref><ref id="art40186-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="art40186-cit-0027">
+<string-name>
+<surname>Navarro&#x02010;Hern&#x000e1;ndez</surname>
+<given-names>RE</given-names>
+</string-name>, 
+<string-name>
+<surname>Oregon&#x02010;Romero</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>V&#x000e1;zquez&#x02010;Del Mercado</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Rangel&#x02010;Villalobos</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Palafox&#x02010;S&#x000e1;nchez</surname>
+<given-names>CA</given-names>
+</string-name>, 
+<string-name>
+<surname>Mu&#x000f1;oz&#x02010;Valle</surname>
+<given-names>JF.</given-names>
+</string-name>
+<article-title>Expression of ICAM1 and VCAM1 serum levels in rheumatoid arthritis clinical activity: association with genetic polymorphisms</article-title>. <source>Dis Markers</source>
+<year>2009</year>;<volume>26</volume>:<fpage>119</fpage>&#x02013;<lpage>26</lpage>.
+<pub-id pub-id-type="pmid">19597294</pub-id></mixed-citation></ref><ref id="art40186-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="art40186-cit-0028">
+<string-name>
+<surname>Ally</surname>
+<given-names>MM</given-names>
+</string-name>, 
+<string-name>
+<surname>Hodkinson</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Meyer</surname>
+<given-names>PW</given-names>
+</string-name>, 
+<string-name>
+<surname>Musenge</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Tikly</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Anderson</surname>
+<given-names>R.</given-names>
+</string-name>
+<article-title>Serum matrix metalloproteinase&#x02010;3 in comparison with acute phase proteins as a marker of disease activity and radiographic damage in early rheumatoid arthritis</article-title>. <source>Mediators Inflamm</source>
+<year>2013</year>;<volume>2013</volume>:<fpage>183653</fpage>.
+<pub-id pub-id-type="pmid">23690656</pub-id></mixed-citation></ref><ref id="art40186-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="art40186-cit-0029">
+<string-name>
+<surname>V&#x000e4;&#x000e4;n&#x000e4;nen</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Koskinen</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Paukkeri</surname>
+<given-names>EL</given-names>
+</string-name>, 
+<string-name>
+<surname>H&#x000e4;m&#x000e4;l&#x000e4;inen</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Moilanen</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Moilanen</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>YKL&#x02010;40 as a novel factor associated with inflammation and catabolic mechanisms in osteoarthritic joints</article-title>. <source>Mediators Inflamm</source>
+<year>2014</year>;<volume>2014</volume>:<fpage>215140</fpage>.
+<pub-id pub-id-type="pmid">25132728</pub-id></mixed-citation></ref><ref id="art40186-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="art40186-cit-0030">
+<string-name>
+<surname>Kim</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Hawley</surname>
+<given-names>TS</given-names>
+</string-name>, 
+<string-name>
+<surname>Hawley</surname>
+<given-names>RG</given-names>
+</string-name>, 
+<string-name>
+<surname>Baumann</surname>
+<given-names>H.</given-names>
+</string-name>
+<article-title>Protein tyrosine phosphatase 2 (SHP&#x02010;2) moderates signaling by gp130 but is not required for the induction of acute&#x02010;phase plasma protein genes in hepatic cells</article-title>. <source>Mol Cell Biol</source>
+<year>1998</year>;<volume>18</volume>:<fpage>1525</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="pmid">9488469</pub-id></mixed-citation></ref><ref id="art40186-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="art40186-cit-0031">
+<string-name>
+<surname>Singh</surname>
+<given-names>SK</given-names>
+</string-name>, 
+<string-name>
+<surname>Bhardwaj</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Wilczynska</surname>
+<given-names>KM</given-names>
+</string-name>, 
+<string-name>
+<surname>Dumur</surname>
+<given-names>CI</given-names>
+</string-name>, 
+<string-name>
+<surname>Kordula</surname>
+<given-names>T.</given-names>
+</string-name>
+<article-title>A complex of nuclear factor I&#x02010;X3 and STAT3 regulates astrocyte and glioma migration through the secreted glycoprotein YKL&#x02010;40</article-title>. <source>J Biol Chem</source>
+<year>2011</year>;<volume>286</volume>:<fpage>39893</fpage>&#x02013;<lpage>903</lpage>.
+<pub-id pub-id-type="pmid">21953450</pub-id></mixed-citation></ref><ref id="art40186-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="art40186-cit-0032">
+<string-name>
+<surname>Sivalingam</surname>
+<given-names>SP</given-names>
+</string-name>, 
+<string-name>
+<surname>Thumboo</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Vasoo</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Thio</surname>
+<given-names>ST</given-names>
+</string-name>, 
+<string-name>
+<surname>Tse</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Fong</surname>
+<given-names>KY.</given-names>
+</string-name>
+<article-title>In vivo pro&#x02010; and anti&#x02010;inflammatory cytokines in normal and patients with rheumatoid arthritis</article-title>. <source>Ann Acad Med Singapore</source>
+<year>2007</year>;<volume>36</volume>:<fpage>96</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">17364074</pub-id></mixed-citation></ref><ref id="art40186-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="art40186-cit-0033">
+<string-name>
+<surname>Visvanathan</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Rahman</surname>
+<given-names>MU</given-names>
+</string-name>, 
+<string-name>
+<surname>Keystone</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Genovese</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Klareskog</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Hsia</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Association of serum markers with improvement in clinical response measures after treatment with golimumab in patients with active rheumatoid arthritis despite receiving methotrexate: results from the GO&#x02010;FORWARD study</article-title>. <source>Arthritis Res Ther</source>
+<year>2010</year>;<volume>12</volume>:<fpage>R211</fpage>.
+<pub-id pub-id-type="pmid">21083889</pub-id></mixed-citation></ref><ref id="art40186-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="art40186-cit-0034">
+<string-name>
+<surname>Wagner</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Chen</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Fan</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Hsia</surname>
+<given-names>EC</given-names>
+</string-name>, 
+<string-name>
+<surname>Mack</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Emery</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Evaluation of serum biomarkers associated with radiographic progression in methotrexate&#x02010;naive rheumatoid arthritis patients treated with methotrexate or golimumab</article-title>. <source>J Rheumatol</source>
+<year>2013</year>;<volume>40</volume>:<fpage>590</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">23457387</pub-id></mixed-citation></ref><ref id="art40186-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="art40186-cit-0035">
+<string-name>
+<surname>Yanagida</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Kawasaki</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Fujishiro</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Miura</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Ikeda</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Nozawa</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Serum proteome analysis in patients with rheumatoid arthritis receiving therapy with tocilizumab: an anti&#x02010;interleukin&#x02010;6 receptor antibody</article-title>. <source>Biomed Res Int</source>
+<year>2013</year>;<volume>2013</volume>:<fpage>607137</fpage>.
+<pub-id pub-id-type="pmid">24058910</pub-id></mixed-citation></ref><ref id="art40186-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="art40186-cit-0036">
+<string-name>
+<surname>Kirkham</surname>
+<given-names>BW</given-names>
+</string-name>, 
+<string-name>
+<surname>Wasko</surname>
+<given-names>MC</given-names>
+</string-name>, 
+<string-name>
+<surname>Hsia</surname>
+<given-names>EC</given-names>
+</string-name>, 
+<string-name>
+<surname>Fleischmann</surname>
+<given-names>RM</given-names>
+</string-name>, 
+<string-name>
+<surname>Genovese</surname>
+<given-names>MC</given-names>
+</string-name>, 
+<string-name>
+<surname>Matteson</surname>
+<given-names>EL</given-names>
+</string-name>, et al. <article-title>Effects of golimumab, an anti&#x02010;tumour necrosis factor&#x02010;&#x003b1; human monoclonal antibody, on lipids and markers of inflammation</article-title>. <source>Ann Rheum Dis</source>
+<year>2014</year>;<volume>73</volume>:<fpage>161</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">23300117</pub-id></mixed-citation></ref><ref id="art40186-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="art40186-cit-0037">
+<string-name>
+<surname>Yamaoka</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Kubo</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Sonomoto</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Hirata</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Sasso</surname>
+<given-names>EH</given-names>
+</string-name>, et al. <article-title>Effects of tofacitinib treatment on leptin and other components of the multi&#x02010;biomarker disease activity score in patients with rheumatoid arthritis [abstract]</article-title>. <source>Ann Rheum Dis</source>
+<year>2014</year>;<volume>73</volume>
+<issue>Suppl 2</issue>:FRI0333.
+</mixed-citation></ref><ref id="art40186-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="art40186-cit-0038">
+<string-name>
+<surname>Tanaka</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Hanami</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Tasaka</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Fukuyo</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Haney</surname>
+<given-names>DJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Bolce</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>A multi&#x02010;biomarker disease activity (VECTRA DA algorithm) score reflects clinical disease activity and structural changes in rheumatoid arthritis patients treated with tocilizumab [abstract]</article-title>. <source>Arthritis Rheum</source>
+<year>2012</year>;<volume>64</volume>
+<issue>Suppl</issue>:<fpage>S897</fpage>.
+</mixed-citation></ref></ref-list></back></article>

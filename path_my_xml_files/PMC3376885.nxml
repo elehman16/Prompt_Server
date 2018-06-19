@@ -1,0 +1,817 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Cogn Psychol</journal-id><journal-id journal-id-type="iso-abbrev">Adv Cogn Psychol</journal-id><journal-id journal-id-type="publisher-id">acp</journal-id><journal-title-group><journal-title>Advances in Cognitive Psychology</journal-title></journal-title-group><issn pub-type="epub">1895-1171</issn><publisher><publisher-name>University of Finance and Management in Warsaw</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22723817</article-id><article-id pub-id-type="pmc">3376885</article-id><article-id pub-id-type="doi">10.2478/v10053-008-0115-z</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Prediction during statistical learning, and implications for the
+implicit/explicit divide</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Dale</surname><given-names>Rick</given-names></name><xref ref-type="aff" rid="AU1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Duran</surname><given-names>Nicholas D.</given-names></name><xref ref-type="aff" rid="AU2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Morehead</surname><given-names>J. Ryan</given-names></name><xref ref-type="aff" rid="AU2">
+<sup>2</sup>
+</xref></contrib><aff id="AU1"><label>1</label><addr-line>Cognitive and Information Sciences, University of California, Merced,
+USA</addr-line></aff><aff id="AU2"><label>2</label><addr-line>Department of Psychology, University of California, Berkeley,
+USA</addr-line></aff></contrib-group><author-notes><corresp id="Cor1">Corresponding author: Rick Dale, Cognitive and Information
+Sciences, University of California, Merced 95343, E-mail:
+<email>rdale@ucmerced.edu</email> Website: http://cognaction.org</corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>5</month><year>2012</year></pub-date><pub-date pub-type="collection"><year>2012</year></pub-date><volume>8</volume><issue>2</issue><fpage>196</fpage><lpage>209</lpage><history><date date-type="received"><day>25</day><month>8</month><year>2010</year></date><date date-type="accepted"><day>26</day><month>7</month><year>2011</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2012 University of Finance and Management
+in Warsaw</copyright-statement><copyright-year>2012</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution License, which permits unrestricted use, distribution,
+and reproduction in any medium, provided the original work is properly
+cited.</license-p></license></permissions><abstract><p>Accounts of statistical learning, both implicit and explicit, often invoke
+predictive processes as central to learning, yet practically all experiments
+employ non-predictive measures during training. We argue that the common
+theoretical assumption of anticipation and prediction needs clearer, more direct
+evidence for it during learning. We offer a novel experimental context to
+explore prediction, and report results from a simple sequential learning task
+designed to promote predictive behaviors in participants as they responded to a
+short sequence of simple stimulus events. Predictive tendencies in participants
+were measured using their computer mouse, the trajectories of which served as a
+means of tapping into predictive behavior while participants were exposed to
+very short and simple sequences of events. A total of 143 participants were
+randomly assigned to stimulus sequences along a continuum of regularity.
+Analysis of computer-mouse trajectories revealed that (a) participants almost
+always anticipate events in some manner, (b) participants exhibit two stable
+patterns of behavior, either reacting to vs. predicting future events, (c) the
+extent to which participants predict relates to performance on a recall test,
+and (d) explicit reports of perceiving patterns in the brief sequence correlates
+with extent of prediction. We end with a discussion of implicit and explicit
+statistical learning and of the role prediction may play in both kinds of
+learning.</p></abstract><kwd-group><kwd>prediction</kwd><kwd>consciousness</kwd><kwd>dynamics</kwd><kwd>implicit learning</kwd><kwd>statistical learning</kwd><kwd>serial reaction time</kwd><kwd>computer-mouse tracking</kwd></kwd-group></article-meta></front><body><sec id="S1"><title>Introduction</title><p>To what extent is prediction related to sequential learning and memory, and to
+implicit or explicit knowledge of that learning? In this paper, we offer a novel
+methodology that may help answer this question, and present experimental results
+that suggest this methodology holds promise for connecting these phenomena:
+prediction, statistical learning, and explicit awareness. In brief, our experiment
+is a simple manual spatial-position tracking task, in which a participant&#x02019;s
+behavior is tracked with the computer-mouse cursor. We are thus able to detect
+predictive movements readily. We show that predictive behaviors emerge quickly in a
+simple short-sequence design, using 48-element sequences of varying grammatical
+regularity. Prediction, learning, and explicit knowledge all correlate strongly.</p><p>Many researchers in diverse domains of cognitive science have identified prediction
+as central to perception, cognition, and action (<xref ref-type="bibr" rid="R3">Bar,
+2009</xref>; <xref ref-type="bibr" rid="R4">Bieri, 1955</xref>; <xref ref-type="bibr" rid="R7">Bubic, von Cramon, &#x00026; Schubotz, 2010</xref>; <xref ref-type="bibr" rid="R11">Cleeremans &#x00026; McClelland, 1991</xref>; <xref ref-type="bibr" rid="R16">Craik, 1943</xref>; <xref ref-type="bibr" rid="R23">Elman, 1990</xref>; <xref ref-type="bibr" rid="R24">Enns &#x00026; Lleras,
+2008</xref>; <xref ref-type="bibr" rid="R38">Kveraga, Ghuman, &#x00026; Bar,
+2007</xref>; <xref ref-type="bibr" rid="R48">Neisser, 1976</xref>; <xref ref-type="bibr" rid="R54">Ramscar, Yarlett, Dye, Denny, &#x00026; Thorpe,
+2010</xref>; <xref ref-type="bibr" rid="R55">Rao &#x00026; Sejnowski, 2003</xref>;
+<xref ref-type="bibr" rid="R60">Reynolds, Zacks, &#x00026; Braver, 2007</xref>;
+<xref ref-type="bibr" rid="R64">Schubotz, 2007</xref>; <xref ref-type="bibr" rid="R67">Shelhamer &#x00026; Joiner, 2003</xref>; <xref ref-type="bibr" rid="R72">Sutton &#x00026; Barto, 1998</xref>; <xref ref-type="bibr" rid="R79">Wolpert &#x00026;
+Flanagan, 2001</xref>). This has been especially true of theories of statistical
+learning (<xref ref-type="bibr" rid="R11">Cleeremans &#x00026; McClelland, 1991</xref>;
+<xref ref-type="bibr" rid="R28">Hoffmann, Martin, &#x00026; Schilling, 2003</xref>;
+<xref ref-type="bibr" rid="R30">Hunt &#x00026; Aslin, 2001</xref>; <xref ref-type="bibr" rid="R49">Nissen &#x00026; Bullemer, 1987</xref>; <xref ref-type="bibr" rid="R71">Stadler, 1989</xref>). As we argue below, these
+theories are almost always based on indirect evidence for prediction: Virtually all
+statistical learning and serial reaction time (SRT) experiments employ reaction-time
+(RT) methods that do not reveal predictive behaviors <italic>during</italic>
+learning (D. J. <xref ref-type="bibr" rid="R40">Marcus, Karatekin, &#x00026; Markiewicz,
+2006</xref>). Yet such experiments cannot mediate between predictive,
+forward-looking theories of statistical learning processes (<xref ref-type="bibr" rid="R11">Cleeremans &#x00026; McClelland, 1991</xref>; <xref ref-type="bibr" rid="R49">Nissen &#x00026; Bullemer, 1987</xref>), and theories that could be based
+more on associative memory traces that link event to event, and need not invoke
+forward-looking learning processes (e.g., <xref ref-type="bibr" rid="R34">Jones
+&#x00026; Pashler, 2007</xref>). The former family of theories needs a more direct
+technique to tap prediction and to support this common assumption.</p><p>In this paper, we develop a technique for capturing prediction behavior directly, and
+present a simple experimental demonstration of it that speaks to this theoretical
+aforementioned issue. Our results show that even if a brief sequential pattern is
+sufficiently ordered, participants begin to actively predict what stimulus will
+follow from a previous one, revealing prediction as a wholesale, active strategy.
+Participants who do so more also tend to report more explicit awareness of pattern
+in that stimulus sequence. Our data suggest that indeed prediction is central to
+learning and awareness, and may reveal how <italic>different</italic> forms of
+prediction may correlate with implicit or explicit awareness, which themselves are
+dependent upon the relative transparency of the structure being learned. In what
+follows, we first briefly review theoretical issues, and argue that predictive
+versus associative mechanisms can easily be confounded in statistical learning
+experiments. We then present our experimental results, and discuss their theoretical
+implications in the general discussion.</p><sec id="S1a"><title>Predictive versus associative processes for learning</title><p>Distinguishing between predictive and associative learning mechanisms is a
+problem that extends across many domains in cognitive psychology, given that
+&#x0201c;...efficient processing of events in ambiguous contexts does not need to
+result from effective preparation, but retrospective use of information
+regarding events which occurred following those of interest&#x0201d; (<xref ref-type="bibr" rid="R7">Bubic et al., 2010</xref>, p. 2). Some studies have
+sought to tease apart these two potential mechanisms, predictive versus
+retrospective processing, in behavioral experiments. For example, Enns and
+Lleras (<xref ref-type="bibr" rid="R24">2008</xref>) showed that visual search
+from a recent scene in memory can be so fast (&#x0201c;rapid resumption&#x0201d;)
+that only a predictive mechanism could sensibly explain their findings. They
+noted that this is in contrast to fluid access to recent memory, characteristic
+of more retrospective processes. These same issues are faced by RT facilitation
+findings in sequential tasks that reveal statistical learning.</p><p>Consider the findings of Hunt and Aslin (<xref ref-type="bibr" rid="R30">2001</xref>), whose study is similar to the design we employed here. They
+evaluated movement speed to predictable stimuli within a visuospatial layout. In
+their experiment, the stimuli corresponded to seven lights that were arranged
+equidistantly in a semicircle. Participants were instructed to press the lights
+and then return to a fixed position below the lights to trigger the next
+position. They showed learning of <italic>predictable</italic> positions across
+trials of the experiment, finding that RTs were fastest for stimuli in
+predictable positions.</p><p>Though Hunt and Aslin (<xref ref-type="bibr" rid="R30">2001</xref>) were
+primarily interested in the type of cues that underlie learning in this
+serial-reaction design, the cognitive process that was assumed to be operating
+in this context was one of an anticipatory nature: &#x0201c;If it [RT] was
+faster, this implied that the participant was relatively more certain about the
+subsequent element in the sequence of stimuli and was able to anticipate the
+correct transition and produce a faster response&#x0201d; (p. 670). One issue
+with this general assumption is that faster latencies may simply reflect a
+capacity to react more quickly given the strength of local &#x0201c;memory
+traces&#x0201d; induced during learning. As another example, in a recent
+computational model of SRT learning, Jamieson and Mewhort (<xref ref-type="bibr" rid="R32">2009</xref>) require only very local memory cuing, and the model
+by itself is not equipped with a predictive mechanism. It is in fact
+retrospective (in the sense of <xref ref-type="bibr" rid="R7">Bubic et al.,
+2010</xref>) because the generation of any new response is carried out
+through integrating information from the previous stimulus and response, and
+with this simple local process, it can capture a wide range of basic
+statistical-learning results. A forward-looking model would produce expectations
+or anticipations for the next stimulus. This is an important distinction that
+should not be trivialized. The relevance of a current stimulus is evaluated
+<italic>when it is seen</italic> in a retrospective model, rather than
+<italic>before it is seen</italic>, which is how a predictive, anticipatory
+process would function. So a memory-based retrospective process could facilitate
+these responses in some manner, without being explicitly predictive. In short,
+the current stimulus is simply faster to process when it is seen.</p><p>The distinction between predictive and retrospective processes can be
+strengthened by considering two ways in which computational models could capture
+response facilitation. In a sequential statistical learning experiment, where we
+attempt to model the processing of some stimulus S<sub>N</sub> that has followed
+from some previous set of stimuli (S<sub>N-1</sub>, S<sub>N-2</sub>, etc.),
+there are two ways in which speeded processing of S<sub>N</sub> might happen. A
+retrospective model would process this S<sub>N</sub> more quickly if its
+(activated) memory traces for preceding material facilitate that processing. No
+preparation or prediction is required for this to be so: Any of various
+processes required for evaluating the new S<sub>N</sub> could be facilitated by
+having relevant recent representations active before S<sub>N</sub>. A predictive
+model, however, does not wait to be facilitated in this processing. Instead, it
+would in some manner or another have at least part of the requisite processing
+of S<sub>N</sub> already in place even before S<sub>N</sub> appears, because
+seeing S<sub>N-1</sub>, S<sub>N-2</sub>, etc. together encourages the system to
+&#x0201c;look forward&#x0201d; towards upcoming stimulus events. There is a
+computational precedent for this distinction. In the retrospective case,
+McClelland (<xref ref-type="bibr" rid="R43">1979</xref>) introduced a cascade
+algorithm to model facilitated processing time in an associative feedforward
+network. In the predictive case, the well-known simple-recurrent network
+architecture has been used to model SRT and statistical learning data (<xref ref-type="bibr" rid="R11">Cleeremans &#x00026; McClelland, 1991</xref>; <xref ref-type="bibr" rid="R45">Misyak, Christiansen, &#x00026; Tomblin, 2009</xref>).
+Yet neither of these processes, prima facie, is fundamentally or a priori the
+most desirable. We would agree that statistical learning studies offer
+considerable evidence that anticipation is pervasive. Despite this
+pervasiveness, some recent works suggest that this pervasiveness should not be
+taken for granted in any given situation, and that direct evidence for such a
+central mechanism, and its benefits, ought to be obtained (e.g., <xref ref-type="bibr" rid="R34">Jones &#x00026; Pashler, 2007</xref>).</p><p>The vast majority of research on statistical learning has employed indirect
+measures of anticipation. Reber (<xref ref-type="bibr" rid="R56">1967</xref>)
+used grammatical endorsement scores in test phases as evidence of learning.
+Looking time has been used in statistical learning studies with infants and
+young children (see <xref ref-type="bibr" rid="R61">Saffran, 2003</xref>, for a
+review). SRT studies virtually all use basic RT measures in training phases,
+from Nissen and Bullemer (<xref ref-type="bibr" rid="R49">1987</xref>) onward.
+There are a few studies that reveal anticipatory tendencies, such as those that
+show the emergence of predictive errors in SRT studies (e.g., <xref ref-type="bibr" rid="R65">Schvaneveldt &#x00026; Gomez, 1998</xref>), yet these
+predictive errors may still be evidence of some learning having already taken
+place. In other words, prediction may not have been part of the learning
+process, but rather an effect. There is indeed some good evidence that ocular
+and manual movements display predictive behaviors during statistical learning
+and that this prediction relates to explicit knowledge. D. J. Marcus et al.
+(<xref ref-type="bibr" rid="R40">2006</xref>) showed that eye-movement
+anticipations are frequent in an SRT task, and relate to learning and explicit
+knowledge. Duran and Dale (<xref ref-type="bibr" rid="R22">2009</xref>) showed
+some weak evidence for anticipatory manual responses in a statistical learning
+paradigm similar to Saffran, Aslin, and Newport (1996; see also <xref ref-type="bibr" rid="R46">Moisello et al., 2009</xref>). The current
+experiment complements these findings and supplies a potential experimental
+framework for systematic exploration of prediction, and possibly, different
+types of prediction strategies. For example, here we show that manual
+anticipation can take on two different forms: &#x0201c;optimized&#x0201d; reaction
+(where one readies the response but does not try to make it beforehand), and
+explicit &#x0201c;wagers,&#x0201d; which appear to accompany explicit learning, in
+which a participant actually heads for the next expected stimulus prior to its
+appearance. In our experiment, we observe that participants first find an
+optimal cursor location from which to react while waiting for another stimulus
+to appear (without predicting a specific stimulus), though at some point during
+the experiment they become aware of a pattern and begin to explicitly predict or
+&#x0201c;wager&#x0201d; its next occurrence. Once they do predict, it becomes a
+stable strategy that guides learning of a short sequence.</p><p>In summary, most statistical learning experiments, whether explicit or implicit
+in their learning outcomes, are based on indirect information about anticipatory
+processes consistent with both anticipatory and non-anticipatory types of
+models. We would agree with many researchers who have argued that anticipation
+seems to be the most appealing cognitive process for handling events in time (as
+cited above, and as discussed in the implicit learning literature, e.g., in D.
+J. <xref ref-type="bibr" rid="R40">Marcus et al., 2006</xref>; <xref ref-type="bibr" rid="R49">Nissen &#x00026; Bullemer, 1987</xref>; <xref ref-type="bibr" rid="R65">Schvaneveldt &#x00026; Gomez, 1998</xref>; <xref ref-type="bibr" rid="R71">Stadler, 1989</xref>). But obtaining direct
+evidence of this process, and developing an empirical framework to further
+explore prediction in statistical learning, would further help to connect this
+mechanism for learning <italic>during learning</italic>.</p><p>In this paper, we are not arguing that implicit learning is either purely
+associative or predictive, for it may be that they both work together during
+learning (and indeed, predictions may use associative mechanisms at root; e.g.,
+<xref ref-type="bibr" rid="R3">Bar, 2009</xref>). Our point is that theories
+that use concepts of prediction could be further supported by directly revealing
+prediction in behavior. The purpose of this paper is to showcase an experimental
+paradigm that can reveal predictive processes, and to explore the properties of
+this anticipation/prediction as it relates to memory for sequences and explicit
+knowledge of the regularity of these sequences. We indeed find rich patterns of
+prediction, and this prediction relates to learning and explicit awareness of
+that learning.</p></sec></sec><sec id="S2"><title>Experiment</title><p>Here, we use an experimental design that reveals manual prediction, and we
+investigate the properties of this behavior. To provide an unambiguous measure of
+prediction, we turned to the measurement of hand movement during task performance.
+In several recent studies, the semi-continuous movements of the computer-mouse
+cursor were regarded as a direct and (occasionally) uninterrupted translation of
+unfolding cognitive processes (<xref ref-type="bibr" rid="R69">Song &#x00026; Nakayama,
+2009</xref>; <xref ref-type="bibr" rid="R70">Spivey, Grosjean, &#x00026; Knoblich,
+2005</xref>). Motivated by this logic, we tracked participants&#x02019; computer
+mouse as they clicked on a visual cue that moved around a spatial landscape on the
+computer screen. Every time the cue was clicked, it momentarily disappeared before
+reappearing in a new location. During this period of disappearance, the learner had
+an opportunity to predict the most likely region of reappearance of the cue (it is
+like a simplified version of the &#x0201c;Whac-A-Mole&#x0201d; classic arcade game
+that readers may be familiar with). By tracking the coordinates of the
+computer-mouse, results can show when (or if) participants manually gravitate
+towards predictable regions. We used this in a simple sequence-learning task, in the
+spirit of Nissen and Bullemer (<xref ref-type="bibr" rid="R49">1987</xref>) and of
+Hunt and Aslin (<xref ref-type="bibr" rid="R30">2001</xref>). The task requires
+participants to respond to spatial stimuli that occur in sequences that vary in
+their ordering regularities.</p><sec sec-type="methods" id="S2a"><title>Methods</title><sec id="S2a1"><title>Participants</title><p>We recruited 143 participants from Amazon Mechanical Turk (www.mturk.com).
+This system has, in several previous studies, produced extremely reliable
+respondents even in relatively cognitive-intensive tasks such as data coding
+(<xref ref-type="bibr" rid="R37">Kittur, Chi, &#x00026; Suh, 2008</xref>;
+<xref ref-type="bibr" rid="R68">Snow, O&#x02019;Connor, Jurafsky, &#x00026;
+Ng, 2008</xref>; <xref ref-type="bibr" rid="R69a">Sorokin &#x00026; Forsyth,
+2008</xref>). Our participants were compensated with a small monetary
+reward for the task, which required approximately 10-15 min.</p></sec><sec id="S2a2"><title>Stimuli and interface</title><p>The interface was programmed using Adobe Flash, in which the computer-mouse
+cursor could be accessed for its x and y coordinates at a rate of
+approximately 40 Hz. The interface occupied a 500-by-500-pixel region within
+the users&#x02019; Internet browser (see <xref ref-type="fig" rid="F1">Figure
+1</xref>, Panel A).Target stimuli were 35-pixel-diameter black circles
+that appeared individually during training, arrayed in a 2 &#x000d7; 2 grid.
+Participants used only their computer pointer to interact with the
+interface.</p><fig id="F1" position="float"><label>Figure 1.</label><caption><p>Panel A. Stimuli locations on computer screen. Panel B. Example
+region for reactive and predictive movements when mouse position is
+recorded after disappearance of stimulus <italic>t</italic>-1 and at
+the onset of stimulus <italic>t</italic> (750 ms lapsed). Panel C.
+Hypothetical trajectory examples for illustration of
+predictive/reactive categories during the 750-ms inter-stimulus
+interval. (Note that open circles reflect no stimuli on the screen,
+but indicate stimulus <italic>t</italic> and
+<italic>t</italic>-1.)</p></caption><graphic xlink:href="acp-08-196-g001"/></fig><p>We constructed 11 training sequences of 48-circle appearances using the
+constraint that a circle in one position could not appear consecutively. In
+addition, each position (1-4) appeared an equal number of times. Each
+sequence contained an order of circle positions of varying regularity. From
+Jamieson and Mewhort (<xref ref-type="bibr" rid="R32">2009</xref>),
+<italic>regularity</italic> (<italic>G</italic>) was defined as the
+extent to which a 48-position sequence is redundant. <italic>G</italic> lies
+between 0 (no regularity) and 1 (high regularity), and we chose an array of
+values of <italic>G</italic> for our 11 sequences, including three sequences
+with perfect regularity, with the aim of having highly regular sequences in
+which prediction would be observed. <xref ref-type="table" rid="T1">Table
+1.</xref> details this redundancy statistic, the stimulus sequences, and
+the regularity of each. Sequences of growing regularity have emerging
+patterning of the four positions, with fewer and fewer irregular trials
+intervening between these patterns.</p><table-wrap id="T1" position="float"><label>Table 1.</label><caption><title>The Stimulus Sequences by Circle Position</title></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"><italic>n</italic></th><th rowspan="1" colspan="1">Sequence</th><th rowspan="1" colspan="1"><italic>G</italic></th></tr></thead><tbody><tr><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">4-2-3-2-1-2-1-2-4-1-3-2-1-4-1-3-1-3-2-4-1-3-1-3-1-4-2-4-3-4-2-4-1-3-1-4-2-3-2-4-1-4-2-3-4-3-2-3</td><td rowspan="1" colspan="1">.25</td></tr><tr><td rowspan="1" colspan="1">14</td><td rowspan="1" colspan="1">1-2-3-1-3-1-2-1-2-1-3-4-3-4-1-2-4-2-4-2-4-3-1-2-4-3-4-2-4-3-4-3-1-2-3-4-2-1-3-4-2-1-3-1-3-4-2-1</td><td rowspan="1" colspan="1">.40</td></tr><tr><td rowspan="1" colspan="1">16</td><td rowspan="1" colspan="1">2-1-4-3-4-3-2-4-1-2-3-2-1-2-1-4-3-4-3-2-3-2-3-2-1-3-2-1-4-1-4-1-4-3-4-1-2-1-4-1-4-3-2-3-2-3-4-1</td><td rowspan="1" colspan="1">.44</td></tr><tr><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">4-2-3-4-2-1-3-1-3-1-3-1-3-4-2-4-2-4-2-1-3-1-3-1-3-4-2-3-4-2-1-3-1-3-4-1-2-1-2-4-2-4-2-1-3-4-2-4</td><td rowspan="1" colspan="1">.55</td></tr><tr><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">4-3-4-3-4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1-3-2-1-4-3-2-1-3-2-1-2-1-4-3-2-1-2-1-4-3-4-2-1-4</td><td rowspan="1" colspan="1">.68</td></tr><tr><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">3-2-3-2-4-1-3-2-4-1-4-1-3-2-3-2-3-2-4-1-3-2-4-1-3-2-3-2-4-1-3-2-4-1-4-1-3-2-4-1-4-1-4-1-4-1-3-2</td><td rowspan="1" colspan="1">.76</td></tr><tr><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">2-3-1-4-1-4-1-4-2-3-1-4-2-3-1-4-2-3-1-4-2-3-1-4-2-3-2-3-2-3-2-3-1-4-1-4-2-3-1-4-2-3-1-4-2-3-1-4</td><td rowspan="1" colspan="1">.79</td></tr><tr><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">2-3-4-1-2-3-4-1-2-3-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1-4-1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1</td><td rowspan="1" colspan="1">.89</td></tr><tr><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">2-1-3-4-2-1-3-4-2-1-3-4-2-1-3-4-2-1-3-4-2-1-3-4-2-1-3-4-2-1-3-4-2-1-3-4-2-1-3-4-2-1-3-4-2-1-3-4</td><td rowspan="1" colspan="1">1,0</td></tr><tr><td rowspan="1" colspan="1">14</td><td rowspan="1" colspan="1">1-2-4-3-1-2-4-3-1-2-4-3-1-2-4-3-1-2-4-3-1-2-4-3-1-2-4-3-1-2-4-3-1-2-4-3-1-2-4-3-1-2-4-3-1-2-4-3</td><td rowspan="1" colspan="1">1,0</td></tr><tr><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1-4-3-2-1</td><td rowspan="1" colspan="1">1,0</td></tr></tbody></table><table-wrap-foot><p><italic>Note</italic>. Stimulus sequences were numbered as in <xref ref-type="fig" rid="F1">Figure 1</xref>. <italic>n</italic> =
+number of subjects randomly assigned to this training sequence.
+<italic>G</italic> is a grammatical regularity score taken from
+Jamieson and Mewhort&#x02019;s (<xref ref-type="bibr" rid="R32">2009</xref>)
+study of implicit learning. <italic>G</italic> = 1 &#x02013;
+<italic>U</italic>(sequence)/<italic>U</italic>(random) where
+<italic>U</italic>(sequence) is equal to the first-order entropy
+of the sequence. This is simply equal to the entropy of the
+probability distribution of transitions from positions
+<italic>i</italic> to <italic>j</italic>:
+-&#x003a3;<sub>i</sub>&#x003a3;<sub>j</sub>p<sub>ij</sub>log(p<sub>ij</sub>),
+where p<sub>ij</sub> is the probability that position
+<italic>i</italic> will transition to symbol <italic>j</italic>.
+<italic>U</italic>(random) is equal to the first-order entropy
+of a fully random transition matrix R<sub>i,j</sub> (excluding where
+<italic>i</italic> = <italic>j</italic>).</p></table-wrap-foot></table-wrap></sec><sec id="S2a3"><title>Procedure</title><p>Participation consisted of three phases: (a) the training sequence, (b) a
+recall test, and (c) a report of explicit knowledge. Once participants opted
+to perform our task, they were forwarded to the Flash interface in their
+browser. Upon entry, the experimental software randomly assigned
+participants to a training stimulus sequence (each participant just saw one
+sequence). Participants were instructed to click the dots as fast as
+possible, because the interface was administering a RT task. The mouse
+cursor was continually tracked for the 48-position training stimuli. Circles
+appeared only one at a time, with a 750-ms inter-stimulus interval between
+them. This provided ample time for participants to initiate a predictive
+mouse movement. Following these responses, participants were prompted to
+produce a 24-position sequence from memory that matched what they had seen
+during training (akin to the &#x0201c;inclusion&#x0201d; task that likely
+marshals both implicit and explicit knowledge of the sequences; cf. <xref ref-type="bibr" rid="R19">Destrebecqz &#x00026; Cleeremans, 2001</xref>). We
+tracked the circle positions that were clicked during this recall test. The
+four circle positions were all on the screen for this part of the task.
+Finally, participants rated how patterned they felt the 48-element sequence
+was by clicking on a continuous scale between <italic>not patterned to
+completely patterned with somewhat patterned</italic> in between.</p></sec><sec id="S2a4"><title>Measures and analyses</title><p>We continually tracked the computer-mouse x,y-pixel coordinates during
+training. For each position appearance (of 48), we calculated two main
+measures on which our analyses are based: (a) initial distance (in pixels)
+to the next position and (b) initial distance (in pixels) from the previous
+position. For (a), we computed the pixel distance to the next target just
+before it appeared (at the 750-ms mark), which we call <italic>initial
+distance to next</italic>. If participants are making a perfect
+predictive movement, the initial distance will be 0 (i.e., right on top of
+the next circle position). A reactive behavior, by contrast, will have a
+larger initial distance, either near the previous target
+(&#x0201c;waiting&#x0201d;) or near the center (&#x0201c;readying&#x0201d;).
+However, for (b), a movement may be predictive but simply incorrect. We
+therefore also calculated the maximum horizontal/vertical distance from the
+previous target (at the 750-ms mark), which we call <italic>initial distance
+from previous</italic>. If a movement is predictive at all, it will have
+a large distance from previous, regardless of whether it is correct or not
+(see <xref ref-type="fig" rid="F1">Figure 1</xref>, Panel B). As we describe
+further in the analysis below, these two measures provide windows onto
+predictive wagers of participants, and capture when participants are willing
+to invest mouse-cursor movements in a <italic>particular</italic> predicted
+stimulus. Any other trial, when the cursor does not make a large movement
+towards a particular stimulus, we term a <italic>reactive trial</italic>.
+Hypothetical illustrations of these trajectories are provided in <xref ref-type="fig" rid="F1">Figure 1</xref> (Panel C).</p><p>We also calculated the regularity of the test recall sequence, and its
+similarity to the corresponding training sequence that a participant saw.
+This is detailed below.</p></sec></sec><sec id="S2b" sec-type="results"><title>Results</title><sec id="S2b1"><title>Analysis of reaction times</title><p>In an initial analysis, we simply tested whether our data indeed reflected
+traditional reaction-time facilitation across levels of sequence regularity
+(<italic>G</italic> score). In most statistical learning experiments, a
+control round using random sequences is used, to see whether RT or other
+measures are affected by the sudden change in the statistical structure of
+event sequences. Here, sequences of different <italic>G</italic> serve as
+relative, between-subject comparisons. We used a linear mixed-effects model
+with Subject as a random factor (<xref ref-type="bibr" rid="R1">Baayen,
+Davidson, &#x00026; Bates, 2008</xref>), and Sequence Regularity
+<italic>G</italic> (0-1), Trial (1-48), and their interaction, as
+continuous fixed factors. <italic>G</italic> strongly predicted lower RT in
+this model, with each successive .1 increase in regularity leading to, on
+average, approximately 25 ms of facilitation, <italic>F</italic>(1, 139) =
+42.5, <italic>p</italic> &#x0003c; .0001. There was also a significant effect of
+trial, with RT dropping by about 2 ms per trial, <italic>F</italic>(1, 6350)
+= 303.1, <italic>p</italic> &#x0003c; .0001. Importantly, these two factors
+interact, with high <italic>G</italic> sequences dropping
+<italic>more</italic> over trials than low <italic>G</italic> sequences,
+<italic>F</italic>(1, 6350) = 132.8, <italic>p</italic> &#x0003c; .0001. We
+therefore conclude that by a traditional analysis of RTs, we are able to
+show the same kind of results as found in previous work. The question,
+however, is whether these RT facilitation patterns can be accounted for by
+predictive movements. If so, then facilitation will arise from predictive
+mouse-cursor movements that get closer and closer to where the next trial
+stimulus will appear, even before the stimulus appears on the screen. We
+explore this possibility in the next two analyses.</p></sec><sec id="S2b2"><title>Correct predictive movements</title><p>The overall extent to which participants moved the mouse cursor towards the
+next target prior to the target&#x02019;s appearance was strongly related to
+the regularity of the grammar. This is shown in Panel A of <xref ref-type="fig" rid="F2">Figure 2</xref>. Using the same model as
+described above, <italic>G</italic> highly significantly predicted initial
+distance to next. Each .1 increase in <italic>G</italic> on average led to
+about a 25-pixel closer initial position to the next target,
+<italic>F</italic>(1, 139) = 125.7, <italic>p</italic> &#x0003c; .0001. In
+general, each subsequent trial reduced initial position by about 1 pixel,
+<italic>F</italic>(1, 6351) = 174.2, <italic>p</italic> &#x0003c; .0001, but
+this depended upon <italic>G</italic>, indicated by a significant
+interaction term, <italic>F</italic>(1, 6351) = 161.2, <italic>p</italic>
+&#x0003c; .0001. In other words, high-<italic>G</italic> values (i.e., greater
+regularity) had a larger drop in initial position across trials compared to
+sequences with low-<italic>G</italic> values.</p><fig id="F2" position="float"><label>Figure 2.</label><caption><p>Panel A. Distance (in pixels and as a function of sequence
+regularity, <italic>G</italic>) to next stimuli after 750-ms lapse
+between disappearance of previous stimuli and onset of next stimuli.
+Panel B. Distance from previous stimuli after 750-ms lapse.</p></caption><graphic xlink:href="acp-08-196-g002"/></fig></sec><sec id="S2b3"><title>Predictive movements</title><p>We examined whether participants moved away from the previous target position
+using initial distance from previous. As described in the Measures and
+Analyses section above, if participants do not move at all, or only move
+towards the center, then this would be a &#x0201c;reactive&#x0201d; trial,
+because participants are only preparing for the next target to appear.
+However, if participants move away by a certain pixel distance, then they
+are likely moving the mouse cursor towards another target (either correctly
+or incorrectly). Such a trial would be a predictive one. <xref ref-type="fig" rid="F2">Figure 2</xref> (Panel B) shows the increase in
+initial distance from previous across sequence regularities. In short,
+participants become more predictive in the high-G sequences than
+low-<italic>G</italic>sequences. All the same effects hold in the same
+mixed-effects model (<italic>ps</italic> &#x0003c; .0001; we excluded the first
+trial from these analyses, as there is no previous trial to obtain such a
+measure). As suggested by the previous analysis, and in general, the extent
+to which predictive behaviors occurred over trials depended upon the
+predictability of the sequence itself.</p></sec><sec id="S2b4"><title>Reactive-predictive strategies</title><p>Simply averaging over participants (as in <xref ref-type="fig" rid="F2">Figure 2</xref>) does not reveal a stark bimodality in predictive
+tendencies that we observed in our participants. To showcase this
+bimodality, we used the previous dependent measure (distance away from
+previous trial) and conducted distribution analyses. In the 48-position
+trials, any individual trial was deemed &#x0201c;predictive&#x0201d; when the
+initial distance from previous was 275 pixels or greater (indicating
+substantial movement away, likely to another target; see Panel B of <xref ref-type="fig" rid="F1">Figure 1</xref>). We calculated the proportion
+of trials that were predictive in six-trial blocks (giving eight blocks).
+For any given block for each subject, a proportion score is obtained, lying
+between 0 and 1, representing the extent to which that block was predictive.
+A score of 1 on this proportion would indicate that all trials of these 6
+were predictive. A score of 0 would indicate only reaction: Participants
+stayed closer to their initial position prior to the next trial. For each
+block, 1 to 8, a distribution of 143 scores is obtained (see <xref ref-type="fig" rid="F3">Figure 3</xref>).</p><fig id="F3" position="float"><label>Figure 3.</label><caption><p>The percentage of participants (from all 11 <italic>G</italic>-score
+sequences) that exhibit reactive (proportion prediction = 0) or
+predictive (proportion prediction = 1) response modes across
+48-position sequences divided into eight blocks. (Note that Block 1
+shows 6 bins because Block 7 contained no participants. This 0 was
+included in the analysis, however.)</p></caption><graphic xlink:href="acp-08-196-g003"/></fig><p>Each of these distributions is different from an assumed histogram of a
+uniform distribution of prediction proportions, &#x003c7;(6)s &#x0003e; 30,
+<italic>ps</italic> &#x0003c; .0001. In the first block, participants are
+primarily reactive. Gradually, participants exhibit a sharp bimodal
+distribution in the final block. In inspecting the same histograms but for
+individual sequences, the distribution is as one would predict from the
+aforementioned analyses: High-<italic>G</italic>sequences have participants
+that transition to fully predictive trials; low-<italic>G</italic>sequences
+have participants that mostly remain reactive; bimodality holds
+approximately in the intermediate sequences.</p></sec><sec id="S2b5"><title>Prediction occurs before correct prediction</title><p>We compared initial distance to next (correct prediction) and initial
+distance from previous (overall predictive movements) across blocks. If
+prediction occurs before knowledge, then overall prediction should be
+significantly higher at a crucial period as prediction emerges. <xref ref-type="fig" rid="F4">Figure 4</xref> shows the first four blocks of
+the three perfectly regular sequences, for which prediction was stable and
+frequent in participants. At Block 2, trials tended to be more predictive
+overall rather than simply correctly predictive. We generated a score from 0
+to 6 for each block for each subject, computed by subtracting the number of
+correct predictions (using a conservative 100-pixel threshold) from the
+number of overall predictions by initial distance from previous (using the
+same 275-pixel threshold). In Blocks 1, 3, and 4 this score did not differ
+significantly from 0, as expected from <xref ref-type="fig" rid="F4">Figure
+4</xref>, <italic>ts</italic> &#x0003c; 1.9, <italic>ps</italic> = .10, .09,
+and .07, respectively. However, in Block 2, this score is substantially
+positive across these participants, <italic>t</italic>(39) = 5.1,
+<italic>p</italic> &#x0003c; .0001. This indicates that at about Block 2,
+there is more prediction in general than just correct prediction. In short,
+prediction generally appears to occur prior to total correct knowledge about
+the sequences.</p><fig id="F4" position="float"><label>Figure 4.</label><caption><p>The distribution of trials in correct predictions (black line) and
+any predictive movement at all (dotted line). As seen in Block 2,
+overall prediction represents a larger proportion of the trials
+(approximately 70%) than correct prediction by itself (50%). In
+other blocks, prediction and correct prediction overlap closely.</p></caption><graphic xlink:href="acp-08-196-g004"/></fig></sec><sec id="S2b6"><title>Do the participants recall correctly?</title><p>We calculated the grammatical regularity of the participants&#x02019; testing
+output of 24 clicks using the same statistic as in Jamieson and Mewhort
+(<xref ref-type="bibr" rid="R32">2009</xref>). In the expected
+direction, there is a strong relationship between the
+<italic>G</italic>-score regularity of the training sequence and the testing
+recall, <italic>r</italic> = .42, <italic>p</italic> &#x0003c; .0001. We also
+found that the testing sequences more closely matched the original training
+sequences in the same direction, <italic>r</italic> = .48,
+<italic>p</italic> &#x0003c; .0001. This matching score was generated using a
+sequence-alignment method known as <italic>cross-recurrence</italic> (see
+<xref ref-type="bibr" rid="R18">Dale &#x00026; Spivey, 2005</xref>), where a
+percentage score reflects the overall match between the original and testing
+sequences by calculating the percentage of position sequences that are the
+same (similar to Levenshtein distance). In addition, we tested the
+relationship between how predictive a participant is in the final two blocks
+of the experiment (12 trials, using distance from previous with 275-pixel
+threshold), and the matching score, controlling for the training sequence
+<italic>G</italic>-scores (included as a covariate in a linear
+multiple-regression model). In the total model, training sequence
+<italic>G</italic>-score is a significant predictor (<italic>p</italic>
+&#x0003c; .01), but amount of prediction also strongly relates to the matching
+score (<italic>p</italic> &#x0003c; .005; multiple-<italic>R</italic><sup>2</sup>
+= .29, <italic>p</italic> &#x0003c; .0001). The relationship between matching
+score, and <italic>G</italic>, and predictiveness, is shown in <xref ref-type="fig" rid="F5">Figure 5</xref>.</p><fig id="F5" position="float"><label>Figure 5.</label><caption><p>Panel A. Test sequence match score (%) as a function of
+<italic>G</italic>, with means grouped by stimulus condition.
+Panel B. Using the same stimulus list means, the match score as a
+function of predictiveness.</p></caption><graphic xlink:href="acp-08-196-g005"/></fig><p>The same finding held for the relationship between prediction and test recall
+<italic>G</italic>-score (for prediction: <italic>p</italic> &#x0003c; .0001,
+multiple-<italic>R</italic><sup>2</sup> = .41, <italic>p</italic> &#x0003c;
+.0001). Interestingly, when factoring in how predictive participants are,
+training sequence <italic>G</italic>-score was no longer a significant
+predictor of the 24-item test recall <italic>G</italic>-score
+(<italic>p</italic> = .9). This suggests that the regularity of a
+participant&#x02019;s memories for the sequences is somehow dependent upon
+their tendencies to actively predict the positions. Therefore, when
+controlling for the training sequence&#x02019;s <italic>G</italic>-score, the
+tendency of participants to be predictive relates significantly to their
+performance on the test in both the free-response regularity and match to
+the training.</p></sec><sec id="S2b7"><title>Explicit awareness correlates with all measures</title><p>Participants who deemed the sequences to be more patterned tended to be the
+ones who had training sequences of higher <italic>G</italic>,
+<italic>r</italic> = .41, p &#x0003c; .0001. Higher explicit awareness of
+pattern related to greater test match to the training sequences,
+<italic>r</italic> = .47, <italic>p</italic> &#x0003c; .0001, and greater
+predictive behavior in the final 12 trials, <italic>r</italic> = .51,
+<italic>p</italic> &#x0003c; .0001. We ran a separate regression analysis to
+test for the relationship between prediction and explicit awareness while
+controlling for other variables, because prediction on the last 12 trials
+related significantly to these as well. First, we used the
+<italic>G</italic> score of a training sequence to predict perception of
+explicit awareness, and saved the residuals. When the
+<italic>G</italic>score was factored out of explicit awareness in this way,
+predictive tendencies still significantly accounted for what was left over
+in those residuals, <italic>r</italic> = .27, <italic>p</italic> = .005. The
+reverse is not true: Once prediction behavior is taken out of explicit
+awareness, <italic>G</italic> score is no longer significantly related to
+these residuals, <italic>r</italic> = .08, <italic>p</italic> = .4,
+suggesting that prediction mediates between a sequence&#x02019;s regularity
+and explicit awareness. We chose to use participants&#x02019; test sequence
+generation&#x02019;s match to training as an additional measure of explicit
+awareness, and both prediction and test recall correlated with explicit
+awareness, even when controlling for each other, <italic>r</italic>s &#x0003e;
+.25, <italic>p</italic>s &#x0003c; .005. The relationship between awareness
+score, and <italic>G</italic>, and predictiveness, is shown in <xref ref-type="fig" rid="F6">Figure 6</xref>.</p><fig id="F6" position="float"><label>Figure 6.</label><caption><p>Panel A. Pattern awareness, a continuous-scale score from 100 to 400
+(based on a clicked icon on the computer screen) as a function of
+<italic>G</italic>, means grouped by stimulus list. Panel B.
+Pattern awareness score as a function of overall predictiveness
+proportion, means grouped by stimulus list condition.</p></caption><graphic xlink:href="acp-08-196-g006"/></fig></sec><sec id="S2b8"><title>Is there really implicit learning at all?</title><p>It is important to reiterate that the current experiment is a very short one,
+using brief exposure on a simple sequence of four positions. Nevertheless,
+we sought to test whether there was any sign of implicit learning. As noted
+above, most statistical learning experiments use a control round with random
+(or different) sequences to see whether RT or other measures are increased
+by the change in the structure of sequences. Again, sequences of different G
+serve as relative, between-subject comparisons. If there is any implicit
+learning then participants who have low pattern awareness should
+nevertheless show improvement in RT across trials, moderated by the relative
+level of regularity in the sequence, as captured by <italic>G</italic>. We
+chose a subset of our participants who reported lower awareness of pattern
+(below but not equal to &#x0201c;somewhat patterned,&#x0201d;
+<italic>n</italic> = 25), and ran a linear mixed-effects regression with
+Subject as a random factor, and <italic>G</italic>, and Trial (1-48) as
+fixed factors, and included an interaction term. <italic>G</italic>was not
+alone significant, <italic>F</italic>(1, 29) = 2.1, <italic>p</italic> =
+.16, though trial was, <italic>F</italic>(1, 1404) = 19.9,
+<italic>p</italic> &#x0003c; .001. <italic>G</italic>and Trial interacted
+significantly, <italic>F</italic>(1, 1404) = 6.5, <italic>p</italic> = .01.
+The pattern of this interaction was as expected: The higher
+<italic>G</italic>sequences induced more learning across trials relative
+to lower <italic>G</italic>sequences. These participants reported low
+awareness of sequence pattern, and nevertheless showed modulated RTs
+relative to the regularity of the structure they received. This is at least
+suggestive of implicit learning in this brief exposure. As expected from
+previous analyses above, these participants also have significantly less
+predictive behavior in the final 12 trials than the remainder
+(<italic>n</italic> = 99) of the participants, <italic>p</italic> &#x0003c;
+.05.</p></sec></sec><sec id="S2c"><title>Discussion</title><p>These extensive analyses of our data offer some basic ideas about prediction and
+statistical learning, and their relationship to the implicit/explicit divide.
+First, prediction in the form of a &#x0201c;behavioral wager&#x0201d; tends to
+rapidly emerge as participants detect structure in the sequence. It is a stable
+strategy that does not seem to happen as a <italic>result of learning</italic>,
+but instead seems to <italic>occur in conjunction with</italic> early moments of
+learning. The results showing that incorrect prediction occurs as participants
+are transitioning into this predictive &#x0201c;mode&#x0201d; supports this. Below
+we further consider a &#x0201c;two system&#x0201d; hypothesis related to this:
+When an implicit learning process extracts sufficient structure, the cognitive
+system can &#x0201c;seek out&#x0201d; a forthcoming stimulus, thus producing an
+error signal, and kick starting explicit awareness and learning.</p><p>Second, explicit awareness measures (recall memory and awareness report) both
+correlate strongly with predictive behavior, even when controlling for sequence
+regularity. Thus, explicit knowledge appears to co-occur with
+&#x0201c;wagers&#x0201d; that participants are willing to invest in when they
+become aware of some structure. It may be that a particular kind of prediction
+(for a particular stimulus) is related to processes that unfold under conditions
+of conscious awareness.</p><p>As a final note, we observed that participants who did not wager often adopted
+the &#x0201c;centering&#x0201d; strategy that Duran and Dale (<xref ref-type="bibr" rid="R22">2009</xref>) found in their spatial statistical
+learning experiment. Participants anticipated the next stimulus, which occurred
+at one of three other locations, by positioning the mouse cursor at an optimal
+location, equidistant from the next stimulus (i.e., in the center). As we
+discuss further below, this may not be best described as
+<italic>reactive</italic>, as we have categorized it in our analysis, but
+rather an optimal anticipatory positioning close to possible future stimuli.
+Even participants with low pattern awareness engaged in this form of
+behavior.</p></sec></sec><sec id="S3"><title>General Discussion</title><p>Admittedly, we designed a very simple task, and used it to explore
+<italic>initial</italic> response tendencies. Results thus reflect the
+processing of short-term event sequences that may be routinely faced by cognitive
+systems during daily activities (e.g., observing or producing brief structured
+action sequences; <xref ref-type="bibr" rid="R5">Botvinick &#x00026; Plaut,
+2004</xref>). Our experiment simplified this ecological context, and exposed
+participants to a single stream of visuospatial information. Certainly, the
+experiment is not of the same scope of traditional statistical learning and of SRT
+tasks, which use more complex sequences over many blocks of training. In that
+respect, what we are revealing is the very beginning of the learning system&#x02019;s
+behavior, using computer-mouse trajectories to unveil the
+&#x0201c;microstructure&#x0201d; of this initial processing.</p><p>Results do suggest that the cognitive system, at least with respect to the manual
+motor system, is not constantly predicting the next particular stimulus event,
+especially in random environments. Instead, it adapts a readiness to respond, which
+may transition sharply into prediction once some regularity appears to be present.
+From here, prediction permits the generation of error (<xref ref-type="bibr" rid="R59">Rescorla &#x00026; Wagner, 1972</xref>; <xref ref-type="bibr" rid="R72">Sutton &#x00026; Barto, 1998</xref>), whereas simple reaction does not. From basic
+learning theory (<xref ref-type="bibr" rid="R44">Miller, Barnet, &#x00026; Grahame,
+1995</xref>), to more complex computational approaches of the past couple of
+decades (e.g., <xref ref-type="bibr" rid="R23">Elman, 1990</xref>), prediction is a
+wager the outcome of which leads to adjusted future expectations. It may be from
+such contingencies that deeply entrenched learning ensues.</p><p>Though our experimental findings appear robust, there are clear limitations to the
+current approach, which we hope to overcome in future investigations. Our simple
+design was deliberately short, seeking to observe and relate prediction in stimuli
+that are only brief. The optimal simultaneous &#x0201c;mixed strategy&#x0201d; (for
+middle <italic>G</italic>-scores), in which participants might both wager/center in
+predictable/unpredictable positions, is not observed but may emerge after extended
+training. Another issue, mentioned above in our experimental discussion, is that our
+participants often engaged in a consistent &#x0201c;centering&#x0201d; strategy. This
+is not mere reaction, as one would call the &#x0201c;wait and respond&#x0201d;
+strategy; yet it is not overt prediction either because participants are placing the
+cursor in an optimal position to react. Future work may seek to identify perhaps
+diverse response strategies that have various aspects of optimality depending on the
+task structure and instructions at hand, and could identify individual differences
+in this capacity to predict, either as an explicit or implicit strategy, which may
+relate to tendencies in other tasks (e.g., <xref ref-type="bibr" rid="R53">Proulx
+&#x00026; Heine, 2009</xref>). In addition, our aggregate measures of memory may
+have underestimated the amount of explicit learning achieved during the task. It may
+be that explicit knowledge reported during the test is simply organized around
+particular sub-sequences (e.g., &#x0201c;4321&#x0201d;). Given the small number of
+participants per sequence, a statistical test of this hypothesis cannot be conducted
+here. Indeed, future work may demonstrate that computer-mouse movements form
+organized hierarchical units of predictive patterns, as suggested in work that
+models the organization of action sequences (e.g., <xref ref-type="bibr" rid="R5">Botvinick &#x00026; Plaut, 2004</xref>). This would also bear on models that
+hypothesize different unitization of emerging statistical knowledge (e.g., <xref ref-type="bibr" rid="R52">Perruchet &#x00026; Vinter, 1998</xref>).</p><p>We also focused on manual prediction tendencies, and did not look at oculomotor
+prediction. Previous work has shown the eyes to be widely predictive and the extent
+of this predictiveness to be related to explicit learning (D. J. <xref ref-type="bibr" rid="R40">Marcus et al., 2006</xref>), suggesting
+reactive-predictive strategies in oculomotor control could function distinctively
+(see also <xref ref-type="bibr" rid="R39">Land &#x00026; Furneaux, 1997</xref>; <xref ref-type="bibr" rid="R67">Shelhamer &#x00026; Joiner, 2003</xref>). Despite this
+potentially distinctive functioning, it is highly likely the unfolding of oculomotor
+and manual dynamics are coupled in natural contexts (<xref ref-type="bibr" rid="R2">Ballard, Hayhoe, &#x00026; Pelz, 1995</xref>), and the relationship between their
+predictiveness could be explored with simple experiments like the one presented
+here. Indeed, the presence (or absence) of action contingencies is something that
+researchers in implicit statistical learning have debated (e.g., <xref ref-type="bibr" rid="R27">Heyes &#x00026; Foster, 2002</xref>; <xref ref-type="bibr" rid="R42">Mayr, 1996</xref>; <xref ref-type="bibr" rid="R76">Willingham,
+1999</xref>). The role of predictive processes is considered by many as central
+to this coupling between perception, action, and the environment. We feel our
+experiment could fruitfully connect prediction, statistical learning, and awareness
+of that learning in a single paradigm, and our results are suggestive of rich
+underlying relationships. We discuss this next.</p><sec id="S3a"><title>Implicit/explicit divide: Two systems?</title><p>We should preface our discussion here with an important note: Our results are
+correlational in nature. Prediction and awareness of a pattern are correlated in
+our task, as observed in past research (D. J. <xref ref-type="bibr" rid="R40">Marcus et al., 2006</xref>; <xref ref-type="bibr" rid="R78">Willingham,
+Nissen, &#x00026; Bullemer, 1989</xref>). Yet, this awareness does not
+necessarily mean that a complete, explicit knowledge of the exact sequencing has
+been formed. Controlling for explicit knowledge by factoring out test sequence
+match, we still find that prediction occurs, suggesting that predictive behavior
+mediates the transition between a vague awareness of a pattern and the
+full-blown knowledge of that pattern (to which D. J. <xref ref-type="bibr" rid="R40">Marcus et al., 2006</xref>, also attest). Thus, explicit wagers of
+the kind we observe emerged rapidly in high <italic>G</italic>sequences,
+showcasing errors of prediction earlier in learning, and then settling into a
+stable strategy.</p><p>One subtle aspect of the debate in statistical learning in the past decade has
+been the extent to which it is taken to be anticipatory in nature (D. J. <xref ref-type="bibr" rid="R40">Marcus et al., 2006</xref>; <xref ref-type="bibr" rid="R49">Nissen &#x00026; Bullemer, 1987</xref>; <xref ref-type="bibr" rid="R65">Schvaneveldt &#x00026; Gomez, 1998</xref>; <xref ref-type="bibr" rid="R71">Stadler, 1989</xref>), or may be based on associative processes
+that need not always involve forward-looking mechanisms (<xref ref-type="bibr" rid="R27">Heyes &#x00026; Foster, 2002</xref>; <xref ref-type="bibr" rid="R34">Jones &#x00026; Pashler, 2007</xref>; <xref ref-type="bibr" rid="R42">Mayr,
+1996</xref>). In fact, models used to capture this behavior have both
+properties as well, from local associative traces to more predictive processes
+(see <xref ref-type="bibr" rid="R9">Cleeremans &#x00026; Dienes, 2008</xref>, for an
+elegant review of models). A tentative conjecture from our approach is that, as
+learners become acquainted with a sequential environment, their strategies may
+change depending on the regularity of that environment, and extent of
+exposure.</p><p>These strategies could reveal distinct underlying systems at work during
+learning. For example, in a study by Schvaneveldt and Gomez (<xref ref-type="bibr" rid="R65">1998</xref>), it was observed that single- versus
+dual-task learning contexts may induce different sorts of processes, with
+differing capacities to transfer that learning. They found in particular that
+knowledge gained in single-task learning was not easily transferred to a
+dual-task context when participants switched. Dual-task learning, however,
+induced knowledge that was transferrable to a new single-task context. As
+another example, previous researchers have debated the presence of two systems
+for learning, one based on attention to the material and the other not requiring
+attention (e.g., <xref ref-type="bibr" rid="R17">Curran &#x00026; Keele,
+1993</xref>), or whether just one system can account for such data (e.g., <xref ref-type="bibr" rid="R25">Frensch, Lin, &#x00026; Buchner, 1998</xref>).
+Theoretical debate in implicit learning has often been geared towards
+identification of the subsystems involved, their properties, whether they
+operate alone or in parallel, and whether they produce abstract or concrete, or
+rule-based or statistical, knowledge (for reviews, see e.g., <xref ref-type="bibr" rid="R8">Cleeremans, Destrebecqz, &#x00026; Boyer, 1998</xref>;
+<xref ref-type="bibr" rid="R12">Clegg, 2005</xref>; <xref ref-type="bibr" rid="R15">Conway &#x00026; Christiansen, 2006</xref>; <xref ref-type="bibr" rid="R17">Curran &#x00026; Keele, 1993</xref>; <xref ref-type="bibr" rid="R25">Frensch et al., 1998</xref>; <xref ref-type="bibr" rid="R32">Jamieson &#x00026;
+Mewhort, 2009</xref>; <xref ref-type="bibr" rid="R35">Keele, Ivry, Mayr,
+Hazeltine, &#x00026; Heuer, 2003</xref>; <xref ref-type="bibr" rid="R36">Kirkham, Slemmer, &#x00026; Johnson, 2002</xref>; G. F. <xref ref-type="bibr" rid="R41">Marcus, Vijayan, Bandi Rao, &#x00026; Vishton, 1999</xref>; <xref ref-type="bibr" rid="R51">Perruchet &#x00026; Pacton, 2006</xref>; <xref ref-type="bibr" rid="R57">Reber, 1989</xref>; <xref ref-type="bibr" rid="R66">Seidenberg, 1999</xref>; <xref ref-type="bibr" rid="R77">Willingham &#x00026; Goedert-Eschmann, 1999</xref>).</p><p>One may be tempted therefore to situate our results in this general trend to
+identify subsystems for learning. An implicit learning system may work to
+associate spatial positions over time, which facilitates spatial processing as
+they appear in sequence (debate also concerns whether there are subsystems here,
+regarding perceptual, attentional, and response-based bases; and recently there
+is suggestion that it could even exhibit modality specificity, cf. <xref ref-type="bibr" rid="R14">Conway &#x00026; Christiansen, 2005</xref>). As
+sufficient structure is extracted by this general system, an
+&#x0201c;explicit&#x0201d; one kicks in, and participants begin to make explicit
+behavioral wagers about the next stimulus location. Indeed, there exists a
+prominent and related theory of cognitive control that also proposes two
+underlying modes of proactive and reactive operation (<xref ref-type="bibr" rid="R6">Braver, Gray, &#x00026; Burgess, 2007</xref>). Yet we agree with
+Cleeremans and Dienes (<xref ref-type="bibr" rid="R9">2008</xref>) that
+identification of separate subsystems does not <italic>by itself</italic> count
+as an explanation of any data, and besides, as suggested, for example, in
+discussion by Kirkham, Slemmer, and Johnson (<xref ref-type="bibr" rid="R36">2002</xref>), what we observed could be multiple behavioral strategies
+emerging from a single general-purpose learning system. In fact, the modeling
+work of Destrebecqz and Cleeremans (<xref ref-type="bibr" rid="R20">2003</xref>)
+includes both an associative and predictive component that could capture both
+patterns we observe here. It may be (as we discuss below), that participants can
+simply verbalize this single system&#x02019;s operation in some contexts, such as
+when prediction is possible, versus others, such as when only equidistant
+positioning (&#x0201c;centering&#x0201d;) is possible. Finally, even if we were to
+propose such a two-system explanation, further research is needed to judge
+whether, in our particular task, the associative, implicit system is still
+functioning even when overt behavior is overwhelmingly predictive (e.g., <xref ref-type="bibr" rid="R77">Willingham &#x00026; Goedert-Eschmann,
+1999</xref>).</p><p>Whatever the architectural description, there are clearly two strategies or
+&#x0201c;modes&#x0201d; observed in our behavioral data. And what is new in our
+observations is that these modes can rapidly transition from one into the other,
+from reactive practices into tentative prediction, and then to wholesale
+wagering that gives way to consistently correct predictions. And despite our
+task&#x02019;s simplicity, we were able to go beyond previous research, in which
+such modes of learning or operating in sequential tasks are shielded by the
+wonderfully easy to acquire yet aggregate measure of RT; this can mask any
+interesting microstructure of unfolding statistical learning. Very elegant
+experiments can be designed to capture strategies using this measure (e.g.,
+error and probabilistic sequences; <xref ref-type="bibr" rid="R65">Schvaneveldt
+&#x00026; Gomez, 1998</xref>), by focusing on the RT distribution itself (e.g.,
+very-short RTs; <xref ref-type="bibr" rid="R78">Willingham et al., 1989</xref>),
+or simply by inducing prediction during training or testing (e.g., <xref ref-type="bibr" rid="R21">Destrebecqz &#x00026; Cleeremans, 2005</xref>); but in
+our design, the dynamics of prediction during learning are unveiled naturally
+and more transparently. Future work could identify the modes of operating, and
+the principles that guide them, by exploiting the behavioral measures we used
+here (cf. <xref ref-type="bibr" rid="R22">Duran &#x00026; Dale, 2009</xref>; <xref ref-type="bibr" rid="R46">Moisello et al., 2009</xref>; D. J. <xref ref-type="bibr" rid="R40">Marcus et al., 2006</xref>).</p></sec><sec id="S3b"><title>Implicit/explicit divide: Prediction and awareness</title><p>Previous studies have also found that indices of prediction correlate with
+explicit knowledge of the presence of regularity of a sequence (D. J. <xref ref-type="bibr" rid="R40">Marcus et al., 2006</xref>; <xref ref-type="bibr" rid="R78">Willingham et al., 1989</xref>), and our results replicate this
+connection. What is especially novel in our results, the study&#x02019;s
+limitations notwithstanding, is that the time course of the onset of this
+prediction can be captured. The data reported here suggest that participants
+rapidly initiate prediction as a strategy that accompanies the acquisition of
+knowledge, rather than being a direct consequence of it (cf. D. J. <xref ref-type="bibr" rid="R40">Marcus et al., 2006</xref>). As mentioned at the
+outset of this paper, many researchers have identified prediction as a central
+process underlying much of perception, cognition, and action. It has been
+implicated in high-level cognitive processes, such as explicit awareness of
+causal agency (e.g., temporal relations in action-effect for judgment of
+authorship; <xref ref-type="bibr" rid="R75">Wegner, 2003</xref>) and
+self-awareness (see <xref ref-type="bibr" rid="R33">Jeannerod, 2006</xref>, for
+a review of relevant evidence), and even at lower levels, as a foundational
+process of action and perception, since prominent theories of action control
+still propose that the cognitive system predicts the consequences of actions
+(e.g., <xref ref-type="bibr" rid="R29">Hommel, 2009</xref>). Yet the fact that
+prediction seems to relate to implicit/explicit knowledge in statistical
+learning has not gained much theoretical attention.</p><p>One recent account that may explain why explicit prediction of the kind measured
+here - which we have often referred to as <italic>wagers</italic> - is the
+theory of Morsella (<xref ref-type="bibr" rid="R47">2005</xref>), which explains
+phenomenal states as emerging in cross-modal and integrative contexts that
+converge to control body plans. When diverse information (e.g., from multiple
+modalities) converges on action plans, the states that accompany such a
+condition have phenomenal properties that may function to bind these diverse
+information sources into a likeness of experience that we typically call
+<italic>consciousness, awareness</italic>, and so on. When wagering
+prediction occurs, it may reflect a convergence of information from prior
+perception and action experiences that, in Morsella&#x02019;s (2005) terms,
+interfere with ongoing body plans, and phenomenal states reflect the cognitive
+system&#x02019;s integration or binding of these experiences in order to maintain
+skeletomotor control. In this sense, the strategy of explicit, stimulus-specific
+prediction must draw the motor system away from other possible association and
+drive the system toward a particular location; implicit associative processes
+may involve parallel processes that compete more &#x0201c;benignly&#x0201d; and do
+not require phenomenal binding processes to anchor them. This proposed
+distinction can only be treated as gradient and approximate, however, because
+there is evidence for <italic>implicit</italic> predictions in statistical
+learning in other work (e.g., <xref ref-type="bibr" rid="R73">Turk-Browne,
+Scholl, Johnson, &#x00026; Chun, 2010</xref>). It turns out that these more
+implicit process do seem to relate to visual prediction (e.g., <xref ref-type="bibr" rid="R3">Bar, 2009</xref>), where underlying associative
+representations may be employed for relatively implicit, rapid expectations;
+whereas in ours and previous studies, explicit awareness accompanies motoric
+manifestations of prediction, as perhaps Morsella (<xref ref-type="bibr" rid="R47">2005</xref>) would hypothesize. Future research may reveal that
+prediction bears in different ways on perceptual and response-based
+implicit/explicit learning.</p><p>The foregoing discussion is not meant to argue that explicit knowledge is
+required for learning, and indeed our data are suggestive of the early stages of
+implicit learning in very simple sequences. We also do not wish to take up the
+notion that implicit/explicit learning systems are architecturally distinct;
+there are other perspectives on these issues that do not necessarily require
+complete separation of processes or their resulting knowledge in order to
+account for experimental data, whether one rejects any such dissociation (e.g.,
+<xref ref-type="bibr" rid="R50">Perruchet &#x00026; Amorim, 1992</xref>), or
+embraces a more gradient perspective on implicit/explicit knowledge (<xref ref-type="bibr" rid="R10">Cleeremans &#x00026; Jim&#x000e9;nez, 2002</xref>).
+Regardless of one&#x02019;s theoretical stance on architectural separation or
+distinct functioning modes of a single learning system, the surface behavior
+that is exhibited in this simple SRT task suggests that there are indeed
+different modes or strategies that emerge during learning. We would argue that
+the experimental paradigm we have presented may help mitigate these kinds of
+theoretical debates.</p><p>This discussion is, of course, purely speculative with regard to the current
+experiment, and there is extensive discussion about explicit
+&#x0201c;conscious&#x0201d; awareness of such things as the actions that unfold
+during everyday tasks, of why such actions have taken place, and of the learning
+that may take place during these actions (<xref ref-type="bibr" rid="R8">Cleeremans et al., 1998</xref>; <xref ref-type="bibr" rid="R10">Cleeremans
+&#x00026; Jim&#x000e9;nez, 2002</xref>; <xref ref-type="bibr" rid="R13">Cohen &#x00026;
+Schooler, 1997</xref>; <xref ref-type="bibr" rid="R26">Haggard, Clark, &#x00026;
+Kalogeras, 2002</xref>; <xref ref-type="bibr" rid="R31">Hurley, 2002</xref>;
+<xref ref-type="bibr" rid="R33">Jeannerod, 2006</xref>; <xref ref-type="bibr" rid="R58">Reber, 1992</xref>; <xref ref-type="bibr" rid="R63">Sarrazin, Cleeremans, &#x00026; Haggard, 2008</xref>; <xref ref-type="bibr" rid="R74">Van Orden &#x00026; Holden, 2002</xref>; <xref ref-type="bibr" rid="R75">Wegner, 2003</xref>), that we do not have space to
+consider here. The excitement in the field regarding prediction, and the
+continued interest in consciousness as an outstanding puzzle of the cognitive
+sciences, may be a point of synergy between basic research on predictive
+cognition and philosophical discussion of explicit awareness of learning that
+takes place during everyday life. The field thus requires the development of new
+techniques to tap predictive tendencies in laboratory contexts, and relate these
+tendencies to implicit or explicit processes that underlie statistical learning.
+We hope readers find the paradigm and experiment we offer here as a promising
+means by which this can be pursued to bridge the divide.</p></sec></sec></body><back><ack><title>Acknowledgements</title><p>This work was supported in part by National Science Foundation grant BCS-0720322 to
+Rick Dale.</p></ack><ref-list><title>References</title><ref id="R1"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baayen</surname><given-names>R. H.</given-names></name><name><surname>Davidson</surname><given-names>D. J.</given-names></name><name><surname>Bates</surname><given-names>D. M.</given-names></name></person-group><article-title>Mixed-effects modeling with crossed random effects for subjects
+and items.</article-title><source>Journal of Memory and Language</source><year>2008</year><volume>59</volume><fpage>390</fpage><lpage>412</lpage></element-citation></ref><ref id="R2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ballard</surname><given-names>D. H.</given-names></name><name><surname>Hayhoe</surname><given-names>M. M.</given-names></name><name><surname>Pelz</surname><given-names>J. B.</given-names></name></person-group><article-title>Memory representations in natural tasks.</article-title><source>Journal of Cognitive Neuroscience</source><year>1995</year><volume>7</volume><fpage>66</fpage><lpage>80</lpage></element-citation></ref><ref id="R3"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bar</surname><given-names>M.</given-names></name></person-group><article-title>The proactive brain: Memory for predictions.</article-title><source>Philosophical Transactions</source><year>2009</year><volume>364B</volume><fpage>1235</fpage><lpage>1235</lpage></element-citation></ref><ref id="R4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bieri</surname><given-names>J.</given-names></name></person-group><article-title>Cognitive complexity-simplicity and predictive
+behavior.</article-title><source>Journal of Abnormal and Social Psychology</source><year>1955</year><volume>51</volume><fpage>263</fpage><lpage>268</lpage></element-citation></ref><ref id="R5"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Botvinick</surname><given-names>M.</given-names></name><name><surname>Plaut</surname><given-names>D. C.</given-names></name></person-group><article-title>Doing without schema hierarchies: A recurrent connectionist
+approach to normal and impaired routine sequential action.</article-title><source>Psychological Review</source><year>2004</year><volume>111</volume><fpage>395</fpage><lpage>428</lpage><pub-id pub-id-type="pmid">15065915</pub-id></element-citation></ref><ref id="R6"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Braver</surname><given-names>T. S.</given-names></name><name><surname>Gray</surname><given-names>J. R.</given-names></name><name><surname>Burgess</surname><given-names>G. C.</given-names></name></person-group><person-group person-group-type="editor"><name><surname>Conway</surname><given-names>A.</given-names></name><name><surname>Jarrold</surname><given-names>C.</given-names></name><name><surname>Kane</surname><given-names>M.</given-names></name><name><surname>Miyake</surname><given-names>A.</given-names></name><name><surname>Towse</surname><given-names>J.</given-names></name></person-group><article-title>Explaining the many varieties of working memory variation: Dual
+mechanisms of cognitive control.</article-title><source>Variation in working memory</source><year>2007</year><publisher-loc> Oxford, UK </publisher-loc><publisher-name> Oxford University Press </publisher-name><fpage>76</fpage><lpage>106</lpage></element-citation></ref><ref id="R7"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bubic</surname><given-names>A.</given-names></name><name><surname>von Cramon</surname><given-names>D. Y.</given-names></name><name><surname>Schubotz</surname><given-names>R. I.</given-names></name></person-group><article-title>Prediction, cognition, and the brain.</article-title><source>Frontiers in Human Neuroscience</source><year>2010</year><volume>4</volume><fpage>1</fpage><lpage>15</lpage><pub-id pub-id-type="pmid">20204154</pub-id></element-citation></ref><ref id="R8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cleeremans</surname><given-names>A.</given-names></name><name><surname>Destrebecqz</surname><given-names>A.</given-names></name><name><surname>Boyer</surname><given-names>M.</given-names></name></person-group><article-title>Implicit learning: News from the front.</article-title><source>Trends in Cognitive Sciences</source><year>1998</year><volume>2</volume><fpage>406</fpage><lpage>416</lpage><pub-id pub-id-type="pmid">21227256</pub-id></element-citation></ref><ref id="R9"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Cleeremans</surname><given-names>A.</given-names></name><name><surname>Dienes</surname><given-names>Z.</given-names></name></person-group><source>Computational models of implicit learning. In R. Sun (Ed.), Cambridge
+handbook of computational psychology (pp. 396-421).</source><year>2008</year><publisher-loc> New York, NY </publisher-loc><publisher-name> Cambridge University Press </publisher-name></element-citation></ref><ref id="R10"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Cleeremans</surname><given-names>A.</given-names></name><name><surname>Jim&#x000e9;nez</surname><given-names>L.</given-names></name></person-group><person-group person-group-type="editor"><name><surname>French</surname><given-names>R. M.</given-names></name><name><surname>Cleeremans</surname><given-names>A.</given-names></name></person-group><article-title>Implicit learning and consciousness: A graded, dynamic
+perspective.</article-title><source>Implicit learning and consciousness</source><year>2002</year><publisher-loc> Hove, UK </publisher-loc><publisher-name> Psychology Press </publisher-name><fpage>1</fpage><lpage>40</lpage></element-citation></ref><ref id="R11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cleeremans</surname><given-names>A.</given-names></name><name><surname>McClelland</surname><given-names>J. L.</given-names></name></person-group><article-title>Learning the structure of event sequences.</article-title><source>Journal of Experimental Psychology: General</source><year>1991</year><volume>120</volume><fpage>235</fpage><lpage>253</lpage><pub-id pub-id-type="pmid">1836490</pub-id></element-citation></ref><ref id="R12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clegg</surname><given-names>B. A.</given-names></name></person-group><article-title>Stimulus-specific sequence representation in serial reaction time
+tasks.</article-title><source>The Quarterly Journal of Experimental Psychology</source><year>2005</year><volume>58A</volume><fpage>1087</fpage><lpage>1101</lpage><pub-id pub-id-type="pmid">16194949</pub-id></element-citation></ref><ref id="R13"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Cohen</surname><given-names>J. D.</given-names></name><name><surname>Schooler</surname><given-names>J. W.</given-names></name></person-group><source>Scientific approaches to consciousness.</source><year>1997</year><publisher-loc> Mahwah, NJ </publisher-loc><publisher-name> Lawrence Erlbaum </publisher-name></element-citation></ref><ref id="R14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Conway</surname><given-names>C. M.</given-names></name><name><surname>Christiansen</surname><given-names>M. H.</given-names></name></person-group><article-title>Modality-constrained statistical learning of tactile, visual, and
+auditory sequences.</article-title><source>Journal of Experimental Psychology: Learning, Memory, and
+Cognition</source><year>2005</year><volume>31</volume><fpage>24</fpage><lpage>39</lpage></element-citation></ref><ref id="R15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Conway</surname><given-names>C. M.</given-names></name><name><surname>Christiansen</surname><given-names>M. H.</given-names></name></person-group><article-title>Statistical learning within and between
+modalities.</article-title><source>Psychological Science</source><year>2006</year><volume>17</volume><fpage>905</fpage><lpage>912</lpage><pub-id pub-id-type="pmid">17100792</pub-id></element-citation></ref><ref id="R16"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Craik</surname><given-names>K.</given-names></name></person-group><source>The nature of explanation.</source><year>1943</year><publisher-name>Cambridge University Press</publisher-name></element-citation></ref><ref id="R17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Curran</surname><given-names>T.</given-names></name><name><surname>Keele</surname><given-names>S. W.</given-names></name></person-group><article-title>Attentional and nonattentional forms of sequence
+learning.</article-title><source>Journal of Experimental Psychology: Learning, Memory, and
+Cognition</source><year>1993</year><volume>19</volume><fpage>189</fpage><lpage>202</lpage></element-citation></ref><ref id="R18"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Dale</surname><given-names>R.</given-names></name><name><surname>Spivey</surname><given-names>M. J.</given-names></name></person-group><source>Categorical recurrence analysis of child language. In Proceedings of the
+27th Annual Meeting of the Cognitive Science Society (pp. 530-535).</source><year>2005</year><publisher-loc> Mahwah, NJ </publisher-loc><publisher-name> Lawrence Erlbaum </publisher-name></element-citation></ref><ref id="R19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Destrebecqz</surname><given-names>A.</given-names></name><name><surname>Cleeremans</surname><given-names>A.</given-names></name></person-group><article-title>Can sequence learning be implicit? New evidence with the process
+dissociation procedure.</article-title><source>Psychonomic Bulletin &#x00026; Review</source><year>2001</year><volume>8</volume><fpage>343</fpage><lpage>343</lpage><pub-id pub-id-type="pmid">11495124</pub-id></element-citation></ref><ref id="R20"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Destrebecqz</surname><given-names>A.</given-names></name><name><surname>Cleeremans</surname><given-names>A.</given-names></name></person-group><person-group person-group-type="editor"><name><surname>Jim&#x000e9;nez</surname><given-names>L.</given-names></name></person-group><article-title>Temporal effects in sequence learning.</article-title><source>Attention and implicit learning</source><year>2003</year><publisher-loc> Amsterdam </publisher-loc><publisher-name> John Benjamins </publisher-name><fpage>181</fpage><lpage>213</lpage></element-citation></ref><ref id="R21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Destrebecqz</surname><given-names>A.</given-names></name><name><surname>Cleeremans</surname><given-names>A.</given-names></name></person-group><article-title>Implicit learning in a prediction task: Neither abstract nor
+based on exemplars.</article-title><source>Current Psychology Letters</source><year>2005</year><volume>3</volume><issue>17</issue><comment>no pagination specified</comment></element-citation></ref><ref id="R22"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Duran</surname><given-names>N. D.</given-names></name><name><surname>Dale</surname><given-names>R.</given-names></name></person-group><source>Anticipatory arm placement in the statistical learning of position
+sequences. In Proceedings of the 31st Annual Meeting of the Cognitive
+Science Society (pp. 893-898).</source><year>2009</year><publisher-loc> Amsterdam </publisher-loc><publisher-name> Cognitive Science Society </publisher-name></element-citation></ref><ref id="R23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Elman</surname><given-names>J. L.</given-names></name></person-group><article-title>Finding structure in time.</article-title><source>Cognitive Science</source><year>1990</year><volume>14</volume><fpage>179</fpage><lpage>211</lpage></element-citation></ref><ref id="R24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Enns</surname><given-names>J. T.</given-names></name><name><surname>Lleras</surname><given-names>A.</given-names></name></person-group><article-title>What&#x02019;s next? New evidence for prediction in human
+vision.</article-title><source>Trends in Cognitive Sciences</source><year>2008</year><volume>12</volume><fpage>327</fpage><lpage>333</lpage><pub-id pub-id-type="pmid">18684660</pub-id></element-citation></ref><ref id="R25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Frensch</surname><given-names>P. A.</given-names></name><name><surname>Lin</surname><given-names>J.</given-names></name><name><surname>Buchner</surname><given-names>A.</given-names></name></person-group><article-title>Learning versus behavioral expression of the learned: The effects
+of a secondary tone-counting task on implicit learning in the serial
+reaction task.</article-title><source>Psychological Research</source><year>1998</year><volume>61</volume><fpage>83</fpage><lpage>98</lpage></element-citation></ref><ref id="R26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haggard</surname><given-names>P.</given-names></name><name><surname>Clark</surname><given-names>S.</given-names></name><name><surname>Kalogeras</surname><given-names>J.</given-names></name></person-group><article-title>Voluntary action and conscious awareness.</article-title><source>Nature Neuroscience</source><year>2002</year><volume>5</volume><fpage>382</fpage><lpage>385</lpage></element-citation></ref><ref id="R27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Heyes</surname><given-names>C. M.</given-names></name><name><surname>Foster</surname><given-names>C. L.</given-names></name></person-group><article-title>Motor learning by observation: Evidence from a serial reaction
+time task.</article-title><source>The Quarterly Journal of Experimental Psychology</source><year>2002</year><volume>55A</volume><fpage>593</fpage><lpage>607</lpage><pub-id pub-id-type="pmid">12047061</pub-id></element-citation></ref><ref id="R28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoffmann</surname><given-names>J.</given-names></name><name><surname>Martin</surname><given-names>C.</given-names></name><name><surname>Schilling</surname><given-names>A.</given-names></name></person-group><article-title>Unique transitions between stimuli and responses in SRT tasks:
+Evidence for the primacy of response predictions.</article-title><source>Psychological Research</source><year>2003</year><volume>67</volume><fpage>160</fpage><lpage>173</lpage><pub-id pub-id-type="pmid">12955507</pub-id></element-citation></ref><ref id="R29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hommel</surname><given-names>B.</given-names></name></person-group><article-title>Action control according to TEC (theory of event
+coding).</article-title><source>Psychological Research</source><year>2009</year><volume>73</volume><fpage>512</fpage><lpage>526</lpage><pub-id pub-id-type="pmid">19337749</pub-id></element-citation></ref><ref id="R30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hunt</surname><given-names>R. H.</given-names></name><name><surname>Aslin</surname><given-names>R. N.</given-names></name></person-group><article-title>Statistical learning in a serial reaction time task: Access to
+separable statistical cues by individual learners.</article-title><source>Journal of Experimental Psychology: General</source><year>2001</year><volume>130</volume><fpage>658</fpage><lpage>680</lpage><pub-id pub-id-type="pmid">11757874</pub-id></element-citation></ref><ref id="R31"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hurley</surname><given-names>S. L.</given-names></name></person-group><source>Consciousness in action</source><year>2002</year><publisher-name>Harvard University Press</publisher-name></element-citation></ref><ref id="R32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jamieson</surname><given-names>R. K.</given-names></name><name><surname>Mewhort</surname><given-names>D. J. K.</given-names></name></person-group><article-title>Applying an exemplar model to the serial reaction-time task:
+Anticipating from experience.</article-title><source>Quarterly Journal of Experimental Psychology</source><year>2009</year><volume>62</volume><fpage>1757</fpage><lpage>1783</lpage></element-citation></ref><ref id="R33"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Jeannerod</surname><given-names>M.</given-names></name></person-group><source>Motor cognition</source><year>2006</year><publisher-name>Oxford University Press</publisher-name></element-citation></ref><ref id="R34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jones</surname><given-names>J.</given-names></name><name><surname>Pashler</surname><given-names>H.</given-names></name></person-group><article-title>Is the mind inherently forward looking? Comparing prediction and
+retrodiction.</article-title><source>Psychonomic Bulletin &#x00026; Review</source><year>2007</year><volume>14</volume><fpage>295</fpage><lpage>300</lpage><pub-id pub-id-type="pmid">17694916</pub-id></element-citation></ref><ref id="R35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Keele</surname><given-names>S. W.</given-names></name><name><surname>Ivry</surname><given-names>R.</given-names></name><name><surname>Mayr</surname><given-names>U.</given-names></name><name><surname>Hazeltine</surname><given-names>E.</given-names></name><name><surname>Heuer</surname><given-names>H.</given-names></name></person-group><article-title>The cognitive and neural architecture of sequence
+representation.</article-title><source>Psychological Review</source><year>2003</year><volume>110</volume><fpage>316</fpage><lpage>339</lpage><pub-id pub-id-type="pmid">12747526</pub-id></element-citation></ref><ref id="R36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kirkham</surname><given-names>N. Z.</given-names></name><name><surname>Slemmer</surname><given-names>J. A.</given-names></name><name><surname>Johnson</surname><given-names>S. P.</given-names></name></person-group><article-title>Visual statistical learning in infancy: Evidence for a domain
+general learning mechanism</article-title><source>Cognition</source><year>2002</year><volume>83</volume><fpage>B35</fpage><lpage>B42</lpage><pub-id pub-id-type="pmid">11869728</pub-id></element-citation></ref><ref id="R37"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Kittur</surname><given-names>A.</given-names></name><name><surname>Chi</surname><given-names>H.</given-names></name><name><surname>Suh</surname><given-names>B.</given-names></name></person-group><source>Crowdsourcing user studies with Mechanical Turk. In Proceedings of the
+ACM Conference on Human-factors in Computing Systems CHI 2008 (pp.
+453-456).</source><year>2008</year><publisher-loc> Florence, Italy </publisher-loc><publisher-name> ACM Press </publisher-name></element-citation></ref><ref id="R38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kveraga</surname><given-names>K.</given-names></name><name><surname>Ghuman</surname><given-names>A. S.</given-names></name><name><surname>Bar</surname><given-names>M.</given-names></name></person-group><article-title>Top-down predictions in the cognitive brain.</article-title><source>Brain and Cognition</source><year>2007</year><volume>65</volume><fpage>145</fpage><lpage>168</lpage><pub-id pub-id-type="pmid">17923222</pub-id></element-citation></ref><ref id="R39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Land</surname><given-names>M. F.</given-names></name><name><surname>Furneaux</surname><given-names>S.</given-names></name></person-group><article-title>The knowledge base of the oculomotor system.</article-title><source>Philosophical Transactions of the Royal Society B: Biological
+Sciences</source><year>1997</year><volume>352</volume><fpage>1231</fpage><lpage>1239</lpage></element-citation></ref><ref id="R40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marcus</surname><given-names>D. J.</given-names></name><name><surname>Karatekin</surname><given-names>C.</given-names></name><name><surname>Markiewicz</surname><given-names>S.</given-names></name></person-group><article-title>Oculomotor evidence of sequence learning on the serial reaction
+time task.</article-title><source>Memory &#x00026; Cognition</source><year>2006</year><volume>34</volume><fpage>420</fpage><lpage>432</lpage></element-citation></ref><ref id="R41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marcus</surname><given-names>G. F.</given-names></name><name><surname>Vijayan</surname><given-names>S.</given-names></name><name><surname>Bandi Rao</surname><given-names>S.</given-names></name><name><surname>Vishton</surname><given-names>P. M.</given-names></name></person-group><article-title>Rule learning by seven-month-old infants.</article-title><source>Science</source><year>1999</year><volume>283</volume><issue>5398</issue><fpage>77</fpage><lpage>80</lpage><pub-id pub-id-type="pmid">9872745</pub-id></element-citation></ref><ref id="R42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mayr</surname><given-names>U.</given-names></name></person-group><article-title>Spatial attention and implicit sequence learning: Evidence for
+independent learning of spatial and nonspatial sequences.</article-title><source>Journal of Experimental Psychology: Learning, Memory, and
+Cognition</source><year>1996</year><volume>22</volume><fpage>350</fpage><lpage>364</lpage></element-citation></ref><ref id="R43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McClelland</surname><given-names>J. L.</given-names></name></person-group><article-title>On the time relations of mental processes: An examination of
+systems of processes in cascade.</article-title><source>Psychological Review</source><year>1979</year><volume>86</volume><fpage>287</fpage><lpage>330</lpage></element-citation></ref><ref id="R44"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>R. R.</given-names></name><name><surname>Barnet</surname><given-names>R. C.</given-names></name><name><surname>Grahame</surname><given-names>N. J.</given-names></name></person-group><article-title>Assessment of the Rescorla-Wagner model.</article-title><source>Psychological Bulletin</source><year>1995</year><volume>117</volume><fpage>363</fpage><lpage>386</lpage><pub-id pub-id-type="pmid">7777644</pub-id></element-citation></ref><ref id="R45"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Misyak</surname><given-names>J. B.</given-names></name><name><surname>Christiansen</surname><given-names>M. H.</given-names></name><name><surname>Tomblin</surname><given-names>J. B.</given-names></name></person-group><person-group person-group-type="editor"><name><surname>Taatgen</surname><given-names>N. T.</given-names></name><name><surname>Rijn</surname><given-names>H. van</given-names></name></person-group><article-title>Statistical learning of nonadjacencies predicts on-line
+processing of long-distance dependencies in natural
+language.</article-title><source>Proceedings of the 31st Annual Meeting of the Cognitive Science
+Society</source><year>2009</year><publisher-loc> Austin, TX </publisher-loc><publisher-name> Cognitive Science Society </publisher-name><fpage>177</fpage><lpage>182</lpage></element-citation></ref><ref id="R46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moisello</surname><given-names>C.</given-names></name><name><surname>Crupi</surname><given-names>D.</given-names></name><name><surname>Tunik</surname><given-names>E.</given-names></name><name><surname>Quartarone</surname><given-names>A.</given-names></name><name><surname>Bove</surname><given-names>M.</given-names></name><name><surname>Tononi</surname><given-names>G.</given-names></name><name><surname>Ghilardi</surname><given-names>M.</given-names></name></person-group><article-title>The serial reaction time task revisited: A study on motor
+sequence learning with an arm-reaching task.</article-title><source>Experimental Brain Research</source><year>2009</year><volume>194</volume><fpage>143</fpage><lpage>155</lpage></element-citation></ref><ref id="R47"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morsella</surname><given-names>E.</given-names></name></person-group><article-title>The function of phenomenal states: Supramodular interaction
+theory.</article-title><source>Psychological Review</source><year>2005</year><volume>112</volume><fpage>1000</fpage><lpage>1021</lpage><pub-id pub-id-type="pmid">16262477</pub-id></element-citation></ref><ref id="R48"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Neisser</surname><given-names>U.</given-names></name></person-group><source>Cognition and reality.</source><year>1976</year><publisher-loc> San Francisco </publisher-loc><publisher-name> WH Freeman </publisher-name></element-citation></ref><ref id="R49"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nissen</surname><given-names>M. J.</given-names></name><name><surname>Bullemer</surname><given-names>P.</given-names></name></person-group><article-title>Attentional requirements of learning: Evidence from performance
+measures.</article-title><source>Cognitive Psychology</source><year>1987</year><volume>19</volume><fpage>1</fpage><lpage>32</lpage></element-citation></ref><ref id="R50"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Perruchet</surname><given-names>P.</given-names></name><name><surname>Amorim</surname><given-names>M. A.</given-names></name></person-group><article-title>Conscious knowledge and changes in performance in sequence
+learning: Evidence against dissociation.</article-title><source>Journal of Experimental Psychology: Learning, Memory, and
+Cognition</source><year>1992</year><volume>18</volume><fpage>785</fpage><lpage>800</lpage></element-citation></ref><ref id="R51"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Perruchet</surname><given-names>P.</given-names></name><name><surname>Pacton</surname><given-names>S.</given-names></name></person-group><article-title>Implicit learning and statistical learning: One phenomenon, two
+approaches.</article-title><source>Trends in Cognitive Sciences</source><year>2006</year><volume>10</volume><fpage>233</fpage><lpage>238</lpage><pub-id pub-id-type="pmid">16616590</pub-id></element-citation></ref><ref id="R52"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Perruchet</surname><given-names>P.</given-names></name><name><surname>Vinter</surname><given-names>A.</given-names></name></person-group><article-title>PARSER: A model for word segmentation.</article-title><source>Journal of Memory and Language</source><year>1998</year><volume>39</volume><fpage>246</fpage><lpage>263</lpage></element-citation></ref><ref id="R53"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Proulx</surname><given-names>T.</given-names></name><name><surname>Heine</surname><given-names>S. J.</given-names></name></person-group><article-title>Connections from Kafka: Exposure to meaning threats improves
+implicit learning of an artificial grammar.</article-title><source>Psychological Science</source><year>2009</year><volume>20</volume><fpage>1125</fpage><lpage>1131</lpage><pub-id pub-id-type="pmid">19656338</pub-id></element-citation></ref><ref id="R54"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ramscar</surname><given-names>M.</given-names></name><name><surname>Yarlett</surname><given-names>D.</given-names></name><name><surname>Dye</surname><given-names>M.</given-names></name><name><surname>Denny</surname><given-names>K.</given-names></name><name><surname>Thorpe</surname><given-names>K.</given-names></name></person-group><article-title>Feature-Label-Order effects and their implications for symbolic
+learning.</article-title><source>Cognitive Science</source><year>2010</year><volume>34</volume><fpage>909</fpage><lpage>957</lpage><pub-id pub-id-type="pmid">21564239</pub-id></element-citation></ref><ref id="R55"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rao</surname><given-names>R. P.</given-names></name><name><surname>Sejnowski</surname><given-names>T. J.</given-names></name></person-group><article-title>Self-organizing neural systems based on predictive
+learning.</article-title><source>Philosophical Transactions: Mathematical, Physical, and Engineering
+Sciences</source><year>2003</year><volume>361</volume><fpage>1149</fpage><lpage>1175</lpage></element-citation></ref><ref id="R56"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reber</surname><given-names>A. S.</given-names></name></person-group><article-title>Implicit learning of artificial grammars.</article-title><source>Journal of Verbal Learning and Verbal Behavior</source><year>1967</year><volume>6</volume><fpage>855</fpage><lpage>863</lpage></element-citation></ref><ref id="R57"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reber</surname><given-names>A. S.</given-names></name></person-group><article-title>Implicit learning and tacit knowledge.</article-title><source>Journal of Experimental Psychology: General</source><year>1989</year><volume>118</volume><fpage>219</fpage><lpage>235</lpage></element-citation></ref><ref id="R58"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reber</surname><given-names>A. S.</given-names></name></person-group><article-title>An evolutionary context for the cognitive
+unconscious.</article-title><source>Philosophical Psychology</source><year>1992</year><volume>5</volume><fpage>33</fpage><lpage>51</lpage></element-citation></ref><ref id="R59"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Rescorla</surname><given-names>R. A.</given-names></name><name><surname>Wagner</surname><given-names>A. R.</given-names></name></person-group><person-group person-group-type="editor"><name><surname>Black</surname><given-names>A. H.</given-names></name><name><surname>Prokasy</surname><given-names>W. F.</given-names></name></person-group><article-title>A theory of Pavlovian conditioning: Variations in the
+effectiveness of reinforcement and nonreinforcement.</article-title><source>Classical conditioning: A symposium</source><year>1972</year><publisher-loc> New York </publisher-loc><publisher-name> Appleton </publisher-name><fpage>64</fpage><lpage>69</lpage></element-citation></ref><ref id="R60"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reynolds</surname><given-names>J. R.</given-names></name><name><surname>Zacks</surname><given-names>J. M.</given-names></name><name><surname>Braver</surname><given-names>T. S.</given-names></name></person-group><article-title>A computational model of event segmentation from perceptual
+prediction.</article-title><source>Cognitive Science</source><year>2007</year><volume>31</volume><fpage>613</fpage><lpage>643</lpage><pub-id pub-id-type="pmid">21635310</pub-id></element-citation></ref><ref id="R61"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saffran</surname><given-names>J. R.</given-names></name></person-group><article-title>Statistical language learning: Mechanisms and
+constraints.</article-title><source>Current Directions in Psychological Science</source><year>2003</year><volume>12</volume><fpage>110</fpage><lpage>114</lpage></element-citation></ref><ref id="R62"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saffran</surname><given-names>J. R.</given-names></name><name><surname>Aslin</surname><given-names>R. N.</given-names></name><name><surname>Newport</surname><given-names>E. L.</given-names></name></person-group><article-title>Statistical learning by 8-month-old infants.</article-title><source>Science</source><year>1996</year><volume>274</volume><fpage>1926</fpage><lpage>1928</lpage><pub-id pub-id-type="pmid">8943209</pub-id></element-citation></ref><ref id="R63"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sarrazin</surname><given-names>J. C.</given-names></name><name><surname>Cleeremans</surname><given-names>A.</given-names></name><name><surname>Haggard</surname><given-names>P.</given-names></name></person-group><article-title>How do we know what we are doing? Time, intention, and awareness
+of action.</article-title><source>Consciousness and Cognition</source><year>2008</year><volume>17</volume><fpage>602</fpage><lpage>615</lpage><pub-id pub-id-type="pmid">17468011</pub-id></element-citation></ref><ref id="R64"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schubotz</surname><given-names>R. I.</given-names></name></person-group><article-title>Prediction of external events with our motor system: Towards a
+new framework.</article-title><source>Trends in Cognitive Sciences</source><year>2007</year><volume>11</volume><fpage>211</fpage><lpage>218</lpage><pub-id pub-id-type="pmid">17383218</pub-id></element-citation></ref><ref id="R65"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schvaneveldt</surname><given-names>R. W.</given-names></name><name><surname>Gomez</surname><given-names>R. L.</given-names></name></person-group><article-title>Attention and probabilistic sequence learning.</article-title><source>Psychological Research</source><year>1998</year><volume>61</volume><fpage>175</fpage><lpage>190</lpage></element-citation></ref><ref id="R66"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seidenberg</surname><given-names>M. S.</given-names></name></person-group><article-title>Do infants learn grammar with algebra or
+statistics?</article-title><source>Science</source><year>1999</year><volume>284</volume><fpage>434</fpage><lpage>435</lpage><pub-id pub-id-type="pmid">10232987</pub-id></element-citation></ref><ref id="R67"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shelhamer</surname><given-names>M.</given-names></name><name><surname>Joiner</surname><given-names>W. M.</given-names></name></person-group><article-title>Saccades exhibit abrupt transition between reactive and
+predictive, predictive saccade sequences have long-term
+correlations.</article-title><source>Journal of Neurophysiology</source><year>2003</year><volume>90</volume><fpage>2763</fpage><lpage>2769</lpage><pub-id pub-id-type="pmid">14534279</pub-id></element-citation></ref><ref id="R68"><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Snow</surname><given-names>R.</given-names></name><name><surname>O&#x02019;Connor</surname><given-names>B.</given-names></name><name><surname>Jurafsky</surname><given-names>D.</given-names></name><name><surname>Ng</surname><given-names>A. Y.</given-names></name></person-group><article-title>Cheap and fast but is it good? Evaluating non-expert annotations
+for natural language tasks.</article-title><year>2008</year><conf-name>Proceedings of the Conference on Empirical Methods in Natural
+Language Processing</conf-name></element-citation></ref><ref id="R69"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Song</surname><given-names>J. H.</given-names></name><name><surname>Nakayama</surname><given-names>K.</given-names></name></person-group><article-title>Hidden cognitive states revealed in choice reaching
+tasks.</article-title><source>Trends in Cognitive Sciences</source><year>2009</year><volume>13</volume><fpage>360</fpage><lpage>366</lpage><pub-id pub-id-type="pmid">19647475</pub-id></element-citation></ref><ref id="R69a"><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Sorokin</surname><given-names>A.</given-names></name><name><surname>Forsyth</surname><given-names>D.</given-names></name></person-group><article-title>Utility data annotation with Amazon Mechanical
+Turk.</article-title><year>2008</year><month>6</month><conf-name>The Computer Vision and Pattern Recognition Workshops (CVPRW
+&#x02018;08)</conf-name></element-citation></ref><ref id="R70"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spivey</surname><given-names>M. J.</given-names></name><name><surname>Grosjean</surname><given-names>M.</given-names></name><name><surname>Knoblich</surname><given-names>G.</given-names></name></person-group><article-title>Continuous attraction toward phonological
+competitors.</article-title><source>Proceedings of the National Academy of Sciences of the United States of
+America</source><year>2005</year><volume>102</volume><fpage>10393</fpage><lpage>10398</lpage><pub-id pub-id-type="pmid">15985550</pub-id></element-citation></ref><ref id="R71"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stadler</surname><given-names>M. A.</given-names></name></person-group><article-title>On learning complex procedural knowledge.</article-title><source>Journal of Experimental Psychology: Learning, Memory, and
+Cognition</source><year>1989</year><volume>15</volume><fpage>1061</fpage><lpage>1069</lpage></element-citation></ref><ref id="R72"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sutton</surname><given-names>R. S.</given-names></name><name><surname>Barto</surname><given-names>A. G.</given-names></name></person-group><article-title>Reinforcement learning: An introduction.</article-title><source>IEEE Transactions on Neural Networks</source><year>1998</year><volume>9</volume><fpage>1054</fpage><lpage>1054</lpage></element-citation></ref><ref id="R73"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Turk-Browne</surname><given-names>N. B.</given-names></name><name><surname>Scholl</surname><given-names>B. J.</given-names></name><name><surname>Johnson</surname><given-names>M. K.</given-names></name><name><surname>Chun</surname><given-names>M. M.</given-names></name></person-group><article-title>Implicit perceptual anticipation triggered by statistical
+learning.</article-title><source>Journal of Neuroscience</source><year>2010</year><volume>30</volume><fpage>11177</fpage><lpage>11187</lpage><pub-id pub-id-type="pmid">20720125</pub-id></element-citation></ref><ref id="R74"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van Orden</surname><given-names>G. C.</given-names></name><name><surname>Holden</surname><given-names>J. G.</given-names></name></person-group><article-title>Intentional contents and self-control.</article-title><source>Ecological Psychology</source><year>2002</year><volume>14</volume><fpage>87</fpage><lpage>109</lpage></element-citation></ref><ref id="R75"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wegner</surname><given-names>D. M.</given-names></name></person-group><article-title>The mind&#x02019;s best trick: How we experience conscious
+will.</article-title><source>Trends in Cognitive Sciences</source><year>2003</year><volume>7</volume><fpage>65</fpage><lpage>69</lpage><pub-id pub-id-type="pmid">12584024</pub-id></element-citation></ref><ref id="R76"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Willingham</surname><given-names>D. B.</given-names></name></person-group><article-title>Implicit motor sequence learning is not purely
+perceptual.</article-title><source>Memory &#x00026; Cognition</source><year>1999</year><volume>27</volume><fpage>561</fpage><lpage>572</lpage></element-citation></ref><ref id="R77"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Willingham</surname><given-names>D. B.</given-names></name><name><surname>Goedert-Eschmann</surname><given-names>K.</given-names></name></person-group><article-title>The relation between implicit and explicit learning: Evidence for
+parallel development.</article-title><source>Psychological Science</source><year>1999</year><volume>10</volume><fpage>531</fpage><lpage>534</lpage></element-citation></ref><ref id="R78"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Willingham</surname><given-names>D. B.</given-names></name><name><surname>Nissen</surname><given-names>M. J.</given-names></name><name><surname>Bullemer</surname><given-names>P.</given-names></name></person-group><article-title>On the development of procedural knowledge.</article-title><source>Journal of Experimental Psychology: Learning, Memory, and
+Cognition</source><year>1989</year><volume>15</volume><fpage>1047</fpage><lpage>1060</lpage></element-citation></ref><ref id="R79"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wolpert</surname><given-names>D. M.</given-names></name><name><surname>Flanagan</surname><given-names>J. R.</given-names></name></person-group><article-title>Motor prediction.</article-title><source>Current Biology</source><year>2001</year><volume>11</volume><fpage>729</fpage><lpage>732</lpage></element-citation></ref></ref-list></back></article>

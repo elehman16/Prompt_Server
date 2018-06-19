@@ -1,0 +1,618 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Clin Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Br J Clin Pharmacol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2125</journal-id><journal-id journal-id-type="publisher-id">BCP</journal-id><journal-title-group><journal-title>British Journal of Clinical Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0306-5251</issn><issn pub-type="epub">1365-2125</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28432691</article-id><article-id pub-id-type="pmc">5582369</article-id><article-id pub-id-type="doi">10.1111/bcp.13313</article-id><article-id pub-id-type="publisher-id">BCP13313</article-id><article-id pub-id-type="other">MP-00693-16.R3</article-id><article-categories><subj-group subj-group-type="overline"><subject>Drug Interactions</subject></subj-group><subj-group subj-group-type="heading"><subject>Drug Interactions</subject></subj-group></article-categories><title-group><article-title>Tenapanor administration and the activity of the H<sup>+</sup>&#x02010;coupled transporter PepT1 in healthy volunteers</article-title><alt-title alt-title-type="right-running-head">Tenapanor and PepT1&#x02010;mediated drug&#x02013;drug interactions</alt-title><alt-title alt-title-type="left-running-head">S. Johansson et al.</alt-title></title-group><contrib-group><contrib id="bcp13313-cr-0001" contrib-type="author"><name><surname>Johansson</surname><given-names>Susanne</given-names></name><xref ref-type="aff" rid="bcp13313-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bcp13313-cr-0002" contrib-type="author" corresp="yes"><name><surname>Rosenbaum</surname><given-names>David P.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9371-391X</contrib-id><address><email>drosenbaum@ardelyx.com</email></address><xref ref-type="aff" rid="bcp13313-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bcp13313-cr-0003" contrib-type="author"><name><surname>Palm</surname><given-names>Johan</given-names></name><xref ref-type="aff" rid="bcp13313-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bcp13313-cr-0004" contrib-type="author"><name><surname>Stefansson</surname><given-names>Bergur</given-names></name><xref ref-type="aff" rid="bcp13313-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bcp13313-cr-0005" contrib-type="author"><name><surname>Knutsson</surname><given-names>Mikael</given-names></name><xref ref-type="aff" rid="bcp13313-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="bcp13313-cr-0006" contrib-type="author"><name><surname>Lisbon</surname><given-names>Eleanor A.</given-names></name><xref ref-type="aff" rid="bcp13313-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bcp13313-cr-0007" contrib-type="author"><name><surname>Hilgendorf</surname><given-names>Constanze</given-names></name><xref ref-type="aff" rid="bcp13313-aff-0007">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="bcp13313-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Quantitative Clinical Pharmacology, Innovative Medicines and Early Development Biotech Unit</named-content>
+<institution>AstraZeneca</institution>
+<named-content content-type="city">M&#x000f6;lndal</named-content>
+<country country="SE">Sweden</country>
+</aff><aff id="bcp13313-aff-0002" content-type="private-address">
+<label><sup>2</sup></label>
+<institution>Ardelyx Inc.</institution>
+<named-content content-type="city">Fremont</named-content>
+<named-content content-type="country-part">CA</named-content>
+<country country="US">USA</country>
+</aff><aff id="bcp13313-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Product Development, Pharmaceutical Technology &#x00026; Development, Operations</named-content>
+<institution>AstraZeneca</institution>
+<named-content content-type="city">M&#x000f6;lndal</named-content>
+<country country="SE">Sweden</country>
+</aff><aff id="bcp13313-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Cardiovascular Metabolic Diseases, Global Medicines Development</named-content>
+<institution>AstraZeneca</institution>
+<named-content content-type="city">M&#x000f6;lndal</named-content>
+<country country="SE">Sweden</country>
+</aff><aff id="bcp13313-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Biometrics &#x00026; Information Sciences, Global Medicines Development</named-content>
+<institution>AstraZeneca</institution>
+<named-content content-type="city">M&#x000f6;lndal</named-content>
+<country country="SE">Sweden</country>
+</aff><aff id="bcp13313-aff-0006" content-type="private-address">
+<label><sup>6</sup></label>
+<institution>QuintilesIMS</institution>
+<named-content content-type="city">Overland Park</named-content>
+<named-content content-type="country-part">KS</named-content>
+<country country="US">USA</country>
+</aff><aff id="bcp13313-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Drug Metabolism and Pharmacokinetics, Cardiovascular and Metabolic Diseases, Innovative Medicines and Early Development Biotech Unit</named-content>
+<institution>AstraZeneca</institution>
+<named-content content-type="city">M&#x000f6;lndal</named-content>
+<country country="SE">Sweden</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence<break/>
+David P Rosenbaum, Ardelyx Inc., 34175 Ardenwood Blvd, Fremont, CA 94555, USA.<break/>
+Tel.: +1 510 745 1752<break/>
+Fax: +1 866 457 7850<break/>
+E&#x02010;mail: <email>drosenbaum@ardelyx.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>31</day><month>5</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2017</year></pub-date><pub-date pub-type="pmc-release"><day>31</day><month>5</month><year>2017</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>83</volume><issue>9</issue><issue-id pub-id-type="doi">10.1111/bcp.v83.9</issue-id><fpage>2008</fpage><lpage>2014</lpage><history><date date-type="received"><day>20</day><month>9</month><year>2016</year></date><date date-type="rev-recd"><day>06</day><month>4</month><year>2017</year></date><date date-type="accepted"><day>18</day><month>4</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 The British Pharmacological Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. British Journal of Clinical Pharmacology published by John Wiley &#x00026; Sons Ltd on behalf of British Pharmacological Society.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BCP-83-2008.pdf"/><abstract><sec id="bcp13313-sec-0001"><title>Aim</title><p>Tenapanor (RDX5791/AZD1722), an inhibitor of gastrointestinal Na<sup>+</sup>/H<sup>+</sup> exchanger NHE3, is being evaluated for the treatment of patients with constipation&#x02010;predominant irritable bowel syndrome and the treatment of hyperphosphataemia in patients with chronic kidney disease on dialysis. By reducing intestinal H<sup>+</sup> secretion, inhibition of NHE3 by tenapanor could indirectly affect H<sup>+</sup>&#x02010;coupled transporter activity, leading to drug&#x02013;drug interactions. We investigated the effect of tenapanor on the activity of the H<sup>+</sup>&#x02010;coupled peptide transporter PepT1 via assessment of the pharmacokinetics of cefadroxil &#x02013; a compound transported by PepT1 &#x02013; in healthy volunteers.</p></sec><sec id="bcp13313-sec-0002"><title>Methods</title><p>In this open&#x02010;label, two&#x02010;period crossover, phase 1 study (NCT02140281), 28 volunteers received in random order: a single dose of cefadroxil 500 mg for 1 day; and tenapanor 15 mg twice daily over 4 days followed by single doses of both cefadroxil 500 mg and tenapanor 15 mg on day 5. There was a 4&#x02010;day washout between treatment periods.</p></sec><sec id="bcp13313-sec-0003"><title>Results</title><p>Cefadroxil exposure was similar when administered alone or in combination with tenapanor {geometric least&#x02010;squares mean ratios [(cefadroxil&#x000a0;+&#x000a0;tenapanor)/cefadroxil] (90% confidence interval): area under the concentration&#x02013;time curve 93.3 (90.6&#x02013;96.0)%; maximum concentration in plasma 95.9 (89.8&#x02013;103)%}. Tenapanor treatment caused a softening of stool consistency and an increase in stool frequency, consistent with its expected pharmacodynamic effect. No safety concerns were identified and tenapanor was not detected in plasma.</p></sec><sec id="bcp13313-sec-0004"><title>Conclusions</title><p>These results suggest that tenapanor 15 mg twice daily does not have a clinically relevant impact on the activity of the H<sup>+</sup>&#x02010;coupled transporter PepT1 in humans. This may guide future research on drug&#x02013;drug interactions involving NHE3 inhibitors.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bcp13313-kwd-0001">cefadroxil</kwd><kwd id="bcp13313-kwd-0002">drug interactions</kwd><kwd id="bcp13313-kwd-0003">PepT1</kwd><kwd id="bcp13313-kwd-0004">sodium&#x02013;hydrogen exchanger 3</kwd><kwd id="bcp13313-kwd-0005">tenapanor</kwd></kwd-group><funding-group><award-group><funding-source>AstraZeneca</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="1"/><page-count count="7"/><word-count count="3629"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bcp13313</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.9 mode:remove_FC converted:04.09.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="bcp13313-cit-0000">
+<string-name>
+<surname>Johansson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rosenbaum</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name>
+<surname>Palm</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Stefansson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Knutsson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lisbon</surname>, <given-names>E. A.</given-names>
+</string-name>, and <string-name>
+<surname>Hilgendorf</surname>, <given-names>C.</given-names>
+</string-name> (<year>2017</year>) <article-title>Tenapanor administration and the activity of the H<sup>+</sup>&#x02010;coupled transporter PepT1 in healthy volunteers</article-title>. <source>Br J Clin Pharmacol</source>, <volume>83</volume>: <fpage>2008</fpage>&#x02013;<lpage>2014</lpage>. doi: <ext-link ext-link-type="doi" xlink:href="10.1111/bcp.13313">10.1111/bcp.13313</ext-link>.<pub-id pub-id-type="pmid">28432691</pub-id></mixed-citation>
+</p></notes></front><body><sec id="bcp13313-sec-0005"><title>What is Already Known about this Subject</title><p>
+<list list-type="bullet" id="bcp13313-list-0001"><list-item id="bcp13313-li-0001"><p>Gastrointestinal NHE3 indirectly affects intestinal H<sup>+</sup>&#x02010;coupled transporters.</p></list-item><list-item id="bcp13313-li-0002"><p>Tenapanor, a locally&#x02010;acting, minimally&#x02010;absorbed NHE3 inhibitor, is being investigated for the treatment of patients with IBS&#x02010;C and for the treatment of hyperphosphataemia in patients with chronic kidney disease on dialysis.</p></list-item><list-item id="bcp13313-li-0003"><p>Cefadroxil, a &#x003b2;&#x02010;lactam antibiotic, is transported by the H<sup>+</sup>&#x02010;coupled transporter PepT1.</p></list-item></list>
+</p></sec><sec id="bcp13313-sec-0006"><title>What this Study Adds</title><p>
+<list list-type="bullet" id="bcp13313-list-0002"><list-item id="bcp13313-li-0004"><p>Repeated oral dosing of tenapanor did not have a clinically relevant effect on the pharmacokinetics of the model PepT1&#x02010;transported drug cefadroxil in healthy volunteers.</p></list-item><list-item id="bcp13313-li-0005"><p>This suggests that pharmacological inhibition of NHE3 by tenapanor is unlikely to have an impact on uptake of drugs mediated by the H<sup>+</sup>&#x02010;coupled transporter PepT1 in humans.</p></list-item></list>
+</p></sec><sec id="bcp13313-sec-0007"><title>Tables of Links</title><p>
+<table-wrap id="nlm-table-wrap-1" xml:lang="en" orientation="portrait" position="anchor"><table frame="hsides" rules="groups"><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">TARGETS</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Transporters</bold>
+<xref rid="bcp13313-bib-0002" ref-type="ref">2</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=181#950">NHE3</ext-link>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=187#984">PepT1</ext-link>
+</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">LIGANDS</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4831">Cefadroxil</ext-link>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=8449">Tenapanor</ext-link>
+</td></tr></tbody></table><table-wrap-foot><fn id="bcp13313-note-0001"><p>These Tables list key protein targets and ligands in this article that are hyperlinked to corresponding entries in <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org">http: //www.guidetopharmacology.org</ext-link>, the common portal for data from the IUPHAR/BPS Guide to PHARMACOLOGY <xref rid="bcp13313-bib-0001" ref-type="ref">1</xref>, and are permanently archived in the Concise Guide to PHARMACOLOGY 2015/16 <xref rid="bcp13313-bib-0002" ref-type="ref">2</xref>.</p></fn></table-wrap-foot></table-wrap>
+</p></sec><sec id="bcp13313-sec-0008"><title>
+<bold>Introduction</bold>
+</title><p>Sodium/hydrogen (Na<sup>+</sup>/H<sup>+</sup>) exchanger isoform 3 (NHE3) <xref rid="bcp13313-bib-0003" ref-type="ref">3</xref> plays an important role in sodium transport and fluid homeostasis in the gastrointestinal tract <xref rid="bcp13313-bib-0004" ref-type="ref">4</xref>, <xref rid="bcp13313-bib-0005" ref-type="ref">5</xref>. Tenapanor (RDX5791, AZD1722) is a minimally&#x02010;absorbed, highly&#x02010;selective, small&#x02010;molecule inhibitor of gastrointestinal NHE3 that reduces the uptake of dietary sodium and phosphate <xref rid="bcp13313-bib-0003" ref-type="ref">3</xref>, <xref rid="bcp13313-bib-0006" ref-type="ref">6</xref>. Tenapanor is currently in development for the treatment of patients with constipation&#x02010;predominant irritable bowel syndrome (IBS&#x02010;C) (<ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">ClinicalTrials.gov</ext-link> identifiers: NCT01923428 <xref rid="bcp13313-bib-0007" ref-type="ref">7</xref>, NCT02621892 <xref rid="bcp13313-bib-0008" ref-type="ref">8</xref>, NCT02686138 <xref rid="bcp13313-bib-0009" ref-type="ref">9</xref>), and for the treatment of hyperphosphataemia in patients with chronic kidney disease (CKD) on dialysis (<ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">ClinicalTrials.gov</ext-link> identifiers: NCT02081534 <xref rid="bcp13313-bib-0010" ref-type="ref">10</xref>, NCT02675998 <xref rid="bcp13313-bib-0011" ref-type="ref">11</xref>).</p><p>An important step in drug development is to identify any possible drug&#x02013;drug interactions. As tenapanor has minimal systemic availability, it is unlikely to have effects outside of the gut. In the small intestine, a region of mildly acidic pH (6.1&#x02013;6.8) adjacent to the luminal surface of the epithelium, known as the acid microclimate, is important for the absorption of molecules from the gut <xref rid="bcp13313-bib-0012" ref-type="ref">12</xref>. A range of H<sup>+</sup>&#x02010;coupled transporter proteins use the acid microclimate as a driving force for the uptake of molecules across the apical brush&#x02010;border membrane <xref rid="bcp13313-bib-0013" ref-type="ref">13</xref>, <xref rid="bcp13313-bib-0014" ref-type="ref">14</xref>. This includes transporters of dipeptides and tripeptides, amino acids, vitamins and organic cations <xref rid="bcp13313-bib-0013" ref-type="ref">13</xref>. NHE3 is present in the apical membrane of gastrointestinal epithelial cells and is expressed more highly in the small intestine than in the colon <xref rid="bcp13313-bib-0015" ref-type="ref">15</xref>, <xref rid="bcp13313-bib-0016" ref-type="ref">16</xref>. NHE3 has a major role in the uptake of dietary sodium from the intestinal lumen, in an electroneutral manner, through proton exchange <xref rid="bcp13313-bib-0004" ref-type="ref">4</xref>. This H<sup>+</sup> secretion into the gut lumen plays an important role in generating and maintaining the acid microclimate <xref rid="bcp13313-bib-0012" ref-type="ref">12</xref>, <xref rid="bcp13313-bib-0017" ref-type="ref">17</xref>. An NHE3 inhibitor could therefore reduce apical H<sup>+</sup> secretion, alter the pH of the microclimate and potentially lead to indirect inhibition of H<sup>+</sup>&#x02010;coupled transporter activity.</p><p>H<sup>+</sup>&#x02010;coupled peptide transporter 1 (PepT1) is highly expressed throughout the small intestine and is localized to the brush&#x02010;border membrane. It is a high&#x02010;capacity transporter, with relatively low affinity for a wide range of compounds <xref rid="bcp13313-bib-0013" ref-type="ref">13</xref>, <xref rid="bcp13313-bib-0018" ref-type="ref">18</xref>. In addition to transporting dipeptides and tripeptides arising from protein digestion, PepT1 has also been shown to transport a range of hydrophilic oral drugs, including many &#x003b2;&#x02010;lactam antibiotics <xref rid="bcp13313-bib-0013" ref-type="ref">13</xref>, <xref rid="bcp13313-bib-0014" ref-type="ref">14</xref>, <xref rid="bcp13313-bib-0019" ref-type="ref">19</xref>. Inhibiting NHE3 activity, by either removing extracellular Na<sup>+</sup> or using the NHE3&#x02010;selective inhibitor S1611, reduces transepithelial peptide transport by PepT1 <italic>in vitro</italic>, suggesting that NHE3 contributes to PepT1 transport activity by maintaining the acid microclimate through Na<sup>+</sup>/H<sup>+</sup> exchange <xref rid="bcp13313-bib-0020" ref-type="ref">20</xref>, <xref rid="bcp13313-bib-0021" ref-type="ref">21</xref>. Therefore, by pharmacologically inhibiting NHE3, tenapanor has the potential to affect PepT1&#x02010;mediated drug uptake.</p><p>Based on these theoretical considerations, this phase 1 study was conducted to assess whether tenapanor has a clinically relevant impact on the transport activity of the H<sup>+</sup>&#x02010;coupled transporter PepT1 in humans, by evaluating the pharmacokinetics of the model PepT1&#x02010;transported drug cefadroxil <xref rid="bcp13313-bib-0014" ref-type="ref">14</xref>, <xref rid="bcp13313-bib-0020" ref-type="ref">20</xref>, <xref rid="bcp13313-bib-0022" ref-type="ref">22</xref> when administered alone or in combination with tenapanor.</p></sec><sec id="bcp13313-sec-0009"><title>
+<bold>Methods</bold>
+</title><p>The drug/molecular target nomenclature used in this article conforms to the Concise Guide to PHARMACOLOGY 2015/16 <xref rid="bcp13313-bib-0002" ref-type="ref">2</xref>.</p><sec id="bcp13313-sec-0010"><title>Study design</title><p>This was a phase 1, randomized, open&#x02010;label, two&#x02010;period crossover study (<ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">ClinicalTrials.gov</ext-link> identifier: NCT02140281) conducted by a contract research organization at a single study centre (Quintiles, Overland Park, KS, USA). The study was conducted in accordance with the Declaration of Helsinki, and International Conference on Harmonisation and Good Clinical Practice guidelines. The study protocol and an amendment were approved by the MidLands Independent Review Board (Overland Park, KS, USA). All study volunteers provided written informed consent before undergoing any study procedure.</p></sec><sec id="bcp13313-sec-0011"><title>Participants</title><p>Healthy men and women, aged 18&#x02013;50&#x000a0;years, with a body mass index of 18&#x02013;30&#x000a0;kg m<sup>&#x02013;2</sup> and weighing 50&#x02013;100&#x000a0;kg, were eligible for enrolment in the study. Women of childbearing potential could not be pregnant and had to use effective contraception during the study period. Men were also required to use effective contraception. Volunteers were required to have suitable veins for cannulation or repeated venepuncture.</p><p>Key exclusion criteria were: a history or presence of gastrointestinal, hepatic or renal disease, or any other condition known to interfere with the absorption, distribution, metabolism or excretion of drugs; loose stools [Bristol Stool Form Scale (BSFS) score of 6 or 7 <xref rid="bcp13313-bib-0023" ref-type="ref">23</xref>] for 2 or more days in the week before study drug administration; use of medications or supplements known to affect stool consistency and/or gastrointestinal motility, including fibre supplements, antidiarrhoeal agents, prokinetic drugs, enemas, probiotic medications or supplements; or salt or electrolyte supplements containing sodium, potassium, chloride or bicarbonate formulations during the week before randomization.</p></sec><sec id="bcp13313-sec-0012"><title>Study treatments</title><p>Following screening, all volunteers underwent two treatments in a 1: 1 randomized sequence (Figure&#x000a0;<xref rid="bcp13313-fig-0001" ref-type="fig">1</xref>): (i) a single oral dose of cefadroxil 500&#x000a0;mg administered in the morning; and (ii) tenapanor 15&#x000a0;mg, administered orally twice daily for 4&#x000a0;days, followed by single doses of both tenapanor 15&#x000a0;mg and cefadroxil 500&#x000a0;mg (administered in the morning) on day 5 (this treatment combination hereafter referred to as cefadroxil&#x000a0;+&#x000a0;tenapanor). There was a washout period of at least 4&#x000a0;days between the two treatment periods.</p><fig fig-type="Figure" xml:lang="en" id="bcp13313-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study design. Participants were admitted to the study centre on the morning of the day before study drug administration (day &#x02013;1) and discharged on the last day of treatment (day 1 or day 5) following sample collection for pharmacokinetic measurements.&#x02005;<sup>a</sup>At least 4&#x000a0;days between the last dose of the first treatment period and the first dose of the second treatment period. b.i.d., twice daily</p></caption><graphic id="nlm-graphic-1" xlink:href="BCP-83-2008-g001"/></fig><p>For each treatment regimen, volunteers were admitted to the study centre on the morning of the day before study drug administration (day &#x02013;1). Volunteers who received cefadroxil alone were discharged on the day of treatment (day 1), after samples had been collected for pharmacokinetic measurements. Those receiving cefadroxil&#x000a0;+&#x000a0;tenapanor were resident at the centre until the end of sample collection on day 5. Volunteers returned to the study centre for follow&#x02010;up assessments 7&#x02013;10&#x000a0;days after administration of the final treatment dose.</p><p>Volunteers underwent an overnight fast of at least 8&#x000a0;h before study drug administration. Cefadroxil and tenapanor were administered 5&#x02013;10&#x000a0;min before meals (breakfast and/or dinner), and all volunteers could consume only the same standardized meals and drinks offered during the residential period.</p></sec><sec id="bcp13313-sec-0013"><title>Pharmacokinetic assessments</title><p>Blood samples were collected predose and 0.5, 1, 1.5, 2, 2.5, 4, 6, 8, 10 and 12&#x000a0;h postdose on day 1 of the cefadroxil treatment period and at the same time points on day 5 of the cefadroxil&#x000a0;+&#x000a0;tenapanor treatment period to assess the pharmacokinetics of cefadroxil. Blood samples collected predose and 1, 2 and 4&#x000a0;h postdose on day 5 were also used to assess plasma concentrations of tenapanor.</p><p>Samples for determination of drug concentration in plasma were analysed by Covance Laboratories Inc. (Madison, WI, USA). Cefadroxil and its deuterated internal standard were isolated from plasma using protein precipitation and analysed using liquid chromatography followed by tandem mass spectrometric detection. Before being used to analyse cefadroxil levels in the study samples, the method was validated in the range 30.0&#x02013;30&#x02005;000&#x000a0;ng ml<sup>&#x02013;1</sup>. Tenapanor and its deuterated internal standard were extracted from samples using liquid&#x02013;liquid extraction. After evaporation under nitrogen, the residue was reconstituted and analysed using liquid chromatography followed by tandem mass spectrometric detection. Before being used to analyse tenapanor concentrations in the samples collected, the method was validated in the range 0.500&#x02013;100&#x000a0;ng ml<sup>&#x02013;1</sup>.</p><p>Pharmacokinetic parameters were derived using standard noncompartmental methods with Phoenix WinNonlin Professional version 6.3 (Pharsight Corp., Mountain View, CA, USA). All pharmacokinetic computations were performed using either this software or SAS&#x000ae; version 9.4 (SAS Institute Inc., Cary, NC, USA). The parameters determined were as follows: the maximum concentration in plasma (<italic>C</italic>
+<sub>max</sub>); area under the concentration&#x02013;time curve in plasma from time zero (predose) to time of last quantifiable concentration (AUC<sub>0&#x02013;<italic>t</italic></sub>), calculated by linear up/log down trapezoidal summation; area under the concentration&#x02013;time curve in plasma from time zero (predose) extrapolated to infinite time (AUC), calculated by linear up/log down trapezoidal summation and extrapolated to infinity by addition of the last quantifiable concentration (<italic>C</italic>
+<sub><italic>t</italic></sub>) divided by the apparent elimination rate constant (&#x003bb;<sub>z</sub>; <italic>i.e.</italic> AUC&#x000a0;=&#x000a0;AUC<sub>0&#x02013;<italic>t</italic></sub>&#x000a0;+&#x000a0;<italic>C</italic>
+<sub><italic>t</italic></sub>/&#x003bb;<sub>z</sub>).</p></sec><sec id="bcp13313-sec-0014"><title>Pharmacodynamic assessments</title><p>Stool frequency and stool consistency (as measured by the BSFS <xref rid="bcp13313-bib-0023" ref-type="ref">23</xref>) were assessed daily on day &#x02013;1 of the first treatment period and on days 1&#x02013;5 of the cefadroxil&#x000a0;+&#x000a0;tenapanor treatment period. Assessments were over 24&#x02010;h intervals following the morning dosing, except for day 5 of cefadroxil&#x000a0;+&#x000a0;tenapanor treatment (12&#x02010;h interval).</p></sec><sec id="bcp13313-sec-0015"><title>Safety assessments</title><p>Safety assessments included vital signs (at screening, on entry to the study clinic on day &#x02013;1, and at the end of each treatment period), physical examinations (at screening and at the end of the second treatment period), clinical laboratory evaluations (clinical chemistry, haematology and urinalysis: at screening, before dosing on day 1 of each treatment period, and at the end of the second treatment period), electrocardiograms (at screening and at the end of each treatment period) and adverse event (AE) monitoring (throughout the study: from screening until the follow&#x02010;up visit).</p></sec><sec id="bcp13313-sec-0016"><title>Statistical analyses</title><p>Pharmacokinetic assessments were summarized using descriptive statistics for all plasma measurements of cefadroxil exposure. The pharmacokinetic analysis set consisted of all volunteers who received cefadroxil 500&#x000a0;mg and provided evaluable pharmacokinetic profiles during either treatment period.</p><p>Following natural log transformation, the observed <italic>C</italic>
+<sub>max</sub>, AUC and AUC<sub>0&#x02013;<italic>t</italic></sub> were analysed separately using a mixed effects analysis of variance model, with sequence, period and treatment as fixed effects, and volunteer nested within sequence as a random effect. The point estimate and 90% confidence interval (CI) for the difference between treatments was constructed and exponentially back&#x02010;transformed to provide point and CI estimates for the ratio of interest ([cefadroxil&#x000a0;+&#x000a0;tenapanor]/cefadroxil).</p><p>Assuming no effect of tenapanor on the pharmacokinetics of cefadroxil and a standard deviation (SD) of 0.3 or less for the change in log&#x02010;transformed pharmacokinetic variables, a sample size of 24 volunteers was expected to provide a 90% probability of the two&#x02010;sided 90% CI for the ratio ([cefadroxil&#x000a0;+&#x000a0;tenapanor]/cefadroxil) being completely contained within 80&#x02013;125%. The study therefore aimed to include 28 volunteers.</p><p>Summary statistics were determined for pharmacodynamic evaluations of stool frequency and stool consistency. The pharmacodynamic (i.e. stool) analysis and safety analysis sets included all volunteers who received at least one dose of tenapanor or cefadroxil and had at least one postdose measurement. All statistical analyses were performed using SAS version 9.4.</p></sec></sec><sec id="bcp13313-sec-0017"><title>
+<bold>Results</bold>
+</title><sec id="bcp13313-sec-0018"><title>Study participants</title><p>Twenty&#x02010;eight volunteers (18 men) were enrolled in this study. All volunteers completed the study, receiving all treatments according to study protocol, and were included in pharmacokinetic and safety analyses. One participant was excluded from pharmacodynamic (stool) analysis, as only predose data were available. Mean&#x000a0;&#x000b1;&#x000a0;SD age of the volunteers was 32&#x000a0;&#x000b1;&#x000a0;10&#x000a0;years (range 19&#x02013;49&#x000a0;years) and mean&#x000a0;&#x000b1;&#x000a0;SD body mass index was 26.0&#x000a0;&#x000b1;&#x000a0;2.8&#x000a0;kg m<sup>&#x02013;2</sup> (range 19.4&#x02013;29.8&#x000a0;kg m<sup>&#x02013;2</sup>).</p></sec><sec id="bcp13313-sec-0019"><title>Pharmacokinetics</title><p>Cefadroxil plasma concentration&#x02013;time curves were similar whether cefadroxil was administered alone or in combination with tenapanor (Figure&#x000a0;<xref rid="bcp13313-fig-0002" ref-type="fig">2</xref>). Pharmacokinetic parameters of cefadroxil were also similar when cefadroxil was given alone or in combination with tenapanor [geometric least&#x02010;squares mean ratio (90% CI), (cefadroxil&#x000a0;+&#x000a0;tenapanor)/cefadroxil: AUC, 93.3 (90.6&#x02013;96.0)%; AUC<sub>0&#x02013;<italic>t</italic></sub>, 93.4 (90.7&#x02013;96.1)%; <italic>C</italic>
+<sub>max</sub>, 95.9 (89.8&#x02013;102.5)%; Table&#x000a0;<xref rid="bcp13313-tbl-0001" ref-type="table-wrap">1</xref>]. Median time to maximum plasma concentration was 1.5&#x000a0;h and the geometric mean of the apparent terminal half&#x02010;life was approximately 2&#x000a0;h for both cefadroxil and cefadroxil&#x000a0;+&#x000a0;tenapanor treatments. The plasma concentration of tenapanor was below the lower limit of quantitation (0.5&#x000a0;ng ml<sup>&#x02013;1</sup>) in all samples collected and analysed during the study.</p><fig fig-type="Figure" xml:lang="en" id="bcp13313-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Cefadroxil plasma concentration <italic>vs.</italic> time following cefadroxil administration alone and in combination with tenapanor. Data shown as geometric mean (&#x000b1; standard deviation). Cefadroxil: a single dose of cefadroxil 500&#x000a0;mg administered on the morning of day 1. Cefadroxil&#x000a0;+&#x000a0;tenapanor: tenapanor 15&#x000a0;mg twice daily administered from day 1 to day 4, followed by single doses of both tenapanor 15&#x000a0;mg and cefadroxil 500&#x000a0;mg, administered concurrently on the morning of day 5</p></caption><graphic id="nlm-graphic-3" xlink:href="BCP-83-2008-g002"/></fig><table-wrap id="bcp13313-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Pharmacokinetic parameters of cefadroxil when administered alone or in combination with tenapanor</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Cefadroxil (<italic>n</italic>&#x000a0;=&#x000a0;28)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Cefadroxil&#x000a0;+&#x000a0;tenapanor (<italic>n</italic>&#x000a0;=&#x000a0;28)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Geometric least&#x02010;squares mean ratio,<xref ref-type="fn" rid="bcp13313-note-0003">a</xref> % (90% CI)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>AUC (ng h ml</bold>
+<sup><bold>&#x02013;1</bold></sup>
+<bold>)</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">53&#x02009;800 (16.8)</td><td align="center" valign="top" rowspan="1" colspan="1">50&#x02009;200 (16.6)</td><td align="center" valign="top" rowspan="1" colspan="1">93.3 (90.6&#x02013;96.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>AUC</bold>
+<sub><bold>0&#x02013;</bold><italic><bold>t</bold></italic></sub>
+<bold>(ng h ml</bold>
+<sup><bold>&#x02013;1</bold></sup>
+<bold>)</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">52&#x02009;700 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">49&#x02009;200 (16.4)</td><td align="center" valign="top" rowspan="1" colspan="1">93.4 (90.7&#x02013;96.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>C</italic></bold>
+<sub><bold>max</bold></sub>
+<bold>(ng ml</bold>
+<sup><bold>&#x02013;1</bold></sup>
+<bold>)</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">14&#x02009;800 (23.2)</td><td align="center" valign="top" rowspan="1" colspan="1">14&#x02009;200 (21.6)</td><td align="center" valign="top" rowspan="1" colspan="1">95.9 (89.8&#x02013;102.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>t</italic></bold>
+<sub><bold>max</bold></sub>
+<bold>(h)</bold>
+<xref ref-type="fn" rid="bcp13313-note-0004">b</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1.5 (1.0&#x02013;4.0)</td><td align="center" valign="top" rowspan="1" colspan="1">1.5 (1.0&#x02013;4.0)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>t</italic></bold>
+<sub><bold>&#x000bd;</bold></sub>
+<bold>(h)</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">2.0 (11.1)</td><td align="center" valign="top" rowspan="1" colspan="1">2.1 (11.8)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="bcp13313-note-0002"><p>Unless otherwise stated, data are shown as geometric mean (GCV, %). AUC, area under the plasma concentration&#x02013;time curve from time zero to infinity; AUC<sub>0&#x02013;<italic>t</italic></sub>, area under the plasma concentration&#x02013;time curve from time zero to the last quantifiable concentration; CI, confidence interval; <italic>C</italic>
+<sub>max</sub>, maximum observed plasma concentration; GCV, geometric coefficient of variation; <italic>t</italic>
+<sub>max</sub>, time to <italic>C</italic>
+<sub>max</sub>; <italic>t</italic>
+<sub>&#x000bd;</sub>, apparent terminal half&#x02010;life.</p></fn><fn id="bcp13313-note-0003"><label>a</label><p>(cefadroxil&#x000a0;+&#x000a0;tenapanor)/cefadroxil.</p></fn><fn id="bcp13313-note-0004"><label>b</label><p>Data are shown as median (range).</p></fn></table-wrap-foot></table-wrap></sec><sec id="bcp13313-sec-0020"><title>Stool frequency and consistency</title><p>Stool frequency increased with tenapanor treatment, from a predose mean&#x000a0;&#x000b1;&#x000a0;SD of 1.4&#x000a0;&#x000b1;&#x000a0;0.5 bowel movements per day, measured on the day before study drug administration (day &#x02013;1), to a mean&#x000a0;&#x000b1;&#x000a0;SD of 1.8&#x000a0;&#x000b1;&#x000a0;0.8 bowel movements per day for the entire 5&#x02010;day tenapanor dosing period. Mean&#x000a0;&#x000b1;&#x000a0;SD BSFS scores increased from 3.7&#x000a0;&#x000b1;&#x000a0;1.0 on day &#x02013;1 to 5.4&#x000a0;&#x000b1;&#x000a0;1.2 for the overall tenapanor dosing period.</p></sec><sec id="bcp13313-sec-0021"><title>Safety and tolerability</title><p>Tenapanor was generally well tolerated and no safety concerns were identified. No serious AEs or discontinuations due to AEs occurred during the study. Overall, 11 volunteers reported AEs, all of which were mild in intensity and resolved. Almost all AEs were gastrointestinal in nature. Ten volunteers reported AEs during administration of tenapanor 15&#x000a0;mg twice daily (days 1&#x02013;4), while one volunteer reported an AE following cefadroxil&#x000a0;+&#x000a0;tenapanor administration (day 5). The most common AEs (reported by at least two volunteers) were abdominal distension (<italic>n</italic>&#x000a0;=&#x000a0;4), abdominal pain (<italic>n</italic>&#x000a0;=&#x000a0;4), abnormal gastrointestinal sounds (<italic>n</italic>&#x000a0;=&#x000a0;3), diarrhoea (<italic>n</italic>&#x000a0;=&#x000a0;2) and flatulence (<italic>n</italic>&#x000a0;=&#x000a0;2). No trends or clinically relevant changes in clinical laboratory results, vital signs, electrocardiograms or physical examinations were observed during the study.</p></sec></sec><sec id="bcp13313-sec-0022"><title>
+<bold>Discussion</bold>
+</title><p>This phase 1 study aimed to investigate whether gastrointestinal NHE3 inhibition by tenapanor has a clinically relevant impact on the transport activity of the H<sup>+</sup>&#x02010;coupled transporter PepT1 in humans. NHE3 inhibition has been suggested to reduce H<sup>+</sup> secretion into the gut, potentially affecting the acid microclimate and thereby reducing H<sup>+</sup>&#x02010;coupled transporter activity <xref rid="bcp13313-bib-0020" ref-type="ref">20</xref>, <xref rid="bcp13313-bib-0021" ref-type="ref">21</xref>. PepT1 is involved in the uptake of several drugs <xref rid="bcp13313-bib-0014" ref-type="ref">14</xref>, <xref rid="bcp13313-bib-0018" ref-type="ref">18</xref>, <xref rid="bcp13313-bib-0019" ref-type="ref">19</xref>, and apical dipeptide transport and uptake assays across a range of extracellular pH values suggest that the optimal transport activity of PepT1 occurs at pH&#x000a0;6.5, which is within the <italic>physiological</italic> pH range of the acid microclimate at the mucosal surface of the intestine (pH&#x000a0;6.1&#x02013;6.8). To test whether NHE3 inhibition by tenapanor affects PepT1 transport activity, the pharmacokinetics of cefadroxil (a compound transported by PepT1) were compared when cefadroxil was administered alone and in combination with tenapanor in 28 volunteers. Our results suggest that repeated dosing with tenapanor 15&#x000a0;mg twice daily has no clinically relevant effect on PepT1 activity.</p><p>Our study was performed in line with regulatory guidance for transporter&#x02010;based <italic>in vivo</italic> drug&#x02013;drug interaction studies <xref rid="bcp13313-bib-0024" ref-type="ref">24</xref>, <xref rid="bcp13313-bib-0025" ref-type="ref">25</xref>. The tenapanor dose of 15&#x000a0;mg twice daily is at the lower end of the range tested so far for the treatment of patients with IBS&#x02010;C or the treatment of hyperphosphataemia in patients with CKD on dialysis <xref rid="bcp13313-bib-0007" ref-type="ref">7</xref>, <xref rid="bcp13313-bib-0010" ref-type="ref">10</xref>. Additional data may be needed to confirm whether the lack of effect on cefadroxil absorption observed in our study is also seen at higher doses of tenapanor. Tenapanor was administered for 4&#x000a0;days to ensure that the pharmacodynamic effects reached a steady state before administration of a therapeutically relevant dose of cefadroxil. <italic>In vitro</italic> studies have convincingly shown that cefadroxil has moderate affinity for, and is transported by, PepT1 <xref rid="bcp13313-bib-0019" ref-type="ref">19</xref>. Furthermore, studies in knockout mice indicate that PepT1 plays a key role in the rate and extent of absorption of cefadroxil following oral administration <xref rid="bcp13313-bib-0022" ref-type="ref">22</xref>. Cefadroxil is therefore a recommended agent for studies examining the pharmaceutical relevance of H<sup>+</sup>&#x02010;coupled peptide transporters <xref rid="bcp13313-bib-0019" ref-type="ref">19</xref>, <xref rid="bcp13313-bib-0026" ref-type="ref">26</xref>.</p><p>Pharmacological activity of tenapanor was evident owing to changes in stool consistency and frequency, consistent with NHE3 inhibition and previous findings in healthy volunteers <xref rid="bcp13313-bib-0027" ref-type="ref">27</xref>. In mouse models, deletion of the NHE3 gene results in severe impairment of sodium&#x02013;fluid volume homeostasis with subsequent chronic diarrhoea <xref rid="bcp13313-bib-0004" ref-type="ref">4</xref>, and a decrease in calcium absorption <xref rid="bcp13313-bib-0028" ref-type="ref">28</xref>. However, our study showed that pharmacological inhibition of NHE3 in humans resulted in a phenotype nowhere near as extreme as that observed in NHE3 knockout mouse models. The ratios of plasma cefadroxil AUC, AUC<sub>0&#x02013;<italic>t</italic></sub> and <italic>C</italic>
+<sub>max</sub> for cefadroxil alone and cefadroxil in combination with tenapanor were within the bioequivalence range (80&#x02013;125%), indicating that there were no clinically significant differences in cefadroxil uptake between the two treatments.</p><p>Other clinical studies that have investigated the effect of changes in the acid microclimate on PepT1 transport activity have shown inconsistent results <xref rid="bcp13313-bib-0029" ref-type="ref">29</xref>, <xref rid="bcp13313-bib-0030" ref-type="ref">30</xref>. Amiloride, an inhibitor of Na<sup>+</sup>/H<sup>+</sup> exchange, was found to decrease the gastrointestinal uptake of the &#x003b2;&#x02010;lactam antibiotic amoxicillin in healthy volunteers <xref rid="bcp13313-bib-0029" ref-type="ref">29</xref>. By contrast, in another study, jejunal perfusion with amiloride and amoxicillin in healthy volunteers did not affect amoxicillin absorption in the gut <xref rid="bcp13313-bib-0030" ref-type="ref">30</xref>. Our study showed no evidence of an indirect effect of tenapanor on PepT1 transport activity. This lack of effect suggests that inhibition of gastrointestinal NHE3 by tenapanor may not be sufficient to alter the pH of the acid microclimate to an extent that could significantly affect PepT1 function. Although the reported pH of the acid microclimate varies across studies and in different regions of the intestine, values for the proximal jejunum typically range from pH&#x000a0;6.1 to 6.8 <xref rid="bcp13313-bib-0031" ref-type="ref">31</xref>, <xref rid="bcp13313-bib-0032" ref-type="ref">32</xref>, <xref rid="bcp13313-bib-0033" ref-type="ref">33</xref>, <xref rid="bcp13313-bib-0034" ref-type="ref">34</xref>, <xref rid="bcp13313-bib-0035" ref-type="ref">35</xref>. <italic>In vitro</italic> studies have shown that, although PepT1 activity is reduced as the pH increases, PepT1 is still active at pH&#x000a0;7.0 <xref rid="bcp13313-bib-0020" ref-type="ref">20</xref>. It therefore seems unlikely that any increase in the pH of the acid microclimate as a consequence of tenapanor inhibition of NHE3 would be sufficient to cause complete loss of PepT1 activity. Furthermore, most H<sup>+</sup>&#x02010;coupled transporters are spread over a large area of the intestine and are high&#x02010;capacity and low&#x02010;affinity transporters, making it difficult to inhibit the transport of any one particular compound effectively and hence difficult to create a relevant drug&#x02013;drug interaction. PepT1 is considerably more abundant in the small intestine than in the colon <xref rid="bcp13313-bib-0036" ref-type="ref">36</xref>; however, as this expression pattern is similar to that of NHE3 <xref rid="bcp13313-bib-0015" ref-type="ref">15</xref>, <xref rid="bcp13313-bib-0016" ref-type="ref">16</xref>, it seems unlikely that differences in the relative regional expression of gastrointestinal PepT1 and NHE3 account for the lack of drug&#x02013;drug interaction seen here. Throughout our phase 3 programme for tenapanor we are investigating any data trends that may reflect drug&#x02013;drug interactions; none have been identified to date.</p><p>In conclusion, our study found that repeated dosing of tenapanor 15&#x000a0;mg twice daily had no clinically relevant effect on cefadroxil exposure in humans. This suggests that pharmacological inhibition of NHE3 by tenapanor is unlikely to have any clinically relevant impact on the activity of the H<sup>+</sup>&#x02010;coupled transporter PepT1 in the gut. This may guide future research on drug&#x02013;drug interactions during the development of NHE3 inhibitors.</p></sec><sec id="bcp13313-sec-0024"><title>
+<bold>Competing Interests</bold>
+</title><p>S.J. and C.H. are employees of, and have ownership interest in, AstraZeneca. J.P., B.S. and M.K. are employees of AstraZeneca. D.P.R. is an employee of, and has ownership interest in, Ardelyx Inc. E.L. is an employee of Quintiles. This study was funded by AstraZeneca.</p><p>
+<italic>We thank all volunteers and investigators. Medical writing support was provided by Steven Inglis (PhD) and Sarah Graham (PhD) from PharmaGenesis London, London, UK, and was funded by AstraZeneca Gothenburg, M&#x000f6;lndal, Sweden and Ardelyx Inc., Fremont, CA, USA.</italic>
+</p></sec><sec id="bcp13313-sec-0025"><title>
+<bold>Contributors</bold>
+</title><p>S.J., J.P. and C.H. designed the research. E.L. was the principal investigator of the study. M.K. was responsible for the statistical analyses. All authors contributed to the interpretation of the results and the writing of the manuscript.</p></sec></body><back><ref-list id="bcp13313-bibl-0001" content-type="cited-references"><title>
+<bold>References</bold>
+</title><ref id="bcp13313-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="bcp13313-cit-0002">
+<string-name>
+<surname>Southan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sharman</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Benson</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Faccenda</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Pawson</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>
+<given-names>SPH</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>The IUPHAR/BPS guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands</article-title>. <source>Nucl Acids Res</source>
+<year>2016</year>; <volume>44</volume>: <fpage>D1054</fpage>&#x02013;<lpage>D1D68</lpage>.<pub-id pub-id-type="pmid">26464438</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="bcp13313-cit-0003">
+<string-name>
+<surname>Alexander</surname>
+<given-names>SPH</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Marrion</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Benson</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Faccenda</surname>
+<given-names>E</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>The Concise guide to PHARMACOLOGY 2015/16: Transporters</article-title>. <source>Br J Pharmacol</source>
+<year>2015</year>; <volume>172</volume>: <fpage>6110</fpage>&#x02013;<lpage>6202</lpage>.<pub-id pub-id-type="pmid">26650446</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="bcp13313-cit-0004">
+<string-name>
+<surname>Spencer</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Labonte</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Rosenbaum</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Plato</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Carreras</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Leadbetter</surname>
+<given-names>MR</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Intestinal inhibition of the Na<sup>+</sup>/H<sup>+</sup> exchanger 3 prevents cardiorenal damage in rats and inhibits Na<sup>+</sup> uptake in humans</article-title>. <source>Sci Transl Med</source>
+<year>2014</year>; <volume>6</volume>: <fpage>227ra36</fpage>.</mixed-citation></ref><ref id="bcp13313-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="bcp13313-cit-0005">
+<string-name>
+<surname>Schultheis</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Meneton</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Soleimani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gawenis</surname>
+<given-names>LR</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Renal and intestinal absorptive defects in mice lacking the NHE3 Na<sup>+</sup>/H<sup>+</sup> exchanger</article-title>. <source>Nat Genet</source>
+<year>1998</year>; <volume>19</volume>: <fpage>282</fpage>&#x02013;<lpage>285</lpage>.<pub-id pub-id-type="pmid">9662405</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="bcp13313-cit-0006">
+<string-name>
+<surname>Tse</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Brant</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Pouyssegur</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Donowitz</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Cloning and sequencing of a rabbit cDNA encoding an intestinal and kidney&#x02010;specific Na<sup>+</sup>/H<sup>+</sup> exchanger isoform (NHE&#x02010;3)</article-title>. <source>J Biol Chem</source>
+<year>1992</year>; <volume>267</volume>: <fpage>9340</fpage>&#x02013;<lpage>9346</lpage>.<pub-id pub-id-type="pmid">1374392</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="bcp13313-cit-0007">
+<string-name>
+<surname>Labonte</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Carreras</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Leadbetter</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Kozuka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kohler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Koo&#x02010;McCoy</surname>
+<given-names>S</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Gastrointestinal inhibition of sodium&#x02010;hydrogen exchanger 3 reduces phosphorus absorption and protects against vascular calcification in CKD</article-title>. <source>J Am Soc Nephrol</source>
+<year>2015</year>; <volume>26</volume>: <fpage>1138</fpage>&#x02013;<lpage>1149</lpage>.<pub-id pub-id-type="pmid">25404658</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="bcp13313-cit-0008">
+<string-name>
+<surname>Chey</surname>
+<given-names>WD</given-names>
+</string-name>, <string-name>
+<surname>Lembo</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Rosenbaum</surname>
+<given-names>DP</given-names>
+</string-name>. <article-title>Tenapanor treatment of patients with constipation&#x02010;predominant irritable bowel syndrome: a phase 2, randomized, placebo&#x02010;controlled efficacy and safety trial</article-title>. <source>Am J Gastroenterol</source>
+<year>2017</year>; <volume>112</volume>: <fpage>763</fpage>&#x02013;<lpage>774</lpage>.<pub-id pub-id-type="pmid">28244495</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="bcp13313-cit-0009">
+<article-title>ClinicalTrials.gov</article-title>. A 12&#x02010;week study with a 4&#x02010;week randomized withdrawal period to evaluate the efficacy and safety of tenapanor for the treatment of IBS&#x02010;C (T3MPO&#x02010;1). Available at: <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02621892">https://clinicaltrials.gov/ct2/show/NCT02621892</ext-link>. (last accessed 11 July 2016).</mixed-citation></ref><ref id="bcp13313-bib-0009"><label>9</label><mixed-citation publication-type="miscellaneous" id="bcp13313-cit-0010">
+<article-title>ClinicalTrials.gov</article-title>. A 26&#x02010;week study to evaluate the efficacy and safety of tenapanor in IBS&#x02010;C (T3MPO&#x02010;2). Available at: <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02686138">https://clinicaltrials.gov/ct2/show/NCT02686138</ext-link>. (last accessed 1 June 2016).</mixed-citation></ref><ref id="bcp13313-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="bcp13313-cit-0011">
+<string-name>
+<surname>Block</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Rosenbaum</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Leonsson&#x02010;Zachrisson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>&#x000c5;strand</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Johansson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Knutsson</surname>
+<given-names>M</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Effect of tenapanor on serum phosphate in patients receiving hemodialysis</article-title>. <source>J Am Soc Nephrol</source>
+<year>2017</year>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1681/ASN.2016080855">https://doi.org/10.1681/ASN.2016080855</ext-link>.</mixed-citation></ref><ref id="bcp13313-bib-0011"><label>11</label><mixed-citation publication-type="miscellaneous" id="bcp13313-cit-0012">
+<article-title>ClinicalTrials.Gov.</article-title> An 8&#x02010;week study to evaluate tenapanor in the treatment of hyperphosphatemia in end&#x02010;stage renal disease patients on hemodialysis (ESRD&#x02010;HD). Available at: <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02675998">https://clinicaltrials.gov/ct2/show/NCT02675998</ext-link>. (last accessed 28 June 2016).</mixed-citation></ref><ref id="bcp13313-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="bcp13313-cit-0013">
+<string-name>
+<surname>Thwaites</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>H<sup>+</sup>&#x02010;coupled nutrient, micronutrient and drug transporters in the mammalian small intestine</article-title>. <source>Exp Physiol</source>
+<year>2007</year>; <volume>92</volume>: <fpage>603</fpage>&#x02013;<lpage>619</lpage>.<pub-id pub-id-type="pmid">17468205</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="bcp13313-cit-0014">
+<string-name>
+<surname>Anderson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Thwaites</surname>
+<given-names>DT</given-names>
+</string-name>. <article-title>Hijacking solute carriers for proton&#x02010;coupled drug transport</article-title>. <source>Physiology (Bethesda)</source>
+<year>2010</year>; <volume>25</volume>: <fpage>364</fpage>&#x02013;<lpage>377</lpage>.<pub-id pub-id-type="pmid">21186281</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="bcp13313-cit-0015">
+<string-name>
+<surname>Estudante</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Morais</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Soveral</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Benet</surname>
+<given-names>LZ</given-names>
+</string-name>. <article-title>Intestinal drug transporters: an overview</article-title>. <source>Adv Drug Deliv Rev</source>
+<year>2013</year>; <volume>65</volume>: <fpage>1340</fpage>&#x02013;<lpage>1356</lpage>.<pub-id pub-id-type="pmid">23041352</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="bcp13313-cit-0016">
+<string-name>
+<surname>Brant</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Yun</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Donowitz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tse</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>Cloning, tissue distribution, and functional analysis of the human Na+/N+ exchanger isoform, NHE3</article-title>. <source>Am J Physiol&#x02014;Cell Physiol</source>
+<year>1995</year>; <volume>269</volume>: <fpage>C198</fpage>&#x02013;<lpage>C206</lpage>.</mixed-citation></ref><ref id="bcp13313-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="bcp13313-cit-0017">
+<string-name>
+<surname>Dudeja</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Syed</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Joshi</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Dahdal</surname>
+<given-names>RY</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>
+<given-names>C</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Intestinal distribution of human Na<sup>+</sup>/H<sup>+</sup> exchanger isoforms NHE&#x02010;1, NHE&#x02010;2, and NHE&#x02010;3 mRNA</article-title>. <source>Am J Physiol&#x02014;Gastrointest Liver Physiol</source>
+<year>1996</year>; <volume>271</volume>: <fpage>G483</fpage>&#x02013;<lpage>GG93</lpage>.</mixed-citation></ref><ref id="bcp13313-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="bcp13313-cit-0018">
+<string-name>
+<surname>Watanabe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kubo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tsuji</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Na<sup>+</sup>/H<sup>+</sup> exchanger 3 affects transport property of H<sup>+</sup>/oligopeptide transporter 1</article-title>. <source>Drug Metab Pharmacokinet</source>
+<year>2005</year>; <volume>20</volume>: <fpage>443</fpage>&#x02013;<lpage>451</lpage>.<pub-id pub-id-type="pmid">16415530</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="bcp13313-cit-0019">
+<string-name>
+<surname>Brandsch</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Knutter</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Bosse&#x02010;Doenecke</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Pharmaceutical and pharmacological importance of peptide transporters</article-title>. <source>J Pharm Pharmacol</source>
+<year>2008</year>; <volume>60</volume>: <fpage>543</fpage>&#x02013;<lpage>585</lpage>.<pub-id pub-id-type="pmid">18416933</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="bcp13313-cit-0020">
+<string-name>
+<surname>Brandsch</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Transport of drugs by proton&#x02010;coupled peptide transporters: pearls and pitfalls</article-title>. <source>Expert Opin Drug Metab Toxicol</source>
+<year>2009</year>; <volume>5</volume>: <fpage>887</fpage>&#x02013;<lpage>905</lpage>.<pub-id pub-id-type="pmid">19519280</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="bcp13313-cit-0021">
+<string-name>
+<surname>Kennedy</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Leibach</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>Ganapathy</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Thwaites</surname>
+<given-names>DT</given-names>
+</string-name>. <article-title>Optimal absorptive transport of the dipeptide glycylsarcosine is dependent on functional Na<sup>+</sup>/H<sup>+</sup> exchange activity</article-title>. <source>Pflugers Arch</source>
+<year>2002</year>; <volume>445</volume>: <fpage>139</fpage>&#x02013;<lpage>146</lpage>.<pub-id pub-id-type="pmid">12397398</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="bcp13313-cit-0022">
+<string-name>
+<surname>Thwaites</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Kennedy</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Raldua</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Mendoza</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Bladen</surname>
+<given-names>CL</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>H/dipeptide absorption across the human intestinal epithelium is controlled indirectly via a functional Na/H exchanger</article-title>. <source>Gastroenterology</source>
+<year>2002</year>; <volume>122</volume>: <fpage>1322</fpage>&#x02013;<lpage>1333</lpage>.<pub-id pub-id-type="pmid">11984519</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="bcp13313-cit-0023">
+<string-name>
+<surname>Posada</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>DE</given-names>
+</string-name>. <article-title>
+<italic>In vivo</italic> absorption and disposition of cefadroxil after escalating oral doses in wild&#x02010;type and PepT1 knockout mice</article-title>. <source>Pharm Res</source>
+<year>2013</year>; <volume>30</volume>: <fpage>2931</fpage>&#x02013;<lpage>2939</lpage>.<pub-id pub-id-type="pmid">23959853</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="bcp13313-cit-0024">
+<string-name>
+<surname>Lewis</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Heaton</surname>
+<given-names>KW</given-names>
+</string-name>. <article-title>Stool form scale as a useful guide to intestinal transit time</article-title>. <source>Scand J Gastroenterol</source>
+<year>1997</year>; <volume>32</volume>: <fpage>920</fpage>&#x02013;<lpage>924</lpage>.<pub-id pub-id-type="pmid">9299672</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0024"><label>24</label><mixed-citation publication-type="miscellaneous" id="bcp13313-cit-0025">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>Guideline on the investigation of drug interactions</article-title>. CPMP/EWP/560/95/Rev. 1 Corr. 2012. Available at: <ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2012/07/WC500129606.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2012/07/WC500129606.pdf</ext-link>. (last accessed 16 April 2015).</mixed-citation></ref><ref id="bcp13313-bib-0025"><label>25</label><mixed-citation publication-type="miscellaneous" id="bcp13313-cit-0026">
+<collab collab-type="authors">Food and Drug Administration</collab>
+. <article-title>Guidance for industry: drug interaction studies&#x02014;study design, data analysis, implications for dosing, and labeling recommendations 2012</article-title>. Available at: <ext-link ext-link-type="uri" xlink:href="http://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm292362.pdf">http://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm292362.pdf</ext-link>. (last accessed 16 April 2015).</mixed-citation></ref><ref id="bcp13313-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="bcp13313-cit-0027">
+<string-name>
+<surname>Brandsch</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Drug transport via the intestinal peptide transporter PepT1</article-title>. <source>Curr Opin Pharmacol</source>
+<year>2013</year>; <volume>13</volume>: <fpage>881</fpage>&#x02013;<lpage>887</lpage>.<pub-id pub-id-type="pmid">24007794</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="bcp13313-cit-0028">
+<string-name>
+<surname>Johansson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rosenbaum</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Knutsson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Leonsson&#x02010;Zachrisson</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>A phase 1 study of the safety, tolerability, pharmacodynamics, and pharmacokinetics of tenapanor in healthy Japanese volunteers</article-title>. <source>Clin Exp Nephrol</source>
+<year>2016</year>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10157-016-1302-8">https://doi.org/10.1007/s10157&#x02010;016&#x02010;1302&#x02010;8</ext-link>.</mixed-citation></ref><ref id="bcp13313-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="bcp13313-cit-0029">
+<string-name>
+<surname>Pan</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Borovac</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Spicer</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Hoenderop</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Bindels</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Shull</surname>
+<given-names>GE</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>The epithelial sodium/proton exchanger, NHE3, is necessary for renal and intestinal calcium (re)absorption</article-title>. <source>Am J Physiol Renal Physiol</source>
+<year>2012</year>; <volume>302</volume>: <fpage>F943</fpage>&#x02013;<lpage>F956</lpage>.<pub-id pub-id-type="pmid">21937605</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="bcp13313-cit-0030">
+<string-name>
+<surname>Westphal</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Jehl</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Brogard</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Carbon</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Amoxicillin intestinal absorption reduction by amiloride: possible role of the Na<sup>+</sup>&#x02010;H<sup>+</sup> exchanger</article-title>. <source>Clin Pharmacol Ther</source>
+<year>1995</year>; <volume>57</volume>: <fpage>257</fpage>&#x02013;<lpage>264</lpage>.<pub-id pub-id-type="pmid">7697943</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="bcp13313-cit-0031">
+<string-name>
+<surname>Lennernas</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Knutson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Knutson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hussain</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lesko</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Salmonson</surname>
+<given-names>T</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>The effect of amiloride on the <italic>in vivo</italic> effective permeability of amoxicillin in human jejunum: experience from a regional perfusion technique</article-title>. <source>Eur J Pharm Sci</source>
+<year>2002</year>; <volume>15</volume>: <fpage>271</fpage>&#x02013;<lpage>277</lpage>.<pub-id pub-id-type="pmid">11923059</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="bcp13313-cit-0032">
+<string-name>
+<surname>Legen</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kristl</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Factors affecting the microclimate pH of the rat jejunum in ringer bicarbonate buffer</article-title>. <source>Biol Pharm Bull</source>
+<year>2003</year>; <volume>26</volume>: <fpage>886</fpage>&#x02013;<lpage>889</lpage>.<pub-id pub-id-type="pmid">12808306</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="bcp13313-cit-0033">
+<string-name>
+<surname>Shimada</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Factors affecting the microclimate pH in rat jejunum</article-title>. <source>J Physiol</source>
+<year>1987</year>; <volume>392</volume>: <fpage>113</fpage>&#x02013;<lpage>127</lpage>.<pub-id pub-id-type="pmid">3446778</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="bcp13313-cit-0034">
+<string-name>
+<surname>Iwatsubo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Miyamoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sugiyama</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yuasa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Iga</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hanano</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Effects of potential damaging agents on the microclimate&#x02010;pH in the rat jejunum</article-title>. <source>J Pharm Sci</source>
+<year>1986</year>; <volume>75</volume>: <fpage>1162</fpage>&#x02013;<lpage>1165</lpage>.<pub-id pub-id-type="pmid">3559926</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="bcp13313-cit-0035">
+<string-name>
+<surname>Ikuma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hanai</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kaneko</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hayashi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hoshi</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Effects of aging on the microclimate pH of the rat jejunum</article-title>. <source>Biochim Biophys Acta</source>
+<year>1996</year>; <volume>1280</volume>: <fpage>19</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">8634312</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="bcp13313-cit-0036">
+<string-name>
+<surname>Shimada</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hoshi</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Na<sup>+</sup>&#x02013;dependent elevation of the acidic cell surface pH (microclimate pH) of rat jejunal villus cells induced by cyclic nucleotides and phorbol ester: possible mediators of the regulation of the Na<sup>+</sup>/H<sup>+</sup> antiporter</article-title>. <source>Biochim Biophys Acta</source>
+<year>1988</year>; <volume>937</volume>: <fpage>328</fpage>&#x02013;<lpage>334</lpage>.<pub-id pub-id-type="pmid">2827772</pub-id></mixed-citation></ref><ref id="bcp13313-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="bcp13313-cit-0037">
+<string-name>
+<surname>Drozdzik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gr&#x000f6;er</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Penski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lapczuk</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ostrowski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>Y</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Protein abundance of clinically relevant multidrug transporters along the entire length of the human intestine</article-title>. <source>Mol Pharm</source>
+<year>2014</year>; <volume>11</volume>: <fpage>3547</fpage>&#x02013;<lpage>3555</lpage>.<pub-id pub-id-type="pmid">25158075</pub-id></mixed-citation></ref></ref-list></back></article>
