@@ -40,11 +40,35 @@ class CSVWriter(Writer):
         self.write_file = write_file
         
     """
+    Save the reasoning as to why it is invalid.
+    """
+    def save_invalid(self, data):
+        row_heading = ['ID', 'PMC', 'Reasoning']
+        
+        path = './/all_outputs//invalid.csv'
+        data = [data['userid'], int(data['id']), data['invalid']]
+        my_file = Path(path)
+        not_file = not(my_file.is_file())
+        
+        with open(r'' + path, 'a', newline = '', encoding = 'utf-8') as f:
+            writer = csv.writer(f)
+            if (not_file):
+                writer.writerow(row_heading)
+                
+            
+            writer.writerow(data)       
+
+        return None
+    
+        
+    """
     Submit the data to a CSV.
     """
     def submit_annotation(self, data):
         self.update_user_progress(data['userid'])
-        if len(data) == 1:
+        # if the prompt is invalid
+        if "invalid" in data:
+            self.save_invalid(data)
             return None
             
         row_heading = ['RowID', 'Outcome', 'Comparator', 'Intervention', 'Answer', 'Reasoning', 'XML', 'PMID', 'Location']

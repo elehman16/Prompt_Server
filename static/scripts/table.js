@@ -213,7 +213,9 @@ $('#invalid-but').on('click', function() {
 
 // The invalid button to call the modal
 $('#invalid-yes').on('click', function() {
-    post("/submit/", {"userid": document.getElementById("userid").innerHTML});
+    post("/submit/", {"userid": document.getElementById("userid").innerHTML,
+                      "id": document.getElementById("pmc").innerHTML,
+                      "invalid": document.getElementById("invalid-res").value});
 });
 
 $('#invalid-no').on('click', function() {
