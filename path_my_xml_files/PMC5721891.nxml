@@ -1,0 +1,708 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29066447</article-id><article-id pub-id-type="pmc">5721891</article-id><article-id pub-id-type="doi">10.1161/JAHA.117.007093</article-id><article-id pub-id-type="publisher-id">JAH32672</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Preventive Cardiology</subject></subj-group></subj-group></article-categories><title-group><article-title>Impact of Sustained Use of a Multifaceted Computerized Quality Improvement Intervention for Cardiovascular Disease Management in Australian Primary Health Care</article-title><alt-title alt-title-type="left-running-head">Patel et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah32672-cr-0001" contrib-type="author" corresp="yes"><name><surname>Patel</surname><given-names>Bindu</given-names></name><degrees>MPH</degrees><address><email>bpatel@georgeinstitute.org.au</email></address><xref ref-type="aff" rid="jah32672-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32672-cr-0002" contrib-type="author"><name><surname>Peiris</surname><given-names>David</given-names></name><degrees>MBBS, MIPH, PhD</degrees><xref ref-type="aff" rid="jah32672-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah32672-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32672-cr-0003" contrib-type="author"><name><surname>Usherwood</surname><given-names>Tim</given-names></name><degrees>MBBS, MD</degrees><xref ref-type="aff" rid="jah32672-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32672-cr-0004" contrib-type="author"><name><surname>Li</surname><given-names>Qiang</given-names></name><degrees>MBiostat</degrees><xref ref-type="aff" rid="jah32672-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah32672-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32672-cr-0005" contrib-type="author"><name><surname>Harris</surname><given-names>Mark</given-names></name><degrees>MBBS MD</degrees><xref ref-type="aff" rid="jah32672-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32672-cr-0006" contrib-type="author"><name><surname>Panaretto</surname><given-names>Kathryn</given-names></name><degrees>MBBS, MPH</degrees><xref ref-type="aff" rid="jah32672-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah32672-cr-0007" contrib-type="author"><name><surname>Zwar</surname><given-names>Nicholas</given-names></name><degrees>MBBS, PhD</degrees><xref ref-type="aff" rid="jah32672-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah32672-cr-0008" contrib-type="author"><name><surname>Patel</surname><given-names>Anushka</given-names></name><degrees>MBBS, SM, PhD</degrees><xref ref-type="aff" rid="jah32672-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah32672-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="jah32672-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">The George Institute for Global Health</named-content>
+<institution>University of Sydney</institution>
+<named-content content-type="city">Camperdown</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jah32672-aff-0002">
+<label><sup>2</sup></label>
+<institution>University of New South Wales</institution>
+<named-content content-type="city">Sydney</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jah32672-aff-0003">
+<label><sup>3</sup></label>
+<institution>University of Queensland</institution>
+<named-content content-type="city">Teneriffe</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jah32672-aff-0004">
+<label><sup>4</sup></label>
+<institution>University of Wollongong</institution>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Bindu Patel, MPH, PO Box&#x000a0;M201 Missenden Rd, Sydney, New South Wales 2050, Australia. E&#x02010;mail: <email>bpatel@georgeinstitute.org.au</email></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>10</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2017</year></pub-date><volume>6</volume><issue>10</issue><issue-id pub-id-type="doi">10.1002/jah3.2017.6.issue-10</issue-id><elocation-id>e007093</elocation-id><history><date date-type="received"><day>04</day><month>7</month><year>2017</year></date><date date-type="accepted"><day>11</day><month>9</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-6-e007093.pdf"/><abstract id="jah32672-abs-0001"><sec id="jah32672-sec-0001"><title>Background</title><p>We evaluated a multifaceted, computerized quality improvement intervention for management of cardiovascular disease (<styled-content style="fixed-case">CVD</styled-content>) risk in Australian primary health care. After completion of a cluster randomized controlled trial, the intervention was made available to both trial arms. Our objective was to assess intervention outcomes in the post&#x02010;trial period and any heterogeneity based on original intervention allocation.</p></sec><sec id="jah32672-sec-0002"><title>Methods and Results</title><p>Data from 41 health services were analyzed. Outcomes were (1) proportion of eligible population with guideline&#x02010;recommended <styled-content style="fixed-case">CVD</styled-content> risk factor measurements; and (2) the proportion at high <styled-content style="fixed-case">CVD</styled-content> risk with current prescriptions for guideline&#x02010;recommended medications. Patient&#x02010;level analyses were conducted using generalized estimating equations to account for clustering and time effects and tests for heterogeneity were conducted to assess impact of original treatment allocation. Median follow&#x02010;up for 22&#x000a0;809 patients (mean age, 64.2&#x000a0;years; 42.5% men, 26.5% high <styled-content style="fixed-case">CVD</styled-content> risk) was 17.9&#x000a0;months post&#x02010;trial and 35&#x000a0;months since trial inception. At the end of the post&#x02010;trial period there was no change in <styled-content style="fixed-case">CVD</styled-content> risk factor screening overall when compared with the end of the trial period (64.7% versus 63.5%, <italic>P</italic>=0.17). For patients at high <styled-content style="fixed-case">CVD</styled-content> risk, there were significant improvements in recommended prescriptions at end of the post&#x02010;trial period when compared with the end of the trial period (65.2% versus 56.0%, <italic>P</italic>&#x0003c;0.001). There was no heterogeneity of treatment effects on the outcomes based on original randomization allocation.</p></sec><sec id="jah32672-sec-0003"><title>Conclusions</title><p>
+<styled-content style="fixed-case">CVD</styled-content> risk screening improvements were not observed in the post&#x02010;trial period. Conversely, improvements in prescribing continued, suggesting that changes in provider and patient actions may take time when initiating medications.</p></sec><sec id="jah32672-sec-0004"><title>Clinical Trial Registration</title><p>
+<styled-content style="fixed-case">URL</styled-content>: <ext-link ext-link-type="uri" xlink:href="http://www.anzctr.org.au">http://www.anzctr.org.au</ext-link>. Unique identifier: 12611000478910.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah32672-kwd-0001">cardiovascular disease prevention</kwd><kwd id="jah32672-kwd-0002">computer decision support systems</kwd><kwd id="jah32672-kwd-0003">health information technology</kwd><kwd id="jah32672-kwd-0004">intervention</kwd><kwd id="jah32672-kwd-0005">long&#x02010;term use</kwd><kwd id="jah32672-kwd-0006">primary health care</kwd><kwd id="jah32672-kwd-0007">quality improvement</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Cardiovascular Disease</kwd><kwd>Primary Prevention</kwd><kwd>Risk Factors</kwd><kwd>Health Services</kwd><kwd>Epidemiology</kwd></kwd-group><funding-group><award-group><funding-source>Australian National Health and Medical Research Council (NHMRC)</funding-source><award-id>1010547</award-id><award-id>APP1075308</award-id><award-id>APP1079301</award-id><award-id>1054754</award-id></award-group><award-group><funding-source>NSW Health</funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="2"/><page-count count="12"/><word-count count="6934"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah32672</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.1 mode:remove_FC converted:24.10.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah32672-cit-1001">(<source>J Am Heart Assoc</source>. <year>2017</year>;<volume>6</volume>:<elocation-id>e007093</elocation-id> DOI: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.117.007093">10.1161/JAHA.117.007093</ext-link>.)<pub-id pub-id-type="pmid">29066447</pub-id></mixed-citation>
+</p></notes></front><body><p>
+<boxed-text position="anchor" content-type="box" id="jah32672-blkfxd-0001" orientation="portrait"><sec id="jah32672-sec-0006"><title>Clinical Perspective</title><sec id="jah32672-sec-0007"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah32672-list-0001"><list-item><p>This observational study examines the impact of a multifaceted computerized quality improvement intervention to reduce cardiovascular disease risk beyond the randomized trial period.</p></list-item><list-item><p>The intervention in a post&#x02010;trial period was associated with maintenance of trial&#x02010;related improvements in screening of cardiovascular disease risk and ongoing improvements in prescribing recommended medicines to patients at high cardiovascular disease risk.</p></list-item></list>
+</p></sec><sec id="jah32672-sec-0008"><title>What Are the Clinical Implications?</title><p>
+<list list-type="bullet" id="jah32672-list-0002"><list-item><p>The study demonstrates evidence of potential longer&#x02010;term impact of a computerized quality improvement intervention on primary prevention of cardiovascular diseases.</p></list-item></list>
+</p></sec></sec></boxed-text>
+</p><sec id="jah32672-sec-0009"><title>Introduction</title><p>Quality issues affecting healthcare organizations worldwide include inadequate access to healthcare services, suboptimal provision of evidence&#x02010;based preventive services and treatments, and poor coordination of care across healthcare systems.<xref rid="jah32672-bib-0001" ref-type="ref">1</xref>, <xref rid="jah32672-bib-0002" ref-type="ref">2</xref> Our previous work found that only around one half of adults routinely attending Australian primary healthcare providers are screened for CVD risk in accordance with guideline recommendations, and only about 40% of those identified at high CVD risk are prescribed recommended medications.<xref rid="jah32672-bib-0003" ref-type="ref">3</xref>, <xref rid="jah32672-bib-0004" ref-type="ref">4</xref> Meaningful use of health information technology (HIT) has the potential to be an important enabler in increasing the quality of healthcare delivery.<xref rid="jah32672-bib-0005" ref-type="ref">5</xref>, <xref rid="jah32672-bib-0006" ref-type="ref">6</xref> Two such HIT tools are computer decision support systems and computerized audit and feedback tools (the provision of summarized clinical performance indicators to healthcare provider(s) over a specified period of time). There is a well&#x02010;established evidence base demonstrating that these tools improve processes of care and modestly improve clinical outcomes.<xref rid="jah32672-bib-0007" ref-type="ref">7</xref>, <xref rid="jah32672-bib-0008" ref-type="ref">8</xref>, <xref rid="jah32672-bib-0009" ref-type="ref">9</xref>, <xref rid="jah32672-bib-0010" ref-type="ref">10</xref> Despite this evidence, there remain substantial challenges in implementing these tools in routine clinical care.<xref rid="jah32672-bib-0011" ref-type="ref">11</xref>, <xref rid="jah32672-bib-0012" ref-type="ref">12</xref>
+</p><p>We designed a computerized multifaceted quality improvement (QI) intervention for CVD risk management in Australian primary health care. The intervention, termed <italic>HealthTracker</italic>, comprised 4 elements: (1) real&#x02010;time decision support integrated with the patient electronic record utilizing a guidelines&#x02010;based algorithm; (2) a patient risk communication interface that included &#x0201c;what if scenarios&#x0201d; to show the potential benefits from particular health risk factor modifications during a consultation; (3) an automated clinical audit tool for extraction of data and review of health service performance; and (4) a web portal where services could view peer&#x02010;ranked performance over time. Details of the intervention have been published.<xref rid="jah32672-bib-0013" ref-type="ref">13</xref>
+</p><p>
+<italic>HealthTracker</italic> was evaluated between 2011 and 2013 in the TORPEDO (Treatment of Cardiovascular Risk in Primary Care Sing Electronic Decision Support) study, a cluster&#x02010;randomized controlled trial (cRCT) involving 38&#x000a0;725 people from 60 primary healthcare services. Detailed results of the study have been previously published.<xref rid="jah32672-bib-0014" ref-type="ref">14</xref> In brief, when compared with services that did not have <italic>HealthTracker</italic> installed, and after a median of 17.5&#x000a0;months follow&#x02010;up, services with <italic>HealthTracker</italic> demonstrated a 25% relative (10% absolute) improvement in CVD risk factor screening. There was no significant difference overall in prescribing rates of recommended medicines for people at high CVD risk. However, for the subgroup of individuals at high CVD risk who were not prescribed optimal recommended medicines at baseline, the intervention was associated with a 59% relative (17% absolute) improvement in prescribing rates.</p><p>At the completion of the trial, health services in both trial arms were offered access to <italic>HealthTracker</italic> and invited to participate in a post&#x02010;trial evaluation. Randomized controlled trials generally have short&#x02010;term follow&#x02010;up periods, and evidence of sustained impact in nontrial settings is sparse.<xref rid="jah32672-bib-0015" ref-type="ref">15</xref>, <xref rid="jah32672-bib-0016" ref-type="ref">16</xref> In this observational study, we analyze changes in CVD risk factor screening, prescribing to high&#x02010;risk patients and patient outcomes in this post&#x02010;trial period to improve our understanding of the impact of integration of the intervention into routine clinical care.</p></sec><sec id="jah32672-sec-0010"><title>Methods</title><sec id="jah32672-sec-0011"><title>Intervention</title><p>Forty&#x02010;five of the original 60 primary health services (29 general practices [GPs] and 16 Aboriginal community controlled health services) agreed to participate in the post&#x02010;trial study (Figure&#x000a0;<xref rid="jah32672-fig-0001" ref-type="fig">1</xref>). Fifteen health services chose not participate because of the health service closing or moving (n=4); limited resources (n=3); concerns about HIT tool slowing down their computer system (n=3); changing to an incompatible electronic health record software system (n=3); using another online CVD risk tool (n=1); and lack of interest (n=1). Four services later withdrew because of concerns about resources required to support intervention use and the effects of the software on the speed of their systems, leaving 41 services (21 intervention and 20 control) included for evaluation purposes. The study population comprised Aboriginal and Torres Strait Islander people aged &#x02265;35&#x000a0;years and all others aged &#x02265;45&#x000a0;years, who were regular attendees of the health service. Regular attendance was defined as having visited the health service at least 3 times in the preceding 2&#x000a0;years and once in the preceding 6&#x000a0;months.</p><fig fig-type="Figure" xml:lang="en" id="jah32672-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study flow diagram. <styled-content style="fixed-case">ACCHS</styled-content> indicates Aboriginal Community Controlled Health Service; <styled-content style="fixed-case">cRCT</styled-content>, cluster randomized controlled trial; CVD, cardiovascular disease; <styled-content style="fixed-case">GP</styled-content>, general practice; <styled-content style="fixed-case">IQR</styled-content>, interquartile range.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-6-e007093-g001"/></fig><p>Health services that had been previously randomized to not receive <italic>HealthTracker</italic> were trained in use of the intervention at the end of the cRCT. The health services previously randomized to receive <italic>HealthTracker</italic> were given a refresher at the end of the cRCT period, if requested. Ongoing training and technical support was provided to the health services on request, but this was minimal during the post&#x02010;trial period. An average of 13&#x02010;minute support per month comprising on&#x02010;site training, remote clinical Webinars, and IT helpdesk services was provided during the post&#x02010;trial period, 35&#x000a0;minutes less than during the cRCT. All software was provided free of charge.</p></sec><sec id="jah32672-sec-0012"><title>Data Collection</title><p>Nonidentifiable data extracts were obtained from each service using a validated extraction tool<xref rid="jah32672-bib-0017" ref-type="ref">17</xref> at 3 time points&#x02014;(1) at baseline for the cRCT; (2) at the end of the cRCT; and (3) at the end of the post&#x02010;trial period. Data extractions were either conducted by the research team through a virtual remote log&#x02010;in system or by health service staff themselves. Data were sent via a secure file transfer protocol or encrypted email to the coordinating research institute. An encrypted identifier code was added to each patient's data, and this was used to enable longitudinal follow&#x02010;up of individual patients.</p><p>We invited all general practitioners (GPs) from the intervention health services to complete an end&#x02010;of&#x02010;study survey. The survey obtained information on GP use of the intervention along with their professional and health service characteristics and prior use of information technology.</p><p>The study was approved by The University of Sydney Human Research Ethics Committee (2012/2183) and the Aboriginal Health &#x00026; Medical Research Council of New South Wales (778/11). Participation agreements were signed between the participating health services and the coordinating research institute.</p></sec><sec id="jah32672-sec-0013"><title>Study Outcomes</title><p>The follow&#x02010;up study outcomes were prespecified and correspond to those reported in the TORPEDO study. Co&#x02010;primary outcomes are 1 and 2, and secondary outcomes are 3 and 4 below:
+<list list-type="order" id="jah32672-list-0003"><list-item><p>The proportion of eligible patients who received appropriate screening of CVD risk factors. Appropriate screening was defined as smoking status recorded at least once; systolic blood pressure recorded in the previous 12&#x000a0;months; and total cholesterol and high&#x02010;density lipoprotein recorded in the previous 24&#x000a0;months.</p></list-item><list-item><p>The proportion of eligible patients defined at baseline as being at high CVD risk, receiving recommended medications. This was defined as (1) current medication of at least 1 blood pressure (BP)&#x02013;lowering drug and statin for high&#x02010;risk patients without established CVD, and (2) current medication of at least 1 BP&#x02013;lowering drug, statin, and antiplatelet agent (unless contraindicated) for patients with established CVD. This outcome was evaluated in the overall high&#x02010;risk cohort, as well as the subgroup of high&#x02010;risk individuals who were undertreated (defined as those not prescribed guideline&#x02010;recommended medications at baseline).</p></list-item><list-item><p>Escalation of prescription medication (either newly prescribed or additional numbers of antiplatelet, BP&#x02013;lowering or lipid&#x02010;lowering medications) among patients at high CVD risk.</p></list-item><list-item><p>Change in BP and serum lipid levels among people at high CVD risk.</p></list-item></list>
+</p><p>Based on Australian guidelines, high CVD risk was defined as (1) history of CVD (diagnosis of coronary heart disease, cerebrovascular disease, or peripheral vascular disease); (2) the presence of any guideline&#x02010;stipulated clinically high&#x02010;risk conditions such as diabetes mellitus and age &#x0003e;60&#x000a0;years, diabetes mellitus and albuminuria, stage 3B chronic kidney disease, or extreme individual risk factor elevations: systolic BP &#x02265;180&#x000a0;mm&#x000a0;Hg, diastolic BP &#x02265;110&#x000a0;mm&#x000a0;Hg, total cholesterol &#x0003e;7.5&#x000a0;mmol (290&#x000a0;mg/dL); or (3) a calculated 5&#x02010;year CVD risk of &#x0003e;15% based on the Framingham equation.<xref rid="jah32672-bib-0018" ref-type="ref">18</xref>
+</p></sec><sec id="jah32672-sec-0014"><title>Statistical Analysis</title><p>Analyses were performed on the cohort of patients for whom data were recorded at baseline, end of the cRCT, and end of the post&#x02010;trial period. Descriptive data are presented as mean (SEs) or proportions. Patient&#x02010;level analysis was conducted using generalized estimating equations to account for clustering of patients within services with exchangeable correlation structure. A &#x003c7;<sup>2</sup> test for categorical variables was used to test for comparison between intervention and control health services since they are at the cluster level. The <italic>P</italic> value for patient characteristics was obtained from the generalized estimating equations model, taking into account the clustering effect using log link for binary variables and identity link for continuous variables. The random allocation was the independent variable in the model. Study outcome analyses were conducted using generalized estimating equations regression model for continuous outcome, assuming Gaussian distribution and binary outcomes assuming binomial distribution with a log link function. Effect estimates between intervention and usual care health services for the primary and secondary outcomes were obtained from the generalized estimating equations model with adjustments made for baseline measurements, size of service, type of service, and current participation in QI initiatives. Given that the event rate is higher in our prospective study, the log link function was used to produce a rate ratio between intervention and usual care group rather than deriving an odds ratio using a logit link function. Although odds ratios produced by logit link tend to be equivalent to rate ratios produced by log link when the event rate is small, they may overestimate the relative risk when event rate is high.</p><p>Trend analysis was conducted using data from 2 time points: end of cRCT and end of post&#x02010;trial period. Additionally, paired comparisons were performed to evaluate the effects of receiving the intervention during the post&#x02010;trial period. For outcomes in the post&#x02010;trial period, <italic>P</italic> values were calculated based on change from end of the cRCT to the end of the post&#x02010;trial period. For the post&#x02010;trial period, heterogeneity in effects between the previously randomized intervention and control groups was assessed based on the significance of interaction term in the model. Statistical analyses were carried out using SAS enterprise guide 7.1 (SAS Institute Inc, Cary, NC).</p></sec></sec><sec id="jah32672-sec-0015"><title>Results</title><sec id="jah32672-sec-0016"><title>Cohort</title><p>The original TORPEDO cRCT included 38&#x000a0;725 individuals from 60 health services with a median follow&#x02010;up of 17.3&#x000a0;months for the intervention group, and 17.7&#x000a0;months for the control group. Of these, 22&#x000a0;809 patients from 41 health services were followed up in the post&#x02010;trial period. Twenty&#x02010;one services (n=12&#x000a0;534) were originally randomized to the intervention and 20 services (n=10&#x000a0;275) to control (Figure&#x000a0;<xref rid="jah32672-fig-0001" ref-type="fig">1</xref>).</p><p>For the screening outcome, data from the 3 extraction periods for the overall post&#x02010;trial cohort (22&#x000a0;809 patients) were analyzed. For the prescribing outcome, data from the 3 extraction periods were analyzed for those patients identified as high CVD risk patients at baseline in the cRCT (6106 patients in total and 3039 patients who were undertreated). The median post&#x02010;trial follow&#x02010;up was 17.7&#x000a0;months for the intervention group and 18.5&#x000a0;months for the control group. Recruitment into cRCT commenced in September 2011 and the final health service data collection for the post&#x02010;trial period was completed in February 2015 (total median follow&#x02010;up of 34.8 and 35.0&#x000a0;months for the intervention and control groups, respectively).</p></sec><sec id="jah32672-sec-0017"><title>Demographics</title><p>For those health services participating in the post&#x02010;trial period, there were no significant differences in baseline health service characteristics between the intervention and control groups (Table&#x000a0;<xref rid="jah32672-tbl-0001" ref-type="table-wrap">1</xref>). There was no difference in risk factor screening and appropriate prescriptions for high CVD risk patients based on our 3 prespecified health service characteristics of health service type (Aboriginal Community Controlled Health Service versus general practice), service size (&#x0003c;500 and &#x02265;500), and if health service participated in a QI program prior to randomization. Table&#x000a0;<xref rid="jah32672-tbl-0002" ref-type="table-wrap">2</xref> compares patient characteristics at baseline and at the end of the cRCT. With the exception of albuminuria rates, the variables with significant between&#x02010;group differences at the end of the cRCT were similarly observed at baseline. Further, there were no differences in the health services and patient characteristics of those who participated and those who did not participate in the post&#x02010;trial period.</p><table-wrap id="jah32672-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline Health Service Characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Health Service Characteristics (n=41)</th><th align="left" valign="top" rowspan="1" colspan="1">Intervention (N=21, n=12&#x000a0;534)</th><th align="left" valign="top" rowspan="1" colspan="1">Control (N=20, n=10&#x000a0;275)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Eligible population</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x0003c;500</td><td align="left" rowspan="1" colspan="1">9/21 (42.9%)</td><td align="left" rowspan="1" colspan="1">9/20 (45.0%)</td><td align="left" rowspan="1" colspan="1">0.89</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;500</td><td align="left" rowspan="1" colspan="1">12/21 (57.1%)</td><td align="left" rowspan="1" colspan="1">11/20 (55.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">Type of services</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Aboriginal community controlled health service</td><td align="left" rowspan="1" colspan="1">6/21 (28.6%)</td><td align="left" rowspan="1" colspan="1">6/20 (30.0%)</td><td align="left" rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">General practice</td><td align="left" rowspan="1" colspan="1">15/21 (71.4%)</td><td align="left" rowspan="1" colspan="1">14/20 (70.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">Medical software used</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Best practice</td><td align="left" rowspan="1" colspan="1">5/21 (23.8%)</td><td align="left" rowspan="1" colspan="1">7/20 (35.0%)</td><td align="left" rowspan="1" colspan="1">0.43</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Medical director</td><td align="left" rowspan="1" colspan="1">16/21 (76.2%)</td><td align="left" rowspan="1" colspan="1">13/20 (65.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">Information technology support</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Both local and external</td><td align="left" rowspan="1" colspan="1">2/21 (9.5%)</td><td align="left" rowspan="1" colspan="1">8/20 (40.0%)</td><td align="left" rowspan="1" colspan="1">0.07</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">External</td><td align="left" rowspan="1" colspan="1">12/21 (57.2%)</td><td align="left" rowspan="1" colspan="1">8/20 (40.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Local</td><td align="left" rowspan="1" colspan="1">7/21 (33.3%)</td><td align="left" rowspan="1" colspan="1">4/20 (20.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">Staff currently using data extraction tools</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Most</td><td align="left" rowspan="1" colspan="1">1/21 (4.8%)</td><td align="left" rowspan="1" colspan="1">0/20 (0.0%)</td><td align="left" rowspan="1" colspan="1">0.38</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">9/21 (42.9%)</td><td align="left" rowspan="1" colspan="1">6/20 (30.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Some</td><td align="left" rowspan="1" colspan="1">11/21 (52.4%)</td><td align="left" rowspan="1" colspan="1">14/20 (70.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">Current participation in a quality improvement initiative</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">14/21 (66.7%)</td><td align="left" rowspan="1" colspan="1">12/20 (60.0%)</td><td align="left" rowspan="1" colspan="1">0.66</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">7/21 (33.3%)</td><td align="left" rowspan="1" colspan="1">8/20 (40.0%)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table></table-wrap><table-wrap id="jah32672-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Patient Characteristics at Baseline and End of the Randomized Trial Phase</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="top" colspan="1">Variable Name</th><th align="left" colspan="5" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Baseline of cRCT (Sites n=41)</th><th align="left" colspan="5" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">End of cRCT (Sites n=41)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">(Intervention=21, n=12&#x000a0;534)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">(Control=20, n=10&#x000a0;275)</th><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">(Intervention=21, n=12&#x000a0;534)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">(Control=20, n=10&#x000a0;275)</th><th align="left" valign="top" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">N</th><th align="left" valign="top" rowspan="1" colspan="1">n (%) or Mean (SE)</th><th align="left" valign="top" rowspan="1" colspan="1">N</th><th align="left" valign="top" rowspan="1" colspan="1">n (%) or Mean (SE)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th><th align="left" valign="top" rowspan="1" colspan="1">N</th><th align="left" valign="top" rowspan="1" colspan="1">n (%) or Mean (SE)</th><th align="left" valign="top" rowspan="1" colspan="1">N</th><th align="left" valign="top" rowspan="1" colspan="1">n (%) or Mean (SE)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, mean (SD)</td><td align="left" rowspan="1" colspan="1">12&#x000a0;533</td><td align="left" rowspan="1" colspan="1">62.5 (12.3)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">60.0 (11.4)</td><td align="left" rowspan="1" colspan="1">0.72</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">63.9 (12.2)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">61.3 (11.4)</td><td align="left" rowspan="1" colspan="1">0.71</td></tr><tr><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">12&#x000a0;531</td><td align="left" rowspan="1" colspan="1">5649 (45.1%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;268</td><td align="left" rowspan="1" colspan="1">4056 (39.5%)</td><td align="left" rowspan="1" colspan="1">0.01</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">5647 (45.1%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;273</td><td align="left" rowspan="1" colspan="1">4054 (39.5%)</td><td align="left" rowspan="1" colspan="1">0.01<xref ref-type="fn" rid="jah32672-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Aboriginal/Torres Strait Islander</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">1636 (13.1%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">1726 (16.8%)</td><td align="left" rowspan="1" colspan="1">0.68</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">1647 (13.1%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">1747 (17.0%)</td><td align="left" rowspan="1" colspan="1">0.68</td></tr><tr><td align="left" rowspan="1" colspan="1">Current smoker or ex&#x02010;smoker in the past 12&#x000a0;mo</td><td align="left" rowspan="1" colspan="1">10&#x000a0;983</td><td align="left" rowspan="1" colspan="1">1967 (17.9%)</td><td align="left" rowspan="1" colspan="1">9013</td><td align="left" rowspan="1" colspan="1">1838 (20.4%)</td><td align="left" rowspan="1" colspan="1">0.96</td><td align="left" rowspan="1" colspan="1">11&#x000a0;650</td><td align="left" rowspan="1" colspan="1">1915 (16.4%)</td><td align="left" rowspan="1" colspan="1">9512</td><td align="left" rowspan="1" colspan="1">1747 (18.4%)</td><td align="left" rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" rowspan="1" colspan="1">Systolic BP (mm&#x000a0;Hg), mean (SD)</td><td align="left" rowspan="1" colspan="1">11&#x000a0;265</td><td align="left" rowspan="1" colspan="1">130.3 (16.1)</td><td align="left" rowspan="1" colspan="1">9743</td><td align="left" rowspan="1" colspan="1">129.1 (17.3)</td><td align="left" rowspan="1" colspan="1">0.38</td><td align="left" rowspan="1" colspan="1">12&#x000a0;036</td><td align="left" rowspan="1" colspan="1">129.7 (15.8)</td><td align="left" rowspan="1" colspan="1">9929</td><td align="left" rowspan="1" colspan="1">129.0 (17.0)</td><td align="left" rowspan="1" colspan="1">0.72</td></tr><tr><td align="left" rowspan="1" colspan="1">Total cholesterol (mmol), mean (SD)</td><td align="left" rowspan="1" colspan="1">11&#x000a0;103</td><td align="left" rowspan="1" colspan="1">5.0 (1.1)</td><td align="left" rowspan="1" colspan="1">8629</td><td align="left" rowspan="1" colspan="1">5.0 (1.1)</td><td align="left" rowspan="1" colspan="1">0.57</td><td align="left" rowspan="1" colspan="1">11&#x000a0;887</td><td align="left" rowspan="1" colspan="1">4.9 (1.3)</td><td align="left" rowspan="1" colspan="1">9347</td><td align="left" rowspan="1" colspan="1">5.0 (1.1)</td><td align="left" rowspan="1" colspan="1">0.21</td></tr><tr><td align="left" rowspan="1" colspan="1">High&#x02010;density lipoprotein (mmol), mean (SD)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;688</td><td align="left" rowspan="1" colspan="1">1.4 (0.4)</td><td align="left" rowspan="1" colspan="1">7702</td><td align="left" rowspan="1" colspan="1">1.4 (0.4)</td><td align="left" rowspan="1" colspan="1">0.94</td><td align="left" rowspan="1" colspan="1">11&#x000a0;582</td><td align="left" rowspan="1" colspan="1">1.4 (0.4)</td><td align="left" rowspan="1" colspan="1">8582</td><td align="left" rowspan="1" colspan="1">1.4 (0.4)</td><td align="left" rowspan="1" colspan="1">0.91</td></tr><tr><td align="left" rowspan="1" colspan="1">HbA1c for those with recorded diagnosis of diabetes mellitus, mean (SD)</td><td align="left" rowspan="1" colspan="1">2062</td><td align="left" rowspan="1" colspan="1">8.0 (4.9)</td><td align="left" rowspan="1" colspan="1">1677</td><td align="left" rowspan="1" colspan="1">7.5 (1.8)</td><td align="left" rowspan="1" colspan="1">0.33</td><td align="left" rowspan="1" colspan="1">2280</td><td align="left" rowspan="1" colspan="1">12.7 (16.0)</td><td align="left" rowspan="1" colspan="1">1857</td><td align="left" rowspan="1" colspan="1">8.4 (7.3)</td><td align="left" rowspan="1" colspan="1">0.42</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index &#x0003e;30&#x000a0;kg/m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">8778</td><td align="left" rowspan="1" colspan="1">3304 (37.6%)</td><td align="left" rowspan="1" colspan="1">7511</td><td align="left" rowspan="1" colspan="1">2681 (35.7%)</td><td align="left" rowspan="1" colspan="1">0.11</td><td align="left" rowspan="1" colspan="1">9736</td><td align="left" rowspan="1" colspan="1">3648 (37.5%)</td><td align="left" rowspan="1" colspan="1">8269</td><td align="left" rowspan="1" colspan="1">2879 (34.8%)</td><td align="left" rowspan="1" colspan="1">0.10</td></tr><tr><td align="left" rowspan="1" colspan="1">Albuminuria<xref ref-type="fn" rid="jah32672-note-0003">b</xref>
+</td><td align="left" rowspan="1" colspan="1">2405</td><td align="left" rowspan="1" colspan="1">657 (27.3%)</td><td align="left" rowspan="1" colspan="1">2352</td><td align="left" rowspan="1" colspan="1">569 (24.2%)</td><td align="left" rowspan="1" colspan="1">0.97</td><td align="left" rowspan="1" colspan="1">4087</td><td align="left" rowspan="1" colspan="1">892 (21.8%)</td><td align="left" rowspan="1" colspan="1">3127</td><td align="left" rowspan="1" colspan="1">763 (24.4%)</td><td align="left" rowspan="1" colspan="1">0.04<xref ref-type="fn" rid="jah32672-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Estimated glomerular filtration rate &#x0003c;60&#x000a0;mL/min per 1.73&#x000a0;m<sup>2</sup>
+<xref ref-type="fn" rid="jah32672-note-0004">c</xref>
+</td><td align="left" rowspan="1" colspan="1">11&#x000a0;062</td><td align="left" rowspan="1" colspan="1">1285 (11.6%)</td><td align="left" rowspan="1" colspan="1">8768</td><td align="left" rowspan="1" colspan="1">739 (8.4%)</td><td align="left" rowspan="1" colspan="1">0.01<xref ref-type="fn" rid="jah32672-note-0002">a</xref>
+</td><td align="left" rowspan="1" colspan="1">11&#x000a0;805</td><td align="left" rowspan="1" colspan="1">1545 (13.1%)</td><td align="left" rowspan="1" colspan="1">9450</td><td align="left" rowspan="1" colspan="1">925 (9.8%)</td><td align="left" rowspan="1" colspan="1">0.02<xref ref-type="fn" rid="jah32672-note-0002">a</xref>
+</td></tr><tr><td align="left" colspan="11" rowspan="1">Recorded diagnosis</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Coronary heart disease diagnosis recorded</td><td align="left" rowspan="1" colspan="1">12&#x000a0;533</td><td align="left" rowspan="1" colspan="1">1421 (11.3%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">989 (9.6%)</td><td align="left" rowspan="1" colspan="1">0.12</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">1598 (12.7%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">1119 (10.9%)</td><td align="left" rowspan="1" colspan="1">0.17</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cerebrovascular disease diagnosis recorded</td><td align="left" rowspan="1" colspan="1">12&#x000a0;533</td><td align="left" rowspan="1" colspan="1">374 (3.0%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">226 (2.2%)</td><td align="left" rowspan="1" colspan="1">0.11</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">432 (3.5%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">270 (2.6%)</td><td align="left" rowspan="1" colspan="1">0.10</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Peripheral vascular diagnosis recorded</td><td align="left" rowspan="1" colspan="1">12&#x000a0;533</td><td align="left" rowspan="1" colspan="1">97 (0.8%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">93 (0.9%)</td><td align="left" rowspan="1" colspan="1">0.90</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">126 (1.0%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">113 (1.1%)</td><td align="left" rowspan="1" colspan="1">0.83</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diabetes mellitus diagnosis recorded</td><td align="left" rowspan="1" colspan="1">12&#x000a0;533</td><td align="left" rowspan="1" colspan="1">2196 (17.5%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">1768 (17.2%)</td><td align="left" rowspan="1" colspan="1">0.87</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">2367 (18.9%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">1919 (18.7%)</td><td align="left" rowspan="1" colspan="1">0.86</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Left ventricular hypertrophy diagnosis recorded</td><td align="left" rowspan="1" colspan="1">12&#x000a0;533</td><td align="left" rowspan="1" colspan="1">24 (0.2%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">66 (0.6%)</td><td align="left" rowspan="1" colspan="1">0.01<xref ref-type="fn" rid="jah32672-note-0002">a</xref>
+</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">31 (0.3%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">79 (0.8%)</td><td align="left" rowspan="1" colspan="1">0.01<xref ref-type="fn" rid="jah32672-note-0002">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Atrial fibrillation diagnosis recorded</td><td align="left" rowspan="1" colspan="1">12&#x000a0;533</td><td align="left" rowspan="1" colspan="1">482 (3.9%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">318 (3.1%)</td><td align="left" rowspan="1" colspan="1">0.18</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">566 (4.5%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">405 (3.9%)</td><td align="left" rowspan="1" colspan="1">0.64</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Heart failure diagnosis recorded</td><td align="left" rowspan="1" colspan="1">12&#x000a0;533</td><td align="left" rowspan="1" colspan="1">229 (1.8%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">116 (1.1%)</td><td align="left" rowspan="1" colspan="1">0.31</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">286 (2.3%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">175 (1.7%)</td><td align="left" rowspan="1" colspan="1">0.66</td></tr><tr><td align="left" colspan="11" rowspan="1">CVD risk assessment<xref ref-type="fn" rid="jah32672-note-0005">d</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing information</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">3171 (25.3%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">3041 (29.6%)</td><td align="left" rowspan="1" colspan="1">0.28</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">1737 (13.9%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">2022 (19.7%)</td><td align="left" rowspan="1" colspan="1">0.02<xref ref-type="fn" rid="jah32672-note-0002">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x0003c;10%</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">4966 (39.6%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">4138 (40.3%)</td><td align="left" rowspan="1" colspan="1">0.79</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">5915 (47.2%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">4769 (46.4%)</td><td align="left" rowspan="1" colspan="1">0.42</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">10%&#x02013;15%</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">850 (6.8%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">537 (5.2%)</td><td align="left" rowspan="1" colspan="1">0.19</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">922 (7.4%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">639 (6.2%)</td><td align="left" rowspan="1" colspan="1">0.43</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x0003e;15%</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">353 (2.2%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">254 (2.5%)</td><td align="left" rowspan="1" colspan="1">0.53</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">419 (3.3%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">280 (2.7%)</td><td align="left" rowspan="1" colspan="1">0.19</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Clinically high&#x02010;risk condition<xref ref-type="fn" rid="jah32672-note-0006">e</xref>
+</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">1461 (11.7%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">1096 (10.7%)</td><td align="left" rowspan="1" colspan="1">0.30</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">1578 (12.6%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">1191 (11.6%)</td><td align="left" rowspan="1" colspan="1">0.27</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CVD diagnosis<xref ref-type="fn" rid="jah32672-note-0007">f</xref>
+</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">1733 (13.8%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">1209 (11.8%)</td><td align="left" rowspan="1" colspan="1">0.19</td><td align="left" rowspan="1" colspan="1">12&#x000a0;534</td><td align="left" rowspan="1" colspan="1">1963 (15.7%)</td><td align="left" rowspan="1" colspan="1">10&#x000a0;275</td><td align="left" rowspan="1" colspan="1">1374 (13.4%)</td><td align="left" rowspan="1" colspan="1">0.21</td></tr><tr><td align="left" colspan="11" rowspan="1">Primary outcomes at baseline</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Eligible patients assessed at high CVD risk receiving appropriate prescriptions for their CVD risk factors at baseline</td><td align="left" rowspan="1" colspan="1">3547</td><td align="left" rowspan="1" colspan="1">1734 (48.9%)</td><td align="left" rowspan="1" colspan="1">2559</td><td align="left" rowspan="1" colspan="1">1333 (52.1%)</td><td align="left" rowspan="1" colspan="1">0.67</td><td align="left" rowspan="1" colspan="1">3516</td><td align="left" rowspan="1" colspan="1">2035 (57.9%)</td><td align="left" rowspan="1" colspan="1">2514</td><td align="left" rowspan="1" colspan="1">1341 (53.3%)</td><td align="left" rowspan="1" colspan="1">0.17</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Current prescription for at least 1 BP&#x02010;lowering medication and a statin for people at high CVD risk</td><td align="left" rowspan="1" colspan="1">1814</td><td align="left" rowspan="1" colspan="1">773 (42.6%)</td><td align="left" rowspan="1" colspan="1">1350</td><td align="left" rowspan="1" colspan="1">618 (45.8%)</td><td align="left" rowspan="1" colspan="1">0.54</td><td align="left" rowspan="1" colspan="1">1783</td><td align="left" rowspan="1" colspan="1">1057 (59.3%)</td><td align="left" rowspan="1" colspan="1">1305</td><td align="left" rowspan="1" colspan="1">738 (56.6%)</td><td align="left" rowspan="1" colspan="1">0.27</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Current prescription for at least 1 BP&#x02010;lowering medication, a statin and an antiplatelet agent for people with CVD</td><td align="left" rowspan="1" colspan="1">1733</td><td align="left" rowspan="1" colspan="1">961 (55.5%)</td><td align="left" rowspan="1" colspan="1">1209</td><td align="left" rowspan="1" colspan="1">715 (59.1%)</td><td align="left" rowspan="1" colspan="1">0.95</td><td align="left" rowspan="1" colspan="1">1733</td><td align="left" rowspan="1" colspan="1">978 (56.4%)</td><td align="left" rowspan="1" colspan="1">1209</td><td align="left" rowspan="1" colspan="1">603 (49.9%)</td><td align="left" rowspan="1" colspan="1">0.08</td></tr></tbody></table><table-wrap-foot><fn id="jah32672-note-0001"><p>BP indicates blood pressure; cRCT, cluster randomized controlled trial; CVD, cardiovascular disease; HbA1c, glycated hemoglobin.</p></fn><fn id="jah32672-note-0002"><label>a</label><p>Statistical significance (<italic>P</italic>&#x02264;0.05).</p></fn><fn id="jah32672-note-0003"><label>b</label><p>Urinary albumin:creatinine ratio &#x0003e;2.5 men and &#x0003e;3.5 women.</p></fn><fn id="jah32672-note-0004"><label>c</label><p>Calculated using the Chronic Kidney Disease Epidemiology Collaboration formula.</p></fn><fn id="jah32672-note-0005"><label>d</label><p>Calculated using the 1991 Anderson Framingham risk equation.</p></fn><fn id="jah32672-note-0006"><label>e</label><p>Any of the following based on Australian guidelines: diabetes mellitus and age &#x0003e;60&#x000a0;y, diabetes mellitus and albuminuria, estimated glomerular filtration rate &#x0003c;45&#x000a0;mL/min per 1.73&#x000a0;m<sup>2</sup>, systolic BP &#x02265;180&#x000a0;mm&#x000a0;Hg, diastolic BP &#x02265;110&#x000a0;mm&#x000a0;Hg, total cholesterol &#x0003e;7.5&#x000a0;mmol/L.</p></fn><fn id="jah32672-note-0007"><label>f</label><p>Any of the following: coronary heart disease, cerebrovascular disease, and peripheral vascular disease.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah32672-sec-0018"><title>Survey on Attitudes to the Software Tools</title><p>Thirty&#x02010;two GPs within 21 intervention health services (70%) completed the end of study survey. Of these, 6% reported always using the intervention, 25% used it more than half of the time, 53% used it less than half of the time, and 15% never used it for our study patient population. The majority of GPs had positive attitudes to all intervention components (Figure&#x000a0;<xref rid="jah32672-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jah32672-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>General practitioner's opinion on <italic>HealthTracker</italic> intervention use. CVD indicates cardiovascular disease.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-6-e007093-g002"/></fig></sec><sec id="jah32672-sec-0019"><title>Outcomes</title><p>There were no differences in appropriate CVD risk factor screening rates during the post&#x02010;trial period when compared with rates at the end of the cRCT ([64.7% versus 63.5% overall; <italic>P</italic>&#x02010;trend=0.17] Figure&#x000a0;<xref rid="jah32672-fig-0003" ref-type="fig">3</xref>). There was also no heterogeneity of effects by original intervention allocation group (<italic>P</italic>=0.18). Thirty&#x02010;five percent of patients were not screened appropriately according to guideline recommendations at the end of the post&#x02010;trial period. Of these, 31.1% had insufficient data to calculate absolute CVD risk, 39.8% were low&#x02010;risk patients with missing or out&#x02010;of&#x02010;date information, and 29.1% high&#x02010;risk patients with missing or out&#x02010;of&#x02010;date information among high&#x02010;risk patients. The main driver for this was an out&#x02010;of&#x02010;date or missing lipid value, which accounted for 71.3% of the screening gap.</p><fig fig-type="Figure" xml:lang="en" id="jah32672-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Patients receiving appropriate screening of their <styled-content style="fixed-case">CVD</styled-content> risk factors. CVD indicates cardiovascular disease; cRCT, cluster&#x02010;randomized controlled trial.</p></caption><graphic id="nlm-graphic-5" xlink:href="JAH3-6-e007093-g003"/></fig><p>There was a significant improvement in prescription rates for patients at high CVD risk in the post&#x02010;trial period when compared with rates at the end of the cRCT ([65.2% versus 56.0% overall; <italic>P</italic>&#x02010;trend&#x0003c;0.001] Figure&#x000a0;<xref rid="jah32672-fig-0004" ref-type="fig">4</xref>). There was no heterogeneity of effects by original intervention allocation group (<italic>P</italic>=0.57).</p><fig fig-type="Figure" xml:lang="en" id="jah32672-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>High <styled-content style="fixed-case">CVD</styled-content> risk (&#x0003e;15% and with <styled-content style="fixed-case">CVD</styled-content>) patients receiving recommended medications. CVD indicates cardiovascular disease; cRCT, cluster&#x02010;randomized controlled trial.</p></caption><graphic id="nlm-graphic-7" xlink:href="JAH3-6-e007093-g004"/></fig><p>There were significant absolute increases in medication escalation (new prescriptions or increased numbers of medications) for patients at high CVD risk in the post&#x02010;trial period. An absolute improvement of 15.8% was observed for antiplatelet drugs (<italic>P</italic>&#x0003c;0.01); 14.8% for lipid&#x02010;lowering medications (<italic>P</italic>&#x0003c;0.01); and 19.0% for BP&#x02010;lowering medications (<italic>P</italic>&#x0003c;0.01). There was no heterogeneity in these outcomes by original intervention allocation group.</p><p>For the high CVD risk patients who were undertreated (not prescribed guideline&#x02010;recommended medications) at baseline, the prescribing rates of recommended medications prescriptions in the post&#x02010;trial period was significantly higher overall compared with the rates at the end of the cRCT (42.1% versus 33.4%, <italic>P&#x02010;</italic>trend&#x0003c;0.001). This improvement was apparent in both the intervention and control groups (44.9% intervention versus 37.8% control at post&#x02010;trial period; Figure&#x000a0;<xref rid="jah32672-fig-0005" ref-type="fig">5</xref>); however, there was significant heterogeneity by original intervention allocation group (<italic>P</italic>=0.03), with greater effects observed in the control arm. There were no changes in BP or cholesterol levels in the post&#x02010;trial period compared with mean levels at the end of cRCT for either high&#x02010;risk patients or undertreated high&#x02010;risk patients. There was no heterogeneity between patient outcomes based on original randomization.</p><fig fig-type="Figure" xml:lang="en" id="jah32672-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Undertreated high <styled-content style="fixed-case">CVD</styled-content> risk (&#x0003e;15% and with <styled-content style="fixed-case">CVD</styled-content>) patients receiving recommended medications. CVD indicates cardiovascular disease.</p></caption><graphic id="nlm-graphic-9" xlink:href="JAH3-6-e007093-g005"/></fig></sec></sec><sec id="jah32672-sec-0020"><title>Discussion</title><p>Implementation of <italic>HealthTracker</italic>, a multifaceted QI intervention, in a post&#x02010;trial setting was associated with maintenance of trial&#x02010;related improvements in CVD risk factor measurements and ongoing improvements in prescription of appropriate medications to patients at high CVD risk. Sustainability of health innovations has been defined as &#x0201c;the extent to which desired health benefits are maintained or improved upon over time after initial funding or support have been withdrawn.&#x0201d;<xref rid="jah32672-bib-0019" ref-type="ref">19</xref>, <xref rid="jah32672-bib-0020" ref-type="ref">20</xref> From this perspective, our findings provide some indication of sustainability of the <italic>HealthTracker</italic> intervention in the Australian primary healthcare environment.</p><p>A post&#x02010;trial plateauing in CVD risk factor screening rates was observed at health services in both trials arms. Despite our evidence&#x02010;based QI intervention being available, there remained an overall CVD screening gap of 35%. The plateauing of CVD risk factor screening is suggestive of a &#x0201c;ceiling&#x0201d; effect.<xref rid="jah32672-bib-0018" ref-type="ref">18</xref> There are some factors that partly explain this phenomenon. Of the 35% screening gap, the vast majority had an out&#x02010;of&#x02010;date or missing lipid value. The majority of out&#x02010;of&#x02010;date values were from those identified at low CVD risk, and providers may have not considered it necessary to re&#x02010;screen these patients within a 2&#x02010;year timeframe. Although absolute CVD risk assessment is recommended 2&#x02010;yearly for low&#x02010;risk individuals in Australia,<xref rid="jah32672-bib-0018" ref-type="ref">18</xref> some guidelines recommend lipid screening every 5&#x000a0;years.<xref rid="jah32672-bib-0021" ref-type="ref">21</xref> For those at moderate to high risk who are lacking lipid measurements, there are possibly patient factors (eg, difficult&#x02010;to&#x02010;reach populations, refusal to be tested) and provider factors (active disregard or passive omission) at play.</p><p>Conversely, there was a significant improvement in recommended prescribing of appropriate treatments among those at high CVD risk in the post&#x02010;trial period both for the intervention and control groups. The delayed onset of improvement in the intervention group might be related to doctors not prescribing recommended medications immediately following institution of lifestyle change recommendations or initiatives, or a generally more cautious approach to introducing or accepting new treatments.<xref rid="jah32672-bib-0022" ref-type="ref">22</xref> The improvement in prescriptions in the control group during the post&#x02010;trial period suggests the intervention had an impact outside the trial setting, although there are obvious limitations in making this assertion given the observational and uncontrolled nature of the study design. The secular effects of wider distribution of a new guideline advocating for an absolute risk approach to management of cardiovascular risk may have also had relevance to the observed change.<xref rid="jah32672-bib-0018" ref-type="ref">18</xref>, <xref rid="jah32672-bib-0023" ref-type="ref">23</xref>
+</p><p>The group that continued to have the most benefit was the undertreated high CVD risk patients. The intervention group had significant improvements in prescribing recommended treatments both in the trial and post&#x02010;trial period and the control group significantly improved in prescribing after introduction of the intervention.</p><p>
+<italic>HealthTracker</italic> contains components known to improve processes of care and outcomes in trial settings.<xref rid="jah32672-bib-0009" ref-type="ref">9</xref>, <xref rid="jah32672-bib-0024" ref-type="ref">24</xref>, <xref rid="jah32672-bib-0025" ref-type="ref">25</xref> Key features include real&#x02010;time, computer&#x02010;guided decision support that is integrated into routine clinical workflows, patient&#x02010;specific recommendations and management rather than assessments alone, screening and therapy alerts, and regular audit and feedback advice to practitioners.<xref rid="jah32672-bib-0014" ref-type="ref">14</xref> The continued escalation of medication in those at high CVD risk suggests the possibility that the intervention was able to address doctor therapeutic inertia (defined as failure to initiate or increase medication when treatment goals are not being met).<xref rid="jah32672-bib-0026" ref-type="ref">26</xref> Given the multifaceted nature of the intervention, it can be difficult to assess what were the &#x0201c;active ingredients&#x0201d; that may have promoted improvements in prescribing recommended treatments.</p><p>An important study limitation is that for technical reasons we were unable to obtain usage data for the various intervention tools. Based on GPs&#x02019; opinions on use of the intervention in the end&#x02010;of&#x02010;study survey it would, however, appear that the intervention was partially used and when used the GPs viewed the intervention favorably. To better understand implementation issues, a detailed mixed&#x02010;methods process evaluation of both the trial and post&#x02010;trial phases is under way to better understand which intervention components promoted or had minimal impact on behavior change at the provider, patient, and system levels. We are capturing insights on usage patterns through staff surveys, in&#x02010;depth practitioner and patient interviews, and ethnographic analyses of videotaped consultations.<xref rid="jah32672-bib-0027" ref-type="ref">27</xref>, <xref rid="jah32672-bib-0028" ref-type="ref">28</xref> A realistic evaluation approach is being taken to analyze the mechanisms of change, contextual influences, and the resultant outcomes.<xref rid="jah32672-bib-0028" ref-type="ref">28</xref>, <xref rid="jah32672-bib-0029" ref-type="ref">29</xref> Preliminary findings indicate a complex interaction between the intervention, organizational mission and values, the role of leaders and teams, and the technical competence of the software tools. Understanding these interactions is expected to shed further light on why mixed outcomes are often observed with implementation strategies to improve healthcare quality.</p><p>Despite an abundance of research on HIT interventions, most studies are limited by examining short&#x02010;term impact. Consequently, knowledge on their implementation into routine practice and sustainability of their use is sparse.<xref rid="jah32672-bib-0030" ref-type="ref">30</xref> Studies have found that implementation of interventions outside of a trial setting is influenced by several inter&#x02010;related factors including <italic>hardware and software computing infrastructure, clinical content, human&#x02013;computer interface, people, workflow and communication, internal organizational policies and procedures and culture, external rules and regulations and pressures, and system measurement and monitoring</italic>.<xref rid="jah32672-bib-0031" ref-type="ref">31</xref> Some of these factors will be addressed in the process evaluation. For future HIT studies, these factors need to be evaluated on an ongoing basis for successful implementation of HIT.</p><p>Study strengths include pragmatic implementation of the intervention within routine clinical practice, evaluation in a large cohort, and longer follow&#x02010;up after initial implementation during the post&#x02010;trial period. The representativeness of the general practices and Aboriginal community controlled health services in Australia<xref rid="jah32672-bib-0032" ref-type="ref">32</xref>, <xref rid="jah32672-bib-0033" ref-type="ref">33</xref> helps strengthen the generalizability of the findings to similar healthcare environments in Australia.</p><p>The main study limitation is related to the lack of a comparable control group during the post&#x02010;trial period.<xref rid="jah32672-bib-0034" ref-type="ref">34</xref> This limits our ability to make causal inferences from the data extracted in the post&#x02010;trial period. In addition, the 2 groups (intervention and control) experienced different exposure periods to the intervention and levels of support. Another limitation relates to the use of electronic medical records and data extraction tools to evaluate the effects of the intervention. This meant that (1) lifestyle advice, which is often entered as free text in the record, was not able to be captured and we were unable to assess effects on diet and physical activity (although there were no effects observed on body mass index and smoking status); (2) the data extraction tool only extracts data for active patients who meet the criteria for being a regular attendee and if a patient were to die during the trial period from our cohort, they would not be included in the follow&#x02010;up period; and (3) information on medication adherence was not able to be captured, and this may be an important driver in achieving BP&#x02010; and lipid&#x02010;lowering reductions. Given this intervention targeted practitioner rather than patient behavior and adherence barriers are complex, it is quite likely that such interventions need to be companioned with additional patient&#x02010;focused interventions in order to achieve reductions in CVD biomarkers.</p><p>This observational study, despite being weak in study design compared with rigorous randomized control trials, has the benefits of demonstrating the impact of the intervention beyond trial settings and assessing integration into clinical care.<xref rid="jah32672-bib-0035" ref-type="ref">35</xref> It demonstrates some evidence of potential longer&#x02010;term impact of a multifaceted QI intervention on management of CVD risk. Further research on understanding how best to implement the intervention in various complex health systems and social/economic settings is needed. This would provide a broad range of stakeholders and funders key information needed to allocate resources and to understand the best strategies for implementation and modification of interventions to maximize the use of technology&#x02010;driven, QI strategies.</p></sec><sec id="jah32672-sec-0021"><title>Author Contributions</title><p>Peiris and A. Patel conceptualized the intervention and study. All authors contributed to the overall study design. B. Patel implemented the study and conducted the data collection. Li conducted the data analysis. A. Patel and B. Patel contributed to the analysis plan. B. Patel wrote the initial draft of the manuscript. A. Patel and Peiris provided critical review and editing of the initial and subsequent drafts of the manuscript. All authors reviewed and edited the final manuscript.</p></sec><sec id="jah32672-sec-0023"><title>Sources of Funding</title><p>Funding support for this project is provided by an Australian National Health and Medical Research Council (NHMRC) Project Grant (ID 1010547) and NSW Health. B. Patel is supported by a NHMRC postgraduate scholarship (ID APP1075308). A. Patel is supported by a NHMRC senior research fellowship (APP1079301). Peiris is supported by a NHMRC postdoctoral fellowship (ID 1054754).</p></sec><sec id="jah32672-sec-0024"><title>Disclosures</title><p>The George Institute has a wholly owned for&#x02010;profit subsidiary, George Care, which has been assigned the IP for <italic>HealthTracker</italic> to explore bringing this to market.</p></sec></body><back><ack id="jah32672-sec-0022"><title>Acknowledgments</title><p>This study would not have been possible without the dedicated health professionals and patients who volunteered their time to improve quality of care. We thank our research staff, Marilyn Lyford, Genevieve Coorey, and Maria Agaliotis, who aided in implementation of study and data collection.</p></ack><ref-list content-type="cited-references" id="jah32672-bibl-0001"><title>References</title><ref id="jah32672-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah32672-cit-0001">
+<string-name>
+<surname>Grol</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Grimshaw</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>From best evidence to best practice: effective implementation of change in patients&#x02019; care</article-title>. <source>Lancet</source>. <year>2003</year>;<volume>362</volume>:<fpage>1225</fpage>&#x02013;<lpage>1230</lpage>.<pub-id pub-id-type="pmid">14568747</pub-id></mixed-citation></ref><ref id="jah32672-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah32672-cit-0002">
+<string-name>
+<surname>McGlynn</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Asch</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Keesey</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hicks</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>DeCristofaro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kerr</surname>
+<given-names>EA</given-names>
+</string-name>. <article-title>The quality of health care delivered to adults in the United States</article-title>. <source>N Engl J Med</source>. <year>2003</year>;<volume>348</volume>:<fpage>2635</fpage>&#x02013;<lpage>2645</lpage>.<pub-id pub-id-type="pmid">12826639</pub-id></mixed-citation></ref><ref id="jah32672-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah32672-cit-0003">
+<string-name>
+<surname>Heeley</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Peiris</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Cass</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Weekes</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Chalmers</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Cardiovascular risk perception and evidence&#x02014;practice gaps in Australian general practice (the AusHEART study)</article-title>. <source>Med J Aust</source>. <year>2010</year>;<volume>192</volume>:<fpage>254</fpage>&#x02013;<lpage>259</lpage>.<pub-id pub-id-type="pmid">20201758</pub-id></mixed-citation></ref><ref id="jah32672-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah32672-cit-0004">
+<string-name>
+<surname>Webster</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Heeley</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Peiris</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Bayram</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Cass</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>Gaps in cardiovascular disease risk management in Australian general practice</article-title>. <source>Med J Aust</source>. <year>2009</year>;<volume>191</volume>:<fpage>324</fpage>&#x02013;<lpage>329</lpage>.<pub-id pub-id-type="pmid">19769555</pub-id></mixed-citation></ref><ref id="jah32672-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah32672-cit-0005">
+<string-name>
+<surname>Blumenthal</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Launching HITECH</article-title>. <source>N Engl J Med</source>. <year>2010</year>;<volume>362</volume>:<fpage>382</fpage>&#x02013;<lpage>385</lpage>.<pub-id pub-id-type="pmid">20042745</pub-id></mixed-citation></ref><ref id="jah32672-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah32672-cit-0006">
+<string-name>
+<surname>Buntin</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Burke</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Hoaglin</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Blumenthal</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>The benefits of health information technology: a review of the recent literature shows predominantly positive results</article-title>. <source>Health Aff (Millwood)</source>. <year>2011</year>;<volume>30</volume>:<fpage>464</fpage>&#x02013;<lpage>471</lpage>.<pub-id pub-id-type="pmid">21383365</pub-id></mixed-citation></ref><ref id="jah32672-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah32672-cit-0007">
+<string-name>
+<surname>Garg</surname>
+<given-names>AX</given-names>
+</string-name>, <string-name>
+<surname>Adhikari</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Rosas&#x02010;Arellano</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Devereaux</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Beyene</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sam</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Haynes</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Effects of computerized clinical decision support systems on practitioner performance and patient outcomes: a systematic review</article-title>. <source>JAMA</source>. <year>2005</year>;<volume>293</volume>:<fpage>1223</fpage>&#x02013;<lpage>1238</lpage>.<pub-id pub-id-type="pmid">15755945</pub-id></mixed-citation></ref><ref id="jah32672-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah32672-cit-0008">
+<string-name>
+<surname>Roshanov</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Fernandes</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Wilczynski</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Hemens</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>You</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Handler</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Nieuwlaat</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Souza</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Beyene</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Van Spall</surname>
+<given-names>HG</given-names>
+</string-name>, <string-name>
+<surname>Garg</surname>
+<given-names>AX</given-names>
+</string-name>, <string-name>
+<surname>Haynes</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Features of effective computerised clinical decision support systems: meta&#x02010;regression of 162 randomised trials</article-title>. <source>BMJ</source>. <year>2013</year>;<volume>346</volume>:<fpage>f657</fpage>.<pub-id pub-id-type="pmid">23412440</pub-id></mixed-citation></ref><ref id="jah32672-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah32672-cit-0009">
+<string-name>
+<surname>Bright</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dhurjati</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bristow</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bastian</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Coeytaux</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Samsa</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hasselblad</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Musty</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Wing</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kendrick</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Lobach</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Effect of clinical decision&#x02010;support systems: a systematic review</article-title>. <source>Ann Intern Med</source>. <year>2012</year>;<volume>157</volume>:<fpage>29</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">22751758</pub-id></mixed-citation></ref><ref id="jah32672-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah32672-cit-0010">
+<string-name>
+<surname>Ivers</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Jamtvedt</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Flottorp</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Odgaard&#x02010;Jensen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>French</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>O'Brien</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Johansen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Grimshaw</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Oxman</surname>
+<given-names>AD</given-names>
+</string-name>. <article-title>Audit and feedback: effects on professional practice and healthcare outcomes</article-title>. <source>Cochrane Database Syst Rev</source>. <year>2012</year>;<volume>6</volume>:<fpage>Cd000259</fpage>.</mixed-citation></ref><ref id="jah32672-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah32672-cit-0011">
+<string-name>
+<surname>Ivers</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Grimshaw</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Jamtvedt</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Flottorp</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>O'Brien</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>French</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Odgaard&#x02010;Jensen</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Growing literature, stagnant science? Systematic review, meta&#x02010;regression and cumulative analysis of audit and feedback interventions in health care</article-title>. <source>J Gen Intern Med</source>. <year>2014</year>;<volume>29</volume>:<fpage>1534</fpage>&#x02013;<lpage>1541</lpage>.<pub-id pub-id-type="pmid">24965281</pub-id></mixed-citation></ref><ref id="jah32672-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah32672-cit-0012">
+<string-name>
+<surname>Lobach</surname>
+<given-names>DF</given-names>
+</string-name>. <article-title>The road to effective clinical decision support: are we there yet?</article-title>
+<source>BMJ</source>. <year>2013</year>;<volume>346</volume>:<fpage>f1616</fpage>.<pub-id pub-id-type="pmid">23487164</pub-id></mixed-citation></ref><ref id="jah32672-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah32672-cit-0013">
+<string-name>
+<surname>Peiris</surname>
+<given-names>DUT</given-names>
+</string-name>, <string-name>
+<surname>Panaretto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hunt</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zwar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Redfern</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Macmahon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Colagiuri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hayman</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The Treatment of cardiovascular Risk in Primary care using Electronic Decision supOrt (TORPEDO) study&#x02010;intervention development and protocol for a cluster randomised, controlled trial of an electronic decision support and quality improvement intervention in Australian primary healthcare</article-title>. <source>BMJ Open</source>. <year>2012</year>;<volume>2</volume>:<fpage>e002177</fpage>.</mixed-citation></ref><ref id="jah32672-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah32672-cit-0014">
+<string-name>
+<surname>Peiris</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Usherwood</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Panaretto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hunt</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Redfern</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zwar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Colagiuri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hayman</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lyford</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>MacMahon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Neal</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cass</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Effect of a computer&#x02010;guided, quality improvement program for cardiovascular disease risk management in primary health care: the treatment of cardiovascular risk using electronic decision support cluster&#x02010;randomized trial</article-title>. <source>Circ Cardiovasc Qual Outcomes</source>. <year>2015</year>;<volume>8</volume>:<fpage>87</fpage>&#x02013;<lpage>95</lpage>.<pub-id pub-id-type="pmid">25587090</pub-id></mixed-citation></ref><ref id="jah32672-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah32672-cit-0015">
+<string-name>
+<surname>Murphy</surname>
+<given-names>EV</given-names>
+</string-name>. <article-title>Clinical decision support: effectiveness in improving quality processes and clinical outcomes and factors that may influence success</article-title>. <source>Yale J Biol Med</source>. <year>2014</year>;<volume>87</volume>:<fpage>187</fpage>&#x02013;<lpage>197</lpage>.<pub-id pub-id-type="pmid">24910564</pub-id></mixed-citation></ref><ref id="jah32672-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah32672-cit-0016">
+<string-name>
+<surname>Glasgow</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Lichtenstein</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Marcus</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>Why don't we see more translation of health promotion research to practice? Rethinking the efficacy&#x02010;to&#x02010;effectiveness transition</article-title>. <source>Am J Public Health</source>. <year>2003</year>;<volume>93</volume>:<fpage>1261</fpage>&#x02013;<lpage>1267</lpage>.<pub-id pub-id-type="pmid">12893608</pub-id></mixed-citation></ref><ref id="jah32672-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah32672-cit-0017">
+<string-name>
+<surname>Peiris</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Agaliotis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Validation of a general practice audit and data extraction tool</article-title>. <source>Aust Fam Physician</source>. <year>2013</year>;<volume>42</volume>:<fpage>816</fpage>&#x02013;<lpage>819</lpage>.<pub-id pub-id-type="pmid">24217106</pub-id></mixed-citation></ref><ref id="jah32672-bib-0018"><label>18</label><mixed-citation publication-type="miscellaneous" id="jah32672-cit-0018">
+<collab collab-type="authors">National Vascular Disease Prevention Alliance</collab>
+. <article-title>Guidelines for the management of absolute cardiovascular disease risk</article-title>. <year>2012</year>; <ext-link ext-link-type="uri" xlink:href="http://strokefoundation.com.au/site/media/AbsoluteCVD_GL_Webready.pdf">http://strokefoundation.com.au/site/media/AbsoluteCVD_GL_Webready.pdf</ext-link>
+</mixed-citation></ref><ref id="jah32672-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah32672-cit-0019">
+<string-name>
+<surname>Wiltsey Stirman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kimberly</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Calloway</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Castro</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Charns</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The sustainability of new programs and innovations: a review of the empirical literature and recommendations for future research</article-title>. <source>Implement Sci</source>. <year>2012</year>;<volume>7</volume>:<fpage>17</fpage>.<pub-id pub-id-type="pmid">22417162</pub-id></mixed-citation></ref><ref id="jah32672-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah32672-cit-0020">
+<string-name>
+<surname>Scheirer</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Is sustainability possible? A review and commentary on empirical studies of program sustainability</article-title>. <source>Am J Eval</source>. <year>2005</year>;<volume>26</volume>:<fpage>320</fpage>&#x02013;<lpage>347</lpage>.</mixed-citation></ref><ref id="jah32672-bib-0021"><label>21</label><mixed-citation publication-type="miscellaneous" id="jah32672-cit-0021">
+<collab collab-type="authors">The Royal Australian College of General Practitioners</collab>
+. <article-title>Guidelines for preventive activities in general practice.</article-title> 9th edn. East Melbourne, Vic: RACGP, <year>2016</year>.</mixed-citation></ref><ref id="jah32672-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah32672-cit-0022">
+<string-name>
+<surname>Lebeau</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Cadwallader</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Vaillant&#x02010;Roussel</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Pouchain</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Yaouanc</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Aubin&#x02010;Auger</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Mercier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rusch</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Remmen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Vermeire</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hendrickx</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>General practitioners&#x02019; justifications for therapeutic inertia in cardiovascular prevention: an empirically grounded typology</article-title>. <source>BMJ Open</source>. <year>2016</year>;<volume>6</volume>:<fpage>e010639</fpage>.</mixed-citation></ref><ref id="jah32672-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah32672-cit-0023">
+<string-name>
+<surname>Jackson</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Guidelines on preventing cardiovascular disease in clinical practice</article-title>. <source>BMJ</source>. <year>2000</year>;<volume>320</volume>:<fpage>659</fpage>&#x02013;<lpage>661</lpage>.<pub-id pub-id-type="pmid">10710556</pub-id></mixed-citation></ref><ref id="jah32672-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah32672-cit-0024">
+<string-name>
+<surname>Njie</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Proia</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Thota</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Finnie</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Hopkins</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Banks</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Callahan</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Pronk</surname>
+<given-names>NP</given-names>
+</string-name>, <string-name>
+<surname>Rask</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Lackland</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Kottke</surname>
+<given-names>TE</given-names>
+</string-name>; <collab collab-type="authors">Community Preventive Services Task F</collab>
+. <article-title>Clinical decision support systems and prevention: a community guide cardiovascular disease systematic review</article-title>. <source>Am J Prev Med</source>. <year>2015</year>;<volume>49</volume>:<fpage>784</fpage>&#x02013;<lpage>795</lpage>.<pub-id pub-id-type="pmid">26477805</pub-id></mixed-citation></ref><ref id="jah32672-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah32672-cit-0025">
+<string-name>
+<surname>Kawamoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Houlihan</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Balas</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Lobach</surname>
+<given-names>DF</given-names>
+</string-name>. <article-title>Improving clinical practice using clinical decision support systems: a systematic review of trials to identify features critical to success</article-title>. <source>BMJ</source>. <year>2005</year>;<volume>330</volume>:<fpage>765</fpage>.<pub-id pub-id-type="pmid">15767266</pub-id></mixed-citation></ref><ref id="jah32672-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah32672-cit-0026">
+<string-name>
+<surname>Okonofua</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Jesri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rehman</surname>
+<given-names>SU</given-names>
+</string-name>, <string-name>
+<surname>Durkalski</surname>
+<given-names>VL</given-names>
+</string-name>, <string-name>
+<surname>Egan</surname>
+<given-names>BM</given-names>
+</string-name>. <article-title>Therapeutic inertia is an impediment to achieving the Healthy People 2010 blood pressure control goals</article-title>. <source>Hypertension</source>. <year>2006</year>;<volume>47</volume>:<fpage>345</fpage>&#x02013;<lpage>351</lpage>.<pub-id pub-id-type="pmid">16432045</pub-id></mixed-citation></ref><ref id="jah32672-bib-0027"><label>27</label><mixed-citation publication-type="book" id="jah32672-cit-0027">
+<string-name>
+<surname>O'Grady</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Candlin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Candlin</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Peiris</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Usherwood</surname>
+<given-names>T</given-names>
+</string-name>. <source>&#x02018;It's just statistics&#x02026; I'm kind of a glass half&#x02010;full sort of guy&#x02019;&#x02014;The Challenge of Differing Doctor&#x02010;Patient Perspectives in the Context of Electronically&#x02010;Mediated Cardiovascular Risk Management Communicating Risk (Communicating in Professions and Organizations)</source>. <publisher-loc>Houndmills, Basingstoke</publisher-loc>: <publisher-name>Palgrave Macmillan</publisher-name>; <year>2016</year>.</mixed-citation></ref><ref id="jah32672-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah32672-cit-0028">
+<string-name>
+<surname>Patel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Usherwood</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Panaretto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zwar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Redfern</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Doust</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Peiris</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>A multifaceted quality improvement intervention for CVD risk management in Australian primary healthcare: a protocol for a process evaluation</article-title>. <source>Implement Sci</source>. <year>2014</year>;<volume>9</volume>:<fpage>187</fpage>.<pub-id pub-id-type="pmid">25515217</pub-id></mixed-citation></ref><ref id="jah32672-bib-0029"><label>29</label><mixed-citation publication-type="book" id="jah32672-cit-0029">
+<string-name>
+<surname>Pawson</surname>
+<given-names>RT</given-names>
+</string-name>, <string-name>
+<surname>Tilley</surname>
+<given-names>N</given-names>
+</string-name>. <source>Realistic Evaluation</source>. <publisher-loc>London</publisher-loc>: <publisher-name>Sage</publisher-name>; <year>1997</year>.</mixed-citation></ref><ref id="jah32672-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah32672-cit-0030">
+<string-name>
+<surname>Glasgow</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Sanchez</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Implementation science approaches for integrating eHealth research into practice and policy</article-title>. <source>Int J Med Inform</source>. <year>2014</year>;<volume>83</volume>:<fpage>e1</fpage>&#x02013;<lpage>e11</lpage>.<pub-id pub-id-type="pmid">23910896</pub-id></mixed-citation></ref><ref id="jah32672-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah32672-cit-0031">
+<string-name>
+<surname>Sittig</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>A new sociotechnical model for studying health information technology in complex adaptive healthcare systems</article-title>. <source>Qual Saf Health Care</source>. <year>2010</year>;<volume>19</volume>(<issue>suppl 3</issue>):<fpage>i68</fpage>&#x02013;<lpage>i74</lpage>.<pub-id pub-id-type="pmid">20959322</pub-id></mixed-citation></ref><ref id="jah32672-bib-0032"><label>32</label><mixed-citation publication-type="miscellaneous" id="jah32672-cit-0032">
+<string-name>
+<surname>Britt</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Henderson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Charles</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Valenti</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Byram</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pollack</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>O'Halloran</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>General Practice Activity in Australia 2011&#x02013;2012</article-title>. General Practice Series No 31. Sydney. Sydney University Press <year>2012</year>.</mixed-citation></ref><ref id="jah32672-bib-0033"><label>33</label><mixed-citation publication-type="miscellaneous" id="jah32672-cit-0033">
+<collab collab-type="authors">Australian Institute of Health and Welfare</collab>
+. <article-title>Aboriginal and Torres Strait Islander health services report 2011&#x02013;12: Online Services Report &#x02010; key results. Cat. no. IHW 104. Canberra: AIHW</article-title>. <year>2013</year>.</mixed-citation></ref><ref id="jah32672-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah32672-cit-0034">
+<string-name>
+<surname>Carlson</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>RS</given-names>
+</string-name>. <article-title>Study design, precision, and validity in observational studies</article-title>. <source>J Palliat Med</source>. <year>2009</year>;<volume>12</volume>:<fpage>77</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">19284267</pub-id></mixed-citation></ref><ref id="jah32672-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jah32672-cit-0035">
+<string-name>
+<surname>Rohrer</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Ten important elements for observational studies in primary care and community health</article-title>. <source>J Prim Care Community Health</source>. <year>2014</year>;<volume>5</volume>:<fpage>158</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">24924684</pub-id></mixed-citation></ref></ref-list></back></article>

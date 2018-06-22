@@ -1,0 +1,1409 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Internet Res</journal-id><journal-id journal-id-type="publisher-id">JMIR</journal-id><journal-title-group><journal-title>Journal of Medical Internet Research</journal-title></journal-title-group><issn pub-type="ppub">1439-4456</issn><issn pub-type="epub">1438-8871</issn><publisher><publisher-name>JMIR Publications Inc.</publisher-name><publisher-loc>Toronto, Canada</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">23876832</article-id><article-id pub-id-type="pmc">3786000</article-id><article-id pub-id-type="publisher-id">v15i7e140</article-id><article-id pub-id-type="doi">10.2196/jmir.2626</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Paper</subject></subj-group></article-categories><title-group><article-title>Efficacy of Standard Versus Enhanced Features in a Web-Based Commercial Weight-Loss Program for Obese Adults, Part 2: Randomized Controlled Trial</article-title></title-group><contrib-group><contrib contrib-type="editor"><name><surname>Eysenbach</surname><given-names>Gunther</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="reviewer"><name><surname>Krukowski</surname><given-names>Rebecca</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Allman-Farinelli</surname><given-names>Margaret</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Ivannikov</surname><given-names>Maxim</given-names></name></contrib></contrib-group><contrib-group><contrib id="contrib1" contrib-type="author" corresp="yes"><name><surname>Collins</surname><given-names>Clare E</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1">1</xref><address><institution>Priority Research Centre in Nutrition and Physical Activity, Nutrition and Dietetics</institution><institution>School of Health Sciences, Faculty of Health</institution><institution>University of Newcastle</institution><addr-line>Level 2, ATC Building</addr-line><addr-line>University Drive</addr-line><addr-line>Callaghan, 2308</addr-line><country>Australia</country><phone>61 2 4921 5646</phone><fax>61 2 4921 7053</fax><email>Clare.Collins@newcastle.edu.au</email></address></contrib><contrib id="contrib2" contrib-type="author"><name><surname>Morgan</surname><given-names>Philip J</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib id="contrib3" contrib-type="author"><name><surname>Hutchesson</surname><given-names>Melinda J</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib id="contrib4" contrib-type="author"><name><surname>Callister</surname><given-names>Robin</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff3">3</xref></contrib></contrib-group><aff id="aff1" rid="aff1"><sup>1</sup><institution>Priority Research Centre in Nutrition and Physical Activity, Nutrition and Dietetics</institution><institution>School of Health Sciences, Faculty of Health</institution><institution>University of Newcastle</institution><addr-line>Callaghan</addr-line><country>Australia</country></aff><aff id="aff2" rid="aff2"><sup>2</sup><institution>Priority Research Centre in Nutrition and Physical Activity</institution><institution>School of Education, Faculty of Education &#x00026; Arts</institution><institution>University of Newcastle</institution><addr-line>Callaghan</addr-line><country>Australia</country></aff><aff id="aff3" rid="aff3"><sup>3</sup><institution>Priority Research Centre in Nutrition and Physical Activity</institution><institution>School of Biomedical Sciences &#x00026; Pharmacy, Faculty of Health</institution><institution>University of Newcastle</institution><addr-line>Callaghan</addr-line><country>Australia</country></aff><author-notes><corresp>Corresponding Author: Clare E Collins <email>Clare.Collins@newcastle.edu.au</email></corresp></author-notes><pub-date pub-type="collection"><month>7</month><year>2013</year></pub-date><pub-date pub-type="epub"><day>22</day><month>7</month><year>2013</year></pub-date><volume>15</volume><issue>7</issue><elocation-id>e140</elocation-id><history><date date-type="received"><day>22</day><month>3</month><year>2013</year></date><date date-type="rev-request"><day>12</day><month>4</month><year>2013</year></date><date date-type="accepted"><day>12</day><month>5</month><year>2013</year></date></history><permissions><copyright-statement>&#x000a9;Clare E Collins, Philip J Morgan, Melinda J Hutchesson, Robin Callister. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 22.07.2013. </copyright-statement><copyright-year>2013</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/"><license-p><!--CREATIVE COMMONS-->This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0/">http://creativecommons.org/licenses/by/2.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/,">http://www.jmir.org/,</ext-link> as well as this copyright and license information must be included.</license-p></license></permissions><self-uri xlink:type="simple" xlink:href="http://www.jmir.org/2013/7/e140/"/><abstract><sec sec-type="background"><title>Background</title><p>Commercial Web-based weight-loss programs are becoming more popular and increasingly refined through the addition of enhanced features, yet few randomized controlled trials (RCTs) have independently and rigorously evaluated the efficacy of these commercial programs or additional features.</p></sec><sec sec-type="objective"><title>Objective</title><p>To determine whether overweight and obese adults randomized to an online weight-loss program with additional support features (enhanced) experienced a greater reduction in body mass index (BMI) and increased usage of program features after 12 and 24 weeks compared to those randomized to a standard online version (basic).</p></sec><sec sec-type="methods"><title>Methods</title><p>An assessor-blinded RCT comparing 301 adults (male: n=125, 41.5%; mean age: 41.9 years, SD 10.2; mean BMI: 32.2 kg/m<sup>2</sup>, SD 3.9) who were recruited and enrolled offline, and randomly allocated to basic or enhanced versions of a commercially available Web-based weight-loss program for 24 weeks.</p></sec><sec sec-type="results"><title>Results</title><p>Retention at 24 weeks was greater in the enhanced group versus the basic group (basic 68.5%, enhanced 81.0%; <italic>P</italic>=.01). In the intention-to-treat analysis of covariance with imputation using last observation carried forward, after 24 weeks both intervention groups had reductions in key outcomes with no difference between groups: BMI (basic mean &#x02013;1.1 kg/m<sup>2</sup>, SD 1.5; enhanced mean &#x02013;1.3 kg/m<sup>2</sup>, SD 2.0; <italic>P</italic>=.29), weight (basic mean &#x02013;3.3 kg, SD 4.7; enhanced mean &#x02013;4.0 kg, SD 6.2; <italic>P</italic>=.27), waist circumference (basic mean &#x02013;3.1 cm, SD 4.6; enhanced mean &#x02013;4.0 cm, SD 6.2; <italic>P</italic>=.15), and waist-to-height ratio (basic mean &#x02013;0.02, SD 0.03; enhanced mean &#x02013;0.02, SD 0.04, <italic>P</italic>=.21). The enhanced group logged in more often at both 12 and 24 weeks, respectively (enhanced 12-week mean 34.1, SD 28.1 and 24-week mean 43.1, SD 34.0 vs basic 12-week mean 24.6, SD 25.5 and 24-week mean 31.8, SD 33.9; <italic>P</italic>=.002).</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>The addition of personalized e-feedback in the enhanced program provided limited additional benefits compared to a standard commercial Web-based weight-loss program. However, it does support greater retention in the program and greater usage, which was related to weight loss. Further research is required to develop and examine Web-based features that may enhance engagement and outcomes and identify optimal usage patterns to enhance weight loss using Web-based programs.</p></sec><sec><title>Trial Registration</title><p>Australian New Zealand Clinical Trials Registry (ANZCTR) trial number: ACTRN12610000197033; https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=335159 (Archived by WebCite at http://www.webcitation.org/6HoOMGb8j).</p></sec></abstract><kwd-group><kwd>intervention studies</kwd><kwd>weight loss</kwd><kwd>Internet</kwd><kwd>randomized controlled trial</kwd><kwd>reducing diet</kwd><kwd>telemedicine</kwd></kwd-group></article-meta></front><body><sec><title>Introduction</title><p>Internationally, obesity rates in adults continue to rise unabated [<xref ref-type="bibr" rid="ref1">1</xref>]. Effective treatment programs with broad reach are urgently required. Web-based weight-loss programs are an increasingly viable option because most US and Australian households (66% [<xref ref-type="bibr" rid="ref2">2</xref>] and 72% [<xref ref-type="bibr" rid="ref3">3</xref>], respectively) have access to broadband Internet, and many adults (61% in the United States) seek information on health, nutrition, and weight loss from the Internet [<xref ref-type="bibr" rid="ref4">4</xref>].</p><p>A systematic review of the effectiveness of Web-based weight loss and maintenance interventions found that these programs can facilitate meaningful weight change [<xref ref-type="bibr" rid="ref5">5</xref>]. However, it was not possible to determine their overall effectiveness because of the heterogeneity of designs and small number of comparable studies. A meta-analysis of 3 Web-based weight-loss randomized controlled trials (RCTs) that compared online education-only programs with online programs that included enhanced features, such as counseling, automated or therapist feedback, behavioral lessons, self-monitoring, and a bulletin board, found weight loss was increased by 2.2 kg over a 6- to 12-month period [<xref ref-type="bibr" rid="ref5">5</xref>]. These results are supported by 3 other RCTs which found that the addition of online lessons with daily self-monitoring of weight, eating, and exercise and computer-generated feedback [<xref ref-type="bibr" rid="ref6">6</xref>], or the addition of peer support [<xref ref-type="bibr" rid="ref7">7</xref>], or individually tailored action plans [<xref ref-type="bibr" rid="ref8">8</xref>], resulted in greater weight loss after 24 weeks [<xref ref-type="bibr" rid="ref6">6</xref>], a trend toward a greater effect size after 12 weeks [<xref ref-type="bibr" rid="ref7">7</xref>] and greater weight loss [<xref ref-type="bibr" rid="ref8">8</xref>] compared to an online program without the enhanced features. Krukowski et al [<xref ref-type="bibr" rid="ref9">9</xref>] have also demonstrated that participant&#x02019;s usage of feedback components of a Web-based weight-loss program (eg, progress charts) was the most significant predictor of weight loss after 6 months. By contrast, 2 other RCTs found that adding online lessons or a weekly online group chat session to a Web-based weight-loss program was equally effective up to 12 and 16 weeks, respectively, as a Web-based program without these features [<xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref10">10</xref>]. Further, all these studies were conducted in the United States [<xref ref-type="bibr" rid="ref6">6</xref>-<xref ref-type="bibr" rid="ref10">10</xref>]. Additional longer-term studies from other regions of the world are required to evaluate the superiority, or otherwise, of Web-based programs with enhanced features.</p><p>Within the currently available online commercial weight-loss programs, there is a large degree of variation across the range of features provided, including blogs, chat rooms, self-monitoring tools for weight, diet, and physical activity, and also differing types and amounts of feedback from generic to tailored information and human e-counseling. To date, the ability of these more personalized enhanced features to facilitate greater weight loss has only had limited evaluation because programs have not tracked use of specific features [<xref ref-type="bibr" rid="ref11">11</xref>].</p><p>We have previously compared the efficacy of a standard commercial Web-based weight-loss program (basic) versus an enhanced version of this Web program that provided additional personalized e-feedback and contact from the provider (enhanced) versus a waitlist control group [<xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref>]. After 12 weeks, we found both Web-based programs produced significantly greater weight loss and reductions in body mass index (BMI) compared to the waiting list control group, but no differences in the weight-related outcomes were observed between the 2 programs. Part 2 of the study aims to determine whether overweight and obese adults randomized to the enhanced version of the commercial Web-based weight-loss program achieve a larger reduction in BMI and usage of program features compared to those randomized to a standard version of the online program without these features after 24 weeks.</p></sec><sec sec-type="methods"><title>Methods</title><p>This assessor-blinded RCT recruited overweight and obese adults from the Hunter community in New South Wales, Australia, who were enrolled offline in 2009. Eligibility criteria included age 18 to 60 years, BMI 25 to 40 kg/m<sup>2</sup>, not participating in other weight-loss programs, pass a health screen [<xref ref-type="bibr" rid="ref14">14</xref>], available for in-person assessments, and access to a computer with email and Internet services. Written informed consent was obtained from all participants, and ethical approval obtained from the University of Newcastle Human Ethics Research Committee. The trial conformed to the Consolidated Standards of Reporting Trials (CONSORT)-eHealth Checklist (<xref ref-type="app" rid="app1">Multimedia Appendix 1</xref>) [<xref ref-type="bibr" rid="ref15">15</xref>].</p><sec><title>Stratification and Randomization</title><p>After baseline assessments were completed, participants were stratified by sex and BMI category (25 to &#x0003c;30, &#x02265;30 to &#x0003c;35, or &#x02265;35 to 40 kg/m<sup>2</sup>) and randomized using a stratified block design to either the standard (basic) Web-based weight-loss program or the same program with additional features (enhanced) (<xref ref-type="fig" rid="figure1">Figure 1</xref>). At baseline, participants could also have been randomized to a waitlist control group who were not provided with access to the weight-loss program website. After 12 weeks, participants in the control group were rerandomized into either the basic or enhanced groups and data collected after this rerandomization were included in this analysis. Participants who dropped out before rerandomization to a treatment arm, or achieved their weight-loss goal (&#x02265;10% of baseline weight lost) and had, therefore, entered the weight maintenance phase, were also excluded from this analysis.</p><fig id="figure1" position="float"><label>Figure 1</label><caption><p>Participant flow.</p></caption><graphic xlink:href="jmir_v15i7e140_fig1"/></fig></sec><sec><title>Web-Based Weight-Loss Programs (Basic and Enhanced)</title><p>Participants were provided with free access to the basic or enhanced version of a commercial Web-based program provided by SP Health Co Pty Ltd in Australia under the name The Biggest Loser Club. The basic program was the version commercially available at the time of the study (2009-2010). Program features are reported in <xref ref-type="table" rid="table1">Table 1</xref>. The enhanced program contained additional features to the basic program and was provided in a closed test environment. At baseline, participants were given instructions to log in and set up their program details. They were also given a company phone number in case they experienced any difficulties in logging in. Participants did not receive any training on program use to mirror the commercial program engagement experience and increase external validity. Participants were blinded to group allocation and accessed the website using their usual Internet connection.</p><p>The 12-week Web-based programs were based on social cognitive theory [<xref ref-type="bibr" rid="ref17">17</xref>]. Key behavior change mediators targeted included self-efficacy, goal setting, self-monitoring, outcome expectations, and social support. An individualized daily energy intake target to facilitate a weight loss of 0.5 to 1 kg per week was set, as well as a goal weight. Participants were encouraged to self-monitor by reporting their weight or other body measurements via the website or short message service (SMS) text messages once per week and could view graphs and charts to track their progress overtime. They were also encouraged to self-monitor their dietary intake and exercise using an online diary at least 4 days per week. The diary provided automated feedback on daily and weekly energy intake and expenditure, and a weekly summary macronutrient and micronutrient intake compared with recommended targets. Social support was available via a discussion board. Online information was provided weekly (calorie-controlled, low-fat menu plans and grocery lists; physical activity plan based on exercise preferences; educational tips and challenges) which participants were prompted to access via a weekly email newsletter.</p><p>At the end of 12 weeks, participants could choose to repeat the same weekly 12-week program or to continue for an additional 12 weeks with content varied based on the season and keeping their entire accumulated personal progress and data.</p><p>The enhanced program included all the basic program features described previously. The additional components were: (1) personalized, system-generated enrollment reports that suggested appropriate weight-loss goals and key behavior changes required for success based on response to a behavioral survey at enrollment; (2) weekly automated system-generated, personalized e-feedback for key elements of diet and physical activity based on diary entries, usage patterns of website features, and level of success with weight loss (<xref ref-type="fig" rid="figure2">Figure 2</xref>); (3) an escalating reminder schedule to use the diary, visit the program site, and enter a weekly weight (an initial reminder email, then a SMS text message if there was no response, then a reminder phone call if a weekly weight was still not entered).</p><table-wrap id="table1" position="float"><label>Table 1</label><caption><p>Description of the basic and enhanced commercial Web-based weight-loss programs.</p></caption><table frame="hsides" rules="groups" width="603" border="0" cellpadding="7" cellspacing="0"><col width="305" span="1"/><col width="270" span="1"/><thead><tr valign="top"><td rowspan="1" colspan="1">Basic and enhanced</td><td rowspan="1" colspan="1">Enhanced only</td></tr></thead><tbody><tr valign="top"><td rowspan="1" colspan="1">Participants set weight-loss goals, advised to self-monitor their weight, waist, and hip girths. Encouraged to self-monitor via weekly email and/or short message service (SMS) text messaging reminders to enter weight on website. Entered data were tracked and displayed graphically and in a body (BMI) silhouette.</td><td rowspan="1" colspan="1">Personalized automated enrollment reports suggesting appropriate weight-loss goals and key behavior changes required for success. Eating behaviors targeted included total energy, saturated fat and fiber intake, daily servings of fruit and vegetables, high-risk eating behaviors (eg, skipping meals, not eating breakfast, drinking soft drinks) and nonhungry eating triggers.</td></tr><tr valign="top"><td rowspan="1" colspan="1">Individualized daily calorie targets to facilitate 0.5-1 kg weight loss per week (~2600 kJ less than their estimated energy requirements).</td><td rowspan="1" colspan="1">Weekly automated personalized feedback for key elements of diet and physical activity based on diary entries; usage patterns for website features; and level of success with weight loss. Eating behaviors targeted were consistent with the enrollment reports (<xref ref-type="fig" rid="figure2">Figure 2</xref>).</td></tr><tr valign="top"><td rowspan="1" colspan="1">Access to weekly low-fat menu plan and grocery lists designed to meet nutrient reference values [<xref ref-type="bibr" rid="ref16">16</xref>] and assigned calorie target.</td><td rowspan="1" colspan="1">Reminders to use the online diary, visit the site, and/or weigh-in. The reminder schedule included an initial reminder email; if no response, a text message; if no response, a phone call.</td></tr><tr valign="top"><td rowspan="1" colspan="1">Web-based food and exercise diary to monitor energy intake and energy expenditure. Daily and weekly calculations of energy balance and nutrition summaries compared with recommended nutrient targets if food entries made in online diary.</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">Online education in the form of weekly tutorials, fact sheets, meal, and exercise plans and weekly challenges.</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">Social support via online discussion forums.</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table></table-wrap></sec><sec><title>Outcome Measures</title><p>Participant assessments were conducted at the University of Newcastle at baseline, 12, and 24 weeks. Blinded research assistants conducted assessments for all groups, and participants were reminded at each assessment not to discuss group allocation.</p><p>Height was measured to 0.1 cm using the stretch stature method on a Harpenden portable stadiometer (Holtain Limited, Dyfed, UK). Weight was measured in light clothing, without shoes on a digital scale to 0.01 kg (CH-150kp, A&#x00026;D Mercury Pty Ltd, Australia) and the primary outcome of BMI (kg/m<sup>2</sup>) calculated as weight (kg)/height (m)<sup>2</sup>. Waist circumference was measured to 0.1 cm using a nonextensible steel tape (KDSF10-02, KDS Corporation, Osaka, Japan) at 2 points: (1) level with the umbilicus and (2) at the narrowest point between the lower costal border and the umbilicus. Waist-to-height ratio was then calculated. Blood pressure and heart rate were measured using an automated blood pressure monitor (NISSEI/DS-105E digital electronic blood pressure monitor; Nihon Seimitsu Sokki Co Ltd, Gunma, Japan) under standardized conditions. Blood samples were collected with participants advised to fast overnight and analyzed for lipids (total cholesterol, low-density lipoprotein [LDL] and high-density lipoprotein [HDL], cholesterol, and triglycerides), glucose, and insulin using standard automated techniques at a single National Association of Testing Authorities accredited pathology service.</p><p>Dietary intake was assessed using the Australian Eating Survey (AES), a 120-item semiquantitative food-frequency questionnaire (FFQ). The AES has been evaluated for reliability and relative validity and demonstrates acceptable accuracy for ranking nutrient intakes in Australian adults [<xref ref-type="bibr" rid="ref18">18</xref>]. Nutrient intakes are calculated using the Australian food composition database [<xref ref-type="bibr" rid="ref19">19</xref>], and analyzed using a standard protocol.</p><p>The 18-item Three-Factor Eating Questionnaire-R18 (TFEQ-R18) was used to measure cognitive restraint, uncontrolled eating, and emotional eating [<xref ref-type="bibr" rid="ref20">20</xref>]. Quality of life was assessed using the SF-36 version 2.0 (QualityMetric Incorporated, Lincoln, RI, USA), a multipurpose, generic short-form health survey consisting of an 8-scale profile of functional health and well-being scores and psychometrically based physical and mental health summary measures [<xref ref-type="bibr" rid="ref21">21</xref>].</p><p>The International Physical Activity Questionnaire-short form (IPAQ-SF) was used to estimate total metabolic equivalent (MET)-minutes/week [<xref ref-type="bibr" rid="ref22">22</xref>]. Pedometers were used to measure steps per day for 7 consecutive days (Yamax SW700; Yamax Corporation, Kumamoto City, Japan) with step counts adjusted for additional self-reported physical activity (eg, contact sports, swimming, cycling).</p></sec><sec><title>Statistical Analysis</title><p>Continuous data were summarized using descriptive statistics including mean (SD) and categorical data as category percentages. Demographic and baseline variables were compared between treatment groups using analysis of variance (ANOVA) for continuous variables and chi-square tests for categorical variables. Analysis of covariance (ANCOVA) was used to test for differences in outcomes at 12 weeks and 24 weeks between treatment groups after adjusting for the baseline value of that outcome. The model outcome was the variable of interest at 12 or 24 weeks with the baseline level used as a covariate. The only other variable included in the model was sex. Differences and 95% confidence intervals between treatment groups in the outcome at each time point were estimated using the least squares means from the ANCOVA models.</p><p>The intention-to-treat (ITT) population includes all participants who were randomized into 1 of the 2 treatment groups. For participants who had missing data at 12 or 24 weeks, their missing data was imputed using the last observation carried forward (LOCF) and baseline observation carried forward (BOCF) approach. The completer population includes all individuals who attended the 24-week assessment, and subgroup analyses are based on this population.</p><p>An additional analysis was conducted using a generalized linear mixed model (GLMM) to test for a difference between groups across the combined 12-week and 24-week time points. The outcome in this model was the individual&#x02019;s outcome at the 2 posttreatment assessments; the main predictor of interest was treatment group with the baseline value of the outcome included as a covariate. Sex was also included as a covariate in these models because it is a common confounding factor. All analyses were programmed in Stata v11 or SAS v9.2 (StataCorp LP, College Station, TX, USA).</p><fig id="figure2" position="float"><label>Figure 2</label><caption><p>Enhanced groups weekly automated personalized feedback.</p></caption><graphic xlink:href="jmir_v15i7e140_fig2"/></fig></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Baseline Characteristics</title><p>Of the 591 participants assessed for eligibility, 309 (129 males, 180 females) were initially randomized into the 3 groups (basic: n=99, enhanced: n=106, or waitlist control: n=104). After 12 weeks, the control group, of whom 8 were lost to follow-up, were rerandomized (96 participants, 52 enhanced, 44 basic) into the trial. Therefore, in the current analysis, 301 participants (125 males, 176 females) were randomized to the basic (n=143) or enhanced (n=158) groups (<xref ref-type="fig" rid="figure1">Figure 1</xref>).</p><p>Participants who were randomized to the basic group were similar at baseline to those randomized to the enhanced group for all demographic and other baseline characteristics (<xref ref-type="table" rid="table2">Table 2</xref>). Mean age of participants was 42 years (SD 10.2), most were overweight or obese (BMI 30 to &#x0003c;35), Australian born, and reported a weekly household income of &#x02265;AU $1500.</p></sec><sec><title>Retention at 12 and 24 Weeks</title><p>Participant flow through the trial (<xref ref-type="fig" rid="figure1">Figure 1</xref>) shows the number of participants who were randomized to each treatment condition, the number who withdrew with reasons, and the number who had data at 12 and 24 weeks. There was no significant difference in retention rates between the basic (74.7%) and enhanced (84.9%) groups after 12 weeks (<italic>P</italic>=.66); however, more enhanced group participants attended the 24-week assessments (basic 68.5%, enhanced 81.0%, <italic>P</italic>=.01).</p></sec><sec><title>Changes in Weight, Body Mass Index, and Waist Circumference</title><p>Weight, BMI, and waist circumference were significantly lower than baseline at 12 and 24 weeks in each group. Change in the primary outcome of BMI was similar between those randomized to the basic and enhanced groups at 12 and 24 weeks after treatment in the LOCF (<xref ref-type="table" rid="table3">Table 3</xref>), BOCF (<xref ref-type="table" rid="table4">Table 4</xref>), and completers (<xref ref-type="table" rid="table5">Table 5</xref>) analyses. For the LOCF (basic mean -3.6, SD 4.9; enhanced mean -4.3, SD 6.4), BOCF (basic mean -3.2, SD 4.7; enhanced mean -4.2, 6.3), and completers analysis (basic mean -3.9, SD 4.1; enhanced mean -4.6, SD 4.8), there were no significant between-group differences for the mean percentage weight loss at 24 weeks or the proportion of participants achieving clinically important weight losses of &#x02265;5% [<xref ref-type="bibr" rid="ref23">23</xref>] at 24 weeks (LOCF: basic 31.5%, enhanced 38.0%; BOCF: basic 28.7%, enhanced 36.7%; completers: basic 41.2%, enhanced 45.7%).</p></sec><sec><title>Secondary Outcomes</title><p>There was only 1 significant difference in secondary outcomes between the basic and enhanced groups in the LOCF (<xref ref-type="table" rid="table3">Table 3</xref>), BOCF (<xref ref-type="table" rid="table4">Table 4</xref>), and completers (<xref ref-type="table" rid="table5">Table 5</xref>) analyses. The BOCF analyses found that the enhanced group demonstrated a significantly greater (<italic>P</italic>=.03) reduction in resting heart rate than the basic group after 24 weeks.</p></sec><sec><title>Subgroup Analyses</title><p>The change in primary and secondary outcomes within treatment groups was similar across all subgroups (sex, age, BMI category) of the completer population at 12 or 24 weeks (data not presented). There were no statistically significant interactions between treatment group and sex (<italic>P</italic>=.52), treatment group and BMI category (<italic>P</italic>=.45), or treatment group and age group (<italic>P</italic>=.72) for the outcome of weight.</p></sec><sec><title>Website Usage</title><p>There was a significantly greater website usage in the enhanced group compared to the basic group at both 12 and 24 weeks with the enhanced group logging on an additional 10 days over the first 12 weeks and 12 days over 24 weeks (<italic>P</italic>=.002) (<xref ref-type="table" rid="table6">Table 6</xref>). A similar result was found for the completers population (<italic>P</italic>=.02).</p><p>In the completers population, significant correlations were found between the percentage weight loss at 12 and 24 weeks and total website usage from baseline to 12 weeks (<italic>r</italic> = &#x02013;0.50, <italic>P</italic>&#x0003c;.001) and 24 weeks (<italic>r</italic> = &#x02013;0.50, <italic>P</italic>&#x0003c;.001), respectively (data not shown). Participants who achieved clinically significant (&#x02265;5%) weight loss at 12 and 24 weeks used the website on significantly more days from baseline to 12 weeks (median 44 vs 13 days, <italic>P</italic>&#x0003c;.001) and 24 weeks (median 58 vs 16 days, <italic>P</italic>&#x0003c;.001) than those with &#x0003c;5% weight loss.</p><table-wrap id="table2" position="float"><label>Table 2</label><caption><p>Demographic and other baseline characteristics by treatment group.</p></caption><table frame="hsides" rules="groups" width="647" border="0" cellpadding="4" cellspacing="0"><col width="50" span="1"/><col width="271" span="1"/><col width="77" span="1"/><col width="84" span="1"/><col width="90" span="1"/><col width="53" span="1"/><thead><tr valign="bottom"><td colspan="2" rowspan="1">Characteristic</td><td colspan="2" rowspan="1">Treatment group</td><td rowspan="1" colspan="1">Total <break/>
+(N=301)</td><td rowspan="1" colspan="1">
+<italic>P</italic> value<sup>a</sup>
+</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Basic <break/>
+(n=143)</td><td rowspan="1" colspan="1">Enhanced <break/>
+(n=158)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></thead><tbody><tr valign="bottom"><td colspan="2" rowspan="1">Sex (male), n (%)</td><td rowspan="1" colspan="1">59 (47.2)</td><td rowspan="1" colspan="1">66 (52.8 )</td><td rowspan="1" colspan="1">125 (41.5 )</td><td rowspan="1" colspan="1">.93</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>BMI group strata</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">25 to &#x0003c;30</td><td rowspan="1" colspan="1">50 (46.7 )</td><td rowspan="1" colspan="1">57 (53.3 )</td><td rowspan="1" colspan="1">107 (35.5)</td><td rowspan="1" colspan="1">.97</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">30 to &#x0003c;35</td><td rowspan="1" colspan="1">58 (48.3)</td><td rowspan="1" colspan="1">62 (51.7)</td><td rowspan="1" colspan="1">120 (39.9)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">35 to &#x0003c;40</td><td rowspan="1" colspan="1">35 (47.3)</td><td rowspan="1" colspan="1">39 (52.7)</td><td rowspan="1" colspan="1">74 (24.6)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Current or previous smoker (never smoked), n (%)</td><td rowspan="1" colspan="1">128 (47.8)</td><td rowspan="1" colspan="1">140 (52.2)</td><td rowspan="1" colspan="1">268 (89.0)</td><td rowspan="1" colspan="1">.91</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Highest level of education, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">High school</td><td rowspan="1" colspan="1">43 (47.8)</td><td rowspan="1" colspan="1">47 (52.2)</td><td rowspan="1" colspan="1">90 (29.90)</td><td rowspan="1" colspan="1">.60</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Trade/diploma</td><td rowspan="1" colspan="1">46 (44.2)</td><td rowspan="1" colspan="1">58 (55.8)</td><td rowspan="1" colspan="1">104 (34.6)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">University degree</td><td rowspan="1" colspan="1">37 (54.4)</td><td rowspan="1" colspan="1">31 (45.60)</td><td rowspan="1" colspan="1">68 (2.6)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Higher university degree</td><td rowspan="1" colspan="1">17 (44.7)</td><td rowspan="1" colspan="1">21 (55.3)</td><td rowspan="1" colspan="1">38 (12.6)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Weekly household income (AU $), n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;$700</td><td rowspan="1" colspan="1">12 (50.0)</td><td rowspan="1" colspan="1">12 (50.0)</td><td rowspan="1" colspan="1">24 (8.0)</td><td rowspan="1" colspan="1">.77</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">$700 to &#x0003c;$1000</td><td rowspan="1" colspan="1">8 (50.0)</td><td rowspan="1" colspan="1">8 (50.0)</td><td rowspan="1" colspan="1">16 (5.6)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">$1000 to &#x0003c;$1400</td><td rowspan="1" colspan="1">20 (57.1)</td><td rowspan="1" colspan="1">15 (42.9)</td><td rowspan="1" colspan="1">35 (11.6)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02265;$1500</td><td rowspan="1" colspan="1">92 (46.0)</td><td rowspan="1" colspan="1">108 (54.0)</td><td rowspan="1" colspan="1">200 (66.4)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Country of birth (Australia), n (%)</td><td rowspan="1" colspan="1">132 (48.4)</td><td rowspan="1" colspan="1">141 (51.6)</td><td rowspan="1" colspan="1">273 (90.7)</td><td rowspan="1" colspan="1">.45</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Age (years), mean (SD)</td><td rowspan="1" colspan="1">41.9 (10.1)</td><td rowspan="1" colspan="1">42.0 (10.3)</td><td rowspan="1" colspan="1">41.9 (10.2)</td><td rowspan="1" colspan="1">.91</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Height (m), mean (SD)</td><td rowspan="1" colspan="1">1.7 (0.1)</td><td rowspan="1" colspan="1">1.7 (0.1)</td><td rowspan="1" colspan="1">1.7 (0.1)</td><td rowspan="1" colspan="1">.53</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Weight (kg), mean (SD)</td><td rowspan="1" colspan="1">94.4 (15.5)</td><td rowspan="1" colspan="1">93.4 (13.9)</td><td rowspan="1" colspan="1">93.9 (14.7)</td><td rowspan="1" colspan="1">.53</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Body mass index (kg/m<sup>2</sup>), mean (SD)</td><td rowspan="1" colspan="1">32.2 (3.7)</td><td rowspan="1" colspan="1">32.2 (4.1)</td><td rowspan="1" colspan="1">32.2 (3.9)</td><td rowspan="1" colspan="1">.95</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Waist circumference at umbilicus (cm), mean (SD)</td><td rowspan="1" colspan="1">106.8 (10.2)</td><td rowspan="1" colspan="1">106.7 (11.5)</td><td rowspan="1" colspan="1">106.7 (10.9)</td><td rowspan="1" colspan="1">.98</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Waist circumference at narrowest point (cm), mean (SD)</td><td rowspan="1" colspan="1">98.3 (11.6)</td><td rowspan="1" colspan="1">97.8 (11.2)</td><td rowspan="1" colspan="1">98.1 (11.0)</td><td rowspan="1" colspan="1">.70</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Waist-to-height ratio at umbilicus, mean (SD)</td><td rowspan="1" colspan="1">0.6 (0.1)</td><td rowspan="1" colspan="1">0.6 (0.1)</td><td rowspan="1" colspan="1">0.6 (0.1)</td><td rowspan="1" colspan="1">.76</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Waist-to-height ratio at narrowest point, mean (SD)</td><td rowspan="1" colspan="1">0.58 (0.06)</td><td rowspan="1" colspan="1">0.58 (0.06)</td><td rowspan="1" colspan="1">0.58 (0.06)</td><td rowspan="1" colspan="1">.94</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Systolic blood pressure (mmHg), mean (SD)</td><td rowspan="1" colspan="1">121 (13)</td><td rowspan="1" colspan="1">121 (12)</td><td rowspan="1" colspan="1">121 (12)</td><td rowspan="1" colspan="1">.97</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Diastolic blood pressure (mmHg), mean (SD)</td><td rowspan="1" colspan="1">79 (10)</td><td rowspan="1" colspan="1">79 (10)</td><td rowspan="1" colspan="1">79 (10)</td><td rowspan="1" colspan="1">.88</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Resting heart rate (bpm), mean (SD)</td><td rowspan="1" colspan="1">69 (11)</td><td rowspan="1" colspan="1">68 (10)</td><td rowspan="1" colspan="1">68 (10)</td><td rowspan="1" colspan="1">.56</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Total serum cholesterol (mmol/L), mean (SD)</td><td rowspan="1" colspan="1">5.1 (0.9)</td><td rowspan="1" colspan="1">5.1 (1.0)</td><td rowspan="1" colspan="1">5.1 (1.0)</td><td rowspan="1" colspan="1">.54</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">LDL cholesterol (mmol/L), mean (SD)</td><td rowspan="1" colspan="1">3.1 (0.8)</td><td rowspan="1" colspan="1">3.0 (0.9)</td><td rowspan="1" colspan="1">3.1 (0.8)</td><td rowspan="1" colspan="1">.26</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">HDL cholesterol (mmol/L), mean (SD)</td><td rowspan="1" colspan="1">1.3 (0.3)</td><td rowspan="1" colspan="1">1.3 (0.3)</td><td rowspan="1" colspan="1">1.3 (0.3)</td><td rowspan="1" colspan="1">.78</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Triglycerides (mmol/L), mean (SD)</td><td rowspan="1" colspan="1">1.6 (0.8)</td><td rowspan="1" colspan="1">1.8 (1.1)</td><td rowspan="1" colspan="1">1.7 (1.0)</td><td rowspan="1" colspan="1">.09</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">LDL to HDL ratio, mean (SD)</td><td rowspan="1" colspan="1">2.53 (0.79)</td><td rowspan="1" colspan="1">2.39 (0.77)</td><td rowspan="1" colspan="1">2.46 (0.78)</td><td rowspan="1" colspan="1">.14</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Glucose (mmol/L), mean (SD)</td><td rowspan="1" colspan="1">4.7 (0.7)</td><td rowspan="1" colspan="1">4.7 (0.6)</td><td rowspan="1" colspan="1">4.7 (0.7)</td><td rowspan="1" colspan="1">.35</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Insulin (mIU/L), mean (SD)</td><td rowspan="1" colspan="1">11.1 (11.7)</td><td rowspan="1" colspan="1">10.5 (11.3)</td><td rowspan="1" colspan="1">10.8 (11.4)</td><td rowspan="1" colspan="1">.67</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Physical functioning (SF36), mean (SD)</td><td rowspan="1" colspan="1">85.9 (13.5)</td><td rowspan="1" colspan="1">83.9 (18.4)</td><td rowspan="1" colspan="1">84.9 (16.3)</td><td rowspan="1" colspan="1">.30</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Mental health (SF36), mean (SD)</td><td rowspan="1" colspan="1">73.5 (16.1)</td><td rowspan="1" colspan="1">73.2 (17.4)</td><td rowspan="1" colspan="1">73.4 (16.8)</td><td rowspan="1" colspan="1">.89</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Total physical activity MET (min/week), mean (SD)</td><td rowspan="1" colspan="1">3028 (3188)</td><td rowspan="1" colspan="1">2877 (3100)</td><td rowspan="1" colspan="1">2948 (3137)</td><td rowspan="1" colspan="1">.69</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Cognitive restraint scale, mean (SD)</td><td rowspan="1" colspan="1">13.3 (3.0)</td><td rowspan="1" colspan="1">13.4 (2.9)</td><td rowspan="1" colspan="1">13.3 (3.0)</td><td rowspan="1" colspan="1">.70</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Uncontrolled eating scale, mean (SD)</td><td rowspan="1" colspan="1">21.1 (4.8)</td><td rowspan="1" colspan="1">20.9 (5.3)</td><td rowspan="1" colspan="1">21.0 (5.0)</td><td rowspan="1" colspan="1">.63</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Emotional eating score, mean (SD)</td><td rowspan="1" colspan="1">7.7 (2.3)</td><td rowspan="1" colspan="1">7.7 (2.6)</td><td rowspan="1" colspan="1">7.7 (2.5)</td><td rowspan="1" colspan="1">.93</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Total energy intake, mean (SD)</td><td rowspan="1" colspan="1">9983 (3278)</td><td rowspan="1" colspan="1">9972 (3236)</td><td rowspan="1" colspan="1">9977 (3251)</td><td rowspan="1" colspan="1">.98</td></tr></tbody></table><table-wrap-foot><fn id="table2fn1"><p>
+<sup>a</sup>
+<italic>P</italic> values are from ANOVA for continuous measures and from a chi-square tests for categorical measures.</p></fn></table-wrap-foot></table-wrap><table-wrap id="table3" position="float"><label>Table 3</label><caption><p>Mean change in a range of variables from baseline to 12 weeks and baseline to 24 weeks within each treatment group and the least squares mean (LSM) difference in change between treatment groups (ITT population LOCF approach).</p></caption><table frame="hsides" rules="groups" width="615" border="0" cellpadding="4" cellspacing="0"><col width="37" span="1"/><col width="124" span="1"/><col width="112" span="1"/><col width="76" span="1"/><col width="112" span="1"/><col width="64" span="1"/><col width="82" span="1"/><thead><tr valign="bottom"><td colspan="2" rowspan="1">Characteristic and follow-up time</td><td colspan="2" rowspan="1">Treatment group <break/>
+Mean change (SD)</td><td rowspan="1" colspan="1">Absolute difference between groups <break/>
+LSM (95% CI)</td><td colspan="2" rowspan="1">
+<italic>P</italic> values for group effect</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Basic</td><td rowspan="1" colspan="1">Enhanced</td><td rowspan="1" colspan="1">Enhanced vs basic</td><td rowspan="1" colspan="1">Difference at follow-up</td><td rowspan="1" colspan="1">Difference between groups</td></tr></thead><tbody><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Weight (kg)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;2.7 (4.0)</td><td rowspan="1" colspan="1">&#x02013;3.3 (4.5)</td><td rowspan="1" colspan="1">0.6 (&#x02013;0.3, 1.6)</td><td rowspan="1" colspan="1">.21</td><td rowspan="2" colspan="1">.21</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;3.3 (4.7)</td><td rowspan="1" colspan="1">&#x02013;4.0 (6.2)</td><td rowspan="1" colspan="1">0.7 (&#x02013;0.6, 2.0)</td><td rowspan="1" colspan="1">.27</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Percentage weight loss (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;2.90 (4.09)</td><td rowspan="1" colspan="1">&#x02013;3.61 (4.69)</td><td rowspan="1" colspan="1">0.71 (&#x02013;0.30, 1.71)</td><td rowspan="1" colspan="1">.17</td><td rowspan="2" colspan="1">.21</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;3.56 (4.94)</td><td rowspan="1" colspan="1">&#x02013;4.28 (6.38)</td><td rowspan="1" colspan="1">0.71 (&#x02013;0.59, 2.02)</td><td rowspan="1" colspan="1">.28</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Attained 5% weight loss (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">24.5 (43.1)</td><td rowspan="1" colspan="1">32.9 (47.1)</td><td rowspan="1" colspan="1">8.4 (&#x02013;1.9, 18.7)</td><td rowspan="1" colspan="1">.11</td><td rowspan="2" colspan="1">.13</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">31.5 (46.6)</td><td rowspan="1" colspan="1">38.0 (48.7)</td><td rowspan="1" colspan="1">6.5 (&#x02013;4.3, 17.4)</td><td rowspan="1" colspan="1">.23</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Systolic blood pressure (mmHg)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;3.40 (10.31)</td><td rowspan="1" colspan="1">&#x02013;3.94 (9.66)</td><td rowspan="1" colspan="1">0.52 (&#x02013;1.60, 2.65)</td><td rowspan="1" colspan="1">.63</td><td rowspan="2" colspan="1">.93</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;3.00 (10.11)</td><td rowspan="1" colspan="1">&#x02013;2.33 (11.20)</td><td rowspan="1" colspan="1">0.70 (&#x02013;1.46, 2.86)</td><td rowspan="1" colspan="1">.53</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Diastolic blood pressure (mmHg)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1.82 (8.50)</td><td rowspan="1" colspan="1">&#x02013;2.30 (7.57)</td><td rowspan="1" colspan="1">0.54 (&#x02013;1.14, 2.22)</td><td rowspan="1" colspan="1">.53</td><td rowspan="2" colspan="1">.78</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;1.18 (8.97)</td><td rowspan="1" colspan="1">&#x02013;1.03 (8.05)</td><td rowspan="1" colspan="1">0.09 (&#x02013;1.68, 1.86)</td><td rowspan="1" colspan="1">.92</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Body mass index (kg/m<sup>2</sup>)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.9 (1.3)</td><td rowspan="1" colspan="1">&#x02013;1.1 (1.5)</td><td rowspan="1" colspan="1">0.2 (&#x02013;0.1, 0.5)</td><td rowspan="1" colspan="1">.28</td><td rowspan="2" colspan="1">.27</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;1.1 (1.5)</td><td rowspan="1" colspan="1">&#x02013;1.3 (2.0)</td><td rowspan="1" colspan="1">0.2 (&#x02013;0.2, 0.6)</td><td rowspan="1" colspan="1">.29</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Resting heart rate (bpm)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1.33 (7.12)</td><td rowspan="1" colspan="1">&#x02013;2.35 (6.49)</td><td rowspan="1" colspan="1">1.20 (&#x02013;0.23, 2.64)</td><td rowspan="1" colspan="1">.10</td><td rowspan="2" colspan="1">.05</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;1.62 (7.69)</td><td rowspan="1" colspan="1">&#x02013;3.03 (7.22)</td><td rowspan="1" colspan="1">1.59 (&#x02013;0.02, 3.19)</td><td rowspan="1" colspan="1">.05</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist circumference at umbilicus (cm)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;3.4 (4.5)</td><td rowspan="1" colspan="1">&#x02013;3.6 (5.3)</td><td rowspan="1" colspan="1">0.2 (&#x02013;0.9, 1.3)</td><td rowspan="1" colspan="1">.73</td><td rowspan="2" colspan="1">.38</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;4.4 (5.3)</td><td rowspan="1" colspan="1">&#x02013;5.3 (6.7)</td><td rowspan="1" colspan="1">0.9 (&#x02013;0.5, 2.3)</td><td rowspan="1" colspan="1">.22</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist circumference at narrowest point (cm)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;2.5 (4.3)</td><td rowspan="1" colspan="1">&#x02013;3.4 (4.8)</td><td rowspan="1" colspan="1">0.9 (&#x02013;0.1, 1.9)</td><td rowspan="1" colspan="1">.09</td><td rowspan="2" colspan="1">.10</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;3.1 (4.6)</td><td rowspan="1" colspan="1">&#x02013;4.0 (6.2)</td><td rowspan="1" colspan="1">0.9 (&#x02013;0.3, 2.2)</td><td rowspan="1" colspan="1">.15</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist-to-height ratio at umbilicus</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.03)</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.03)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.01, 0.01)</td><td rowspan="1" colspan="1">.86</td><td rowspan="2" colspan="1">.49</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.03 (0.03)</td><td rowspan="1" colspan="1">&#x02013;0.03 (0.04)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.00, 0.01)</td><td rowspan="1" colspan="1">.28</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist-to-height ratio at narrowest point</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.01 (0.02)</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.03)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.00, 0.01)</td><td rowspan="1" colspan="1">.11</td><td rowspan="2" colspan="1">.14</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.03)</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.04)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.00, 0.01)</td><td rowspan="1" colspan="1">.21</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Total serum cholesterol (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.08 (0.50)</td><td rowspan="1" colspan="1">&#x02013;0.19 (0.58)</td><td rowspan="1" colspan="1">0.12 (&#x02013;0.00, 0.24)</td><td rowspan="1" colspan="1">.06</td><td rowspan="2" colspan="1">.06</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">0.01 (0.52)</td><td rowspan="1" colspan="1">&#x02013;0.08 (0.62)</td><td rowspan="1" colspan="1">0.09 (&#x02013;0.03, 0.22)</td><td rowspan="1" colspan="1">.15</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>LDL cholesterol (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.00 (0.45)</td><td rowspan="1" colspan="1">&#x02013;0.07 (0.46)</td><td rowspan="1" colspan="1">0.09 (&#x02013;0.02, 0.19)</td><td rowspan="1" colspan="1">.11</td><td rowspan="2" colspan="1">.13</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">0.04 (0.49)</td><td rowspan="1" colspan="1">&#x02013;0.01 (0.50)</td><td rowspan="1" colspan="1">0.07 (&#x02013;0.05, 0.18)</td><td rowspan="1" colspan="1">.27</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>HDL cholesterol (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.00 (0.14)</td><td rowspan="1" colspan="1">&#x02013;0.01 (0.16)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.03, 0.04)</td><td rowspan="1" colspan="1">.93</td><td rowspan="2" colspan="1">.92</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">0.02 (0.13)</td><td rowspan="1" colspan="1">0.02 (0.17)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.03, 0.04)</td><td rowspan="1" colspan="1">.80</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Triglycerides (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.16 (0.63)</td><td rowspan="1" colspan="1">&#x02013;0.26 (0.66)</td><td rowspan="1" colspan="1">0.05 (&#x02013;0.08, 0.18)</td><td rowspan="1" colspan="1">.48</td><td rowspan="2" colspan="1">.30</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.09 (0.64)</td><td rowspan="1" colspan="1">&#x02013;0.23 (0.66)</td><td rowspan="1" colspan="1">0.09 (&#x02013;0.04, 0.23)</td><td rowspan="1" colspan="1">.18</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>LDL to HDL ratio</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">0.00 (0.40)</td><td rowspan="1" colspan="1">&#x02013;0.04 (0.35)</td><td rowspan="1" colspan="1">0.06 (&#x02013;0.03, 0.15)</td><td rowspan="1" colspan="1">.21</td><td rowspan="2" colspan="1">.21</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.01 (0.42)</td><td rowspan="1" colspan="1">&#x02013;0.04 (0.37)</td><td rowspan="1" colspan="1">0.04 (&#x02013;0.05, 0.14)</td><td rowspan="1" colspan="1">.35</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Glucose (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.22 (0.55)</td><td rowspan="1" colspan="1">&#x02013;0.22 (0.55)</td><td rowspan="1" colspan="1">0.02 (&#x02013;0.10, 0.14)</td><td rowspan="1" colspan="1">.78</td><td rowspan="2" colspan="1">.37</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.07 (0.46)</td><td rowspan="1" colspan="1">&#x02013;0.12 (0.54)</td><td rowspan="1" colspan="1">0.08 (&#x02013;0.03, 0.18)</td><td rowspan="1" colspan="1">.17</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Insulin (mIU/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1.76 (10.91)</td><td rowspan="1" colspan="1">&#x02013;1.80 (5.47)</td><td rowspan="1" colspan="1">0.29 (&#x02013;1.25, 1.82)</td><td rowspan="1" colspan="1">.71</td><td rowspan="2" colspan="1">.81</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;2.51 (10.36)</td><td rowspan="1" colspan="1">&#x02013;2.31 (6.18)</td><td rowspan="1" colspan="1">0.04 (&#x02013;1.47, 1.55)</td><td rowspan="1" colspan="1">.96</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Physical functioning (SF36)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">2.48 (20.05)</td><td rowspan="1" colspan="1">4.71 (15.74)</td><td rowspan="1" colspan="1">1.14 (&#x02013;2.34, 4.62)</td><td rowspan="1" colspan="1">.52</td><td rowspan="2" colspan="1">.63</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">3.58 (10.89)</td><td rowspan="1" colspan="1">4.62 (15.03)</td><td rowspan="1" colspan="1">0.17 (&#x02013;2.30, 2.64)</td><td rowspan="1" colspan="1">.89</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Mental health (SF36)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">2.13 (15.06)</td><td rowspan="1" colspan="1">4.04 (13.43)</td><td rowspan="1" colspan="1">1.58 (&#x02013;1.41, 4.57)</td><td rowspan="1" colspan="1">.30</td><td rowspan="2" colspan="1">.31</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">1.77 (14.83)</td><td rowspan="1" colspan="1">3.82 (23.80)</td><td rowspan="1" colspan="1">1.68 (&#x02013;2.69, 6.04)</td><td rowspan="1" colspan="1">.45</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Total physical activity MET (min/week)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">215.29 (2448.3)</td><td rowspan="1" colspan="1">373.56 (2467.1)</td><td rowspan="1" colspan="1">96.19 (&#x02013;424.3, 616.66)</td><td rowspan="1" colspan="1">.72</td><td rowspan="2" colspan="1">.36</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">203.58 (2668.5)</td><td rowspan="1" colspan="1">619.84 (3156.7)</td><td rowspan="1" colspan="1">358.58 (&#x02013;285.1, 1002.3)</td><td rowspan="1" colspan="1">.27</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Average step count per day</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">319.92 (2481.3)</td><td rowspan="1" colspan="1">1059.8 (3094.2)</td><td rowspan="1" colspan="1">675.22 (&#x02013;11.32, 1361.8)</td><td rowspan="1" colspan="1">.05</td><td rowspan="2" colspan="1">.06</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">94.15 (2303.2)</td><td rowspan="1" colspan="1">706.99 (3173.9)</td><td rowspan="1" colspan="1">548.38 (&#x02013;142.9, 1239.6)</td><td rowspan="1" colspan="1">.12</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Cognitive restraint scale</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">1.32 (2.72)</td><td rowspan="1" colspan="1">1.74 (3.28)</td><td rowspan="1" colspan="1">0.48 (&#x02013;0.15, 1.11)</td><td rowspan="1" colspan="1">.14</td><td rowspan="2" colspan="1">.08</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">1.36 (2.96)</td><td rowspan="1" colspan="1">1.90 (3.37)</td><td rowspan="1" colspan="1">0.59 (&#x02013;0.09, 1.27)</td><td rowspan="1" colspan="1">.09</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Uncontrolled eating scale</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1.71 (3.44)</td><td rowspan="1" colspan="1">&#x02013;1.78 (3.41)</td><td rowspan="1" colspan="1">0.14 (&#x02013;0.58, 0.86)</td><td rowspan="1" colspan="1">.70</td><td rowspan="2" colspan="1">.65</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;1.67 (3.59)</td><td rowspan="1" colspan="1">&#x02013;1.76 (3.62)</td><td rowspan="1" colspan="1">0.17 (&#x02013;0.59, 0.93)</td><td rowspan="1" colspan="1">.66</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Emotional eating score</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.37 (1.38)</td><td rowspan="1" colspan="1">&#x02013;0.48 (1.56)</td><td rowspan="1" colspan="1">0.10 (&#x02013;0.22, 0.41)</td><td rowspan="1" colspan="1">.54</td><td rowspan="2" colspan="1">.43</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.45 (1.68)</td><td rowspan="1" colspan="1">&#x02013;0.61 (1.72)</td><td rowspan="1" colspan="1">0.15 (&#x02013;0.21, 0.51)</td><td rowspan="1" colspan="1">.41</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Total energy intake</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;985.5 (2386.7)</td><td rowspan="1" colspan="1">&#x02013;1248 (2458.1)</td><td rowspan="1" colspan="1">267.74 (&#x02013;186.4, 721.90)</td><td rowspan="1" colspan="1">.25</td><td rowspan="2" colspan="1">.57</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;952.4 (2293.8)</td><td rowspan="1" colspan="1">&#x02013;929.7 (2363.6)</td><td rowspan="1" colspan="1">18.23 (&#x02013;439.2, 475.66)</td><td rowspan="1" colspan="1">.94</td></tr></tbody></table></table-wrap><table-wrap id="table4" position="float"><label>Table 4</label><caption><p>Mean change in a range of variables from baseline to 12 weeks and baseline to 24 weeks within each treatment group and the least squares mean (LSM) difference in change between treatment groups (ITT population BOCF approach).</p></caption><table frame="hsides" rules="groups" width="615" border="0" cellpadding="4" cellspacing="0"><col width="37" span="1"/><col width="124" span="1"/><col width="112" span="1"/><col width="76" span="1"/><col width="112" span="1"/><col width="64" span="1"/><col width="82" span="1"/><thead><tr valign="bottom"><td colspan="2" rowspan="1">Characteristic and follow-up time</td><td colspan="2" rowspan="1">Treatment group <break/>
+Mean change (SD)</td><td rowspan="1" colspan="1">Absolute difference between groups <break/>
+LSM (95% CI)</td><td colspan="2" rowspan="1">
+<italic>P</italic> values for group effect</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Basic</td><td rowspan="1" colspan="1">Enhanced</td><td rowspan="1" colspan="1">Enhanced vs basic</td><td rowspan="1" colspan="1">Difference at follow-up</td><td rowspan="1" colspan="1">Difference between groups</td></tr></thead><tbody><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Weight (kg)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;2.7 (4.0)</td><td rowspan="1" colspan="1">&#x02013;3.3 (4.5)</td><td rowspan="1" colspan="1">0.6 (&#x02013;0.3, 1.6)</td><td rowspan="1" colspan="1">.21</td><td rowspan="2" colspan="1">.13</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;3.0 (4.5)</td><td rowspan="1" colspan="1">&#x02013;3.9 (6.2)</td><td rowspan="1" colspan="1">1.0 (&#x02013;0.2, 2.2)</td><td rowspan="1" colspan="1">.11</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Percentage weight loss (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;2.90 (4.09)</td><td rowspan="1" colspan="1">&#x02013;3.61 (4.69)</td><td rowspan="1" colspan="1">0.71 (&#x02013;0.30, 1.71)</td><td rowspan="1" colspan="1">.17</td><td rowspan="2" colspan="1">.12</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;3.17 (4.74)</td><td rowspan="1" colspan="1">&#x02013;4.19 (6.34)</td><td rowspan="1" colspan="1">1.02 (&#x02013;0.27, 2.30)</td><td rowspan="1" colspan="1">.12</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Attained 5% weight loss (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">24.5 (43.1)</td><td rowspan="1" colspan="1">32.9 (47.1)</td><td rowspan="1" colspan="1">8.43 (&#x02013;1.87, 18.73)</td><td rowspan="1" colspan="1">.11</td><td rowspan="2" colspan="1">.09</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">28.7 (45.4)</td><td rowspan="1" colspan="1">36.7 (48.4)</td><td rowspan="1" colspan="1">8.07 (&#x02013;2.58, 18.73)</td><td rowspan="1" colspan="1">.13</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Systolic blood pressure (mmHg)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;3.40 (10.31)</td><td rowspan="1" colspan="1">&#x02013;3.94 (9.66)</td><td rowspan="1" colspan="1">0.52 (&#x02013;1.60, 2.65)</td><td rowspan="1" colspan="1">.63</td><td rowspan="2" colspan="1">.92</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;2.46 (9.71)</td><td rowspan="1" colspan="1">&#x02013;2.14 (10.85)</td><td rowspan="1" colspan="1">0.35 (&#x02013;1.77, 2.47)</td><td rowspan="1" colspan="1">.75</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Diastolic blood pressure (mmHg)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1.82 (8.50)</td><td rowspan="1" colspan="1">&#x02013;2.30 (7.57)</td><td rowspan="1" colspan="1">0.54 (&#x02013;1.14, 2.22)</td><td rowspan="1" colspan="1">.53</td><td rowspan="2" colspan="1">.68</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.89 (8.59)</td><td rowspan="1" colspan="1">&#x02013;0.91 (7.60)</td><td rowspan="1" colspan="1">0.08 (&#x02013;1.62, 1.78)</td><td rowspan="1" colspan="1">.93</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Body mass index (kg/m<sup>2</sup>)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.93 (1.31)</td><td rowspan="1" colspan="1">&#x02013;1.11 (1.52)</td><td rowspan="1" colspan="1">0.18 (&#x02013;0.14, 0.50)</td><td rowspan="1" colspan="1">.28</td><td rowspan="2" colspan="1">.20</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.97 (1.45)</td><td rowspan="1" colspan="1">&#x02013;1.24 (2.00)</td><td rowspan="1" colspan="1">0.28 (&#x02013;0.12, 0.68)</td><td rowspan="1" colspan="1">.17</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Resting heart rate (bpm)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1.33 (7.12)</td><td rowspan="1" colspan="1">&#x02013;2.35 (6.49)</td><td rowspan="1" colspan="1">1.20 (&#x02013;0.23, 2.64)</td><td rowspan="1" colspan="1">.10</td><td rowspan="2" colspan="1">.03</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;1.30 (7.15)</td><td rowspan="1" colspan="1">&#x02013;2.78 (6.86)</td><td rowspan="1" colspan="1">1.64 (0.12, 3.15)</td><td rowspan="1" colspan="1">.03</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist circumference at umbilicus (cm)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;3.37 (4.52)</td><td rowspan="1" colspan="1">&#x02013;3.57 (5.31)</td><td rowspan="1" colspan="1">0.20 (&#x02013;0.93, 1.33)</td><td rowspan="1" colspan="1">.73</td><td rowspan="2" colspan="1">.26</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;3.81 (5.17)</td><td rowspan="1" colspan="1">&#x02013;4.93 (6.73)</td><td rowspan="1" colspan="1">1.12 (&#x02013;0.25, 2.48)</td><td rowspan="1" colspan="1">.11</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist circumference at narrowest point (cm)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;2.48 (4.27)</td><td rowspan="1" colspan="1">&#x02013;3.37 (4.80)</td><td rowspan="1" colspan="1">0.90 (&#x02013;0.13, 1.92)</td><td rowspan="1" colspan="1">.09</td><td rowspan="2" colspan="1">.06</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;2.73 (4.26)</td><td rowspan="1" colspan="1">&#x02013;3.79 (6.19)</td><td rowspan="1" colspan="1">1.08 (&#x02013;0.13, 2.29)</td><td rowspan="1" colspan="1">.08</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist-to-height ratio at umbilicus</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.03)</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.03)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.01, 0.01)</td><td rowspan="1" colspan="1">.86</td><td rowspan="2" colspan="1">.35</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.03)</td><td rowspan="1" colspan="1">&#x02013;0.03 (0.04)</td><td rowspan="1" colspan="1">0.01 (&#x02013;0.00, 0.01)</td><td rowspan="1" colspan="1">.15</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist-to-height ratio at narrowest point</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.01 (0.02)</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.03)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.00, 0.01)</td><td rowspan="1" colspan="1">.11</td><td rowspan="2" colspan="1">.09</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.02)</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.04)</td><td rowspan="1" colspan="1">0.01 (&#x02013;0.00, 0.01)</td><td rowspan="1" colspan="1">.12</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Total serum cholesterol (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.08 (0.50)</td><td rowspan="1" colspan="1">&#x02013;0.19 (0.58)</td><td rowspan="1" colspan="1">0.12 (&#x02013;0.00, 0.24)</td><td rowspan="1" colspan="1">.06</td><td rowspan="2" colspan="1">.06</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">0.01 (0.44)</td><td rowspan="1" colspan="1">&#x02013;0.06 (0.58)</td><td rowspan="1" colspan="1">0.08 (&#x02013;0.04, 0.19)</td><td rowspan="1" colspan="1">.20</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>LDL cholesterol (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.00 (0.45)</td><td rowspan="1" colspan="1">&#x02013;0.07 (0.46)</td><td rowspan="1" colspan="1">0.09 (&#x02013;0.02, 0.19)</td><td rowspan="1" colspan="1">.11</td><td rowspan="2" colspan="1">.10</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">0.02 (0.39)</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.46)</td><td rowspan="1" colspan="1">0.06 (&#x02013;0.04, 0.16)</td><td rowspan="1" colspan="1">.27</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>HDL cholesterol (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.00 (0.14)</td><td rowspan="1" colspan="1">&#x02013;0.01 (0.16)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.03, 0.04)</td><td rowspan="1" colspan="1">.93</td><td rowspan="2" colspan="1">.86</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">0.02 (0.10)</td><td rowspan="1" colspan="1">0.02 (0.16)</td><td rowspan="1" colspan="1">0.01 (&#x02013;0.02, 0.04)</td><td rowspan="1" colspan="1">.68</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Triglycerides (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.16 (0.63)</td><td rowspan="1" colspan="1">&#x02013;0.26 (0.66)</td><td rowspan="1" colspan="1">0.05 (&#x02013;0.08, 0.18)</td><td rowspan="1" colspan="1">.48</td><td rowspan="2" colspan="1">.27</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.08 (0.43)</td><td rowspan="1" colspan="1">&#x02013;0.21 (0.65)</td><td rowspan="1" colspan="1">0.08 (&#x02013;0.04, 0.19)</td><td rowspan="1" colspan="1">.18</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>LDL to HDL ratio</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">0.00 (0.40)</td><td rowspan="1" colspan="1">&#x02013;0.04 (0.35)</td><td rowspan="1" colspan="1">0.06 (&#x02013;0.03, 0.15)</td><td rowspan="1" colspan="1">.21</td><td rowspan="2" colspan="1">.23</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.34)</td><td rowspan="1" colspan="1">&#x02013;0.04 (0.36)</td><td rowspan="1" colspan="1">0.03 (&#x02013;0.06, 0.11)</td><td rowspan="1" colspan="1">.51</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Glucose (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.22 (0.55)</td><td rowspan="1" colspan="1">&#x02013;0.22 (0.55)</td><td rowspan="1" colspan="1">0.02 (&#x02013;0.10, 0.14)</td><td rowspan="1" colspan="1">.78</td><td rowspan="2" colspan="1">.22</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.38)</td><td rowspan="1" colspan="1">&#x02013;0.10 (0.50)</td><td rowspan="1" colspan="1">0.10 (0.00, 0.20)</td><td rowspan="1" colspan="1">.05</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Insulin (mIU/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1.76 (10.91)</td><td rowspan="1" colspan="1">&#x02013;1.80 (5.47)</td><td rowspan="1" colspan="1">0.29 (&#x02013;1.25, 1.82)</td><td rowspan="1" colspan="1">.71</td><td rowspan="2" colspan="1">.82</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;2.37 (9.85)</td><td rowspan="1" colspan="1">&#x02013;2.16 (5.92)</td><td rowspan="1" colspan="1">0.02 (&#x02013;1.43, 1.47)</td><td rowspan="1" colspan="1">.98</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Physical functioning (SF36)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">2.48 (20.05)</td><td rowspan="1" colspan="1">4.71 (15.74)</td><td rowspan="1" colspan="1">1.14 (&#x02013;2.34, 4.62)</td><td rowspan="1" colspan="1">.52</td><td rowspan="2" colspan="1">.90</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">3.48 (10.40)</td><td rowspan="1" colspan="1">3.38 (13.63)</td><td rowspan="1" colspan="1">0.81 (&#x02013;1.58, 3.21)</td><td rowspan="1" colspan="1">.50</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Mental health (SF36)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">2.13 (15.06)</td><td rowspan="1" colspan="1">4.04 (13.43)</td><td rowspan="1" colspan="1">1.58 (&#x02013;1.41, 4.57)</td><td rowspan="1" colspan="1">.30</td><td rowspan="2" colspan="1">.22</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">0.82 (11.74)</td><td rowspan="1" colspan="1">3.15 (23.39)</td><td rowspan="1" colspan="1">2.03 (&#x02013;2.11, 6.17)</td><td rowspan="1" colspan="1">.34</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Total physical activity MET (min/week)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">215.29 (2448.3)</td><td rowspan="1" colspan="1">373.56 (2467.1)</td><td rowspan="1" colspan="1">96.19 (&#x02013;424.3, 616.66)</td><td rowspan="1" colspan="1">.72</td><td rowspan="2" colspan="1">.20</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">136.47 (2303.8)</td><td rowspan="1" colspan="1">653.82 (2882.0)</td><td rowspan="1" colspan="1">474.17 (&#x02013;112.4, 1060.7)</td><td rowspan="1" colspan="1">.11</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Average step count per day</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">319.92 (2481.3)</td><td rowspan="1" colspan="1">1059.8 (3094.2)</td><td rowspan="1" colspan="1">675.22 (&#x02013;11.32, 1361.8)</td><td rowspan="1" colspan="1">.05</td><td rowspan="2" colspan="1">.05</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">36.69 (1838.9)</td><td rowspan="1" colspan="1">485.19 (2766.5)</td><td rowspan="1" colspan="1">405.53 (&#x02013;191.5, 1002.6)</td><td rowspan="1" colspan="1">.18</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Cognitive restraint scale</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">1.32 (2.72)</td><td rowspan="1" colspan="1">1.74 (3.28)</td><td rowspan="1" colspan="1">0.48 (&#x02013;0.15, 1.11)</td><td rowspan="1" colspan="1">.14</td><td rowspan="2" colspan="1">.12</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">1.32 (2.75)</td><td rowspan="1" colspan="1">1.71 (3.10)</td><td rowspan="1" colspan="1">0.43 (&#x02013;0.22, 1.08)</td><td rowspan="1" colspan="1">.19</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Uncontrolled eating scale</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1.71 (3.44)</td><td rowspan="1" colspan="1">&#x02013;1.78 (3.41)</td><td rowspan="1" colspan="1">0.14 (&#x02013;0.58, 0.86)</td><td rowspan="1" colspan="1">.70</td><td rowspan="2" colspan="1">.73</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;1.55 (3.37)</td><td rowspan="1" colspan="1">&#x02013;1.56 (3.48)</td><td rowspan="1" colspan="1">0.09 (&#x02013;0.65, 0.82)</td><td rowspan="1" colspan="1">.82</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Emotional eating score</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.37 (1.38)</td><td rowspan="1" colspan="1">&#x02013;0.48 (1.56)</td><td rowspan="1" colspan="1">0.10 (&#x02013;0.22, 0.41)</td><td rowspan="1" colspan="1">.54</td><td rowspan="2" colspan="1">.38</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.40 (1.59)</td><td rowspan="1" colspan="1">&#x02013;0.57 (1.68)</td><td rowspan="1" colspan="1">0.17 (&#x02013;0.19, 0.52)</td><td rowspan="1" colspan="1">.36</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Total energy intake</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;985.5 (2386.7)</td><td rowspan="1" colspan="1">&#x02013;1248 (2458.1)</td><td rowspan="1" colspan="1">267.74 (&#x02013;186.4, 721.90)</td><td rowspan="1" colspan="1">.25</td><td rowspan="2" colspan="1">.54</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;787.1 (2095.4)</td><td rowspan="1" colspan="1">&#x02013;761.4 (2046.2)</td><td rowspan="1" colspan="1">22.36 (&#x02013;407.4, 452.10)</td><td rowspan="1" colspan="1">.92</td></tr></tbody></table></table-wrap><table-wrap id="table5" position="float"><label>Table 5</label><caption><p>Mean change in a range of variables from baseline to 12 weeks and baseline to 24 weeks within each treatment group and the least squares mean (LSM) difference in change between treatment groups (completers population).</p></caption><table frame="hsides" rules="groups" width="615" border="0" cellpadding="4" cellspacing="0"><col width="37" span="1"/><col width="124" span="1"/><col width="112" span="1"/><col width="76" span="1"/><col width="112" span="1"/><col width="64" span="1"/><col width="82" span="1"/><thead><tr valign="bottom"><td colspan="2" rowspan="1">Characteristic and follow-up time</td><td colspan="2" rowspan="1">Treatment group <break/>
+Mean change (SD)</td><td rowspan="1" colspan="1">Absolute difference between groups <break/>
+LSM (95% CI)</td><td colspan="2" rowspan="1">
+<italic>P</italic> values for group effect</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Basic</td><td rowspan="1" colspan="1">Enhanced</td><td rowspan="1" colspan="1">Enhanced vs basic</td><td rowspan="1" colspan="1">Difference at follow-up</td><td rowspan="1" colspan="1">Difference between groups</td></tr></thead><tbody><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Weight (kg)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;3.7 (4.0)</td><td rowspan="1" colspan="1">&#x02013;4.3 (4.6)</td><td rowspan="1" colspan="1">0.6 (&#x02013;0.6, 1.8)</td><td rowspan="1" colspan="1">.34</td><td rowspan="2" colspan="1">.35</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;4.1 (4.7)</td><td rowspan="1" colspan="1">&#x02013;4.8 (6.6)</td><td rowspan="1" colspan="1">0.7 (&#x02013;0.8, 2.3)</td><td rowspan="1" colspan="1">.35</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Percentage weight loss (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;3.89 (4.10)</td><td rowspan="1" colspan="1">&#x02013;4.59 (4.81)</td><td rowspan="1" colspan="1">0.69 (&#x02013;0.54, 1.92)</td><td rowspan="1" colspan="1">.27</td><td rowspan="2" colspan="1">.27</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;4.48 (4.91)</td><td rowspan="1" colspan="1">&#x02013;5.18 (6.70)</td><td rowspan="1" colspan="1">0.71 (&#x02013;0.88, 2.31)</td><td rowspan="1" colspan="1">.38</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Attained 5% weight loss (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">33.7 (47.5)</td><td rowspan="1" colspan="1">41.3 (49.4)</td><td rowspan="1" colspan="1">7.65 (&#x02013;5.65, 20.94)</td><td rowspan="1" colspan="1">.26</td><td rowspan="2" colspan="1">.31</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">41.2 (49.5)</td><td rowspan="1" colspan="1">45.7 (50.0)</td><td rowspan="1" colspan="1">4.76 (&#x02013;8.40, 17.92)</td><td rowspan="1" colspan="1">.48</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Systolic blood pressure (mmHg)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;4.91 (12.38)</td><td rowspan="1" colspan="1">&#x02013;4.91 (10.63)</td><td rowspan="1" colspan="1">0.37 (&#x02013;2.48, 3.21)</td><td rowspan="1" colspan="1">.80</td><td rowspan="2" colspan="1">.65</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;3.98 (12.11)</td><td rowspan="1" colspan="1">&#x02013;2.95 (12.65)</td><td rowspan="1" colspan="1">0.78 (&#x02013;2.15, 3.71)</td><td rowspan="1" colspan="1">.60</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Diastolic blood pressure (mmHg)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;2.87 (10.33)</td><td rowspan="1" colspan="1">&#x02013;2.86 (8.37)</td><td rowspan="1" colspan="1">0.43 (&#x02013;1.72, 2.59)</td><td rowspan="1" colspan="1">.69</td><td rowspan="2" colspan="1">.91</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;1.43 (10.89)</td><td rowspan="1" colspan="1">&#x02013;1.25 (8.90)</td><td rowspan="1" colspan="1">0.22 (&#x02013;2.14, 2.58)</td><td rowspan="1" colspan="1">.85</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Body mass index (kg/m<sup>2</sup>)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1.27 (1.33)</td><td rowspan="1" colspan="1">&#x02013;1.42 (1.57)</td><td rowspan="1" colspan="1">0.15 (&#x02013;0.26, 0.55)</td><td rowspan="1" colspan="1">.48</td><td rowspan="2" colspan="1">.48</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;1.53 (1.57)</td><td rowspan="1" colspan="1">&#x02013;1.70 (2.17)</td><td rowspan="1" colspan="1">0.16 (&#x02013;0.37, 0.70)</td><td rowspan="1" colspan="1">.55</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Resting heart rate (bpm)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1.90 (8.31)</td><td rowspan="1" colspan="1">&#x02013;3.07 (7.18)</td><td rowspan="1" colspan="1">1.37 (&#x02013;0.48, 3.21)</td><td rowspan="1" colspan="1">.15</td><td rowspan="2" colspan="1">.05</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;2.09 (8.97)</td><td rowspan="1" colspan="1">&#x02013;3.81 (7.78)</td><td rowspan="1" colspan="1">1.76 (&#x02013;0.34, 3.87)</td><td rowspan="1" colspan="1">.10</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist circumference at umbilicus (cm)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;4.44 (4.56)</td><td rowspan="1" colspan="1">&#x02013;4.51 (5.50)</td><td rowspan="1" colspan="1">0.02 (&#x02013;1.38, 1.42)</td><td rowspan="1" colspan="1">.98</td><td rowspan="2" colspan="1">.64</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;6.13 (5.36)</td><td rowspan="1" colspan="1">&#x02013;6.83 (7.06)</td><td rowspan="1" colspan="1">0.56 (&#x02013;1.16, 2.29)</td><td rowspan="1" colspan="1">.52</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist circumference at narrowest point (cm)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;3.18 (4.54)</td><td rowspan="1" colspan="1">&#x02013;4.28 (5.01)</td><td rowspan="1" colspan="1">1.05 (&#x02013;0.24, 2.34)</td><td rowspan="1" colspan="1">.11</td><td rowspan="2" colspan="1">.15</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;4.39 (4.68)</td><td rowspan="1" colspan="1">&#x02013;5.25 (6.75)</td><td rowspan="1" colspan="1">0.82 (&#x02013;0.81, 2.44)</td><td rowspan="1" colspan="1">.32</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist-to-height ratio at umbilicus</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.03 (0.03)</td><td rowspan="1" colspan="1">&#x02013;0.03 (0.03)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.01, 0.01)</td><td rowspan="1" colspan="1">.91</td><td rowspan="2" colspan="1">.75</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.04 (0.03)</td><td rowspan="1" colspan="1">&#x02013;0.04 (0.04)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.01, 0.01)</td><td rowspan="1" colspan="1">.65</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Waist-to-height ratio at narrowest point</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.03)</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.03)</td><td rowspan="1" colspan="1">0.01 (&#x02013;0.00, 0.01)</td><td rowspan="1" colspan="1">.14</td><td rowspan="2" colspan="1">.19</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.03 (0.03)</td><td rowspan="1" colspan="1">&#x02013;0.03 (0.04)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.01, 0.01)</td><td rowspan="1" colspan="1">.42</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Total serum cholesterol (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.12 (0.54)</td><td rowspan="1" colspan="1">&#x02013;0.23 (0.65)</td><td rowspan="1" colspan="1">0.12 (&#x02013;0.04, 0.28)</td><td rowspan="1" colspan="1">.14</td><td rowspan="2" colspan="1">.09</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">0.02 (0.57)</td><td rowspan="1" colspan="1">&#x02013;0.09 (0.70)</td><td rowspan="1" colspan="1">0.12 (&#x02013;0.06, 0.30)</td><td rowspan="1" colspan="1">.20</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>LDL cholesterol (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.45)</td><td rowspan="1" colspan="1">&#x02013;0.08 (0.53)</td><td rowspan="1" colspan="1">0.08 (&#x02013;0.06, 0.22)</td><td rowspan="1" colspan="1">.27</td><td rowspan="2" colspan="1">.26</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">0.04 (0.52)</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.57)</td><td rowspan="1" colspan="1">0.09 (&#x02013;0.07, 0.26)</td><td rowspan="1" colspan="1">.27</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>HDL cholesterol (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.01 (0.14)</td><td rowspan="1" colspan="1">&#x02013;0.01 (0.18)</td><td rowspan="1" colspan="1">0.01 (&#x02013;0.04, 0.05)</td><td rowspan="1" colspan="1">.76</td><td rowspan="2" colspan="1">.71</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">0.03 (0.13)</td><td rowspan="1" colspan="1">0.04 (0.19)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.04, 0.05)</td><td rowspan="1" colspan="1">.86</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Triglycerides (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.21 (0.64)</td><td rowspan="1" colspan="1">&#x02013;0.34 (0.73)</td><td rowspan="1" colspan="1">0.06 (&#x02013;0.10, 0.22)</td><td rowspan="1" colspan="1">.47</td><td rowspan="2" colspan="1">.21</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.14 (0.56)</td><td rowspan="1" colspan="1">&#x02013;0.30 (0.77)</td><td rowspan="1" colspan="1">0.07 (&#x02013;0.09, 0.24)</td><td rowspan="1" colspan="1">.38</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>LDL to HDL ratio</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.02 (0.44)</td><td rowspan="1" colspan="1">&#x02013;0.05 (0.40)</td><td rowspan="1" colspan="1">0.05 (&#x02013;0.07, 0.18)</td><td rowspan="1" colspan="1">.38</td><td rowspan="2" colspan="1">.43</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.04 (0.46)</td><td rowspan="1" colspan="1">&#x02013;0.07 (0.44)</td><td rowspan="1" colspan="1">0.04 (&#x02013;0.10, 0.17)</td><td rowspan="1" colspan="1">.61</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Glucose (mmol/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.31 (0.64)</td><td rowspan="1" colspan="1">&#x02013;0.27 (0.61)</td><td rowspan="1" colspan="1">0.00 (&#x02013;0.16, 0.16)</td><td rowspan="1" colspan="1">.99</td><td rowspan="2" colspan="1">.35</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.03 (0.50)</td><td rowspan="1" colspan="1">&#x02013;0.15 (0.61)</td><td rowspan="1" colspan="1">0.15 (&#x02013;0.00, 0.29)</td><td rowspan="1" colspan="1">.05</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Insulin (mIU/L)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;2.69 (13.26)</td><td rowspan="1" colspan="1">&#x02013;2.25 (6.14)</td><td rowspan="1" colspan="1">0.48 (&#x02013;1.13, 2.08)</td><td rowspan="1" colspan="1">.56</td><td rowspan="2" colspan="1">.61</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;4.03 (12.62)</td><td rowspan="1" colspan="1">&#x02013;3.15 (6.95)</td><td rowspan="1" colspan="1">0.20 (&#x02013;1.34, 1.73)</td><td rowspan="1" colspan="1">.80</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Physical functioning (SF36)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">3.54 (24.91)</td><td rowspan="1" colspan="1">5.21 (16.40)</td><td rowspan="1" colspan="1">0.57 (&#x02013;3.93, 5.08)</td><td rowspan="1" colspan="1">.80</td><td rowspan="2" colspan="1">.88</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">5.57 (12.74)</td><td rowspan="1" colspan="1">4.78 (15.93)</td><td rowspan="1" colspan="1">1.25 (&#x02013;1.89, 4.40)</td><td rowspan="1" colspan="1">.43</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Mental health (SF36)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">2.36 (18.09)</td><td rowspan="1" colspan="1">4.88 (14.97)</td><td rowspan="1" colspan="1">1.39 (&#x02013;2.51, 5.28)</td><td rowspan="1" colspan="1">.48</td><td rowspan="2" colspan="1">.53</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">1.31 (14.87)</td><td rowspan="1" colspan="1">4.38 (27.63)</td><td rowspan="1" colspan="1">1.87 (&#x02013;4.18, 7.93)</td><td rowspan="1" colspan="1">.54</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Total physical activity MET (min/week)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">164.57 (2799.8)</td><td rowspan="1" colspan="1">432.99 (2735.8)</td><td rowspan="1" colspan="1">214.87 (&#x02013;403.0, 832.76)</td><td rowspan="1" colspan="1">.49</td><td rowspan="2" colspan="1">.28</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">230.41 (2997.8)</td><td rowspan="1" colspan="1">932.18 (3408.2)</td><td rowspan="1" colspan="1">491.04 (&#x02013;381.0, 1363.0)</td><td rowspan="1" colspan="1">.27</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Average step count per day</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">418.22 (3102.2)</td><td rowspan="1" colspan="1">1598.7 (3600.4)</td><td rowspan="1" colspan="1">1139.3 (118.76, 2159.9)</td><td rowspan="1" colspan="1">.03</td><td rowspan="2" colspan="1">.06</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">91.73 (2926.8)</td><td rowspan="1" colspan="1">808.65 (3543.6)</td><td rowspan="1" colspan="1">587.05 (&#x02013;604.7, 1778.8)</td><td rowspan="1" colspan="1">.33</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Cognitive restraint scale</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">2.11 (2.94)</td><td rowspan="1" colspan="1">2.29 (3.48)</td><td rowspan="1" colspan="1">0.01 (&#x02013;0.78, 0.79)</td><td rowspan="1" colspan="1">.98</td><td rowspan="2" colspan="1">.66</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">2.13 (3.24)</td><td rowspan="1" colspan="1">2.44 (3.46)</td><td rowspan="1" colspan="1">0.19 (&#x02013;0.69, 1.07)</td><td rowspan="1" colspan="1">.66</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Uncontrolled eating scale</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;2.60 (3.82)</td><td rowspan="1" colspan="1">&#x02013;2.26 (3.76)</td><td rowspan="1" colspan="1">0.12 (&#x02013;0.81, 1.05)</td><td rowspan="1" colspan="1">.81</td><td rowspan="2" colspan="1">.96</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;2.46 (3.98)</td><td rowspan="1" colspan="1">&#x02013;2.20 (3.96)</td><td rowspan="1" colspan="1">0.07 (&#x02013;0.92, 1.07)</td><td rowspan="1" colspan="1">.89</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Emotional eating score</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;0.53 (1.61)</td><td rowspan="1" colspan="1">&#x02013;0.59 (1.75)</td><td rowspan="1" colspan="1">0.06 (&#x02013;0.37, 0.48)</td><td rowspan="1" colspan="1">.79</td><td rowspan="2" colspan="1">.58</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;0.63 (1.98)</td><td rowspan="1" colspan="1">&#x02013;0.79 (1.94)</td><td rowspan="1" colspan="1">0.14 (&#x02013;0.36, 0.64)</td><td rowspan="1" colspan="1">.58</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">
+<bold>Total energy intake</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">&#x02013;1480 (2695.4)</td><td rowspan="1" colspan="1">&#x02013;1467 (2428.2)</td><td rowspan="1" colspan="1">90.91 (&#x02013;462.8, 644.63)</td><td rowspan="1" colspan="1">.75</td><td rowspan="2" colspan="1">.82</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">&#x02013;1285 (2559.6)</td><td rowspan="1" colspan="1">&#x02013;1047 (2338.7)</td><td rowspan="1" colspan="1">208.94 (&#x02013;379.6, 797.48)</td><td rowspan="1" colspan="1">.48</td></tr></tbody></table></table-wrap><table-wrap id="table6" position="float"><label>Table 6</label><caption><p>Mean change in total website usage for the completers population and the ITT with LOCF from baseline to 12 weeks and baseline to 24 weeks within each treatment group.</p></caption><table frame="hsides" rules="groups" width="694" border="0" cellpadding="4" cellspacing="0"><col width="26" span="1"/><col width="34" span="1"/><col width="130" span="1"/><col width="82" span="1"/><col width="82" span="1"/><col width="130" span="1"/><col width="76" span="1"/><col width="70" span="1"/><thead><tr valign="bottom"><td colspan="3" rowspan="1">Characteristic and follow-up time</td><td colspan="2" rowspan="1">Treatment group <break/>
+Mean change (SD)</td><td rowspan="1" colspan="1">Absolute difference between groups <break/>
+LSM (95% CI)</td><td colspan="2" rowspan="1">
+<italic>P</italic> values for group effect</td></tr><tr valign="bottom"><td colspan="3" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Basic</td><td rowspan="1" colspan="1">Enhanced</td><td rowspan="1" colspan="1">Enhanced vs basic</td><td rowspan="1" colspan="1">Difference at follow-up</td><td rowspan="1" colspan="1">Difference between groups</td></tr></thead><tbody><tr valign="bottom"><td colspan="5" rowspan="1">
+<bold>Intention-to-treat</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="5" rowspan="1">
+<bold>Total website was usage since baseline (days)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">24.6 (25.5)</td><td rowspan="1" colspan="1">34.1 (28.1)</td><td rowspan="1" colspan="1">9.45 (3.34, 15.56)</td><td rowspan="1" colspan="1">.002</td><td rowspan="2" colspan="1">.002</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">31.8 (33.9)</td><td rowspan="1" colspan="1">43.1 (34.0)</td><td rowspan="1" colspan="1">12.47 (4.73, 20.20)</td><td rowspan="1" colspan="1">.002</td></tr><tr valign="bottom"><td colspan="3" rowspan="1">
+<bold>Completers</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="5" rowspan="1">
+<bold>Total website was usage since baseline (days)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">29.7 (26.6)</td><td rowspan="1" colspan="1">38.7 (28.5)</td><td rowspan="1" colspan="1">9.2 (&#x02013;1.9, 16.5)</td><td rowspan="1" colspan="1">.01</td><td rowspan="2" colspan="1">.02</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24 weeks</td><td rowspan="1" colspan="1">42.0 (36.1)</td><td rowspan="1" colspan="1">49.8 (33.3)</td><td rowspan="1" colspan="1">8.1 (&#x02013;3.3, 19.4)</td><td rowspan="1" colspan="1">.16</td></tr></tbody></table></table-wrap></sec></sec><sec sec-type="discussion"><title>Discussion</title><sec><title>Principal Findings</title><p>The aim of the study was to evaluate whether overweight and obese adults randomized to a commercial Web-based weight-loss program providing greater social support and more personalized feedback achieved a greater reduction in BMI and increased usage of program features compared to those randomized to a standard version of the program. We found no differences in weight loss or most of the secondary health outcomes between the basic and enhanced features versions of the Web-based weight-loss program after 24 weeks, despite previous reports that provision of enhanced features within Web-based formats does enhance weight-loss outcomes [<xref ref-type="bibr" rid="ref5">5</xref>]. Mean weight loss in the current study ranged from 2 to 3 kg after 12 weeks and 3 to 4 kg after 24 weeks across both intervention groups. Both the magnitude of weight loss, and the continuance of weight loss from 12 to 24 weeks highlights that both versions are promising at the population level. The results also compare favorably to previous Web-based studies. Only 4 of 7 studies were deemed effective with a mean weight loss &#x02265;5% [<xref ref-type="bibr" rid="ref24">24</xref>-<xref ref-type="bibr" rid="ref28">28</xref>]. When we examined those who achieved &#x02265;5% weight loss, success was strongly associated with website usage, indicating that strategies to improve website usage may be beneficial to weight loss outcomes. In this regard, some aspects of the enhanced program features may be valuable because the enhanced group had a significantly lower dropout rate and greater participant engagement.</p><p>In the current study, the basic and enhanced versions may have produced similar weight loss because several of these components were similar (self-monitoring, social support, structured program) or absent (eg, counselor feedback) in both versions. Khaylis et al [<xref ref-type="bibr" rid="ref29">29</xref>] reviewed technology-based weight-loss intervention studies and identified 5 factors that may contribute to successful weight loss: use of a structured program, self-monitoring, social support, use of an individually tailored program, and counselor feedback and communication. Although semipersonalized system-generated feedback and an escalating reminder scale to begin was provided in the enhanced group, the report may not have been specific enough to help them further improve their dietary intake, physical activity, and log-ins. The contact may have been viewed as too much contact and, therefore, contributed to nonusage. In the current study, the basic version of the Web-based weight-loss program proved effective, supported by the 0.9 kg/m<sup>2</sup> reduction in BMI (2.7 kg) at 12 weeks and the 1.1 kg/m<sup>2</sup> BMI reduction (3.3 kg) after 24 weeks. This degree of weight loss is similar to that in the enhanced arm of older Web-based trials. For example, in 2001, Tate et al [<xref ref-type="bibr" rid="ref28">28</xref>] reported 3- and 6-month weight losses of -3.2 kg and -2.9 kg, respectively, in 46 adults in the enhanced arm of an Internet weight-loss trial compared to -1.0 kg and -1.3 kg for the basic group, whereas in 2006, Rothert et al [<xref ref-type="bibr" rid="ref8">8</xref>] reported that for 1475 adults participating in the tailored (enhanced) feedback arm, the mean weight losses at 3 and 6 months were 0.8% and 0.9% body weight compared to -0.4% in the basic information-only Internet program at both 3 and 6 months. A recent 2010 study by Wing et al [<xref ref-type="bibr" rid="ref6">6</xref>] did report significantly greater weight loss in an enhanced Web program (-3.1 kg) compared to a basic version (-1.2 kg), with mean weight loss for the enhanced similar to the basic program in the current study. Another study by Webber et al [<xref ref-type="bibr" rid="ref10">10</xref>] reported greater weight loss using Web-based programs than the current study. Although the weight loss between a basic (minimal contact) and enhanced version of an Internet program was not significantly different, both groups achieved substantial weight losses of 5.2 kg (minimal) and 3.7 kg (enhanced) after 16 weeks [<xref ref-type="bibr" rid="ref10">10</xref>]. However, it is difficult to compare and discern how different Web-based features may influence outcomes. Having standardized ways of describing or reporting enhanced program features would assist in making comparisons across studies and, over time, could help with identifying the set of program components that may optimize weight loss using Web-based programs. Future programs may need to segment the target population to improve feedback tailoring to specific user groups as a strategy to avoid website discontinuity, particularly in relation to some age, sex, or BMI subgroups [<xref ref-type="bibr" rid="ref30">30</xref>]. Some groups may not need this more extensive feedback and it would be useful to identify who they are. Although there were some minor differences in outcomes across categories of age, BMI, and sex, a Web-based program may potentially benefit specific groups of program users [<xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref>].</p><p>In the completers population of the current study, significant correlations were found between total website usage and the percentage weight loss at 12 and 24 weeks. Participants who achieved clinically important weight loss (&#x02265;5%) at either time point used the website almost 4 times more than those who were not successful (&#x0003c;5% weight loss). Further, the website log-ins among those deemed successful was substantially greater than the number of log-ins reported for the enhanced group. Those with successful weight loss logged in 2 to 3 times per week, compared to just once or twice a week for those randomized to the enhanced group and less than once a week for those randomized to the basic group.</p><p>The correlation between number of log-ins and weight loss was moderate across all study participants and there was also no between-group difference. This suggests that although being allocated to the enhanced program did facilitate more frequent website log-ins, provision of additional features is not enough to facilitate greater engagement and weight loss. Further research examining which combination of website features optimize program use and reduce attrition are needed. Based on the current study, future modifications to the enhanced program would need to achieve a 50% increase in the number of participant log-ins than that in the current study. This would mean getting participants to use the program at least 2 to 3 times per week as a strategy to facilitate clinically important &#x02265;5% weight loss. Establishing and testing these targets could ease the burden and fatigue associated with program usage targets that are not achievable or sustainable. Although between-groups differences might typically be explained by confounders such as energy intake and physical activity, these were not different between groups. It is more likely that differential use of social support features, including blogs, forums, and chat rooms, explain the between-group difference and this requires further research. We cannot tell whether the reminders schedule to log in and use of program features in the current study was the key driver of this and this also needs to be examined in future studies.</p></sec><sec><title>Limitations</title><p>A limitation of the current study is that it did not have a waitlist control group at 6 months. However, this was not required to answer the research question. Attrition reduced the power to detect significant differences between groups, particularly for the secondary outcomes; however, there were a few trends suggesting that better retention would not have changed the outcomes in any substantial way. The strengths of this study include the use of an RCT, large sample size, use of blinded assessors, and the comparison of the effectiveness of the 2 versions of the weight-loss programs up to 24 weeks. Further, few commercial Web-based programs have been subjected to evaluation by RCT, with none previously conducted in Australia. Importantly, this study has demonstrated the efficacy of a commercial Web-based weight-loss program in achieving clinically important weight loss.</p></sec><sec><title>Conclusions</title><p>In conclusion, commercial Web-based weight-loss programs can be effective at achieving clinically meaningful weight loss up to 24 weeks. Although adding enhanced features that provide additional feedback, reminders, and social support promotes greater retention and engagement, it does not necessarily increase weight loss substantially. Further research into Web-based features that optimize website usage, program engagement, and weight-loss success is warranted.</p></sec></sec></body><back><ack><p>We would like to thank the study participants for participating in the trial; research assistants (Rebecca Collins, Trevor Cripps, James Dower, Sharenjit Gill, Jenna Hannan, Skye Huxley, Hannah Mackay, Bryana Melnick, Justin Nicol, Hannah Lucas, Tom Mitchell, Huiru Teoh, Janine Wright, and Mei Yap) who helped with data collection; Louana Moller, Lynn Clarke, and Narelle Eddington from Hunter Area Pathology Service; Scott Penn, Anna Crook, Julian Barton, Sandra Mitchell, and Laura Welsford from SP Health Pty Ltd; Patrick McElduff (PhD) and Daniel Barker for conducting the statistical analyses; and Dr. Megan Jensen (PhD) who assisted with manuscript preparation. This trial was funded by an Australian Research Council Linkage Project grant (2009-2012) (LP0990414, G0189752), with SP Health as the Industry Partner Organization (G0189753). CEC is supported by a National Health and Medical Research Council Australian Career Development Fellowship (#6315005). MN is supported by a postdoctoral fellowship from the Priority Research Centre in Physical Activity and Nutrition, The University of Newcastle.</p></ack><fn-group><fn fn-type="conflict"><p>Conflicts of Interest: CEC has been a nutrition consultant to SP Health Co M Hutchesson (nee Neve) was funded by a Penn Health postdoctoral fellowship. All other authors declare that they have no competing interests.</p></fn></fn-group><app-group><app id="app1"><title>Multimedia Appendix 1</title><p>CONSORT-eHEALTH checklist V1.6.2 [<xref ref-type="bibr" rid="ref15">15</xref>].</p><fig id="d35e6239" position="anchor"><media xlink:href="jmir_v15i7e140_app1.pdf"/></fig></app><app id="app2"><title>Multimedia Appendix 2</title><p>Sample weekly report_5.</p><fig id="d35e6245" position="anchor"><media xlink:href="jmir_v15i7e140_app2.jpg"/></fig></app><app id="app3"><title>Multimedia Appendix 3</title><p>Sample weekly report_5a.</p><fig id="d35e6251" position="anchor"><media xlink:href="jmir_v15i7e140_app3.jpg"/></fig></app></app-group><glossary><title>Abbreviations</title><def-list><def-item><term id="abb1">AES</term><def><p>Australian Eating Survey</p></def></def-item><def-item><term id="abb2">ANOVA</term><def><p>analysis of variance</p></def></def-item><def-item><term id="abb3">ANZCTR</term><def><p>Australian New Zealand Clinical Trials Registry</p></def></def-item><def-item><term id="abb4">BMI</term><def><p>body mass index</p></def></def-item><def-item><term id="abb5">BOCF</term><def><p>baseline observation carried forward</p></def></def-item><def-item><term id="abb6">CONSORT</term><def><p>Consolidated Standards of Reporting Trials</p></def></def-item><def-item><term id="abb7">FFQ</term><def><p>food-frequency questionnaire</p></def></def-item><def-item><term id="abb8">GLMM</term><def><p>generalized linear mixed model</p></def></def-item><def-item><term id="abb9">HDL</term><def><p>high-density lipoprotein</p></def></def-item><def-item><term id="abb10">IPAQ-SF</term><def><p>International Physical Activity Questionnaire-short form</p></def></def-item><def-item><term id="abb11">ITT</term><def><p>intention-to-treat</p></def></def-item><def-item><term id="abb12">LDL</term><def><p>low-density lipoprotein</p></def></def-item><def-item><term id="abb13">LOCF</term><def><p>last observation carried forward</p></def></def-item><def-item><term id="abb14">LSM</term><def><p>least squares mean</p></def></def-item><def-item><term id="abb15">MET</term><def><p>total metabolic equivalent</p></def></def-item><def-item><term id="abb16">RCT</term><def><p>randomized controlled trial</p></def></def-item><def-item><term id="abb17">SMS</term><def><p>short message service</p></def></def-item><def-item><term id="abb18">TFEQ-R18</term><def><p>Three-Factor Eating Questionnaire-R18</p></def></def-item></def-list></glossary><ref-list><ref id="ref1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ogden</surname><given-names>CL</given-names></name><name><surname>Yanovski</surname><given-names>SZ</given-names></name><name><surname>Carroll</surname><given-names>MD</given-names></name><name><surname>Flegal</surname><given-names>KM</given-names></name></person-group><article-title>The epidemiology of obesity</article-title><source>Gastroenterology</source><year>2007</year><month>5</month><volume>132</volume><issue>6</issue><fpage>2087</fpage><lpage>102</lpage><pub-id pub-id-type="doi">10.1053/j.gastro.2007.03.052</pub-id><pub-id pub-id-type="medline">17498505</pub-id><!--<pub-id pub-id-type="pii">S0016-5085(07)00579-3</pub-id>--><pub-id pub-id-type="pmid">17498505</pub-id></element-citation></ref><ref id="ref2"><label>2</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>A</given-names></name></person-group><source>Home broadband</source><year>2010</year><month>8</month><day>11</day><date-in-citation>2013-06-30</date-in-citation><publisher-loc>Washington, DC</publisher-loc><publisher-name>Pew Internet &#x00026; American Life Project</publisher-name><comment><ext-link ext-link-type="uri" xlink:href="http://pewinternet.org/Reports/2010/Home-Broadband-2010.aspx">http://pewinternet.org/Reports/2010/Home-Broadband-2010.aspx</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6HmGW8lmF"/></element-citation></ref><ref id="ref3"><label>3</label><element-citation publication-type="book"><source>Australian Bureau of Statistics</source><year>2010</year><date-in-citation>2013-06-30</date-in-citation><publisher-loc>Canberra, Australia</publisher-loc><publisher-name>ABS</publisher-name><comment>8153.0-Internet Activity, Australia, Jun 2010<ext-link ext-link-type="uri" xlink:href="http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/8153.0Main+Features1Jun%202010?OpenDocument">http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/8153.0Main+Features1Jun%202010?OpenDocument</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6HmGeFS05"/></element-citation></ref><ref id="ref4"><label>4</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Fox</surname><given-names>S</given-names></name><name><surname>Jones</surname><given-names>S</given-names></name></person-group><source>The social life of health information: Americans' pursuit of health takes place within a widening network of both online and offline sources</source><year>2009</year><month>6</month><date-in-citation>2013-06-30</date-in-citation><publisher-loc>Washington, DC</publisher-loc><publisher-name>Pew Internet &#x00026; American Life Project</publisher-name><comment><ext-link ext-link-type="uri" xlink:href="http://www.pewinternet.org/~/media//Files/Reports/2009/PIP_Health_2009.pdf">http://www.pewinternet.org/~/media//Files/Reports/2009/PIP_Health_2009.pdf</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6HmGsMeVS"/></element-citation></ref><ref id="ref5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Neve</surname><given-names>M</given-names></name><name><surname>Morgan</surname><given-names>PJ</given-names></name><name><surname>Jones</surname><given-names>PR</given-names></name><name><surname>Collins</surname><given-names>CE</given-names></name></person-group><article-title>Effectiveness of web-based interventions in achieving weight loss and weight loss maintenance in overweight and obese adults: a systematic review with meta-analysis</article-title><source>Obes Rev</source><year>2010</year><month>4</month><volume>11</volume><issue>4</issue><fpage>306</fpage><lpage>21</lpage><pub-id pub-id-type="doi">10.1111/j.1467-789X.2009.00646.x</pub-id><pub-id pub-id-type="medline">19754633</pub-id><!--<pub-id pub-id-type="pii">OBR646</pub-id>--><pub-id pub-id-type="pmid">19754633</pub-id></element-citation></ref><ref id="ref6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wing</surname><given-names>RR</given-names></name><name><surname>Crane</surname><given-names>MM</given-names></name><name><surname>Thomas</surname><given-names>JG</given-names></name><name><surname>Kumar</surname><given-names>R</given-names></name><name><surname>Weinberg</surname><given-names>B</given-names></name></person-group><article-title>Improving weight loss outcomes of community interventions by incorporating behavioral strategies</article-title><source>Am J Public Health</source><year>2010</year><month>12</month><volume>100</volume><issue>12</issue><fpage>2513</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.2105/AJPH.2009.183616</pub-id><pub-id pub-id-type="medline">20966375</pub-id><!--<pub-id pub-id-type="pii">AJPH.2009.183616</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2978171</pub-id>--><pub-id pub-id-type="pmid">20966375</pub-id></element-citation></ref><ref id="ref7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pullen</surname><given-names>CH</given-names></name><name><surname>Hageman</surname><given-names>PA</given-names></name><name><surname>Boeckner</surname><given-names>L</given-names></name><name><surname>Walker</surname><given-names>SN</given-names></name><name><surname>Oberdorfer</surname><given-names>MK</given-names></name></person-group><article-title>Feasibility of Internet-delivered weight loss interventions among rural women ages 50-69</article-title><source>J Geriatr Phys Ther</source><year>2008</year><volume>31</volume><issue>3</issue><fpage>105</fpage><lpage>12</lpage><pub-id pub-id-type="medline">19856616</pub-id><pub-id pub-id-type="pmid">19856616</pub-id></element-citation></ref><ref id="ref8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rothert</surname><given-names>K</given-names></name><name><surname>Strecher</surname><given-names>VJ</given-names></name><name><surname>Doyle</surname><given-names>LA</given-names></name><name><surname>Caplan</surname><given-names>WM</given-names></name><name><surname>Joyce</surname><given-names>JS</given-names></name><name><surname>Jimison</surname><given-names>HB</given-names></name><name><surname>Karm</surname><given-names>LM</given-names></name><name><surname>Mims</surname><given-names>AD</given-names></name><name><surname>Roth</surname><given-names>MA</given-names></name></person-group><article-title>Web-based weight management programs in an integrated health care setting: a randomized, controlled trial</article-title><source>Obesity (Silver Spring)</source><year>2006</year><month>2</month><volume>14</volume><issue>2</issue><fpage>266</fpage><lpage>72</lpage><pub-id pub-id-type="doi">10.1038/oby.2006.34</pub-id><pub-id pub-id-type="medline">16571852</pub-id><!--<pub-id pub-id-type="pii">14/2/266</pub-id>--><pub-id pub-id-type="pmid">16571852</pub-id></element-citation></ref><ref id="ref9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Krukowski</surname><given-names>RA</given-names></name><name><surname>Harvey-Berino</surname><given-names>J</given-names></name><name><surname>Ashikaga</surname><given-names>T</given-names></name><name><surname>Thomas</surname><given-names>CS</given-names></name><name><surname>Micco</surname><given-names>N</given-names></name></person-group><article-title>Internet-based weight control: the relationship between web features and weight loss</article-title><source>Telemed J E Health</source><year>2008</year><month>10</month><volume>14</volume><issue>8</issue><fpage>775</fpage><lpage>82</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/18954247"/></comment><pub-id pub-id-type="doi">10.1089/tmj.2007.0132</pub-id><pub-id pub-id-type="medline">18954247</pub-id><!--<pub-id pub-id-type="pmcid">PMC2998280</pub-id>--><pub-id pub-id-type="pmid">18954247</pub-id></element-citation></ref><ref id="ref10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Webber</surname><given-names>KH</given-names></name><name><surname>Tate</surname><given-names>DF</given-names></name><name><surname>Michael Bowling</surname><given-names>J</given-names></name></person-group><article-title>A randomized comparison of two motivationally enhanced Internet behavioral weight loss programs</article-title><source>Behav Res Ther</source><year>2008</year><month>9</month><volume>46</volume><issue>9</issue><fpage>1090</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.1016/j.brat.2008.06.008</pub-id><pub-id pub-id-type="medline">18675402</pub-id><!--<pub-id pub-id-type="pii">S0005-7967(08)00118-6</pub-id>--><pub-id pub-id-type="pmid">18675402</pub-id></element-citation></ref><ref id="ref11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tsai</surname><given-names>AG</given-names></name><name><surname>Wadden</surname><given-names>TA</given-names></name></person-group><article-title>Systematic review: an evaluation of major commercial weight loss programs in the United States</article-title><source>Ann Intern Med</source><year>2005</year><month>1</month><day>4</day><volume>142</volume><issue>1</issue><fpage>56</fpage><lpage>66</lpage><pub-id pub-id-type="medline">15630109</pub-id><!--<pub-id pub-id-type="pii">142/1/56</pub-id>--><pub-id pub-id-type="pmid">15630109</pub-id></element-citation></ref><ref id="ref12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Collins</surname><given-names>CE</given-names></name><name><surname>Morgan</surname><given-names>PJ</given-names></name><name><surname>Jones</surname><given-names>P</given-names></name><name><surname>Fletcher</surname><given-names>K</given-names></name><name><surname>Martin</surname><given-names>J</given-names></name><name><surname>Aguiar</surname><given-names>EJ</given-names></name><name><surname>Lucas</surname><given-names>A</given-names></name><name><surname>Neve</surname><given-names>M</given-names></name><name><surname>McElduff</surname><given-names>P</given-names></name><name><surname>Callister</surname><given-names>R</given-names></name></person-group><article-title>Evaluation of a commercial web-based weight loss and weight loss maintenance program in overweight and obese adults: a randomized controlled trial</article-title><source>BMC Public Health</source><year>2010</year><volume>10</volume><fpage>669</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2458/10/669"/></comment><pub-id pub-id-type="doi">10.1186/1471-2458-10-669</pub-id><pub-id pub-id-type="medline">21047432</pub-id><!--<pub-id pub-id-type="pii">1471-2458-10-669</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2989963</pub-id>--><pub-id pub-id-type="pmid">21047432</pub-id></element-citation></ref><ref id="ref13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Collins</surname><given-names>CE</given-names></name><name><surname>Morgan</surname><given-names>PJ</given-names></name><name><surname>Jones</surname><given-names>P</given-names></name><name><surname>Fletcher</surname><given-names>K</given-names></name><name><surname>Martin</surname><given-names>J</given-names></name><name><surname>Aguiar</surname><given-names>EJ</given-names></name><name><surname>Lucas</surname><given-names>A</given-names></name><name><surname>Neve</surname><given-names>MJ</given-names></name><name><surname>Callister</surname><given-names>R</given-names></name></person-group><article-title>A 12-week commercial web-based weight-loss program for overweight and obese adults: randomized controlled trial comparing basic versus enhanced features</article-title><source>J Med Internet Res</source><year>2012</year><volume>14</volume><issue>2</issue><fpage>e57</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2012/2/e57/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.1980</pub-id><pub-id pub-id-type="medline">22555246</pub-id><!--<pub-id pub-id-type="pii">v14i2e57</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3376507</pub-id>--><pub-id pub-id-type="pmid">22555246</pub-id></element-citation></ref><ref id="ref14"><label>14</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Norton</surname><given-names>K</given-names></name></person-group><source>Sports Medicine Australia</source><year>2005</year><date-in-citation>2013-06-30</date-in-citation><publisher-loc>Canberra, Australia</publisher-loc><publisher-name>Australian Department of Health and Ageing</publisher-name><comment>Sports Medicine Australia pre-exercise screening system<ext-link ext-link-type="uri" xlink:href="http://sma.org.au/wp-content/uploads/2009/05/new_pre_screening.pdf">http://sma.org.au/wp-content/uploads/2009/05/new_pre_screening.pdf</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6HmH79t2Q"/></element-citation></ref><ref id="ref15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eysenbach</surname><given-names>G</given-names></name><collab>CONSORT-EHEALTH Group</collab></person-group><article-title>CONSORT-EHEALTH: improving and standardizing evaluation reports of Web-based and mobile health interventions</article-title><source>J Med Internet Res</source><year>2011</year><volume>13</volume><issue>4</issue><fpage>e126</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2011/4/e126/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.1923</pub-id><pub-id pub-id-type="medline">22209829</pub-id><!--<pub-id pub-id-type="pii">v13i4e126</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3278112</pub-id>--><pub-id pub-id-type="pmid">22209829</pub-id></element-citation></ref><ref id="ref16"><label>16</label><element-citation publication-type="book"><person-group person-group-type="author"><collab>National Health and Medical Research Council</collab></person-group><source>Nutrient Reference Values for Australia and New Zealand including Recommended Dietary Intakes</source><year>2006</year><publisher-loc>Canberra, Australia</publisher-loc><publisher-name>Department of Health and Ageing</publisher-name></element-citation></ref><ref id="ref17"><label>17</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bandura</surname><given-names>A</given-names></name></person-group><source>Social Foundations of Thought and Action: A Social Cognitive Theory</source><year>1986</year><publisher-loc>Englewood Cliffs, NJ</publisher-loc><publisher-name>Prentice-Hall</publisher-name></element-citation></ref><ref id="ref18"><label>18</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Watson</surname><given-names>J</given-names></name><name><surname>Collins</surname><given-names>C</given-names></name><name><surname>Guest</surname><given-names>M</given-names></name><name><surname>Pezdirc</surname><given-names>K</given-names></name><name><surname>Burrows</surname><given-names>T</given-names></name><name><surname>Huxley</surname><given-names>S</given-names></name></person-group><article-title>PP240: Evaluation of an adult food frequency questionnaire and its associated diet quality score</article-title><source>The University of Newcastle</source><year>2012</year><conf-name>International Conference on Diet Activity and Methods</conf-name><conf-date>May 14-17, 2012</conf-date><conf-loc>Rome, Italy</conf-loc><publisher-name>FAO</publisher-name><fpage>198</fpage></element-citation></ref><ref id="ref19"><label>19</label><element-citation publication-type="book"><person-group person-group-type="author"><collab>Australia New Zealand Food Authority</collab></person-group><source>AUSNUT: Australian Food and Nutrient database 1999 for estimation of dietary intake</source><year>1999</year><publisher-loc>Canberra, Australia</publisher-loc><publisher-name>Australian Government Publishing Service</publisher-name></element-citation></ref><ref id="ref20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Karlsson</surname><given-names>J</given-names></name><name><surname>Persson</surname><given-names>LO</given-names></name><name><surname>Sj&#x000f6;str&#x000f6;m</surname><given-names>L</given-names></name><name><surname>Sullivan</surname><given-names>M</given-names></name></person-group><article-title>Psychometric properties and factor structure of the Three-Factor Eating Questionnaire (TFEQ) in obese men and women. Results from the Swedish Obese Subjects (SOS) study</article-title><source>Int J Obes Relat Metab Disord</source><year>2000</year><month>12</month><volume>24</volume><issue>12</issue><fpage>1715</fpage><lpage>25</lpage><pub-id pub-id-type="medline">11126230</pub-id><pub-id pub-id-type="pmid">11126230</pub-id></element-citation></ref><ref id="ref21"><label>21</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Ware</surname><given-names>J</given-names></name><name><surname>Kosinski</surname><given-names>M</given-names></name><name><surname>Dewey</surname><given-names>J</given-names></name></person-group><source>How to Score Version 2 of the SF-36 Health Survey</source><year>2001</year><publisher-loc>Lincoln, RI</publisher-loc><publisher-name>Quality Metric Incorporated</publisher-name></element-citation></ref><ref id="ref22"><label>22</label><element-citation publication-type="book"><source>Guidelines for data processing and analysis of the International Physical Activity Questionnaire (IPAQ)- Short and long forms</source><year>2005</year><date-in-citation>2013-07-01</date-in-citation><publisher-name>IPAQ</publisher-name><comment><ext-link ext-link-type="uri" xlink:href="http://www.ipaq.ki.se/scoring.pdf">http://www.ipaq.ki.se/scoring.pdf</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6HmK3JqUA"/></element-citation></ref><ref id="ref23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Christian</surname><given-names>JG</given-names></name><name><surname>Tsai</surname><given-names>AG</given-names></name><name><surname>Bessesen</surname><given-names>DH</given-names></name></person-group><article-title>Interpreting weight losses from lifestyle modification trials: using categorical data</article-title><source>Int J Obes (Lond)</source><year>2010</year><month>1</month><volume>34</volume><issue>1</issue><fpage>207</fpage><lpage>9</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/19823184"/></comment><pub-id pub-id-type="doi">10.1038/ijo.2009.213</pub-id><pub-id pub-id-type="medline">19823184</pub-id><!--<pub-id pub-id-type="pii">ijo2009213</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2897147</pub-id>--><pub-id pub-id-type="pmid">19823184</pub-id></element-citation></ref><ref id="ref24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gold</surname><given-names>BC</given-names></name><name><surname>Burke</surname><given-names>S</given-names></name><name><surname>Pintauro</surname><given-names>S</given-names></name><name><surname>Buzzell</surname><given-names>P</given-names></name><name><surname>Harvey-Berino</surname><given-names>J</given-names></name></person-group><article-title>Weight loss on the web: A pilot study comparing a structured behavioral intervention to a commercial program</article-title><source>Obesity (Silver Spring)</source><year>2007</year><month>1</month><volume>15</volume><issue>1</issue><fpage>155</fpage><lpage>64</lpage><pub-id pub-id-type="doi">10.1038/oby.2007.520</pub-id><pub-id pub-id-type="medline">17228043</pub-id><!--<pub-id pub-id-type="pii">15/1/155</pub-id>--><pub-id pub-id-type="pmid">17228043</pub-id></element-citation></ref><ref id="ref25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harvey-Berino</surname><given-names>J</given-names></name><name><surname>Pintauro</surname><given-names>S</given-names></name><name><surname>Buzzell</surname><given-names>P</given-names></name><name><surname>Gold</surname><given-names>EC</given-names></name></person-group><article-title>Effect of internet support on the long-term maintenance of weight loss</article-title><source>Obes Res</source><year>2004</year><month>2</month><volume>12</volume><issue>2</issue><fpage>320</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1038/oby.2004.40</pub-id><pub-id pub-id-type="medline">14981225</pub-id><pub-id pub-id-type="pmid">14981225</pub-id></element-citation></ref><ref id="ref26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Polzien</surname><given-names>KM</given-names></name><name><surname>Jakicic</surname><given-names>JM</given-names></name><name><surname>Tate</surname><given-names>DF</given-names></name><name><surname>Otto</surname><given-names>AD</given-names></name></person-group><article-title>The efficacy of a technology-based system in a short-term behavioral weight loss intervention</article-title><source>Obesity (Silver Spring)</source><year>2007</year><month>4</month><volume>15</volume><issue>4</issue><fpage>825</fpage><lpage>30</lpage><pub-id pub-id-type="doi">10.1038/oby.2007.584</pub-id><pub-id pub-id-type="medline">17426316</pub-id><!--<pub-id pub-id-type="pii">15/4/825</pub-id>--><pub-id pub-id-type="pmid">17426316</pub-id></element-citation></ref><ref id="ref27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tate</surname><given-names>DF</given-names></name><name><surname>Jackvony</surname><given-names>EH</given-names></name><name><surname>Wing</surname><given-names>RR</given-names></name></person-group><article-title>A randomized trial comparing human e-mail counseling, computer-automated tailored counseling, and no counseling in an Internet weight loss program</article-title><source>Arch Intern Med</source><year>2006</year><volume>166</volume><issue>15</issue><fpage>1620</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.1001/archinte.166.15.1620</pub-id><pub-id pub-id-type="medline">16908795</pub-id><!--<pub-id pub-id-type="pii">166/15/1620</pub-id>--><pub-id pub-id-type="pmid">16908795</pub-id></element-citation></ref><ref id="ref28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tate</surname><given-names>DF</given-names></name><name><surname>Wing</surname><given-names>RR</given-names></name><name><surname>Winett</surname><given-names>RA</given-names></name></person-group><article-title>Using Internet technology to deliver a behavioral weight loss program</article-title><source>JAMA</source><year>2001</year><month>3</month><day>7</day><volume>285</volume><issue>9</issue><fpage>1172</fpage><lpage>7</lpage><pub-id pub-id-type="medline">11231746</pub-id><!--<pub-id pub-id-type="pii">joc01569</pub-id>--><pub-id pub-id-type="pmid">11231746</pub-id></element-citation></ref><ref id="ref29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khaylis</surname><given-names>A</given-names></name><name><surname>Yiaslas</surname><given-names>T</given-names></name><name><surname>Bergstrom</surname><given-names>J</given-names></name><name><surname>Gore-Felton</surname><given-names>C</given-names></name></person-group><article-title>A review of efficacious technology-based weight-loss interventions: five key components</article-title><source>Telemed J E Health</source><year>2010</year><month>11</month><volume>16</volume><issue>9</issue><fpage>931</fpage><lpage>8</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/21091286"/></comment><pub-id pub-id-type="doi">10.1089/tmj.2010.0065</pub-id><pub-id pub-id-type="medline">21091286</pub-id><!--<pub-id pub-id-type="pmcid">PMC3000900</pub-id>--><pub-id pub-id-type="pmid">21091286</pub-id></element-citation></ref><ref id="ref30"><label>30</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Lehto</surname><given-names>T</given-names></name><name><surname>Oinas-Kukkonen</surname><given-names>H</given-names></name></person-group><article-title>Persuasive Features in Six Weight Loss Websites: A Qualitative Evaluation</article-title><year>2010</year><conf-name>Persuasive Technology, 5th International Conference, PERSUASIVE</conf-name><conf-date>June 7-10, 2010</conf-date><conf-loc>Copenhagen, Denmark</conf-loc><publisher-loc>Berlin/Heidelberg</publisher-loc><publisher-name>Springer</publisher-name><fpage>162</fpage><lpage>73</lpage></element-citation></ref><ref id="ref31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Neve</surname><given-names>MJ</given-names></name><name><surname>Morgan</surname><given-names>PJ</given-names></name><name><surname>Collins</surname><given-names>CE</given-names></name></person-group><article-title>Behavioural factors related with successful weight loss 15 months post-enrolment in a commercial web-based weight-loss programme</article-title><source>Public Health Nutr</source><year>2012</year><month>7</month><volume>15</volume><issue>7</issue><fpage>1299</fpage><lpage>309</lpage><pub-id pub-id-type="doi">10.1017/S1368980011003090</pub-id><pub-id pub-id-type="medline">22122973</pub-id><!--<pub-id pub-id-type="pii">S1368980011003090</pub-id>--><pub-id pub-id-type="pmid">22122973</pub-id></element-citation></ref><ref id="ref32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Neve</surname><given-names>M</given-names></name><name><surname>Morgan</surname><given-names>PJ</given-names></name><name><surname>Collins</surname><given-names>CE</given-names></name></person-group><article-title>Weight change in a commercial web-based weight loss program and its association with website use: cohort study</article-title><source>J Med Internet Res</source><year>2011</year><volume>13</volume><issue>4</issue><fpage>e83</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2011/4/e83/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.1756</pub-id><pub-id pub-id-type="medline">21993231</pub-id><!--<pub-id pub-id-type="pii">v13i4e83</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3222206</pub-id>--><pub-id pub-id-type="pmid">21993231</pub-id></element-citation></ref></ref-list></back></article>

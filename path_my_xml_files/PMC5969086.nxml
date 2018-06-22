@@ -1,0 +1,461 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Histopathology</journal-id><journal-id journal-id-type="iso-abbrev">Histopathology</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2559</journal-id><journal-id journal-id-type="publisher-id">HIS</journal-id><journal-title-group><journal-title>Histopathology</journal-title></journal-title-group><issn pub-type="ppub">0309-0167</issn><issn pub-type="epub">1365-2559</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29465751</article-id><article-id pub-id-type="pmc">5969086</article-id><article-id pub-id-type="doi">10.1111/his.13491</article-id><article-id pub-id-type="publisher-id">HIS13491</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Prognostic value of pathological lymph node status and primary tumour regression grading following neoadjuvant chemotherapy &#x02013; results from the <styled-content style="fixed-case">MRC OE</styled-content>02 oesophageal cancer trial</article-title><alt-title alt-title-type="left-running-head">N Davarzani et al.</alt-title></title-group><contrib-group><contrib id="his13491-cr-0001" contrib-type="author"><name><surname>Davarzani</surname><given-names>Nasser</given-names></name><xref ref-type="aff" rid="his13491-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="his13491-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="his13491-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="his13491-cr-0002" contrib-type="author"><name><surname>Hutchins</surname><given-names>Gordon G A</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1707-4415</contrib-id><xref ref-type="aff" rid="his13491-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="author-notes" rid="his13491-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="his13491-cr-0003" contrib-type="author"><name><surname>West</surname><given-names>Nicholas P</given-names></name><xref ref-type="aff" rid="his13491-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="his13491-cr-0004" contrib-type="author"><name><surname>Hewitt</surname><given-names>Lindsay C</given-names></name><xref ref-type="aff" rid="his13491-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="his13491-cr-0005" contrib-type="author"><name><surname>Nankivell</surname><given-names>Matthew</given-names></name><xref ref-type="aff" rid="his13491-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="his13491-cr-0006" contrib-type="author"><name><surname>Cunningham</surname><given-names>David</given-names></name><xref ref-type="aff" rid="his13491-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="his13491-cr-0007" contrib-type="author"><name><surname>Allum</surname><given-names>William H</given-names></name><xref ref-type="aff" rid="his13491-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="his13491-cr-0008" contrib-type="author"><name><surname>Smyth</surname><given-names>Elizabeth</given-names></name><xref ref-type="aff" rid="his13491-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="his13491-cr-0009" contrib-type="author"><name><surname>Valeri</surname><given-names>Nicola</given-names></name><xref ref-type="aff" rid="his13491-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="his13491-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="his13491-cr-0010" contrib-type="author"><name><surname>Langley</surname><given-names>Ruth E</given-names></name><xref ref-type="aff" rid="his13491-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="his13491-cr-0011" contrib-type="author" corresp="yes"><name><surname>Grabsch</surname><given-names>Heike I</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9520-6228</contrib-id><address><email>h.grabsch@maastrichtuniversity.nl</email></address><xref ref-type="aff" rid="his13491-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="his13491-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="his13491-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">GROW School for Oncology and Developmental Biology</named-content>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>Maastricht University Medical Centre</institution>
+<named-content content-type="city">Maastricht</named-content>
+<country country="NL">the Netherlands</country>
+</aff><aff id="his13491-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Data Science and Knowledge Engineering</named-content>
+<institution>Maastricht University</institution>
+<named-content content-type="city">Maastricht</named-content>
+<country country="NL">the Netherlands</country>
+</aff><aff id="his13491-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Section of Pathology and Tumour Biology</named-content>
+<named-content content-type="organisation-division">Leeds Institute of Cancer and Pathology</named-content>
+<institution>University of Leeds</institution>
+<named-content content-type="city">Leeds</named-content>
+<country country="GB">UK</country>
+</aff><aff id="his13491-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">MRC Clinical Trials Unit</named-content>
+<institution>University College London</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">UK</country>
+</aff><aff id="his13491-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Gastrointestinal and Lymphoma Unit</named-content>
+<institution>Royal Marsden Hospital</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">UK</country>
+</aff><aff id="his13491-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<institution>Royal Marsden Hospital</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">UK</country>
+</aff><aff id="his13491-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Molecular Pathology</named-content>
+<institution>The Institute of Cancer Research</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Address for correspondence: H I Grabsch, GROW School for Oncology and Developmental Biology, Department of Pathology, Maastricht University Medical Centre, P. Debyelaan 25, 6229 HX Maastricht, the Netherlands. e&#x02010;mail: <email>h.grabsch@maastrichtuniversity.nl</email></corresp><fn fn-type="equal" id="his13491-note-0001"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>25</day><month>3</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2018</year></pub-date><volume>72</volume><issue>7</issue><issue-id pub-id-type="doi">10.1111/his.2018.72.issue-7</issue-id><fpage>1180</fpage><lpage>1188</lpage><history><date date-type="received"><day>01</day><month>9</month><year>2017</year></date><date date-type="accepted"><day>14</day><month>2</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Histopathology</italic> published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:HIS-72-1180.pdf"/><abstract id="his13491-abs-0001"><sec id="his13491-sec-0001"><title>Aims</title><p>Neoadjuvant chemotherapy (<styled-content style="fixed-case">NAC</styled-content>) remains an important therapeutic option for advanced oesophageal cancer (<styled-content style="fixed-case">OC</styled-content>). Pathological tumour regression grade (<styled-content style="fixed-case">TRG</styled-content>) may offer additional information by directing adjuvant treatment and/or follow&#x02010;up but its clinical value remains unclear. We analysed the prognostic value of <styled-content style="fixed-case">TRG</styled-content> and associated pathological factors in <styled-content style="fixed-case">OC</styled-content> patients enrolled in the Medical Research Council (MRC) <styled-content style="fixed-case">OE</styled-content>02 trial.</p></sec><sec id="his13491-sec-0002"><title>Methods and results</title><p>Histopathology was reviewed in 497 resections from <styled-content style="fixed-case">OE</styled-content>02 trial participants randomised to surgery (S group; <italic>n</italic> = 244) or <styled-content style="fixed-case">NAC</styled-content> followed by surgery [chemotherapy plus surgery (<styled-content style="fixed-case">CS</styled-content>) group; <italic>n</italic> = 253]. The association between <styled-content style="fixed-case">TRG</styled-content> groups [responders (<styled-content style="fixed-case">TRG</styled-content>1&#x02013;3) versus non&#x02010;responders (<styled-content style="fixed-case">TRG</styled-content>4&#x02013;5)], pathological lymph node (<styled-content style="fixed-case">LN</styled-content>) status and overall survival (<styled-content style="fixed-case">OS</styled-content>) was analysed. One hundred and ninety&#x02010;five of 253 (77%) <styled-content style="fixed-case">CS</styled-content> patients were classified as &#x02018;non&#x02010;responders&#x02019;, with a significantly higher mortality risk compared to responders [hazard ratio (<styled-content style="fixed-case">HR</styled-content>) = 1.53, 95% confidence interval (<styled-content style="fixed-case">CI</styled-content>) = 1.05&#x02013;2.24, <italic>P</italic> = 0.026]. <styled-content style="fixed-case">OS</styled-content> was significantly better in patients without <styled-content style="fixed-case">LN</styled-content> metastases irrespective of <styled-content style="fixed-case">TRG</styled-content> [non&#x02010;responders <styled-content style="fixed-case">HR</styled-content> = 1.87, 95% <styled-content style="fixed-case">CI</styled-content> = 1.33&#x02013;2.63, <italic>P</italic> &#x0003c; 0.001 versus responders <styled-content style="fixed-case">HR</styled-content> = 2.21, 95% <styled-content style="fixed-case">CI</styled-content> = 1.11&#x02013;4.10, <italic>P</italic> = 0.024]. In multivariate analyses, <styled-content style="fixed-case">LN</styled-content> status was the only independent factor predictive of <styled-content style="fixed-case">OS</styled-content> in <styled-content style="fixed-case">CS</styled-content> patients (<styled-content style="fixed-case">HR</styled-content> = 1.93, 95% <styled-content style="fixed-case">CI</styled-content> = 1.42&#x02013;2.62, <italic>P</italic> &#x0003c; 0.001). Exploratory subgroup analyses excluding radiotherapy&#x02010;exposed patients (<italic>n</italic> = 48) showed similar prognostic outcomes.</p></sec><sec id="his13491-sec-0003"><title>Conclusion</title><p>Lymph node status post&#x02010;<styled-content style="fixed-case">NAC</styled-content> is the most important prognostic factor in patients with resectable oesophageal cancer, irrespective of <styled-content style="fixed-case">TRG</styled-content>. Potential clinical implications, e.g. adjuvant treatment or intensified follow&#x02010;up, reinforce the importance of <styled-content style="fixed-case">LN</styled-content> dissection for staging and prognostication.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="his13491-kwd-0001">oesophageal carcinoma</kwd><kwd id="his13491-kwd-0002">neoadjuvant chemotherapy</kwd><kwd id="his13491-kwd-0003">tumour regression grade</kwd></kwd-group><funding-group><award-group><funding-source>Cancer Research UK</funding-source><award-id>C26441/A8944</award-id></award-group><award-group><funding-source>National Institute of Health Research UK</funding-source></award-group><award-group><funding-source>The Pathological Society of Great Britain and Ireland</funding-source></award-group><award-group><funding-source>Academy of Medical Sciences</funding-source></award-group><award-group><funding-source>Yorkshire Cancer Research</funding-source></award-group><award-group><funding-source>NIHR RM/ICR BRC (National Institute for Health Research Royal Marsden/Institute of Cancer Research Biomedical Research Centre)</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="9"/><word-count count="5289"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>his13491</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.8.2 mode:remove_FC converted:25.05.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="his13491-cit-1001">
+<string-name>
+<surname>Davarzani</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hutchins</surname>
+<given-names>G G A</given-names>
+</string-name>, <string-name>
+<surname>West</surname>
+<given-names>N P</given-names>
+</string-name>, <string-name>
+<surname>Hewitt</surname>
+<given-names>L C</given-names>
+</string-name>, <string-name>
+<surname>Nankivell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cunningham</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Allum</surname>
+<given-names>W H</given-names>
+</string-name>, <string-name>
+<surname>Smyth</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Valeri</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Langley</surname>
+<given-names>R E</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Grabsch</surname>
+<given-names>H I</given-names>
+</string-name> (<year>2018</year>) <source xml:lang="en">Histopathology</source>
+<volume>72</volume>, <fpage>1180</fpage>&#x02013;<lpage>1188</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/his.13491">https://doi.org/10.1111/his.13491</ext-link>
+<article-title>Prognostic value of pathological lymph node status and primary tumour regression grading following neoadjuvant chemotherapy &#x02013; results from the MRC OE02 oesophageal cancer trial</article-title>
+<pub-id pub-id-type="pmid">29465751</pub-id></mixed-citation>
+</p></notes></front><body><sec id="his13491-sec-0004"><title>Introduction</title><p>Multimodal therapy is the standard of care for many gastrointestinal malignancies.<xref rid="his13491-bib-0001" ref-type="ref">1</xref> For patients with oesophageal carcinoma (OC), surgery preceded by neoadjuvant chemotherapy (NAC) or chemoradiotherapy (NACR) has proven clinical benefit, as reported in the OE02 [Medical Research Council (MRC) oesophageal working group] and CROSS (chemoradiotherapy plus surgery versus surgery alone for oesophageal or junctional cancer) trials, respectively.<xref rid="his13491-bib-0002" ref-type="ref">2</xref>, <xref rid="his13491-bib-0003" ref-type="ref">3</xref> While geographical variation persists in the modality of choice<xref rid="his13491-bib-0004" ref-type="ref">4</xref>, <xref rid="his13491-bib-0005" ref-type="ref">5</xref> and modest differential modality benefits are reported,<xref rid="his13491-bib-0006" ref-type="ref">6</xref> NAC/NACR results in tumour down&#x02010;staging, increased rate of complete surgical resection and delayed recurrent and metastatic disease.<xref rid="his13491-bib-0007" ref-type="ref">7</xref> To date, no randomised controlled trial (RCT) has directly compared neoadjuvant chemotherapy and neoadjuvant chemoradiation. Until the results of the Neo&#x02010;AEGIS (NEOadjuvant Trial in Adenocarcinoma of the oEsophagus and oesophagoGastric Junction International Study)<xref rid="his13491-bib-0004" ref-type="ref">4</xref> trial are published, NAC remains the principal modality choice in the United Kingdom. Irrespective of neoadjuvant treatment type, the prognosis of OC patients remains poor, with a 5&#x02010;year survival of approximately 15%.<xref rid="his13491-bib-0008" ref-type="ref">8</xref>, <xref rid="his13491-bib-0009" ref-type="ref">9</xref> Consequently, it has been suggested that adjuvant chemotherapy or targeted therapies may be beneficial to OC patients with high&#x02010;risk disease.<xref rid="his13491-bib-0008" ref-type="ref">8</xref>, <xref rid="his13491-bib-0010" ref-type="ref">10</xref>
+</p><p>As described by Mandard <italic>et al</italic>.<xref rid="his13491-bib-0011" ref-type="ref">11</xref> and others,<xref rid="his13491-bib-0012" ref-type="ref">12</xref> high&#x02010;risk patients may be identified by pathological assessment of primary tumour response [tumour regression grade (TRG)]. A prognostic value of TRG has been reported in some but not all OC studies.<xref rid="his13491-bib-0013" ref-type="ref">13</xref>, <xref rid="his13491-bib-0014" ref-type="ref">14</xref> Additionally, some authors report that primary TRG is not prognostic in isolation, but only when combined with lymph node (LN) status.<xref rid="his13491-bib-0015" ref-type="ref">15</xref>, <xref rid="his13491-bib-0016" ref-type="ref">16</xref>, <xref rid="his13491-bib-0017" ref-type="ref">17</xref>
+</p><p>Problematically, most previously reported OC studies relating to TRG suffer from methodological issues, including small patient numbers, combined data sets utilising different disease stages, use of different treatment regimens, use of different TRG systems and application of different cut&#x02010;offs to classify &#x02018;responders&#x02019; versus &#x02018;non&#x02010;responders&#x02019;. Most importantly, previous studies have not utilised a control arm (e.g. a population of patients with the same basic characteristics treated by surgery alone) to estimate potential confounding. Thus, it is currently unclear whether pathological primary tumour TRG and/or other disease characteristics assessed in the post&#x02010;NAC resection specimen can successfully identify high&#x02010;risk OC patients,<xref rid="his13491-bib-0018" ref-type="ref">18</xref> the cohort of patients which may benefit from close follow&#x02010;up or further adjuvant treatment.</p><p>Our own study assessing TRG in patients enrolled into the Medical Research Council (MRC) Adjuvant Gastric Infusional Chemotherapy (MAGIC) trial demonstrated that LN status is the only independent predictor of survival after NAC in resectable gastro&#x02010;oesophageal cancer.<xref rid="his13491-bib-0007" ref-type="ref">7</xref> The majority of these patients, however, had gastric cancers; only 38 had cancers located at the gastro&#x02010;oesophageal junction or lower oesophagus. Thus, subgroup analyses relating to OC in the MAGIC trial were methodologically unfeasible.</p><p>Given such challenges, we investigated the prognostic value of Mandard TRG, LN status and other clinicopathological variables in OC patients treated by either cisplatin combined with 5&#x02010;fluorouracil (5&#x02010;FU) followed by surgery [experimental arm, chemotherapy plus surgery (CS) patients] or surgery alone (control arm, S patients) in the Phase III UK MRC OE02 randomised controlled trial of oesophageal cancer.<xref rid="his13491-bib-0002" ref-type="ref">2</xref>
+</p></sec><sec id="his13491-sec-0005"><title>Materials and methods</title><sec id="his13491-sec-0006"><title>Ethics</title><p>The study was approved by the South East Research Ethics Committee, London, UK, REC reference: 07/H1102/111.</p></sec><sec id="his13491-sec-0007"><title>Patients</title><p>A total of 802 patients with histologically or cytologically confirmed, locally advanced resectable cancer of the oesophagus were included in the MRC OE02 trial.<xref rid="his13491-bib-0019" ref-type="ref">19</xref> Patients were randomised to treatment by surgery alone (S patients) or surgery preceded by pre&#x02010;operative combination chemotherapy consisting of two cycles of 5&#x02010;FU and cisplatin (CS patients).<xref rid="his13491-bib-0019" ref-type="ref">19</xref> In total, 360 CS patients and 394 S patients proceeded to surgical resection; 32 CS patients and 16 S patients did not proceed to surgery for a variety of reported reasons.<xref rid="his13491-bib-0019" ref-type="ref">19</xref> A small subset of patients from a single centre was exposed to preoperative radiotherapy (CS patients <italic>n</italic> = 26, S patients <italic>n</italic> = 22), according to local practice.</p><p>Original haematoxylin and eosin (H&#x00026;E)&#x02010;stained sections and/or blocks of the formalin&#x02010;fixed paraffin&#x02010;embedded resected specimens were collected retrospectively from 497 patients (253 CS patients and 244 S patients), equivalent to 66% of all OE02 trial patients who proceeded to surgery (Figure <xref rid="his13491-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="his13491-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study profile, Consolidated Standards of Reporting Trials (<styled-content style="fixed-case">CONSORT</styled-content>).</p></caption><graphic id="nlm-graphic-1" xlink:href="HIS-72-1180-g001"/></fig></sec><sec id="his13491-sec-0008"><title>Study design</title><p>All H&#x00026;E&#x02010;stained sections were scanned at &#x000d7;40 magnification using an Aperio XT Scanner (Aperio Technologies, Vista, CA, USA) and reviewed centrally using Aperio ImageScope digital slide viewing software (version 11.2.0.780). As no central pathology review was performed at the time of trial accrual, and TRG assessment was not included in the original pathology reporting form, histopathological assessment of the resected specimens (including primary TRG as described by Mandard <italic>et al</italic>.<xref rid="his13491-bib-0011" ref-type="ref">11</xref>) was performed centrally, with assessors blinded to treatment arm allocation.</p><p>Primary tumours from S and CS patients were assigned to the TRG/TRG&#x02010;like categories as follows: TRG1 (no evidence of residual tumour), TRG2 (fibrosis with occasional tumour cells), TRG3 (fibrosis and tumour cells with a predominance of fibrosis), TRG4 (fibrosis and tumour cells with a predominance of tumour cells) and TRG5 (tumour with no evidence of regression). For representative images of histological features for different TRG categories see Figure S1.</p><p>Overall survival (OS) analyses were performed in CS patients using TRG and LN status (ypN) as individual variables. As initial analyses demonstrated that patients classified as TRG4 or TRG5 had at a significantly higher mortality risk when compared to those assigned to TRG1, TRG2 or TRG3 (see <xref rid="his13491-sec-0011" ref-type="sec">Results</xref>; Figure <xref rid="his13491-fig-0002" ref-type="fig">2</xref>), patients with TRG1, TRG2 or TRG3 (TRG1&#x02013;3) were classified as &#x02018;responders&#x02019; and compared to patients with TRG4 or TRG5 (TRG4&#x02013;5, &#x02018;non&#x02010;responders&#x02019;) in subsequent analyses. Furthermore, OS of patients with TRG4&#x02013;5 without LN metastasis (non&#x02010;responders, LN&#x02010;negative) was compared to OS of patients with TRG4&#x02013;5 and LN metastasis (non&#x02010;responders, LN&#x02010;positive). Similarly, OS of patients with TRG1&#x02013;3 without LN metastasis (responders, LN&#x02010;negative) was compared to patients with TRG1&#x02013;3 and LN metastasis (responders, LN&#x02010;positive).</p><fig fig-type="Figure" xml:lang="en" id="his13491-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Overall survival stratified by tumour regression grade (<styled-content style="fixed-case">TRG</styled-content>) in patients treated by neoadjuvant therapy or surgery alone. Survival of patients with TRG1, 2 or 3 tumours was similar, and markedly different from patients with TRG4 or 5 tumours. Survival of patients treated with surgery alone was similar to that of patients treated with chemotherapy plus surgery with TRG4 or 5 tumours.</p></caption><graphic id="nlm-graphic-3" xlink:href="HIS-72-1180-g002"/></fig></sec><sec id="his13491-sec-0009"><title>Clinicopathological data</title><p>The central pathology review defined histological tumour type, grade of differentiation, TRG,<xref rid="his13491-bib-0011" ref-type="ref">11</xref> depth of invasion (T category) and LN status (N category), according to the International Union Against Cancer (UICC) tumour&#x02013;node&#x02013;metastasis (TNM) classification, 6th edition.<xref rid="his13491-bib-0020" ref-type="ref">20</xref> Histopathological data that were not assessable on review of the slides, such as tumour size, tumour location, number of LNs or resection margin status, were extracted from the original pathology report. Clinical outcome data were extracted from the MRC OE02 clinical trial database.</p></sec><sec id="his13491-sec-0010"><title>Statistical methods</title><p>Baseline characteristics of CS and S patients were compared using &#x003c7;<sup>2</sup> and Fisher's exact tests. OS time was calculated from the date of surgery to the date of death within the 5&#x02010;year follow&#x02010;up period. The surgery dates were not available for two CS patients, and the survival time was calculated from a date 9 weeks after randomisation.</p><p>Overall survival was compared using the Kaplan&#x02013;Meier method and log&#x02010;rank test. Patients were stratified by individual TRG category, TRG groupings (responders versus non&#x02010;responders) and combining TRG groups with LN status (see above). In order to investigate the relationship between TRG, LN status and OS, a multivariate survival analysis was performed using a Cox proportional hazards model. A <italic>P</italic>&#x02010;value of &#x0003c;0.05 was considered significant.</p></sec></sec><sec id="his13491-sec-0011"><title>Results</title><p>Slides from 497 resection specimens (66% of OE02 trial patients undergoing surgery) were available for central pathology review (Figure <xref rid="his13491-fig-0001" ref-type="fig">1</xref>). There were significant differences in tumour depth of invasion, LN status and tumour regression grade/tumour regression&#x02010;like changes between CS patients and S patients (Table <xref rid="his13491-tbl-0001" ref-type="table-wrap">1</xref>, <italic>P</italic> = 0.003, <italic>P</italic> = 0.003 and <italic>P</italic> &#x0003c; 0.001, respectively).</p><table-wrap id="his13491-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Patient characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Variable</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+<italic>n</italic> (%)</th><th align="char" rowspan="2" valign="top" colspan="1">
+<italic>P</italic>&#x02010;value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" valign="top" rowspan="1" colspan="1">Surgery (S)</th><th align="char" valign="top" rowspan="1" colspan="1">Chemotherapy plus surgery (CS)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Age category, years</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02264;65</td><td align="char" char=" " rowspan="1" colspan="1">136 (55.7)</td><td align="char" char=" " rowspan="1" colspan="1">150 (59.3)</td><td align="char" char="." rowspan="2" colspan="1">0.42</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x0003e;65</td><td align="char" char=" " rowspan="1" colspan="1">108 (44.3)</td><td align="char" char=" " rowspan="1" colspan="1">103 (40.7)</td></tr><tr><td align="left" colspan="4" rowspan="1">Gender</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char=" " rowspan="1" colspan="1">65 (26.6)</td><td align="char" char=" " rowspan="1" colspan="1">56 (22.1)</td><td align="char" char="." rowspan="2" colspan="1">0.24</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char=" " rowspan="1" colspan="1">179 (73.4)</td><td align="char" char=" " rowspan="1" colspan="1">197 (77.9)</td></tr><tr><td align="left" colspan="4" rowspan="1">Depth of invasion [(y)pT]</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T0/Tis</td><td align="char" char=" " rowspan="1" colspan="1">0 (0)</td><td align="char" char=" " rowspan="1" colspan="1">12 (4.7)</td><td align="char" char="." rowspan="5" colspan="1">0.003</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T1</td><td align="char" char=" " rowspan="1" colspan="1">24 (9.8)</td><td align="char" char=" " rowspan="1" colspan="1">25 (9.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T2</td><td align="char" char=" " rowspan="1" colspan="1">24 (9.8)</td><td align="char" char=" " rowspan="1" colspan="1">32 (12.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T3</td><td align="char" char=" " rowspan="1" colspan="1">190 (77.9)</td><td align="char" char=" " rowspan="1" colspan="1">180 (71.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T4</td><td align="char" char=" " rowspan="1" colspan="1">6 (2.5)</td><td align="char" char=" " rowspan="1" colspan="1">4 (1.6)</td></tr><tr><td align="left" colspan="4" rowspan="1">Lymph node status [(y)pN]</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">N0</td><td align="char" char=" " rowspan="1" colspan="1">81 (33.2)</td><td align="char" char=" " rowspan="1" colspan="1">117 (46.2)</td><td align="char" char="." rowspan="2" colspan="1">0.003</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">N1</td><td align="char" char=" " rowspan="1" colspan="1">163 (66.8)</td><td align="char" char=" " rowspan="1" colspan="1">136 (53.8)</td></tr><tr><td align="left" colspan="4" rowspan="1">(y)pTNM stage</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0 (0)</td><td align="char" char=" " rowspan="1" colspan="1">12 (4.8)</td><td align="char" char="." rowspan="4" colspan="1">0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I</td><td align="char" char=" " rowspan="1" colspan="1">19 (7.8)</td><td align="char" char=" " rowspan="1" colspan="1">19 (7.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">II</td><td align="char" char=" " rowspan="1" colspan="1">77 (31.5)</td><td align="char" char=" " rowspan="1" colspan="1">97 (38.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III</td><td align="char" char=" " rowspan="1" colspan="1">148 (60.7)</td><td align="char" char=" " rowspan="1" colspan="1">125 (49.4)</td></tr><tr><td align="left" colspan="4" rowspan="1">Histological tumour type</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Squamous cell carcinoma</td><td align="char" char=" " rowspan="1" colspan="1">62 (28.4)</td><td align="char" char=" " rowspan="1" colspan="1">63 (26.1)</td><td align="char" char="." rowspan="3" colspan="1">0.801</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Adenocarcinoma</td><td align="char" char=" " rowspan="1" colspan="1">172 (70.5)</td><td align="char" char=" " rowspan="1" colspan="1">171 (71)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Others</td><td align="char" char=" " rowspan="1" colspan="1">10 (4.1)</td><td align="char" char=" " rowspan="1" colspan="1">7 (2.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumour regression grade (TRG)</td><td align="char" rowspan="1" colspan="1">&#x02018;TRG&#x02010;like changes&#x02019;</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="char" char=" " rowspan="1" colspan="1">0 (0)</td><td align="char" char=" " rowspan="1" colspan="1">12 (4.8)</td><td align="char" char="." rowspan="5" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="char" char=" " rowspan="1" colspan="1">3 (1.2)</td><td align="char" char=" " rowspan="1" colspan="1">10 (4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="char" char=" " rowspan="1" colspan="1">15 (6.2)</td><td align="char" char=" " rowspan="1" colspan="1">36 (14.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">4</td><td align="char" char=" " rowspan="1" colspan="1">74 (30.3)</td><td align="char" char=" " rowspan="1" colspan="1">96 (37.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">5</td><td align="char" char=" " rowspan="1" colspan="1">152 (62.3)</td><td align="char" char=" " rowspan="1" colspan="1">99 (39.1)</td></tr><tr><td align="left" colspan="4" rowspan="1">TRG and lymph node status (y)pN</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">TRG1&#x02013;3 and N0</td><td align="char" char=" " rowspan="1" colspan="1">13 (5.3)</td><td align="char" char=" " rowspan="1" colspan="1">37 (14.6)</td><td align="char" char="." rowspan="4" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">TRG1&#x02013;3 and N1</td><td align="char" char=" " rowspan="1" colspan="1">5 (2)</td><td align="char" char=" " rowspan="1" colspan="1">21 (8.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">TRG4&#x02013;5 and N0</td><td align="char" char=" " rowspan="1" colspan="1">68 (27.9)</td><td align="char" char=" " rowspan="1" colspan="1">80 (31.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">TRG4&#x02013;5 and N1</td><td align="char" char=" " rowspan="1" colspan="1">158 (64.8)</td><td align="char" char=" " rowspan="1" colspan="1">115 (45.5)</td></tr><tr><td align="left" colspan="4" rowspan="1">Resection margin status</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Positive</td><td align="char" char=" " rowspan="1" colspan="1">68 (30.6)</td><td align="char" char=" " rowspan="1" colspan="1">70 (30.2)</td><td align="char" char="." rowspan="2" colspan="1">0.91</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Negative</td><td align="char" char=" " rowspan="1" colspan="1">154 (69.4)</td><td align="char" char=" " rowspan="1" colspan="1">162 (69.8)</td></tr><tr><td align="left" colspan="4" rowspan="1">Tumour location</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lower</td><td align="char" char=" " rowspan="1" colspan="1">153 (62.7)</td><td align="char" char=" " rowspan="1" colspan="1">167 (66)</td><td align="char" char="." rowspan="3" colspan="1">0.72</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Middle</td><td align="char" char=" " rowspan="1" colspan="1">63 (25.8)</td><td align="char" char=" " rowspan="1" colspan="1">61 (24.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Upper</td><td align="char" char=" " rowspan="1" colspan="1">28 (11.5)</td><td align="char" char=" " rowspan="1" colspan="1">25 (9.9)</td></tr></tbody></table><table-wrap-foot><fn id="his13491-note-0002"><p>(y)pN, lymph node metastasis; TNM, tumour&#x02013;node&#x02013;metastasis.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The frequency of the TRG categories in CS patients (<italic>n</italic> = 253) was as follows: TRG1: <italic>n</italic> = 12 (4.8%), TRG2: <italic>n</italic> = 10 (4%), TRG3: <italic>n</italic> = 36 (14.2%), TRG4: <italic>n</italic> = 96 (37.9%) and TRG5: <italic>n</italic> = 99 (39.1%) (Table <xref rid="his13491-tbl-0001" ref-type="table-wrap">1</xref>). The frequency of &#x02018;tumour regression&#x02010;like&#x02019; changes in S patients (<italic>n</italic> = 244) was distributed as follows: TRG1: <italic>n</italic> = 0 (0%), TRG2: <italic>n</italic> = 3 (1.2%), TRG3: <italic>n</italic> = 15 (6.2%), TRG4: <italic>n</italic> = 74 (30.3%) and TRG5: <italic>n</italic> = 152 (62.3%) (Table <xref rid="his13491-tbl-0001" ref-type="table-wrap">1</xref>).</p><p>As expected, there were more patients with TRG1&#x02013;3 in the CS patient group compared to the S patient group [CS, <italic>n</italic> = 58 (76.3%) versus S, <italic>n</italic> = 18 (23.7%)] and fewer patients with TRG4&#x02013;5 in the CS patient group compared to the S patient group [CS, <italic>n</italic> = 195 (46.3%) versus S, <italic>n</italic> = 226 (53.7%)].</p><p>Lymph node data were available for 492 patients (CS, <italic>n</italic> = 250; S, <italic>n</italic> = 242). The median (range) number of retrieved lymph nodes was similar in both treatment arms [CS, <italic>n</italic> = 9 (0&#x02013;67); S, <italic>n</italic> = 10 (0&#x02013;80), <italic>P</italic> = 0.35].</p><p>The survival of S patients was similar to CS patients with TRG4&#x02013;5 tumours [hazard ratio (HR) = 1.01; 95% confidence interval (CI) = 0.81&#x02013;1.25; <italic>P</italic> = 0.9, Figure <xref rid="his13491-fig-0002" ref-type="fig">2</xref>]. CS patients with TRG3 tumours demonstrated a trend towards higher mortality risk when compared to CS patients with TRG1&#x02010;2 tumours; however, this did not achieve statistical significance (HR = 1.43, 95% CI = 0.694&#x02013;2.958, <italic>P</italic> = 0.33). Survival analyses of CS patients with TRG4&#x02013;5 tumours similarly demonstrated a trend towards higher mortality risk when compared to CS group patients with TRG3 tumours, but with a slightly lower HR and also not reaching statistically significant levels (HR = 1.34, 95% CI = 0.858&#x02013;2.105, <italic>P</italic> = 0.196).</p><p>The group of CS patients with TRG1&#x02013;3 tumours (&#x02018;responders&#x02019;) had a significantly longer OS than the group with TRG4&#x02013;5 tumours (&#x02018;non&#x02010;responders) (HR = 1.53, 95% CI = 1.05&#x02013;2.24, <italic>P</italic> = 0.026, Figures <xref rid="his13491-fig-0002" ref-type="fig">2</xref> and <xref rid="his13491-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="his13491-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Five&#x02010;year overall survival stratified by combined tumour regression grade (TRG) in patients treated with neoadjuvant chemotherapy plus surgery in the OE02 trial. Patients with TRG1&#x02013;3 tumours (responders) survived significantly longer than patients with TRG4&#x02013;5 tumours (non&#x02010;responders) [hazard ratio (HR) = 1.53, 95% confidence interval (CI) = 1.05&#x02013;2.24, <italic>P</italic> = 0.026].</p></caption><graphic id="nlm-graphic-5" xlink:href="HIS-72-1180-g003"/></fig><p>Following the combination of TRG with LN status, responders without LN metastasis survived significantly longer than responders with LN metastasis (HR = 2.21, 95% CI = 1.11&#x02013;4.10, <italic>P</italic> = 0.024). Similarly, non&#x02010;responders without LN metastasis survived significantly longer than non&#x02010;responders with LN metastasis (HR = 1.87, 95% CI = 1.33&#x02013;2.63, <italic>P</italic> &#x0003c; 0.001, Figure <xref rid="his13491-fig-0004" ref-type="fig">4</xref>). Furthermore, the survival of responders without LN metastasis was similar to that of non&#x02010;responders without LN metastasis (<italic>P</italic> = 0.12), and the survival of responders with LN metastasis was similar to that of non&#x02010;responders with LN metastasis (<italic>P</italic> = 0.49).</p><fig fig-type="Figure" xml:lang="en" id="his13491-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Five&#x02010;year overall survival stratified by combined tumour regression grade (<styled-content style="fixed-case">TRG</styled-content>) and lymph node status in patients treated with neoadjuvant chemotherapy plus surgery. Responders (TRG1&#x02013;3 tumours) without lymph node metastasis (node negative) survived significantly longer than responders with lymph node metastasis (node positive) [hazard ratio (HR) = 2.21, 95% confidence interval (CI) = 1.11&#x02013;4.10, <italic>P</italic> = 0.024]. Non&#x02010;responders (TRG4&#x02013;5 tumours) without lymph node metastasis (node negative) survived significantly longer than non&#x02010;responders with lymph node metastasis (node positive) (HR = 1.87, 95% CI = 1.33&#x02013;2.63, <italic>P</italic> &#x0003c; 0.001). [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">http://wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-7" xlink:href="HIS-72-1180-g004"/></fig><p>Multivariate analyses which incorporated TRG and LN status into the model demonstrated that LN status was the only independent factor predictive of survival in CS patients (ypN1; HR = 1.93, 95% CI = 1.42&#x02013;2.62, <italic>P</italic> &#x0003c; 0.001), with assignment to TRG4&#x02013;5 (&#x02018;non&#x02010;responders&#x02019;) not influencing survival significantly (HR = 1.35, 95% CI = 0.92&#x02013;1.98, <italic>P</italic> = 0.12, Table <xref rid="his13491-tbl-0002" ref-type="table-wrap">2</xref>).</p><table-wrap id="his13491-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Multivariate analysis of factors affecting 5&#x02010;year overall survival in patients treated with neoadjuvant chemotherapy plus surgery (<italic>n</italic> = 253)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Variable</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">All patients (<italic>n</italic> = 253)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" valign="top" rowspan="1" colspan="1">HR (95% CI)</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">TRG1&#x02013;3</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">TRG4&#x02013;5</td><td align="char" char=" " rowspan="1" colspan="1">1.35 (0.92, 1.98)</td><td align="char" char="." rowspan="1" colspan="1">0.12</td></tr><tr><td align="left" rowspan="1" colspan="1">ypN0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ypN1</td><td align="char" char=" " rowspan="1" colspan="1">1.93 (1.42, 2.62)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;0.001</td></tr></tbody></table><table-wrap-foot><fn id="his13491-note-0003"><p>TRG, tumour regression grade; ypN, lymph node status after chemotherapy; HR, hazard ratio; CI, confidence interval.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Following exclusion of patients exposed to pre&#x02010;operative radiotherapy (CS patients <italic>n</italic> = 26, S patients <italic>n</italic> = 22), exploratory subgroup analyses revealed similar prognostic associations to those from the analysis of the whole cohort in terms of magnitude and direction of effect (Figures S2&#x02013;S5).</p></sec><sec id="his13491-sec-0012"><title>Discussion</title><p>Following publication in 2002, results from the MRC OE02 trial changed clinical practice for patients with locally advanced resectable OC by establishing neoadjuvant combination chemotherapy followed by surgery as standard of care.<xref rid="his13491-bib-0019" ref-type="ref">19</xref> Tumour regression grading was, however, not reported in the original OE02 trial,<xref rid="his13491-bib-0019" ref-type="ref">19</xref> nor in the report of long&#x02010;term follow&#x02010;up for OE02,<xref rid="his13491-bib-0002" ref-type="ref">2</xref> nor in any other large multicentre randomised trial using 5&#x02010;FU/cisplatin&#x02010;based neoadjuvant chemotherapy in OC patients. Thus, to date, the potential clinical value of TRG in OC patients remains unclear.<xref rid="his13491-bib-0007" ref-type="ref">7</xref>, <xref rid="his13491-bib-0021" ref-type="ref">21</xref>, <xref rid="his13491-bib-0022" ref-type="ref">22</xref> Recently, our group has demonstrated, utilising material from patients with resectable gastric cancer enrolled into the MRC MAGIC trial, that postoperative LN status, not TRG, is an independent predictor of survival following NAC.<xref rid="his13491-bib-0007" ref-type="ref">7</xref> In an effort to define the clinical value of TRG in a pure OC cohort, we centrally reviewed (and assigned TRG categories to) material from 497 patients with resectable OC enrolled in OE02, a large randomised control trial that allocated patients either to NAC followed by surgery or surgery alone.<xref rid="his13491-bib-0002" ref-type="ref">2</xref>, <xref rid="his13491-bib-0019" ref-type="ref">19</xref>
+</p><p>Overall, our present study shows similar results to the MAGIC trial of gastric cancer patients.<xref rid="his13491-bib-0007" ref-type="ref">7</xref> The very low number of patients treated by surgery alone showing tumour regression&#x02010;like changes is concordant with MAGIC trial data and supports the accuracy of subjective TRG. It is noteworthy that the Kaplan&#x02013;Meier overall survival plots for similar TRG group assignments tracked differently when comparing MAGIC<xref rid="his13491-bib-0007" ref-type="ref">7</xref> and OE02 trial patients (Figure <xref rid="his13491-fig-0002" ref-type="fig">2</xref>). The reasons for this are unknown but, for methodological consistency, we utilised a similar approach as used in the MAGIC trial of merging groups based on similar survival profiles. Thus, patients classified as TRG1 and TRG2 were grouped as &#x02018;responders&#x02019; in MAGIC<xref rid="his13491-bib-0007" ref-type="ref">7</xref> whereas, in the present study, TRG1, 2 and 3 cohorts were grouped as &#x02018;responders&#x02019;.</p><p>In the present study, patients with lymph node metastases following NAC treatment had the worst overall survival, a feature associated with a doubling of mortality risk when compared to patients without lymph node metastases. Thus, although the prognostic implication of TRG measurement was demonstrable in univariate analysis, the adverse prognostic effect of lymph node metastases was retained irrespective of the perceived response of the primary tumour to treatment. Our study emphasises the importance of a complete and thorough lymph node dissection by the surgeon, as well as comprehensive retrieval of lymph nodes from the resected specimen by the pathologist. While TRG grading may offer some information on the local response to treatment, the lymph node status after NAC appears to be more important in identifying high&#x02010;risk OC patients and thus may potentially direct clinical management decisions in OC patients with high&#x02010;risk disease for whom adjuvant therapy and/or intensified follow&#x02010;up is probably warranted.</p><p>Our study has some limitations. This is a retrospective study based on a 66% subset of OE02 trial patients who underwent surgery. As the trial was conducted between 1992 and 1998, and material collection initiated 20 years following closure of the trial, material was not obtainable for all patients for central review. We were, however, able to obtain TRG values from almost double the number of patients in comparison to the MAGIC trial study,<xref rid="his13491-bib-0007" ref-type="ref">7</xref> increasing the statistical power for the comparison of the prognostic importance of TRG and LN status in subgroup analyses.</p><p>The number of lymph nodes could not always be verified during the central pathology review due to lack of documentation within the pathology reports, but is lower than expected in more contemporary trials reflecting clinical practice at the time of the trial. For the majority of patients, the number of positive lymph nodes was not independently verifiable during central review, as information regarding what was included in each paraffin block (the blocking list) was often lacking. Additionally, anatomical location of the nodes was not recorded in most cases. This latter aspect is probably important, as recently published studies suggest that treatment response in lymph nodes and anatomical location of lymph nodes with residual disease may be more relevant than primary tumour TRG when predicting patient prognosis.<xref rid="his13491-bib-0023" ref-type="ref">23</xref>, <xref rid="his13491-bib-0024" ref-type="ref">24</xref>, <xref rid="his13491-bib-0025" ref-type="ref">25</xref> Primary analyses also included a small proportion of patients (CS <italic>n</italic> = 26, S <italic>n</italic> = 22), derived from a single centre, who were subjected to pre&#x02010;operative radiotherapy according to local practice. We performed exploratory subgroup analyses excluding these patients, demonstrating the retention of the prognostic effects observed in the entire cohort, some with enhanced prognostic effects (Figures S2&#x02013;S5). This subgroup also demonstrated borderline statistical significance for TRG as an independent prognostic factor; however, such an interpretation should be treated with caution, as these demonstrated good TRG response but poor survival, thus potentially skewing statistical interpretation.</p><p>Tumour regression grading systems categorise regressive changes following chemotherapy in order to provide prognostic information on the basis of characteristic histopathological changes. As reviewed recently by Langer and Becker, a variety of systems are reported for application in gastrointestinal malignancies, each with relative advantages and disadvantages.<xref rid="his13491-bib-0026" ref-type="ref">26</xref> Despite reported disadvantages such as poor reproducibility, the Mandard system, as utilised for this study, has demonstable equivalence of reproducibility when compared to other systems, including the four&#x02010;tier Becker system, specifically within the context of oeosphageal malignancies.<xref rid="his13491-bib-0027" ref-type="ref">27</xref>
+</p><p>In summary, this study, to the best of our knowledge, represents the first report of the potential prognostic value of centrally reviewed TRG, lymph node status and other histopathological variables in a randomised trial population of patients with locally advanced oesophageal cancer treated either by neoadjuvant combination chemotherapy followed by surgery or surgery alone. We have demonstrated that pathological LN status is the principal determinant of OC patient survival after neoadjuvant chemotherapy. The clinical implications of potential adjuvant treatment or intensified surveillance reinforce the importance of meticulous lymph node dissection by the surgeon and the pathologist. Further work is needed to demonstrate if TRG of intranodal deposits and the anatomical location of lymph nodes with and without regression (implying heterogeneity of nodal response) can provide clinically relevant information beyond the number of positive lymph nodes alone.</p></sec><sec id="his13491-sec-0014"><title>Conflicts of interest</title><p>D.C. acknowledges funding support of AstraZeneca, Amgen, Bayer, Celgene, Merrimack, Merck Serono, MedImmune, Sanofi. W.A. acknowledges funding from Eli Lilly and Nestle. R.L. acknowledges funding from Bayer. N.W. acknowledges funding from Eisai. N.D., G.H., L.H., M.N., E.S., N.V. and H.G. have no associations to declare.</p></sec></body><back><ack id="his13491-sec-0013"><title>Acknowledgements</title><p>We acknowledge the following clinical centres for providing materials for this study: Aberdeen Royal Infirmary, Addenbrooke's Hospital, Beatson Oncology Centre, Belfast City Hospital, Belvidere Hospital, Birmingham Heartlands Hospital, Bradford Royal Infirmary, Bristol Oncology Centre, Bristol Royal Infirmary, Castle Hill Hospital, Cheltenham General Hospital, Clatterbridge Centre for Oncology, Cookridge Hospital, Derriford Hospital, Doncaster Royal Infirmary, Essex County Hospital, Fazakerley Hospital, Frenchay Hospital, Glasgow Royal Infirmary, Gloucestershire Royal Hospital, Hairmyres Hospital, Hope Hospital, Killingbeck Hospital, Liverpool Cardiothoracic Centre, Middlesborough General Hospital, Morriston Hospital, Norfolk and Norwich Hospital, North Staffordshire Royal Infirmary, Poole General Hospital, Queen Elizabeth Hospital Birmingham, Raigmore Hospital, Royal Hallamshire Hospital, Royal Marsden Hospital, Royal South Hants Hospital, Royal Victoria Hospital Belfast, South Cleveland Hospital, Southend General Hospital, St George's Hospital London, Western Infirmary, Wythenshawe Hospital and the Academisch Ziekenhuis Leiden (NL). This study was funded by Cancer Research UK (C26441/A8944, PI: HG). GH and NW received funding from the National Institute of Health Research UK, The Pathological Society of Great Britain and Ireland, the Academy of Medical Sciences and Yorkshire Cancer Research. NV received funding from CRUK. DC, WA, ES, NV acknowledge the funding support of the NIHR RM/ICR BRC (National Institute for Health Research Royal Marsden/Institute of Cancer Research Biomedical Research Centre).</p></ack><ref-list content-type="cited-references" id="his13491-bibl-0001"><title>References</title><ref id="his13491-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="his13491-cit-0001">
+<string-name>
+<surname>Thies</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Langer</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Tumor regression grading of gastrointestinal carcinomas after neoadjuvant treatment</article-title>. <source xml:lang="en">Front. Oncol.</source>
+<year>2013</year>; <volume>3</volume>; <fpage>262</fpage>.<pub-id pub-id-type="pmid">24109590</pub-id></mixed-citation></ref><ref id="his13491-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="his13491-cit-0002">
+<string-name>
+<surname>Allum</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Stenning</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Bancewicz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>PI</given-names>
+</string-name>, <string-name>
+<surname>Langley</surname>
+<given-names>RE</given-names>
+</string-name>. <article-title>Long&#x02010;term results of a randomized trial of surgery with or without preoperative chemotherapy in esophageal cancer</article-title>. <source xml:lang="en">J. Clin. Oncol.</source>
+<year>2009</year>; <volume>27</volume>; <fpage>5062</fpage>&#x02013;<lpage>5067</lpage>.<pub-id pub-id-type="pmid">19770374</pub-id></mixed-citation></ref><ref id="his13491-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="his13491-cit-0003">
+<string-name>
+<surname>van Hagen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hulshof</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>van Lanschot</surname>
+<given-names>JJ</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Preoperative chemoradiotherapy for esophageal or junctional cancer</article-title>. <source xml:lang="en">N. Engl. J. Med.</source>
+<year>2012</year>; <volume>366</volume>; <fpage>2074</fpage>&#x02013;<lpage>2084</lpage>.<pub-id pub-id-type="pmid">22646630</pub-id></mixed-citation></ref><ref id="his13491-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="his13491-cit-0004">
+<string-name>
+<surname>Reynolds</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Preston</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>O'Neill</surname>
+<given-names>B</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Icorg 10&#x02010;14: Neoadjuvant Trial in Adenocarcinoma of the Oesophagus and oesophagogastric Junction International Study (NEO&#x02010;AEGIS)</article-title>. <source xml:lang="en">BMC Cancer</source>
+<year>2017</year>; <volume>17</volume>; <fpage>401</fpage>.<pub-id pub-id-type="pmid">28578652</pub-id></mixed-citation></ref><ref id="his13491-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="his13491-cit-0005">
+<string-name>
+<surname>Lordick</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mariette</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Haustermans</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Obermannova</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Arnold</surname>
+<given-names>D</given-names>
+</string-name>; <collab collab-type="authors">ESMO Guidelines Committee</collab>
+. <article-title>Oesophageal cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow&#x02010;up</article-title>. <source xml:lang="en">Ann. Oncol.</source>
+<year>2016</year>; <volume>27</volume>; <fpage>v50</fpage>&#x02013;<lpage>v57</lpage>.<pub-id pub-id-type="pmid">27664261</pub-id></mixed-citation></ref><ref id="his13491-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="his13491-cit-0006">
+<string-name>
+<surname>Markar</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Noordman</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Mackenzie</surname>
+<given-names>H</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Multimodality treatment for esophageal adenocarcinoma: multi&#x02010;center propensity&#x02010;score matched study</article-title>. <source xml:lang="en">Ann. Oncol.</source>
+<year>2017</year>; <volume>28</volume>; <fpage>519</fpage>&#x02013;<lpage>527</lpage>.<pub-id pub-id-type="pmid">28039180</pub-id></mixed-citation></ref><ref id="his13491-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="his13491-cit-0007">
+<string-name>
+<surname>Smyth</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Fassan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cunningham</surname>
+<given-names>D</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Effect of pathologic tumor response and nodal status on survival in the Medical Research Council adjuvant gastric infusional chemotherapy trial</article-title>. <source xml:lang="en">J. Clin. Oncol.</source>
+<year>2016</year>; <volume>34</volume>; <fpage>2721</fpage>&#x02013;<lpage>2727</lpage>.<pub-id pub-id-type="pmid">27298411</pub-id></mixed-citation></ref><ref id="his13491-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="his13491-cit-0008">
+<string-name>
+<surname>Pennathur</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Jobe</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Luketich</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>Oesophageal carcinoma</article-title>. <source xml:lang="en">Lancet</source>
+<year>2013</year>; <volume>381</volume>; <fpage>400</fpage>&#x02013;<lpage>412</lpage>.<pub-id pub-id-type="pmid">23374478</pub-id></mixed-citation></ref><ref id="his13491-bib-0009"><label>9</label><mixed-citation publication-type="book" id="his13491-cit-0009">
+<collab collab-type="authors">Cancer Research UK</collab>
+. <source xml:lang="en">Oesophageal cancer survival statistics</source>. <publisher-loc>London, UK</publisher-loc>: <publisher-name>Cancer Research UK</publisher-name>, <year>2017</year>.</mixed-citation></ref><ref id="his13491-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="his13491-cit-0010">
+<string-name>
+<surname>Brescia</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Broderick</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Crabtree</surname>
+<given-names>TD</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Adjuvant therapy for positive nodes after induction therapy and resection of esophageal cancer</article-title>. <source xml:lang="en">Ann. Thorac. Surg.</source>
+<year>2016</year>; <volume>101</volume>; <fpage>200</fpage>&#x02013;<lpage>208</lpage>; discussion 208&#x02013;210.<pub-id pub-id-type="pmid">26507424</pub-id></mixed-citation></ref><ref id="his13491-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="his13491-cit-0011">
+<string-name>
+<surname>Mandard</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Dalibard</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mandard</surname>
+<given-names>JC</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Pathologic assessment of tumor regression after preoperative chemoradiotherapy of esophageal carcinoma. Clinicopathologic correlations</article-title>. <source xml:lang="en">Cancer</source>
+<year>1994</year>; <volume>73</volume>; <fpage>2680</fpage>&#x02013;<lpage>2686</lpage>.<pub-id pub-id-type="pmid">8194005</pub-id></mixed-citation></ref><ref id="his13491-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="his13491-cit-0012">
+<string-name>
+<surname>Becker</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Schulmacher</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Histomorphology and grading of regression in gastric carcinoma treated with neoadjuvant chemotherapy</article-title>. <source xml:lang="en">Cancer</source>
+<year>2003</year>; <volume>98</volume>; <fpage>1521</fpage>&#x02013;<lpage>1530</lpage>.<pub-id pub-id-type="pmid">14508841</pub-id></mixed-citation></ref><ref id="his13491-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="his13491-cit-0013">
+<string-name>
+<surname>Guo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>The predictive value of histological tumor regression grading (TRG) for therapeutic evaluation in locally advanced esophageal carcinoma treated with neoadjuvant chemotherapy</article-title>. <source xml:lang="en">Chin. J. Cancer</source>
+<year>2012</year>; <volume>31</volume>; <fpage>399</fpage>&#x02013;<lpage>408</lpage>.<pub-id pub-id-type="pmid">22572013</pub-id></mixed-citation></ref><ref id="his13491-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="his13491-cit-0014">
+<string-name>
+<surname>Meredith</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Turaga</surname>
+<given-names>KK</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Pathologic response after neoadjuvant therapy is the major determinant of survival in patients with esophageal cancer</article-title>. <source xml:lang="en">Ann. Surg. Oncol.</source>
+<year>2010</year>; <volume>17</volume>; <fpage>1159</fpage>&#x02013;<lpage>1167</lpage>.<pub-id pub-id-type="pmid">20140529</pub-id></mixed-citation></ref><ref id="his13491-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="his13491-cit-0015">
+<string-name>
+<surname>Schneider</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Baldus</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Metzger</surname>
+<given-names>R</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Histomorphologic tumor regression and lymph node metastases determine prognosis following neoadjuvant radiochemotherapy for esophageal cancer: implications for response classification</article-title>. <source xml:lang="en">Ann. Surg.</source>
+<year>2005</year>; <volume>242</volume>; <fpage>684</fpage>&#x02013;<lpage>692</lpage>.<pub-id pub-id-type="pmid">16244542</pub-id></mixed-citation></ref><ref id="his13491-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="his13491-cit-0016">
+<string-name>
+<surname>Samson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bradley</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Neoadjuvant chemotherapy versus chemoradiation prior to esophagectomy: impact on rate of complete pathologic response and survival in esophageal cancer patients</article-title>. <source xml:lang="en">J. Thorac. Oncol.</source>
+<year>2016</year>; <volume>11</volume>; <fpage>2227</fpage>&#x02013;<lpage>2237</lpage>.<pub-id pub-id-type="pmid">27544058</pub-id></mixed-citation></ref><ref id="his13491-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="his13491-cit-0017">
+<string-name>
+<surname>Parry</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>van Rossum</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Haj Mohammad</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ruurda</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>van Hillegersberg</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>The effect of perioperative chemotherapy for patients with an adenocarcinoma of the gastroesophageal junction: a propensity score matched analysis</article-title>. <source xml:lang="en">Eur. J. Surg. Oncol.</source>
+<year>2017</year>; <volume>43</volume>; <fpage>226</fpage>&#x02013;<lpage>233</lpage>.<pub-id pub-id-type="pmid">27424786</pub-id></mixed-citation></ref><ref id="his13491-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="his13491-cit-0018">
+<string-name>
+<surname>Noble</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Nolan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bateman</surname>
+<given-names>AC</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Refining pathological evaluation of neoadjuvant therapy for adenocarcinoma of the esophagus</article-title>. <source xml:lang="en">World J. Gastroenterol.</source>
+<year>2013</year>; <volume>19</volume>; <fpage>9282</fpage>&#x02013;<lpage>9293</lpage>.<pub-id pub-id-type="pmid">24409055</pub-id></mixed-citation></ref><ref id="his13491-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="his13491-cit-0019">
+<collab collab-type="authors">Medical Research Council Oesophageal Cancer Working Group</collab>
+. <article-title>Surgical resection with or without preoperative chemotherapy in oesophageal cancer: a randomised controlled trial</article-title>. <source xml:lang="en">Lancet</source>
+<year>2002</year>; <volume>359</volume>; <fpage>1727</fpage>&#x02013;<lpage>1733</lpage>.<pub-id pub-id-type="pmid">12049861</pub-id></mixed-citation></ref><ref id="his13491-bib-0020"><label>20</label><mixed-citation publication-type="book" id="his13491-cit-0020">
+<string-name>
+<surname>Sobin</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Wittekind</surname>
+<given-names>C</given-names>
+</string-name>. <source xml:lang="en">International Union Against Cancer (UICC): TNM classification of malignant tumors</source>. <edition>6th ed</edition>
+<publisher-loc>New York</publisher-loc>: <publisher-name>Wiley</publisher-name>, <year>2002</year>.</mixed-citation></ref><ref id="his13491-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="his13491-cit-0021">
+<string-name>
+<surname>Hatogai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fujii</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kojima</surname>
+<given-names>T</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Prognostic significance of tumor regression grade for patients with esophageal squamous cell carcinoma after neoadjuvant chemotherapy followed by surgery</article-title>. <source xml:lang="en">J. Surg. Oncol.</source>
+<year>2016</year>; <volume>113</volume>; <fpage>390</fpage>&#x02013;<lpage>396</lpage>.<pub-id pub-id-type="pmid">27100024</pub-id></mixed-citation></ref><ref id="his13491-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="his13491-cit-0022">
+<string-name>
+<surname>Langer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ott</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Feith</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lordick</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Siewert</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Prognostic significance of histopathological tumor regression after neoadjuvant chemotherapy in esophageal adenocarcinomas</article-title>. <source xml:lang="en">Mod. Pathol.</source>
+<year>2009</year>; <volume>22</volume>; <fpage>1555</fpage>&#x02013;<lpage>1563</lpage>.<pub-id pub-id-type="pmid">19801967</pub-id></mixed-citation></ref><ref id="his13491-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="his13491-cit-0023">
+<string-name>
+<surname>Philippron</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bollschweiler</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kunikata</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Prognostic relevance of lymph node regression after neoadjuvant chemoradiation for esophageal cancer</article-title>. <source xml:lang="en">Semin. Thorac. Cardiovasc. Surg.</source>
+<year>2016</year>; <volume>28</volume>; <fpage>549</fpage>&#x02013;<lpage>558</lpage>.<pub-id pub-id-type="pmid">28043475</pub-id></mixed-citation></ref><ref id="his13491-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="his13491-cit-0024">
+<string-name>
+<surname>Bollschweiler</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Holscher</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Metzger</surname>
+<given-names>R</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Prognostic significance of a new grading system of lymph node morphology after neoadjuvant radiochemotherapy for esophageal cancer</article-title>. <source xml:lang="en">Ann. Thorac. Surg.</source>
+<year>2011</year>; <volume>92</volume>; <fpage>2020</fpage>&#x02013;<lpage>2027</lpage>.<pub-id pub-id-type="pmid">22115212</pub-id></mixed-citation></ref><ref id="his13491-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="his13491-cit-0025">
+<string-name>
+<surname>Nieman</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Peyre</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Watson</surname>
+<given-names>TJ</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Neoadjuvant treatment response in negative nodes is an important prognosticator after esophagectomy</article-title>. <source xml:lang="en">Ann. Thorac. Surg.</source>
+<year>2015</year>; <volume>99</volume>; <fpage>277</fpage>&#x02013;<lpage>283</lpage>.<pub-id pub-id-type="pmid">25442991</pub-id></mixed-citation></ref><ref id="his13491-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="his13491-cit-0026">
+<string-name>
+<surname>Langer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Tumor regression grading of gastrointestinal cancers after neoadjuvant therapy</article-title>. <source xml:lang="en">Virchows Arch.</source>
+<year>2018</year>; <volume>472</volume>; <fpage>175</fpage>&#x02013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">28918544</pub-id></mixed-citation></ref><ref id="his13491-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="his13491-cit-0027">
+<string-name>
+<surname>Karamitopoulou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Thies</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zlobec</surname>
+<given-names>I</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Assessment of tumor regression of esophageal adenocarcinomas after neoadjuvant chemotherapy: comparison of 2 commonly used scoring approaches</article-title>. <source xml:lang="en">Am. J. Surg. Pathol.</source>
+<year>2014</year>; <volume>38</volume>; <fpage>1551</fpage>&#x02013;<lpage>1556</lpage>.<pub-id pub-id-type="pmid">25140894</pub-id></mixed-citation></ref></ref-list></back></article>

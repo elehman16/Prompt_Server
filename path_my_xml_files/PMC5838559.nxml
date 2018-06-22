@@ -1,0 +1,515 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Cardiol</journal-id><journal-id journal-id-type="iso-abbrev">Clin Cardiol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1932-8737</journal-id><journal-id journal-id-type="publisher-id">CLC</journal-id><journal-title-group><journal-title>Clinical Cardiology</journal-title></journal-title-group><issn pub-type="ppub">0160-9289</issn><issn pub-type="epub">1932-8737</issn><publisher><publisher-name>Wiley Periodicals, Inc.</publisher-name><publisher-loc>New York</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29365351</article-id><article-id pub-id-type="pmc">5838559</article-id><article-id pub-id-type="doi">10.1002/clc.22856</article-id><article-id pub-id-type="publisher-id">CLC22856</article-id><article-categories><subj-group subj-group-type="overline"><subject>Trial Designs</subject></subj-group><subj-group subj-group-type="heading"><subject>Trial Designs</subject></subj-group></article-categories><title-group><article-title>Effect of Vascepa (icosapent ethyl) on progression of coronary atherosclerosis in patients with elevated triglycerides (200&#x02013;499 mg/dL) on statin therapy: Rationale and design of the EVAPORATE study</article-title><alt-title alt-title-type="left-running-head">Budoff et al.</alt-title></title-group><contrib-group><contrib id="clc22856-cr-0001" contrib-type="author"><name><surname>Budoff</surname><given-names>Matthew</given-names></name><xref ref-type="aff" rid="clc22856-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="clc22856-cr-0002" contrib-type="author"><name><surname>Brent Muhlestein</surname><given-names>J.</given-names></name><xref ref-type="aff" rid="clc22856-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="clc22856-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="clc22856-cr-0003" contrib-type="author"><name><surname>Le</surname><given-names>Viet T.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6659-5332</contrib-id><xref ref-type="aff" rid="clc22856-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="clc22856-cr-0004" contrib-type="author"><name><surname>May</surname><given-names>Heidi T.</given-names></name><xref ref-type="aff" rid="clc22856-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="clc22856-cr-0005" contrib-type="author"><name><surname>Roy</surname><given-names>Sion</given-names></name><xref ref-type="aff" rid="clc22856-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="clc22856-cr-0006" contrib-type="author" corresp="yes"><name><surname>Nelson</surname><given-names>John R.</given-names></name><address><email>jr4nelson@yahoo.com</email></address><xref ref-type="aff" rid="clc22856-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="clc22856-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>Los Angeles Biomedical Research Institute</institution>
+<named-content content-type="city">Torrance, California</named-content>
+</aff><aff id="clc22856-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Internal Medicine, Intermountain Heart Institute</named-content>
+<institution>Intermountain Medical Center</institution>
+<named-content content-type="city">Murray</named-content>
+<named-content content-type="country-part">Utah</named-content>
+</aff><aff id="clc22856-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>University of Utah</institution>
+<named-content content-type="city">Salt Lake City</named-content>
+</aff><aff id="clc22856-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>California Cardiovascular Institute</institution>
+<named-content content-type="city">Fresno, California</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+John R. Nelson, MD, FACC, California Cardiovascular Institute, 7061 N. Whitney, Suite 101, Fresno, CA 93720 Email: <email>jr4nelson@yahoo.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>1</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2018</year></pub-date><volume>41</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/clc.2018.41.issue-1</issue-id><fpage>13</fpage><lpage>19</lpage><history><date date-type="received"><day>15</day><month>9</month><year>2017</year></date><date date-type="rev-recd"><day>17</day><month>11</month><year>2017</year></date><date date-type="accepted"><day>21</day><month>11</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Clinical Cardiology</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:CLC-41-13.pdf"/><abstract><p>Despite reducing progression and promoting regression of coronary atherosclerosis, statin therapy does not fully address residual cardiovascular (CV) risk. High&#x02010;purity eicosapentaenoic acid (EPA) added to a statin has been shown to reduce CV events and induce regression of coronary atherosclerosis in imaging studies; however, data are from Japanese populations without high triglyceride (TG) levels and baseline EPA serum levels greater than those in North American populations. Icosapent ethyl is a high&#x02010;purity prescription EPA ethyl ester approved at 4&#x02009;g/d as an adjunct to diet to reduce TG levels in adults with TG levels &#x0003e;499&#x02009;mg/dL. The objective of the randomized, double&#x02010;blind, placebo&#x02010;controlled EVAPORATE study is to evaluate the effects of icosapent ethyl 4&#x02009;g/d on atherosclerotic plaque in a North American population of statin&#x02010;treated patients with coronary atherosclerosis, TG levels of 200 to 499&#x02009;mg/dL, and low&#x02010;density lipoprotein cholesterol levels of 40 to 115&#x02009;mg/dL. The primary endpoint is change in low&#x02010;attenuation plaque volume measured by multidetector computed tomography angiography. Secondary endpoints include incident plaque rates; quantitative changes in different plaque types and morphology; changes in markers of inflammation, lipids, and lipoproteins; and the relationship between these changes and plaque burden and/or plaque vulnerability. Approximately 80 patients will be followed for 9 to 18&#x02009;months. The clinical implications of icosapent ethyl 4&#x02009;g/d treatment added to statin therapy on CV endpoints are being evaluated in the large CV outcomes study REDUCE&#x02010;IT. EVAPORATE will provide important imaging&#x02010;derived data that may add relevance to the clinically derived outcomes from REDUCE&#x02010;IT.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="clc22856-kwd-0001">Atherosclerosis</kwd><kwd id="clc22856-kwd-0002">Atherosclerotic Plaque</kwd><kwd id="clc22856-kwd-0003">Cardiovascular Imaging Techniques</kwd><kwd id="clc22856-kwd-0004">Eicosapentaenoic Acid</kwd><kwd id="clc22856-kwd-0005">Icosapent Ethyl</kwd></kwd-group><funding-group><award-group><funding-source>Amarin Pharma Inc., Bedminster, New Jersey.</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="2"/><page-count count="7"/><word-count count="5579"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>clc22856</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.2.2 mode:remove_FC converted:06.03.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="clc22856-cit-9001">
+<string-name>
+<surname>Budoff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brent Muhlestein</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>
+<given-names>VT</given-names>
+</string-name>, <string-name>
+<surname>May</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Effect of Vascepa (icosapent ethyl) on progression of coronary atherosclerosis in patients with elevated triglycerides (200&#x02013;499 mg/dL) on statin therapy: Rationale and design of the EVAPORATE study</article-title>. <source>Clin Cardiol</source>. <year>2018</year>;<volume>41</volume>:<fpage>13</fpage>&#x02013;<lpage>19</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/clc.22856">https://doi.org/10.1002/clc.22856</ext-link>
+<pub-id pub-id-type="pmid">29365351</pub-id></mixed-citation>
+</p><fn-group id="clc22856-ntgp-0101"><fn id="clc22856-note-0101"><p>
+<bold>Funding information</bold> The EVAPORATE trial is funded by Amarin Pharma Inc., Bedminster, New Jersey.</p></fn></fn-group></notes></front><body><sec id="clc22856-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Statin therapy is the cornerstone of cardiovascular (CV) risk management. Despite reducing the progression of coronary atherosclerosis and promoting its regression, statin therapy does not fully address residual CV risk.<xref rid="clc22856-bib-0001" ref-type="ref">1</xref> This underscores the need for additional intervention.</p><p>Eicosapentaenoic acid (EPA) is an omega&#x02010;3 polyunsaturated fatty acid that is incorporated into membrane phospholipids and atherosclerotic plaques. EPA exerts beneficial effects on the pathophysiologic cascade of plaque development, beginning from the onset of plaque formation through plaque rupture (Figure <xref rid="clc22856-fig-0001" ref-type="fig">1</xref>).<xref rid="clc22856-bib-0002" ref-type="ref">2</xref>, <xref rid="clc22856-bib-0003" ref-type="ref">3</xref> A number of specific salutary actions have been reported relating to endothelial function, oxidative stress, foam&#x02010;cell formation, inflammation, plaque formation/progression, platelet aggregation, thrombus formation, and plaque rupture (Figure <xref rid="clc22856-fig-0001" ref-type="fig">1</xref>).<xref rid="clc22856-bib-0002" ref-type="ref">2</xref> EPA&#x02010;enriched high&#x02010;density lipoprotein (HDL) particles, from patients with dyslipidemia treated with 1.8&#x02009;g of EPA and in reconstituted HDL particles, have been shown to increase cholesterol efflux from macrophages and markedly inhibit cytokine&#x02010;induced expression of adhesion molecules in human umbilical&#x02010;vein endothelial cells.<xref rid="clc22856-bib-0004" ref-type="ref">4</xref>, <xref rid="clc22856-bib-0005" ref-type="ref">5</xref> EPA also improves atherogenic dyslipidemia by reducing triglyceride (TG) levels and remnant cholesterol without raising low&#x02010;density lipoprotein cholesterol (LDL&#x02010;C) levels in patients with very high TG levels<xref rid="clc22856-bib-0006" ref-type="ref">6</xref> and in statin&#x02010;treated patients with high TG levels and high residual CV risk.<xref rid="clc22856-bib-0007" ref-type="ref">7</xref> High&#x02010;purity EPA has been shown to induce beneficial effects on and regression of atherosclerotic plaque in preclinical studies utilizing animal models of atherosclerosis as well as in a range of clinical imaging studies, some of which included statin&#x02010;treated patients.<xref rid="clc22856-bib-0008" ref-type="ref">8</xref> In the Japan EPA Lipid Intervention Study (JELIS) of &#x0003e;18 000 statin&#x02010;treated Japanese patients with hypercholesterolemia, 1.8&#x02009;g/d of high&#x02010;purity EPA significantly reduced the relative risk of major coronary events by 19% (<italic>P</italic>&#x02009;=&#x02009;0.011) compared with placebo.<xref rid="clc22856-bib-0009" ref-type="ref">9</xref> Together, the multifaceted data from mechanistic, pathophysiologic, outcomes, and plaque&#x02010;imaging studies support the biologic plausibility of EPA as an antiatherosclerotic agent.<xref rid="clc22856-bib-0002" ref-type="ref">2</xref>, <xref rid="clc22856-bib-0008" ref-type="ref">8</xref> However, much of the outcomes and plaque&#x02010;imaging data are from Japanese populations without high TG levels, and in whom baseline EPA serum levels are greater than those of Western or North American populations.</p><fig fig-type="Figure" xml:lang="en" id="clc22856-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The potential effects of EPA on atherosclerosis. Atherosclerosis is a multistep process ranging from endothelial dysfunction to plaque development, progression, and rupture, leading to thrombus formation and cardiovascular events.<xref rid="clc22856-bib-0002" ref-type="ref">2</xref>, <xref rid="clc22856-bib-0003" ref-type="ref">3</xref> EPA has been reported to have beneficial effects on multiple atherosclerosis processes including endothelial function, oxidative stress, foam&#x02010;cell formation, inflammation/cytokines, plaque formation/progression, platelet aggregation, thrombus formation, and plaque rupture.<xref rid="clc22856-bib-0002" ref-type="ref">2</xref> Abbreviations: CE, cholesteryl ester; EPA, eicosapentaenoic acid; HDL, high&#x02010;density lipoprotein; IFN, interferon; IL, interleukin; LDL, low&#x02010;density lipoprotein; MMP, matrix metalloproteinase; ox&#x02010;LDL, oxidized low&#x02010;density lipoprotein; SMC, smooth muscle cell; TG, triglycerides</p></caption><graphic id="nlm-graphic-1" xlink:href="CLC-41-13-g001"/></fig><p>Icosapent ethyl (Vascepa; Amarin Pharma Inc., Bedminster, NJ) is a high&#x02010;purity prescription EPA ethyl ester approved by the US Food and Drug Administration at a dose of 4&#x02009;g/d as an adjunct to diet for the reduction of TG levels in adults with TG levels &#x02265;500&#x02009;mg/dL.<xref rid="clc22856-bib-0010" ref-type="ref">10</xref> Icosapent ethyl 4&#x02009;g/d has been shown to increase serum EPA levels in a Western population to levels similar to those observed in the Japanese population from JELIS.<xref rid="clc22856-bib-0011" ref-type="ref">11</xref> Icosapent ethyl 4&#x02009;g/d has also been shown to reduce the levels of TG and other atherogenic and inflammatory parameters without raising LDL&#x02010;C levels, as compared with placebo, in patients with very high TG levels and in statin&#x02010;treated patients with high TG levels and high CV risk.<xref rid="clc22856-bib-0006" ref-type="ref">6</xref>, <xref rid="clc22856-bib-0007" ref-type="ref">7</xref>, <xref rid="clc22856-bib-0012" ref-type="ref">12</xref>, <xref rid="clc22856-bib-0013" ref-type="ref">13</xref>, <xref rid="clc22856-bib-0014" ref-type="ref">14</xref> It is unknown whether adding icosapent ethyl to a statin will further reduce the progression of coronary atherosclerosis in Western/North American populations with residually high TG levels.</p><p>The objective of the Effect of Vascepa on Improving Coronary Atherosclerosis in People With High Triglycerides Taking Statin Therapy (EVAPORATE; NCT02926027) study is to evaluate the effects of icosapent ethyl 4&#x02009;g/d on low&#x02010;attenuation plaque volume via multidetector computed tomography angiography (MDCTA) in a North American population of statin&#x02010;treated patients with elevated TG levels (200&#x02013;499&#x02009;mg/dL). We hypothesized that icosapent ethyl 4&#x02009;g/d in combination with statin therapy would reduce the progression of low&#x02010;attenuation plaque volume over 9 to 18&#x02009;months compared with the use of statin therapy alone.</p></sec><sec id="clc22856-sec-0002"><label>2</label><title>METHODS</title><sec id="clc22856-sec-0003"><label>2.1</label><title>Study design</title><p>EVAPORATE is a randomized, double&#x02010;blind, placebo&#x02010;controlled trial being conducted at 2 centers in the United States. Eligible patients will be randomly assigned to icosapent ethyl 4&#x02009;g/d or placebo (light liquid paraffin, matched for color, size, shape, weight, and odor) in a 1:1 fashion. Patients will be followed for &#x02265;9&#x02009;months or up to 18&#x02009;months (if efficacy is not achieved at 9&#x02009;months).</p><p>At baseline, patients will undergo a physical examination and an evaluation of blood pressure, height, weight, and laboratory blood testing. Cardiac computed tomography angiography (CCTA), using state&#x02010;of&#x02010;the&#x02010;art MDCTA technology, will be used to evaluate coronary plaque volume/composition (for additional details see Supporting Information, Appendix, in the online version of this article). The evaluations of plaque using CCTA will be repeated at month 9 and, if needed, at month 18. Adverse events will be monitored throughout the study. The trial schema is shown in Figure <xref rid="clc22856-fig-0002" ref-type="fig">2</xref>.</p><fig fig-type="Figure" xml:lang="en" id="clc22856-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>EVAPORATE study design. At baseline and 9&#x02009;months, assessments will include BP, height, weight, laboratory blood testing, physical examinations, MDCTA (to assess progression of low&#x02010;attenuation plaque volume), and safety evaluation. Safety will also be assessed at 3&#x02009;months for all patients and at 15&#x02009;months for patients continuing for a total of 18&#x02009;months of treatment. *If a statistician and the Data Safety and Monitoring Board find that efficacy is not achieved at 9&#x02009;months, patients will be followed for an additional 9&#x02009;months to assess progression of low&#x02010;attenuation plaque volume by MDCTA. If a P value of &#x02264;0.006 is achieved at 9&#x02009;months, then the study will terminate because the efficacy boundary will have been achieved. Abbreviations: BP, blood pressure; EVAPORATE, Effect of Vascepa on Improving Coronary Atherosclerosis in People With High Triglycerides Taking Statin Therapy study; MDCTA, multi&#x02010;detector computed tomography angiography</p></caption><graphic id="nlm-graphic-3" xlink:href="CLC-41-13-g002"/></fig></sec><sec id="clc22856-sec-0004"><label>2.2</label><title>Study population</title><p>Major study inclusion and exclusion criteria are summarized in Table <xref rid="clc22856-tbl-0001" ref-type="table-wrap">1</xref>. Briefly, eligible patients will be age 30 to 85&#x02009;years with coronary atherosclerosis (narrowing of &#x02265;20% in 1 coronary artery by either invasive angiography or MDCTA) and elevated fasting TG levels (200&#x02013;499&#x02009;mg/dL) and LDL&#x02010;C levels &#x02265;40 and &#x02264;115&#x02009;mg/dL. Statin therapy (with or without ezetimibe) as well as diet and exercise must be stable for &#x02265;4&#x02009;weeks prior to study entry.</p><table-wrap id="clc22856-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>EVAPORATE key inclusion and exclusion criteria</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Inclusion Criteria</th><th align="left" valign="bottom" rowspan="1" colspan="1">Exclusion Criteria</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age 30&#x02013;85 y</td><td align="left" valign="top" rowspan="1" colspan="1">Use of medications or dietary supplements that may alter plasma lipids</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Elevated TG (200&#x02013;499&#x02009;mg/dL)</td><td align="left" valign="top" rowspan="1" colspan="1">BMI &#x0003e;40&#x02009;kg/m<sup>2</sup>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LDL&#x02010;C&#x02009;&#x02265;40 and &#x02264;115&#x02009;mg/dL on statin therapy</td><td align="left" valign="top" rowspan="1" colspan="1">History of known MI, stroke, life&#x02010;threatening arrhythmia, or HF</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stable diet and exercise</td><td align="left" valign="top" rowspan="1" colspan="1">Pregnancy</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stable treatment with a statin &#x000b1; ezetimibe</td><td align="left" valign="top" rowspan="1" colspan="1">Known genetic mutations/polymorphisms that affect plasma lipids</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patients with narrowing of &#x02265;20% in 1 coronary artery by invasive angiography or MDCTA</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Written informed consent</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="clc22856-note-0002"><p>Abbreviations: BMI, body mass index; EVAPORATE, Effect of Vascepa on Improving Coronary Atherosclerosis in People With High Triglycerides Taking Statin Therapy study; HF, heart failure; LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol; MDCTA, multi&#x02010;detector computed tomography angiography; MI, myocardial infarction; TG, triglycerides.</p></fn></table-wrap-foot></table-wrap></sec><sec id="clc22856-sec-0005"><label>2.3</label><title>Study endpoints</title><p>The primary endpoint is the rate of change in low&#x02010;attenuation plaque volume (defined as &#x02212;50 to 50 Hounsfield units [HU]; see Supporting Information, Appendix, in the online version of this article for details) from baseline to final assessment as measured by MDCTA. Secondary endpoints are shown in Table <xref rid="clc22856-tbl-0002" ref-type="table-wrap">2</xref>. These cutoff values were initially based on Brodoefel and empirically optimized using 3 representative training sets.</p><table-wrap id="clc22856-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>EVAPORATE study endpoints</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Primary endpoint</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Change in low&#x02010;attenuation plaque volume as measured by MDCTA and defined as &#x02212;50 to 50 HU</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Secondary endpoints</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Incident plaque rates; quantitative changes in different plaque types and morphology</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Changes in markers of inflammation including Lp&#x02010;PLA<sub>2</sub> and hsCRP</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Changes in lipids and lipoproteins including standard lipid panel, lipoproteins, remnants, Apo&#x02010;A1/remnant ratio, EPA, AA, and EPA/AA ratio</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Relationship between changes in the above with noncalcified coronary plaque burden and/or plaque&#x02010;vulnerability features</td></tr></tbody></table><table-wrap-foot><fn id="clc22856-note-0003"><p>Abbreviations: AA, arachidonic acid; Apo&#x02010;A1, apolipoprotein A1; EPA, eicosapentaenoic acid; EVAPORATE, Effect of Vascepa on Improving Coronary Atherosclerosis in People With High Triglycerides Taking Statin Therapy study; hsCRP, high&#x02010;sensitivity C&#x02010;reactive protein; HU, Hounsfield units; Lp&#x02010;PLA<sub>2</sub>, lipoprotein&#x02010;associated phospholipase A<sub>2</sub>; MDCTA, multidetector computed tomography angiography.</p></fn></table-wrap-foot></table-wrap></sec><sec id="clc22856-sec-0006"><label>2.4</label><title>Statistical design and analysis</title><p>Assuming 80% power and an &#x003b1; of 0.05, a total of 70 patients (35 per arm) are needed to evaluate the primary outcome of the study (East, version 6.3; Cytel, Cambridge, MA). Assuming a 15% dropout rate, a total of 80 (40 per arm) patients are to be enrolled. The initial study sample size was estimated based on MDCTA data showing 24%&#x02009;&#x000b1;&#x02009;13% reduction in coronary artery plaque volume with moderate&#x02010;dose statin therapy.<xref rid="clc22856-bib-0015" ref-type="ref">15</xref> It is assumed that an 8% reduction in plaque volume (one&#x02010;third that seen with statin therapy) would be the minimally important change in noncalcified plaque volume based on past data; multiple studies have shown similar progression/regression rates with different therapies.<xref rid="clc22856-bib-0016" ref-type="ref">16</xref>, <xref rid="clc22856-bib-0017" ref-type="ref">17</xref>, <xref rid="clc22856-bib-0018" ref-type="ref">18</xref>, <xref rid="clc22856-bib-0019" ref-type="ref">19</xref> Further data have been obtained using low&#x02010;attenuation plaque volume in both MDCTA and intravascular ultrasound (IVUS) studies. In an integrated backscatter IVUS (IB&#x02010;IVUS) study by Niki et al., a statistically significant lipid volume decrease was seen at 6&#x02009;months in the EPA&#x02009;+&#x02009;statin group from 18.5&#x02009;mm<sup>3</sup> (baseline) to 15.0&#x02009;mm<sup>3</sup> (follow&#x02010;up), vs an increase from 17.8&#x02009;mm<sup>3</sup> (baseline) to 19.3&#x02009;mm<sup>3</sup> (follow&#x02010;up) in those treated with statin alone (<italic>P</italic>&#x02009;=&#x02009;0.013 for difference between EPA vs control).<xref rid="clc22856-bib-0020" ref-type="ref">20</xref> In the Combination Therapy of Eicosapentaenoic Acid and Pitavastatin for Coronary Plaque Regression Evaluated by Integrated Backscatter Intravascular Ultrasonography (CHERRY) study, plaque regression was defined as &#x0003e;14.6% decrease based on percent change in plaque volume observed in a cohort of acute coronary syndrome (ACS) patients undergoing percutaneous intervention and sequential IVUS evaluation over 6&#x02009;months.<xref rid="clc22856-bib-0021" ref-type="ref">21</xref> The prevalence of total atheroma volume regression was significantly higher in the EPA&#x02009;+&#x02009;pitavastatin group vs the pitavastatin&#x02010;alone group (81% vs 61%; <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.002 for difference).<xref rid="clc22856-bib-0022" ref-type="ref">22</xref> In the EPA arms in these 2 studies, plaque lipid volume decreased by approximately 11% to 19%. In an MDCTA study of EPA vs ezetimibe, there was a decrease in what was believed to be the percent lipid or fatty plaque volume from 29.2 to 25.1 (&#x02212;14%, calculated by percent change from baseline to follow&#x02010;up in plaque volume ranging from &#x02212;50 to 50 HU for EPA&#x02010;treated groups); the same range of &#x02212;50 to 50 HU will be used in the EVAPORATE study to represent low&#x02010;attenuation plaque volume (for additional details see Supporting Information, Appendix, in the online version of this article).</p><p>Assuming an average of 1.7 measurable plaques per patient, with intrapatient plaque correlation of 0.24,<xref rid="clc22856-bib-0023" ref-type="ref">23</xref> 70 patients would provide power of 0.80 and a 1&#x02010;sided type 1 error of 0.05 to detect an 8% difference in plaque volume between the active and placebo groups.</p><p>The primary analysis will utilize intent&#x02010;to&#x02010;treat principles, with study subjects analyzed by assigned treatment group regardless of study drug adherence. Changes from baseline will be calculated with 95% confidence intervals. Statistical tests for outcomes will report 1&#x02010;sided <italic>P</italic> values (&#x003b1;: &#x0003c;0.048).</p><p>An interim analysis will be conducted at 9&#x02009;months using the Lan&#x02010;DeMets version of the O'Brien&#x02010;Fleming group sequential boundaries for a 2&#x02010;look sequential design (1 interim at 9&#x02009;months + final analysis). For the interim analysis, the statistical power to test the primary study endpoint is 80% based on a sample size of 70 patients randomized in a 1:1 allocation ratio and an overall experimental type 1 error equal to 0.05 using a 1&#x02010;sided hypothesis test. If a <italic>P</italic> value of &#x02264;0.006 is achieved at 9&#x02009;months, then the study will terminate because the efficacy boundary will have been achieved.</p><p>A sensitivity analysis will be performed on the group of patients adhering to interventions for &#x0003e;80% of the duration of the study. Baseline analysis and comparison between treatment arms will include demographics, coronary risk factors, atherosclerotic CV disease risk factors, laboratory tests, coronary calcium, and coronary plaque volume/composition.</p><p>Baseline characteristics will be presented as mean and SD or median and interquartile range. Differences in baseline characteristics between groups will use analysis of variance (ANOVA) for normally distributed continuous traits and the &#x003c7;<sup>2</sup> or Fisher exact test for categorical variables. For normally distributed continuous outcomes, including percent change in low&#x02010;attenuation plaque, mean percent group differences will be estimated using linear mixed models with baseline value, time, and treatment group as fixed effects. Least squares means will be estimated from the models. Models evaluating per&#x02010;patient outcomes will include fixed effects. Natural log&#x02010;transformations will be used for variables with log&#x02010;normal distributions. For the analyses of the primary and secondary efficacy variables, the statistical modeling assumptions will be examined. If significant departures from normality (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01 for the Shapiro&#x02013;Wilk test) and/or homogeneity of variance are observed, the nonparametric analysis approach will be considered. When parametric and nonparametric results do not corroborate each other, the results from the nonparametric analysis will be used. Otherwise, the parametric analysis will be reported.</p></sec><sec id="clc22856-sec-0007"><label>2.5</label><title>Compliance</title><p>After randomization, participants will be evaluated at 3, 9, and 12&#x02009;months, and, if needed, at 15&#x02009;months (by phone) and 18&#x02009;months to assess compliance with study medication. Patients will return with pill bottles, and counts of remaining medications will be made at each visit.</p></sec><sec id="clc22856-sec-0008"><label>2.6</label><title>Ethical considerations and study organization</title><p>The study is being conducted in compliance with institutional review boards/institutional ethics committees, the principles of the Declaration of Helsinki, the International Conference on Harmonisation Good Clinical Practice guidelines, and relevant local laws and regulations. All patients will provide written informed consent. The Data Safety Monitoring Board will meet at 6&#x02010;month intervals to monitor study progress, safety, and efficacy. Study organization and leadership details are available in Supporting Information, Appendix, in the online version of this article.</p></sec><sec id="clc22856-sec-0009"><label>2.7</label><title>Study status</title><p>At the time of writing of this manuscript, the study was approximately 50% enrolled with an estimated study completion in the third quarter of 2019.</p></sec></sec><sec id="clc22856-sec-0010"><label>3</label><title>DISCUSSION</title><p>Multiple lines of evidence support a strong rationale for the biologic plausibility of EPA as an antiatherosclerotic agent capable of improving CV outcomes and reducing residual risk on top of statin therapy by directly affecting atherosclerotic plaque. However, many of these supporting studies were in Japanese populations without elevated TG levels. The EVAPORATE study, which uses medical imaging to follow atherosclerosis, is specifically designed to evaluate the effects of high&#x02010;purity prescription EPA (icosapent ethyl) 4&#x02009;g/d on atherosclerotic plaque using state&#x02010;of&#x02010;the&#x02010;art MDCTA imaging in a North American population of statin&#x02010;treated patients with elevated TG levels (200&#x02013;499&#x02009;mg/dL).</p><p>The present trial was designed using a number of markers that have never been studied in the context of low&#x02010;attenuation plaque following treatment with EPA in a Western population. These include serum EPA levels and the EPA/arachidonic acid (AA) ratio, both of which have been shown to beneficially affect plaque and CV events in a Japanese population.<xref rid="clc22856-bib-0024" ref-type="ref">24</xref> However, a meta&#x02010;analysis of large randomized controlled studies suggests that blood levels of AA may have an inverse relationship with CV outcomes.<xref rid="clc22856-bib-0025" ref-type="ref">25</xref> The meta&#x02010;analysis did not evaluate the relationship between the EPA/AA ratio and CV outcomes; therefore, the significance of these findings on the present study is not known. Additionally, studies of the apolipoprotein A1/remnant ratio have been limited,<xref rid="clc22856-bib-0026" ref-type="ref">26</xref>, <xref rid="clc22856-bib-0027" ref-type="ref">27</xref> and the relationship between this ratio and low&#x02010;attenuation plaque has not yet been published to our knowledge.</p><p>Prior imaging studies of the effects of EPA on atherosclerotic plaque using angiography, IVUS, IB&#x02010;IVUS, carotid ultrasound, and optical coherence tomography have begun to elucidate the role of EPA intervention in atherosclerotic disease<xref rid="clc22856-bib-0008" ref-type="ref">8</xref>; data regarding MDCTA are presently limited to congress abstracts and non&#x02010;Western populations.<xref rid="clc22856-bib-0028" ref-type="ref">28</xref>, <xref rid="clc22856-bib-0029" ref-type="ref">29</xref> In a study of 43 Japanese patients with 51 lesions and suspected coronary artery disease, patients were treated with either EPA or ezetimibe; MDCTA evaluations were conducted at baseline and at 1&#x02009;year.<xref rid="clc22856-bib-0028" ref-type="ref">28</xref> EPA&#x02010;treated patients experienced significant reductions in soft&#x02010;plaque volume compared with ezetimibe&#x02010;treated patients (&#x02212;50 to 0 HU component; <italic>P</italic>&#x02009;=&#x02009;0.036 for difference between EPA and ezetimibe).<xref rid="clc22856-bib-0028" ref-type="ref">28</xref> Significant reductions in plaque area (<italic>P</italic>&#x02009;=&#x02009;0.017) and lumen area (<italic>P</italic>&#x02009;=&#x02009;0.004) were also observed in the EPA&#x02010;treated group compared with the ezetimibe group.<xref rid="clc22856-bib-0028" ref-type="ref">28</xref> Additionally, the incidence of major coronary events was significantly lower (<italic>P</italic>&#x02009;=&#x02009;0.03) in the EPA group (9.5%) compared with the ezetimibe group (36.4%).<xref rid="clc22856-bib-0028" ref-type="ref">28</xref> The data suggest that EPA played a beneficial role in coronary plaque stabilization. Another Japanese study assessed plaque progression in ACS patients treated with EPA (n&#x02009;=&#x02009;33) or EPA&#x02009;+&#x02009;docosahexaenoic acid (DHA; n&#x02009;=&#x02009;29) and in untreated control patients (n&#x02009;=&#x02009;20) via serial CCTA at baseline and at 1&#x02009;year.<xref rid="clc22856-bib-0029" ref-type="ref">29</xref> All patients were on statin therapy after the baseline assessment. After 1&#x02009;year, there was a significant difference in the progression of plaque between the 3 groups (<italic>P</italic>&#x02009;=&#x02009;0.0061), with progression observed in 3%, 14%, and 35% of patients in the EPA, EPA&#x02009;+&#x02009;DHA, and control groups, respectively.<xref rid="clc22856-bib-0029" ref-type="ref">29</xref> Another study worth noting is the recent HEARTS study of statin&#x02010;treated patients with stable coronary artery disease and well&#x02010;controlled LDL&#x02010;C, which demonstrated that high&#x02010;dose EPA&#x02009;+&#x02009;DHA prevented the progression of fibrous coronary plaque volume over 30&#x02009;months compared with statin alone using CCTA.<xref rid="clc22856-bib-0030" ref-type="ref">30</xref>
+</p><p>The use of MDCTA allows for the noninvasive examination of plaque composition, severity of vessel stenosis, plaque volume, and extent of remodeling.<xref rid="clc22856-bib-0031" ref-type="ref">31</xref> MDCTA also can measure plaque burden.<xref rid="clc22856-bib-0032" ref-type="ref">32</xref> The technique is now used in clinical investigations evaluating a range of therapies including testosterone, garlic, statins, hormone replacement, anti&#x02010;inflammatory agents, and antidiabetes agents. MDCTA yields high reproducibility of measurements<xref rid="clc22856-bib-0033" ref-type="ref">33</xref> and allows for evaluation of the entire coronary tree. Although MDCTA is a relatively new technique, it has been shown to have high reproducibility, with &#x0003c;1% variability for measuring noncalcified and calcified plaque volume and &#x0003c;15% variability for total plaque.<xref rid="clc22856-bib-0034" ref-type="ref">34</xref> MDCTA also has been shown to correlate with IVUS in measuring lipid plaque volume.<xref rid="clc22856-bib-0035" ref-type="ref">35</xref>, <xref rid="clc22856-bib-0036" ref-type="ref">36</xref> In addition, a study by Nakanishi et al<xref rid="clc22856-bib-0037" ref-type="ref">37</xref> showed for the first time that nonobstructive low&#x02010;attenuation plaques, visualized on MDCT, were associated with ACS events during 3&#x02009;years of follow&#x02010;up in patients with hypertension and were a more powerful predictor than traditional risk factors, including Framingham risk score, carotid intima&#x02010;media thickness, and left ventricular mass index.</p><p>Cardiovascular outcomes in North American patients treated with high&#x02010;dose icosapent ethyl (4&#x02009;g/d) are being investigated in the Reduction of Cardiovascular Events With Icosapent Ethyl&#x02013;Intervention Trial (REDUCE&#x02010;IT; NCT01492361).<xref rid="clc22856-bib-0038" ref-type="ref">38</xref> REDUCE&#x02010;IT is a phase 3b, international, randomized, double&#x02010;blind, placebo&#x02010;controlled study that is evaluating whether treatment with icosapent ethyl reduces ischemic events in a statin&#x02010;treated patient population similar to that of the EVAPORATE study (TG levels &#x02265;150&#x02009;mg/dL and &#x0003c;500&#x02009;mg/dL, LDL&#x02010;C levels &#x0003e;40&#x02009;mg/dL and &#x02264;100&#x02009;mg/dL, and at elevated CV risk). Of note, whereas EVAPORATE will utilize medical imaging data, REDUCE&#x02010;IT focuses on clinical CV event outcomes.<xref rid="clc22856-bib-0038" ref-type="ref">38</xref> REDUCE&#x02010;IT has randomized approximately 8000 patients and is nearing completion, with final results anticipated to be reported during 2018.<xref rid="clc22856-bib-0038" ref-type="ref">38</xref> The populations studied in EVAPORATE and REDUCE&#x02010;IT represent a relatively large population: based on approximations from large CV outcomes trials including or limited to patients with type 2 diabetes mellitus, roughly 25% to 40% of patients had TG levels &#x02265;150&#x02009;mg/dL and LDL&#x02010;C levels &#x0003c;100&#x02009;mg/dL, and roughly 15% to 20% of patients had TG levels &#x02265;200&#x02009;mg/dL and LDL&#x02010;C levels &#x0003c;100&#x02009;mg/dL.<xref rid="clc22856-bib-0039" ref-type="ref">39</xref>, <xref rid="clc22856-bib-0040" ref-type="ref">40</xref>, <xref rid="clc22856-bib-0041" ref-type="ref">41</xref>, <xref rid="clc22856-bib-0042" ref-type="ref">42</xref>, <xref rid="clc22856-bib-0043" ref-type="ref">43</xref> Another study of interest is the ongoing global Statin Residual Risk Reduction with Epanova in High CV Risk Patients with Hypertriglyceridemia trial (STRENGTH; NCT02104817), which is evaluating the effects of a DHA&#x02009;+&#x02009;EPA combination product (omega&#x02010;3 carboxylic acids; high dose) on CV outcomes in patients with TG levels &#x02265;180&#x02009;mg/dL and &#x0003c;500&#x02009;mg/dL and LDL&#x02010;C levels &#x0003c;100&#x02009;mg/dL. As STRENGTH will be evaluating the combination of EPA and DHA, the findings from EVAPORATE may not directly or indirectly inform the findings.</p><p>The findings of the EVAPORATE study will add to our understanding of the role of EPA intervention in the treatment of atherosclerotic plaque in that the study will assess statin&#x02010;treated patients using MDCTA and high&#x02010;purity EPA (icosapent ethyl) at a dose known to raise plasma EPA to levels similar to those observed in JELIS, which demonstrated significant reduction in risk of major coronary events in Japanese patients. EVAPORATE may also contribute to the understanding of the pathophysiologic underpinnings of the results of the EPA&#x02010;only REDUCE&#x02010;IT study.</p></sec><sec id="clc22856-sec-0011"><label>4</label><title>CONCLUSION</title><p>EVAPORATE will be the first study using MDCTA to evaluate the effects of icosapent ethyl on atherosclerotic plaque as an adjunct to statin therapy in a North American population with persistent high TG levels, and it will assess whether these effects correlate with lipid changes and inflammatory markers. The clinical implications of icosapent ethyl 4&#x02009;g/d as an adjunct to statin therapy on CV endpoints are also being evaluated in the large CV outcomes study REDUCE&#x02010;IT. EVAPORATE will provide important mechanistic data that may have relevance to the REDUCE&#x02010;IT results.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="clc22856-supitem-0001"><caption><p>Appendix S1 <bold>Appendix (On&#x02010;line)</bold>
+</p></caption><media xlink:href="CLC-41-13-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="clc22856-sec-0012"><title>ACKNOWLEDGMENTS</title><p>The EVAPORATE trial is sponsored by Los Angeles Biomedical Research Institute, with the Intermountain Research and Medical Foundation as the collaborator. Amarin Pharma Inc., Bedminster, New Jersey, funded the trial and provided the trial drugs but had/will have no role in the design or conduct of the trial or the analysis of the data. Medical&#x02010;writing assistance was provided by Peloton Advantage, LLC, Parsippany, New Jersey, and was funded by Amarin Pharma Inc. Medical scientific reference checks and associated assistance were provided by Sephy Philip, RPh, PharmD, and Megan Montgomery, PhD, of Amarin Pharma Inc. Amarin Pharma Inc. had no role in the approval of this manuscript or the decision to submit it for publication.</p><sec id="clc22856-sec-0013" sec-type="COI-statement"><title>Conflicts of interest</title><p>Dr. Budoff, speakers bureau for Amarin. Dr. Nelson, speakers bureau, advisory board, and stock in Amarin; speakers bureau and research support from Boston Heart Diagnostics. The authors declare no other potential conflicts of interest.</p></sec></ack><ref-list id="clc22856-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="clc22856-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="clc22856-cit-0002">
+<string-name>
+<surname>Fruchart</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Davignon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hermans</surname>
+<given-names>MP</given-names>
+</string-name>, et al; <article-title>Residual Risk Reduction Initiative. Residual macrovascular risk in 2013: what have we learned?</article-title>
+<source>Cardiovasc Diabetol.</source>
+<year>2014</year>;<volume>13</volume>:<fpage>26</fpage>.<pub-id pub-id-type="pmid">24460800</pub-id></mixed-citation></ref><ref id="clc22856-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="clc22856-cit-0003">
+<string-name>
+<surname>Borow</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Mason</surname>
+<given-names>RP</given-names>
+</string-name>. <article-title>Biologic plausibility, cellular effects, and molecular mechanisms of eicosapentaenoic acid (EPA) in atherosclerosis</article-title>. <source>Atherosclerosis.</source>
+<year>2015</year>;<volume>242</volume>:<fpage>357</fpage>&#x02013;<lpage>366</lpage>.<pub-id pub-id-type="pmid">26253795</pub-id></mixed-citation></ref><ref id="clc22856-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="clc22856-cit-0004">
+<string-name>
+<surname>Toth</surname>
+<given-names>PP</given-names>
+</string-name>. <article-title>Triglyceride&#x02010;rich lipoproteins as a causal factor for cardiovascular disease</article-title>. <source>Vasc Health Risk Manag.</source>
+<year>2016</year>;<volume>12</volume>:<fpage>171</fpage>&#x02013;<lpage>183</lpage>.<pub-id pub-id-type="pmid">27226718</pub-id></mixed-citation></ref><ref id="clc22856-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="clc22856-cit-0005">
+<string-name>
+<surname>Tanaka</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ishida</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nagao</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Administration of high dose eicosapentaenoic acid enhances anti&#x02010;inflammatory properties of high&#x02010;density lipoprotein in Japanese patients with dyslipidemia</article-title>. <source>Atherosclerosis.</source>
+<year>2014</year>;<volume>237</volume>:<fpage>577</fpage>&#x02013;<lpage>583</lpage>.<pub-id pub-id-type="pmid">25463091</pub-id></mixed-citation></ref><ref id="clc22856-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="clc22856-cit-0006">
+<string-name>
+<surname>Tanaka</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Irino</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shinohara</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Eicosapentaenoic acid&#x02013;enriched high&#x02010;density lipoproteins exhibit anti&#x02010;atherogenic properties</article-title>. <source>Circ J.</source>
+<year>2017</year>. doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1253/circj.CJ-17-0294">https://doi.org/10.1253/circj.CJ-17-0294</ext-link>.</mixed-citation></ref><ref id="clc22856-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="clc22856-cit-0007">
+<string-name>
+<surname>Bays</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Ballantyne</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Kastelein</surname>
+<given-names>JJ</given-names>
+</string-name>, et al. <article-title>Eicosapentaenoic acid ethyl ester (AMR101) therapy in patients with very high triglyceride levels (from the Multi&#x02010;Center, Placebo&#x02010;Controlled, Randomized, Double&#x02010;Blind, 12&#x02010;Week Study With an Open&#x02010;Label Extension [MARINE] trial)</article-title>. <source>Am J Cardiol.</source>
+<year>2011</year>;<volume>108</volume>:<fpage>682</fpage>&#x02013;<lpage>690</lpage>.<pub-id pub-id-type="pmid">21683321</pub-id></mixed-citation></ref><ref id="clc22856-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="clc22856-cit-0008">
+<string-name>
+<surname>Ballantyne</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Bays</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Kastelein</surname>
+<given-names>JJ</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of eicosapentaenoic acid ethyl ester (AMR101) therapy in statin&#x02010;treated patients with persistent high triglycerides (from the ANCHOR study)</article-title>. <source>Am J Cardiol.</source>
+<year>2012</year>;<volume>110</volume>:<fpage>984</fpage>&#x02013;<lpage>992</lpage>.<pub-id pub-id-type="pmid">22819432</pub-id></mixed-citation></ref><ref id="clc22856-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="clc22856-cit-0009">
+<string-name>
+<surname>Nelson</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Wani</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>May</surname>
+<given-names>HT</given-names>
+</string-name>, et al. <article-title>Potential benefits of eicosapentaenoic acid on atherosclerotic plaques</article-title>. <source>Vascul Pharmacol.</source>
+<year>2017</year>;<volume>91</volume>:<fpage>1</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">28263852</pub-id></mixed-citation></ref><ref id="clc22856-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="clc22856-cit-0010">
+<string-name>
+<surname>Yokoyama</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Origasa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Matsuzaki</surname>
+<given-names>M</given-names>
+</string-name>, <article-title>et al; JELIS Investigators. Effects of eicosapentaenoic acid on major coronary events in hypercholesterolaemic patients (JELIS): a randomised open&#x02010;label, blinded endpoint analysis [published correction appears in <italic>Lancet.</italic> 2007;370:220]</article-title>. <source>Lancet.</source>
+<year>2007</year>;<volume>369</volume>:<fpage>1090</fpage>&#x02013;<lpage>1098</lpage>.<pub-id pub-id-type="pmid">17398308</pub-id></mixed-citation></ref><ref id="clc22856-bib-0010"><label>10</label><mixed-citation publication-type="miscellaneous" id="clc22856-cit-0011">Vascepa [package insert]. Bedminster, NJ: Amarin Pharma Inc.; 2017.</mixed-citation></ref><ref id="clc22856-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="clc22856-cit-0012">
+<string-name>
+<surname>Bays</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Ballantyne</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Doyle</surname>
+<given-names>RT</given-names>
+<suffix>Jr</suffix>
+</string-name>, et al. <article-title>Icosapent ethyl: eicosapentaenoic acid concentration and triglyceride&#x02010;lowering effects across clinical studies</article-title>. <source>Prostaglandins Other Lipid Mediat.</source>
+<year>2016</year>;<volume>125</volume>:<fpage>57</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">27418543</pub-id></mixed-citation></ref><ref id="clc22856-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="clc22856-cit-0013">
+<string-name>
+<surname>Bays</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Ballantyne</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Braeckman</surname>
+<given-names>RA</given-names>
+</string-name>, et al. <article-title>Icosapent ethyl, a pure ethyl ester of eicosapentaenoic acid: effects on circulating markers of inflammation from the MARINE and ANCHOR studies</article-title>. <source>Am J Cardiovasc Drugs.</source>
+<year>2013</year>;<volume>13</volume>:<fpage>37</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">23325450</pub-id></mixed-citation></ref><ref id="clc22856-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="clc22856-cit-0014">
+<string-name>
+<surname>Ballantyne</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Bays</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Philip</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Icosapent ethyl (eicosapentaenoic acid ethyl ester): effects on remnant&#x02010;like particle cholesterol from the MARINE and ANCHOR studies</article-title>. <source>Atherosclerosis.</source>
+<year>2016</year>;<volume>253</volume>:<fpage>81</fpage>&#x02013;<lpage>87</lpage>.<pub-id pub-id-type="pmid">27596132</pub-id></mixed-citation></ref><ref id="clc22856-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="clc22856-cit-0015">
+<string-name>
+<surname>Ballantyne</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Bays</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Braeckman</surname>
+<given-names>RA</given-names>
+</string-name>, et al. <article-title>Icosapent ethyl (eicosapentaenoic acid ethyl ester): effects on plasma apolipoprotein C&#x02010;III levels in patients from the MARINE and ANCHOR studies</article-title>. <source>J Clin Lipidol</source>. <year>2016</year>;<volume>10</volume>:<fpage>635.e1</fpage>&#x02013;<lpage>645.e1</lpage>.<pub-id pub-id-type="pmid">27206952</pub-id></mixed-citation></ref><ref id="clc22856-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="clc22856-cit-0016">
+<string-name>
+<surname>Burgstahler</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Reimann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Beck</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Influence of a lipid&#x02010;lowering therapy on calcified and noncalcified coronary plaques monitored by multislice detector computed tomography: results of the New Age II Pilot Study</article-title>. <source>Invest Radiol.</source>
+<year>2007</year>;<volume>42</volume>:<fpage>189</fpage>&#x02013;<lpage>195</lpage>.<pub-id pub-id-type="pmid">17287649</pub-id></mixed-citation></ref><ref id="clc22856-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="clc22856-cit-0017">
+<string-name>
+<surname>Matsumoto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ibrahim</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gr&#x000e9;goire</surname>
+<given-names>JC</given-names>
+</string-name>, et al. <article-title>Effect of treatment with 5&#x02010;lipoxygenase inhibitor VIA&#x02010;2291 (atreleuton) on coronary plaque progression: a serial CT angiography study</article-title>. <source>Clin Cardiol.</source>
+<year>2017</year>;<volume>40</volume>:<fpage>210</fpage>&#x02013;<lpage>215</lpage>.<pub-id pub-id-type="pmid">27883201</pub-id></mixed-citation></ref><ref id="clc22856-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="clc22856-cit-0018">
+<string-name>
+<surname>Matsumoto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nakanishi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Aged garlic extract reduces low attenuation plaque in coronary arteries of patients with metabolic syndrome in a prospective randomized double&#x02010;blind study</article-title>. <source>J Nutr.</source>
+<year>2016</year>;<volume>146</volume>:<fpage>427S</fpage>&#x02013;<lpage>432S</lpage>.<pub-id pub-id-type="pmid">26764322</pub-id></mixed-citation></ref><ref id="clc22856-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="clc22856-cit-0019">
+<string-name>
+<surname>Nakanishi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ceponiene</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Osawa</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Plaque progression assessed by a novel semi&#x02010;automated quantitative plaque software on coronary computed tomography angiography between diabetes and non&#x02010;diabetes patients: a propensity&#x02010;score matching study</article-title>. <source>Atherosclerosis.</source>
+<year>2016</year>;<volume>255</volume>:<fpage>73</fpage>&#x02013;<lpage>79</lpage>.<pub-id pub-id-type="pmid">27835741</pub-id></mixed-citation></ref><ref id="clc22856-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="clc22856-cit-0020">
+<string-name>
+<surname>Zeb</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Nasir</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Effect of statin treatment on coronary plaque progression&#x02014;a serial coronary CT angiography study</article-title>. <source>Atherosclerosis.</source>
+<year>2013</year>;<volume>231</volume>:<fpage>198</fpage>&#x02013;<lpage>204</lpage>.<pub-id pub-id-type="pmid">24267226</pub-id></mixed-citation></ref><ref id="clc22856-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="clc22856-cit-0021">
+<string-name>
+<surname>Niki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wakatsuki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yamaguchi</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Effects of the addition of eicosapentaenoic acid to strong statin therapy on inflammatory cytokines and coronary plaque components assessed by integrated backscatter intravascular ultrasound</article-title>. <source>Circ J.</source>
+<year>2016</year>;<volume>80</volume>:<fpage>450</fpage>&#x02013;<lpage>460</lpage>.<pub-id pub-id-type="pmid">26667367</pub-id></mixed-citation></ref><ref id="clc22856-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="clc22856-cit-0022">
+<string-name>
+<surname>Dohi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Miyauchi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Okazaki</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Plaque regression determined by intravascular ultrasound predicts long&#x02010;term outcomes of patients with acute coronary syndrome</article-title>. <source>J Atheroscler Thromb.</source>
+<year>2011</year>;<volume>18</volume>:<fpage>231</fpage>&#x02013;<lpage>239</lpage>.<pub-id pub-id-type="pmid">21157113</pub-id></mixed-citation></ref><ref id="clc22856-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="clc22856-cit-0023">
+<string-name>
+<surname>Watanabe</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ando</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Daidoji</surname>
+<given-names>H</given-names>
+</string-name>, et al; <article-title>CHERRY Study Investigators. A randomized controlled trial of eicosapentaenoic acid in patients with coronary heart disease on statins</article-title>. <source>J Cardiol.</source>
+<year>2017</year>;<volume>70</volume>:<fpage>537</fpage>&#x02013;<lpage>544</lpage>.<pub-id pub-id-type="pmid">28863874</pub-id></mixed-citation></ref><ref id="clc22856-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="clc22856-cit-0024">
+<string-name>
+<surname>Gibson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Sandor</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Stone</surname>
+<given-names>PH</given-names>
+</string-name>, et al. <article-title>Quantitative angiographic and statistical methods to assess serial changes in coronary luminal diameter and implications for atherosclerosis regression trials</article-title>. <source>Am J Cardiol.</source>
+<year>1992</year>;<volume>69</volume>:<fpage>1286</fpage>&#x02013;<lpage>1290</lpage>.<pub-id pub-id-type="pmid">1585861</pub-id></mixed-citation></ref><ref id="clc22856-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="clc22856-cit-0025">
+<string-name>
+<surname>Ohnishi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Saito</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Eicosapentaenoic acid (EPA) reduces cardiovascular events: relationship with the EPA/arachidonic acid ratio</article-title>. <source>J Atheroscler Thromb.</source>
+<year>2013</year>;<volume>20</volume>:<fpage>861</fpage>&#x02013;<lpage>877</lpage>.<pub-id pub-id-type="pmid">24047614</pub-id></mixed-citation></ref><ref id="clc22856-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="clc22856-cit-0026">
+<string-name>
+<surname>Chowdhury</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Warnakula</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kunutsor</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Association of dietary, circulating, and supplement fatty acids with coronary risk: a systematic review and meta&#x02010;analysis [published correction appears in <italic>Ann Intern Med.</italic> 2014;160:658]</article-title>. <source>Ann Intern Med.</source>
+<year>2014</year>;<volume>160</volume>:<fpage>398</fpage>&#x02013;<lpage>406</lpage>.<pub-id pub-id-type="pmid">24723079</pub-id></mixed-citation></ref><ref id="clc22856-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="clc22856-cit-0027">
+<string-name>
+<surname>May</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Kulkarni</surname>
+<given-names>KR</given-names>
+</string-name>, et al. <article-title>A new ratio for better predicting future death/myocardial infarction than standard lipid measurements in women &#x0003e;50 years undergoing coronary angiography: the apolipoprotein A1 remnant ratio (Apo A1/ [VLDL(3)+IDL])</article-title>. <source>Lipids Health Dis.</source>
+<year>2013</year>;<volume>12</volume>:<fpage>55</fpage>.<pub-id pub-id-type="pmid">23621905</pub-id></mixed-citation></ref><ref id="clc22856-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="clc22856-cit-0028">
+<string-name>
+<surname>Morishita</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Uzui</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ikeda</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Association of CD34/CD133/VEGFR2&#x02010;positive cell numbers with eicosapentaenoic acid and postprandial hyperglycemia in patients with coronary artery disease</article-title>. <source>Int J Cardiol.</source>
+<year>2016</year>;<volume>221</volume>:<fpage>1039</fpage>&#x02013;<lpage>1042</lpage>.<pub-id pub-id-type="pmid">27447811</pub-id></mixed-citation></ref><ref id="clc22856-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="clc22856-cit-0029">
+<string-name>
+<surname>Shintani</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kawasaki</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>The impact of a pure&#x02010;EPA omega&#x02010;3 fatty acid on coronary plaque stabilization: a plaque component analysis with 64&#x02010;slice multi&#x02010;detector row computed tomography [abstract]</article-title>. <source>J Am Coll Cardiol</source>. <year>2012</year>;<volume>59</volume>:E1731.</mixed-citation></ref><ref id="clc22856-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="clc22856-cit-0030">
+<string-name>
+<surname>Nagahara</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Motoyama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sarai</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The impact of eicosapentaenoic acid on prevention of plaque progression detected by coronary computed tomography angiography [abstract P5235]</article-title>. <source>Eur Heart J.</source>
+<year>2016</year>;<volume>37</volume>(<issue>suppl 1</issue>):<fpage>1052</fpage>.</mixed-citation></ref><ref id="clc22856-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="clc22856-cit-0031">
+<string-name>
+<surname>Alfaddagh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Elajami</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Welty</surname> F</string-name>. <article-title>
+<italic>Omega</italic>&#x02010;3 fatty acid added to statin prevents progression of fibrous coronary artery plaque compared to statin alone in patients with coronary artery disease [abstract]</article-title>. <source>Circulation</source>. <year>2016</year>;<volume>134</volume>:A16294.</mixed-citation></ref><ref id="clc22856-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="clc22856-cit-0032">
+<string-name>
+<surname>Hoffmann</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Moselewski</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Nieman</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Noninvasive assessment of plaque morphology and composition in culprit and stable lesions in acute coronary syndrome and stable lesions in stable angina by multidetector computed tomography</article-title>. <source>J Am Coll Cardiol.</source>
+<year>2006</year>;<volume>47</volume>:<fpage>1655</fpage>&#x02013;<lpage>1662</lpage>.<pub-id pub-id-type="pmid">16631006</pub-id></mixed-citation></ref><ref id="clc22856-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="clc22856-cit-0033">
+<string-name>
+<surname>Boogers</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Broersen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>van Velzen</surname>
+<given-names>JE</given-names>
+</string-name>, et al. <article-title>Automated quantification of coronary plaque with computed tomography: comparison with intravascular ultrasound using a dedicated registration algorithm for fusion&#x02010;based quantification</article-title>. <source>Eur Heart J.</source>
+<year>2012</year>;<volume>33</volume>:<fpage>1007</fpage>&#x02013;<lpage>1016</lpage>.<pub-id pub-id-type="pmid">22285583</pub-id></mixed-citation></ref><ref id="clc22856-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="clc22856-cit-0034">
+<string-name>
+<surname>Budoff</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ellenberg</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>CE</given-names>
+</string-name>, et al. <article-title>Testosterone treatment and coronary artery plaque volume in older men with low testosterone</article-title>. <source>JAMA.</source>
+<year>2017</year>;<volume>317</volume>:<fpage>708</fpage>&#x02013;<lpage>716</lpage>.<pub-id pub-id-type="pmid">28241355</pub-id></mixed-citation></ref><ref id="clc22856-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="clc22856-cit-0035">
+<string-name>
+<surname>Hamirani</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Kadakia</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pagali</surname>
+<given-names>SR</given-names>
+</string-name>, et al. <article-title>Assessment of progression of coronary atherosclerosis using multidetector computed tomography angiography (MDCT)</article-title>. <source>Int J Cardiol.</source>
+<year>2011</year>;<volume>149</volume>:<fpage>270</fpage>&#x02013;<lpage>274</lpage>.<pub-id pub-id-type="pmid">21419503</pub-id></mixed-citation></ref><ref id="clc22856-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="clc22856-cit-0036">
+<string-name>
+<surname>Leber</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Knez</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Accuracy of 64&#x02010;slice computed tomography to classify and quantify plaque volumes in the proximal coronary system: a comparative study using intravascular ultrasound</article-title>. <source>J Am Coll Cardiol.</source>
+<year>2006</year>;<volume>47</volume>:<fpage>672</fpage>&#x02013;<lpage>677</lpage>.<pub-id pub-id-type="pmid">16458154</pub-id></mixed-citation></ref><ref id="clc22856-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="clc22856-cit-0037">
+<string-name>
+<surname>Yamaki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kawasaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>
+<given-names>IK</given-names>
+</string-name>, et al. <article-title>Comparison between integrated backscatter intravascular ultrasound and 64&#x02010;slice multi&#x02010;detector row computed tomography for tissue characterization and volumetric assessment of coronary plaques</article-title>. <source>Cardiovasc Ultrasound.</source>
+<year>2012</year>;<volume>10</volume>:<fpage>33</fpage>.<pub-id pub-id-type="pmid">22867277</pub-id></mixed-citation></ref><ref id="clc22856-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="clc22856-cit-0038">
+<string-name>
+<surname>Nakanishi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fukuda</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shimada</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Non&#x02010;obstructive low attenuation coronary plaque predicts three&#x02010;year acute coronary syndrome events in patients with hypertension: multidetector computed tomographic study</article-title>. <source>J Cardiol.</source>
+<year>2012</year>;<volume>59</volume>:<fpage>167</fpage>&#x02013;<lpage>175</lpage>.<pub-id pub-id-type="pmid">22245100</pub-id></mixed-citation></ref><ref id="clc22856-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="clc22856-cit-0039">
+<string-name>
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Brinton</surname>
+<given-names>EA</given-names>
+</string-name>, et al. <article-title>Rationale and design of REDUCE&#x02010;IT: Reduction of Cardiovascular Events With Icosapent Ethyl&#x02013;Intervention Trial</article-title>. <source>Clin Cardiol.</source>
+<year>2017</year>;<volume>40</volume>:<fpage>138</fpage>&#x02013;<lpage>148</lpage>.<pub-id pub-id-type="pmid">28294373</pub-id></mixed-citation></ref><ref id="clc22856-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="clc22856-cit-0040">
+<string-name>
+<surname>Faergeman</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Holme</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Fayyad</surname>
+<given-names>R</given-names>
+</string-name>, et al; <article-title>Steering Committees of IDEAL and TNT trials. Plasma triglycerides and cardiovascular events in the Treating to New Targets and Incremental Decrease in End&#x02010;Points Through Aggressive Lipid&#x02010;Lowering trials of statins in patients with coronary artery disease</article-title>. <source>Am J Cardiol.</source>
+<year>2009</year>;<volume>104</volume>:<fpage>459</fpage>&#x02013;<lpage>463</lpage>.<pub-id pub-id-type="pmid">19660594</pub-id></mixed-citation></ref><ref id="clc22856-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="clc22856-cit-0041">
+<string-name>
+<surname>Landray</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Haynes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hopewell</surname>
+<given-names>JC</given-names>
+</string-name>, et al; <collab collab-type="authors">HPS2&#x02010;THRIVE Collaborative Group</collab>
+. <article-title>Effects of extended&#x02010;release niacin with laropiprant in high&#x02010;risk patients</article-title>. <source>N Engl J Med.</source>
+<year>2014</year>;<volume>371</volume>:<fpage>203</fpage>&#x02013;<lpage>212</lpage>.<pub-id pub-id-type="pmid">25014686</pub-id></mixed-citation></ref><ref id="clc22856-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="clc22856-cit-0042">
+<string-name>
+<surname>Miller</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>SA</given-names>
+</string-name>, et al; <collab collab-type="authors">PROVE IT&#x02010;TIMI 22 Investigators</collab>
+. <article-title>Impact of triglyceride levels beyond low&#x02010;density lipoprotein cholesterol after acute coronary syndrome in the PROVE IT&#x02010;TIMI 22 trial</article-title>. <source>J Am Coll Cardiol.</source>
+<year>2008</year>;<volume>51</volume>:<fpage>724</fpage>&#x02013;<lpage>730</lpage>.<pub-id pub-id-type="pmid">18279736</pub-id></mixed-citation></ref><ref id="clc22856-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="clc22856-cit-0043">
+<string-name>
+<surname>Ginsberg</surname>
+<given-names>HN</given-names>
+</string-name>, <string-name>
+<surname>Elam</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Lovato</surname>
+<given-names>LC</given-names>
+</string-name>, et al; <collab collab-type="authors">ACCORD Study Group</collab>
+. <article-title>Effects of combination lipid therapy in type 2 diabetes mellitus [published correction appears in <italic>N Engl J Med.</italic> 2010;362:1748]</article-title>. <source>N Engl J Med.</source>
+<year>2010</year>;<volume>362</volume>:<fpage>1563</fpage>&#x02013;<lpage>1574</lpage>.<pub-id pub-id-type="pmid">20228404</pub-id></mixed-citation></ref><ref id="clc22856-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="clc22856-cit-0044">
+<string-name>
+<surname>Guyton</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Slee</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Relationship of lipoproteins to cardiovascular events: the AIM&#x02010;HIGH trial (Atherothrombosis Intervention in Metabolic Syndrome With Low HDL/High Triglycerides and Impact on Global Health Outcomes)</article-title>. <source>J Am Coll Cardiol.</source>
+<year>2013</year>;<volume>62</volume>:<fpage>1580</fpage>&#x02013;<lpage>1584</lpage>.<pub-id pub-id-type="pmid">23916935</pub-id></mixed-citation></ref></ref-list></back></article>

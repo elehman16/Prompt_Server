@@ -1,0 +1,594 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Sci</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Sci</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1349-7006</journal-id><journal-id journal-id-type="publisher-id">CAS</journal-id><journal-title-group><journal-title>Cancer Science</journal-title></journal-title-group><issn pub-type="ppub">1347-9032</issn><issn pub-type="epub">1349-7006</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28665051</article-id><article-id pub-id-type="pmc">5581522</article-id><article-id pub-id-type="doi">10.1111/cas.13307</article-id><article-id pub-id-type="publisher-id">CAS13307</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group subj-group-type="heading"><subject>Clinical Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Phase 1 dose&#x02010;escalation study of single&#x02010;agent veliparib in Japanese patients with advanced solid tumors</article-title><alt-title alt-title-type="left-running-head">Nishikawa <italic>et al</italic>.</alt-title></title-group><contrib-group><contrib id="cas13307-cr-0001" contrib-type="author" corresp="yes"><name><surname>Nishikawa</surname><given-names>Tadaaki</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2606-4208</contrib-id><address><email>tn1012@saitama-med.ac.jp</email></address><xref ref-type="aff" rid="cas13307-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cas13307-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas13307-cr-0002" contrib-type="author"><name><surname>Matsumoto</surname><given-names>Koji</given-names></name><xref ref-type="aff" rid="cas13307-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cas13307-cr-0003" contrib-type="author"><name><surname>Tamura</surname><given-names>Kenji</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3514-9927</contrib-id><xref ref-type="aff" rid="cas13307-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas13307-cr-0004" contrib-type="author"><name><surname>Yoshida</surname><given-names>Hiroyuki</given-names></name><xref ref-type="aff" rid="cas13307-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas13307-cr-0005" contrib-type="author"><name><surname>Imai</surname><given-names>Yuichi</given-names></name><xref ref-type="aff" rid="cas13307-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas13307-cr-0006" contrib-type="author"><name><surname>Miyasaka</surname><given-names>Aki</given-names></name><xref ref-type="aff" rid="cas13307-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas13307-cr-0007" contrib-type="author"><name><surname>Onoe</surname><given-names>Takuma</given-names></name><xref ref-type="aff" rid="cas13307-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cas13307-cr-0008" contrib-type="author"><name><surname>Yamaguchi</surname><given-names>Satoshi</given-names></name><xref ref-type="aff" rid="cas13307-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cas13307-cr-0009" contrib-type="author"><name><surname>Shimizu</surname><given-names>Chikako</given-names></name><xref ref-type="aff" rid="cas13307-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas13307-cr-0010" contrib-type="author"><name><surname>Yonemori</surname><given-names>Kan</given-names></name><xref ref-type="aff" rid="cas13307-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas13307-cr-0011" contrib-type="author"><name><surname>Shimoi</surname><given-names>Tatsunori</given-names></name><xref ref-type="aff" rid="cas13307-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas13307-cr-0012" contrib-type="author"><name><surname>Yunokawa</surname><given-names>Mayu</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7354-6977</contrib-id><xref ref-type="aff" rid="cas13307-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas13307-cr-0013" contrib-type="author"><name><surname>Xiong</surname><given-names>Hao</given-names></name><xref ref-type="aff" rid="cas13307-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cas13307-cr-0014" contrib-type="author"><name><surname>Nuthalapati</surname><given-names>Silpa</given-names></name><xref ref-type="aff" rid="cas13307-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cas13307-cr-0015" contrib-type="author"><name><surname>Hashiba</surname><given-names>Hideyuki</given-names></name><xref ref-type="aff" rid="cas13307-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cas13307-cr-0016" contrib-type="author"><name><surname>Kiriyama</surname><given-names>Tsukasa</given-names></name><xref ref-type="aff" rid="cas13307-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cas13307-cr-0017" contrib-type="author"><name><surname>Leahy</surname><given-names>Terri</given-names></name><xref ref-type="aff" rid="cas13307-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cas13307-cr-0018" contrib-type="author"><name><surname>Komarnitsky</surname><given-names>Philip</given-names></name><xref ref-type="aff" rid="cas13307-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cas13307-cr-0019" contrib-type="author"><name><surname>Fujiwara</surname><given-names>Keiichi</given-names></name><xref ref-type="aff" rid="cas13307-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="cas13307-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Gynecologic Oncology</named-content>
+<institution>Saitama Medical University International Medical Center</institution>
+<named-content content-type="city">Saitama</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13307-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Breast and Medical Oncology</named-content>
+<institution>National Cancer Center Hospital</institution>
+<named-content content-type="city">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13307-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Medical Oncology</named-content>
+<institution>Hyogo Cancer Center</institution>
+<named-content content-type="city">Hyogo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13307-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Gynecologic Oncology</named-content>
+<institution>Hyogo Cancer Center</institution>
+<named-content content-type="city">Hyogo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="cas13307-aff-0005">
+<label><sup>5</sup></label>
+<institution>AbbVie, Inc.</institution>
+<named-content content-type="city">North Chicago</named-content>
+<named-content content-type="country-part">Illinois</named-content>
+<country country="US">USA</country>
+</aff><aff id="cas13307-aff-0006">
+<label><sup>6</sup></label>
+<institution>AbbVie GK</institution>
+<named-content content-type="city">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Tadaaki Nishikawa, Department of Gynecologic Oncology, Saitama Medical University International Medical Center, 1397&#x02010;1 Yamane, Hidaka, Saitama 350&#x02010;1298, Japan.<break/>
+Tel: +81&#x02010;42&#x02010;984&#x02010;4111; Fax: +81&#x02010;42&#x02010;984&#x02010;4740;<break/>
+E&#x02010;mail: <email>tn1012@saitama-med.ac.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>8</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2017</year></pub-date><volume>108</volume><issue>9</issue><issue-id pub-id-type="doi">10.1111/cas.2017.108.issue-9</issue-id><fpage>1834</fpage><lpage>1842</lpage><history><date date-type="received"><day>25</day><month>5</month><year>2017</year></date><date date-type="accepted"><day>26</day><month>6</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 Japanese Cancer Association <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>Cancer Science</italic> published by John Wiley &#x00026; Sons Australia, Ltd on behalf of Japanese Cancer Association.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:CAS-108-1834.pdf"/><abstract id="cas13307-abs-0001"><p>Veliparib (<styled-content style="fixed-case">ABT</styled-content>&#x02010;888) is a potent, orally bioavailable poly(<styled-content style="fixed-case">ADP</styled-content>&#x02010;ribose) polymerase&#x02010;1 and &#x02010;2 inhibitor. This phase 1 study evaluated the tolerability, pharmacokinetic profile, safety, and preliminary antitumor activity of single&#x02010;agent veliparib in Japanese patients with advanced solid tumors. Eligible patients were assigned to treatment with veliparib at 200 or 400 mg dose; veliparib was self&#x02010;administered orally twice daily on days 1&#x02013;28 of 28&#x02010;day cycles. Dose escalation, following a 3 + 3 design, defined dose&#x02010;limiting toxicities, the maximum tolerated dose, and the recommended phase 2 dose. Sixteen patients were enrolled (median age, 59 years). Fourteen patients had high&#x02010;grade serous ovarian cancer, one had primary peritoneal cancer, and one had <italic><styled-content style="fixed-case">BRCA</styled-content></italic>&#x02010;mutated breast cancer. The most frequent treatment&#x02010;emergent adverse events were nausea and vomiting (93.8% each), decreased appetite (62.5%), abdominal pain, diarrhea, and malaise (31.3% each). A grade &#x02265;3 toxicity was observed in 50% of patients; one patient each in the 200 mg (<italic>n =</italic> 4) and 400 mg (<italic>n =</italic> 12) cohorts experienced serious adverse events. Dose&#x02010;limiting toxicities were observed for one patient at the 400 mg dose. No toxicities leading to death were reported. The recommended phase 2 dose was defined as 400 mg twice daily. The veliparib pharmacokinetic profile was consistent with that reported for the Western population. Two patients, both with ovarian cancer, had a <styled-content style="fixed-case">RECIST</styled-content> partial response. Veliparib monotherapy showed manageable tolerability and safety profiles and a predictable pharmacokinetic profile at a 400 mg twice&#x02010;daily dose, and supports the inclusion of Japanese patients in the multinational phase 3 study (<styled-content style="fixed-case">NCT</styled-content>02470585).</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cas13307-kwd-0001">High&#x02010;grade serous ovarian cancer</kwd><kwd id="cas13307-kwd-0002">Japanese</kwd><kwd id="cas13307-kwd-0003">phase 1</kwd><kwd id="cas13307-kwd-0004">poly(ADP&#x02010;ribose) polymerase</kwd><kwd id="cas13307-kwd-0005">veliparib</kwd></kwd-group><funding-group><award-group><funding-source>AbbVie Inc.</funding-source><award-id>NCT02210663</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="4"/><page-count count="9"/><word-count count="7591"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cas13307</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.9 mode:remove_FC converted:02.09.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cas13307-cit-1001">
+<source>Cancer Sci</source>
+<volume>108</volume> (<year>2017</year>) <fpage>1834</fpage>&#x02013;<lpage>1842</lpage>
+</mixed-citation>
+</p></notes></front><body><p>Epithelial cancers of the ovary are the most common type of gynecologic malignancies, consisting of a heterogeneous group of histologically and genetically distinct diseases.<xref rid="cas13307-bib-0001" ref-type="ref">1</xref> While the mean age at diagnosis is 64 years,<xref rid="cas13307-bib-0002" ref-type="ref">2</xref> ~25% of cases are diagnosed between the ages of 35 and 54 years, with the highest rate in Caucasian women.<xref rid="cas13307-bib-0003" ref-type="ref">3</xref> Most cases of ovarian cancers (&#x0003e;70%) are diagnosed at an advanced stage. As a consequence, cancers of the ovary, fallopian tubes, and primary peritoneum are the seventh leading cause of cancer mortality globally and the fifth leading cause of cancer death in the United States.<xref rid="cas13307-bib-0004" ref-type="ref">4</xref> In Japan, the estimated incidence of ovarian cancer in 2015 was 10 400 (2.5% of all cancers in women), accounting for an estimated 4800 deaths (3.2% of all cancer deaths).<xref rid="cas13307-bib-0005" ref-type="ref">5</xref> Multiple histologic subtypes, including serous, mucinous, endometrioid, and clear cell carcinoma, have been described, and differences in the prevalence of the subtypes among racial and ethnic groups have been suggested. While serous ovarian carcinoma is the most common worldwide, representing nearly two&#x02010;thirds of cases of epithelial ovarian cancers in Western countries and 40.7% of cases in Japan, the clear cell carcinoma subtype is more frequent in Japan (27.6%) compared to Western countries (~10%).<xref rid="cas13307-bib-0006" ref-type="ref">6</xref>
+</p><p>Approximately 10&#x02013;15% of ovarian cancers are caused by hereditary gene mutations in the <italic>BRCA1</italic> or <italic>BRCA2</italic> genes<xref rid="cas13307-bib-0007" ref-type="ref">7</xref>; the lifetime risk of developing ovarian cancer for women with <italic>BRCA1</italic> and <italic>BRCA2</italic> genetic mutations is 39% and 11&#x02013;17%, respectively.<xref rid="cas13307-bib-0008" ref-type="ref">8</xref>, <xref rid="cas13307-bib-0009" ref-type="ref">9</xref> High&#x02010;grade serous ovarian cancer (HGSOC) is the most common subtype of epithelial ovarian cancer and has distinct molecular features, including a high frequency of inherited mutations in either <italic>BRCA1</italic> or <italic>BRCA2</italic> genes, p53 mutations, genetic instability, and epigenetic changes.<xref rid="cas13307-bib-0001" ref-type="ref">1</xref>, <xref rid="cas13307-bib-0010" ref-type="ref">10</xref> Approximately 90% of patients with HGSOC present with advanced&#x02010;stage disease, and this subtype accounts for 70&#x02013;80% of deaths from ovarian cancer.<xref rid="cas13307-bib-0011" ref-type="ref">11</xref>
+</p><p>The standard treatment for ovarian, fallopian tube, and primary peritoneal cancer involves surgery to remove all visible disease in the abdomen (surgical debulking), and chemotherapy. Despite initial positive response rates to platinum&#x02010;based chemotherapy, many patients develop resistance after the first or subsequent treatment cycles, and the incidence of disease recurrence is high.<xref rid="cas13307-bib-0012" ref-type="ref">12</xref> For these patients with a poor prognosis, there is a clear unmet medical need for novel strategies to improve survival.</p><p>In breast cancer, mutations in <italic>BRCA1</italic> or <italic>BRCA2</italic> genes account for ~5% of all breast cancers and 15&#x02013;20% of all hereditary cancers.<xref rid="cas13307-bib-0009" ref-type="ref">9</xref>, <xref rid="cas13307-bib-0013" ref-type="ref">13</xref> Approximately 55&#x02013;65% of women who inherit a <italic>BRCA1</italic> gene mutation and 45% of women who inherit a <italic>BRCA2</italic> gene mutation will develop breast cancer before the age of 70 years.<xref rid="cas13307-bib-0009" ref-type="ref">9</xref>
+</p><p>In tumor cells that harbor <italic>BRCA1 or BRCA2</italic> mutations, the homologous recombination (HR) pathway that repairs damaged DNA is defective, resulting in a build&#x02010;up of chromosomal aberrations leading ultimately to cell death. These tumor cells are therefore highly sensitive to cytotoxicity caused by DNA&#x02010;damaging agents, such as platinum&#x02010;based chemotherapy. An exciting new class of anticancer drugs that exploit this sensitivity are the poly(ADP&#x02010;ribose) polymerase (PARP) inhibitors. PARPs are a family of 17 enzymes that catalyze the PARylation of proteins. PARP&#x02010;1 and PARP&#x02010;2 are essential in recognizing DNA damage, including single&#x02010; or double&#x02010;strand DNA breaks,<xref rid="cas13307-bib-0014" ref-type="ref">14</xref> and facilitating DNA repair via mechanisms such as single&#x02010;strand break repair (SSBR), base excision repair, mismatch repair, nucleotide excision repair, and HR. Inhibition of PARP&#x02010;1 and PARP&#x02010;2 results in less&#x02010;efficient DNA repair; as a consequence, the cells are more susceptible to cytotoxicity induced by DNA&#x02010;damaging agents. Cancer cells carrying <italic>BRCA</italic> mutations are especially sensitive to PARP inhibition.<xref rid="cas13307-bib-0015" ref-type="ref">15</xref>, <xref rid="cas13307-bib-0016" ref-type="ref">16</xref>, <xref rid="cas13307-bib-0017" ref-type="ref">17</xref> This phenomenon, known as synthetic lethality, results in cell death in response to PARP inhibition even in the absence of other insults.<xref rid="cas13307-bib-0018" ref-type="ref">18</xref>, <xref rid="cas13307-bib-0019" ref-type="ref">19</xref> The PARP inhibitor olaparib has been approved by the European Medicines Agency<xref rid="cas13307-bib-0020" ref-type="ref">20</xref> and the FDA<xref rid="cas13307-bib-0021" ref-type="ref">21</xref> in patients with <italic>BRCA</italic>&#x02010;mutated ovarian cancer. Recently, two additional PARP inhibitors, rucaparib and niraparib, have also been approved by the FDA.<xref rid="cas13307-bib-0022" ref-type="ref">22</xref>, <xref rid="cas13307-bib-0023" ref-type="ref">23</xref> Since up to 50% of HGSOC is considered to have deficiencies in HR, this disease is particularly sensitive to PARP inhibition.<xref rid="cas13307-bib-0024" ref-type="ref">24</xref>
+</p><p>Veliparib (ABT&#x02010;888) is a potent, orally bioavailable, selective inhibitor of PARP&#x02010;1 and PARP&#x02010;2, with K<sub>i</sub>s (inhibition constants) of 5.2 and 2.9 nM, respectively.<xref rid="cas13307-bib-0025" ref-type="ref">25</xref> A phase 1 study demonstrated antitumor activity of single&#x02010;agent veliparib in patients with <italic>BRCA</italic>&#x02010;mutated and <italic>BRCA</italic>&#x02010;wild type tumors, with an objective response rate (ORR) and clinical benefit rate of 40% and 68%, respectively, in <italic>BRCA</italic>&#x02010;mutated tumors.<xref rid="cas13307-bib-0026" ref-type="ref">26</xref> Single&#x02010;agent activity has also been demonstrated in a phase 2 study in <italic>BRCA</italic>&#x02010;associated recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer<xref rid="cas13307-bib-0027" ref-type="ref">27</xref> and in a phase 2 study of patients with <italic>BRCA</italic> germline mutation and platinum resistance, or partially platinum&#x02010;sensitive relapse of epithelial ovarian cancer.<xref rid="cas13307-bib-0028" ref-type="ref">28</xref>
+</p><p>The primary objective of this phase 1 study was to assess the tolerability of veliparib as a single agent in Japanese patients with advanced solid tumors. The secondary objectives were to assess the pharmacokinetics (PK), safety, and preliminary activity of veliparib in this population.</p><sec id="cas13307-sec-0002"><title>Materials and Methods</title><sec id="cas13307-sec-0003"><title>Patients</title><p>Eligible patients were &#x02265;20 years of age; had an Eastern Cooperative Oncology Group (ECOG) performance status of 0&#x02013;1; had histologically or cytologically confirmed solid tumor diagnosis, and any of the following: recurrent HGSOC and had completed or discontinued platinum&#x02010;based therapy; <italic>BRCA</italic>&#x02010;mutated breast cancer and had received prior chemotherapy with anthracycline and/or taxanes; and advanced solid tumors with deleterious mutations of <italic>BRCA</italic>. In addition, eligible patients had a life expectancy of &#x0003e;12 weeks, and adequate renal, hepatic, and bone marrow function. Patients of child&#x02010;bearing potential agreed to use adequate contraception prior to study entry, for the duration of the study, and for up to 3 months following completion of therapy. Eligible patients were able to swallow and retain oral medicine, and had measurable or non&#x02010;measurable disease. Prior major surgery, radiation therapy, chemotherapy or hormone therapy, or treatment with investigational agents had to be completed within 4 weeks prior to study enrollment (exception: 6 weeks for mitomycin C and nitrosoureas); any anticancer Chinese medicine/herbal remedies had to be completed within 14 days prior to study enrollment. Patients with any clinically significant uncontrolled medical conditions or adverse events (AEs) from prior surgery or anticancer therapies that were not recovered to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.0<xref rid="cas13307-bib-0029" ref-type="ref">29</xref> grade &#x02264;1 were excluded. Prior therapy with a PARP inhibitor was not allowed. Pregnant or lactating women were ineligible. In the expansion cohort, patients were excluded if they had received more than three lines of prior chemotherapy or had progressed at, or within, 6 months of completion of the last platinum&#x02010;based regimen (if the patient had never received a platinum&#x02010;based regimen, they were considered eligible if the regimen was not considered as standard of care for the cancer type). The study was approved by an independent ethics committee/institutional review board before initiation and was performed in accordance with the International Conference on Harmonisation guidelines, Good Clinical Practice guidelines, and the Declaration of Helsinki. All patients provided written informed consent prior to participation in the study. This study is registered with ClinicalTrials.gov (NCT02210663).</p></sec><sec id="cas13307-sec-0004"><title>Study design</title><p>This phase 1 study was an open&#x02010;label, multicenter, dose&#x02010;escalation study evaluating the tolerability and preliminary efficacy of veliparib as a single agent in Japanese patients with advanced solid tumors.</p><p>Eligible patients were assigned to one of two treatment groups (dose levels). Veliparib at a dose of 200 or 400 mg was self&#x02010;administered orally twice daily (BID) on days 1&#x02013;28 of a 28&#x02010;day cycle. If the 400 mg BID dose was not tolerable, enrollment in an alternative veliparib 300 mg dose level was planned. Three to six patients were enrolled in each treatment group. Dose escalation was carried out according to a 3 + 3 design to define dose&#x02010;limiting toxicities (DLTs), and the maximum administered dose/recommended phase 2 dose (RP2D). A patient was considered eligible for DLT evaluation if they had completed cycle 1 of the assigned regimen with 80% compliance of veliparib. Any patients who prematurely discontinued cycle 1 or experienced an AE related to veliparib were assessed for DLT. DLTs were determined during the first cycle and were defined as: any grade 4 neutrophil count lasting &#x0003e;5 days; any grade 4 thrombocytopenia; febrile neutropenia; &#x0003e;4&#x02010;week delay starting next treatment cycle due to toxicity; an increase in creatinine to grade &#x02265;3 that is not corrected to grade 1 or baseline within 24 h; grade &#x02265;3 metabolic toxicities that are not corrected to grade &#x02264;2 within 24 h (i.e., glucose changes or hypokalemia, hypomagnesemia, hyperuricemia, hypophosphatemia, and hyponatremia); any symptomatic grade 4 metabolic toxicities regardless of duration or ability to correct; and any other grade &#x02265;3 non&#x02010;hematologic toxicities considered related to veliparib (excluding nausea, vomiting, diarrhea, and tumor pain that have not been treated effectively with medication). Patients received treatment for a maximum of 30 cycles or until treatment discontinuation. Following completion of cycle 1, subsequent cycles of therapy did not begin until the absolute neutrophil count was &#x02265;1500 cells/mm<sup>3</sup> and the platelet count was &#x02265;100 000/mm<sup>3</sup>. Treatment could be postponed for up to 28 days due to toxicity; longer toxicity&#x02010;related delays would lead to study discontinuation.</p><p>The maximum tolerated dose (MTD) was defined as the highest dose level at which fewer than two of total six patients or &#x0003c;33% of patients (if the cohort was expanded beyond six patients) experienced a DLT. The RP2D was determined based on the observed DLTs and identified MTD; RP2D would not be dosed higher than the MTD. If the MTD was not reached, the RP2D was defined based on the safety and PK data. Prophylactic use of antiemetics and colony&#x02010;stimulating factors was not permitted during the DLT&#x02010;evaluation period, in order to clearly define the safety profile in Japanese patients.</p><p>The dose&#x02010;expansion cohort (including at least six patients) was enrolled at the RP2D to evaluate the durable tolerability of veliparib monotherapy. Prophylactic use of antiemetics was allowed in the dose&#x02010;expansion cohort.</p></sec><sec id="cas13307-sec-0005"><title>Safety, PK, and efficacy assessments</title><p>The safety of each treatment group was assessed by evaluating study drug exposure, AEs, serious AEs (SAEs), all deaths, changes in laboratory determinations, and vital signs parameters. AEs reported from the start of veliparib administration until 30 days after discontinuation of veliparib were collected. AEs were assessed according to the NCI CTCAE version 4.0.<xref rid="cas13307-bib-0029" ref-type="ref">29</xref> An independent data monitoring committee reviewed safety data for DLT evaluation.</p><p>PK data were analyzed from blood samples (3 mL) collected on day 1 of cycle 1 at 0 h (pre&#x02010;dose), and at 0.5, 1, 1.5, 2, 3, 4, 6, and 8 h after receiving the morning veliparib dose, and at 24 h post&#x02010;dose (before the veliparib dose on day 2 of cycle 1). Noncompartmental methods were used to determine the maximum observed plasma concentration (<italic>C</italic>
+<sub>max</sub>), the time to <italic>C</italic>
+<sub>max</sub> (<italic>T</italic>
+<sub>max</sub>), the area under the plasma concentration&#x02010;time curve (AUC), and terminal elimination half&#x02010;life (<italic>t</italic>
+<sub>1/2</sub>).</p><p>To determine preliminary antitumor efficacy, baseline radiographic tumor assessments were conducted within 3 weeks prior to registration and thereafter every 8 weeks from cycle 1 day 1 and at the final visit, using the Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1.<xref rid="cas13307-bib-0030" ref-type="ref">30</xref> In addition, the investigator evaluated the patient for evidence of clinical disease progression at each visit. Changes in measurable tumor lesions were assessed to determine the response rate, defined as proportion of patients with complete response (CR) or partial response (PR), and time to progression (TTP), defined as the number of days from the date the patient was dosed to the date the patient experienced an event of progressive disease (PD). All events of PD were included, regardless of whether the event occurred while the patient was taking veliparib or had previously discontinued. Changes from baseline in performance status were analyzed.</p></sec><sec id="cas13307-sec-0006"><title>Tumor marker</title><p>All enrolled patients with ovarian cancer or peritoneal cancer had measurements of cancer antigen 125 (CA&#x02010;125) on day 1 of cycle 1, every cycle (28 days) thereafter, and at the final visit. CA&#x02010;125 response was measured according to the Gynecologic Cancer InterGroup (GCIG) CA&#x02010;125 response definition.<xref rid="cas13307-bib-0031" ref-type="ref">31</xref>
+</p></sec><sec id="cas13307-sec-0007"><title>Statistical analyses</title><p>Unless otherwise noted, for all statistical analyses, statistical significance was determined by a two&#x02010;sided <italic>P&#x02010;</italic>value &#x02264;0.05. Descriptive statistics were used to describe baseline demographic variables, and summary statistics were computed for PK variables at each sampling time. PK variables were determined per patient and dose level. The safety of veliparib was assessed by evaluating veliparib exposure, AEs, SAEs, all deaths, and changes in laboratory determinations and vital sign parameters. The proportion of patients with CR or PR was estimated with a 95% confidence interval (CI) constructed for the estimated proportion. The distribution of TTP was estimated using Kaplan&#x02010;Meier methodology.</p></sec></sec><sec id="cas13307-sec-0008"><title>Results</title><sec id="cas13307-sec-0009"><title>Patient characteristics</title><p>A total of 16 female patients (four in 200 mg cohort, six in 400 mg cohort, and six in 400 mg dose&#x02010;expansion cohort) with a median age of 59 years (range, 43&#x02013;83) were enrolled in this study and received at least one dose of veliparib. Fourteen patients had HGSOC, one patient had primary peritoneal cancer, and one patient had <italic>BRCA</italic>&#x02010;mutated breast cancer. All patients had received prior surgery and a median of three or more prior chemotherapies (range, 1&#x02013;7). Demographics and baseline patient characteristics are summarized in Table <xref rid="cas13307-tbl-0001" ref-type="table-wrap">1</xref>.</p><table-wrap id="cas13307-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline patient demographic and clinical characteristics (safety population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Characteristic</th><th align="center" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Number (%)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="top" rowspan="1" colspan="1">Veliparib 200 mg BID (<italic>n =</italic> 4)</th><th align="center" valign="top" rowspan="1" colspan="1">Veliparib 400 mg BID (<italic>n =</italic> 12)</th><th align="center" valign="top" rowspan="1" colspan="1">Veliparib total (<italic>n =</italic> 16)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Age, years</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x0003c;65</td><td align="char" char=" " rowspan="1" colspan="1">3 (75.0)</td><td align="char" char=" " rowspan="1" colspan="1">8 (66.7)</td><td align="char" char=" " rowspan="1" colspan="1">11 (68.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;65</td><td align="char" char=" " rowspan="1" colspan="1">1 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">4 (33.3)</td><td align="char" char=" " rowspan="1" colspan="1">5 (31.3)</td></tr><tr><td align="left" colspan="4" rowspan="1">Race</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Asian</td><td align="char" char=" " rowspan="1" colspan="1">4 (100)</td><td align="char" char=" " rowspan="1" colspan="1">12 (100)</td><td align="char" char=" " rowspan="1" colspan="1">16 (100)</td></tr><tr><td align="left" colspan="4" rowspan="1">Ethnicity</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Japanese</td><td align="char" char=" " rowspan="1" colspan="1">4 (100)</td><td align="char" char=" " rowspan="1" colspan="1">12 (100)</td><td align="char" char=" " rowspan="1" colspan="1">16 (100)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median duration of disease, months (range)</td><td align="char" char=" " rowspan="1" colspan="1">49.8 (14.8&#x02013;121.2)</td><td align="char" char=" " rowspan="1" colspan="1">53.1 (7.3&#x02013;106.3)</td><td align="char" char=" " rowspan="1" colspan="1">53.1 (7.3&#x02013;121.2)</td></tr><tr><td align="left" colspan="4" rowspan="1">ECOG PS</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">11 (91.7)</td><td align="char" char=" " rowspan="1" colspan="1">13 (81.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">3 (18.8)</td></tr><tr><td align="left" colspan="4" rowspan="1">Tumor burden at time of enrollment</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Locally advanced</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">2 (12.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Metastatic</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">12 (100)</td><td align="char" char=" " rowspan="1" colspan="1">14 (87.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">History of oncologic surgery</td><td align="char" char=" " rowspan="1" colspan="1">4 (100)</td><td align="char" char=" " rowspan="1" colspan="1">12 (100)</td><td align="char" char=" " rowspan="1" colspan="1">16 (100)</td></tr><tr><td align="left" rowspan="1" colspan="1">History of radiation therapy</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6.2)</td></tr><tr><td align="left" colspan="4" rowspan="1">Primary tumor</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ovarian</td><td align="char" char=" " rowspan="1" colspan="1">4 (100)</td><td align="char" char=" " rowspan="1" colspan="1">11 (91.7)</td><td align="char" char=" " rowspan="1" colspan="1">15 (93.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Breast</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Peritoneal</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td align="left" colspan="4" rowspan="1">Known <italic>BRCA</italic> mutation status</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>BRCA1</italic> mutated</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">3 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">3 (18.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>BRCA2</italic> mutated</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not mutated</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not tested</td><td align="char" char=" " rowspan="1" colspan="1">4 (100)</td><td align="char" char=" " rowspan="1" colspan="1">8 (66.7)</td><td align="char" char=" " rowspan="1" colspan="1">12 (75.0)</td></tr><tr><td align="left" colspan="4" rowspan="1">No. of involved sites at enrollment</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">5 (41.7)</td><td align="char" char=" " rowspan="1" colspan="1">5 (31.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="char" char=" " rowspan="1" colspan="1">1 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">5 (41.7)</td><td align="char" char=" " rowspan="1" colspan="1">6 (37.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="char" char=" " rowspan="1" colspan="1">3 (75.0)</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">4 (25.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">4</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td align="left" colspan="4" rowspan="1">No. of prior regimens of cytotoxic therapy</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">2 (16.7)</td><td align="char" char=" " rowspan="1" colspan="1">4 (25.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;3</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">9 (75.0)</td><td align="char" char=" " rowspan="1" colspan="1">11 (68.8)</td></tr><tr><td align="left" colspan="4" rowspan="1">Platinum sensitivity<xref ref-type="fn" rid="cas13307-note-0002">&#x02020;</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Platinum sensitive</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">9 (81.8)</td><td align="char" char=" " rowspan="1" colspan="1">11 (73.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Platinum resistant<xref ref-type="fn" rid="cas13307-note-0002">&#x02021;</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">2 (18.2)</td><td align="char" char=" " rowspan="1" colspan="1">4 (26.7)</td></tr></tbody></table><table-wrap-foot><fn id="cas13307-note-0002"><p>&#x02020;One patient with breast cancer in the 400 mg cohort was excluded. &#x02021;&#x0201c;Platinum resistant&#x0201d; was defined as patients who progressed on or within 6 months of completion of the last platinum&#x02010;based regimen. BID, twice daily; <italic>BRCA</italic>, breast cancer susceptibility gene; ECOG PS, Eastern Cooperative Oncology Group performance status.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cas13307-sec-0010"><title>Safety</title><p>All 16 patients had discontinued treatment due to disease progression (75%), AEs/toxicity (6%), or withdrawal of consent (19%). All patients received a median of 4.5 cycles of veliparib (range, 1&#x02013;12) and a median of 133.5 days of veliparib (range, 10&#x02013;338 days). Patients in the 400 mg cohort received a median of 165.0 days (range, 15&#x02013;338 days).</p><p>One patient in the 400 mg BID veliparib cohort experienced a DLT of grade 3 nausea, vomiting, decreased appetite, and fatigue. All sixteen patients (100%) in the safety population experienced at least one grade &#x02265;1 TEAE. TEAEs that occurred in 20% or more of patients are summarized in Table <xref rid="cas13307-tbl-0002" ref-type="table-wrap">2</xref>. The majority of AEs were mild to moderate in intensity (grades 1 or 2). The most frequently reported toxicities (all grades) were nausea (93.8%) and vomiting (93.8%), decreased appetite (62.5%), abdominal pain, diarrhea, malaise, and dysgeusia (31.3%, each), neutropenia, thrombocytopenia, fatigue, and insomnia (25%, each). Overall, nausea (93.8%, all grades) and vomiting (87.5%, all grades) were the most common TEAEs related to treatment with veliparib, experienced by three (75%) patients each in the 200 mg cohort, and by 12 (100%) and 11 (91.7%) patients, respectively, at the 400 mg dose level. A grade &#x02265;3 AE was observed in 50% of patients, including two patients experiencing grade 3 nausea during veliparib 400 mg treatment; two patients experienced a SAE, one each during treatment with veliparib 200 mg and veliparib 400 mg. AEs leading to veliparib dose interruption, reduction, or delay were reported in one (25%) patient in the 200 mg dose cohort (pelvic infection), and in seven (58.3%) patients in the 400 mg dose cohort, including nausea, fatigue, neutropenia and thrombocytopenia (in three patients each), vomiting (in two patients), and anemia, decreased appetite, and essential tremor (in one patient each). There were no AEs or SAEs leading to death. The RP2D of veliparib monotherapy was established as 400 mg BID.</p><table-wrap id="cas13307-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>TEAEs in &#x02265;20% of patients (safety population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">TEAE, <italic>n</italic> (%)</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Veliparib 200 mg BID (<italic>n =</italic> 4)</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Veliparib 400 mg BID (<italic>n =</italic> 12)</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Veliparib total (<italic>n =</italic> 16)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="top" rowspan="1" colspan="1">All grade</th><th align="center" valign="top" rowspan="1" colspan="1">Grade 3/4</th><th align="center" valign="top" rowspan="1" colspan="1">All grade</th><th align="center" valign="top" rowspan="1" colspan="1">Grade 3/4</th><th align="center" valign="top" rowspan="1" colspan="1">All grade</th><th align="center" valign="top" rowspan="1" colspan="1">Grade 3/4</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Any AE</td><td align="char" char=" " rowspan="1" colspan="1">4 (100)</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">12 (100)</td><td align="char" char=" " rowspan="1" colspan="1">6 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">16 (100)</td><td align="char" char=" " rowspan="1" colspan="1">8 (50.0)</td></tr><tr><td align="left" colspan="7" rowspan="1">Blood and lymphatic system disorders</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Neutropenia<xref ref-type="fn" rid="cas13307-note-0003">&#x02020;</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">4 (33.3)</td><td align="char" char=" " rowspan="1" colspan="1">2 (16.7)</td><td align="char" char=" " rowspan="1" colspan="1">4 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">2 (12.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Thrombocytopenia<xref ref-type="fn" rid="cas13307-note-0003">&#x02021;</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">4 (33.3)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">4 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr><tr><td align="left" colspan="7" rowspan="1">Gastrointestinal disorders</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Abdominal pain</td><td align="char" char=" " rowspan="1" colspan="1">3 (75.0)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">2 (16.7)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">5 (31.3)</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diarrhea</td><td align="char" char=" " rowspan="1" colspan="1">1 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">4 (33.3)</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">5 (31.3)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nausea</td><td align="char" char=" " rowspan="1" colspan="1">3 (75.0)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">12 (100)</td><td align="char" char=" " rowspan="1" colspan="1">2 (16.7)</td><td align="char" char=" " rowspan="1" colspan="1">15 (93.8)</td><td align="char" char=" " rowspan="1" colspan="1">2 (12.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Vomiting</td><td align="char" char=" " rowspan="1" colspan="1">4 (100)</td><td align="char" char=" " rowspan="1" colspan="1">1 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">11 (91.7)</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">15 (93.8)</td><td align="char" char=" " rowspan="1" colspan="1">2 (12.5)</td></tr><tr><td align="left" colspan="7" rowspan="1">General disorders</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fatigue</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">4 (33.3)</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">4 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Malaise</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">3 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">5 (31.3)</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr><tr><td align="left" colspan="7" rowspan="1">Metabolism and nutritional disorders</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Decreased appetite</td><td align="char" char=" " rowspan="1" colspan="1">1 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">9 (75.0)</td><td align="char" char=" " rowspan="1" colspan="1">1 (8.3)</td><td align="char" char=" " rowspan="1" colspan="1">10 (62.5)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td align="left" colspan="7" rowspan="1">Nervous system disorders</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dysgeusia</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">5 (41.7)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">5 (31.3)</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr><tr><td align="left" colspan="7" rowspan="1">Psychiatric disorders</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Insomnia</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">4 (33.3)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">4 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot><fn id="cas13307-note-0003"><p>&#x02020;Including neutrophil count decreased. &#x02021;Including platelet count decreased. BID, twice daily; TEAE, treatment&#x02010;emergent adverse event.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cas13307-sec-0011"><title>PK</title><p>Following single&#x02010;dose oral administration of veliparib 200 mg and veliparib 400 mg, veliparib <italic>C</italic>
+<sub>max</sub> and AUC increased in a dose&#x02010;proportional manner, suggesting a linear PK profile (Table <xref rid="cas13307-tbl-0003" ref-type="table-wrap">3</xref>, Fig. <xref rid="cas13307-fig-0001" ref-type="fig">1</xref>a). The dose&#x02010;normalized <italic>C</italic>
+<sub>max</sub> and AUC<sub>inf</sub> values were similar to those observed in previous studies in Japanese and non&#x02010;Japanese patients<xref rid="cas13307-bib-0032" ref-type="ref">32</xref>, <xref rid="cas13307-bib-0033" ref-type="ref">33</xref>, <xref rid="cas13307-bib-0034" ref-type="ref">34</xref> (Fig. <xref rid="cas13307-fig-0001" ref-type="fig">1</xref>b).</p><table-wrap id="cas13307-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>PK parameters of veliparib on cycle 1 day 1</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Veliparib dose (mg)</th><th align="center" valign="top" rowspan="1" colspan="1">
+<italic>n</italic>
+</th><th align="center" valign="top" rowspan="1" colspan="1">
+<italic>T</italic>
+<sub>max</sub> (h)<xref ref-type="fn" rid="cas13307-note-0004">&#x02020;</xref>
+</th><th align="center" valign="top" rowspan="1" colspan="1">
+<italic>C</italic>
+<sub>max</sub> (&#x003bc;g/mL)</th><th align="center" valign="top" rowspan="1" colspan="1">AUC<sub>0&#x02013;8</sub> (&#x003bc;g&#x000b7;h/mL)</th><th align="center" valign="top" rowspan="1" colspan="1">AUC<sub>inf</sub> (&#x003bc;g&#x000b7;h/mL)</th><th align="center" valign="top" rowspan="1" colspan="1">
+<italic>t</italic>
+<sub>1/2</sub> (h)<xref ref-type="fn" rid="cas13307-note-0004">&#x02021;</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">200</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char=" " rowspan="1" colspan="1">2.5 (1.0&#x02013;3.0)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.06 &#x000b1; 1.39</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.89 &#x000b1; 3.77</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.6 &#x000b1; 6.24</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">4.6 &#x000b1; 1.1</td></tr><tr><td align="left" rowspan="1" colspan="1">400</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char=" " rowspan="1" colspan="1">2.5 (0.5&#x02013;4.0)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.28 &#x000b1; 1.04</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">16.6 &#x000b1; 3.59</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">29.5 &#x000b1; 9.82<xref ref-type="fn" rid="cas13307-note-0004">&#x000a7;</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">4.6 &#x000b1; 1.3<xref ref-type="fn" rid="cas13307-note-0004">&#x000a7;</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="cas13307-note-0004"><p>Data presented as mean &#x000b1; SD. &#x02020;<italic>T</italic>
+<sub>max</sub> presented as median (min&#x02013;max). &#x02021;Harmonic mean &#x000b1; pseudo SD. &#x000a7;<italic>n =</italic> 9. AUC<sub>inf</sub>, area under the plasma concentration&#x02010;time curve from time 0 to infinity; AUC<sub>0&#x02013;8</sub>, area under the plasma concentration&#x02010;time curve from hour 0 to 8; <italic>C</italic>
+<sub>max</sub>, maximum observed plasma concentration; h, hour; PK, pharmacokinetics; <italic>t</italic>
+<sub>1/2</sub>, terminal elimination half&#x02010;life; <italic>T</italic>
+<sub>max</sub>, time to <italic>C</italic>
+<sub>max</sub>.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="cas13307-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(a) Mean (+<styled-content style="fixed-case">SD</styled-content>) plasma concentration&#x02010;time profile of veliparib on cycle 1 day 1 following oral administration of 200 and 400 mg veliparib. (b) Comparison of dose&#x02010;normalized <styled-content style="fixed-case">PK</styled-content> parameters of veliparib across studies. <styled-content style="fixed-case">AUC</styled-content>
+<sub>inf</sub>, area under the plasma concentration&#x02010;time curve from time 0 to infinity; <styled-content style="fixed-case">BID</styled-content>, twice&#x02010;daily; <italic>C</italic>
+<sub>max</sub>, maximum plasma concentration; h, hours; <styled-content style="fixed-case">PK</styled-content>, pharmacokinetic.</p></caption><graphic id="nlm-graphic-3" xlink:href="CAS-108-1834-g001"/></fig></sec><sec id="cas13307-sec-0012"><title>Efficacy</title><p>In total, 14 patients with measurable disease at baseline &#x02013; 12 with ovarian cancer, one with primary peritoneal cancer, and one with breast cancer &#x02013; were assessed for response (four in 200 mg cohort and 10 in 400 mg cohort). Among patients with ovarian and primary peritoneal cancer, the median number of prior platinum&#x02010;based therapies was three (range 1&#x02013;5), and eleven had platinum sensitive ovarian cancer. The ORR to veliparib monotherapy was 14.3% (CI 1.8&#x02013;42.8%). The best objective response was PR in two patients, both with platinum sensitive ovarian cancer, and stable disease in eight patients, including six patients with ovarian cancer, one with breast cancer, and one with primary peritoneal cancer; the latter two patients carried <italic>BRCA</italic>&#x02010;mutated tumors (Table <xref rid="cas13307-tbl-0004" ref-type="table-wrap">4</xref>). Computed tomography images of the patient with partial response to veliparib 200 mg are shown in Figure <xref rid="cas13307-fig-0002" ref-type="fig">2</xref>. The disease control rate (DCR, CR + PR + stable disease) among patients with measurable disease was 71.4% (10/14). Three patients (21.4%) progressed at first tumor assessment. The best objective response for the two patients without measurable disease at baseline was non&#x02010;CR/non&#x02010;PD. Overall, disease control was observed for 12 of 16 patients (75%).</p><table-wrap id="cas13307-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Best response rate in the efficacy population</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Response, <italic>n</italic> (%)</th><th align="center" valign="top" rowspan="1" colspan="1">Veliparib 200 mg BID (<italic>n =</italic> 4<xref ref-type="fn" rid="cas13307-note-0005">&#x02020;</xref>)</th><th align="center" valign="top" rowspan="1" colspan="1">Veliparib 400 mg BID (<italic>n =</italic> 10)</th><th align="center" valign="top" rowspan="1" colspan="1">Veliparib total (<italic>n =</italic> 14)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">ORR<xref ref-type="fn" rid="cas13307-note-0005">&#x02021;</xref> [95% CI]</td><td align="char" char=" " rowspan="1" colspan="1">1<xref ref-type="fn" rid="cas13307-note-0005">&#x000a7;</xref> (25.0) [0.6&#x02013;80.6]</td><td align="char" char=" " rowspan="1" colspan="1">1<xref ref-type="fn" rid="cas13307-note-0005">&#x000b6;</xref> (10.0) [0.3&#x02013;44.5]</td><td align="char" char=" " rowspan="1" colspan="1">2 (14.3) [1.8&#x02013;42.8]</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CR</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">PR</td><td align="char" char=" " rowspan="1" colspan="1">1 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">1 (10.0)</td><td align="char" char=" " rowspan="1" colspan="1">2 (14.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Stable disease</td><td align="char" char=" " rowspan="1" colspan="1">1 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">7 (70.0)</td><td align="char" char=" " rowspan="1" colspan="1">8 (57.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">PD</td><td align="char" char=" " rowspan="1" colspan="1">1 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">2 (20.0)</td><td align="char" char=" " rowspan="1" colspan="1">3 (21.4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not evaluable</td><td align="char" char=" " rowspan="1" colspan="1">1 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">1 (7.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">DCR (CR + PR + stable disease)</td><td align="char" char=" " rowspan="1" colspan="1">2 (50.0)</td><td align="char" char=" " rowspan="1" colspan="1">8 (80.0)</td><td align="char" char=" " rowspan="1" colspan="1">10 (71.4)</td></tr></tbody></table><table-wrap-foot><fn id="cas13307-note-0005"><p>&#x02020;One patient could not be evaluated. &#x02021;ORRs confirmed by RECIST version 1.1<sup>(30)</sup> and including patients with at least one measurable lesion at baseline. &#x000a7;Background information on the patient: platinum&#x02010;free interval &#x0003e;39 months; number of prior regimens = 4, number of metastatic sites = 2 (peritoneum, ascites). &#x000b6;Background information on the patient: platinum&#x02010;free interval = 10 months; number of prior regimens = 3, number of metastatic sites = 1 (lymph node). BID, twice daily; CI, confidence interval; CR, complete response; DCR, disease control rate; ORR, objective response rate; PD, progressive disease; PR, partial response; RECIST, Response Evaluation Criteria In Solid Tumors.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="cas13307-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Computed tomography images showing partial response in a single patient to veliparib 200 mg <styled-content style="fixed-case">BID</styled-content>. <styled-content style="fixed-case">BID</styled-content>, twice&#x02010;daily; C1D1, day 1 of cycle 1; <styled-content style="fixed-case">CA</styled-content>&#x02010;125, cancer antigen 125; <styled-content style="fixed-case">CT</styled-content>, computed tomography; <styled-content style="fixed-case">PR</styled-content>, partial response; <styled-content style="fixed-case">TL</styled-content>, target lesion.</p></caption><graphic id="nlm-graphic-5" xlink:href="CAS-108-1834-g002"/></fig><p>The percentage change from baseline in the sum of the tumor sizes of target lesions is shown in Figure <xref rid="cas13307-fig-0003" ref-type="fig">3</xref>(a). For all patients, the median percentage change from baseline was &#x02212;10.3% (range, &#x02212;46.8% to +50.0%).</p><fig fig-type="Figure" xml:lang="en" id="cas13307-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(a) Best percentage change from baseline in the sum of tumor sizes of target lesions (treated population, in patients with measurable disease at baseline). (b) Percentage change from baseline in <styled-content style="fixed-case">CA</styled-content>&#x02010;125 (treated population<sup>&#x000a7;</sup>). <styled-content style="fixed-case">CA</styled-content>&#x02010;125, cancer antigen 125. <sup>&#x02020;</sup>Patients with <italic><styled-content style="fixed-case">BRCA</styled-content></italic> mutated tumor. <sup>&#x02021;</sup>Platinum resistant patients &#x02013; defined as patients who progressed on or within 6 months of completion of the last platinum&#x02010;based regimen. <sup>&#x000a7;</sup>One patient with breast cancer was not included in the <styled-content style="fixed-case">CA</styled-content>&#x02010;125 response analysis.</p></caption><graphic id="nlm-graphic-7" xlink:href="CAS-108-1834-g003"/></fig><p>Median TTP was 106 (range, 17&#x02013;226) days, and 170 (range, 48&#x02013;340) days for patients in the veliparib 200 and 400 mg dose cohorts, respectively. For patients with platinum sensitive ovarian or peritoneal cancer treated at 400 mg BID veliparib dose the median TTP was 218 days (range, 48&#x02013;340).</p></sec><sec id="cas13307-sec-0013"><title>Tumor marker analysis</title><p>All patients with ovarian (<italic>n =</italic> 14) or primary peritoneal cancer (<italic>n =</italic> 1) had CA&#x02010;125 levels assessed. Three patients (20%) achieved CA&#x02010;125 response. One additional patient had a 50% reduction in CA&#x02010;125 levels, but this could not be confirmed 28 days from first assessment of response because of discontinuation from the study due to withdrawal of consent. Best percentage change from baseline values are presented in Figure <xref rid="cas13307-fig-0003" ref-type="fig">3</xref>(b). For all patients, the median change in CA&#x02010;125 level from baseline was &#x02212;18.8% (18.8% reduction; range: &#x02212;97.8% to +155.2%).</p></sec></sec><sec id="cas13307-sec-0014"><title>Discussion</title><p>The results of this phase 1 study demonstrate that veliparib as monotherapy is well tolerated at the established RP2D of 400 mg BID in Japanese patients with advanced solid tumors. The most frequent AEs associated with single&#x02010;agent veliparib were nausea and vomiting, which is consistent with previous studies in Western patients,<xref rid="cas13307-bib-0026" ref-type="ref">26</xref>, <xref rid="cas13307-bib-0027" ref-type="ref">27</xref> and no new toxicities were identified. These toxicities may be manageable with antiemetics. The PK profile was consistent with previous Western studies<xref rid="cas13307-bib-0032" ref-type="ref">32</xref>, <xref rid="cas13307-bib-0033" ref-type="ref">33</xref> with a dose&#x02010;proportional PK profile, indicating that there are no differences in the PK of veliparib based on ethnicity. A recent phase 1 study of veliparib in combination with carboplatin/paclitaxel in Japanese non&#x02010;small cell lung cancer patients also showed a PK profile of veliparib comparable between Japanese and Western populations.<xref rid="cas13307-bib-0034" ref-type="ref">34</xref>
+</p><p>Progress has been slow in improving outcomes for patients with ovarian cancer. Patients are often diagnosed at an advanced stage, and while initial responses to platinum&#x02010;based chemotherapy are good (&#x0003e;80%), the majority of patients eventually relapse and develop resistant disease.<xref rid="cas13307-bib-0012" ref-type="ref">12</xref> The goal of any treatment for these difficult&#x02010;to&#x02010;treat patients involves obtaining clinically meaningful objective responses while managing treatment toxicities to optimize quality of life.</p><p>Advances in the understanding of the molecular biology of epithelial ovarian cancer, and the impact of <italic>BRCA1</italic> and <italic>BRCA2</italic> gene mutations on cellular DNA repair pathways, has led to the development of PARP inhibitors, an exciting new class of targeted therapy. The exact mechanism of action of PARP inhibitors is an ongoing area of investigation; preclinical research suggests that PARP inhibitor activity may depend on different mechanisms of action. In the context of impaired HR resulting from <italic>BRCA</italic> mutations, PARP inhibitor cytotoxicity has been associated with the inhibition of SSBR, with the resulting accumulation of single&#x02010; and double&#x02010;strand breaks causing replication fork collapse.<xref rid="cas13307-bib-0018" ref-type="ref">18</xref>, <xref rid="cas13307-bib-0019" ref-type="ref">19</xref> An additional mechanism of action whereby PARP is &#x0201c;trapped&#x0201d; on damaged DNA, resulting in cytotoxic PARP&#x02010;DNA complexes, has also been described recently.<xref rid="cas13307-bib-0035" ref-type="ref">35</xref>
+</p><p>Antitumor activity was observed in two patients (14.3%), who had a PR to study treatment per RECIST version 1.1<xref rid="cas13307-bib-0030" ref-type="ref">30</xref> criteria, and three patients achieved CA&#x02010;125 response according to GCIG CA&#x02010;125 response definition. While the ORR was lower than that observed previously,<xref rid="cas13307-bib-0026" ref-type="ref">26</xref>, <xref rid="cas13307-bib-0027" ref-type="ref">27</xref> the DCR was 71.4% (10/14 patients), comparable to the Puhalla <italic>et al</italic>. (68%)<xref rid="cas13307-bib-0026" ref-type="ref">26</xref> and GOG&#x02010;280 studies (74.0%),<xref rid="cas13307-bib-0027" ref-type="ref">27</xref> where all patients carried a germline <italic>BRCA1</italic> or <italic>BRCA2</italic> mutation. Differences in the number of patients, the refractory nature of the disease, and <italic>BRCA</italic> status might explain the discrepancies in the results between studies.</p><p>Recent clinical trials of veliparib, both as monotherapy and in combination with a variety of chemotherapeutic agents or radiation therapy, have provided data in support of veliparib's activity in <italic>BRCA&#x02010;</italic>mutated tumors.<xref rid="cas13307-bib-0027" ref-type="ref">27</xref>, <xref rid="cas13307-bib-0036" ref-type="ref">36</xref>, <xref rid="cas13307-bib-0037" ref-type="ref">37</xref>, <xref rid="cas13307-bib-0038" ref-type="ref">38</xref>, <xref rid="cas13307-bib-0039" ref-type="ref">39</xref>, <xref rid="cas13307-bib-0040" ref-type="ref">40</xref>, <xref rid="cas13307-bib-0041" ref-type="ref">41</xref>, <xref rid="cas13307-bib-0042" ref-type="ref">42</xref>, <xref rid="cas13307-bib-0043" ref-type="ref">43</xref> In a phase 2 study of veliparib as monotherapy in patients with recurrent ovarian cancer and germline <italic>BRCA1</italic> and <italic>BRCA2</italic> mutations,<xref rid="cas13307-bib-0027" ref-type="ref">27</xref> 26% of patients showed an objective response (<italic>n =</italic> 50; 90% CI: 16&#x02013;38%; CR: 2; PR: 11) with a median progression&#x02010;free survival of 8.2 months. For platinum&#x02010;resistant and platinum&#x02010;sensitive patients, objective responses were seen in 20% (<italic>n =</italic> 6/30; 90% CI: 9&#x02013;36%) and 35% (<italic>n =</italic> 7/20; 90% CI:18&#x02013;56%) of patients, respectively.<xref rid="cas13307-bib-0027" ref-type="ref">27</xref>
+</p><p>The distinct limitation of this study for interpreting efficacy results is the small number of patients enrolled. Nevertheless, the sample size is sufficient to achieve study objectives &#x02013; to evaluate PK variables and establish the RP2D of veliparib. Additionally, since a defective HR pathway is present in ~50% of HGSOC cases,<xref rid="cas13307-bib-0011" ref-type="ref">11</xref> and only three patients (18.8%) were confirmed as positive for <italic>BRCA1</italic> mutation in this study, this may have affected the efficacy results, given that PARP inhibitors are particularly effective in cells exhibiting BRCA1/2 deficiencies in the HR pathway for DNA repair. It should be noted that the median TTP in platinum sensitive ovarian cancer patients treated at RP2D appears comparable to that observed with olaparib and niraparib in the similar patient population.<xref rid="cas13307-bib-0016" ref-type="ref">16</xref>, <xref rid="cas13307-bib-0044" ref-type="ref">44</xref>
+</p><p>In conclusion, this first study of veliparib as monotherapy in Japanese patients has demonstrated a manageable safety profile and confirmed that there are no differences in PK based on ethnicity, thereby supporting the inclusion of Japanese patients in the ongoing multinational phase 3 study (NCT02470585).</p></sec><sec id="cas13307-sec-0016"><title>Disclosure Statement</title><p>Koji Matsumoto has received honoraria from Chugai. Kenji Tamura has received research funding from Daiichi Sankyo, MSD, AstraZeneca, Eli Lilly, Pfizer. Satoshi Yamaguchi has received research funding from ZERIA Pharmaceutical. Chikako Shimizu has received research funding from Pfizer, Eli Lilly, Chugai. Kan Yonemori has received honoraria from Eisai. Hao Xiong, Silpa Nuthalapati, Terri Leahy and Philip Komarnitsky are employed by AbbVie and own AbbVie stock. Hideyuki Hashiba and Tsukasa Kiriyama are employed by AbbVie GK. Keiichi Fujiwara has received research funding from AbbVie, AstraZeneca, Pfizer, Chugai, Taiho, Eisai. Tadaaki Nishikawa, Hiroyuki Yoshida, Yuichi Imai, Aki Miyasaka, Takuma Onoe, Tatsunori Shimoi, Mayu Yunokawa have nothing to disclose.</p></sec></body><back><ack id="cas13307-sec-0015"><title>Acknowledgments</title><p>AbbVie and the authors thank the patients who participated in this clinical trial and all study investigators for their contributions. The authors would like to thank Yasuko Nishimura for programming support and Stacie Shepherd for her contributions to the study. Medical writing support was provided by Delyth Eickermann, PhD, and Iratxe Abarrategui, PhD, from TRM Oncology, The Hague, The Netherlands, funded by AbbVie Inc. AbbVie Inc. provided financial support for this study (NCT02210663) and participated in the design, study conduct, analysis, and interpretation of the data, as well as the writing, review, and approval of this manuscript.</p></ack><ref-list content-type="cited-references" id="cas13307-bibl-0001"><title>References</title><ref id="cas13307-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cas13307-cit-0001">
+<string-name>
+<surname>Wang</surname>
+<given-names>ZC</given-names>
+</string-name>, <string-name>
+<surname>Birkbak</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Culhane</surname>
+<given-names>AC</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Profiles of genomic instability in high&#x02010;grade serous ovarian cancer predict treatment outcome</article-title>. <source>Clin Cancer Res</source>
+<year>2012</year>; <volume>18</volume>: <fpage>5806</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">22912389</pub-id></mixed-citation></ref><ref id="cas13307-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cas13307-cit-0002">
+<string-name>
+<surname>Coleman</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Forman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bryant</surname>
+<given-names>H</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Cancer survival in Australia, Canada, Denmark, Norway, Sweden, and the UK, 1995&#x02013;2007 (the International Cancer Benchmarking Partnership): an analysis of population&#x02010;based cancer registry data</article-title>. <source>Lancet</source>
+<year>2011</year>; <volume>377</volume>: <fpage>127</fpage>&#x02013;<lpage>38</lpage>.<pub-id pub-id-type="pmid">21183212</pub-id></mixed-citation></ref><ref id="cas13307-bib-0003"><label>3</label><mixed-citation publication-type="miscellaneous" id="cas13307-cit-0003">
+<collab collab-type="authors">National Cancer Institute</collab>
+. <article-title>Surveillance, epidemiology, and end results program</article-title>. Cancer stat facts: Ovarian cancer. [Cited 29 March 2017.] Available from URL: <ext-link ext-link-type="uri" xlink:href="https://seer.cancer.gov/statfacts/html/ovary.html">https://seer.cancer.gov/statfacts/html/ovary.html</ext-link>.</mixed-citation></ref><ref id="cas13307-bib-0004"><label>4</label><mixed-citation publication-type="miscellaneous" id="cas13307-cit-0004">
+<collab collab-type="authors">International Agency for Research on Cancer</collab>
+. World Health Organization. <article-title>GLOBOCAN 2012: estimated cancer incidence, mortality and prevalence worldwide in 2012</article-title>. [Cited 29 March 2017.] Available from URL: <ext-link ext-link-type="uri" xlink:href="http://globocan.iarc.fr/Pages/fact_sheets_cancer.aspx">http://globocan.iarc.fr/Pages/fact_sheets_cancer.aspx</ext-link>.</mixed-citation></ref><ref id="cas13307-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="cas13307-cit-0005">
+<collab collab-type="authors">Foundation for Promotion of Cancer Research</collab>
+. <article-title>Cancer statistics in Japan &#x02013; 2015</article-title>. <year>2015</year> [Cited 29 March 2017.] Available from URL: <ext-link ext-link-type="uri" xlink:href="http://ganjoho.jp/data/reg_stat/statistics/brochure/2015/cancer_statistics_2015.pdf">http://ganjoho.jp/data/reg_stat/statistics/brochure/2015/cancer_statistics_2015.pdf</ext-link>.</mixed-citation></ref><ref id="cas13307-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cas13307-cit-0006">
+<string-name>
+<surname>Haruta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Furukawa</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Yoshizawa</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Molecular genetics and epidemiology of epithelial ovarian cancer (review)</article-title>. <source>Oncol Rep</source>
+<year>2011</year>; <volume>26</volume>: <fpage>1347</fpage>&#x02013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">21922146</pub-id></mixed-citation></ref><ref id="cas13307-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cas13307-cit-0007">
+<string-name>
+<surname>Pal</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Permuth&#x02010;Wey</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Betts</surname>
+<given-names>JA</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>BRCA1 and BRCA2 mutations account for a large proportion of ovarian carcinoma cases</article-title>. <source>Cancer</source>
+<year>2005</year>; <volume>104</volume>: <fpage>2807</fpage>&#x02013;<lpage>16</lpage>.<pub-id pub-id-type="pmid">16284991</pub-id></mixed-citation></ref><ref id="cas13307-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cas13307-cit-0008">
+<string-name>
+<surname>Antoniou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pharoah</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Narod</surname>
+<given-names>S</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Average risks of breast and ovarian cancer associated with BRCA1 or BRCA2 mutations detected in case series unselected for family history: a combined analysis of 22 studies</article-title>. <source>Am J Hum Genet</source>
+<year>2003</year>; <volume>72</volume>: <fpage>1117</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">12677558</pub-id></mixed-citation></ref><ref id="cas13307-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cas13307-cit-0009">
+<string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Parmigiani</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Meta&#x02010;analysis of BRCA1 and BRCA2 penetrance</article-title>. <source>J Clin Oncol</source>
+<year>2007</year>; <volume>25</volume>: <fpage>1329</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">17416853</pub-id></mixed-citation></ref><ref id="cas13307-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cas13307-cit-0010">
+<string-name>
+<surname>Bowtell</surname>
+<given-names>DD</given-names>
+</string-name>. <article-title>The genesis and evolution of high&#x02010;grade serous ovarian cancer</article-title>. <source>Nat Rev Cancer</source>
+<year>2010</year>; <volume>10</volume>: <fpage>803</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">20944665</pub-id></mixed-citation></ref><ref id="cas13307-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cas13307-cit-0011">
+<string-name>
+<surname>Bowtell</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>B&#x000f6;hm</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>AA</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Rethinking ovarian cancer II: reducing mortality from high&#x02010;grade serous ovarian cancer</article-title>. <source>Nat Rev Cancer</source>
+<year>2015</year>; <volume>15</volume>: <fpage>668</fpage>&#x02013;<lpage>79</lpage>.<pub-id pub-id-type="pmid">26493647</pub-id></mixed-citation></ref><ref id="cas13307-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cas13307-cit-0012">
+<string-name>
+<surname>Matsumoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Onda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yaegashi</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Pharmacotherapy for recurrent ovarian cancer: current status and future perspectives</article-title>. <source>Jpn J Clin Oncol</source>
+<year>2015</year>; <volume>45</volume>: <fpage>408</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">25765457</pub-id></mixed-citation></ref><ref id="cas13307-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cas13307-cit-0013">
+<string-name>
+<surname>Balma&#x000f1;a</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>D&#x000ed;ez</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Rubio</surname>
+<given-names>IT</given-names>
+</string-name>, <string-name>
+<surname>Cardoso</surname>
+<given-names>F</given-names>
+</string-name>; <collab collab-type="authors">ESMO Guidelines Working Group</collab>
+. <article-title>BRCA in breast cancer: ESMO clinical practice guidelines</article-title>. <source>Ann Oncol</source>
+<year>2011</year>; <volume>22</volume>(<issue>Suppl 6</issue>): <fpage>vi31</fpage>&#x02013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">21908500</pub-id></mixed-citation></ref><ref id="cas13307-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cas13307-cit-0014">
+<string-name>
+<surname>Am&#x000e9;</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Spenlehauer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>de Murcia</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The PARP superfamily</article-title>. <source>BioEssays</source>
+<year>2004</year>; <volume>26</volume>: <fpage>882</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">15273990</pub-id></mixed-citation></ref><ref id="cas13307-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cas13307-cit-0015">
+<string-name>
+<surname>Kaufman</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Shapira&#x02010;Frommer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Schmutzler</surname>
+<given-names>RK</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Olaparib monotherapy in patients with advanced cancer and a germline BRCA1/2 mutation</article-title>. <source>J Clin Oncol</source>
+<year>2015</year>; <volume>33</volume>: <fpage>244</fpage>&#x02013;<lpage>50</lpage>.<pub-id pub-id-type="pmid">25366685</pub-id></mixed-citation></ref><ref id="cas13307-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cas13307-cit-0016">
+<string-name>
+<surname>Ledermann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Harter</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gourley</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Olaparib maintenance therapy in platinum&#x02010;sensitive relapsed ovarian cancer</article-title>. <source>N Engl J Med</source>
+<year>2012</year>; <volume>366</volume>: <fpage>1382</fpage>&#x02013;<lpage>92</lpage>.<pub-id pub-id-type="pmid">22452356</pub-id></mixed-citation></ref><ref id="cas13307-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cas13307-cit-0017">
+<string-name>
+<surname>Ledermann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Harter</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gourley</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Olaparib maintenance therapy in patients with platinum&#x02010;sensitive relapsed serous ovarian cancer: a preplanned retrospective analysis of outcomes by BRCA status in a randomised phase 2 trial</article-title>. <source>Lancet Oncol</source>
+<year>2014</year>; <volume>15</volume>: <fpage>852</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">24882434</pub-id></mixed-citation></ref><ref id="cas13307-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cas13307-cit-0018">
+<string-name>
+<surname>Farmer</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>McCabe</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lord</surname>
+<given-names>CJ</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Targeting the DNA repair defect in BRCA mutant cells as a therapeutic strategy</article-title>. <source>Nature</source>
+<year>2005</year>; <volume>434</volume>: <fpage>917</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">15829967</pub-id></mixed-citation></ref><ref id="cas13307-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cas13307-cit-0019">
+<string-name>
+<surname>Bryant</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>HD</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Specific killing of BRCA2&#x02010;deficient tumours with inhibitors of poly(ADP&#x02010;ribose) polymerase</article-title>. <source>Nature</source>
+<year>2005</year>; <volume>434</volume>: <fpage>913</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">15829966</pub-id></mixed-citation></ref><ref id="cas13307-bib-0020"><label>20</label><mixed-citation publication-type="miscellaneous" id="cas13307-cit-0020">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>Summary of opinion: Lynparza (olaparib)</article-title>. <year>2014</year> [Cited 11 April 2017.] Available from URL: <ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/ema/index.jsp?curl=pages/news_and_events/news/2014/10/news_detail_002196.jsp%26mid=WC0b01ac058004d5c1">http://www.ema.europa.eu/ema/index.jsp?curl=pages/news_and_events/news/2014/10/news_detail_002196.jsp&#x00026;mid=WC0b01ac058004d5c1</ext-link>.</mixed-citation></ref><ref id="cas13307-bib-0021"><label>21</label><mixed-citation publication-type="miscellaneous" id="cas13307-cit-0021">
+<collab collab-type="authors">US Food and Drug Administration</collab>
+. <year>2014</year> [Cited 11 April 2017.] Available from URL: <ext-link ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process%26applno=206162">https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&#x00026;applno=206162</ext-link>.</mixed-citation></ref><ref id="cas13307-bib-0022"><label>22</label><mixed-citation publication-type="miscellaneous" id="cas13307-cit-0022">
+<collab collab-type="authors">US Food and Drug Administration</collab>
+. <year>2016</year> [Cited 11 April 2017.] Available from URL: <ext-link ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process%26applno=209115">https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&#x00026;applno=209115</ext-link>.</mixed-citation></ref><ref id="cas13307-bib-0023"><label>23</label><mixed-citation publication-type="miscellaneous" id="cas13307-cit-0023">
+<collab collab-type="authors">US Food and Drug Administration</collab>
+. <year>2017</year> [Cited 11 April 2017.] Available from URL: <ext-link ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process%26applno=208447">https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&#x00026;applno=208447</ext-link>.</mixed-citation></ref><ref id="cas13307-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cas13307-cit-0024">
+<string-name>
+<surname>Konstantinopoulos</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Ceccaldi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Shapiro</surname>
+<given-names>GI</given-names>
+</string-name>, <string-name>
+<surname>D'Andrea</surname>
+<given-names>AD</given-names>
+</string-name>. <article-title>Homologous recombination deficiency: exploiting the fundamental vulnerability of ovarian cancer</article-title>. <source>Cancer Discov</source>
+<year>2015</year>; <volume>5</volume>: <fpage>1137</fpage>&#x02013;<lpage>54</lpage>.<pub-id pub-id-type="pmid">26463832</pub-id></mixed-citation></ref><ref id="cas13307-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cas13307-cit-0025">
+<string-name>
+<surname>Donawho</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>ABT&#x02010;888, an orally active poly(ADP&#x02010;ribose) polymerase inhibitor that potentiates DNA&#x02010;damaging agents in preclinical tumor models</article-title>. <source>Clin Cancer Res</source>
+<year>2007</year>; <volume>13</volume>: <fpage>2728</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">17473206</pub-id></mixed-citation></ref><ref id="cas13307-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cas13307-cit-0026">
+<string-name>
+<surname>Puhalla</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Beumer</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Pahuja</surname>
+<given-names>S</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Final results of a phase 1 study of single&#x02010;agent veliparib (V) in patients (pts) with either BRCA1/2&#x02010;mutated cancer (BRCA+), platinum&#x02010;refractory ovarian, or basal&#x02010;like breast cancer (BRCA&#x02010;wt)</article-title>. <source>J Clin Oncol</source>
+<year>2014</year>; <volume>32</volume>(<issue>Suppl</issue>): <fpage>abstract 2570</fpage>.</mixed-citation></ref><ref id="cas13307-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cas13307-cit-0027">
+<string-name>
+<surname>Coleman</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Sill</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Bell&#x02010;McGuinn</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A phase II evaluation of the potent, highly selective PARP inhibitor veliparib in the treatment of persistent or recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer in patients who carry a germline BRCA1 or BRCA2 mutation &#x02013; an NRG Oncology/Gynecologic Oncology Group study</article-title>. <source>Gynecol Oncol</source>
+<year>2015</year>; <volume>137</volume>: <fpage>386</fpage>&#x02013;<lpage>91</lpage>.<pub-id pub-id-type="pmid">25818403</pub-id></mixed-citation></ref><ref id="cas13307-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cas13307-cit-0028">
+<string-name>
+<surname>Steffensen</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Adimi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Jakobsen</surname>
+<given-names>AK</given-names>
+</string-name>. <article-title>Veliparib monotherapy to patients with BRCA germline mutation and platinum&#x02010;resistant or partially platinum&#x02010;sensitive relapse of epithelial ovarian cancer: a phase I/II study</article-title>. <source>J Clin Oncol</source>
+<year>2016</year>; <volume>34</volume>(<issue>Suppl</issue>): <fpage>abstract 5532</fpage>.</mixed-citation></ref><ref id="cas13307-bib-0029"><label>29</label><mixed-citation publication-type="miscellaneous" id="cas13307-cit-0029">
+<collab collab-type="authors">US Department of Health and Human Services</collab>
+. <article-title>Common Terminology Criteria for Adverse Events (CTCAE)</article-title>. Version 4.03. <year>2010</year> [Cited 29 March 2017.] Available from URL: <ext-link ext-link-type="uri" xlink:href="https://evs.nci.nih.gov/ftp1/CTCAE/CTCAE_4.03_2010-06-14_QuickReference_8.5x11.pdf">https://evs.nci.nih.gov/ftp1/CTCAE/CTCAE_4.03_2010-06-14_QuickReference_8.5x11.pdf</ext-link>.</mixed-citation></ref><ref id="cas13307-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cas13307-cit-0030">
+<string-name>
+<surname>Eisenhauer</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Therasse</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bogaerts</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1)</article-title>. <source>Eur J Cancer</source>
+<year>2009</year>; <volume>45</volume>: <fpage>228</fpage>&#x02013;<lpage>47</lpage>.<pub-id pub-id-type="pmid">19097774</pub-id></mixed-citation></ref><ref id="cas13307-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cas13307-cit-0031">
+<string-name>
+<surname>Rustin</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Quinn</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thigpen</surname>
+<given-names>T</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Re: New guidelines to evaluate the response to treatment in solid tumors (ovarian cancer)</article-title>. <source>J Natl Cancer Inst</source>
+<year>2004</year>; <volume>96</volume>: <fpage>487</fpage>&#x02013;<lpage>8</lpage>.</mixed-citation></ref><ref id="cas13307-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cas13307-cit-0032">
+<string-name>
+<surname>Mostafa</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Chiu</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Rosen</surname>
+<given-names>LS</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A phase 1 study to evaluate effect of food on veliparib pharmacokinetics and relative bioavailability in subjects with solid tumors</article-title>. <source>Cancer Chemother Pharmacol</source>
+<year>2014</year>; <volume>74</volume>: <fpage>583</fpage>&#x02013;<lpage>91</lpage>.<pub-id pub-id-type="pmid">25053388</pub-id></mixed-citation></ref><ref id="cas13307-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cas13307-cit-0033">
+<string-name>
+<surname>Munasinghe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Stodtmann</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tolcher</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Effect of veliparib (ABT&#x02010;888) on cardiac repolarization in patients with advanced solid tumors: a randomized, placebo&#x02010;controlled crossover study</article-title>. <source>Cancer Chemother Pharmacol</source>
+<year>2016</year>; <volume>78</volume>: <fpage>1003</fpage>&#x02013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">27709282</pub-id></mixed-citation></ref><ref id="cas13307-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cas13307-cit-0034">
+<string-name>
+<surname>Mizugaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yamamoto</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Nokihara</surname>
+<given-names>H</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A phase 1 study evaluating the pharmacokinetics and preliminary efficacy of veliparib (ABT&#x02010;888) in combination with carboplatin/paclitaxel in Japanese subjects with non&#x02010;small cell lung cancer (NSCLC)</article-title>. <source>Cancer Chemother Pharmacol</source>
+<year>2015</year>; <volume>76</volume>: <fpage>1063</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">26433581</pub-id></mixed-citation></ref><ref id="cas13307-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cas13307-cit-0035">
+<string-name>
+<surname>Murai</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Das</surname>
+<given-names>BB</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Trapping of PARP1 and PARP2 by clinical PARP inhibitors</article-title>. <source>Cancer Res</source>
+<year>2012</year>; <volume>72</volume>: <fpage>5588</fpage>&#x02013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">23118055</pub-id></mixed-citation></ref><ref id="cas13307-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cas13307-cit-0036">
+<string-name>
+<surname>Appleman</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Beumer</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A phase I study of veliparib (ABT&#x02010;888) in combination with carboplatin and paclitaxel in advanced solid malignancies</article-title>. <source>J Clin Oncol</source>
+<year>2012</year>; <volume>30</volume>(<issue>Suppl</issue>): <fpage>abstract 3049</fpage>.</mixed-citation></ref><ref id="cas13307-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cas13307-cit-0037">
+<string-name>
+<surname>Somlo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Frankel</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name>
+<surname>Luu</surname>
+<given-names>TH</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Efficacy of the combination of ABT&#x02010;888 (veliparib) and carboplatin in patients with BRCA&#x02010;associated breast cancer</article-title>. <source>J Clin Oncol</source>
+<year>2013</year>; <volume>30</volume>(<issue>Suppl</issue>): <fpage>abstract 1024</fpage>.</mixed-citation></ref><ref id="cas13307-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cas13307-cit-0038">
+<string-name>
+<surname>Pahuja</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Beumer</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Appleman</surname>
+<given-names>LJ</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A phase I study of veliparib (ABT&#x02010;888) in combination with weekly carboplatin and paclitaxel in advanced solid malignancies and enriched for triple&#x02010;negative breast cancer (TNBC)</article-title>. <source>J Clin Oncol</source>
+<year>2015</year>; <volume>33</volume>(<issue>Suppl</issue>): <fpage>abstract 1015</fpage>.</mixed-citation></ref><ref id="cas13307-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cas13307-cit-0039">
+<string-name>
+<surname>Rugo</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Olopade</surname>
+<given-names>OI</given-names>
+</string-name>, <string-name>
+<surname>DeMichele</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Adaptive randomization of veliparib&#x02010;carboplatin treatment in breast cancer</article-title>. <source>N Engl J Med</source>
+<year>2016</year>; <volume>375</volume>: <fpage>23</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">27406347</pub-id></mixed-citation></ref><ref id="cas13307-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cas13307-cit-0040">
+<string-name>
+<surname>Werner</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Sachdev</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Swisher</surname>
+<given-names>EM</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Veliparib (ABT&#x02010;888) extended&#x02010;release formulations: a phase 1 study on safety, pharmacokinetics (PK), and bioavailability in patients with advanced solid tumors</article-title>. <source>J Clin Oncol</source>
+<year>2016</year>; <volume>34</volume>(<issue>Suppl</issue>): <fpage>abstract 2579</fpage>.</mixed-citation></ref><ref id="cas13307-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cas13307-cit-0041">
+<string-name>
+<surname>Bell&#x02010;McGuinn</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Brady</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name>
+<surname>Schilder</surname>
+<given-names>RJ</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A phase I study of continuous veliparib in combination with IV carboplatin/paclitaxel or IV/IP paclitaxel/cisplatin and bevacizumab in newly diagnosed patients with previously untreated epithelial ovarian, fallopian tube, or primary peritoneal cancer: an NRG Oncology/Gynecologic Oncology Group study</article-title>. <source>J Clin Oncol</source>
+<year>2015</year>; <volume>33</volume>(<issue>Suppl</issue>): <fpage>abstract 5507</fpage>.</mixed-citation></ref><ref id="cas13307-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cas13307-cit-0042">
+<string-name>
+<surname>Isakoff</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Overmoyer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tung</surname>
+<given-names>NM</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A phase II trial of the PARP inhibitor veliparib (ABT888) and temozolomide for metastatic breast cancer</article-title>. <source>J Clin Oncol</source>
+<year>2010</year>; <volume>28</volume>(<issue>Suppl</issue>): <fpage>abstract 1019</fpage>.</mixed-citation></ref><ref id="cas13307-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cas13307-cit-0043">
+<string-name>
+<surname>Isakoff</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Overmoyer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tung</surname>
+<given-names>N</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A phase II trial expansion cohort of the PARP inhibitor veliparib (ABT888) and temozolomide in BRCA1/2 associated metastatic breast cancer</article-title>. <source>Cancer Res</source>
+<year>2011</year>; <volume>71</volume>(<issue>Suppl 24</issue>): <fpage>abstract P3&#x02010;16&#x02010;05</fpage>.</mixed-citation></ref><ref id="cas13307-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cas13307-cit-0044">
+<string-name>
+<surname>Mirza</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Monk</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Herrstedt</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Niraparib maintenance therapy in platinum&#x02010;sensitive, recurrent ovarian cancer</article-title>. <source>N Engl J Med</source>
+<year>2016</year>; <volume>375</volume>: <fpage>2154</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">27717299</pub-id></mixed-citation></ref></ref-list></back></article>

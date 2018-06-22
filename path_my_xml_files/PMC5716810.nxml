@@ -1,0 +1,543 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Prev Chronic Dis</journal-id><journal-id journal-id-type="iso-abbrev">Prev Chronic Dis</journal-id><journal-id journal-id-type="publisher-id">PCD</journal-id><journal-title-group><journal-title>Preventing Chronic Disease</journal-title></journal-title-group><issn pub-type="epub">1545-1151</issn><publisher><publisher-name>Centers for Disease Control and Prevention</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29191262</article-id><article-id pub-id-type="pmc">5716810</article-id><article-id pub-id-type="publisher-id">17_0326</article-id><article-id pub-id-type="doi">10.5888/pcd14.170326</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group><series-title>Peer Reviewed</series-title></article-categories><title-group><article-title>Controlling Chronic Diseases Through Evidence-Based Decision Making: A Group-Randomized Trial</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Brownson</surname><given-names>Ross C.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Allen</surname><given-names>Peg</given-names></name><degrees>PhD</degrees><degrees>MPH</degrees><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Jacob</surname><given-names>Rebekah R.</given-names></name><degrees>MSW</degrees><degrees>MPH</degrees><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>deRuyter</surname><given-names>Anna</given-names></name><degrees>MSW</degrees><degrees>MPH</degrees><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lakshman</surname><given-names>Meenakshi</given-names></name><degrees>MPH</degrees><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Reis</surname><given-names>Rodrigo S.</given-names></name><degrees>PhD</degrees><degrees>MSc</degrees><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Yan</surname><given-names>Yan</given-names></name><degrees>MD</degrees><degrees>PhD</degrees><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><aff id="aff1">
+<label>1</label>Prevention Research Center in St. Louis, Brown School, Washington University in St. Louis, St. Louis, Missouri</aff><aff id="aff2">
+<label>2</label>Department of Surgery, Division of Public Health Sciences, and Alvin J. Siteman Cancer Center, Washington University School of Medicine, Washington University in St. Louis, St. Louis, Missouri</aff><aff id="aff3">
+<label>3</label>Division of Biostatistics, Washington University School of Medicine, Washington University in St. Louis, St. Louis, Missouri</aff></contrib-group><author-notes><corresp id="cor1">Corresponding Author: Ross C. Brownson, PhD, Prevention Research Center in St. Louis, Brown School, Washington University in St. Louis, One Brookings Dr, Campus Box 1196, St. Louis, MO 63130. Telephone: 314-935-0114. Email: <email xlink:href="rbrownson@wustl.edu">rbrownson@wustl.edu</email>.</corresp></author-notes><pub-date pub-type="collection"><year>2017</year></pub-date><pub-date pub-type="epub"><day>30</day><month>11</month><year>2017</year></pub-date><volume>14</volume><elocation-id>E121</elocation-id><abstract><sec><title>Introduction</title><p>Although practitioners in state health departments are ideally positioned to implement evidence-based interventions, few studies have examined how to build their capacity to do so. The objective of this study was to explore how to increase the use of evidence-based decision-making processes at both the individual and organization levels.</p></sec><sec><title>Methods</title><p>We conducted a 2-arm, group-randomized trial with baseline data collection and follow-up at 18 to 24 months. Twelve state health departments were paired and randomly assigned to intervention or control condition. In the 6 intervention states, a multiday training on evidence-based decision making was conducted from March 2014 through March 2015 along with a set of supplemental capacity-building activities. Individual-level outcomes were evidence-based decision making skills of public health practitioners; organization-level outcomes were access to research evidence and participatory decision making. Mixed analysis of covariance models was used to evaluate the intervention effect by accounting for the cluster randomized trial design. Analysis was performed from March through May 2017.</p></sec><sec><title>Results</title><p>Participation 18 to 24 months after initial training was 73.5%. In mixed models adjusted for participant and state characteristics, the intervention group improved significantly in the overall skill gap (<italic>P</italic> = .01) and in 6 skill areas. Among the 4 organizational variables, only access to evidence and skilled staff showed an intervention effect (<italic>P</italic> = .04).</p></sec><sec><title>Conclusion</title><p>Tailored and active strategies are needed to build capacity at the individual and organization levels for evidence-based decision making. Our study suggests several dissemination interventions for consideration by leaders seeking to improve public health practice.</p></sec></abstract></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>An evidence-based approach to chronic disease prevention and control can significantly reduce the burden of chronic diseases (<xref rid="R1" ref-type="bibr">1</xref>). Large-scale efforts such as Cancer Control P.L.A.N.E.T. (<ext-link ext-link-type="uri" xlink:href="https://cancercontrolplanet.cancer.gov/">https://cancercontrolplanet.cancer.gov/</ext-link>) and the <italic>Community Guide</italic> placed various evidence-based interventions in the hands of cancer control practitioners (<xref rid="R2" ref-type="bibr">2</xref>). Even with knowledge of effective interventions, often 15 to 20 years elapse before research findings are incorporated into practice (<xref rid="R3" ref-type="bibr">3</xref>). Knowledge of effective approaches for dissemination of evidence-based interventions is growing (<xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R5" ref-type="bibr">5</xref>). Practitioners in state health departments can assess a public health problem, develop an appropriate program or policy to address the problem, and ensure that programs and policies are effectively delivered and implemented (<xref rid="R6" ref-type="bibr">6</xref>).</p><p>The process of evidence-based decision making (EBDM) involves multiple elements, including making decisions that are based on the best available scientific or rigorous evaluation evidence, applying program planning and quality improvement frameworks, engaging the community in assessment and decision making, adapting and implementing evidence-based interventions for specific populations or settings, and conducting sound evaluation (<xref rid="R7" ref-type="bibr">7</xref>). To select and implement evidence-based interventions in diverse populations and settings, advanced knowledge and skill is needed in key processes (eg, adaptation of interventions, evaluation) (<xref rid="R8" ref-type="bibr">8</xref>).</p><p>Previous research with state health agencies showed that although levels of awareness of EBDM is high, implementation of evidence-based interventions varies widely and is limited in many states (<xref rid="R9" ref-type="bibr">9</xref>). Similarly, another study found that although cancer control practitioners showed a strong preference for programs with proven effectiveness, fewer than half of respondents in that study (48%) had ever used resources on evidence-based interventions (<xref rid="R10" ref-type="bibr">10</xref>). A national survey of state practitioners in chronic disease control found that only 20% used evidence-based interventions often in their work (<xref rid="R11" ref-type="bibr">11</xref>). Nonetheless, staff members in state public health agencies recognize the need for capacity building to support implementation of effective practices (<xref rid="R10" ref-type="bibr">10</xref>).</p><p>Putting evidence to use in public health settings requires sufficient capacity &#x02014; the availability of resources, structures, and workforce to deliver the preventive dose of an evidence-based intervention (<xref rid="R12" ref-type="bibr">12</xref>). Capacity is a determinant of performance; that is, greater capacity is linked with greater effect on public health (<xref rid="R13" ref-type="bibr">13</xref>,<xref rid="R14" ref-type="bibr">14</xref>). Success in implementing EBDM in public health settings is achieved by building the skills of individuals (eg, their ability to carry out a program evaluation) and organizations (eg, achieving a climate and culture that supports innovation and evidence-based approaches) (<xref rid="R12" ref-type="bibr">12</xref>). These 2 skills are interrelated in that individuals shape organizations and organizations support the development of individuals (<xref rid="R15" ref-type="bibr">15</xref>).</p><p>To date, little research has addressed the most effective approaches for building capacity for EBDM in state public health agencies seeking to address chronic disease prevention and control. The objective of this study was to test whether providing training and other support to state health departments increased the use of EBDM processes to prevent chronic diseases at both the individual level (eg, reducing skill gaps) and the organization level (eg, increasing participatory decision making).</p></sec><sec sec-type="methods"><title>Methods</title><p>We conducted a 2-arm, group-randomized trial consisting of an intervention arm and a control arm (<xref ref-type="fig" rid="F1">Figure</xref>). We assessed 50 states and the District of Columbia for eligibility. We excluded 3 states with the lowest burden of cancer and overall chronic disease, 3 states with the lowest capacity for EBDM, 2 states with the highest capacity for EBDM, 7 states that had already received extensive EBDM training, and 3 states that had no logical pair match. State exclusion criteria are detailed elsewhere (<xref rid="R16" ref-type="bibr">16</xref>). The remaining 33 states were organized into tertiles according to state population size. Two pairs from each state population tertile were selected in 3 rounds of staggered selection and enrollment. Each round consisted of 1 state randomly selected from each of 2 tertiles and matched with the nearest population-sized state within the tertile. Six state health department&#x02019;s chronic disease prevention units (hereinafter called states) were selected via a simple randomization method by our data analyst (R.R.J.) and then pair-matched with the state closest in population size, to decrease between-state variability, for a total of 6 pairs (6 intervention states and 6 control states, 1 each per pair). We then invited the states to participate by contacting the chronic disease director in each state health department. Two states declined to participate, and we selected the state with the nearest population in the tertile to replace that state to retain our total of 12. After pairing and obtaining consent from the lead chronic disease official, whom we designated as the state-level representative, the 2 states in each pair were randomly assigned to the intervention arm or control arm. There was no blinding. Enrollment of state pairs, data collection, and intervention trainings were staggered for scheduling feasibility. Enrollment of states took place from September 2013 through May 2014. The trial was registered with ClinicalTrials.gov (NCT01978054) (<xref rid="R17" ref-type="bibr">17</xref>). The study was approved by the Washington University in St. Louis Institutional Review Board (no. 201111105).</p><fig id="F1" fig-type="figure" orientation="portrait" position="float"><label>Figure</label><caption><p>Flow diagram of the study of evidence-based decision making conducted in 12 states, 2014&#x02013;2016 (CONSORT diagram).</p></caption><long-desc>This flowchart shows that from 50 states and the District of Columbia, 33 states were eligible to be randomized into the intervention or control arm. After pairing, 12 states were randomized. Participants were surveyed at baseline in 6 intervention states and 6 control states (n = 580). Post-intervention surveys were conducted at 18 to 24 months after initial multiday training.</long-desc><graphic xlink:href="PCD-14-E121s01"/></fig><sec><title>Intervention</title><p>
+<bold>Intervention states.</bold> The intervention began with a 3.5-day training in EBDM conducted onsite at each of the 6 intervention states between March 2014 and March 2015. Training details are described elsewhere (<xref rid="R18" ref-type="bibr">18</xref>). The lead official responsible for chronic disease control in each state assisted the team in recruiting training participants from among their staffs and sometimes included staff members from state or local partnering organizations. A total of 222 staff members attended a multiday EBDM course in 1 of the 6 intervention states. All intervention state participants were asked to complete an online baseline survey before the multiday training. Each intervention state received a report on its baseline survey results for planning purposes and selected supplemental capacity-building activities, typically brief trainings or management strategies intended to build an organizational culture of EBDM, improve staff access to research evidence, share information, and build evaluation capacity (Appendix Table 1). Follow-up conference calls with intervention states provided technical assistance and supplemental activity planning and updates.</p><p>
+<bold>Control states</bold>
+<italic>.</italic> Control states identified participants for data collection and received a list of EBDM resources, web links, and state-specific baseline and post-intervention findings. They received no training, and all control state participants were asked to complete an online baseline survey before their paired state&#x02019;s multiday training.</p></sec><sec><title>Participants</title><p>Study participants were 2 groups of chronic disease control practitioners at the state and local level, an intervention group and a control group. These were people who directed and implemented population-based intervention programs in government agencies or in community-based coalitions. Participants were directly involved in delivering programs, setting priorities, or allocating resources for programs related to chronic disease risk factors or screening. Examples were the director of a comprehensive chronic disease program for the state or a leader in a state or regional chronic disease control coalition. </p><p>The intervention arm comprised 2 groups: a primary group and a secondary group. The primary group in each intervention state was made up of staff members who attended the EBDM course; most worked in state health departments and a few were from state or local partnering organizations. The secondary group in each intervention state, none of whom attended the EBDM course, was made up of chronic disease staff members and partnering staff members from each state health department, local health departments, universities, and coalitions (collaborators). Collaborators were surveyed because they were expected to apply EBDM in their organizations for control of chronic diseases as funded or guided by the state. Inclusion of collaborators also helped the study team meet sample size requirements. All participants were aged 20 years or older and able to take an online survey in English. Across the entire sample, most participants worked either in chronic disease risk reduction or chronic disease screening.</p></sec><sec><title>Measures, data collection, and statistical analysis</title><p>Measures in the 65-item online Qualtrics Version January 2014&#x02013;November 2016 (Qualtrics) survey were informed by a literature review (<xref rid="R13" ref-type="bibr">13</xref>) and earlier research by the study team (<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R19" ref-type="bibr">19</xref>). Measures, described in detail elsewhere (<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R20" ref-type="bibr">20</xref>,<xref rid="R21" ref-type="bibr">21</xref>), were tested with cognitive response methods and test&#x02013;retest reliability (<xref rid="R16" ref-type="bibr">16</xref>). Survey questions assessed individual-level skills (eg, adapting interventions, action planning, communicating to policy audiences) and organizational-level capacities (eg, access to evidence, program evaluation, perceived supervisory expectations) (Appendix Table 2). Survey participants were asked to rate on a 11-point Likert scale the perceived importance and perceived availability of 10 EBDM skills.</p><p>Online self-report surveys were administered, by state, at 2 points at staggered times: 1) a baseline survey conducted from January 2014 through December 2014 and 2) a post-intervention survey conducted from October 2015 through November 2016, 18 to 24 months after the state pair&#x02019;s EBDM training. The study team followed up each returned post-survey email invitation to determine whether the participant had left the agency or just had a new email address and recorded reasons for declining among those who declined the post-survey by telephone or email. </p><p>The unit of analysis was individual staff members, with individuals from all 12 clusters (states) who completed both surveys included in analyses. We calculated baseline intra-cluster correlations for the dependent variables using standard methods to assess need for mixed modeling, but we elected to conduct mixed modeling as a conservative approach regardless of result. One-stage mixed analysis of covariance (ANCOVA) models were fitted by using PROC MIXED (SAS Inc) with state as a random effect to account for clustering by state (<xref rid="R22" ref-type="bibr">22</xref>). The between&#x02013;within method was used to calculate denominator degrees of freedom for the fixed effect instead of the SAS default containment method, because it is more appropriate for unbalanced study designs. SAS version 9.4 was used for descriptive analyses and mixed ANCOVA modeling, and SPSS version 24 (IBM Corp) was used to clean and recode data and create calculated variables. Covariates were included in final ANCOVA models when the unadjusted effect size was attenuated by 10% or more on the basis of addition of a particular covariate to the model (<xref rid="R23" ref-type="bibr">23</xref>). Sex was included in all adjusted models as required in studies funded by the National Institutes of Health. All tests of significance were 2-sided, including the &#x003c7;<sup>2</sup> tests and independent samples <italic>t</italic> tests used to compare baseline participant characteristics and scores. The sample size calculation of the study is described elsewhere (<xref rid="R16" ref-type="bibr">16</xref>).</p><p>The primary individual-level outcomes were gaps in EBDM skills among public health practitioners and their use of research evidence for job tasks. The primary organization-level outcomes were access to research evidence and the presence of a staff with EBDM skills, supervisory expectations for EBDM use, evaluation, and work unit participatory decision making as assessed through individuals&#x02019; perceptions. The main analyses compared data on the primary intervention arm participants with data on control participants; we also compared data on secondary intervention arm participants and control participants. </p><p>We calculated gaps in the 10 EBDM skill scores by subtracting the score in perceived availability from the score in perceived importance for each individual for each skill. Higher gap scores indicate larger gaps. A summary score for gaps in skills was calculated for each individual by summing the values for gaps in scores for the 10 EBDM skills. A summary frequency of use of research evidence for job tasks was the calculated mean of the 6 job task responses.</p><p>We used items from a 7-point Likert scale (1 = &#x0201c;strongly disagree&#x0201d; and 7 = &#x0201c;strongly agree&#x0201d;) to conduct exploratory factor analysis with orthogonal rotation to create individual scores for 5 factors: 1) access to research evidence and resources (4 items), 2) evaluation capacity (3 items); 3) supervisory expectations (3 items), 4) participatory decision making (3 items), and 5) agency leadership support (3 items) as in a previous national survey with state health department public health practitioners (<xref rid="R21" ref-type="bibr">21</xref>). By definition, the factor scores had a mean of zero and were normally distributed. One or more organization behavior items were left blank by 34 of the 567 survey participants (6.0%); these participants were excluded from factor score creation and mixed ANCOVA modeling.</p></sec></sec><sec sec-type="results"><title>Results</title><p>At baseline, 1,237 of the 1,508 invited public health practitioners completed the online survey (82.0% response, 83.6% for the 6 intervention states, 80.2% for controls). At follow-up, 909 (73.5%) of baseline participants completed the post-intervention survey, with a median of 73 participants per state (mean, 75.8; standard deviation [SD], 10.6). Loss to survey follow-up was primarily due to staff turnover. Of the 222 people assigned to the primary intervention arm who attended the EBDM training, 148 (66.7%) completed both baseline and post-intervention surveys (<xref ref-type="table" rid="T1">Table 1</xref>); of the 439 secondary intervention arm participants, 342 (77.9%) completed both surveys, and of the 580 control participants, 419 (72.2%) completed both surveys. Overall, most baseline survey participants were women (80.6%), and 64.3% had at least a master&#x02019;s degree in any field. At baseline, primary intervention participants differed significantly from control participants in several characteristics: for example, the percentage working in state health departments, age, and the percentage holding a master&#x02019;s degree or doctorate in public health. The number of primary intervention arm participants varied by state from 18 to 32, and the number of control participants varied by state from 65 to 72. </p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><title>Characteristics of Participants at Baseline Among Primary Intervention Participants and Controls in 12 States, Study of Evidence-Based Decision Making, 2014&#x02013;2015<xref rid="T1FN1" ref-type="table-fn">a</xref>
+</title></caption><table frame="hsides" rules="groups"><col width="175" span="1"/><col width="82" span="1"/><col width="82" span="1"/><col width="82" span="1"/><col width="45" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Characteristic</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Overall (n = 567)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Primary Intervention Group<xref rid="T1FN2" ref-type="table-fn">b</xref> (n = 148)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Control Group<xref rid="T1FN3" ref-type="table-fn">c</xref> (n = 419)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">
+<italic>P </italic>Value<xref rid="T1FN4" ref-type="table-fn">d</xref>
+</th></tr></thead><tbody><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>State health department</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.6</td><td valign="top" align="right" rowspan="1" colspan="1">81.8</td><td valign="top" align="right" rowspan="1" colspan="1">47.7</td><td valign="top" align="right" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Position type</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Leadership position</td><td valign="top" align="right" rowspan="1" colspan="1">17.0</td><td valign="top" align="right" rowspan="1" colspan="1">16.9</td><td valign="top" align="right" rowspan="1" colspan="1">17.0</td><td rowspan="4" valign="middle" align="right" colspan="1">.74</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Program manager or coordinator</td><td valign="top" align="right" rowspan="1" colspan="1">48.2</td><td valign="top" align="right" rowspan="1" colspan="1">50.0</td><td valign="top" align="right" rowspan="1" colspan="1">47.6</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Health specialist</td><td valign="top" align="right" rowspan="1" colspan="1">30.6</td><td valign="top" align="right" rowspan="1" colspan="1">30.4</td><td valign="top" align="right" rowspan="1" colspan="1">30.6</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Other type specified</td><td valign="top" align="right" rowspan="1" colspan="1">4.2</td><td valign="top" align="right" rowspan="1" colspan="1">2.7</td><td valign="top" align="right" rowspan="1" colspan="1">4.8</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Female</td><td valign="top" align="right" rowspan="1" colspan="1">80.6</td><td valign="top" align="right" rowspan="1" colspan="1">84.4</td><td valign="top" align="right" rowspan="1" colspan="1">79.3</td><td valign="top" align="right" rowspan="1" colspan="1">.18</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Age, y</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">20&#x02013;29</td><td valign="top" align="right" rowspan="1" colspan="1">5.4</td><td valign="top" align="right" rowspan="1" colspan="1">10.3</td><td valign="top" align="right" rowspan="1" colspan="1">3.6</td><td rowspan="5" valign="middle" align="right" colspan="1">.02</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">30&#x02013;39</td><td valign="top" align="right" rowspan="1" colspan="1">20.4</td><td valign="top" align="right" rowspan="1" colspan="1">23.3</td><td valign="top" align="right" rowspan="1" colspan="1">19.4</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">40&#x02013;49</td><td valign="top" align="right" rowspan="1" colspan="1">26.1</td><td valign="top" align="right" rowspan="1" colspan="1">24.0</td><td valign="top" align="right" rowspan="1" colspan="1">26.9</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">50&#x02013;59</td><td valign="top" align="right" rowspan="1" colspan="1">33.1</td><td valign="top" align="right" rowspan="1" colspan="1">30.1</td><td valign="top" align="right" rowspan="1" colspan="1">34.1</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x02265;60</td><td valign="top" align="right" rowspan="1" colspan="1">15.0</td><td valign="top" align="right" rowspan="1" colspan="1">12.3</td><td valign="top" align="right" rowspan="1" colspan="1">16.0</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Education</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Master&#x02019;s degree or higher in any field</td><td valign="top" align="right" rowspan="1" colspan="1">64.3</td><td valign="top" align="right" rowspan="1" colspan="1">64.9</td><td valign="top" align="right" rowspan="1" colspan="1">64.1</td><td valign="top" align="right" rowspan="1" colspan="1">.86</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Public health master&#x02019;s degree or doctorate</td><td valign="top" align="right" rowspan="1" colspan="1">22.5</td><td valign="top" align="right" rowspan="1" colspan="1">35.8</td><td valign="top" align="right" rowspan="1" colspan="1">17.7</td><td valign="top" align="right" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Nursing degree</td><td valign="top" align="right" rowspan="1" colspan="1">10.5</td><td valign="top" align="right" rowspan="1" colspan="1">11.9</td><td valign="top" align="right" rowspan="1" colspan="1">10.2</td><td valign="top" align="right" rowspan="1" colspan="1">.66</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Chronic disease prevention and control revenue from CDC as of October 2014, in millions of dollars, mean (SD)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">14.5 (7.6)</td><td valign="top" align="right" rowspan="1" colspan="1">16.8 (9.4)</td><td valign="top" align="right" rowspan="1" colspan="1">13.7 (6.7)</td><td valign="middle" align="right" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Size of state population, by tertile</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Small</td><td valign="top" align="right" rowspan="1" colspan="1">32.1</td><td valign="top" align="right" rowspan="1" colspan="1">34.5</td><td valign="top" align="right" rowspan="1" colspan="1">31.3</td><td rowspan="3" valign="middle" align="right" colspan="1">.28</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Mid-size</td><td valign="top" align="right" rowspan="1" colspan="1">34.9</td><td valign="top" align="right" rowspan="1" colspan="1">37.8</td><td valign="top" align="right" rowspan="1" colspan="1">33.9</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Large</td><td valign="top" align="right" rowspan="1" colspan="1">33.0</td><td valign="top" align="right" rowspan="1" colspan="1">27.7</td><td valign="top" align="right" rowspan="1" colspan="1">34.8</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Percentage of state population living in urban area, mean (SD)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">68.9 (15.2)</td><td valign="top" align="right" rowspan="1" colspan="1">67.4 (10.1)</td><td valign="top" align="right" rowspan="1" colspan="1">69.4 (16.6)</td><td valign="middle" align="right" rowspan="1" colspan="1">.09</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Percentage of state population living in poverty, mean (SD)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">14.6 (4.2)</td><td valign="top" align="right" rowspan="1" colspan="1">12.4 (3.8)</td><td valign="top" align="right" rowspan="1" colspan="1">15.4 (4.0)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>State political party control in 2014 of governorship, state house, state senate</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">All Republican control</td><td valign="top" align="right" rowspan="1" colspan="1">51.8</td><td valign="top" align="right" rowspan="1" colspan="1">51.4</td><td valign="top" align="right" rowspan="1" colspan="1">52.0</td><td rowspan="3" valign="middle" align="right" colspan="1">&#x0003c;.001</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Divided party control</td><td valign="top" align="right" rowspan="1" colspan="1">27.3</td><td valign="top" align="right" rowspan="1" colspan="1">12.8</td><td valign="top" align="right" rowspan="1" colspan="1">32.5</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">All Democratic control</td><td valign="top" align="right" rowspan="1" colspan="1">20.8</td><td valign="top" align="right" rowspan="1" colspan="1">35.8</td><td valign="top" align="right" rowspan="1" colspan="1">15.5</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviation: CDC, Centers for Disease Control and Prevention; SD, standard deviation.</p></fn><fn id="T1FN1"><label>a</label><p> Values are percentages unless otherwise indicated. Only participants who completed the baseline survey and follow-up survey (18 to 24 months later) were included in the analysis.</p></fn><fn id="T1FN2"><label>b</label><p> Intervention arm comprised a primary group, which attended an evidenced-based decision-making course, and a secondary group, which did not attend an evidenced-based decision-making course but participated in other training activities.</p></fn><fn id="T1FN3"><label>c</label><p> Control group received no training.</p></fn><fn id="T1FN4"><label>d</label><p>
+<italic>P</italic> values calculated by using 2-sided &#x003c7;<sup>2</sup> or <italic>t</italic> test to test differences between primary intervention group and control group.</p></fn></table-wrap-foot></table-wrap><p>The largest EBDM skill gaps at baseline were for adapting interventions, economic evaluation, and communicating research to policy makers (<xref ref-type="table" rid="T2">Table 2</xref>). Mean scores at baseline did not differ significantly between groups, except for 3 skills: adapting interventions (<italic>t</italic> = 2.49, <italic>P</italic> = .01), economic evaluation (<italic>t</italic> = 2.10, <italic>P</italic> = .04), and community assessment (<italic>t</italic> = 2.01, <italic>P</italic> = .04). Baseline intra-cluster correlations were low in all the states (ranging from &#x0003c;.001 to .018), indicating low correlation of responses within states.</p><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2</label><caption><title>Mean Scores at Baseline and Post-Intervention in 12 States, Study of Evidence-Based Decision Making, 2014&#x02013;2016</title></caption><table frame="hsides" rules="groups"><col width="121" span="1"/><col width="75" span="1"/><col width="96" span="1"/><col width="60" span="1"/><col width="94" span="1"/><col width="54" span="1"/><thead><tr><th rowspan="2" valign="bottom" align="left" scope="col" colspan="1">Dependent Variable</th><th valign="bottom" colspan="2" align="center" scope="colgroup" rowspan="1">Primary Intervention Group<xref rid="T2FN1" ref-type="table-fn">a</xref>, Mean (95% CI) (n = 148)<hr/></th><th valign="bottom" colspan="2" align="center" scope="colgroup" rowspan="1">Control Group<xref rid="T2FN2" ref-type="table-fn">b</xref>, Mean (95% CI) (n = 419)<hr/></th><th rowspan="2" valign="bottom" align="center" scope="col" colspan="1">
+<italic>P </italic>Value<xref rid="T2FN3" ref-type="table-fn">c</xref>
+</th></tr><tr><th valign="bottom" colspan="1" align="center" scope="colgroup" rowspan="1">Baseline</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Post-Intervention</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Baseline</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Post-Intervention</th></tr></thead><tbody><tr><td colspan="6" valign="top" align="center" scope="col" rowspan="1">
+<bold>Individual Capacity</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>EBDM skill gap<xref rid="T2FN4" ref-type="table-fn">d</xref> (10-item sum)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">20.4 (17.8 to 23.1)</td><td valign="top" align="right" rowspan="1" colspan="1">15.3 (12.8 to 17.9)</td><td valign="top" align="right" rowspan="1" colspan="1">18.3 (16.6 to 19.9)</td><td valign="top" align="right" rowspan="1" colspan="1">17.6 (16.0 to 19.1)</td><td valign="top" align="right" rowspan="1" colspan="1">.17</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Prioritization</td><td valign="top" align="right" rowspan="1" colspan="1">1.7 (1.4 to 2.0)</td><td valign="top" align="right" rowspan="1" colspan="1">1.0 (0.7 to 1.3)</td><td valign="top" align="right" rowspan="1" colspan="1">1.7 (1.5 to 1.8)</td><td valign="top" align="right" rowspan="1" colspan="1">1.4 (1.2 to 1.6)</td><td valign="top" align="right" rowspan="1" colspan="1">.79</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Adapting interventions</td><td valign="top" align="right" rowspan="1" colspan="1">2.6 (2.2 to 2.9)</td><td valign="top" align="right" rowspan="1" colspan="1">1.8 (1.5 to 2.2)</td><td valign="top" align="right" rowspan="1" colspan="1">2.0 (1.8 to 2.2)</td><td valign="top" align="right" rowspan="1" colspan="1">2.1 (1.8 to 2.3)</td><td valign="top" align="right" rowspan="1" colspan="1">.01</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Quantifying the issue</td><td valign="top" align="right" rowspan="1" colspan="1">1.5 (1.1 to 1.9)</td><td valign="top" align="right" rowspan="1" colspan="1">0.9 (0.6 to 1.3)</td><td valign="top" align="right" rowspan="1" colspan="1">1.4 (1.2 to 1.6)</td><td valign="top" align="right" rowspan="1" colspan="1">1.4 (1.2 to 1.6)</td><td valign="top" align="right" rowspan="1" colspan="1">.71</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Evaluation designs</td><td valign="top" align="right" rowspan="1" colspan="1">2.1 (1.7 to 2.6)</td><td valign="top" align="right" rowspan="1" colspan="1">1.6 (1.2 to 2.0)</td><td valign="top" align="right" rowspan="1" colspan="1">1.9 (1.7 to 2.1)</td><td valign="top" align="right" rowspan="1" colspan="1">1.9 (1.7 to 2.1)</td><td valign="top" align="right" rowspan="1" colspan="1">.34</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Quantitative evaluation</td><td valign="top" align="right" rowspan="1" colspan="1">1.3 (0.9 to 1.6)</td><td valign="top" align="right" rowspan="1" colspan="1">1.0 (0.7 to 1.3)</td><td valign="top" align="right" rowspan="1" colspan="1">1.3 (1.1 to 1.5)</td><td valign="top" align="right" rowspan="1" colspan="1">1.3 (1.1 to 1.5)</td><td valign="top" align="right" rowspan="1" colspan="1">.99</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Qualitative evaluation</td><td valign="top" align="right" rowspan="1" colspan="1">1.9 (1.5 to 2.3)</td><td valign="top" align="right" rowspan="1" colspan="1">1.4 (1.0 to 1.8)</td><td valign="top" align="right" rowspan="1" colspan="1">1.7 (1.5 to 1.9)</td><td valign="top" align="right" rowspan="1" colspan="1">1.7 (1.5 to 2.0)</td><td valign="top" align="right" rowspan="1" colspan="1">.32</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Economic evaluation</td><td valign="top" align="right" rowspan="1" colspan="1">3.5 (3.0 to 4.0)</td><td valign="top" align="right" rowspan="1" colspan="1">3.5 (3.0 to 4.0)</td><td valign="top" align="right" rowspan="1" colspan="1">2.9 (2.6 to 3.2)</td><td valign="top" align="right" rowspan="1" colspan="1">2.8 (2.528 to 3.1)</td><td valign="top" align="right" rowspan="1" colspan="1">.04</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Action planning</td><td valign="top" align="right" rowspan="1" colspan="1">1.3 (1.0 to 1.6)</td><td valign="top" align="right" rowspan="1" colspan="1">0.9 (0.6 to 1.2)</td><td valign="top" align="right" rowspan="1" colspan="1">1.2 (1.1 to 1.4)</td><td valign="top" align="right" rowspan="1" colspan="1">1.0 (0.8 to 1.2)</td><td valign="top" align="right" rowspan="1" colspan="1">.88</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Community assessment</td><td valign="top" align="right" rowspan="1" colspan="1">1.9 (1.6 to 2.2)</td><td valign="top" align="right" rowspan="1" colspan="1">1.3 (1.0 to 1.7)</td><td valign="top" align="right" rowspan="1" colspan="1">1.5 (1.3 to 1.7)</td><td valign="top" align="right" rowspan="1" colspan="1">1.5 (1.3 to 1.7)</td><td valign="top" align="right" rowspan="1" colspan="1">.04</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Communicating research to policy makers</td><td valign="top" align="right" rowspan="1" colspan="1">2.5 (2.1 to 3.0)</td><td valign="top" align="right" rowspan="1" colspan="1">1.9 (1.5 to 2.3)</td><td valign="top" align="right" rowspan="1" colspan="1">2.6 (2.3 to 2.9)</td><td valign="top" align="right" rowspan="1" colspan="1">2.5 (2.2 to 2.8)</td><td valign="top" align="right" rowspan="1" colspan="1">.73</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Use of research evidence for job tasks (6-item mean)<xref rid="T2FN5" ref-type="table-fn">e</xref></bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.8 (1.7 to 2.0)</td><td valign="top" align="right" rowspan="1" colspan="1">2.0(1.9 to 2.1)</td><td valign="top" align="right" rowspan="1" colspan="1">1.9 (1.8 to 2.0)</td><td valign="top" align="right" rowspan="1" colspan="1">1.9 (1.9 to 2.0)</td><td valign="top" align="right" rowspan="1" colspan="1">.52</td></tr><tr><td colspan="6" valign="top" align="center" scope="col" rowspan="1">
+<bold>Organizational Capacity<xref rid="T2FN6" ref-type="table-fn">f</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Access to evidence and skilled staff (4-item factor)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.1 (&#x02212;0.2 to 0.1)</td><td valign="top" align="right" rowspan="1" colspan="1">0.2 (0.0 to 0.3)</td><td valign="top" align="right" rowspan="1" colspan="1">0.1 (&#x02212;0.0 to 0.2)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.1 (&#x02212;0.2 to 0.0)</td><td valign="top" align="right" rowspan="1" colspan="1">.08</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Program evaluation (3-item factor)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.0 (&#x02212;0.2 to 0.1)</td><td valign="top" align="right" rowspan="1" colspan="1">0.0 (&#x02212;0.1 to 0.2)</td><td valign="top" align="right" rowspan="1" colspan="1">0.1 (&#x02212;0.0 to 0.2)</td><td valign="top" align="right" rowspan="1" colspan="1">0.1 (&#x02212;0.0 to 0.1)</td><td valign="top" align="right" rowspan="1" colspan="1">.30</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Supervisory expectations and incentives factor (3-item factor)</td><td valign="top" align="right" rowspan="1" colspan="1">0.1 (&#x02212;0.0 to 0.3)</td><td valign="top" align="right" rowspan="1" colspan="1">0.2 (0.1 to 0.3)</td><td valign="top" align="right" rowspan="1" colspan="1">0.0 (&#x02212;0.1 to 0.1)</td><td valign="top" align="right" rowspan="1" colspan="1">0.1 (&#x02212;0.0 to 0.2)</td><td valign="top" align="right" rowspan="1" colspan="1">.34</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Participatory decision making factor (3-item factor)</td><td valign="top" align="right" rowspan="1" colspan="1">0.1 (&#x02212;0.1 to 0.2)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.1 (&#x02212;0.2 to 0.1)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.0 (&#x02212;0.1 to 0.1)</td><td valign="top" align="right" rowspan="1" colspan="1">0.0 (&#x02212;0.1 to 0.1)</td><td valign="top" align="right" rowspan="1" colspan="1">.28</td></tr></tbody></table><table-wrap-foot><fn id="T2FN1"><label>a</label><p> Intervention arm comprised a primary group, which attended an evidenced-based decision-making course, and a secondary group, which did not attend an evidenced-based decision-making course but participated in other training activities.</p></fn><fn id="T2FN2"><label>b</label><p> Control group received no training.</p></fn><fn id="T2FN3"><label>c</label><p>
+<italic>P</italic> values at baseline calculated by using independent samples <italic>t</italic> test (2 sided). Test compares gaps at baseline between primary intervention group and control group.</p></fn><fn id="T2FN4"><label>d</label><p> Survey participants were asked to rate on a 11-point Likert scale the perceived importance and perceived availability of 10 EBDM skills; higher scores indicate larger gaps. We calculated gaps in the 10 EBDM skill scores by subtracting the score in perceived availability from the score in perceived importance for each individual for each skill. Observed skill gap scores ranged from &#x02212;9 to +10 for specific skills and from &#x02212;66 to +88 for the 10-item summed skill gap. </p></fn><fn id="T2FN5"><label>e</label><p> Frequency of research evidence use scores ranged from 0 to 3 for each of 6 job tasks: 3 = weekly, 2 = monthly, 1 = quarterly, and 0 = seldom or never. A mean score for the 6 job tasks was calculated for each individual and could range from 0 to 3. The group mean frequencies shown in the table are lower than 2 = monthly.</p></fn><fn id="T2FN6"><label>f</label><p> Organizational capacity variables shown here are the group means of the individual factor scores derived from exploratory factor analysis. For the sample overall, each factor by definition has a mean score of 0 and can range from -3 to +3. Observed group means are close to zero, either slightly below or above the overall sample mean of zero.</p></fn></table-wrap-foot></table-wrap><p>The primary intervention group significantly improved in the overall skill gap (<italic>P</italic> = .01) and in 6 skill areas compared with the control group (<xref ref-type="table" rid="T3">Table 3</xref>). In the comparison of secondary intervention arm participants and control participants, intervention effects on the 10 skill gaps were attenuated and no longer significant. </p><table-wrap id="T3" orientation="portrait" position="float"><label>Table 3</label><caption><title>Intervention Effects at the Individual and Organization Levels Adjusted<xref rid="T3FN1" ref-type="table-fn">a</xref> for Participant and State Characteristics in 12 States, Study of Evidence-Based Decision Making (EBDM),2014&#x02013;2016</title></caption><table frame="hsides" rules="groups"><col width="261" span="1"/><col width="76" span="1"/><col width="81" span="1"/><col width="49" span="1"/><col width="36" span="1"/><thead><tr><th rowspan="2" valign="bottom" align="left" scope="col" colspan="1">Dependent Variable</th><th valign="bottom" colspan="4" align="center" scope="colgroup" rowspan="1">Intervention Effect Parameter Estimate<xref rid="T3FN2" ref-type="table-fn">b</xref><hr/>
+</th></tr><tr><th valign="bottom" colspan="1" align="center" scope="colgroup" rowspan="1">&#x003b2; (SE)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">95% Confidence Interval</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">
+<italic>t</italic>
+</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">
+<italic>P </italic>Value<xref rid="T3FN2" ref-type="table-fn">b</xref>
+</th></tr></thead><tbody><tr><td colspan="5" valign="top" align="center" scope="col" rowspan="1">
+<bold>Individual</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>EBDM skill gaps (10-item sum)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;5.56 (1.59)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;9.32 to &#x02212;1.80</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;3.50</td><td valign="top" align="right" rowspan="1" colspan="1">.01</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Prioritization</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.58 (0.20)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.07 to &#x02212;0.09</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;2.89</td><td valign="top" align="right" rowspan="1" colspan="1">.03</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Adapting interventions</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.69 (0.22)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.21 to &#x02212;0.17</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;3.13</td><td valign="top" align="right" rowspan="1" colspan="1">.02</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Quantifying the issue</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.59 (0.22)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.09 to &#x02212;0.08</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;2.69</td><td valign="top" align="right" rowspan="1" colspan="1">.03</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Evaluation designs</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.43 (0.24)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.00 to 0.14</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.79</td><td valign="top" align="right" rowspan="1" colspan="1">.11</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Quantitative evaluation</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.23 (0.21)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.77 to 0.26</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.21</td><td valign="top" align="right" rowspan="1" colspan="1">.33</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Qualitative evaluation</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.59 (0.24)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.19 to 0.02</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;2.48</td><td valign="top" align="right" rowspan="1" colspan="1">.05</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Economic evaluation</td><td valign="top" align="right" rowspan="1" colspan="1">0.18 (0.28)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.51 to 0.87</td><td valign="top" align="right" rowspan="1" colspan="1">0.65</td><td valign="top" align="right" rowspan="1" colspan="1">.54</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Action planning</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.35 (0.24)</td><td valign="top" align="right" rowspan="1" colspan="1">0.91 to 0.20</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.50</td><td valign="top" align="right" rowspan="1" colspan="1">.18</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Community assessment</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.59 (0.22)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.11 to &#x02212;0.06</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;2.65</td><td valign="top" align="right" rowspan="1" colspan="1">.03</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Communicating research to policy makers</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.96 (0.28)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.63 to &#x02212;0.29</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;3.41</td><td valign="top" align="right" rowspan="1" colspan="1">.01</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Use of research evidence for job tasks (6-item mean)</bold></td><td valign="top" align="right" rowspan="1" colspan="1">0.12 (0.07)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.04 to 0.28</td><td valign="top" align="right" rowspan="1" colspan="1">1.74</td><td valign="top" align="right" rowspan="1" colspan="1">.12</td></tr><tr><td colspan="5" valign="top" align="center" scope="col" rowspan="1">
+<hr/></td></tr><tr><td colspan="5" valign="top" align="center" scope="col" rowspan="1">
+<bold>Organization</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Access to evidence and skilled staff (4- item factor)</td><td valign="top" align="right" rowspan="1" colspan="1">0.37 (0.14)</td><td valign="top" align="right" rowspan="1" colspan="1">0.02 to 0.72</td><td valign="top" align="right" rowspan="1" colspan="1">2.73</td><td valign="top" align="right" rowspan="1" colspan="1">.04</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Program evaluation factor (3-item factor)</td><td valign="top" align="right" rowspan="1" colspan="1">0.03 (0.10)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.21 to 0.26</td><td valign="top" align="right" rowspan="1" colspan="1">0.28</td><td valign="top" align="right" rowspan="1" colspan="1">.78</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Supervisory expectations for EBDM (3-item factor)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.06 (0.26)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.73 to 0.62</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.21</td><td valign="top" align="right" rowspan="1" colspan="1">.84</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Participatory decision making (3-item factor)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.06 (0.12)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.36 to 0.23</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.57</td><td valign="top" align="right" rowspan="1" colspan="1">.59</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviation: SE, standard error.</p></fn><fn id="T3FN1"><label>a</label><p> Participant characteristics were sex, agency, job position, age group, having a public health master&#x02019;s or doctoral degree, and having a master&#x02019;s or doctoral degree in any field; state characteristics were accreditation status, chronic disease revenue from the Centers for Disease Control and Prevention to the state public health department, tertile of state population size, percentage of state population living in urban area, percentage of state population living in poverty, and state party control of the governorship, state senate, and state house.</p></fn><fn id="T3FN2"><label>b</label><p> Mixed analysis of covariance (ANCOVA) models with state as a random effect; parameter estimate <italic>P</italic> values are fixed solution 2-sided <italic>t</italic> tests within mixed ANCOVA.</p></fn></table-wrap-foot></table-wrap><p>Sex was included in all adjusted mixed ANCOVA models and did not affect sizes of intervention effects. Sex was not associated with gaps in skills, except that men were more likely than women to have a smaller gap in qualitative evaluation when we adjusted for other characteristics (&#x003b2; = &#x02212;0.55, <italic>t</italic> = &#x02212;2.45, <italic>P</italic> = .03). Having at least a master&#x02019;s degree in any field was associated with increased use of research evidence for job tasks (&#x003b2; = 0.18, <italic>t</italic> = 2.93, <italic>P</italic> = .01) and with increased supervisory expectations of EBDM use (&#x003b2; = 0.24, <italic>t</italic> = 2.46, <italic>P</italic> = .03). Being in a leadership position was associated with increased participatory decision making, compared with the reference group of program managers (&#x003b2; = 0.27, <italic>t</italic> = 2.22, <italic>P</italic> = .03). Other participant and state characteristics did not affect the models. Among the 4 organizational capacity dependent variables, only access to evidence and skilled staff showed an intervention effect (<italic>t</italic> = 2.73, <italic>P</italic> = .04). In the comparison of secondary intervention arm participants and control participants, no intervention effects were significant for organization-level outcomes.</p></sec><sec sec-type="discussion"><title>Discussion</title><p>Our study is among the first to test the effects of strategies to increase the use of EBDM processes among public health practitioners engaged in controlling chronic diseases. We sought to reduce the gap between the generation of evidence and its application in practice settings, which can be viewed as &#x0201c;leakage in the dissemination pipeline&#x0201d; from discovery to application (<xref rid="R24" ref-type="bibr">24</xref>). In large part, this leakage relates to lack of individual and organizational capacity to practice EBDM (<xref rid="R12" ref-type="bibr">12</xref>).</p><p>Our 12-state study showed improvements in individual-level capacity in several skill areas, although for the content area with the largest baseline gap (economic evaluation), we saw no improvement. Although deficits in EBDM competencies among state-level practitioners appear to be narrowing over time (<xref rid="R25" ref-type="bibr">25</xref>), interventions like ours probably can narrow the gap more rapidly. The skill areas of interest were derived from a systematic process (<xref rid="R26" ref-type="bibr">26</xref>) and are essential for making use of many online tools and toolkits for chronic disease control (eg, the <italic>Community Guide</italic>, Cancer Control P.L.A.N.E.T.).</p><p>In a systematic review of dissemination studies of cancer prevention in community settings (<xref rid="R5" ref-type="bibr">5</xref>), the role of organizational factors in the uptake of evidence-based interventions was scarcely examined. We sought to increase the variety of organization-level variables. Our interventions did not result in significant improvements in measures of organizational capacity. The exception was for the 4-item factor on access to evidence and skilled staff. Organizational change is difficult and requires long-term commitment. It is possible that the interventions in our study were not intensive enough to result in measureable organizational change in some variables. Several studies have shown a high rate of turnover in state public health agencies (<xref rid="R27" ref-type="bibr">27</xref>). This ever-changing workforce may make it difficult to develop and maintain an organizational climate and culture supportive of EBDM.</p><p>Limitations of this study should be noted. It was difficult to gather objective data on practitioner or agency performance. Although data were well-tested psychometrically, we relied on self-reported (perceived) data on individual-level and organization-level outcomes. We assessed no direct chronic disease outcomes (eg, does greater use of research by practitioners lead to better chronic disease outcomes?), yet a substantial body of literature shows that the variables we measured on EBDM lead to better performance (<xref rid="R13" ref-type="bibr">13</xref>). Performance over time was probably improving in our control group given that many programs funded by the Centers for Disease Control and Prevention now require grantees to implement EBDM. Although it is established that individuals influence organizations and the reverse (<xref rid="R12" ref-type="bibr">12</xref>), our finding that only 1 of 4 organization-level outcomes was affected by our intervention suggests that more intensive interventions and longer time periods may be needed to change an organization&#x02019;s climate and culture. Given that our intervention group included only 6 states, our findings may not be generalizable to all states.</p><p>This study should be considered first-generation research and can be viewed in the context of the growing literature on dissemination and implementation research (<xref rid="R12" ref-type="bibr">12</xref>). Several topics deserve future consideration among practitioners and researchers. First, more tailored, active approaches are warranted. It is unclear whether our study approach was intensive enough to sustain positive changes. In addition, larger effects for subgroups (eg, master&#x02019;s degree&#x02013;trained individuals) suggest approaches may need to be adapted for various staff categories. The skill sets for health department staff members may differ from those needed among partners outside of a public health agency. Second, there is a need for better measures of EBDM. One of the greatest needs among chronic disease control practitioners is how to better assess organizational capacity (<xref rid="R28" ref-type="bibr">28</xref>). Most existing measures focus on ultimate outcomes, such as change in health status. Most existing measures of capacity have not been tested adequately for reliability and predictive validity (<xref rid="R29" ref-type="bibr">29</xref>). Third, capacity building needs to occur in the context of staff turnover. The rate of turnover among participants in our study was substantial, suggesting that frequent exposure to EBDM processes may be needed as new staff members are hired and trained. Fourth, the lack of change in some skill areas (eg, economic evaluation) may call for more intensive skill building or seeking out partners (eg, university staff) to help with more complex content areas. Fifth, more attention is needed on driving organizational change. Changing organizational culture and climate to an environment supportive of EBDM takes time and concerted effort (<xref rid="R30" ref-type="bibr">30</xref>). The intervention activities in our study may not have been intensive enough to foster measureable change in organizations, especially considering the heterogeneity in organizations.</p><p>To control chronic disease at a population level, EBDM requires a complex set of individual skills and organizational capacity. Our findings suggest several dissemination interventions that should be considered by practitioners as they seek to apply EBDM in their agencies to ultimately benefit the populations they serve.</p></sec></body><back><ack><title>Acknowledgments</title><p>This work was supported by the National Cancer Institute of the National Institutes of Health (grant no. R01CA160327 and no. 5R25CA171994 to Washington University in St Louis). We thank our partners in this study: the National Association of Chronic Disease Directors and leaders and staff members in the 12 state health departments in the study. We also thank Leslie Best, Carol Brownson, Carsten Baumann, Dr Elizabeth Baker, Dr Anjali Deshpande, Dr Maureen Dobbins, Dr Ellen Jones, Dr Jon Kerner, and Dr Katherine Stamatakis, who served as trainers or consultants to the study. We also thank Dr Jenine Harris and Dr Timothy McBride for conceptual guidance and help with survey development.</p></ack><fn-group><fn><p>The opinions expressed by authors contributing to this journal do not necessarily reflect the opinions of the U.S. Department of Health and Human Services, the Public Health Service, the Centers for Disease Control and Prevention, or the authors' affiliated institutions.</p></fn><fn><p>
+<italic>Suggested citation for this article:</italic> Brownson RC, Allen P, Jacob RR, deRuyter A, Lakshman M, Reis RS, et al. Controlling Chronic Diseases Through Evidence-Based Decision Making: A Group-Randomized Trial. Prev Chronic Dis 2017;14:170326. DOI: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5888/pcd14.170326">https://doi.org/10.5888/pcd14.170326</ext-link>.</p></fn></fn-group><app-group><app id="app"><label>Appendix</label><title/><table-wrap id="Ta" orientation="portrait" position="anchor"><caption><title>Appendix Table 1. State Health Department Capacity-Building Activities<sup>a</sup> for Evidence-Based Decision Making (EBDM) in 6 US States, 2014&#x02013;2016</title></caption><table frame="hsides" rules="groups"><col width="86" span="1"/><col width="117" span="1"/><col width="264" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Domain</th><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Activity</th><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Description</th></tr></thead><tbody><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Accreditation</td><td valign="top" align="left" rowspan="1" colspan="1">Accreditation preparations</td><td valign="top" align="left" rowspan="1" colspan="1">State health assessment and plan, formalized decision making, documentation of evidence, documentation reviews, site visit, approval</td></tr><tr><td rowspan="5" valign="top" align="left" scope="row" colspan="1">Workforce development</td><td valign="top" align="left" rowspan="1" colspan="1">EBDM training</td><td valign="top" align="left" rowspan="1" colspan="1">In-state, in-person multiday training in EBDM skills, 9 modules, as initial study intervention</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Supplemental brief EBDM skill trainings</td><td valign="top" align="left" rowspan="1" colspan="1">Provided by study team or state chronic disease unit, in-person or webinar, as part of this study, with 3 states emphasizing evaluation skills</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Non-study national trainings</td><td valign="top" align="left" rowspan="1" colspan="1">Hosted in-person EBDM-related skill trainings by national organizations and/or encouraged out-of-state training beyond those required by funders</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Quality improvement</td><td valign="top" align="left" rowspan="1" colspan="1">Quality improvement or performance management trainings, guidance</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">New employee EBDM orientation</td><td valign="top" align="left" rowspan="1" colspan="1">Via archived webinars or course materials, facilitated discussions, meetings</td></tr><tr><td rowspan="9" valign="top" align="left" scope="row" colspan="1">Leadership, management supports</td><td valign="top" align="left" rowspan="1" colspan="1">Chronic disease leadership teams expect EBDM</td><td valign="top" align="left" rowspan="1" colspan="1">Leaders and supervisors continually ask &#x0201c;what is the evidence?,&#x0201d; communicate EBDM expectations to staff, champion EBDM, encourage use of data for decision making, encourage skill building</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Use of data for decision making</td><td valign="top" align="left" rowspan="1" colspan="1">Use data to prioritize programs, develop work plans, and monitor progress; share performance measures, data on intranet or centralized data systems</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Centralized data systems</td><td valign="top" align="left" rowspan="1" colspan="1">Dashboard development to prioritize, measure, and track objectives and link to evidence base; share performance measures and data</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Meetings incorporate EBDM</td><td valign="top" align="left" rowspan="1" colspan="1">Work unit and cross-section meetings address EBDM, present evidence, plans (in leadership and in training)</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Performance reviews and EBDM</td><td valign="top" align="left" rowspan="1" colspan="1">Work unit employee evaluations include objectives on EBDM learning and application</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Hiring practices address EBDM</td><td valign="top" align="left" rowspan="1" colspan="1">Job descriptions, interview questions address EBDM; hire people with public health competencies; hire specialty staff including evaluators and epidemiologists</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Participatory decision making</td><td valign="top" align="left" rowspan="1" colspan="1">Staff and partner input obtained, sharing of information for decision making</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Common language for EBDM</td><td valign="top" align="left" rowspan="1" colspan="1">Creating and using common EBDM language across program areas</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Administrative reorganization for coordination</td><td valign="top" align="left" rowspan="1" colspan="1">Organizational restructuring at the unit or section levels to increase coordination across programs and conduct joint projects across programs</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1">Organizational climate</td><td valign="top" align="left" rowspan="1" colspan="1">EBDM engrained</td><td valign="top" align="left" rowspan="1" colspan="1">EBDM an embedded inseparable aspect of day-to-day work; strong expectation from leadership; high priority</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Learning orientation</td><td valign="top" align="left" rowspan="1" colspan="1">Culture supports professional development and ongoing learning, providing links to webinars, bringing in guest speakers</td></tr><tr><td rowspan="3" valign="top" align="left" scope="row" colspan="1">Relationships and partnerships</td><td valign="top" align="left" rowspan="1" colspan="1">Partnerships with in-state universities</td><td valign="top" align="left" rowspan="1" colspan="1">Ongoing partnering for evaluation, trainings, internship placement</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Partner technical assistance and training</td><td valign="top" align="left" rowspan="1" colspan="1">Telephone and in-person guidance for partners&#x02019; evidence-based work plans, evaluation, logic models; provide EBDM trainings to partners</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Relationship building</td><td valign="top" align="left" rowspan="1" colspan="1">Active steps to build or maintain positive partner relationships with open communication, trust, mutual respect, ensuring partner engagement and coalition development</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1">Financial practices</td><td valign="top" align="left" rowspan="1" colspan="1">Performance-based contracting</td><td valign="top" align="left" rowspan="1" colspan="1">Funded partners required to implement evidence-based approaches as prescribed or selected from a menu, with performance objectives, work plans, and evaluation; holding contracted partners accountable for evidence-based interventions</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Proposals approved internally for EBDM before submission to funder</td><td valign="top" align="left" rowspan="1" colspan="1">State health department pre-approval process for grant applications to funders with requirements to show objectives, evidence basis, performance measures, evaluation plan</td></tr></tbody></table><table-wrap-foot><p>
+<sup>a</sup> Not all states participated in all activities.</p></table-wrap-foot></table-wrap><table-wrap id="Tb" orientation="portrait" position="anchor"><caption><title>Appendix Table 2. Outcome Measures to Assess Evidence-Based Decision Making Capacity and Supports in 12 States, 2014&#x02013;2016</title></caption><table frame="hsides" rules="groups"><col width="90" span="1"/><col width="90" span="1"/><col width="40" span="1"/><col width="62" span="1"/><col width="198" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Outcomes (Dependent Variables)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Variable Calculation</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">No. of Items</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Item Type</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Item (or Sample Item)</th></tr></thead><tbody><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Individual-level capacity</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>EBDM skill gaps summary</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">Sum of 10 calculated gaps</td><td valign="top" align="right" rowspan="1" colspan="1">10</td><td valign="top" align="left" rowspan="1" colspan="1">Likert 11-point scale</td><td valign="top" align="left" rowspan="1" colspan="1">Score for perceived importance of each skill minus score for perceived work unit availability of each skill</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Skill gap</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Prioritization</td><td rowspan="10" valign="top" align="left" colspan="1">Perceived importance minus availability</td><td rowspan="10" valign="top" align="right" colspan="1">1</td><td rowspan="10" valign="top" align="left" colspan="1">Likert 11-point scale</td><td valign="top" align="left" rowspan="1" colspan="1">Prioritization: Understand how to prioritize program and policy options</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Adapting interventions</td><td valign="top" colspan="1" align="left" rowspan="1">Adapting interventions: Understand how to modify programs and policies for different communities and settings</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Quantifying the issue</td><td valign="top" colspan="1" align="left" rowspan="1">Quantifying the issue: Understand the uses of descriptive epidemiology (eg, concepts of person, place, time) in quantifying a public health issue</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Evaluation designs</td><td valign="top" colspan="1" align="left" rowspan="1">Evaluation designs: Understand the different designs that are useful in program or policy evaluation</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Quantitative evaluation</td><td valign="top" colspan="1" align="left" rowspan="1">Quantitative evaluation: Understand the uses of quantitative evaluation approaches</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Qualitative evaluation</td><td valign="top" colspan="1" align="left" rowspan="1">Qualitative evaluation: Understand the value of qualitative evaluation approaches (eg, focus groups, key informant interviews)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Economic evaluation</td><td valign="top" colspan="1" align="left" rowspan="1">Economic evaluation: Understand how to use economic data in the decision making process</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Action planning</td><td valign="top" colspan="1" align="left" rowspan="1">Action planning: Understand the importance of developing an action plan for how to achieve goals and objectives</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Community assessment</td><td valign="top" colspan="1" align="left" rowspan="1">Community assessment: Understand how to define the health issue according to the needs and assets of the population/community of interest</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Communicating research to policy</td><td valign="top" colspan="1" align="left" rowspan="1">Communicating research to policy makers: Understand the importance of effectively communicating with policy makers about public health issues</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Use of research evidence</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">Mean of responses</td><td valign="top" align="right" rowspan="1" colspan="1">6</td><td valign="top" align="left" rowspan="1" colspan="1">Frequency 4 categories</td><td valign="top" align="left" rowspan="1" colspan="1">How often do you use research evidence to:
+<list list-type="bullet" id="L1"><list-item><p>Write a grant application</p></list-item><list-item><p>Plan or conduct a needs assessment</p></list-item><list-item><p>Select policies, programs, or other interventions</p></list-item><list-item><p>Justify selection of interventions to funders, agency leadership, or external partners</p></list-item><list-item><p>Evaluate interventions</p></list-item><list-item><p>Develop materials for local public health, partners</p></list-item></list>
+</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Organization-level capacity</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Access to evidence and skilled staff</td><td valign="top" align="left" rowspan="1" colspan="1">Factor created in exploratory factor analysis (EFA)</td><td valign="top" align="right" rowspan="1" colspan="1">4</td><td valign="top" align="left" rowspan="1" colspan="1">Likert 7-point scale </td><td valign="top" align="left" rowspan="1" colspan="1">Agreement with statements:
+<list list-type="bullet" id="L2"><list-item><p>My work unit has access to current research evidence for EBDM</p></list-item><list-item><p>Informational resources are available to my work unit to promote the use of EBDM</p></list-item><list-item><p>My work unit currently has the resources (eg, staff, facilities, partners) to support application of EBDM</p></list-item><list-item><p>The staff in my work unit has the necessary skills to carry out EBDM</p></list-item></list>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Program evaluation</td><td valign="top" align="left" rowspan="1" colspan="1">Factor created in EFA</td><td valign="top" align="right" rowspan="1" colspan="1">3</td><td valign="top" align="left" rowspan="1" colspan="1">Likert 7-point scale</td><td valign="top" align="left" rowspan="1" colspan="1">Agreement with statements:
+<list list-type="bullet" id="L3"><list-item><p>My work unit plans for evaluation of interventions before implementation</p></list-item><list-item><p>My work unit uses evaluation data to monitor and improve interventions</p></list-item><list-item><p>My work unit distributes intervention evaluation findings to other organizations</p></list-item></list>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Supervisory expectations</td><td valign="top" align="left" rowspan="1" colspan="1">Factor created in EFA</td><td valign="top" align="right" rowspan="1" colspan="1">3</td><td valign="top" align="left" rowspan="1" colspan="1">Likert 7-point scale</td><td valign="top" align="left" rowspan="1" colspan="1">Agreement with statements:
+<list list-type="bullet" id="L4"><list-item><p>My direct supervisor expects me to use EBDM</p></list-item><list-item><p>My direct supervisor recognizes the value of management practices that facilitate EBDM</p></list-item><list-item><p>My performance is partially evaluated on how well I use EBDM in my work</p></list-item></list>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Participatory decision making</td><td valign="top" align="left" rowspan="1" colspan="1">Factor created in EFA</td><td valign="top" align="right" rowspan="1" colspan="1">3</td><td valign="top" align="left" rowspan="1" colspan="1">Likert 7-point scale</td><td valign="top" align="left" rowspan="1" colspan="1">Agreement with statements:
+<list list-type="bullet" id="L5"><list-item><p>When decisions are made within my work unit, program staff members are asked for input</p></list-item><list-item><p>Information is widely shared in my work unit so that everyone who makes decisions has access to all available knowledge</p></list-item><list-item><p>My work unit engages a diverse external network of partners that share resources for EBDM</p></list-item></list>
+</td></tr></tbody></table></table-wrap></app></app-group><ref-list><title>References</title><ref id="R1"><label>1. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Remington</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Brownson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wegner</surname>
+<given-names>M</given-names>
+</string-name>, editors. Chronic disease epidemiology and control. 4th edition. Washington (DC): American Public Health Association; <year>2016</year>.</mixed-citation></ref><ref id="R2"><label>2. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Briss</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Brownson</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Fielding</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Zaza</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Developing and using the <italic>Guide to Community Preventive Services</italic>: lessons learned about evidence-based public health.</article-title>
+<source>Annu Rev Public Health</source>
+<year>2004</year>;<volume>25</volume>(<issue>1</issue>):<fpage>281</fpage>&#x02013;<lpage>302</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.publhealth.25.050503.153933</pub-id>
+<pub-id pub-id-type="pmid">15015921</pub-id></mixed-citation></ref><ref id="R3"><label>3. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lenfant</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Shattuck lecture &#x02014; clinical research to clinical practice &#x02014; lost in translation?</article-title>
+<source>N Engl J Med</source>
+<year>2003</year>;<volume>349</volume>(<issue>9</issue>):<fpage>868</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMsa035507</pub-id>
+<pub-id pub-id-type="pmid">12944573</pub-id></mixed-citation></ref><ref id="R4"><label>4. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chaudoir</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Dugan</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Barr</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Measuring factors affecting implementation of health innovations: a systematic review of structural, organizational, provider, patient, and innovation level measures.</article-title>
+<source>Implement Sci</source>
+<year>2013</year>;<volume>8</volume>(<issue>1</issue>):<fpage>22</fpage>. <pub-id pub-id-type="doi">10.1186/1748-5908-8-22</pub-id>
+<pub-id pub-id-type="pmid">23414420</pub-id></mixed-citation></ref><ref id="R5"><label>5. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Rabin</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Glasgow</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Kerner</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Klump</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Brownson</surname>
+<given-names>RC</given-names>
+</string-name>. <article-title>Dissemination and implementation research on community-based cancer prevention: a systematic review.</article-title>
+<source>Am J Prev Med</source>
+<year>2010</year>;<volume>38</volume>(<issue>4</issue>):<fpage>443</fpage>&#x02013;<lpage>56</lpage>. <pub-id pub-id-type="doi">10.1016/j.amepre.2009.12.035</pub-id>
+<pub-id pub-id-type="pmid">20307814</pub-id></mixed-citation></ref><ref id="R6"><label>6. </label><mixed-citation publication-type="book">
+<collab>Institute of Medicine</collab>. The future of the public&#x02019;s health in the 21st century. Washington (DC): National Academies Press; <year>2003</year>.</mixed-citation></ref><ref id="R7"><label>7. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Brownson</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Deshpande</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Gillespie</surname>
+<given-names>KN</given-names>
+</string-name>. Evidence-based public health. 3rd edition. New York (NY): Oxford University Press; <year>2018</year>..</mixed-citation></ref><ref id="R8"><label>8. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chambers</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Norton</surname>
+<given-names>WE</given-names>
+</string-name>. <article-title>The Adaptome: advancing the science of intervention adaptation.</article-title>
+<source>Am J Prev Med</source>
+<year>2016</year>;<volume>51</volume>(<issue>4</issue>, <supplement>Suppl 2</supplement>):<fpage>S124</fpage>&#x02013;<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1016/j.amepre.2016.05.011</pub-id>
+<pub-id pub-id-type="pmid">27371105</pub-id></mixed-citation></ref><ref id="R9"><label>9. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brownson</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Ballew</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dieffenderfer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Haire-Joshu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Heath</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Kreuter</surname>
+<given-names>MW</given-names>
+</string-name>, <etal/>
+<article-title>Evidence-based interventions to promote physical activity: what contributes to dissemination by state health departments.</article-title>
+<source>Am J Prev Med</source>
+<year>2007</year>;<volume>33</volume>(<issue>1</issue>, <supplement>Suppl</supplement>):<fpage>S66</fpage>&#x02013;<lpage>73, quiz S74&#x02013;8</lpage>. <pub-id pub-id-type="doi">10.1016/j.amepre.2007.03.011</pub-id>
+<pub-id pub-id-type="pmid">17584593</pub-id></mixed-citation></ref><ref id="R10"><label>10. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hannon</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Mullen</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Escoffery</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kreuter</surname>
+<given-names>MW</given-names>
+</string-name>, <etal/>
+<article-title>Cancer control planners&#x02019; perceptions and use of evidence-based programs.</article-title>
+<source>J Public Health Manag Pract</source>
+<year>2010</year>;<volume>16</volume>(<issue>3</issue>):<fpage>E1</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1097/PHH.0b013e3181b3a3b1</pub-id>
+<pub-id pub-id-type="pmid">20357600</pub-id></mixed-citation></ref><ref id="R11"><label>11. </label><mixed-citation publication-type="other">
+<collab>National Association of Chronic Disease Directors</collab>. NACDD all member survey. Atlanta (GA): NACDD; <year>2010</year>.|.</mixed-citation></ref><ref id="R12"><label>12. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brownson</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Fielding</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>LW</given-names>
+</string-name>. <article-title>Building capacity for evidence-based public health: reconciling the pulls of practice with the push of research.</article-title>
+<source>Annu Rev Public Health</source>
+<year>.</year>
+<comment>In press</comment>.</mixed-citation></ref><ref id="R13"><label>13. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brownson</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Duggan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Stamatakis</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Erwin</surname>
+<given-names>PC</given-names>
+</string-name>. <article-title>Fostering more-effective public health by identifying administrative evidence-based practices: a review of the literature.</article-title>
+<source>Am J Prev Med</source>
+<year>2012</year>;<volume>43</volume>(<issue>3</issue>):<fpage>309</fpage>&#x02013;<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1016/j.amepre.2012.06.006</pub-id>
+<pub-id pub-id-type="pmid">22898125</pub-id></mixed-citation></ref><ref id="R14"><label>14. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Meyer</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mays</surname>
+<given-names>GP</given-names>
+</string-name>. <article-title>Defining organizational capacity for public health services and systems research.</article-title>
+<source>J Public Health Manag Pract</source>
+<year>2012</year>;<volume>18</volume>(<issue>6</issue>):<fpage>535</fpage>&#x02013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1097/PHH.0b013e31825ce928</pub-id>
+<pub-id pub-id-type="pmid">23023278</pub-id></mixed-citation></ref><ref id="R15"><label>15. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Muir Gray</surname>
+<given-names>JA</given-names>
+</string-name>. Evidence-based healthcare: how to make decisions about health services and public health. 3rd edition. New York (NY) and Edinburgh (UK): Churchill Livingstone Elsevier; <year>2009</year>.</mixed-citation></ref><ref id="R16"><label>16. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Allen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sequeira</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jacob</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Hino</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Stamatakis</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>JK</given-names>
+</string-name>, <etal/>
+<article-title>Promoting state health department evidence-based cancer and chronic disease prevention: a multi-phase dissemination study with a cluster randomized trial component.</article-title>
+<source>Implement Sci</source>
+<year>2013</year>;<volume>8</volume>(<issue>1</issue>):<fpage>141</fpage>. <pub-id pub-id-type="doi">10.1186/1748-5908-8-141</pub-id>
+<pub-id pub-id-type="pmid">24330729</pub-id></mixed-citation></ref><ref id="R17"><label>17. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Brownson</surname>
+<given-names>RC</given-names>
+</string-name>. Disseminating public health evidence to support state health department prevention of cancer and other chronic diseases. ClinicalTrials.gov identifier NCT01978054. Washington (DC): US Department of Health and Human Services; <year>2013</year>
+<ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT01978054?term=Brownson&#x00026;rank=1">https://clinicaltrials.gov/ct2/show/NCT01978054?term=Brownson&#x00026;rank=1</ext-link>. Accessed April 19, 2017.</mixed-citation></ref><ref id="R18"><label>18. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yarber</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Brownson</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Jacob</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Baumann</surname>
+<given-names>C</given-names>
+</string-name>, <etal/>
+<article-title>Evaluating a train-the-trainer approach for improving capacity for evidence-based decision making in public health.</article-title>
+<source>BMC Health Serv Res</source>
+<year>2015</year>;<volume>15</volume>(<issue>1</issue>):<fpage>547</fpage>. <pub-id pub-id-type="doi">10.1186/s12913-015-1224-2</pub-id>
+<pub-id pub-id-type="pmid">26652172</pub-id></mixed-citation></ref><ref id="R19"><label>19. </label><mixed-citation publication-type="confproc">
+<string-name>
+<surname>Stamatakis</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>McQueen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Filler</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Boland</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Dreisinger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Luke</surname>
+<given-names>D</given-names>
+</string-name>, <etal/> Measurement properties of a novel survey instrument used to assess stages of organizational readiness for evidence-based practice in community-based chronic disease prevention programs. Proceedings of the Fourth Annual National Institutes of Health Conference on the Science of Dissemination and Implementation; 2011 March 21&#x02013;22; Bethesda (MD): National Institutes of Health.</mixed-citation></ref><ref id="R20"><label>20. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Reis</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Duggan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Stamatakis</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Erwin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Brownson</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Developing a tool to assess administrative evidence-based practices in local health departments.</article-title>
+<source>Front Public Health Serv Syst Res</source>
+<year>2014</year>;<volume>3</volume>(<issue>3</issue>). &#x0003c;http://uknowledge.uky.edu/frontiersinphssr/vol3/iss3/2/</mixed-citation></ref><ref id="R21"><label>21. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Stamatakis</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Ferreira Hino</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>McQueen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jacob</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>EA</given-names>
+</string-name>, <etal/>
+<article-title>Results from a psychometric assessment of a new tool for measuring evidence-based decision making in public health organizations.</article-title>
+<source>Eval Program Plann</source>
+<year>2017</year>;<volume>60</volume>:<fpage>17</fpage>&#x02013;<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1016/j.evalprogplan.2016.08.002</pub-id>
+<pub-id pub-id-type="pmid">27665067</pub-id></mixed-citation></ref><ref id="R22"><label>22. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Murray</surname>
+<given-names>DM</given-names>
+</string-name>. Design and analysis of group-randomized trials. New York (NY): Oxford University Press; <year>1998</year>.</mixed-citation></ref><ref id="R23"><label>23. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Greenland</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pearce</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Statistical foundations for model-based adjustments.</article-title>
+<source>Annu Rev Public Health</source>
+<year>2015</year>;<volume>36</volume>(<issue>1</issue>):<fpage>89</fpage>&#x02013;<lpage>108</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-publhealth-031914-122559</pub-id>
+<pub-id pub-id-type="pmid">25785886</pub-id></mixed-citation></ref><ref id="R24"><label>24. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Green</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name>
+<surname>Ottoson</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hiatt</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Diffusion theory and knowledge dissemination, utilization, and integration in public health.</article-title>
+<source>Annu Rev Public Health</source>
+<year>2009</year>;<volume>30</volume>(<issue>1</issue>):<fpage>151</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.publhealth.031308.100049</pub-id>
+<pub-id pub-id-type="pmid">19705558</pub-id></mixed-citation></ref><ref id="R25"><label>25. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jacob</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dodson</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Duggan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fields</surname>
+<given-names>R</given-names>
+</string-name>, <etal/>
+<article-title>Training needs and supports for evidence-based decision making among the public health workforce in the United States.</article-title>
+<source>BMC Health Serv Res</source>
+<year>2014</year>;<volume>14</volume>(<issue>1</issue>):<fpage>564</fpage>. <pub-id pub-id-type="doi">10.1186/s12913-014-0564-7</pub-id>
+<pub-id pub-id-type="pmid">25398652</pub-id></mixed-citation></ref><ref id="R26"><label>26. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brownson</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Ballew</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kittur</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Elliott</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Haire-Joshu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Krebill</surname>
+<given-names>H</given-names>
+</string-name>, <etal/>
+<article-title>Developing competencies for training practitioners in evidence-based cancer control.</article-title>
+<source>J Cancer Educ</source>
+<year>2009</year>;<volume>24</volume>(<issue>3</issue>):<fpage>186</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1080/08858190902876395</pub-id>
+<pub-id pub-id-type="pmid">19526405</pub-id></mixed-citation></ref><ref id="R27"><label>27. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Leider</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Harper</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Shon</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Sellers</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Castrucci</surname>
+<given-names>BC</given-names>
+</string-name>. <article-title>Job satisfaction and expected turnover among federal, state, and local public health practitioners.</article-title>
+<source>Am J Public Health</source>
+<year>2016</year>;<volume>106</volume>(<issue>10</issue>):<fpage>1782</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.2105/AJPH.2016.303305</pub-id>
+<pub-id pub-id-type="pmid">27552269</pub-id></mixed-citation></ref><ref id="R28"><label>28. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Escoffery</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hannon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Maxwell</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Vu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Leeman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>
+<given-names>A</given-names>
+</string-name>, <etal/>
+<article-title>Assessment of training and technical assistance needs of Colorectal Cancer Control Program grantees in the U.S.</article-title>
+<source>BMC Public Health</source>
+<year>2015</year>;<volume>15</volume>(<issue>1</issue>):<fpage>49</fpage>. <pub-id pub-id-type="doi">10.1186/s12889-015-1386-1</pub-id>
+<pub-id pub-id-type="pmid">25636329</pub-id></mixed-citation></ref><ref id="R29"><label>29. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Emmons</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Weiner</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Tu</surname>
+<given-names>SP</given-names>
+</string-name>. <article-title>Systems antecedents for dissemination and implementation: a review and analysis of measures.</article-title>
+<source>Health Educ Behav</source>
+<year>2012</year>;<volume>39</volume>(<issue>1</issue>):<fpage>87</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1177/1090198111409748</pub-id>
+<pub-id pub-id-type="pmid">21724933</pub-id></mixed-citation></ref><ref id="R30"><label>30. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Aarons</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Ehrhart</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Farahnak</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Sklar</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Aligning leadership across systems and organizations to develop a strategic climate for evidence-based practice implementation.</article-title>
+<source>Annu Rev Public Health</source>
+<year>2014</year>;<volume>35</volume>(<issue>1</issue>):<fpage>255</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-publhealth-032013-182447</pub-id>
+<pub-id pub-id-type="pmid">24641560</pub-id></mixed-citation></ref></ref-list></back></article>

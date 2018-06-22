@@ -1,0 +1,578 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Metabolites</journal-id><journal-id journal-id-type="iso-abbrev">Metabolites</journal-id><journal-id journal-id-type="publisher-id">metabolites</journal-id><journal-title-group><journal-title>Metabolites</journal-title></journal-title-group><issn pub-type="epub">2218-1989</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">24957025</article-id><article-id pub-id-type="pmc">4101505</article-id><article-id pub-id-type="doi">10.3390/metabo4020248</article-id><article-id pub-id-type="publisher-id">metabolites-04-00248</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Metabolic Profiling of Human Peripheral Blood Mononuclear Cells: Influence of Vitamin D Status and Gender</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Stepien</surname><given-names>Magdalena</given-names></name><xref ref-type="aff" rid="af1-metabolites-04-00248">1</xref><xref ref-type="aff" rid="af2-metabolites-04-00248">2</xref></contrib><contrib contrib-type="author"><name><surname>Nugent</surname><given-names>Anne P.</given-names></name><xref ref-type="aff" rid="af1-metabolites-04-00248">1</xref></contrib><contrib contrib-type="author"><name><surname>Brennan</surname><given-names>Lorraine</given-names></name><xref ref-type="aff" rid="af1-metabolites-04-00248">1</xref><xref ref-type="aff" rid="af2-metabolites-04-00248">2</xref><xref rid="c1-metabolites-04-00248" ref-type="corresp">*</xref></contrib></contrib-group><aff id="af1-metabolites-04-00248"><label>1</label>UCD Institute of Food and Health, University College Dublin, Belfield, Dublin 4, Ireland; E-Mails: <email>stepienm@fellows.iarc.fr</email> (M.S.); <email>anne.nugent@ucd.ie</email> (A.P.N.)</aff><aff id="af2-metabolites-04-00248"><label>2</label>UCD Conway Institute, University College Dublin, Belfield, Dublin 4, Ireland</aff><author-notes><corresp id="c1-metabolites-04-00248"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>lorraine.brennan@ucd.ie</email> (L.B.); Tel.: +353-1-7162811; Fax: +353-1-7166701.</corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>4</month><year>2014</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2014</year></pub-date><volume>4</volume><issue>2</issue><fpage>248</fpage><lpage>259</lpage><history><date date-type="received"><day>12</day><month>2</month><year>2014</year></date><date date-type="rev-recd"><day>27</day><month>3</month><year>2014</year></date><date date-type="accepted"><day>11</day><month>4</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2014</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>).</license-p></license></permissions><abstract><p>Metabolic profiling of peripheral blood mononuclear cells (PBMC) could serve as a less invasive and more direct alternative to tissue biopsies or serum in metabolomic research. We conducted two exploratory independent studies in order to characterise PBMC&#x02019;s metabolomic profile following short-term vitamin D3 supplementation and to determine gender effects. In the first study, eight healthy males and females aged 40&#x02013;65 y were randomly selected for profiling of PBMCs after receiving either 15 &#x000b5;g of vitamin D3 or placebo for four weeks. In the second study, twenty younger healthy males and females were studied. Cell metabolites were extracted and deproteinised using methanol/chloroform/water method and analysed by GC-MS. Higher vitamin D status had no effect on the fatty acid profile of PBMCs, but inflammatory biomarkers and adipokines correlated positively with stearic acid levels. In the second study, no gender-specific metabolites were identified. Valine, leucine and aspartic acid were identified as potential BMI-sensitive amino acids. Larger studies are needed to confirm the influence of BMI on these parameters. This work clearly demonstrates the utility of metabolomics profiling of PBMCs and paves the way for future applications of metabolomics in identifying metabolic profiles of blood cells as a measure for dietary intakes or physiological status.</p></abstract><kwd-group><kwd>peripheral blood mononuclear cells (PBMC)</kwd><kwd>vitamin D</kwd><kwd>gender</kwd><kwd>metabolic profile</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>The &#x0201c;omics&#x0201d; techniques represent a powerful tool in modern biology by enabling high throughput measurements of many genes, proteins and metabolites in samples. Gene expression and, consequently, protein and metabolite levels may undergo changes in different physiological conditions. Within the &#x0201c;omics&#x0201d; field, metabolomics targets small molecules present in biological fluids or tissues [<xref rid="B1-metabolites-04-00248" ref-type="bibr">1</xref>]. In recent years, applications of metabolomics in nutrition research have increased. In general, applications can be broadly defined into three categories: (1) identification of novel biomarkers of dietary intake; (2) applications related to dietary interventions with the aim of enhancing the understanding of the effects of diets/foods on metabolic pathways; and (3) applications to diet-related diseases [<xref rid="B2-metabolites-04-00248" ref-type="bibr">2</xref>].</p><p>Metabolomics studies can be performed using several specimens [<xref rid="B3-metabolites-04-00248" ref-type="bibr">3</xref>]. The most easily obtainable are blood and urine samples. However, these do not reflect tissue metabolism, due to a transient presence of metabolites in the circulation. Tissue biopsies are difficult to obtain and often not acceptable to the study subjects. Several studies have championed the potential use of peripheral blood mononuclear cells (PBMC), a group of cells, including lymphocytes and monocytes/macrophages, in characterising gene expression patterns distinctive for certain diseases [<xref rid="B4-metabolites-04-00248" ref-type="bibr">4</xref>,<xref rid="B5-metabolites-04-00248" ref-type="bibr">5</xref>]. Transcriptomic profiling of PBMC following the ingestion of anti-inflammatory PUFA has been intensely investigated [<xref rid="B6-metabolites-04-00248" ref-type="bibr">6</xref>,<xref rid="B7-metabolites-04-00248" ref-type="bibr">7</xref>,<xref rid="B8-metabolites-04-00248" ref-type="bibr">8</xref>]; however, only a few studies reported the lipid profile of PBMCs [<xref rid="B9-metabolites-04-00248" ref-type="bibr">9</xref>,<xref rid="B10-metabolites-04-00248" ref-type="bibr">10</xref>,<xref rid="B11-metabolites-04-00248" ref-type="bibr">11</xref>]. Gene expression profiling of PBMCs has been successfully used to detect differences between dietary groups, where distinct differences in gene expression were found after consumption of PUFA and SFA [<xref rid="B7-metabolites-04-00248" ref-type="bibr">7</xref>]. Supplementation with fish oil for 26 weeks resulted in a less inflammatory profile of PBMC, i.e., decreased expression of genes involved in inflammatory and atherogenic pathways [<xref rid="B12-metabolites-04-00248" ref-type="bibr">12</xref>]. Furthermore, targeting the fatty acids (FAs) of PBMCs demonstrated that the intake of specific FA can be reflected in the FA profile of PBMC phospholipids [<xref rid="B11-metabolites-04-00248" ref-type="bibr">11</xref>,<xref rid="B13-metabolites-04-00248" ref-type="bibr">13</xref>]. Furthermore, the FA composition of PBMC phospholipids was related to differences in immune cell functions in healthy subjects [<xref rid="B10-metabolites-04-00248" ref-type="bibr">10</xref>]. Despite these positive applications of the targeted profiling of PBMCs, the approach is relatively under-used in nutrition research.</p><p>The health effects of vitamin D have recently been shown to extend beyond its classical bone function. Recent literature supports a potential anti-inflammatory function of vitamin D [<xref rid="B14-metabolites-04-00248" ref-type="bibr">14</xref>]. PBMCs express vitamin D receptors (VDR) and vitamin D is an inhibitor of T-cell cytokine production [<xref rid="B15-metabolites-04-00248" ref-type="bibr">15</xref>]. Moreover, sufficient vitamin D levels are negatively associated with plasma lipids, as a result of decreased triglycerides (TG) absorption or increased TG peripheral removal [<xref rid="B16-metabolites-04-00248" ref-type="bibr">16</xref>]. Therefore, PBMC profiling could reveal a specific anti-inflammatory profile related to elevated vitamin D intake.</p><p>The main objective of the present work was to demonstrate the application of metabolomic profiling of PBMCs. To achieve this, two exploratory studies were utilized: Study 1 examined the impact of vitamin D supplementation on the lipid profile of PBMCs, and Study 2 examined gender effects in the PBMC fatty acid and amino acid profiles.</p></sec><sec><title>2. Results and Discussion</title><sec><title>2.1. Study 1: Effect of Supplementation with Vitamin D on PBMC Fatty Acid Levels</title><p>PBMC samples from subjects (N = 8) receiving a vitamin D supplement or a placebo were isolated and the FA profiled. The subjects in the supplemented and placebo groups did not significantly differ by age, BMI (<xref ref-type="table" rid="metabolites-04-00248-t001">Table 1</xref>), as well as dietary intakes of SFA, MUFA and PUFA.</p><p>In Study 1, several biochemical markers related to metabolic health and inflammation were measured. Circulating 25(OH)D levels increased significantly in the supplemented compared to the placebo group (56.2 &#x000b1; 18.9 nmol/L <italic>vs</italic>. 30.4 &#x000b1; 8.6 vs. <italic>p</italic> = 0.029) (<xref ref-type="table" rid="metabolites-04-00248-t003">Table 3</xref>). There were no significant differences in the metabolic health and inflammatory parameters measured</p><table-wrap id="metabolites-04-00248-t001" position="float"><object-id pub-id-type="pii">metabolites-04-00248-t001_Table 1</object-id><label>Table 1</label><caption><p>Participants&#x02019; characteristics in Study 1. </p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">Placebo, N = 4</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">Vitamin D, N = 4</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>p</italic>
+</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1"/></tr><tr style="border-top:solid thin"><td align="center" valign="middle" style="border-top:hidden" rowspan="1" colspan="1">Age (y)</td><td align="center" valign="middle" rowspan="1" colspan="1">53.8</td><td align="center" valign="middle" rowspan="1" colspan="1">7.3</td><td align="center" valign="middle" rowspan="1" colspan="1">52.5</td><td align="center" valign="middle" rowspan="1" colspan="1">7.5</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.802</italic>
+</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Height (m)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.77</td><td align="center" valign="middle" rowspan="1" colspan="1">0.11</td><td align="center" valign="middle" rowspan="1" colspan="1">1.69</td><td align="center" valign="middle" rowspan="1" colspan="1">0.11</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.344</italic>
+</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Weight (kg)</td><td align="center" valign="middle" rowspan="1" colspan="1">84.8</td><td align="center" valign="middle" rowspan="1" colspan="1">13.6</td><td align="center" valign="middle" rowspan="1" colspan="1">70.5</td><td align="center" valign="middle" rowspan="1" colspan="1">16.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.211</italic>
+</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="center" valign="middle" rowspan="1" colspan="1">27.0</td><td align="center" valign="middle" rowspan="1" colspan="1">3.2</td><td align="center" valign="middle" rowspan="1" colspan="1">24.3</td><td align="center" valign="middle" rowspan="1" colspan="1">2.8</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.215</italic>
+</td></tr></tbody></table></table-wrap><table-wrap id="metabolites-04-00248-t002" position="float"><object-id pub-id-type="pii">metabolites-04-00248-t002_Table 2</object-id><label>Table 2</label><caption><p>Participants&#x02019; characteristics in Study 2 </p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">Female, N = 10</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">Male, N = 10</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>p</italic>
+</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1"/></tr><tr style="border-top:solid thin"><td align="center" valign="middle" style="border-top:hidden" rowspan="1" colspan="1">Age (y)</td><td align="center" valign="middle" rowspan="1" colspan="1">27.2</td><td align="center" valign="middle" rowspan="1" colspan="1">4.5</td><td align="center" valign="middle" rowspan="1" colspan="1">30.6</td><td align="center" valign="middle" rowspan="1" colspan="1">5.0</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.126</italic>
+</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Height (m)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.68</td><td align="center" valign="middle" rowspan="1" colspan="1">0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">1.81</td><td align="center" valign="middle" rowspan="1" colspan="1">0.07</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.002</italic>
+</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Weight (kg)</td><td align="center" valign="middle" rowspan="1" colspan="1">55.2</td><td align="center" valign="middle" rowspan="1" colspan="1">5.24</td><td align="center" valign="middle" rowspan="1" colspan="1">79.9</td><td align="center" valign="middle" rowspan="1" colspan="1">11.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>3 &#x000d7; 10<sup>-5</sup></italic>
+</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="center" valign="middle" rowspan="1" colspan="1">19.5</td><td align="center" valign="middle" rowspan="1" colspan="1">1.5</td><td align="center" valign="middle" rowspan="1" colspan="1">24.3</td><td align="center" valign="middle" rowspan="1" colspan="1">3.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.001</italic>
+</td></tr></tbody></table><table-wrap-foot><fn><p>Values are means and SD; the independent sample <italic>t</italic>-test was used for between group comparison.</p></fn></table-wrap-foot></table-wrap><table-wrap id="metabolites-04-00248-t003" position="float"><object-id pub-id-type="pii">metabolites-04-00248-t003_Table 3</object-id><label>Table 3</label><caption><p>Biochemical markers of subjects in the vitamin D3 supplemented and placebo groups (Study 1). NEFA, non-esterified fatty acids; TG, triglycerides.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">Placebo</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">Vitamin D</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>p *</italic>
+</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1">
+</td></tr><tr style="border-top:solid thin"><td align="left" valign="middle" style="border-top:hidden" rowspan="1" colspan="1">25(OH)D (mmol/L) </td><td align="center" valign="middle" rowspan="1" colspan="1">30.4</td><td align="center" valign="middle" rowspan="1" colspan="1">8.6</td><td align="center" valign="middle" rowspan="1" colspan="1">56.2</td><td align="center" valign="middle" rowspan="1" colspan="1">18.9</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.029</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">hsCRP (mg/L)</td><td align="center" valign="middle" rowspan="1" colspan="1">2.8</td><td align="center" valign="middle" rowspan="1" colspan="1">3.6</td><td align="center" valign="middle" rowspan="1" colspan="1">1.0</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.368</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">IL-6 (pg/mL)</td><td align="center" valign="middle" rowspan="1" colspan="1">2.2</td><td align="center" valign="middle" rowspan="1" colspan="1">3.3</td><td align="center" valign="middle" rowspan="1" colspan="1">0.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.362</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">TNFalpha (pg/mL)</td><td align="center" valign="middle" rowspan="1" colspan="1">4.0</td><td align="center" valign="middle" rowspan="1" colspan="1">1.0</td><td align="center" valign="middle" rowspan="1" colspan="1">3.6</td><td align="center" valign="middle" rowspan="1" colspan="1">1.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.541</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Glucose (mmol/L)</td><td align="center" valign="middle" rowspan="1" colspan="1">5.7</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">5.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.555</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Insulin (&#x000b5;U/mL)</td><td align="center" valign="middle" rowspan="1" colspan="1">3.2</td><td align="center" valign="middle" rowspan="1" colspan="1">1.8</td><td align="center" valign="middle" rowspan="1" colspan="1">3.5</td><td align="center" valign="middle" rowspan="1" colspan="1">2.8</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.837</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">TG(mmol/L)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.0</td><td align="center" valign="middle" rowspan="1" colspan="1">0.2</td><td align="center" valign="middle" rowspan="1" colspan="1">1.4</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.164</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">NEFA (mmol/L)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">0.2</td><td align="center" valign="middle" rowspan="1" colspan="1">0.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.2</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.247</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Total cholesterol (mmol/L)</td><td align="center" valign="middle" rowspan="1" colspan="1">6.4</td><td align="center" valign="middle" rowspan="1" colspan="1">0.7</td><td align="center" valign="middle" rowspan="1" colspan="1">5.7</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.105</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">HDL (mmol/L)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.3</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">1.4</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.749</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">LDL (mmol/L)</td><td align="center" valign="middle" rowspan="1" colspan="1">4.5</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">3.9</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.030</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Adiponectin (&#x000b5;g/mL)</td><td align="center" valign="middle" rowspan="1" colspan="1">6.0</td><td align="center" valign="middle" rowspan="1" colspan="1">4.1</td><td align="center" valign="middle" rowspan="1" colspan="1">5.7</td><td align="center" valign="middle" rowspan="1" colspan="1">2.2</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.896</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Leptin (ng/mL)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.9</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">0.7</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.617</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Resistin (ng/mL)</td><td align="center" valign="middle" rowspan="1" colspan="1">3.9</td><td align="center" valign="middle" rowspan="1" colspan="1">0.6</td><td align="center" valign="middle" rowspan="1" colspan="1">3.0</td><td align="center" valign="middle" rowspan="1" colspan="1">1.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.178</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Ferritin (ng/mL)</td><td align="center" valign="middle" rowspan="1" colspan="1">65.6</td><td align="center" valign="middle" rowspan="1" colspan="1">39.1</td><td align="center" valign="middle" rowspan="1" colspan="1">72.0</td><td align="center" valign="middle" rowspan="1" colspan="1">27.0</td><td align="center" valign="middle" rowspan="1" colspan="1">0.791</td></tr></tbody></table><table-wrap-foot><fn><p>* Unadjusted <italic>p</italic>-value; values are means and SD; the multivariate general linear model (GLM) was used to compare fatty acid (FA) peripheral blood mononuclear cells (PBMC) levels between the vitamin D supplemented and placebo groups.</p></fn></table-wrap-foot></table-wrap><p>The most abundant FA in the cells were as follows (given in descending order): C20:4n6, C18:0, C16:0 and C18:1n9c and comprised around 85% of the total FA present in the PBMC cell. There was no significant difference in the FA in the supplemented group compared to the placebo group (<xref ref-type="table" rid="metabolites-04-00248-t004">Table 4</xref>).</p><table-wrap id="metabolites-04-00248-t004" position="float"><object-id pub-id-type="pii">metabolites-04-00248-t004_Table 4</object-id><label>Table 4</label><caption><p>Fatty acids PBMC profile in vitamin D and placebo groups (Study 1).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" rowspan="1" colspan="1">Fatty Acid (%)</th><th align="center" valign="middle" rowspan="1" colspan="1">Placebo</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">Vitamin D</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>p *</italic>
+</th><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>q</italic>
+</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+</td></tr><tr style="border-top:solid thin"><td align="left" valign="middle" style="border-top:hidden" rowspan="1" colspan="1">C16:0 (palmitic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">18.3</td><td align="center" valign="middle" rowspan="1" colspan="1">2.2</td><td align="center" valign="middle" rowspan="1" colspan="1">19.5</td><td align="center" valign="middle" rowspan="1" colspan="1">1.0</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.373</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.667</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C18:0 (stearic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">23.6</td><td align="center" valign="middle" rowspan="1" colspan="1">2.2</td><td align="center" valign="middle" rowspan="1" colspan="1">22.1</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.258</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.667</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C18:1n9c (oleic acid-cis)</td><td align="center" valign="middle" rowspan="1" colspan="1">13.1</td><td align="center" valign="middle" rowspan="1" colspan="1">1.3</td><td align="center" valign="middle" rowspan="1" colspan="1">13.2</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.880</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.667</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C18:1n9t (elaidic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">1.5</td><td align="center" valign="middle" rowspan="1" colspan="1">0.2</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.918</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.693</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C18:2n6 (linoleic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">7.7</td><td align="center" valign="middle" rowspan="1" colspan="1">1.5</td><td align="center" valign="middle" rowspan="1" colspan="1">7.3</td><td align="center" valign="middle" rowspan="1" colspan="1">0.8</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.604</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.693</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C20:4n6 (arachidonic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">30.6</td><td align="center" valign="middle" rowspan="1" colspan="1">3.0</td><td align="center" valign="middle" rowspan="1" colspan="1">30.7</td><td align="center" valign="middle" rowspan="1" colspan="1">2.4</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.949</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.693</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C20:3n6 (osatrienoic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.7</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">2.0</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.149</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.667</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C20:0 (arachidic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.1</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">1.0</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.254</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.684</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C22:0 (behenic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.0</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">1.1</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.313</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.684</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C24:1 (nervonic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.9</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">1.0</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.220</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.667</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C24:0 (lignoceric acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">0.0</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.740</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.725</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">SFA</td><td align="center" valign="middle" rowspan="1" colspan="1">44.5</td><td align="center" valign="middle" rowspan="1" colspan="1">3.9</td><td align="center" valign="middle" rowspan="1" colspan="1">44.3</td><td align="center" valign="middle" rowspan="1" colspan="1">1.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.933</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.745</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">MUFA</td><td align="center" valign="middle" rowspan="1" colspan="1">15.5</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2</td><td align="center" valign="middle" rowspan="1" colspan="1">15.7</td><td align="center" valign="middle" rowspan="1" colspan="1">1.6</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.773</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.667</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PUFA</td><td align="center" valign="middle" rowspan="1" colspan="1">40.0</td><td align="center" valign="middle" rowspan="1" colspan="1">3.9</td><td align="center" valign="middle" rowspan="1" colspan="1">39.9</td><td align="center" valign="middle" rowspan="1" colspan="1">2.0</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.963</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.693</italic>
+</td></tr></tbody></table><table-wrap-foot><fn><p>* Unadjusted <italic>p</italic>-value; values are means and SD; multivariate GLM was used to compare FA PBMC levels between the vitamin D supplemented and placebo groups. SFA refers to total saturated fatty acids. MUFA refers to total mono-unsaturated fatty acids, and PUFA refers to total poly-unsaturated fatty acids.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>2.2. Correlations between Fatty Acids and Metabolic Markers (Study 1)</title><p>Examination of the relationship between FA levels and metabolic markers revealed several significant correlations (<xref ref-type="supplementary-material" rid="metabolites-04-00248-s001">Supplementary Table 1</xref>). There was a strong positive association between C18:0 and hsCRP, IL-6 and adiponectin. A significant positive correlation was also observed between total SFA and CRP and adiponectin, C24:0 and leptin, C20:0 and resistin, Negative correlations were observed between C16:0 and total cholesterol, C18:2n6 and adiponectin, C20:3n6 and resistin, C20:0 and 25(OH)D.</p></sec><sec><title>2.3. Examination of Fatty Acids and Amino Acids Levels in PBMCs (Study 2)</title><p>In the second study, 20 subjects were recruited in order to assess if the PBMC metabolic profile differs between genders. No difference in age between male and female participants was observed in the second study. However, females had significantly lower BMI (19.5 &#x000b1; 1.5 kg/m<sup>2</sup>) compared to males (24.3 &#x000b1; 3.1 kg/m<sup>2</sup>) (<italic>p</italic> = 0.001) (<xref ref-type="table" rid="metabolites-04-00248-t002">Table 2</xref>). </p><p>A total of 11 FA present in PBMC were identified and quantified (<xref ref-type="table" rid="metabolites-04-00248-t005">Table 5</xref>). After controlling for BMI, there was a significant difference observed for C16:0 (<italic>p</italic> = 0.025), C18:1n9c (<italic>p</italic> = 0.018) and total MUFA (<italic>p</italic> = 0.015) between males and females. However, using a false discovery rate(FDR )at 5% revealed that none of these were significantly different between the genders. In addition, 10 amino acids (AA) were profiled and quantified (<xref ref-type="table" rid="metabolites-04-00248-t006">Table 6</xref>). In the unadjusted model, the percentage of isoleucine (<italic>p</italic> = 0.003) was significantly higher in males <italic>vs</italic>. females. Aspartic acid was lower in the PBMC from males (<italic>p</italic> = 0.02). After adjustment for BMI, no significant differences were observed between the groups, suggesting a confounding effect of BMI.</p><p>In subsequent analysis by BMI groups (low <italic>vs</italic>. high), valine (2.1 &#x000b1; 0.5 <italic>vs</italic>. 3.1 &#x000b1; 0.7%, <italic>p</italic> = 0.02) and isoleucine (2.1 &#x000b1; 0.4 <italic>vs</italic>. 2.7 &#x000b1; 0.4%, <italic>p</italic> = 0.011) were lower, and aspartic acid (11.3 &#x000b1; 2.3 <italic>vs</italic>. 8.0 &#x000b1; 2.0% <italic>p</italic> = 0.003) was significantly higher in the lower BMI group (BMI &#x02264; 20.6 kg/m<sup>2</sup>). There was no significant difference in the FA levels between the BMI groups.</p><table-wrap id="metabolites-04-00248-t005" position="float"><object-id pub-id-type="pii">metabolites-04-00248-t005_Table 5</object-id><label>Table 5</label><caption><p>Fatty acids profile of PBMC in female and male subjects (Study 2). </p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" rowspan="1" colspan="1">w/w (%)</th><th align="center" valign="middle" rowspan="1" colspan="1">Female</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">Male</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>p *</italic>
+</th><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>p **</italic>
+</th><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>q</italic>
+</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+</td></tr><tr style="border-top:solid thin"><td align="left" valign="middle" style="border-top:hidden" rowspan="1" colspan="1">C16:0 (palmitic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">23.9</td><td align="center" valign="middle" rowspan="1" colspan="1">2.4</td><td align="center" valign="middle" rowspan="1" colspan="1">19.6</td><td align="center" valign="middle" rowspan="1" colspan="1">4.0</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.008</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.039</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.096</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C18:0 (stearic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">26.9</td><td align="center" valign="middle" rowspan="1" colspan="1">4.5</td><td align="center" valign="middle" rowspan="1" colspan="1">23.3</td><td align="center" valign="middle" rowspan="1" colspan="1">7.0</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.189</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.373</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.268</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C18:1n9c (oleic acid-cis)</td><td align="center" valign="middle" rowspan="1" colspan="1">12.7</td><td align="center" valign="middle" rowspan="1" colspan="1">1.0</td><td align="center" valign="middle" rowspan="1" colspan="1">12.7</td><td align="center" valign="middle" rowspan="1" colspan="1">2.0</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.998</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.020</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.849</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C18:1n9t (elaidic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">2.7</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2</td><td align="center" valign="middle" rowspan="1" colspan="1">2.0</td><td align="center" valign="middle" rowspan="1" colspan="1">1.6</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.314</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.351</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.363</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C18:2n6 (linoleic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">3.6</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2</td><td align="center" valign="middle" rowspan="1" colspan="1">4.2</td><td align="center" valign="middle" rowspan="1" colspan="1">1.0</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.291</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.358</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.363</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C20:4n6 (arachidonic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">25.5</td><td align="center" valign="middle" rowspan="1" colspan="1">6.3</td><td align="center" valign="middle" rowspan="1" colspan="1">33.0</td><td align="center" valign="middle" rowspan="1" colspan="1">10.7</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.072</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.090</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.191</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C20:3n6 (osatrienoic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.8</td><td align="center" valign="middle" rowspan="1" colspan="1">1.3</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.379</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.721</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.399</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C20:0 (arachidic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">0.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.061</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.172</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.191</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C22:0 (behenic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2</td><td align="center" valign="middle" rowspan="1" colspan="1">0.2</td><td align="center" valign="middle" rowspan="1" colspan="1">1.7</td><td align="center" valign="middle" rowspan="1" colspan="1">0.6</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.015</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.274</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.096</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C24:1 (nervonic acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.7</td><td align="center" valign="middle" rowspan="1" colspan="1">0.2</td><td align="center" valign="middle" rowspan="1" colspan="1">0.7</td><td align="center" valign="middle" rowspan="1" colspan="1">0.2</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.932</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.669</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.849</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">C24:0 (lignoceric acid)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.7</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">0.8</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.161</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.771</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.268</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">SFA</td><td align="center" valign="middle" rowspan="1" colspan="1">53.2</td><td align="center" valign="middle" rowspan="1" colspan="1">6.3</td><td align="center" valign="middle" rowspan="1" colspan="1">46.1</td><td align="center" valign="middle" rowspan="1" colspan="1">10.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.075</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.172</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.191</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">MUFA</td><td align="center" valign="middle" rowspan="1" colspan="1">16.1</td><td align="center" valign="middle" rowspan="1" colspan="1">1.7</td><td align="center" valign="middle" rowspan="1" colspan="1">15.4</td><td align="center" valign="middle" rowspan="1" colspan="1">2.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.486</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.020</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.477</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PUFA</td><td align="center" valign="middle" rowspan="1" colspan="1">30.7</td><td align="center" valign="middle" rowspan="1" colspan="1">7.8</td><td align="center" valign="middle" rowspan="1" colspan="1">38.5</td><td align="center" valign="middle" rowspan="1" colspan="1">11.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.090</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.106</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.191</italic>
+</td></tr></tbody></table></table-wrap><table-wrap id="metabolites-04-00248-t006" position="float"><object-id pub-id-type="pii">metabolites-04-00248-t006_Table 6</object-id><label>Table 6</label><caption><p>Amino acids profile of PBMC in female and male subjects (Study 2).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" rowspan="1" colspan="1">w/w (%)</th><th align="center" valign="middle" rowspan="1" colspan="1">Female</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">Male</th><th align="center" valign="middle" rowspan="1" colspan="1"/><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>p *</italic>
+</th><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>p **</italic>
+</th><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>q</italic>
+</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1"/><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1">Mean</td><td align="center" valign="middle" rowspan="1" colspan="1">SD</td><td align="center" valign="middle" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+</td></tr><tr style="border-top:solid thin"><td align="left" valign="middle" style="border-top:hidden" rowspan="1" colspan="1">Alanine</td><td align="center" valign="middle" rowspan="1" colspan="1">8.8</td><td align="center" valign="middle" rowspan="1" colspan="1">1.4</td><td align="center" valign="middle" rowspan="1" colspan="1">9.4</td><td align="center" valign="middle" rowspan="1" colspan="1">1.7</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.366</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.449</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.732</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Valine</td><td align="center" valign="middle" rowspan="1" colspan="1">2.3</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">2.9</td><td align="center" valign="middle" rowspan="1" colspan="1">0.8</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.034</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.694</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.117</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Leucine</td><td align="center" valign="middle" rowspan="1" colspan="1">1.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.6</td><td align="center" valign="middle" rowspan="1" colspan="1">1.9</td><td align="center" valign="middle" rowspan="1" colspan="1">0.6</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.247</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.596</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.62</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Isoleucine</td><td align="center" valign="middle" rowspan="1" colspan="1">2.1</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">2.7</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.004</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.175</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.04</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Glycine</td><td align="center" valign="middle" rowspan="1" colspan="1">6.1</td><td align="center" valign="middle" rowspan="1" colspan="1">1.9</td><td align="center" valign="middle" rowspan="1" colspan="1">6.6</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.477</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.634</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.792</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Serine</td><td align="center" valign="middle" rowspan="1" colspan="1">3.5</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">3.5</td><td align="center" valign="middle" rowspan="1" colspan="1">0.8</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.995</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.929</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.994</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Threonine</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.939</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.678</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.994</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Proline</td><td align="center" valign="middle" rowspan="1" colspan="1">50.2</td><td align="center" valign="middle" rowspan="1" colspan="1">4.0</td><td align="center" valign="middle" rowspan="1" colspan="1">49.9</td><td align="center" valign="middle" rowspan="1" colspan="1">4.3</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.872</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.866</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.994</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Aspartic acid</td><td align="center" valign="middle" rowspan="1" colspan="1">11.0</td><td align="center" valign="middle" rowspan="1" colspan="1">2.6</td><td align="center" valign="middle" rowspan="1" colspan="1">8.2</td><td align="center" valign="middle" rowspan="1" colspan="1">2.1</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.017</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.578</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.085</italic>
+</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Glutamine</td><td align="center" valign="middle" rowspan="1" colspan="1">13.3</td><td align="center" valign="middle" rowspan="1" colspan="1">2.5</td><td align="center" valign="middle" rowspan="1" colspan="1">13.6</td><td align="center" valign="middle" rowspan="1" colspan="1">1.4</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.723</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.621</italic>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<italic>0.994</italic>
+</td></tr></tbody></table><table-wrap-foot><fn><p>* Unadjusted <italic>p</italic>-value. ** Model adjusted for BMI; values are means and SD; the multivariate GLM was used to compare PBMC metabolites levels between the genders. SFA refers to total saturated fatty acids. MUFA refers to total mono-unsaturated fatty acids, and PUFA refers to total poly-unsaturated fatty acids.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>2.4. Discussion</title><p>Transcriptomic analysis of PBMCs has been successfully implemented in nutrition research [<xref rid="B17-metabolites-04-00248" ref-type="bibr">17</xref>]. To date, there has been relatively few examples of metabolomic applications using PBMCs. However, this potential application holds great promise and may in fact yield more useful biological information with respect to inflammatory processes compared to analysis of serum or plasma. Moreover, the important interplay between metabolism and immunology has recently come to light [<xref rid="B18-metabolites-04-00248" ref-type="bibr">18</xref>]. Application of the approach developed here could greatly enhance the interpretation of metabolic responses in immune cells. In the present study, there were no differences in the FA profile of PBMCs in the vitamin D supplemented group compared to a placebo group. However, several of the FAs were significantly correlated with biochemical markers. In the second part of the study, the metabolic profile of the PBMC was expanded to AA, and comparison across genders revealed BMI-, but not gender-, specific AA.</p><p>Proportions of FA identified in the PBMC were comparable to the results obtained in other studies [<xref rid="B10-metabolites-04-00248" ref-type="bibr">10</xref>,<xref rid="B19-metabolites-04-00248" ref-type="bibr">19</xref>] and closely reproduced the proportions of FA found in the liver in another study [<xref rid="B20-metabolites-04-00248" ref-type="bibr">20</xref>]. As expected, the most abundant was arachidonic acid (20:4n6), a main energy source for activated immunologic cells that plays an important role in the control of cellular metabolism during inflammation [<xref rid="B21-metabolites-04-00248" ref-type="bibr">21</xref>,<xref rid="B22-metabolites-04-00248" ref-type="bibr">22</xref>].</p><p>Since the discovery of VDR in macrophages, dendritic cells and activated T and B lymphocytes, vitamin D has been suggested to play a role in modulating immune response [<xref rid="B15-metabolites-04-00248" ref-type="bibr">15</xref>]. Therefore, we hypothesized in the first study that higher serum total 25(OH)D levels would be accompanied by some changes in the FA profile of the PBMC. The vitamin D group successfully increased their vitamin D status after four weeks of vitamin D3 supplementation, as compared to the control group not receiving vitamin D. However, similarly to the biochemical markers, no significant changes in the FA profile of the PBMC were observed, presumably due to the short length of the intervention. Nevertheless, some significant correlations were observed between FA PBMC content and metabolic biomarkers. Two inflammatory markers, hsCRP and IL-6, had a strong positive association with stearic acid (C18:0), but not palmitic acid (C16:0). Generally, exposure to palmitic acid is associated with its proinflammatory effect on variety of cells [<xref rid="B23-metabolites-04-00248" ref-type="bibr">23</xref>,<xref rid="B24-metabolites-04-00248" ref-type="bibr">24</xref>]. It has also been previously reported that C18:0 from PBMC phospholipids was negatively correlated with IL-6 production after inflammatory stimulus [<xref rid="B10-metabolites-04-00248" ref-type="bibr">10</xref>]. In our study, the results of the association of PBMC FA content with plasma inflammatory markers showed the opposite, but this was observed based on non-stimulated PBMC metabolome and plasma biomarkers levels in healthy subjects. In addition, two other individual SFAs had a positive association with resistin and leptin, which are known as proinflammatory adipokines [<xref rid="B25-metabolites-04-00248" ref-type="bibr">25</xref>,<xref rid="B26-metabolites-04-00248" ref-type="bibr">26</xref>]. SFAs possess more proinflammatory functions than unsaturated FA [<xref rid="B27-metabolites-04-00248" ref-type="bibr">27</xref>]. Adiponectin, in contrast, regarded as an anti-inflammatory adipokine that is generally reduced in obesity [<xref rid="B28-metabolites-04-00248" ref-type="bibr">28</xref>], was also positively related to the C18:0 and SFA of PBMC. However, a recent study found that adiponectin can induce proinflammatory functions of isolated macrophages and T-cells [<xref rid="B29-metabolites-04-00248" ref-type="bibr">29</xref>]. Nevertheless, since we did not observe in this study any differences in serum inflammatory markers, as well as the arachidonic acid content of PBMC, we cannot extrapolate the above findings to inflammatory functions following increased vitamin D intake. The release of arachidonic acid followed by the eicosanoid production pathway is the main characteristic of inflammation processes [<xref rid="B30-metabolites-04-00248" ref-type="bibr">30</xref>].</p><p>In the second study, we employed an additional group of younger adults to see if it is possible to expand the profiling of PBMCs to include AA profiling, as well as to test the difference in the metabolite profile of PBMC between genders. Females and males differ in adipose tissue content and distribution, as well as body protein stores [<xref rid="B31-metabolites-04-00248" ref-type="bibr">31</xref>], which could provoke different FA and AA footprints of the PBMC. However, after controlling for multiple comparisons, only isoleucine significantly differed between genders. Because there was a significant difference in BMI between the genders, we subsequently controlled the statistical analyses for BMI and observed that there were no significant difference between the groups. To our knowledge, this is the first report of the AA content in PBMC. The role of different AAs in cells has been extensively studied. While glutamine plays a major role in the metabolism of immune system cells [<xref rid="B32-metabolites-04-00248" ref-type="bibr">32</xref>], other AAs have important regulatory functions by affecting protein synthesis, the production of cytokines and other immune functions. Aspartic acid plays an important role in the production of NO through ciruline recycling and is crucial for cell proliferation in response to immunological challenges. Branched Chain Amino acids (BCAAs), including valine and isoleucine, are the essential AA involved in protein synthesis through their action on the mTOR signalling pathway [<xref rid="B33-metabolites-04-00248" ref-type="bibr">33</xref>] and were found in the second study to be higher in the PBMCs of persons with higher BMI or confounded by BMI in the between genders comparison. Indeed, BCAAs have been shown to be elevated in plasma of obese subjects and contribute to obesity-induced insulin resistance [<xref rid="B34-metabolites-04-00248" ref-type="bibr">34</xref>].</p><p>The present studies have limitations and strengths. The major strength of our study was that the metabolic profiling of PBMCs was combined with extensive blood biochemical analysis, which could give a broad overview of PBMC function in response to FA metabolism and inflammation. In the second study, for the first time, both aqueous (AA) and organic (FA) extracts were analysed, illustrating the overall metabolic profile of PBMCs in a steady, fasting condition, and highlighting the possible differences between BMI rank. The limiting factors include low numbers of subjects; however, this study was set in order to prove the application of PBMC in metabolomic research and not for hypothesis-based purposes. Due to the low number of subjects and the limited power of the study to detect significant differences, the results have to be interpreted with caution. Another limitation of the study is the fact that the PBMC cells include many cell types with different properties regarding their function. Nonetheless, the present study is an important demonstration of the feasibility of applying metabolomics analysis to PBMCs. Further work could be directed at applying this methodology to different isolated blood cell types, which would make biological interpretation of the results easier.</p></sec></sec><sec><title>3. Experimental section</title><sec><title>3.1. Study Design and Blood Collection</title><p>The protocol was approved by the Human Research Ethics Committee at University College Dublin. Written informed consent was obtained from all subjects according to the guidelines specified in the Declaration of Helsinki. This research was a part of a double blind placebo-controlled study registered as a clinical trial (LS-10-152-Brennan-Gibney, ISRCTN16158244). In the first study (Study 1), eight healthy males and females aged 40&#x02013;65 years were randomly selected for this study from the subjects receiving either 15 &#x000b5;g of vitamin D3 or placebo in a capsule form for 4 weeks, as described elsewhere [<xref rid="B35-metabolites-04-00248" ref-type="bibr">35</xref>]. All volunteers continued their usual diets, and no changes in the lifestyle were requested. Several biochemical markers were measured in serum or plasma, depending on the instructions and have been reported elsewhere, including tumour necrosis factor &#x003b1; (TNF-&#x003b1;), ferritin, interleukin-6 (IL-6), insulin, leptin, resistin, hsC-reactive protein (hsCRP), glucose, adiponectin, TG, non-esterified fatty acids (NEFA) and total, LDL and HDL cholesterol. Serum 25(OH)D levels were computed by adding measured serum 25(OH)D2 and D3 levels. In the first study, samples were obtained post the 4-week intervention, and the placebo group was the control group not receiving vitamin D supplementation.</p><p>In the second study (Study 2), we aimed to further explore PBMC characteristics by adapting a protocol to measure the amino acid profile of PBMC. For this reason, an additional recruitment of 10 male and 10 female free-living subjects was performed. The subjects were recruited on the University College Dublin campus by use of poster and email advertisement. All volunteers continued their usual diets, and no changes in the lifestyle were requested. The characteristics of the volunteers are shown in <xref ref-type="table" rid="metabolites-04-00248-t001">Table 1</xref>a and b.</p><p>Body weight and height were measured, and BMI was calculated: BMI = weight (kg)/height<sup>2</sup> (m<sup>2</sup>). All of the study subjects were asked to fast for 12 h before blood collection.</p></sec><sec><title>3.2. Cell Preparation and Extraction of Metabolites</title><p>Blood was collected by a trained phlebotomist into BD vacutainer Cell Preparation Tubes (CPT;BD, USA) and processed according to the manufacturer&#x02019;s instructions. Briefly, samples were inverted 8&#x02013;10 times, kept upright at room temperature (RT) and centrifuged within 20 min of collection at 2,300 rpm. The PBMC cell layer was then collected into a 15-mL conical tube and washed twice with sterile phosphate buffered saline (PBS) (Invitrogen, New Zealand). The cell pallet was kept at &#x02212;80<sup>o</sup>C until subsequent analysis.</p><p>Cell metabolites were extracted and deproteinised using methanol/chloroform/water method. Cell pellets were resuspended in 1 mL of ice-cold methanol/chloroform mixture (2:1) and kept on ice for 2 min until 40 &#x000b5;L of an antioxidant, butylated hydroxytoluene (BHT), and 300 &#x000b5;L of ice cold water and 300 &#x000b5;L of chloroform were added. The samples were then centrifuged for 5 min at 2,000 rpm, and the organic and aqueous phases were collected.</p><p>The lipid extracts were dried under nitrogen, and methyl esters were derivatised immediately after extraction. Extracts were derivatised by methylation using methanolic boron trifluoride (BF3, 14% in methanol). Briefly, to the dry lipid extract, 1 mL of methanol, 1 mL of BF3 methanol and 40 &#x000b5;L of BHT were added. Heptadecanoic acid (C17:0) was used as an internal standard, and 20 &#x000b5;L of the C17:0 (2 mg/mL in methanol) was also added. The samples were boiled for 20 min and methyl esters were extracted by the addition of 2 mL hexane and 2 mL deionised water. The supernatant was collected following centrifugation for 5 min at 2,000 rpm, and the extraction step was repeated. The supernatant was dried under nitrogen and dissolved in 200 &#x000b5;L of hexane for gas chromatography mass spectrometry (GC-MS) analysis.</p><p>The aqueous extracts were analysed only in the second study: extracts were dried under nitrogen and kept at &#x02212;20 &#x000b0;C until analysis. The dried sample was resuspended in 200 &#x000b5;L of water, and 20 &#x000b5;L of the internal standard, <sup>13</sup>C myristic acid (1 mg/mL in methanol), were added. The sample was then dried under nitrogen and methoximised using 60 &#x000b5;L methoxyamine (20 mg/mL in pyridine) for 17 h at RT. N-methyl-N-trimethylsilyltrifluoroacetamide with 1% trimethylchlorosilane (MSTFA + 1% TMCS) (60 &#x000b5;L) was then added and incubated for 1 h at RT. The samples were dissolved in 210 &#x000b5;L of hexane for GC-MS analysis.</p></sec><sec><title>3.3. Metabolite Analysis</title><p>An Agilent 7890A GC coupled with a 5975C MS with an Agilent HP-5ms 30 m &#x000d7; 250 uM &#x000d7; 0.25 &#x000b5;M column was used to identify organic and aqueous metabolites.</p><p>For the organic extracts, 1 &#x000b5;L of sample was injected into the column. Helium was used as a carrier gas with a flow of 1.2 mL/min. The initial oven temperature was 70 &#x000ba;C, raised to 220 &#x000ba;C at 5 &#x000ba;C/min, held for 20 min and then raised to 320 &#x000b0;C at 20 &#x000b0;C/min.</p><p>For the aqueous compounds, 1 &#x000b5;L of sample was injected to the column. The initial oven temperature was 70 &#x000b0;C, raised to 320 &#x000b0;C at 5 &#x000b0;C/min, held for 20 min and then raised to 320 &#x000b0;C at 20 &#x000b0;C/min with the transfer line temperature of 250 &#x000b0;C. Helium was used as the carrier gas with a column flow of 1.2 mL/min.</p><p>Chromatogram peaks were identified on AMDIS version 2.65 using the National Institute of Standards and Technology (NIST) Library 2.0 (2005). Fatty Acid Methyl Esters (FAME) 37 compound mix (Supelco, Bellefonte, PA, USA) and amino acids (AA) standard (Sigma Aldrich, Saint Louis, MO, USA) were used as known standards for FA and AA, respectively. One quant mass for each peak was specified as a target, and three masses were selected as qualifiers. Metabolites present in the samples were then automatically detected based on retention times and fragmentation patterns and quantified by a comparison of the peak areas calibrated to standard mixtures using an Agilent Chemstation MSD E.02.00.493. FA and AA profiles of PBMC were expressed as the percentage of the total amount.</p></sec><sec><title>3.4. Statistical Analysis</title><p>The independent student <italic>t</italic>-test was used for a comparison of age, weight, height and BMI, between the study groups, as well as for comparison of the metabolite levels between the BMI rank (lower and upper median). Dietary intakes of FA were controlled for energy intake and analysed with general linear model (GLM) ANOVA. GLM ANOVA analysis was employed to compare circulating biochemical markers or the PBMC metabolic profile without adjustment (Study 1) and additionally controlling for BMI (Study 2). The Pearson correlation was used to study the relations between biomarkers measured and the phenotypic characteristics. Statistical analyses were performed using SPSS software for Windows (SPSS v.20, US). An estimate of the false discovery rate (FDR, <italic>q</italic>-value) was calculated to take into account multiple comparisons using the &#x0201c;<italic>q</italic>-value&#x0201d; package (1) in R version 2.15.3. The results were considered significant when <italic>p</italic> &#x02264; 0.05. Data are presented as the mean and SD.</p></sec></sec><sec><title>4. Conclusions</title><p>In conclusion, stearic acid, but not palmitic acid, correlated positively with inflammatory markers. The work paves the way for future applications of metabolomics in identifying the metabolic profile of blood cells as a measure for dietary intake or physiological status and suggests that there are no major differences in metabolic profiling between genders.</p></sec></body><back><ack><title>Acknowledgments</title><p>The authors would like to thank the study participants for their involvement in the study. The authors would like to acknowledge Tracey Claxton for her help with the autoanalyser.</p></ack><app-group><app><title>Supplementary Files</title><supplementary-material content-type="local-data" id="metabolites-04-00248-s001"><label>Supplementary File 1</label><caption><p>Supplementary Materials (PDF, 83 KB)</p></caption><media xlink:href="metabolites-04-00248-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></app></app-group><notes><title>Author Contributions</title><p>Magdalena Stepien, Lorraine Brennan and Anne P. Nugent prepared the manuscript. Lorraine Brennan and Anne P. Nugent designed the research. Magdalena Stepien performed the research. Magdalena Stepien and Lorraine Brennan performed the analysis.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-metabolites-04-00248"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weckwerth</surname><given-names>W.</given-names></name></person-group>
+<article-title>Metabolomics in systems biology</article-title>
+<source>Annu. Rev. Plant. Biol.</source>
+<year>2003</year>
+<volume>54</volume>
+<fpage>669</fpage>
+<lpage>689</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.arplant.54.031902.135014</pub-id>
+<pub-id pub-id-type="pmid">14503007</pub-id></element-citation></ref><ref id="B2-metabolites-04-00248"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Astarita G</surname><given-names>L.J.</given-names></name></person-group>
+<article-title>An emerging role for metabolomics in nutrition science</article-title>
+<source>J. Nutrigenet. Nutrigenomics</source>
+<year>2013</year>
+<volume>6</volume>
+<fpage>179</fpage>
+<lpage>198</lpage>
+<pub-id pub-id-type="doi">10.1159/000355672</pub-id>
+</element-citation></ref><ref id="B3-metabolites-04-00248"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gibney</surname><given-names>M.J.</given-names></name><name><surname>Walsh</surname><given-names>M.</given-names></name><name><surname>Brennan</surname><given-names>L.</given-names></name><name><surname>Roche</surname><given-names>H.M.</given-names></name><name><surname>German</surname><given-names>B.</given-names></name><name><surname>van Ommen</surname><given-names>B.</given-names></name></person-group>
+<article-title>Metabolomics in human nutrition: Opportunities and challenges</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2005</year>
+<volume>82</volume>
+<fpage>497</fpage>
+<lpage>503</lpage>
+<pub-id pub-id-type="pmid">16155259</pub-id></element-citation></ref><ref id="B4-metabolites-04-00248"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Achiron</surname><given-names>A.</given-names></name><name><surname>Gurevich</surname><given-names>M.</given-names></name></person-group>
+<article-title>Peripheral blood gene expression signature mirrors central nervous system disease: The model of multiple sclerosis</article-title>
+<source>Autoimmun. Rev.</source>
+<year>2006</year>
+<volume>5</volume>
+<fpage>517</fpage>
+<lpage>522</lpage>
+<pub-id pub-id-type="doi">10.1016/j.autrev.2006.02.009</pub-id>
+<pub-id pub-id-type="pmid">17027885</pub-id></element-citation></ref><ref id="B5-metabolites-04-00248"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maas</surname><given-names>K.</given-names></name><name><surname>Chan</surname><given-names>S.</given-names></name><name><surname>Parker</surname><given-names>J.</given-names></name><name><surname>Slater</surname><given-names>A.</given-names></name><name><surname>Moore</surname><given-names>J.</given-names></name><name><surname>Olsen</surname><given-names>N.</given-names></name><name><surname>Aune</surname><given-names>T.M.</given-names></name></person-group>
+<article-title>Cutting edge: Molecular portrait of human autoimmune disease</article-title>
+<source>J. Immunol.</source>
+<year>2002</year>
+<volume>169</volume>
+<fpage>5</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.4049/jimmunol.169.1.5</pub-id>
+<pub-id pub-id-type="pmid">12077221</pub-id></element-citation></ref><ref id="B6-metabolites-04-00248"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bouwens</surname><given-names>M.</given-names></name><name><surname>Afman</surname><given-names>L.A.</given-names></name><name><surname>Muller</surname><given-names>M.</given-names></name></person-group>
+<article-title>Activation of peroxisome proliferator-activated receptor alpha in human peripheral blood mononuclear cells reveals an individual gene expression profile response</article-title>
+<source>BMC Genomics</source>
+<year>2008</year>
+<volume>9</volume>
+<fpage>262</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2164-9-262</pub-id>
+<pub-id pub-id-type="pmid">18518955</pub-id></element-citation></ref><ref id="B7-metabolites-04-00248"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bouwens</surname><given-names>M.</given-names></name><name><surname>Grootte Bromhaar</surname><given-names>M.</given-names></name><name><surname>Jansen</surname><given-names>J.</given-names></name><name><surname>Muller</surname><given-names>M.</given-names></name><name><surname>Afman</surname><given-names>L.A.</given-names></name></person-group>
+<article-title>Postprandial dietary lipid-specific effects on human peripheral blood mononuclear cell gene expression profiles</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2010</year>
+<volume>91</volume>
+<fpage>208</fpage>
+<lpage>217</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.2009.28586</pub-id>
+<pub-id pub-id-type="pmid">19923369</pub-id></element-citation></ref><ref id="B8-metabolites-04-00248"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Dijk</surname><given-names>S.J.</given-names></name><name><surname>Feskens</surname><given-names>E.J.</given-names></name><name><surname>Bos</surname><given-names>M.B.</given-names></name><name><surname>de Groot</surname><given-names>L.C.</given-names></name><name><surname>de Vries</surname><given-names>J.H.</given-names></name><name><surname>Muller</surname><given-names>M.</given-names></name><name><surname>Afman</surname><given-names>L.A.</given-names></name></person-group>
+<article-title>Consumption of a high monounsaturated fat diet reduces oxidative phosphorylation gene expression in peripheral blood mononuclear cells of abdominally overweight men and women</article-title>
+<source>J. Nutr.</source>
+<year>2012</year>
+<volume>142</volume>
+<fpage>1219</fpage>
+<lpage>1225</lpage>
+<pub-id pub-id-type="doi">10.3945/jn.111.155283</pub-id>
+<pub-id pub-id-type="pmid">22623392</pub-id></element-citation></ref><ref id="B9-metabolites-04-00248"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Damsgaard</surname><given-names>C.T.</given-names></name><name><surname>Frokiaer</surname><given-names>H.</given-names></name><name><surname>Andersen</surname><given-names>A.D.</given-names></name><name><surname>Lauritzen</surname><given-names>L.</given-names></name></person-group>
+<article-title>Fish oil in combination with high or low intakes of linoleic acid lowers plasma triacylglycerols but does not affect other cardiovascular risk markers in healthy men</article-title>
+<source>J. Nutr.</source>
+<year>2008</year>
+<volume>138</volume>
+<fpage>1061</fpage>
+<lpage>1066</lpage>
+<pub-id pub-id-type="pmid">18492834</pub-id></element-citation></ref><ref id="B10-metabolites-04-00248"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kew</surname><given-names>S.</given-names></name><name><surname>Banerjee</surname><given-names>T.</given-names></name><name><surname>Minihane</surname><given-names>A.M.</given-names></name><name><surname>Finnegan</surname><given-names>Y.E.</given-names></name><name><surname>Williams</surname><given-names>C.M.</given-names></name><name><surname>Calder</surname><given-names>P.C.</given-names></name></person-group>
+<article-title>Relation between the fatty acid composition of peripheral blood mononuclear cells and measures of immune cell function in healthy, free-living subjects aged 25&#x02013;72 y</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2003</year>
+<volume>77</volume>
+<fpage>1278</fpage>
+<lpage>1286</lpage>
+<pub-id pub-id-type="pmid">12716683</pub-id></element-citation></ref><ref id="B11-metabolites-04-00248"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yaqoob</surname><given-names>P.</given-names></name><name><surname>Pala</surname><given-names>H.S.</given-names></name><name><surname>Cortina-Borja</surname><given-names>M.</given-names></name><name><surname>Newsholme</surname><given-names>E.A.</given-names></name><name><surname>Calder</surname><given-names>P.C.</given-names></name></person-group>
+<article-title>Encapsulated fish oil enriched in alpha-tocopherol alters plasma phospholipid and mononuclear cell fatty acid compositions but not mononuclear cell functions</article-title>
+<source>Eur. J. Clin. Invest.</source>
+<year>2000</year>
+<volume>30</volume>
+<fpage>260</fpage>
+<lpage>274</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1365-2362.2000.00623.x</pub-id>
+<pub-id pub-id-type="pmid">10692004</pub-id></element-citation></ref><ref id="B12-metabolites-04-00248"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bouwens</surname><given-names>M.</given-names></name><name><surname>van de Rest</surname><given-names>O.</given-names></name><name><surname>Dellschaft</surname><given-names>N.</given-names></name><name><surname>Bromhaar</surname><given-names>M.G.</given-names></name><name><surname>de Groot</surname><given-names>L.C.</given-names></name><name><surname>Geleijnse</surname><given-names>J.M.</given-names></name><name><surname>Muller</surname><given-names>M.</given-names></name><name><surname>Afman</surname><given-names>L.A.</given-names></name></person-group>
+<article-title>Fish-oil supplementation induces antiinflammatory gene expression profiles in human blood mononuclear cells</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2009</year>
+<volume>90</volume>
+<fpage>415</fpage>
+<lpage>424</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.2009.27680</pub-id>
+<pub-id pub-id-type="pmid">19515734</pub-id></element-citation></ref><ref id="B13-metabolites-04-00248"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gibney</surname><given-names>M.J.</given-names></name><name><surname>Hunter</surname><given-names>B.</given-names></name></person-group>
+<article-title>The effects of short- and long-term supplementation with fish oil on the incorporation of n-3 polyunsaturated fatty acids into cells of the immune system in healthy volunteers</article-title>
+<source>Eur. J. Clin. Nutr.</source>
+<year>1993</year>
+<volume>47</volume>
+<fpage>255</fpage>
+<lpage>259</lpage>
+<pub-id pub-id-type="pmid">8491162</pub-id></element-citation></ref><ref id="B14-metabolites-04-00248"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bischoff-Ferrari</surname><given-names>H.</given-names></name></person-group>
+<article-title>Health effects of vitamin D</article-title>
+<source>Dermatol. Ther.</source>
+<year>2010</year>
+<volume>23</volume>
+<fpage>23</fpage>
+<lpage>30</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1529-8019.2009.01288.x</pub-id>
+<pub-id pub-id-type="pmid">20136906</pub-id></element-citation></ref><ref id="B15-metabolites-04-00248"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cantorna</surname><given-names>M.T.</given-names></name></person-group>
+<article-title>Why do t cells express the vitamin d receptor?</article-title>
+<source>Ann. NY Acad. Sci.</source>
+<year>2011</year>
+<volume>1217</volume>
+<fpage>77</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="pmid">21114675</pub-id></element-citation></ref><ref id="B16-metabolites-04-00248"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Muldowney</surname><given-names>S.</given-names></name><name><surname>Lucey</surname><given-names>A.J.</given-names></name><name><surname>Paschos</surname><given-names>G.</given-names></name><name><surname>Martinez</surname><given-names>J.A.</given-names></name><name><surname>Bandarra</surname><given-names>N.</given-names></name><name><surname>Thorsdottir</surname><given-names>I.</given-names></name><name><surname>Cashman</surname><given-names>K.D.</given-names></name><name><surname>Kiely</surname><given-names>M.</given-names></name></person-group>
+<article-title>Relationships between vitamin D status and cardio-metabolic risk factors in young european adults</article-title>
+<source>Ann. Nutr. Metab.</source>
+<year>2011</year>
+<volume>58</volume>
+<fpage>85</fpage>
+<lpage>93</lpage>
+<pub-id pub-id-type="doi">10.1159/000324600</pub-id>
+<pub-id pub-id-type="pmid">21474925</pub-id></element-citation></ref><ref id="B17-metabolites-04-00248"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Mello</surname><given-names>V.D.</given-names></name><name><surname>Kolehmanien</surname><given-names>M.</given-names></name><name><surname>Schwab</surname><given-names>U.</given-names></name><name><surname>Pulkkinen</surname><given-names>L.</given-names></name><name><surname>Uusitupa</surname><given-names>M.</given-names></name></person-group>
+<article-title>Gene expression of peripheral blood mononuclear cells as a tool in dietary intervention studies: What do we know so far?</article-title>
+<source>Mol. Nutr. Food Res.</source>
+<year>2012</year>
+<volume>56</volume>
+<fpage>1160</fpage>
+<lpage>1172</lpage>
+<pub-id pub-id-type="doi">10.1002/mnfr.201100685</pub-id>
+<pub-id pub-id-type="pmid">22610960</pub-id></element-citation></ref><ref id="B18-metabolites-04-00248"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eleftheriadis</surname><given-names>T.</given-names></name><name><surname>Pissas</surname><given-names>G.</given-names></name><name><surname>Yiannaki</surname><given-names>E.</given-names></name><name><surname>Markala</surname><given-names>D.</given-names></name><name><surname>Arampatzis</surname><given-names>S.</given-names></name><name><surname>Antoniadi</surname><given-names>G.</given-names></name><name><surname>Liakopoulos</surname><given-names>V.</given-names></name><name><surname>Stefanidis</surname><given-names>I.</given-names></name></person-group>
+<article-title>Inhibition of indoleamine 2,3-dioxygenase in mixed lymphocyte reaction affects glucose influx and enzymes involved in aerobic glycolysis and glutaminolysis in alloreactive t-cells</article-title>
+<source>Human Immunol.</source>
+<year>2013</year>
+<volume>74</volume>
+<fpage>1501</fpage>
+<lpage>1509</lpage>
+<pub-id pub-id-type="doi">10.1016/j.humimm.2013.08.268</pub-id>
+<pub-id pub-id-type="pmid">23993986</pub-id></element-citation></ref><ref id="B19-metabolites-04-00248"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Damsgaard</surname><given-names>C.T.</given-names></name><name><surname>Frokiaer</surname><given-names>H.</given-names></name><name><surname>Lauritzen</surname><given-names>L.</given-names></name></person-group>
+<article-title>The effects of fish oil and high or low linoleic acid intake on fatty acid composition of human peripheral blood mononuclear cells</article-title>
+<source>Br. J. Nutr.</source>
+<year>2008</year>
+<volume>99</volume>
+<fpage>147</fpage>
+<lpage>154</lpage>
+<pub-id pub-id-type="pmid">17663804</pub-id></element-citation></ref><ref id="B20-metabolites-04-00248"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kotronen</surname><given-names>A.</given-names></name><name><surname>Seppanen-Laakso</surname><given-names>T.</given-names></name><name><surname>Westerbacka</surname><given-names>J.</given-names></name><name><surname>Kiviluoto</surname><given-names>T.</given-names></name><name><surname>Arola</surname><given-names>J.</given-names></name><name><surname>Ruskeepaa</surname><given-names>A.L.</given-names></name><name><surname>Yki-Jarvinen</surname><given-names>H.</given-names></name><name><surname>Oresic</surname><given-names>M.</given-names></name></person-group>
+<article-title>Comparison of lipid and fatty acid composition of the liver, subcutaneous and intra-abdominal adipose tissue, and serum</article-title>
+<source>Obesity (Silver Spring)</source>
+<year>2010</year>
+<volume>18</volume>
+<fpage>937</fpage>
+<lpage>944</lpage>
+<pub-id pub-id-type="doi">10.1038/oby.2009.326</pub-id>
+<pub-id pub-id-type="pmid">19798063</pub-id></element-citation></ref><ref id="B21-metabolites-04-00248"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Calder</surname><given-names>P.C.</given-names></name></person-group>
+<article-title>Omega-3 fatty acids and inflammatory processes</article-title>
+<source>Nutrients</source>
+<year>2010</year>
+<volume>2</volume>
+<fpage>355</fpage>
+<lpage>374</lpage>
+<pub-id pub-id-type="doi">10.3390/nu2030355</pub-id>
+<pub-id pub-id-type="pmid">22254027</pub-id></element-citation></ref><ref id="B22-metabolites-04-00248"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Parker</surname><given-names>C.W.</given-names></name><name><surname>Jakschik</surname><given-names>B.A.</given-names></name><name><surname>Huber</surname><given-names>M.G.</given-names></name><name><surname>Falkenhein</surname><given-names>S.F.</given-names></name></person-group>
+<article-title>Characterization of slow reacting substance as a family of thiolipids derived from arachidonic acid</article-title>
+<source>Biochem. Biophys. Res. Commun.</source>
+<year>1979</year>
+<volume>89</volume>
+<fpage>1186</fpage>
+<lpage>1192</lpage>
+<pub-id pub-id-type="doi">10.1016/0006-291X(79)92133-8</pub-id>
+<pub-id pub-id-type="pmid">496949</pub-id></element-citation></ref><ref id="B23-metabolites-04-00248"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Laine</surname><given-names>P.S.</given-names></name><name><surname>Schwartz</surname><given-names>E.A.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Zhang</surname><given-names>W.Y.</given-names></name><name><surname>Karnik</surname><given-names>S.K.</given-names></name><name><surname>Musi</surname><given-names>N.</given-names></name><name><surname>Reaven</surname><given-names>P.D.</given-names></name></person-group>
+<article-title>Palmitic acid induces ip-10 expression in human macrophages via nf-kappab activation</article-title>
+<source>Biochem. Biophys. Res. Commun.</source>
+<year>2007</year>
+<volume>358</volume>
+<fpage>150</fpage>
+<lpage>155</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bbrc.2007.04.092</pub-id>
+<pub-id pub-id-type="pmid">17467667</pub-id></element-citation></ref><ref id="B24-metabolites-04-00248"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Staiger</surname><given-names>H.</given-names></name><name><surname>Staiger</surname><given-names>K.</given-names></name><name><surname>Stefan</surname><given-names>N.</given-names></name><name><surname>Wahl</surname><given-names>H.G.</given-names></name><name><surname>Machicao</surname><given-names>F.</given-names></name><name><surname>Kellerer</surname><given-names>M.</given-names></name><name><surname>Haring</surname><given-names>H.U.</given-names></name></person-group>
+<article-title>Palmitate-induced interleukin-6 expression in human coronary artery endothelial cells</article-title>
+<source>Diabetes</source>
+<year>2004</year>
+<volume>53</volume>
+<fpage>3209</fpage>
+<lpage>3216</lpage>
+<pub-id pub-id-type="doi">10.2337/diabetes.53.12.3209</pub-id>
+<pub-id pub-id-type="pmid">15561952</pub-id></element-citation></ref><ref id="B25-metabolites-04-00248"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bokarewa</surname><given-names>M.</given-names></name><name><surname>Nagaev</surname><given-names>I.</given-names></name><name><surname>Dahlberg</surname><given-names>L.</given-names></name><name><surname>Smith</surname><given-names>U.</given-names></name><name><surname>Tarkowski</surname><given-names>A.</given-names></name></person-group>
+<article-title>Resistin, an adipokine with potent proinflammatory properties</article-title>
+<source>J. Immunol.</source>
+<year>2005</year>
+<volume>174</volume>
+<fpage>5789</fpage>
+<lpage>5795</lpage>
+<pub-id pub-id-type="pmid">15843582</pub-id></element-citation></ref><ref id="B26-metabolites-04-00248"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fantuzzi</surname><given-names>G.</given-names></name><name><surname>Faggioni</surname><given-names>R.</given-names></name></person-group>
+<article-title>Leptin in the regulation of immunity, inflammation, and hematopoiesis</article-title>
+<source>J. Leukoc Biol</source>
+<year>2000</year>
+<volume>68</volume>
+<fpage>437</fpage>
+<lpage>446</lpage>
+<pub-id pub-id-type="pmid">11037963</pub-id></element-citation></ref><ref id="B27-metabolites-04-00248"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kennedy</surname><given-names>A.</given-names></name><name><surname>Martinez</surname><given-names>K.</given-names></name><name><surname>Chuang</surname><given-names>C.C.</given-names></name><name><surname>LaPoint</surname><given-names>K.</given-names></name><name><surname>McIntosh</surname><given-names>M.</given-names></name></person-group>
+<article-title>Saturated fatty acid-mediated inflammation and insulin resistance in adipose tissue: Mechanisms of action and implications</article-title>
+<source>J. Nutr.</source>
+<year>2009</year>
+<volume>139</volume>
+<fpage>1</fpage>
+<lpage>4</lpage>
+<pub-id pub-id-type="pmid">19056664</pub-id></element-citation></ref><ref id="B28-metabolites-04-00248"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robinson</surname><given-names>K.</given-names></name><name><surname>Prins</surname><given-names>J.</given-names></name><name><surname>Venkatesh</surname><given-names>B.</given-names></name></person-group>
+<article-title>Clinical review: Adiponectin biology and its role in inflammation and critical illness</article-title>
+<source>Crit. Care</source>
+<year>2011</year>
+<volume>15</volume>
+<fpage>221</fpage>
+<pub-id pub-id-type="doi">10.1186/cc10021</pub-id>
+<pub-id pub-id-type="pmid">21586104</pub-id></element-citation></ref><ref id="B29-metabolites-04-00248"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cheng</surname><given-names>X.</given-names></name><name><surname>Folco</surname><given-names>E.J.</given-names></name><name><surname>Shimizu</surname><given-names>K.</given-names></name><name><surname>Libby</surname><given-names>P.</given-names></name></person-group>
+<article-title>Adiponectin induces pro-inflammatory programs in human macrophages and CD4+ t cells</article-title>
+<source>J. Biol. Chem.</source>
+<year>2012</year>
+<volume>287</volume>
+<fpage>36896</fpage>
+<lpage>36904</lpage>
+<pub-id pub-id-type="doi">10.1074/jbc.M112.409516</pub-id>
+<pub-id pub-id-type="pmid">22948153</pub-id></element-citation></ref><ref id="B30-metabolites-04-00248"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dennis</surname><given-names>R.J.</given-names></name><name><surname>Maldonado</surname><given-names>D.</given-names></name><name><surname>Rojas</surname><given-names>M.X.</given-names></name><name><surname>Aschner</surname><given-names>P.</given-names></name><name><surname>Rondon</surname><given-names>M.</given-names></name><name><surname>Charry</surname><given-names>L.</given-names></name><name><surname>Casas</surname><given-names>A.</given-names></name></person-group>
+<article-title>Inadequate glucose control in type 2 diabetes is associated with impaired lung function and systemic inflammation: A cross-sectional study</article-title>
+<source>BMC Pulm. Med.</source>
+<year>2010</year>
+<volume>10</volume>
+<fpage>38</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2466-10-38</pub-id>
+<pub-id pub-id-type="pmid">20659337</pub-id></element-citation></ref><ref id="B31-metabolites-04-00248"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wells</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>Sexual dimorphism of body composition</article-title>
+<source>Best Pract. Res. Clin. Endocrinol. Metab.</source>
+<year>2007</year>
+<volume>21</volume>
+<fpage>415</fpage>
+<lpage>430</lpage>
+<pub-id pub-id-type="doi">10.1016/j.beem.2007.04.007</pub-id>
+<pub-id pub-id-type="pmid">17875489</pub-id></element-citation></ref><ref id="B32-metabolites-04-00248"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Newsholme</surname><given-names>P.</given-names></name><name><surname>Lima</surname><given-names>M.M.</given-names></name><name><surname>Procopio</surname><given-names>J.</given-names></name><name><surname>Pithon-Curi</surname><given-names>T.C.</given-names></name><name><surname>Doi</surname><given-names>S.Q.</given-names></name><name><surname>Bazotte</surname><given-names>R.B.</given-names></name><name><surname>Curi</surname><given-names>R.</given-names></name></person-group>
+<article-title>Glutamine and glutamate as vital metabolites</article-title>
+<source>Br. J. Med. Biol. Res.</source>
+<year>2003</year>
+<volume>36</volume>
+<fpage>153</fpage>
+<lpage>163</lpage>
+<pub-id pub-id-type="doi">10.1590/S0100-879X2003000200002</pub-id>
+</element-citation></ref><ref id="B33-metabolites-04-00248"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>P.</given-names></name><name><surname>Yin</surname><given-names>Y.L.</given-names></name><name><surname>Li</surname><given-names>D.</given-names></name><name><surname>Kim</surname><given-names>S.W.</given-names></name><name><surname>Wu</surname><given-names>G.</given-names></name></person-group>
+<article-title>Amino acids and immune function</article-title>
+<source>Br. J. Nutr.</source>
+<year>2007</year>
+<volume>98</volume>
+<fpage>237</fpage>
+<lpage>252</lpage>
+<pub-id pub-id-type="doi">10.1017/S000711450769936X</pub-id>
+<pub-id pub-id-type="pmid">17403271</pub-id></element-citation></ref><ref id="B34-metabolites-04-00248"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Newgard</surname><given-names>C.B.</given-names></name><name><surname>An</surname><given-names>J.</given-names></name><name><surname>Bain</surname><given-names>J.R.</given-names></name><name><surname>Muehlbauer</surname><given-names>M.J.</given-names></name><name><surname>Stevens</surname><given-names>R.D.</given-names></name><name><surname>Lien</surname><given-names>L.F.</given-names></name><name><surname>Haqq</surname><given-names>A.M.</given-names></name><name><surname>Shah</surname><given-names>S.H.</given-names></name><name><surname>Arlotto</surname><given-names>M.</given-names></name><name><surname>Slentz</surname><given-names>C.A.</given-names></name><etal/></person-group>
+<article-title>A branched-chain amino acid-related metabolic signature that differentiates obese and lean humans and contributes to insulin resistance</article-title>
+<source>Cell. Metab.</source>
+<year>2009</year>
+<volume>9</volume>
+<fpage>311</fpage>
+<lpage>326</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cmet.2009.02.002</pub-id>
+<pub-id pub-id-type="pmid">19356713</pub-id></element-citation></ref><ref id="B35-metabolites-04-00248"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stepien</surname><given-names>M.</given-names></name><name><surname>O&#x02019;Mahony</surname><given-names>L.</given-names></name><name><surname>O&#x02019;Sullivan</surname><given-names>A.</given-names></name><name><surname>Collier</surname><given-names>J.</given-names></name><name><surname>Fraser</surname><given-names>W.D.</given-names></name><name><surname>Gibney</surname><given-names>M.J.</given-names></name><name><surname>Nugent</surname><given-names>A.P.</given-names></name><name><surname>Brennan</surname><given-names>L.</given-names></name></person-group>
+<article-title>Effect of supplementation with vitamin D2-enhanced mushrooms on vitamin D status in healthy adults</article-title>
+<source>J. Nutr. Sci.</source>
+<year>2013</year>
+<volume>2</volume>
+<fpage>e29</fpage>
+</element-citation></ref></ref-list></back></article>

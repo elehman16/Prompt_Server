@@ -1,0 +1,749 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29133522</article-id><article-id pub-id-type="pmc">5721802</article-id><article-id pub-id-type="doi">10.1161/JAHA.117.007509</article-id><article-id pub-id-type="publisher-id">JAH32778</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Health Services and Outcomes Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Systolic Blood Pressure Response in SPRINT (Systolic Blood Pressure Intervention Trial) and ACCORD (Action to Control Cardiovascular Risk in Diabetes): A Possible Explanation for Discordant Trial Results</article-title><alt-title alt-title-type="left-running-head">Huang et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah32778-cr-0001" contrib-type="author"><name><surname>Huang</surname><given-names>Chenxi</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah32778-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32778-cr-0002" contrib-type="author"><name><surname>Dhruva</surname><given-names>Sanket S.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah32778-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jah32778-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="jah32778-cr-0003" contrib-type="author"><name><surname>Coppi</surname><given-names>Andreas C.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah32778-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah32778-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah32778-cr-0004" contrib-type="author"><name><surname>Warner</surname><given-names>Frederick</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah32778-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah32778-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah32778-cr-0005" contrib-type="author"><name><surname>Li</surname><given-names>Shu&#x02010;Xia</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah32778-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32778-cr-0006" contrib-type="author"><name><surname>Lin</surname><given-names>Haiqun</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah32778-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah32778-cr-0007" contrib-type="author"><name><surname>Nasir</surname><given-names>Khurram</given-names></name><degrees>MD, MPH</degrees><xref ref-type="aff" rid="jah32778-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="jah32778-cr-0008" contrib-type="author" corresp="yes"><name><surname>Krumholz</surname><given-names>Harlan M.</given-names></name><degrees>MD, SM</degrees><address><email>harlan.krumholz@yale.edu</email></address><xref ref-type="aff" rid="jah32778-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah32778-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jah32778-aff-0005">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="jah32778-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Center for Outcomes Research and Evaluation</named-content>
+<institution>Yale&#x02010;New Haven Hospital</institution>
+<named-content content-type="city">New Haven</named-content>
+<named-content content-type="country-part">CT</named-content>
+</aff><aff id="jah32778-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">National Clinician Scholars Program</named-content>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>Yale School of Medicine</institution>
+<named-content content-type="city">New Haven</named-content>
+<named-content content-type="country-part">CT</named-content>
+</aff><aff id="jah32778-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Section of Cardiovascular Medicine</named-content>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>Yale School of Medicine</institution>
+<named-content content-type="city">New Haven</named-content>
+<named-content content-type="country-part">CT</named-content>
+</aff><aff id="jah32778-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Biostatistics</named-content>
+<institution>Yale School of Public Health</institution>
+<named-content content-type="city">New Haven</named-content>
+<named-content content-type="country-part">CT</named-content>
+</aff><aff id="jah32778-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Health Policy and Management</named-content>
+<institution>Yale School of Public Health</institution>
+<named-content content-type="city">New Haven</named-content>
+<named-content content-type="country-part">CT</named-content>
+</aff><aff id="jah32778-aff-0006">
+<label><sup>6</sup></label>
+<institution>Veterans Affairs Connecticut Healthcare System</institution>
+<named-content content-type="city">West Haven</named-content>
+<named-content content-type="country-part">CT</named-content>
+</aff><aff id="jah32778-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Center for Healthcare Advancement and Outcomes Research and Miami Cardiac and Vascular Institute</named-content>
+<institution>Baptist Health South Florida</institution>
+<named-content content-type="city">Miami</named-content>
+<named-content content-type="country-part">FL</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Harlan M. Krumholz, MD, SM, 1 Church Street, Suite 200, New Haven, CT 06510. E&#x02010;mail: <email>harlan.krumholz@yale.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2017</year></pub-date><volume>6</volume><issue>11</issue><issue-id pub-id-type="doi">10.1002/jah3.2017.6.issue-11</issue-id><elocation-id>e007509</elocation-id><history><date date-type="received"><day>28</day><month>8</month><year>2017</year></date><date date-type="accepted"><day>24</day><month>10</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-6-e007509.pdf"/><abstract id="jah32778-abs-0001"><sec id="jah32778-sec-0001"><title>Background</title><p>SPRINT (Systolic Blood Pressure Intervention Trial) and the ACCORD (Action to Control Cardiovascular Risk in Diabetes) blood pressure trial used similar interventions but produced discordant results. We investigated whether differences in systolic blood pressure (<styled-content style="fixed-case">SBP</styled-content>) response contributed to the discordant trial results.</p></sec><sec id="jah32778-sec-0002"><title>Methods and Results</title><p>We evaluated the distributions of <styled-content style="fixed-case">SBP</styled-content> response during the first year for the intensive and standard treatment groups of <styled-content style="fixed-case">SPRINT</styled-content> and <styled-content style="fixed-case">ACCORD</styled-content> using growth mixture models. We assessed whether significant differences existed between trials in the distributions of <styled-content style="fixed-case">SBP</styled-content> achieved at 1&#x000a0;year and the treatment&#x02010;independent relationships of achieved <styled-content style="fixed-case">SBP</styled-content> with risks of primary outcomes defined in each trial, heart failure, stroke, and all&#x02010;cause death. We examined whether visit&#x02010;to&#x02010;visit variability was associated with heterogeneous treatment effects. Among the included 9027 <styled-content style="fixed-case">SPRINT</styled-content> and 4575 <styled-content style="fixed-case">ACCORD</styled-content> participants, the difference in mean <styled-content style="fixed-case">SBP</styled-content> achieved between treatment groups was 15.7&#x000a0;mm&#x000a0;Hg in <styled-content style="fixed-case">SPRINT</styled-content> and 14.2&#x000a0;mm&#x000a0;Hg in <styled-content style="fixed-case">ACCORD</styled-content>, but <styled-content style="fixed-case">SPRINT</styled-content> had significantly less between&#x02010;group overlap in the achieved <styled-content style="fixed-case">SBP</styled-content> (standard deviations of intensive and standard groups, respectively: 6.7 and 5.9&#x000a0;mm&#x000a0;Hg in <styled-content style="fixed-case">SPRINT</styled-content> versus 8.8 and 8.2&#x000a0;mm&#x000a0;Hg in <styled-content style="fixed-case">ACCORD</styled-content>;<italic> P</italic>&#x0003c;0.001). The relationship between achieved <styled-content style="fixed-case">SBP</styled-content> and outcomes was consistent across trials except for stroke and all&#x02010;cause death. Higher visit&#x02010;to&#x02010;visit variability was more common in <styled-content style="fixed-case">SPRINT</styled-content> but without treatment&#x02010;effect heterogeneity.</p></sec><sec id="jah32778-sec-0003"><title>Conclusions</title><p>
+<styled-content style="fixed-case">SPRINT</styled-content> and <styled-content style="fixed-case">ACCORD</styled-content> had different degrees of separation in achieved <styled-content style="fixed-case">SBP</styled-content> between treatment groups, even as they had similar mean differences. The greater between&#x02010;group overlap of achieved <styled-content style="fixed-case">SBP</styled-content> may have contributed to the discordant trial results.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah32778-kwd-0001">ACCORD (Action to Control Cardiovascular Risk in Diabetes)</kwd><kwd id="jah32778-kwd-0002">outcome</kwd><kwd id="jah32778-kwd-0003">systolic blood pressure</kwd><kwd id="jah32778-kwd-0004">SPRINT (Systolic Blood Pressure Intervention Trial)</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Clinical Studies</kwd><kwd>Quality and Outcomes</kwd></kwd-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="10"/><word-count count="7390"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah32778</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.6 mode:remove_FC converted:21.11.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah32778-cit-1001">(<source>J Am Heart Assoc</source>. <year>2017</year>;<volume>6</volume>:<elocation-id>e007509</elocation-id> DOI: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.117.007509">10.1161/JAHA.117.007509</ext-link>.)<pub-id pub-id-type="pmid">29133522</pub-id></mixed-citation>
+</p></notes></front><body><p>
+<boxed-text position="anchor" content-type="box" id="jah32778-blkfxd-0001" orientation="portrait"><sec id="jah32778-sec-0005"><title>Clinical Perspective</title><sec id="jah32778-sec-0006"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah32778-list-0001"><list-item><p>Our study shows a difference in the distributions of systolic blood pressure (SBP) achieved in SPRINT (Systolic Blood Pressure Intervention Trial) and ACCORD (Action to Control Cardiovascular Risk in Diabetes): ACCORD had less separation of the SBP between intensive and standard treatment groups compared with SPRINT, even though they achieved similar average SBP levels.</p></list-item><list-item><p>Meanwhile, the relationship of SBP with cardiovascular outcomes was largely similar in both trials.</p></list-item><list-item><p>These results are consistent with a theory that the less between&#x02010;group separation in ACCORD may help explain discrepancy between the results in SPRINT and ACCORD.</p></list-item></list>
+</p></sec><sec id="jah32778-sec-0007"><title>What Are the Clinical Implications?</title><p>
+<list list-type="bullet" id="jah32778-list-0002"><list-item><p>ACCORD may have demonstrated a smaller cardiovascular benefit than SPRINT because ACCORD had poorer separation between treatment groups compared with SPRINT.</p></list-item><list-item><p>Given this finding, ACCORD may be seen as consistent with SPRINT's finding that an SBP goal of 120&#x000a0;mm&#x000a0;Hg is associated with cardiovascular benefit compared with 140&#x000a0;mm&#x000a0;Hg.</p></list-item></list>
+</p></sec></sec></boxed-text>
+</p><sec id="jah32778-sec-0008"><p>Clinicians and patients face uncertainty about the optimal systolic blood pressure (SBP) goals to reduce adverse cardiovascular outcomes.<xref rid="jah32778-bib-0001" ref-type="ref">1</xref> In recent years, 2 major studies, SPRINT (Systolic Blood Pressure Intervention Trial)<xref rid="jah32778-bib-0002" ref-type="ref">2</xref> and the ACCORD (Action to Control Cardiovascular Risk in Diabetes) blood pressure trial,<xref rid="jah32778-bib-0003" ref-type="ref">3</xref> tested the cardiovascular benefit of intensive (&#x0003c;120&#x000a0;mm&#x000a0;Hg) versus standard (&#x0003c;140&#x000a0;mm&#x000a0;Hg) SBP control. Although both trials used similar interventions and achieved similar average SBP, they had different results. SPRINT, which enrolled people without diabetes mellitus, found a benefit with an intensive SBP target, but ACCORD, which enrolled people with diabetes mellitus, did not. Several theories have attributed the discordant results to differences in outcome definitions, sample sizes, trial participant characteristics, or blood pressure measurement technique.<xref rid="jah32778-bib-0001" ref-type="ref">1</xref>, <xref rid="jah32778-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32778-bib-0005" ref-type="ref">5</xref>
+</p><p>In this study, we explore an alternative theory: The different outcome results in SPRINT and ACCORD were caused by differences in the SBP responses of the participants. Previous research has demonstrated marked variations of SBP response among participants within a treatment group.<xref rid="jah32778-bib-0006" ref-type="ref">6</xref> Although average SBPs appeared similar between SPRINT and ACCORD, we sought to understand whether there were unappreciated variations in SBP response. To address the proposed theory, we tested 3 hypotheses. First, we determined whether there were differences between trials in the distributions of achieved SBP, especially in the separation of their respective treatment groups. Second, we investigated whether the achieved SBP had different relationships with cardiovascular outcomes between trials, independent of treatment strategy. Third, we sought to determine whether there were differences between trials in the distribution of visit&#x02010;to&#x02010;visit variability, also known to be prognostic,<xref rid="jah32778-bib-0007" ref-type="ref">7</xref>, <xref rid="jah32778-bib-0008" ref-type="ref">8</xref> and whether visit&#x02010;to&#x02010;visit variability was associated with treatment&#x02010;effect heterogeneity.</p></sec><sec id="jah32778-sec-0009"><title>Methods</title><sec id="jah32778-sec-0010"><title>Data Source and Study Design</title><p>Data are available, on request, from the National Institutes of Health. The SPRINT and ACCORD trials have been described previously.<xref rid="jah32778-bib-0002" ref-type="ref">2</xref>, <xref rid="jah32778-bib-0003" ref-type="ref">3</xref>, <xref rid="jah32778-bib-0009" ref-type="ref">9</xref>, <xref rid="jah32778-bib-0010" ref-type="ref">10</xref> Briefly, SPRINT was a randomized multicenter trial to determine whether an intensive control strategy (SBP &#x0003c;120&#x000a0;mm&#x000a0;Hg) was superior to a standard strategy (SBP &#x0003c;140&#x000a0;mm&#x000a0;Hg) among 9361 nondiabetic participants aged &#x02265;50&#x000a0;years at increased cardiovascular risk. The ACCORD blood pressure trial tested the intensive versus standard SBP control strategies among 4733 participants with diabetes mellitus at high cardiovascular risk. The median follow&#x02010;up durations of SPRINT and ACCORD were 3.26 and 4.7&#x000a0;years, respectively.</p><p>We used the SBP measurements during each trial's first year after randomization to assess the SBP responses to intensive or standard treatment (Figure&#x000a0;<xref rid="jah32778-fig-0001" ref-type="fig">1</xref>A). We studied 5 outcomes: the primary outcome defined in SPRINT, the primary outcome defined in ACCORD, heart failure, stroke, and all&#x02010;cause death. Participants were followed from 1&#x000a0;year until the first occurrence of an outcome event or the end of follow&#x02010;up for each trial. We excluded participants who had outcome events during the first year (n=221 for SPRINT and n=117 for ACCORD) and those with no follow&#x02010;up SBP (n=113 for SPRINT and n=41 for ACCORD; Figure&#x000a0;<xref rid="jah32778-fig-0001" ref-type="fig">1</xref>B). All participants provided written informed consent for participation in SPRINT and ACCORD. Our analysis was approved by the institutional review board at Yale University.</p><fig fig-type="Figure" xml:lang="en" id="jah32778-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Flowchart of study participants for analysis. A, Data points for systolic blood pressure (<styled-content style="fixed-case">SBP</styled-content>) response assessment and the association of <styled-content style="fixed-case">SBP</styled-content> response and cardiovascular outcomes. B, Exclusion criteria applied to obtain the study sample. ACCORD indicates Action to Control Cardiovascular Risk in Diabetes; SPRINT, Systolic Blood Pressure Intervention Trial.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-6-e007509-g001"/></fig></sec><sec id="jah32778-sec-0011"><title>SBP Measurements and Evaluation of SBP Response Distributions</title><p>To evaluate the SBP response distributions, we used the SBP measurements from all visits during the first year of each trial. We used 1&#x000a0;year of data to allow adequate time for participants assigned to either intensive or standard strategies to reach their SBP goals and to increase the precision of the estimation of visit&#x02010;to&#x02010;visit variability. A total of 7 visits (baseline and 1, 2, 3, 6, 9, and 12&#x000a0;months) for both treatment groups in SPRINT and 9 visits (baseline and 1, 2, 3, 4, 6, 8, 10, and 12&#x000a0;months) for the intensive group and 5 visits (baseline and 1, 4, 8, and 12&#x000a0;months) for the standard group in ACCORD were included.</p><p>We used growth mixture modeling<xref rid="jah32778-bib-0011" ref-type="ref">11</xref> to estimate the distribution of achieved SBP and visit&#x02010;to&#x02010;visit variability for each treatment group of each trial. Because of the larger initial drop of SBP in the intensive group, a conventional visit&#x02010;to&#x02010;visit variability metric based on standard deviations tends to produce higher variability for intensive&#x02010;group participants than for participants in the standard group and thus is not applicable. Growth mixture modeling can account for the SBP trends and estimate the intraindividual variance across visits (visit&#x02010;to&#x02010;visit variability) based on the fluctuations around the SBP trends. In addition, growth mixture modeling captures the interindividual variance of SBP, facilitating estimation for the distribution of achieved SBP. More specifically, we derived 4 growth mixture models, each for participants from the same treatment group of the same trial. For each model, we used a piecewise linear function of time to model the SBP trend, mixture components to model distinct classes (strata) of visit&#x02010;to&#x02010;visit variability, and mixed effects to model the interindividual variance of achieved SBP. Finally, to compare trials in the distribution of visit&#x02010;to&#x02010;visit variability, we restricted the mixture components to be the same across 4 models. The number of visit&#x02010;to&#x02010;visit variability classes was determined based on Bayesian information criteria and the restriction that the percentage of participants in each class should not be &#x0003c;5%. Participants were assigned to the visit&#x02010;to&#x02010;visit variability class corresponding to their highest posterior probability. Furthermore, we calculated the estimated achieved SBP at 1&#x000a0;year for all participants from the models using the empirical Bayes method,<xref rid="jah32778-bib-0012" ref-type="ref">12</xref> including those with missing SBP measurement at 1&#x000a0;year.</p></sec><sec id="jah32778-sec-0012"><title>Clinical Outcomes</title><p>Clinical outcomes included the primary outcome of SPRINT, the primary outcome of ACCORD, heart failure, stroke, and all&#x02010;cause death, as defined in their respective trials.<xref rid="jah32778-bib-0002" ref-type="ref">2</xref>, <xref rid="jah32778-bib-0003" ref-type="ref">3</xref> A combination of secondary outcomes from ACCORD was used to construct a composite outcome comparable to SPRINT's primary outcome: nonfatal myocardial infarction, nonfatal stroke, congestive heart failure, and death from cardiovascular causes. A combination of secondary outcomes from SPRINT was used to construct a composite outcome comparable to ACCORD's primary outcome: myocardial infarction, stroke, and death from cardiovascular causes. We included outcomes occurring from 1&#x000a0;year after randomization through the end of follow&#x02010;up for each trial.</p></sec><sec id="jah32778-sec-0013"><title>Statistical Analyses</title><p>We first evaluated the distributions of achieved SBP and visit&#x02010;to&#x02010;visit variability for the intensive and standard treatment groups in SPRINT and ACCORD by modeling the SBP responses during the first year via growth mixture modeling. We used likelihood ratio tests to assess whether there were significant differences in the mean and variance of achieved SBP at 1&#x000a0;year between SPRINT and ACCORD in their respective treatment groups. The degree of separation between treatment groups in the distribution of achieved SBP was also assessed by the overlap coefficient,<xref rid="jah32778-bib-0013" ref-type="ref">13</xref> which quantifies the overlap area between 2 probability density functions.</p><p>We next used the achieved SBP of individual participants at 1&#x000a0;year estimated from the growth mixture models to examine the association of achieved SBP with outcomes. Each participant was also assigned to a visit&#x02010;to&#x02010;visit variability class according to the estimated growth mixture models. First, for all participants of each trial, regardless of treatment assignment, we assessed differences in characteristics at baseline and during the first year after randomization across tertiles of achieved SBP, using <italic>t</italic> tests or Wilcoxon&#x02013;Mann&#x02013;Whitney tests for continuous variables and &#x003c7;<sup>2</sup> tests for categorical variables. The tertiles were determined using the pooled participants from both trials. Next, Cox proportional hazards regression models were used to calculate outcome risks associated with increasing tertiles of achieved SBP (modeling tertile as an ordinal variable) without and with adjustment for baseline demographics and blood pressure, past medical history, visit adherence, and visit&#x02010;to&#x02010;visit variability. Differences in trends between trials were assessed by comparing Cox hazard models derived from pooled participants of both trials with models derived separately from participants of SPRINT or ACCORD using Wald tests. To account for different baseline risks of the 2 trial populations, stratified Cox hazard models were used for the pooled participants. In addition, we tested the interaction of treatment with achieved SBP modeled as a continuous variable for the middle tertile, which contained considerable percentages of participants from both treatment groups. Furthermore, we assessed adjusted hazard ratios of outcomes associated with the achieved SBP, modeled as a continuous variable, using restricted cubic splines. The proportionality assumption of the Cox hazard model was tested by examining the Schoenfeld residuals.<xref rid="jah32778-bib-0014" ref-type="ref">14</xref>
+</p><p>Finally, we determined whether there were significant differences in the distributions of visit&#x02010;to&#x02010;visit variability between SPRINT and ACCORD by comparing percentages of participants in the classes of visit&#x02010;to&#x02010;visit variability identified from the growth mixture models using &#x003c7;<sup>2</sup> tests. To evaluate the impact of the visit&#x02010;to&#x02010;visit variability on treatment effect in outcomes, we calculated the adjusted hazard ratios for outcomes associated with intensive compared with standard treatment using Cox proportional hazards regression models. We also tested the interaction of treatment with visit&#x02010;to&#x02010;visit variability class.</p><p>Missing baseline characteristics were imputed with 10 data sets using chained equations via multiple imputation.<xref rid="jah32778-bib-0015" ref-type="ref">15</xref> For sensitivity analyses, we repeated the evaluation of SBP response distributions and calculation of Cox proportional hazard ratios for participants without missing follow&#x02010;up SBP measurements during the first year. Growth mixture modeling was performed using R package OpenMx (version 2.5.2).<xref rid="jah32778-bib-0016" ref-type="ref">16</xref> Multiple imputation was performed using R package mice (version 2.25),<xref rid="jah32778-bib-0017" ref-type="ref">17</xref> and a continuous hazard ratio was calculated using R package rms (version 5.1&#x02010;1).<xref rid="jah32778-bib-0018" ref-type="ref">18</xref> All <italic>P</italic> values reported are nominal, and <italic>P</italic>&#x0003c;0.1 was considered significant for tests of trial heterogeneity and interactions.<xref rid="jah32778-bib-0019" ref-type="ref">19</xref>, <xref rid="jah32778-bib-0020" ref-type="ref">20</xref>
+</p></sec></sec><sec id="jah32778-sec-0014"><title>Results</title><sec id="jah32778-sec-0015"><title>Modeling SBP Responses</title><p>Of the 9361 SPRINT participants and 4733 ACCORD blood pressure trial participants, 9027 (96.4%) from SPRINT and 4575 (96.7%) from ACCORD were included in our analyses (Figure&#x000a0;<xref rid="jah32778-fig-0001" ref-type="fig">1</xref>B). When modeling the SBP responses for these participants using growth mixture models, based on Bayesian information criteria and the percentage of participants in each class, the 3&#x02010;class visit&#x02010;to&#x02010;visit variability models best fit the data (Table&#x000a0;<xref rid="jah32778-sup-0001" ref-type="supplementary-material">S1</xref>).</p><p>Figure&#x000a0;<xref rid="jah32778-fig-0002" ref-type="fig">2</xref> shows, for SPRINT (Figure&#x000a0;<xref rid="jah32778-fig-0002" ref-type="fig">2</xref>A) and ACCORD (Figure&#x000a0;<xref rid="jah32778-fig-0002" ref-type="fig">2</xref>B), the estimated mean SBP trends (solid lines) and individual SBP measurements over time (gray circle markers) associated with each visit&#x02010;to&#x02010;visit variability class in the intensive (top row) and standard treatment groups (bottom row). Three classes of visit&#x02010;to&#x02010;visit variability with increasing values were identified (referred to as classes 1, 2, and 3), with estimated values of 5.7, 10.8, and 17.9&#x000a0;mm&#x000a0;Hg.</p><fig fig-type="Figure" xml:lang="en" id="jah32778-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Results of modeling systolic blood pressure (<styled-content style="fixed-case">SBP</styled-content>) response in (A) SPRINT (Systolic Blood Pressure Intervention Trial) and (B) ACCORD (Action to Control Cardiovascular Risk in Diabetes), by visit&#x02010;to&#x02010;visit variability classes. Solid lines represent the estimated mean <styled-content style="fixed-case">SBP</styled-content> trends. gray circle markers represent individual <styled-content style="fixed-case">SBP</styled-content> measurements over time. Red dashed lines are reference lines of 120 and 140&#x000a0;mm&#x000a0;Hg. Classes 1, 2, and 3 have increasing values of visit&#x02010;to&#x02010;visit variability of 5.7, 10.8, and 17.9&#x000a0;mm&#x000a0;Hg, respectively.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-6-e007509-g002"/></fig></sec><sec id="jah32778-sec-0016"><title>Distributions of Achieved SBP in SPRINT and ACCORD</title><p>The distributions of achieved SBP at 1&#x000a0;year in the intensive and standard treatment groups were significantly different between SPRINT and ACCORD (Figure&#x000a0;<xref rid="jah32778-fig-0003" ref-type="fig">3</xref>). First, SPRINT and ACCORD had small but statistically significant differences in the mean achieved SBP at 1&#x000a0;year in the 2 treatment groups (120.2 and 135.9&#x000a0;mm&#x000a0;Hg in SPRINT versus 120.0 and 134.2&#x000a0;mm&#x000a0;Hg in ACCORD; <italic>P</italic>&#x0003c;0.001), resulting in a slightly smaller between&#x02010;group mean difference in ACCORD (14.2&#x000a0;mm&#x000a0;Hg) than in SPRINT (15.7&#x000a0;mm&#x000a0;Hg). Second, ACCORD had larger standard deviations of achieved SBPs at 1&#x000a0;year in the intensive and standard groups (8.8 and 8.2&#x000a0;mm&#x000a0;Hg, respectively, in ACCORD versus 6.7 and 5.9&#x000a0;mm&#x000a0;Hg, respectively, in SPRINT; <italic>P</italic>&#x0003c;0.001). The overlap area between intensive and standard groups in the distribution of achieved SBP is 20.2% for SPRINT and 40.3% for ACCORD.</p><fig fig-type="Figure" xml:lang="en" id="jah32778-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Distribution of achieved systolic blood pressure (<styled-content style="fixed-case">SBP</styled-content>) at 1&#x000a0;year in intensive and standard treatment groups of (A) SPRINT (Systolic Blood Pressure Intervention Trial) and (B) ACCORD (Action to Control Cardiovascular Risk in Diabetes) estimated from modeling the <styled-content style="fixed-case">SBP</styled-content> response during the first year. Error bars represent 1 SD from the mean <styled-content style="fixed-case">SBP</styled-content>.</p></caption><graphic id="nlm-graphic-5" xlink:href="JAH3-6-e007509-g003"/></fig><p>Characteristics of participants by tertile of their estimated achieved SBP at 1&#x000a0;year are presented in Table&#x000a0;<xref rid="jah32778-tbl-0001" ref-type="table-wrap">1</xref>. ACCORD had more participants from the intensive group in the highest tertile of achieved SBP compared with SPRINT (8.1% versus 1.2%). For both trials, participants with higher achieved SBP were older, had worse kidney function, and had higher Framingham Risk Scores, urine albumin/creatinine ratios, and baseline blood pressure.</p><table-wrap id="jah32778-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Participant Characteristics by Estimated SBP Achieved at 1&#x000a0;Year</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="top" colspan="1">Characteristic</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">SPRINT</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">ACCORD</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="8" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Tertile of Achieved SBP</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x0003c;122&#x000a0;mm&#x000a0;Hg (n=2966)</th><th align="left" valign="top" rowspan="1" colspan="1">122&#x02013;134&#x000a0;mm&#x000a0;Hg (n=2856)</th><th align="left" valign="top" rowspan="1" colspan="1">&#x0003e;134&#x000a0;mm&#x000a0;Hg (n=3205)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value for Trend</th><th align="left" valign="top" rowspan="1" colspan="1">&#x0003c;122&#x000a0;mm&#x000a0;Hg (n=1568)</th><th align="left" valign="top" rowspan="1" colspan="1">122&#x02013;134&#x000a0;mm&#x000a0;Hg (n=1678)</th><th align="left" valign="top" rowspan="1" colspan="1">&#x0003e;134&#x000a0;mm&#x000a0;Hg (n=1329)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value for Trend</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Intensive group, n (%)</td><td align="left" rowspan="1" colspan="1">2963 (99.9)</td><td align="left" rowspan="1" colspan="1">1526 (53.4)</td><td align="left" rowspan="1" colspan="1">37 (1.2)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">1504 (95.9)</td><td align="left" rowspan="1" colspan="1">675 (40.2)</td><td align="left" rowspan="1" colspan="1">108 (8.1)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" colspan="9" rowspan="1">Baseline characteristics</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Age, y</td><td align="left" rowspan="1" colspan="1">66.9&#x000b1;9.1</td><td align="left" rowspan="1" colspan="1">68.4&#x000b1;9.4</td><td align="left" rowspan="1" colspan="1">68.1&#x000b1;9.5</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">62.0&#x000b1;6.6</td><td align="left" rowspan="1" colspan="1">62.8&#x000b1;6.5</td><td align="left" rowspan="1" colspan="1">63.3&#x000b1;6.8</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">White, n (%)</td><td align="left" rowspan="1" colspan="1">1698 (57.2)</td><td align="left" rowspan="1" colspan="1">1704 (60.0)</td><td align="left" rowspan="1" colspan="1">1815 (56.6)</td><td align="left" rowspan="1" colspan="1">0.859</td><td align="left" rowspan="1" colspan="1">995 (63.5)</td><td align="left" rowspan="1" colspan="1">1006 (60.0)</td><td align="left" rowspan="1" colspan="1">683 (51.4)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female, n (%)</td><td align="left" rowspan="1" colspan="1">1052 (35.5)</td><td align="left" rowspan="1" colspan="1">1000 (35.0)</td><td align="left" rowspan="1" colspan="1">1160 (36.2)</td><td align="left" rowspan="1" colspan="1">0.541</td><td align="left" rowspan="1" colspan="1">756 (48.2)</td><td align="left" rowspan="1" colspan="1">796 (47.4)</td><td align="left" rowspan="1" colspan="1">627 (47.2)</td><td align="left" rowspan="1" colspan="1">0.572</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">30.3&#x000b1;5.8</td><td align="left" rowspan="1" colspan="1">29.7&#x000b1;5.9</td><td align="left" rowspan="1" colspan="1">29.6&#x000b1;5.5</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">32.2&#x000b1;5.6</td><td align="left" rowspan="1" colspan="1">32.3&#x000b1;5.4</td><td align="left" rowspan="1" colspan="1">31.9&#x000b1;5.4</td><td align="left" rowspan="1" colspan="1">0.082</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Framingham Risk Score, %</td><td align="left" rowspan="1" colspan="1">22.9&#x000b1;11.8</td><td align="left" rowspan="1" colspan="1">25.0&#x000b1;12.4</td><td align="left" rowspan="1" colspan="1">26.0&#x000b1;12.8</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">32.2&#x000b1;16.1</td><td align="left" rowspan="1" colspan="1">34.9&#x000b1;16.9</td><td align="left" rowspan="1" colspan="1">38.4&#x000b1;16.6</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Estimated GFR, mL/min/1.73&#x000a0;m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">73.0&#x000b1;20.3</td><td align="left" rowspan="1" colspan="1">71.3&#x000b1;20.9</td><td align="left" rowspan="1" colspan="1">71.3&#x000b1;20.4</td><td align="left" rowspan="1" colspan="1">0.002</td><td align="left" rowspan="1" colspan="1">91.7&#x000b1;22.8</td><td align="left" rowspan="1" colspan="1">90.5&#x000b1;22.9</td><td align="left" rowspan="1" colspan="1">89.8&#x000b1;23.7</td><td align="left" rowspan="1" colspan="1">0.029</td></tr><tr><td align="left" style="padding-left:10%" colspan="9" rowspan="1">Cholesterol, mg/dL</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">188.8&#x000b1;41.6</td><td align="left" rowspan="1" colspan="1">190.1&#x000b1;41.5</td><td align="left" rowspan="1" colspan="1">191.6&#x000b1;40.3</td><td align="left" rowspan="1" colspan="1">0.007</td><td align="left" rowspan="1" colspan="1">192.2&#x000b1;42.3</td><td align="left" rowspan="1" colspan="1">191.0&#x000b1;41.6</td><td align="left" rowspan="1" colspan="1">192.0&#x000b1;42.0</td><td align="left" rowspan="1" colspan="1">0.855</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">High&#x02010;density lipoprotein</td><td align="left" rowspan="1" colspan="1">52.0&#x000b1;13.5</td><td align="left" rowspan="1" colspan="1">53.6&#x000b1;15.1</td><td align="left" rowspan="1" colspan="1">53.1&#x000b1;14.8</td><td align="left" rowspan="1" colspan="1">0.002</td><td align="left" rowspan="1" colspan="1">46.2&#x000b1;12.9</td><td align="left" rowspan="1" colspan="1">45.6&#x000b1;13.0</td><td align="left" rowspan="1" colspan="1">46.7&#x000b1;12.9</td><td align="left" rowspan="1" colspan="1">0.425</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Triglycerides, mg/dL</td><td align="left" rowspan="1" colspan="1">126.1&#x000b1;84.5</td><td align="left" rowspan="1" colspan="1">124.1&#x000b1;84.3</td><td align="left" rowspan="1" colspan="1">127.1&#x000b1;100.3</td><td align="left" rowspan="1" colspan="1">0.630</td><td align="left" rowspan="1" colspan="1">185.4&#x000b1;131.0</td><td align="left" rowspan="1" colspan="1">188.8&#x000b1;131.2</td><td align="left" rowspan="1" colspan="1">176.0&#x000b1;122.1</td><td align="left" rowspan="1" colspan="1">0.065</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Glucose, mg/dL</td><td align="left" rowspan="1" colspan="1">99.2&#x000b1;13.7</td><td align="left" rowspan="1" colspan="1">98.4&#x000b1;14.0</td><td align="left" rowspan="1" colspan="1">98.8&#x000b1;13.0</td><td align="left" rowspan="1" colspan="1">0.268</td><td align="left" rowspan="1" colspan="1">173.4&#x000b1;53.8</td><td align="left" rowspan="1" colspan="1">175.6&#x000b1;54.8</td><td align="left" rowspan="1" colspan="1">171.8&#x000b1;55.6</td><td align="left" rowspan="1" colspan="1">0.473</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ratio of urinary albumin (mg) to creatinine (g)</td><td align="left" rowspan="1" colspan="1">33.7&#x000b1;164.5</td><td align="left" rowspan="1" colspan="1">43.7&#x000b1;161.6</td><td align="left" rowspan="1" colspan="1">44.4&#x000b1;170.3</td><td align="left" rowspan="1" colspan="1">0.012</td><td align="left" rowspan="1" colspan="1">54.0&#x000b1;181.2</td><td align="left" rowspan="1" colspan="1">74.7&#x000b1;219.8</td><td align="left" rowspan="1" colspan="1">127.3&#x000b1;330.6</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Aspirin use, n (%)</td><td align="left" rowspan="1" colspan="1">1539 (51.9)</td><td align="left" rowspan="1" colspan="1">1469 (51.4)</td><td align="left" rowspan="1" colspan="1">1590 (49.6)</td><td align="left" rowspan="1" colspan="1">0.074</td><td align="left" rowspan="1" colspan="1">844 (53.8)</td><td align="left" rowspan="1" colspan="1">906 (54.0)</td><td align="left" rowspan="1" colspan="1">649 (48.8)</td><td align="left" rowspan="1" colspan="1">0.009</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Statin use, n (%)</td><td align="left" rowspan="1" colspan="1">1281 (43.2)</td><td align="left" rowspan="1" colspan="1">1255 (43.9)</td><td align="left" rowspan="1" colspan="1">1385 (43.2)</td><td align="left" rowspan="1" colspan="1">0.925</td><td align="left" rowspan="1" colspan="1">1044 (66.6)</td><td align="left" rowspan="1" colspan="1">1095 (65.3)</td><td align="left" rowspan="1" colspan="1">845 (63.6)</td><td align="left" rowspan="1" colspan="1">0.097</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Antihypertensive medication use, n (%)</td><td align="left" rowspan="1" colspan="1">2690 (90.7)</td><td align="left" rowspan="1" colspan="1">2584 (90.5)</td><td align="left" rowspan="1" colspan="1">2897 (90.4)</td><td align="left" rowspan="1" colspan="1">0.685</td><td align="left" rowspan="1" colspan="1">1358 (86.6)</td><td align="left" rowspan="1" colspan="1">1454 (86.7)</td><td align="left" rowspan="1" colspan="1">1201 (90.4)</td><td align="left" rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Smoking, n (%)</td><td align="left" rowspan="1" colspan="1">418 (14.1)</td><td align="left" rowspan="1" colspan="1">367 (12.9)</td><td align="left" rowspan="1" colspan="1">400 (12.5)</td><td align="left" rowspan="1" colspan="1">0.063</td><td align="left" rowspan="1" colspan="1">190 (12.1)</td><td align="left" rowspan="1" colspan="1">191 (11.4)</td><td align="left" rowspan="1" colspan="1">147 (11.1)</td><td align="left" rowspan="1" colspan="1">0.369</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cardiovascular disease, n (%)</td><td align="left" rowspan="1" colspan="1">602 (20.3)</td><td align="left" rowspan="1" colspan="1">584 (20.4)</td><td align="left" rowspan="1" colspan="1">594 (18.5)</td><td align="left" rowspan="1" colspan="1">0.078</td><td align="left" rowspan="1" colspan="1">538 (34.3)</td><td align="left" rowspan="1" colspan="1">533 (31.8)</td><td align="left" rowspan="1" colspan="1">436 (32.8)</td><td align="left" rowspan="1" colspan="1">0.357</td></tr><tr><td align="left" style="padding-left:10%" colspan="9" rowspan="1">Blood pressure, mm&#x000a0;Hg</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Systolic</td><td align="left" rowspan="1" colspan="1">135.8&#x000b1;14.1</td><td align="left" rowspan="1" colspan="1">139.7&#x000b1;16.3</td><td align="left" rowspan="1" colspan="1">143.2&#x000b1;15.4</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">134.0&#x000b1;14.3</td><td align="left" rowspan="1" colspan="1">137.9&#x000b1;14.8</td><td align="left" rowspan="1" colspan="1">146.0&#x000b1;14.1</td><td align="left" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Diastolic</td><td align="left" rowspan="1" colspan="1">77.9&#x000b1;11.1</td><td align="left" rowspan="1" colspan="1">77.5&#x000b1;12.2</td><td align="left" rowspan="1" colspan="1">79.1&#x000b1;12.2</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">74.6&#x000b1;9.8</td><td align="left" rowspan="1" colspan="1">75.6&#x000b1;9.9</td><td align="left" rowspan="1" colspan="1">77.5&#x000b1;9.8</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" colspan="9" rowspan="1">Characteristics 0&#x02013;1&#x000a0;year after randomization</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No. antihypertensive medications</td><td align="left" rowspan="1" colspan="1">2.5&#x000b1;0.9</td><td align="left" rowspan="1" colspan="1">2.2&#x000b1;1.1</td><td align="left" rowspan="1" colspan="1">2.0&#x000b1;0.9</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">2.6&#x000b1;1.0</td><td align="left" rowspan="1" colspan="1">2.5&#x000b1;1.2</td><td align="left" rowspan="1" colspan="1">2.6&#x000b1;1.1</td><td align="left" rowspan="1" colspan="1">0.138</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No. changes in no. antihypertensive medications</td><td align="left" rowspan="1" colspan="1">0.9&#x000b1;1.0</td><td align="left" rowspan="1" colspan="1">1.4&#x000b1;1.2</td><td align="left" rowspan="1" colspan="1">1.1&#x000b1;1.1</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">1.7&#x000b1;1.3</td><td align="left" rowspan="1" colspan="1">1.7&#x000b1;1.4</td><td align="left" rowspan="1" colspan="1">1.5&#x000b1;1.3</td><td align="left" rowspan="1" colspan="1">0.007</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Visit adherence, n (%)<xref ref-type="fn" rid="jah32778-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">2575 (86.8)</td><td align="left" rowspan="1" colspan="1">2314 (81.0)</td><td align="left" rowspan="1" colspan="1">2692 (84.0)</td><td align="left" rowspan="1" colspan="1">0.004</td><td align="left" rowspan="1" colspan="1">1116 (71.2)</td><td align="left" rowspan="1" colspan="1">1304 (77.7)</td><td align="left" rowspan="1" colspan="1">1141 (85.9)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr></tbody></table><table-wrap-foot><fn id="jah32778-note-0002"><p>Values are mean&#x000b1;SD except as noted. ACCORD indicates Action to Control Cardiovascular Risk in Diabetes; GFR, glomerular filtration rate; SBP, systolic blood pressure; SPRINT, Systolic Blood Pressure Intervention Trial.</p></fn><fn id="jah32778-note-0004"><label>a</label><p>Visit adherence was defined as not missing any visit during the first year after randomization. SPRINT required the intensive and standard groups to have visits at 1, 3, 6, 9, and 12&#x000a0;mo. ACCORD required the intensive group to have visits at 1, 2, 3, 4, 6, 8, 10, and 12&#x000a0;mo and the standard group to have visits at 1, 4, 8, and 12&#x000a0;mo.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah32778-sec-0017"><title>Association of Achieved SBP With Outcomes in SPRINT and ACCORD</title><p>We found no significant differences between SPRINT and ACCORD in the relationship of tertiles of estimated SBP achieved at 1&#x000a0;year and each outcome in unadjusted or adjusted models, except for stroke and all&#x02010;cause death (Table&#x000a0;<xref rid="jah32778-tbl-0002" ref-type="table-wrap">2</xref>). Incidence of the primary outcome of SPRINT, the primary outcome of ACCORD, and heart failure were all progressively higher at higher tertiles of achieved SBP; furthermore, incidence of stroke was higher at higher achieved SBP in ACCORD but not in SPRINT, whereas incidence of all&#x02010;cause death was higher at higher achieved SBP in SPRINT but not in ACCORD. After multivariable adjustment, the hazard ratio comparing the pooled participants from both trials in the highest versus lowest tertile of achieved SBP was 1.50 (95% confidence interval, 1.24&#x02013;1.81) for the primary outcome of SPRINT, 1.35 (95% confidence interval, 1.09&#x02013;1.68) for the primary outcome of ACCORD, and 1.97 (95% confidence interval, 1.39&#x02013;2.80) for heart failure. No violation of the proportionality assumption was found in the Cox hazard models. In addition, for all outcomes, no interaction of treatment with achieved SBP was found for participants in the middle tertile.</p><table-wrap id="jah32778-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Post&#x02013;1&#x02010;Year Outcomes Associated With Estimated SBP Achieved at 1&#x000a0;Year</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Variable</th><th align="left" rowspan="2" valign="top" colspan="1">Participants</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Tertile of Achieved SBP</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic>P</italic> Value for Trend</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic>P</italic> Value for Trial Heterogeneity of HRs</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x0003c;122&#x000a0;mm&#x000a0;Hg</th><th align="left" valign="top" rowspan="1" colspan="1">122&#x02013;134&#x000a0;mm&#x000a0;Hg</th><th align="left" valign="top" rowspan="1" colspan="1">&#x0003e;134&#x000a0;mm&#x000a0;Hg</th></tr></thead><tbody><tr><td align="left" colspan="7" rowspan="1">SPRINT primary outcome (myocardial infarction, acute coronary syndrome, stroke, heart failure, or death from cardiovascular causes)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="2" colspan="1">No. events (%)</td><td align="left" rowspan="1" colspan="1">SPRINT</td><td align="left" rowspan="1" colspan="1">98 (3.3)</td><td align="left" rowspan="1" colspan="1">126 (4.4)</td><td align="left" rowspan="1" colspan="1">156 (4.9)</td><td align="left" rowspan="1" colspan="1">0.002</td><td align="left" rowspan="2" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD</td><td align="left" rowspan="1" colspan="1">115 (7.3)</td><td align="left" rowspan="1" colspan="1">172 (10.3)</td><td align="left" rowspan="1" colspan="1">154 (11.6)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="3" colspan="1">Unadjusted HR (95% CI)</td><td align="left" rowspan="1" colspan="1">All<xref ref-type="fn" rid="jah32778-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.41 (1.18&#x02013;1.68)</td><td align="left" rowspan="1" colspan="1">1.55 (1.30&#x02013;1.84)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="3" colspan="1">0.977</td></tr><tr><td align="left" rowspan="1" colspan="1">SPRINT<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.40 (1.07&#x02013;1.82)</td><td align="left" rowspan="1" colspan="1">1.52 (1.18&#x02013;1.95)</td><td align="left" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.42 (1.12&#x02013;1.79)</td><td align="left" rowspan="1" colspan="1">1.57 (1.24&#x02013;2.00)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="3" colspan="1">Adjusted HR (95% CI)<xref ref-type="fn" rid="jah32778-note-0008">c</xref>
+</td><td align="left" rowspan="1" colspan="1">All<xref ref-type="fn" rid="jah32778-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.31 (1.09&#x02013;1.56)</td><td align="left" rowspan="1" colspan="1">1.50 (1.24&#x02013;1.81)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="3" colspan="1">0.951</td></tr><tr><td align="left" rowspan="1" colspan="1">SPRINT<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.27 (0.97&#x02013;1.67)</td><td align="left" rowspan="1" colspan="1">1.50 (1.15&#x02013;1.95)</td><td align="left" rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.33 (1.05&#x02013;1.69)</td><td align="left" rowspan="1" colspan="1">1.49 (1.15&#x02013;1.92)</td><td align="left" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" colspan="7" rowspan="1">ACCORD primary outcome (nonfatal myocardial infarction, nonfatal stroke, or death from cardiovascular causes)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="2" colspan="1">No. events (%)</td><td align="left" rowspan="1" colspan="1">SPRINT</td><td align="left" rowspan="1" colspan="1">67 (2.3)</td><td align="left" rowspan="1" colspan="1">94 (3.3)</td><td align="left" rowspan="1" colspan="1">105 (3.3)</td><td align="left" rowspan="1" colspan="1">0.020</td><td align="left" rowspan="2" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD</td><td align="left" rowspan="1" colspan="1">97 (6.2)</td><td align="left" rowspan="1" colspan="1">135 (8.0)</td><td align="left" rowspan="1" colspan="1">120 (9.0)</td><td align="left" rowspan="1" colspan="1">0.004</td></tr><tr><td align="left" style="padding-left:10%" rowspan="3" colspan="1">Unadjusted HR (95% CI)</td><td align="left" rowspan="1" colspan="1">All<xref ref-type="fn" rid="jah32778-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.39 (1.14&#x02013;1.70)</td><td align="left" rowspan="1" colspan="1">1.46 (1.19&#x02013;1.78)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="3" colspan="1">0.726</td></tr><tr><td align="left" rowspan="1" colspan="1">SPRINT<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.52 (1.11&#x02013;2.08)</td><td align="left" rowspan="1" colspan="1">1.49 (1.09&#x02013;2.02)</td><td align="left" rowspan="1" colspan="1">0.015</td></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.31 (1.01&#x02013;1.70)</td><td align="left" rowspan="1" colspan="1">1.44 (1.10&#x02013;1.88)</td><td align="left" rowspan="1" colspan="1">0.007</td></tr><tr><td align="left" style="padding-left:10%" rowspan="3" colspan="1">Adjusted HR (95% CI)<xref ref-type="fn" rid="jah32778-note-0008">c</xref>
+</td><td align="left" rowspan="1" colspan="1">All<xref ref-type="fn" rid="jah32778-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.27 (1.03&#x02013;1.56)</td><td align="left" rowspan="1" colspan="1">1.35 (1.09&#x02013;1.68)</td><td align="left" rowspan="1" colspan="1">0.008</td><td align="left" rowspan="3" colspan="1">0.832</td></tr><tr><td align="left" rowspan="1" colspan="1">SPRINT<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.36 (0.99&#x02013;1.88)</td><td align="left" rowspan="1" colspan="1">1.41 (1.03&#x02013;1.93)</td><td align="left" rowspan="1" colspan="1">0.042</td></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.20 (0.92&#x02013;1.57)</td><td align="left" rowspan="1" colspan="1">1.31 (0.98&#x02013;1.74)</td><td align="left" rowspan="1" colspan="1">0.065</td></tr><tr><td align="left" colspan="7" rowspan="1">Heart failure</td></tr><tr><td align="left" style="padding-left:10%" rowspan="2" colspan="1">No. events (%)</td><td align="left" rowspan="1" colspan="1">SPRINT</td><td align="left" rowspan="1" colspan="1">21 (0.7)</td><td align="left" rowspan="1" colspan="1">36 (1.3)</td><td align="left" rowspan="1" colspan="1">55 (1.7)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="2" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD</td><td align="left" rowspan="1" colspan="1">36 (2.3)</td><td align="left" rowspan="1" colspan="1">54 (3.2)</td><td align="left" rowspan="1" colspan="1">49 (3.7)</td><td align="left" rowspan="1" colspan="1">0.028</td></tr><tr><td align="left" style="padding-left:10%" rowspan="3" colspan="1">Unadjusted HR (95% CI)</td><td align="left" rowspan="1" colspan="1">All<xref ref-type="fn" rid="jah32778-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.58 (1.13&#x02013;2.20)</td><td align="left" rowspan="1" colspan="1">1.93 (1.40&#x02013;2.67)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="3" colspan="1">0.383</td></tr><tr><td align="left" rowspan="1" colspan="1">SPRINT<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.86 (1.09&#x02013;3.19)</td><td align="left" rowspan="1" colspan="1">2.51 (1.52&#x02013;4.15)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.41 (0.92&#x02013;2.14)</td><td align="left" rowspan="1" colspan="1">1.57 (1.02&#x02013;2.42)</td><td align="left" rowspan="1" colspan="1">0.039</td></tr><tr><td align="left" style="padding-left:10%" rowspan="3" colspan="1">Adjusted HR (95% CI)<xref ref-type="fn" rid="jah32778-note-0008">c</xref>
+</td><td align="left" rowspan="1" colspan="1">All<xref ref-type="fn" rid="jah32778-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.45 (1.03&#x02013;2.05)</td><td align="left" rowspan="1" colspan="1">1.97 (1.39&#x02013;2.80)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="3" colspan="1">0.209</td></tr><tr><td align="left" rowspan="1" colspan="1">SPRINT<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.70 (0.98&#x02013;2.95)</td><td align="left" rowspan="1" colspan="1">2.72 (1.61&#x02013;4.58)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.31 (0.85&#x02013;2.02)</td><td align="left" rowspan="1" colspan="1">1.51 (0.95&#x02013;2.38)</td><td align="left" rowspan="1" colspan="1">0.080</td></tr><tr><td align="left" colspan="7" rowspan="1">Stroke</td></tr><tr><td align="left" style="padding-left:10%" rowspan="2" colspan="1">No. events (%)</td><td align="left" rowspan="1" colspan="1">SPRINT</td><td align="left" rowspan="1" colspan="1">20 (0.7)</td><td align="left" rowspan="1" colspan="1">36 (1.3)</td><td align="left" rowspan="1" colspan="1">33 (1.0)</td><td align="left" rowspan="1" colspan="1">0.170</td><td align="left" rowspan="2" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD</td><td align="left" rowspan="1" colspan="1">11 (0.7)</td><td align="left" rowspan="1" colspan="1">32 (1.9)</td><td align="left" rowspan="1" colspan="1">36 (2.7)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="3" colspan="1">Unadjusted HR (95% CI)</td><td align="left" rowspan="1" colspan="1">All<xref ref-type="fn" rid="jah32778-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">2.21 (1.44&#x02013;3.37)</td><td align="left" rowspan="1" colspan="1">2.30 (1.51&#x02013;3.52)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="3" colspan="1">0.092</td></tr><tr><td align="left" rowspan="1" colspan="1">SPRINT<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.95 (1.13&#x02013;3.36)</td><td align="left" rowspan="1" colspan="1">1.56 (0.90&#x02013;2.72)</td><td align="left" rowspan="1" colspan="1">0.150</td></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">2.71 (1.37&#x02013;5.39)</td><td align="left" rowspan="1" colspan="1">3.78 (1.92&#x02013;7.42)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="3" colspan="1">Adjusted HR (95% CI)<xref ref-type="fn" rid="jah32778-note-0008">c</xref>
+</td><td align="left" rowspan="1" colspan="1">All<xref ref-type="fn" rid="jah32778-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">2.00 (1.29&#x02013;3.08)</td><td align="left" rowspan="1" colspan="1">2.11 (1.34&#x02013;3.30)</td><td align="left" rowspan="1" colspan="1">0.002</td><td align="left" rowspan="3" colspan="1">0.120</td></tr><tr><td align="left" rowspan="1" colspan="1">SPRINT<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.72 (0.99&#x02013;3.00)</td><td align="left" rowspan="1" colspan="1">1.44 (0.81&#x02013;2.57)</td><td align="left" rowspan="1" colspan="1">0.277</td></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">2.51 (1.26&#x02013;5.01)</td><td align="left" rowspan="1" colspan="1">3.45 (1.71&#x02013;6.95)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" colspan="7" rowspan="1">All&#x02010;cause death</td></tr><tr><td align="left" style="padding-left:10%" rowspan="2" colspan="1">No. events (%)</td><td align="left" rowspan="1" colspan="1">SPRINT</td><td align="left" rowspan="1" colspan="1">58 (2.0)</td><td align="left" rowspan="1" colspan="1">106 (3.7)</td><td align="left" rowspan="1" colspan="1">111 (3.5)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="2" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD</td><td align="left" rowspan="1" colspan="1">73 (4.7)</td><td align="left" rowspan="1" colspan="1">90 (5.4)</td><td align="left" rowspan="1" colspan="1">74 (5.6)</td><td align="left" rowspan="1" colspan="1">0.261</td></tr><tr><td align="left" style="padding-left:10%" rowspan="3" colspan="1">Unadjusted HR (95% CI)</td><td align="left" rowspan="1" colspan="1">All<xref ref-type="fn" rid="jah32778-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.49 (1.20&#x02013;1.86)</td><td align="left" rowspan="1" colspan="1">1.45 (1.16&#x02013;1.81)</td><td align="left" rowspan="1" colspan="1">0.002</td><td align="left" rowspan="3" colspan="1">0.035</td></tr><tr><td align="left" rowspan="1" colspan="1">SPRINT<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.98 (1.44&#x02013;2.73)</td><td align="left" rowspan="1" colspan="1">1.82 (1.33&#x02013;2.51)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.12 (0.83&#x02013;1.53)</td><td align="left" rowspan="1" colspan="1">1.14 (0.82&#x02013;1.57)</td><td align="left" rowspan="1" colspan="1">0.426</td></tr><tr><td align="left" style="padding-left:10%" rowspan="3" colspan="1">Adjusted HR (95% CI)<xref ref-type="fn" rid="jah32778-note-0008">c</xref>
+</td><td align="left" rowspan="1" colspan="1">All<xref ref-type="fn" rid="jah32778-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.36 (1.08&#x02013;1.71)</td><td align="left" rowspan="1" colspan="1">1.38 (1.09&#x02013;1.76)</td><td align="left" rowspan="1" colspan="1">0.011</td><td align="left" rowspan="3" colspan="1">0.098</td></tr><tr><td align="left" rowspan="1" colspan="1">SPRINT<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.72 (1.24&#x02013;2.39)</td><td align="left" rowspan="1" colspan="1">1.70 (1.22&#x02013;2.37)</td><td align="left" rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" rowspan="1" colspan="1">ACCORD<xref ref-type="fn" rid="jah32778-note-0007">b</xref>
+</td><td align="left" rowspan="1" colspan="1">1.00</td><td align="left" rowspan="1" colspan="1">1.08 (0.79&#x02013;1.48)</td><td align="left" rowspan="1" colspan="1">1.11 (0.79&#x02013;1.57)</td><td align="left" rowspan="1" colspan="1">0.530</td></tr></tbody></table><table-wrap-foot><fn id="jah32778-note-0005"><p>ACCORD indicates Action to Control Cardiovascular Risk in Diabetes; CI, confidence interval; GFR, glomerular filtration rate; HR, hazard ratio; SBP, systolic blood pressure; SPRINT, Systolic Blood Pressure Intervention Trial.</p></fn><fn id="jah32778-note-0006"><label>a</label><p>Modeling of the pooled participants from SPRINT and ACCORD, with stratified baseline hazard functions by trial.</p></fn><fn id="jah32778-note-0007"><label>b</label><p>Modeling separately of the participants from SPRINT or ACCORD.</p></fn><fn id="jah32778-note-0008"><label>c</label><p>Adjusted for age, race, sex, Framingham Risk Score, baseline SBP and diastolic blood pressure, use of antihypertensive medication before randomization, smoking status, aspirin use, estimated GFR, history of clinical/subclinical cardiovascular disease, total cholesterol, high&#x02010;density lipoprotein, triglycerides, glucose, urine albumin/creatinine ratio, body mass index, statin use, number of antihypertensive medications used, visit adherence, and visit&#x02010;to&#x02010;visit variability class.</p></fn></table-wrap-foot></table-wrap><p>The estimated achieved SBP at 1&#x000a0;year modeled as a continuous variable showed a linear relationship with risks of the primary outcomes of SPRINT and ACCORD and heart failure (Figure&#x000a0;<xref rid="jah32778-sup-0001" ref-type="supplementary-material">S1</xref>). For stroke, a gradual increase in risk for higher achieved SBP was found in ACCORD but not in SPRINT. For all&#x02010;cause death, risk in SPRINT increased progressively with achieved SBP until &#x02248;130&#x000a0;mm&#x000a0;Hg, whereas the risk in ACCORD did not change much over the range of achieved SBP.</p></sec><sec id="jah32778-sec-0018"><title>Distribution of Visit&#x02010;to&#x02010;Visit Variability and Association With Treatment Effect Heterogeneity</title><p>SPRINT and ACCORD also had significant differences in percentages of participants from intensive and standard treatment groups in the 3 classes of visit&#x02010;to&#x02010;visit variability (Figure&#x000a0;<xref rid="jah32778-sup-0001" ref-type="supplementary-material">S2</xref>). For the intensive group, SPRINT had 19.9%, 70.6%, and 9.5% and ACCORD had 20.0%, 73.8%, and 6.2% of participants in the 3 classes of increasing visit&#x02010;to&#x02010;visit variability. For the standard group, SPRINT had 16.5%, 72.3%, and 11.2% and ACCORD had 16.1%, 80.0%, and 3.9% in these classes. Tests for differences between trials in percentages for treatment groups combined and for each treatment group separately had <italic>P</italic>&#x0003c;0.001.</p><p>For both trials, participants with higher visit&#x02010;to&#x02010;visit variability were older, less often white, and more often female. They also had worse kidney function, higher Framingham Risk Scores, urine albumin/creatinine ratios, and baseline SBP and were more likely to be on antihypertensive medication before randomization (Table&#x000a0;<xref rid="jah32778-sup-0001" ref-type="supplementary-material">S2</xref>). During the first year, participants in both trials with higher visit&#x02010;to&#x02010;visit variability used more medications, had more changes in the number of medications, and were more likely to have low visit adherence.</p><p>Incidence of each outcome was progressively higher for participants in classes of higher visit&#x02010;to&#x02010;visit variability (Table&#x000a0;<xref rid="jah32778-sup-0001" ref-type="supplementary-material">S3</xref>). The relationships of visit&#x02010;to&#x02010;visit variability classes and outcomes were consistent between trials except for the primary outcomes of SPRINT and ACCORD; the adjusted hazard ratios of higher versus lower visit&#x02010;to&#x02010;visit variability in ACCORD were higher than those in SPRINT for the 2 composite outcomes.</p><p>Finally, with 1 exception, the associations of intensive versus standard treatment with the risks of all outcomes were consistent across classes of visit&#x02010;to&#x02010;visit variability for both trials (Figure&#x000a0;<xref rid="jah32778-sup-0001" ref-type="supplementary-material">S3</xref>).</p><p>In sensitivity analyses, similar results in the association of achieved SBP and visit&#x02010;to&#x02010;visit variability with outcomes were found for participants without missing SBP measurement during the first year, except that there was no significant difference between SPRINT and ACCORD in the relationship of achieved SBP with stroke (Tables <xref rid="jah32778-sup-0001" ref-type="supplementary-material">S4</xref> and <xref rid="jah32778-sup-0001" ref-type="supplementary-material">S5</xref>).</p></sec></sec><sec id="jah32778-sec-0019"><title>Discussion</title><p>Our principal findings are consistent with a hypothesis that a smaller difference in the separation of achieved SBP between the intensive and standard groups in ACCORD compared with SPRINT may have contributed to the discordant results between the trials. Although the average SBP levels achieved in both trials were quite similar, there was much better separation of the SBP between treatment groups in SPRINT compared with ACCORD. Meanwhile, the relationship of achieved SBP with outcomes was similar regardless of treatment group in both trials, except for stroke and death. Finally, although there was a difference in percentages of participants in different visit&#x02010;to&#x02010;visit variability classes, it did not appear to modify the risk relationship between the 2 treatment groups in both trials. There were some differences in the participant characteristics of SPRINT and ACCORD; for example, ACCORD included exclusively adults with diabetes mellitus, whereas SPRINT excluded people with diabetes mellitus. It is important to note that we tested whether SBP had a similar modifying effect on outcomes for both SPRINT and ACCORD and found that the relationship of SBP with outcomes was largely similar despite some differences in participant characteristics, suggesting comparability of SBP response and cardiovascular risk in the 2 trials.</p><p>Some experts have commented that ACCORD lacked power to detect meaningful differences in outcomes because of the event rates being lower than expected.<xref rid="jah32778-bib-0004" ref-type="ref">4</xref> Our results show that lower SBP reduced risks of cardiovascular outcomes for both trials, but ACCORD had a higher percentage of standard&#x02010;group participants with lower achieved SBP compared with SPRINT, and that may have contributed to the low event rate of the standard group. Furthermore, the large overlap of achieved SBP between the treatment groups in ACCORD may have diminished the contrast between the groups and resulted in less power to detect a difference in outcomes. What is important is that assessing the average SBP values in the trials was not sufficient to appreciate the differences in the separation of the treatment groups.</p><p>Our study cannot determine the cause for the differences in the distribution of achieved SBP between the trials. An explanation is that the implementation of the intervention was simply more effective in SPRINT. In addition, SPRINT was singularly a blood pressure trial, whereas ACCORD had 3 components including the diabetes trial,<xref rid="jah32778-bib-0010" ref-type="ref">10</xref> a lipid trial, and a blood pressure trial, which may have had some impact on SBP responses. It is possible that the difference in the SBP distribution was also related to underlying diabetes mellitus, perhaps because controlling blood pressure in patients with diabetes mellitus may be more difficult and slower.<xref rid="jah32778-bib-0021" ref-type="ref">21</xref>, <xref rid="jah32778-bib-0022" ref-type="ref">22</xref>
+</p><p>Our findings of the relationship between SBP and cardiovascular outcomes are consistent with the findings of 2 recent comprehensive meta&#x02010;analyses of blood pressure lowering.<xref rid="jah32778-bib-0023" ref-type="ref">23</xref>, <xref rid="jah32778-bib-0024" ref-type="ref">24</xref> Both meta&#x02010;analyses included only randomized trials of blood pressure lowering, and both concluded that lower SBP&#x02014;ideally to &#x0003c;130&#x000a0;mm&#x000a0;Hg&#x02014;was associated with a reduction in the risk of cardiovascular outcomes. One meta&#x02010;analysis concluded that the lowest risk of cardiovascular outcomes and mortality was between 120 and 124&#x000a0;mm&#x000a0;Hg,<xref rid="jah32778-bib-0023" ref-type="ref">23</xref> similar to the 120 mm&#x000a0;Hg target for the intensive arms of SPRINT and ACCORD. Moreover, the randomized controlled trial with the most similar intensive SBP target to SPRINT and ACCORD, the SPS&#x02010;3 (Secondary Prevention of Small Subcortical Strokes) trial with a goal of &#x0003c;130&#x000a0;mm&#x000a0;Hg in patients with recent lacunar stroke compared with a standard goal of 130 to 149&#x000a0;mm&#x000a0;Hg, found that treatment reduced the point estimates of multiple cardiovascular outcomes, although the results were not statistically significant.<xref rid="jah32778-bib-0025" ref-type="ref">25</xref>
+</p><p>Our study has some limitations. First, this study is a secondary analysis of existing data and was undertaken to explore explanations for the differences in the trials. Although we included all available covariates at baseline and during the first year of the trials to minimize the effects of confounding, the possibility of residual confounding and unmeasured confounders cannot be eliminated. Second, no information is currently available about the drugs used in SPRINT, and so we could not explore differences in specific treatment strategies. Third, there were differences in follow&#x02010;up duration between SPRINT and ACCORD. Although we found no evidence of the relationship between SBP and outcomes changing over time for both trials, we cannot rule out the possibility that SPRINT might have shown a time&#x02010;varying relationship if it had not been stopped early. Fourth, we excluded participants with cardiovascular events during the first year in each trial, and that reduced the number of events available for analysis, although we still found a significant increase in risk with higher achieved SBP. Furthermore, participants with more comorbidities and higher nonadherence were preferentially excluded from the standard group, which may have diminished the benefit for the intensive group seen in the remaining participants. However, the exclusion pattern in the trials was similar and should not have had an important effect on the comparison of the trials to each other. Last, the analysis was based on achieved SBP instead of the intent&#x02010;to&#x02010;treat assignment groups, and this may have introduced bias<xref rid="jah32778-bib-0026" ref-type="ref">26</xref>; however, we adjusted for all available participant characteristics and visit adherence, and no significant interaction with treatment was found. Our findings do not likely fully explain the discordant results of SPRINT and ACCORD. A recent meta&#x02010;analysis shows that patients with diabetes mellitus may have a significant but smaller relative risk reduction in cardiovascular outcomes compared with patients without diabetes mellitus for a given magnitude of blood pressure lowering.<xref rid="jah32778-bib-0024" ref-type="ref">24</xref> A simulation analysis suggests that differences in the number of drugs and diastolic blood pressure between the trials could have contributed to the differences.<xref rid="jah32778-bib-0027" ref-type="ref">27</xref>
+</p><p>In conclusion, this study provides evidence that may help explain the different results in SPRINT and ACCORD. The principal discovery is that although the trials had similar average SBP levels achieved in the 2 treatment groups at 1&#x000a0;year, they had different degrees of separation between the intensive and standard treatment groups. There was also other evidence of differences in SBP response, as indicated by the visit&#x02010;to&#x02010;visit variability differences in the trials, although no evidence of its contribution to different trial results was found. The findings suggest that the greater overlap in SBP between intensive and standard groups in ACCORD may have diminished the contrast between the groups and been the reason for the smaller benefit estimate and the lack of statistical significance. If true, then ACCORD should be viewed as more consistent with the thesis that a more intensive SBP control strategy is better&#x02014;as shown in SPRINT.</p></sec><sec id="jah32778-sec-0021"><title>Disclosures</title><p>Krumholz is a recipient of research agreements from Medtronic and from Johnson &#x00026; Johnson (Janssen), through Yale, to develop methods of clinical trial data sharing; is the recipient of a grant from Medtronic and the Food and Drug Administration, through Yale, to develop methods for post&#x02010;market surveillance of medical devices; works under contract with the Centers for Medicare &#x00026; Medicaid Services to develop and maintain performance measures; chairs a cardiac scientific advisory board for UnitedHealth; is a participant/participant representative of the IBM Watson Health Life Sciences Board; is a member of the Advisory Board for Element Science and the Physician Advisory Board for Aetna; and is the founder of Hugo, a personal health information platform. Nasir is a member of the Advisory Board for Quest Diagnostics and a consultant for Regeneron. The other authors have no potential conflicts to disclose.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jah32778-sup-0001"><caption><p>
+<bold>Table&#x000a0;S1.</bold> Model Selection</p><p>
+<bold>Table&#x000a0;S2.</bold> Participant Characteristics by Visit&#x02010;to&#x02010;Visit Variability of Systolic Blood Pressure (SBP)*</p><p>
+<bold>Table&#x000a0;S3.</bold> Post&#x02013;1&#x02010;Year Outcomes Associated With Visit&#x02010;to&#x02010;Visit Variability Classes</p><p>
+<bold>Table&#x000a0;S4.</bold> Post&#x02013;1&#x02010;Year Outcomes Associated With Estimated Systolic Blood Pressure (SBP) Achieved at 1&#x000a0;Year for Participants Without Missing SBP Measurements During the First Year</p><p>
+<bold>Table&#x000a0;S5.</bold> Post&#x02013;1&#x02010;Year Outcomes Associated With Visit&#x02010;to&#x02010;Visit Variability for Participants Without Missing SBP Measurements During the First Year</p><p>
+<bold>Figure&#x000a0;S1.</bold> Hazard ratios of post&#x02013;1&#x02010;year outcomes associated with estimated systolic blood pressure (SBP) achieved at 1&#x000a0;year for SPRINT (Systolic Blood Pressure Intervention Trial) and ACCORD (Action to Control Cardiovascular Risk in Diabetes), using restricted cubic splines.</p><p>
+<bold>Figure&#x000a0;S2.</bold> Distribution of visit&#x02010;to&#x02010;visit variability classes for participants from the intensive and standard treatment groups of SPRINT (Systolic Blood Pressure Intervention Trial) and ACCORD (Action to Control Cardiovascular Risk in Diabetes).</p><p>
+<bold>Figure&#x000a0;S3.</bold> Hazard ratios of post&#x02013;1&#x02010;year outcomes associated with intensive vs standard treatment for classes of visit&#x02010;to&#x02010;visit variability in (A) SPRINT (Systolic Blood Pressure Intervention Trial) and (B) ACCORD (Action to Control Cardiovascular Risk in Diabetes).*</p></caption><media xlink:href="JAH3-6-e007509-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jah32778-sec-0020"><title>Acknowledgments</title><p>We would like to thank the SPRINT (Systolic Blood Pressure Intervention Trial)<xref rid="jah32778-bib-0002" ref-type="ref">2</xref> and ACCORD (Action to Control Cardiovascular Risk in Diabetes) study participants and trial investigators. This article was prepared using SPRINT and ACCORD research materials obtained from the National Heart, Lung, and Blood Institute (NHLBI) Biologic Specimen and Data Repository Information Coordinating Center and does not necessarily reflect the opinions or views of SPRINT, ACCORD, or the NHLBI. We would also like to thank Jackson T. Wright for his insightful comments on an earlier version of this article.</p></ack><ref-list content-type="cited-references" id="jah32778-bibl-0001"><title>References</title><ref id="jah32778-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah32778-cit-0001">
+<string-name>
+<surname>Chobanian</surname>
+<given-names>AV</given-names>
+</string-name>. <article-title>Hypertension in 2017&#x02010;what is the right target?</article-title>
+<source>JAMA</source>. <year>2017</year>;<volume>317</volume>:<fpage>579</fpage>&#x02013;<lpage>580</lpage>.<pub-id pub-id-type="pmid">28135357</pub-id></mixed-citation></ref><ref id="jah32778-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah32778-cit-0002">
+<collab collab-type="authors">SPRINT Research Group</collab>
+, <string-name>
+<surname>Wright</surname>
+<given-names>JT</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Williamson</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Whelton</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Snyder</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Sink</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Rocco</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Reboussin</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Rahman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Oparil</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Kimmel</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Goff</surname>
+<given-names>DC</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Fine</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Cutler</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Cushman</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Ambrosius</surname>
+<given-names>WT</given-names>
+</string-name>. <article-title>A randomized trial of intensive versus standard blood&#x02010;pressure control</article-title>. <source>N Engl J Med</source>. <year>2015</year>;<volume>373</volume>:<fpage>2103</fpage>&#x02013;<lpage>2116</lpage>.<pub-id pub-id-type="pmid">26551272</pub-id></mixed-citation></ref><ref id="jah32778-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah32778-cit-0003">
+<collab collab-type="authors">ACCORD Study Group</collab>
+, <string-name>
+<surname>Cushman</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Byington</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Goff</surname>
+<given-names>DC</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Grimm</surname>
+<given-names>RH</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Cutler</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Simons&#x02010;Morton</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Basile</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Corson</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Probstfield</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Katz</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Friedewald</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name>
+<surname>Buse</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Bigger</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Gerstein</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Ismail&#x02010;Beigi</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Effects of intensive blood&#x02010;pressure control in type 2 diabetes mellitus</article-title>. <source>N Engl J Med</source>. <year>2010</year>;<volume>362</volume>:<fpage>1575</fpage>&#x02013;<lpage>1585</lpage>.<pub-id pub-id-type="pmid">20228401</pub-id></mixed-citation></ref><ref id="jah32778-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah32778-cit-0004">
+<string-name>
+<surname>Perkovic</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Rodgers</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Redefining blood&#x02010;pressure targets&#x02014;SPRINT starts the marathon</article-title>. <source>N Engl J Med</source>. <year>2015</year>;<volume>373</volume>:<fpage>2175</fpage>&#x02013;<lpage>2178</lpage>.<pub-id pub-id-type="pmid">26551394</pub-id></mixed-citation></ref><ref id="jah32778-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah32778-cit-0005">
+<string-name>
+<surname>Krakoff</surname>
+<given-names>LR</given-names>
+</string-name>. <article-title>A tale of 3 trials: ACCORD, SPRINT, and SPS3. What happened?</article-title>
+<source>Am J Hypertens</source>. <year>2016</year>;<volume>29</volume>:<fpage>1020</fpage>&#x02013;<lpage>1023</lpage>.<pub-id pub-id-type="pmid">27357398</pub-id></mixed-citation></ref><ref id="jah32778-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah32778-cit-0006">
+<string-name>
+<surname>Dhruva</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Spatz</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Coppi</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Warner</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S&#x02010;X</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Furberg</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Pressel</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Coifman</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Krumholz</surname>
+<given-names>HM</given-names>
+</string-name>. <article-title>Heterogeneity in early responses in ALLHAT (Antihypertensive and Lipid&#x02010;Lowering Treatment to Prevent Heart Attack Trial)</article-title>. <source>Hypertension</source>. <year>2017</year>;<volume>70</volume>:<fpage>94</fpage>&#x02013;<lpage>102</lpage>.<pub-id pub-id-type="pmid">28559399</pub-id></mixed-citation></ref><ref id="jah32778-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah32778-cit-0007">
+<string-name>
+<surname>Muntner</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Whittle</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lynch</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Colantonio</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Einhorn</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Levitan</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Whelton</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Cushman</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Louis</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Oparil</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Visit&#x02010;to&#x02010;visit variability of blood pressure and coronary heart disease, stroke, heart failure, and mortality: a cohort study</article-title>. <source>Ann Intern Med</source>. <year>2015</year>;<volume>163</volume>:<fpage>329</fpage>&#x02013;<lpage>338</lpage>.<pub-id pub-id-type="pmid">26215765</pub-id></mixed-citation></ref><ref id="jah32778-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah32778-cit-0008">
+<string-name>
+<surname>Rothwell</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Howard</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Dolan</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>O'Brien</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Dobson</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Dahl&#x000f6;f</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sever</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Poulter</surname>
+<given-names>NR</given-names>
+</string-name>. <article-title>Prognostic significance of visit&#x02010;to&#x02010;visit variability, maximum systolic blood pressure, and episodic hypertension</article-title>. <source>Lancet</source>. <year>2010</year>;<volume>375</volume>:<fpage>895</fpage>&#x02013;<lpage>905</lpage>.<pub-id pub-id-type="pmid">20226988</pub-id></mixed-citation></ref><ref id="jah32778-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah32778-cit-0009">
+<string-name>
+<surname>Ambrosius</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name>
+<surname>Sink</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Foy</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Berlowitz</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Cushman</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Fine</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Goff</surname>
+<given-names>DC</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Killeen</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Oparil</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Reboussin</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Rocco</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Snyder</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Williamson</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>
+<given-names>JT</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Whelton</surname>
+<given-names>PK</given-names>
+</string-name>; <collab collab-type="authors">SPRINT Study Research Group</collab>
+. <article-title>The design and rationale of a multicenter clinical trial comparing two strategies for control of systolic blood pressure: the Systolic Blood Pressure Intervention Trial (SPRINT)</article-title>. <source>Clin Trials</source>. <year>2014</year>;<volume>11</volume>:<fpage>532</fpage>&#x02013;<lpage>546</lpage>.<pub-id pub-id-type="pmid">24902920</pub-id></mixed-citation></ref><ref id="jah32778-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah32778-cit-0010">
+<collab collab-type="authors">ACCORD Study Group</collab>
+, <string-name>
+<surname>Buse</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Bigger</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Byington</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Cushman</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Friedewald</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name>
+<surname>Genuth</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gerstein</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Ginsberg</surname>
+<given-names>HN</given-names>
+</string-name>, <string-name>
+<surname>Goff</surname>
+<given-names>DC</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Grimm</surname>
+<given-names>RH</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Margolis</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Probstfield</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Simons&#x02010;Morton</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Action to control cardiovascular risk in diabetes (ACCORD) trial: design and methods</article-title>. <source>Am J Cardiol</source>. <year>2007</year>;<volume>99</volume>:<fpage>21i</fpage>&#x02013;<lpage>33i</lpage>.</mixed-citation></ref><ref id="jah32778-bib-0011"><label>11</label><mixed-citation publication-type="book" id="jah32778-cit-0011">
+<string-name>
+<surname>Muth&#x000e9;n</surname>
+<given-names>B</given-names>
+</string-name>. <chapter-title>Latent variable analysis. Growth mixture modeling and related techniques for longituinal data</chapter-title> In: <person-group person-group-type="editor"><name><surname>Kaplan</surname><given-names>D</given-names></name></person-group>, ed. <source>The Sage Handbook of Quantitative Methodology for the Social Sciences</source>. <publisher-loc>Thousand Oaks, CA</publisher-loc>: <publisher-name>SAGE Publications, Inc.</publisher-name>; <year>2004</year>:<fpage>345</fpage>&#x02013;<lpage>368</lpage>.</mixed-citation></ref><ref id="jah32778-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah32778-cit-0012">
+<string-name>
+<surname>Cole</surname>
+<given-names>VT</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>A note on the use of mixture models for individual prediction</article-title>. <source>Struct Equ Modeling</source>. <year>2016</year>;<volume>23</volume>:<fpage>615</fpage>&#x02013;<lpage>631</lpage>.<pub-id pub-id-type="pmid">27346932</pub-id></mixed-citation></ref><ref id="jah32778-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah32778-cit-0013">
+<string-name>
+<surname>Inman</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name>
+<surname>Bradley</surname>
+<given-names>EL</given-names>
+</string-name>. <article-title>The overlapping coefficient as a measure of agreement between probability distributions and point estimation of the overlap of two normal densities</article-title>. <source>Commun Stat Theory Methods</source>. <year>1989</year>;<volume>18</volume>:<fpage>3851</fpage>&#x02013;<lpage>3874</lpage>.</mixed-citation></ref><ref id="jah32778-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah32778-cit-0014">
+<string-name>
+<surname>Grambsch</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Therneau</surname>
+<given-names>TM</given-names>
+</string-name>. <article-title>Proportional hazards tests and diagnostics based on weighted residuals</article-title>. <source>Biometrika</source>. <year>1994</year>;<volume>81</volume>:<fpage>515</fpage>&#x02013;<lpage>526</lpage>.</mixed-citation></ref><ref id="jah32778-bib-0015"><label>15</label><mixed-citation publication-type="book" id="jah32778-cit-0015">
+<string-name>
+<surname>Rubin</surname>
+<given-names>DB</given-names>
+</string-name>. <source>Multiple Imputation for Nonresponse in Surveys</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>John Wiley &#x00026; Sons, Inc</publisher-name>; <year>2008</year>.</mixed-citation></ref><ref id="jah32778-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah32778-cit-0016">
+<string-name>
+<surname>Boker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Neale</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Maes</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wilde</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Spiegel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brick</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Spies</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Estabrook</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kenny</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bates</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mehta</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>OpenMx: an open source extended structural equation&#x000a0;modeling framework</article-title>. <source>Psychometrika</source>. <year>2011</year>;<volume>76</volume>:<fpage>306</fpage>&#x02013;<lpage>317</lpage>.<pub-id pub-id-type="pmid">23258944</pub-id></mixed-citation></ref><ref id="jah32778-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah32778-cit-0017">
+<string-name>
+<surname>van Buuren</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Groothuis&#x02010;Oudshoorn</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Mice: multivariate imputation by chained equations in R</article-title>. <source>J Stat Softw</source>. <year>2011</year>;<volume>45</volume>:<fpage>1</fpage>&#x02013;<lpage>67</lpage>.</mixed-citation></ref><ref id="jah32778-bib-0018"><label>18</label><mixed-citation publication-type="book" id="jah32778-cit-0018">
+<string-name>
+<surname>Harrell</surname>
+<given-names>F</given-names>
+</string-name>. <source>Regression Modeling Strategies: With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis</source>. <publisher-loc>Switzerland</publisher-loc>: <publisher-name>Springer International Publishing</publisher-name>; <year>2015</year>.</mixed-citation></ref><ref id="jah32778-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah32778-cit-0019">
+<string-name>
+<surname>Masson</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Vallier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vigneron</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Balmand</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Vincent&#x02010;Monegat</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zaidman&#x02010;Remy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Heddi</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Systemic infection generates a local&#x02010;like immune response of the bacteriome organ in insect symbiosis</article-title>. <source>J Innate Immun</source>. <year>2015</year>;<volume>7</volume>:<fpage>290</fpage>&#x02013;<lpage>301</lpage>.<pub-id pub-id-type="pmid">25632977</pub-id></mixed-citation></ref><ref id="jah32778-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah32778-cit-0020">
+<string-name>
+<surname>Zubair</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Mayer&#x02010;Davis</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Mendez</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Mohlke</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>North</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Adair</surname>
+<given-names>LS</given-names>
+</string-name>. <article-title>Genetic risk score and adiposity interact to influence triglyceride levels in a cohort of Filipino women</article-title>. <source>Nutr Diabetes</source>. <year>2014</year>;<volume>4</volume>:<fpage>e118</fpage>.<pub-id pub-id-type="pmid">24932782</pub-id></mixed-citation></ref><ref id="jah32778-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah32778-cit-0021">
+<string-name>
+<surname>Eguchi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Pickering</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Kario</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Why is blood pressure so hard to control in patients with type 2 diabetes?</article-title>
+<source>J Cardiometab Syndr</source>. <year>2007</year>;<volume>2</volume>:<fpage>114</fpage>&#x02013;<lpage>118</lpage>.<pub-id pub-id-type="pmid">17684464</pub-id></mixed-citation></ref><ref id="jah32778-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah32778-cit-0022">
+<string-name>
+<surname>Nasser</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>O'Connor</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Flack</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Does earlier attainment of blood pressure goal translate into fewer cardiovascular events?</article-title>
+<source>Curr Hypertens Rep</source>. <year>2008</year>;<volume>10</volume>:<fpage>398</fpage>&#x02013;<lpage>404</lpage>.<pub-id pub-id-type="pmid">18775119</pub-id></mixed-citation></ref><ref id="jah32778-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah32778-cit-0023">
+<string-name>
+<surname>Bundy</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Stuchlik</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name>
+<surname>Mills</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Whelton</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Systolic blood pressure reduction and risk of cardiovascular disease and mortality: a systematic review and network meta&#x02010;analysis</article-title>. <source>JAMA Cardiol</source>. <year>2017</year>;<volume>2</volume>:<fpage>775</fpage>&#x02013;<lpage>781</lpage>.<pub-id pub-id-type="pmid">28564682</pub-id></mixed-citation></ref><ref id="jah32778-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah32778-cit-0024">
+<string-name>
+<surname>Ettehad</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Emdin</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Kiran</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Callender</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Emberson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chalmers</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rodgers</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rahimi</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta&#x02010;analysis</article-title>. <source>Lancet</source>. <year>2016</year>;<volume>387</volume>:<fpage>957</fpage>&#x02013;<lpage>967</lpage>.<pub-id pub-id-type="pmid">26724178</pub-id></mixed-citation></ref><ref id="jah32778-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah32778-cit-0025">
+<collab collab-type="authors">SPS3 Study Group</collab>
+, <string-name>
+<surname>Benavente</surname>
+<given-names>OR</given-names>
+</string-name>, <string-name>
+<surname>Coffey</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Conwit</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>McClure</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Pearce</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Pergola</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name>
+<surname>Szychowski</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Blood&#x02010;pressure targets in patients with recent lacunar stroke: the SPS3 randomised trial</article-title>. <source>Lancet</source>. <year>2013</year>;<volume>382</volume>:<fpage>507</fpage>&#x02013;<lpage>515</lpage>.<pub-id pub-id-type="pmid">23726159</pub-id></mixed-citation></ref><ref id="jah32778-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah32778-cit-0026">
+<string-name>
+<surname>Davis</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Appel</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Astor</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Rahman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Toto</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lipkowitz</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Pogue</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>
+<given-names>JT</given-names>
+<suffix>Jr</suffix>
+</string-name>; <collab collab-type="authors">African American Study of Kidney Disease and Hypertension Research Collaborative Group</collab>
+. <article-title>Limitations of analyses based on achieved blood pressure: lessons from the African American study of kidney disease and hypertension trial</article-title>. <source>Hypertension</source>. <year>2011</year>;<volume>57</volume>:<fpage>1061</fpage>&#x02013;<lpage>1068</lpage>.<pub-id pub-id-type="pmid">21555676</pub-id></mixed-citation></ref><ref id="jah32778-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah32778-cit-0027">
+<string-name>
+<surname>Basu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sussman</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Hayward</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Detecting heterogeneous treatment effects to guide personalized blood pressure treatment: a modeling study of randomized clinical trials</article-title>. <source>Ann Intern Med</source>. <year>2017</year>;<volume>166</volume>:<fpage>354</fpage>&#x02013;<lpage>360</lpage>.<pub-id pub-id-type="pmid">28055048</pub-id></mixed-citation></ref></ref-list></back></article>

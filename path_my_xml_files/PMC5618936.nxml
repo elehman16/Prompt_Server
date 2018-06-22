@@ -1,0 +1,590 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Future Oncol</journal-id><journal-id journal-id-type="iso-abbrev">Future Oncol</journal-id><journal-id journal-id-type="publisher-id">FON</journal-id><journal-title-group><journal-title>Future Oncology</journal-title></journal-title-group><issn pub-type="ppub">1479-6694</issn><issn pub-type="epub">1744-8301</issn><publisher><publisher-name>Future Medicine Ltd</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27739325</article-id><article-id pub-id-type="pmc">5618936</article-id><article-id pub-id-type="doi">10.2217/fon-2016-0412</article-id><article-categories><subj-group subj-group-type="heading"><subject>Clinical Trial Protocol</subject></subj-group></article-categories><title-group><article-title>A randomized Phase II study of veliparib with temozolomide or carboplatin/paclitaxel versus placebo with carboplatin/paclitaxel in <italic>BRCA1</italic>/<italic>2</italic> metastatic breast cancer: design and rationale</article-title><alt-title alt-title-type="running-head">Isakoff, Puhalla, Domchek <italic>et al</italic>.</alt-title><alt-title alt-title-type="running-head">The BROCADE trial protocol</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Isakoff</surname><given-names>Steven J</given-names></name><xref ref-type="corresp" rid="C0001">*</xref><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Puhalla</surname><given-names>Shannon</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff2"/></contrib><contrib contrib-type="author"><name><surname>Domchek</surname><given-names>Susan M</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="aff3"/></contrib><contrib contrib-type="author"><name><surname>Friedlander</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="aff4"/></contrib><contrib contrib-type="author"><name><surname>Kaufman</surname><given-names>Bella</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="aff5"/></contrib><contrib contrib-type="author"><name><surname>Robson</surname><given-names>Mark</given-names></name><xref ref-type="aff" rid="aff6">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="aff6"/></contrib><contrib contrib-type="author"><name><surname>Telli</surname><given-names>Melinda L</given-names></name><xref ref-type="aff" rid="aff7">
+<sup>7</sup>
+</xref><xref ref-type="aff" rid="aff7"/></contrib><contrib contrib-type="author"><name><surname>Di&#x000e9;ras</surname><given-names>V&#x000e9;ronique</given-names></name><xref ref-type="aff" rid="aff8">
+<sup>8</sup>
+</xref><xref ref-type="aff" rid="aff8"/></contrib><contrib contrib-type="author"><name><surname>Han</surname><given-names>Hyo Sook</given-names></name><xref ref-type="aff" rid="aff9">
+<sup>9</sup>
+</xref><xref ref-type="aff" rid="aff9"/></contrib><contrib contrib-type="author"><name><surname>Garber</surname><given-names>Judy E</given-names></name><xref ref-type="aff" rid="aff10">
+<sup>10</sup>
+</xref><xref ref-type="aff" rid="aff10"/></contrib><contrib contrib-type="author"><name><surname>Johnson</surname><given-names>Eric F</given-names></name><xref ref-type="aff" rid="aff11">
+<sup>11</sup>
+</xref><xref ref-type="aff" rid="aff11"/></contrib><contrib contrib-type="author"><name><surname>Maag</surname><given-names>David</given-names></name><xref ref-type="aff" rid="aff11">
+<sup>11</sup>
+</xref><xref ref-type="aff" rid="aff11"/></contrib><contrib contrib-type="author"><name><surname>Qin</surname><given-names>Qin</given-names></name><xref ref-type="aff" rid="aff11">
+<sup>11</sup>
+</xref><xref ref-type="aff" rid="aff11"/></contrib><contrib contrib-type="author"><name><surname>Giranda</surname><given-names>Vincent L</given-names></name><xref ref-type="aff" rid="aff11">
+<sup>11</sup>
+</xref><xref ref-type="aff" rid="aff11"/></contrib><contrib contrib-type="author"><name><surname>Shepherd</surname><given-names>Stacie P</given-names></name><xref ref-type="aff" rid="aff11">
+<sup>11</sup>
+</xref><xref ref-type="aff" rid="aff11"/></contrib><aff id="aff1">
+<label>1</label>Department of Medicine, Massachusetts General Hospital, Boston, MA 02114, USA</aff><aff id="aff2">
+<label>2</label>Department of Medicine, University of Pittsburgh Cancer Institute, Pittsburgh, PA 15232, USA</aff><aff id="aff3">
+<label>3</label>Basser Center for BRCA, University of Pennsylvania, Philadelphia, PA 19104, USA</aff><aff id="aff4">
+<label>4</label>Gynaecological Cancer Centre, Royal Hospital for Women, Sydney, NSW 2031, Australia</aff><aff id="aff5">
+<label>5</label>Department of General Oncology, Chaim Sheba Medical Center, Ramat Gan 52 621, Israel</aff><aff id="aff6">
+<label>6</label>Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY 10022, USA</aff><aff id="aff7">
+<label>7</label>Department of Medical Oncology, Stanford University School of Medicine, Stanford, CA 94305, USA</aff><aff id="aff8">
+<label>8</label>Department of Medical Oncology, Institut Curie, Paris 75248, France</aff><aff id="aff9">
+<label>9</label>The Center for Women's Oncology, Moffitt Cancer Center, Tampa, FL 33612, USA</aff><aff id="aff10">
+<label>10</label>Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02215, USA</aff><aff id="aff11">
+<label>11</label>AbbVie Inc., Chicago, IL 60064, USA</aff></contrib-group><author-notes><corresp id="C0001">*Author for correspondence: Tel.: <phone>+1 617 726 6500</phone>; Fax: <fax>+1 617 643 0589</fax>; <email xlink:href="mailto:SISAKOFF@mgh.harvard.edu">SISAKOFF@mgh.harvard.edu</email></corresp></author-notes><pub-date pub-type="ppub"><month>2</month><year>2017</year></pub-date><pub-date pub-type="epub"><day>14</day><month>10</month><year>2016</year></pub-date><volume>13</volume><issue>4</issue><fpage>307</fpage><lpage>320</lpage><history><date date-type="received"><day>31</day><month>8</month><year>2016</year></date><date date-type="accepted"><day>28</day><month>9</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 AbbVie Inc.</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access"><license-p>This work is licensed under a <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial 4.0 Unported License</ext-link>
+</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="fon-13-307.pdf"/><abstract><p>Veliparib is an orally administered poly(ADP-ribose) polymerase inhibitor that is being studied in Phase I&#x02013;III clinical trials, including Phase III studies in non-small-cell lung cancer, ovarian cancer and breast cancer. Tumor cells with deleterious <italic>BRCA1</italic> or <italic>BRCA2</italic> mutations are deficient in homologous recombination DNA repair and are intrinsically sensitive to platinum therapy and poly(ADP-ribose) polymerase inhibitors. We describe herein the design and rationale of a Phase II trial investigating whether the addition of veliparib to temozolomide or carboplatin/paclitaxel provides clinical benefit over carboplatin/paclitaxel with placebo in patients with locally recurrent or metastatic breast cancer harboring a deleterious <italic>BRCA1</italic> or <italic>BRCA2</italic> germline mutation (Trial registration: EudraCT 2011-002913-12, NCT01506609).</p></abstract><kwd-group kwd-group-type="author"><title>KEYWORDS&#x02002;</title><kwd><italic>BRCA1</italic></kwd><kwd><italic>BRCA2</italic></kwd><kwd>breast cancer</kwd><kwd>DNA damage</kwd><kwd>PARP</kwd><kwd>PARP inhibitor</kwd><kwd>PARP trapping</kwd><kwd>synthetic lethality</kwd><kwd>veliparib</kwd></kwd-group></article-meta></front><body><p>Patients harboring <italic>BRCA1</italic> or <italic>BRCA2</italic> (<italic>BRCA1</italic>/2) gene mutations account for approximately 5% of all breast cancers [<xref rid="B1" ref-type="bibr">1</xref>] and approximately 15&#x02013;20% of hereditary breast cancers [<xref rid="B2" ref-type="bibr">2</xref>]. The prevalence of <italic>BRCA1</italic>/<italic>2</italic> germline mutations is considerably higher among certain ethnic groups (e.g., Ashkenazi Jews) and geographic areas. Population-specific and recurrent mutations have been described in Iceland, The Netherlands, Sweden, Norway, Germany, France, Spain, Canada and other countries of eastern and southern Europe. According to recent estimates, 55&#x02013;65% of women who inherit a <italic>BRCA1</italic> mutation and around 45% of women who inherit a <italic>BRCA2</italic> mutation will develop breast cancer by the age of 70 years [<xref rid="B3" ref-type="bibr">3</xref>]. While there are no definitive guidelines on the optimal chemotherapy for these patients, there is increasing evidence of enhanced sensitivity to specific systemic agents in this patient population. Recent clinical data show high response rates in patients with <italic>BRCA</italic>-associated breast cancer treated with platinum therapy [<xref rid="B4" ref-type="bibr">4&#x02013;6</xref>], and the inclusion of platinum-containing regimens in the treatment of these patients has recently been supported by the Advanced Breast Cancer 2 panel [<xref rid="B7" ref-type="bibr">7</xref>].</p><p>A promising area of clinical research is the investigation of PARP inhibitors in treating <italic>BRCA1</italic>/<italic>2</italic>-associated tumors. Initial data with olaparib [<xref rid="B8" ref-type="bibr">8</xref>] and its subsequent approval for treatment of recurrent <italic>BRCA</italic>-mutated ovarian cancer [<xref rid="B9" ref-type="bibr">9&#x02013;11</xref>] support the unique sensitivity of these tumors to PARP inhibition via an interaction characterized by synthetic lethality. Ongoing research with PARP inhibitors as monotherapy, and as agents that potentiate chemotherapy, seeks to improve outcomes for patients with advanced breast cancer (<xref ref-type="table" rid="T1">Table 1</xref> [<xref rid="B12" ref-type="bibr">12</xref>]).</p><table-wrap id="T1" position="float"><label><bold>Table 1.</bold>&#x02002;</label><caption><title>
+<bold>Poly(ADP-ribose) polymerase inhibitors in clinical development for breast cancer.</bold>
+</title></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th align="left"><bold>PARP inhibitor</bold></th><th align="left"><bold>Pharmaceutical company</bold></th><th align="left"><bold>Investigational phase</bold></th></tr></thead><tbody><tr><td align="left">Veliparib (ABT-888)<hr/></td><td align="left">AbbVie<hr/></td><td align="left">Phase III:<break/>&#x02013; Neoadjuvant setting in combination with carboplatin/paclitaxel in triple-negative <italic>BRCA1</italic>/<italic>2</italic>-mutated metastatic breast cancer<break/>Phase II/III:<break/>&#x02013; Combination therapy in germline <italic>BRCA1</italic>/<italic>2</italic>-mutated metastatic breast cancer<hr/></td></tr><tr><td align="left">Olaparib (AZD2281)<hr/></td><td align="left">AstraZeneca<hr/></td><td align="left">Phase III:<break/>&#x02013; Adjuvant treatment in germline <italic>BRCA1</italic>/<italic>2</italic>-mutated high-risk, <italic>HER2</italic>- primary breast cancer<break/>&#x02013; Advanced setting monotherapy in germline <italic>BRCA1</italic>/<italic>2</italic>-mutated breast cancer<hr/></td></tr><tr><td align="left">Niraparib (formerly MK-4827)<hr/></td><td align="left">Tesaro<hr/></td><td align="left">Phase III:<break/>&#x02013; Advanced setting in germline <italic>HER-, BRCA1/2</italic>-mutated breast cancer<hr/></td></tr><tr><td align="left">Talazoparib (BMN 673)<hr/></td><td align="left">Medivation<hr/></td><td align="left">Phase III:<break/>&#x02013; Advanced setting monotherapy in germline <italic>BRCA1</italic>/<italic>2</italic>-mutated breast cancer<break/>Phase II:<break/>&#x02013; Advanced setting <italic>BRCA1</italic>/<italic>2</italic> wild-type, triple-negative breast cancer and homologous recombination deficiency<break/>&#x02013; Advanced setting <italic>BRCA1</italic>/<italic>2</italic>-mutated breast cancer<break/>&#x02013; Advanced setting in germline <italic>BRCA</italic>-intact breast cancer<break/>&#x02013; Neoadjuvant setting in <italic>BRCA1</italic>/<italic>2</italic>-mutated breast cancer<hr/></td></tr><tr><td align="left">Rucaparib (formerly AG 14699)<hr/></td><td align="left">Clovis Oncology<hr/></td><td align="left">Phase II:<break/>&#x02013; Advanced setting in patients with known germline <italic>BRCA1</italic>/<italic>2</italic>-mutated solid tumors<break/>&#x02013; Adjuvant setting in triple-negative breast cancer or germline <italic>BRCA1</italic>/<italic>2</italic>-mutated breast cancer<hr/></td></tr><tr><td align="left">CEP-9722</td><td align="left">Teva Pharmaceuticals Industries</td><td align="left">Phase II:<break/>&#x02013; Advanced setting in solid tumors</td></tr></tbody></table><table-wrap-foot><fn><p>PARP: Poly(ADP-ribose) polymerase.</p></fn><fn><p>Adapted with permission from Livraghi <italic>et al</italic>. <italic>BMC Med.</italic> (2015) [<xref rid="B12" ref-type="bibr">12</xref>].</p></fn></table-wrap-foot></table-wrap><p>PARP-1 and -2, the primary targets of veliparib, belong to the PARP family of proteins. They are involved in diverse cellular processes including detection and repair of various types of DNA damage, such as single- or double-strand DNA breaks [<xref rid="B13" ref-type="bibr">13</xref>]. Their role in DNA damage repair is complex, multifaceted and depends on the specific type of damage and associated repair mechanisms (<xref ref-type="fig" rid="F0001">Figure 1</xref> [<xref rid="B13" ref-type="bibr">13</xref>]). DNA damage resulting in single-strand breaks (SSBs), base mismatch or intrastrand cross-links are repaired by mechanisms including single-strand break repair (SSBR), base excision repair, mismatch repair and nucleotide excision repair. Double-strand break (DSB) repair includes homologous recombination and nonhomologous end joining. Of the 17 members of the PARP family that have been discovered, PARP1&#x02013;3 have DNA-binding domains and are catalytically activated upon interaction with DNA damage [<xref rid="B14" ref-type="bibr">14&#x02013;16</xref>]. When damage is recognized, ADP-ribosylation results in recruitment of repair factors, many of which contain domains that mediate interactions with polymers of ADP-ribose (PAR) [<xref rid="B17" ref-type="bibr">17</xref>,<xref rid="B18" ref-type="bibr">18</xref>]. The ADP-ribosylation of DNA-associated factors such as histones causes a relaxed chromatin state that enables access of DNA repair proteins to the DNA damage [<xref rid="B19" ref-type="bibr">19</xref>], thereby promoting repair [<xref rid="B16" ref-type="bibr">16</xref>]. During SSBR, release of PARP1 from the SSB is required for repair to proceed. This is mediated by the automodification of PARP1 with PAR.</p><fig fig-type="figure" id="F0001" position="float"><label><bold>Figure 1.</bold>&#x02002;</label><caption><title>
+<bold>Model of poly(ADP-ribose) polymerase role in DNA damage repair and effect of poly(ADP-ribose) polymerase inhibition &#x02013; <italic>BRCA</italic> mutation synthetic lethality.</bold>
+</title><p>
+<bold>(A)</bold> On detection of a single-strand break, the recruitment and activation of poly(ADP-ribose) polymerase (PARP) leads to single-strand break repair via polymers of ADP-ribosylation of histones and chromatin-remodeling enzymes, autoPARylation of PARP and recruitment of PARP-dependent DNA repair proteins. Repaired DNA can subsequently undergo replication, resulting in the survival of the cell. <bold>(B)</bold> When PARP inhibitors are present, PARP-dependent repair systems are not activated due to catalytic inhibition and/or direct trapping. This results in replication fork stalling during DNA replication, and the stalled replication fork eventually collapse, creating DSBs. In cells where homologous recombination is not impaired (<italic>BRCA</italic>-wild-type), DSBs are repaired and replication may restart, resulting in cell survival. However, in <italic>BRCA</italic>-deficient cells where hazard ratio is impaired, DSB cannot be efficiently repaired and DSB accumulates, resulting in cell death.</p><p>DSB: Double-strand break; HR: Homologous recombination; RF: Replication fork; SSB: Single-strand break.</p><p>Adapted with permission from Livraghi <italic>et al</italic>. <italic>BMC Med.</italic> (2015) [<xref rid="B12" ref-type="bibr">12</xref>]. No changes were made.</p></caption><graphic xlink:href="fon-13-307-g1"/></fig><p>Preclinical evidence has revealed synergistic activity of PARP inhibitors with DNA-alkylating and platinum agents [<xref rid="B20" ref-type="bibr">20</xref>], as well as topoisomerase I inhibitors [<xref rid="B21" ref-type="bibr">21</xref>]. Since the repair pathway(s) for lesions caused by each of these classes of agents differ, the mechanism of action underlying the potentiation of cytotoxic activity is likely to be class specific and dependent on the genetic and disease background [<xref rid="B22" ref-type="bibr">22</xref>,<xref rid="B23" ref-type="bibr">23</xref>]. The capability of PARP inhibitors to potentiate the clinical activity of DNA-damaging chemotherapy is being actively investigated in clinical trials in a number of different indications, including breast, ovarian, colorectal, sarcoma and lung cancers, with various concomitant DNA-damaging therapies.</p><sec id="S0001"><title>Veliparib</title><p>Veliparib (ABT-888) is an investigational, oral PARP inhibitor being evaluated in Phase I&#x02013;III clinical trials, including Phase III studies in non-small-cell lung cancer (NSCLC), ovarian cancer and breast cancer. Veliparib is orally bioavailable and readily crosses the blood&#x02013;brain barrier. As a single agent, veliparib significantly diminishes PAR levels in tumor biopsies following a single dose of 25 mg or greater, and demonstrates good bioavailability at these doses [<xref rid="B24" ref-type="bibr">24</xref>]. A Phase I study of single-agent veliparib in patients with either <italic>BRCA1</italic>/<italic>2</italic>-mutated cancer, platinum-refractory ovarian cancer or basal-like breast cancer (<italic>BRCA</italic>-wild-type) reported by Puhalla <italic>et al</italic>. [<xref rid="B25" ref-type="bibr">25</xref>] defined the recommended Phase II dose (RP2D) as 400 mg twice daily (b.i.d.). Veliparib was well tolerated and demonstrated antitumor activity in <italic>BRCA</italic>-mutated and <italic>BRCA</italic>-wild-type tumors at the RP2D, with an overall response rate (ORR) and clinical benefit rate (CBR) in <italic>BRCA</italic>-mutated tumors of 40 and 68%, respectively [<xref rid="B25" ref-type="bibr">25</xref>]. Further evidence of veliparib's activity was observed in a Phase II study in persistent or recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer in patients with a germline <italic>BRCA1</italic> or <italic>BRCA2</italic> mutation, as illustrated by an ORR of 26% (20% for platinum-resistant and 35% for platinum-sensitive patients) [<xref rid="B26" ref-type="bibr">26</xref>]. In this Phase II study, common toxicities (&#x0003e;10%) included nausea, fatigue, vomiting and anemia.</p><p>Veliparib potentiates the antitumor activity of temozolomide (TMZ) and platinum-based chemotherapy in syngeneic and xenograft tumor models [<xref rid="B20" ref-type="bibr">20</xref>]. Veliparib strongly potentiates TMZ [<xref rid="B20" ref-type="bibr">20</xref>] in preclinical models that are sensitive or insensitive to TMZ monotherapy [<xref rid="B27" ref-type="bibr">27</xref>]. With respect to platinum agents, a previous study demonstrated mild <italic>in vivo</italic> potentiation of cisplatin with the PARP inhibitor CEP-6800 in a NSCLC xenograft model [<xref rid="B28" ref-type="bibr">28</xref>]. Consistent with these results, Donawho <italic>et al</italic>. demonstrated enhanced activity of cisplatin and carboplatin with veliparib in multiple models, including robust potentiation of these agents in breast xenograft models with <italic>BRCA</italic> loss of function [<xref rid="B20" ref-type="bibr">20</xref>]. In a separate study, veliparib also potentiated the efficacy of carboplatin or cisplatin in an small-cell lung cancer xenograft model [<xref rid="B23" ref-type="bibr">23</xref>]..</p><p>Following observation of activity in preclinical studies, Phase I and II trials evaluated veliparib in combination with platinum therapies, alkylating agents and topoisomerase inhibitors. In a dose&#x02013;escalation study of veliparib plus carboplatin/paclitaxel (3-weekly dosing) in patients with multiple tumor types, promising antitumor activity was observed at the maximally administered oral doses, veliparib 120 mg b.i.d., paclitaxel 200 mg/m<sup>2</sup> and carboplatin AUC 6 (breast cancer [n = 14]: three complete responses [CR], five partial responses [PR], ORR: 57%; lung cancer [n = 16]: one CR, five PR, ORR: 37.5%) [<xref rid="B29" ref-type="bibr">29</xref>]. The combination of veliparib plus carboplatin/paclitaxel was evaluated in a Phase II randomized, placebo-controlled study in NSCLC. Patients received placebo/veliparib 120 mg b.i.d. on days 1&#x02013;7 plus carboplatin AUC 6 and paclitaxel 200 mg/m<sup>2</sup> on day 3 of a 21-day cycle. The addition of veliparib resulted in improvements in progression-free survival (PFS) and overall survival (OS). Among all subjects (n = 53, placebo; n = 105, veliparib), median PFS was 4.2 months (95% CI: 3.1&#x02013;5.6) and 5.8 months (95% CI: 4.2&#x02013;6.1) for placebo and veliparib, respectively (hazard ratio [HR]: 0.74 (0.46&#x02013;1.17); median OS was 9.1 months (95% CI: 5.4&#x02013;12.3) and 11.7 months (8.8&#x02013;13.7) for placebo and veliparib (HR: 0.80 [0.54&#x02013;1.18]). Subgroup analyses suggested greater benefit from adding veliparib in patients with squamous cell histology. Among patients with squamous cell histology, median PFS was 4.1 months (95% CI: 2.8, not available) and 6.1 months (95% CI: 5.8&#x02013;8.3) with placebo and veliparib, respectively (HR: 0.5 [95% CI: 0.24&#x02013;1.04]); median OS was 8.4 months (95% CI: 5.0&#x02013;12.9) and 10.3 months (95% CI: 8.3&#x02013;13.2) with placebo and veliparib (HR: 0.71 [95% CI: 0.41&#x02013;1.23]). Subgroup analyses also suggested a greater benefit of adding veliparib in smokers [<xref rid="B30" ref-type="bibr">30</xref>]. The tolerability profile of veliparib with carboplatin and paclitaxel was similar to that of carboplatin and paclitaxel alone. Of the treatment-emergent adverse events, neutropenia was slightly higher in the veliparib combination arm: 36 versus 29%, as was leukopenia: 11 versus 1%. No difference was observed in the incidence of grade 3/4 adverse events, including anemia, neutropenia and thrombocytopenia [<xref rid="B31" ref-type="bibr">31</xref>,<xref rid="B32" ref-type="bibr">32</xref>].</p><p>A study of veliparib in combination with carboplatin in 28 patients (26 eligible) with <italic>BRCA</italic>-associated breast cancer established a maximum tolerated dose (MTD) of 150 mg veliparib and carboplatin AUC 5; the CBR was 71% and RR 57% in all enrolled patients [<xref rid="B33" ref-type="bibr">33</xref>]. Additional Phase I data in patients with breast cancer demonstrated promising antitumor activity with weekly dosing of carboplatin/paclitaxel in combination with veliparib [<xref rid="B34" ref-type="bibr">34</xref>]; the RP2D of veliparib was established as 150 mg b.i.d., with dose-limiting toxicities occurring at 150 mg b.i.d. (prolonged grade 2 thrombocytopenia) and 200 mg b.i.d. (grade 4 neutropenia). In another Phase I study, veliparib was active in patients with metastatic breast cancer, with the RP2D established as 250 mg b.i.d. veliparib and carboplatin AUC 5. Thrombocytopenia was the main toxicity observed [<xref rid="B35" ref-type="bibr">35</xref>]. In the I-SPY 2 adaptive Phase II trial, the addition of veliparib and carboplatin to paclitaxel followed by doxorubicin/cyclophosphamide as neoadjuvant therapy resulted in an increase in the estimated pathologic CR from 26 to 51% in triple-negative breast cancer patients [<xref rid="B36" ref-type="bibr">36</xref>]. This is currently under investigation in the Brightness study, a Phase III neoadjuvant trial comparing paclitaxel alone, with carboplatin, or with carboplatin and veliparib, followed by standard therapy with doxorubicin/cyclophosphamide (NCT02032277). These data, along with data from a Gynecologic Oncology Group study with veliparib in combination with carboplatin/paclitaxel/bevacizumab or paclitaxel/cisplatin/bevacizumab [<xref rid="B37" ref-type="bibr">37</xref>] support the tolerability and preliminary efficacy of the combination of veliparib and platinum-based chemotherapy in <italic>BRCA</italic> mutation carriers and in breast cancer.</p><p>A dose-escalation Phase I study of veliparib b.i.d. on days 1&#x02013;7 with TMZ 150&#x02013;200 mg/m<sup>2</sup> once daily (q.d.) on days 1&#x02013;5 defined the MTD of veliparib as 40 mg b.i.d. A Phase II trial with veliparib and TMZ in patients with metastatic breast cancer demonstrated responses in the subset of patients with a <italic>BRCA1</italic> or <italic>BRCA2</italic> mutation: total RR 25% (7/28) and CBR 50% (seven PR, seven stable disease [SD]) [<xref rid="B38" ref-type="bibr">38</xref>,<xref rid="B39" ref-type="bibr">39</xref>]. Single-agent TMZ is believed to have little activity in breast cancer [<xref rid="B40" ref-type="bibr">40</xref>]. However, combination therapy with veliparib and TMZ was deemed a promising new strategy and worthy of investigation in <italic>BRCA</italic>-associated metastatic breast cancer.</p><p>In addition to potentiating the cytotoxic effects of multiple DNA-damaging agents, preclinical data suggest that PARP inhibitors may provide neuroprotection. Chemotherapy-induced peripheral neuropathy (CIPN) is a major toxicity of chemotherapy for which there is no approved therapy and which remains the dose-limiting toxicity for many chemotherapeutic agents [<xref rid="B41" ref-type="bibr">41</xref>]. In a diabetic rat model, treatment with PARP inhibitor attenuated pain-like behaviors, although the exact mechanism remains unknown [<xref rid="B42" ref-type="bibr">42</xref>]. Furthermore, veliparib has been shown to reduce painful neuropathy in vincristine-treated rats [<xref rid="B43" ref-type="bibr">43</xref>]. These data indicate that the therapeutic benefit of veliparib for platinum-induced neuropathy in humans should be further explored.</p><p>Based on activity observed in Phase I and Phase II clinical trials, two regimens were selected for evaluation in the presented Phase II study (TMZ with veliparib and carboplatin/paclitaxel with veliparib). The study is partially blinded to evaluate the contribution of veliparib to the safety and efficacy of the backbone regimen of carboplatin/paclitaxel. Additionally, the design allows for comparison of veliparib plus TMZ, a regimen for which nonrandomized Phase II data indicate activity, to an active comparator regimen, as TMZ alone would not be a viable comparator.</p></sec><sec id="S0002"><title>Phase II trial</title><p>Herein we describe the design and rationale for the BROCADE study, a randomized Phase II, partially blinded, multinational, multicenter trial (EudraCT no. 2011-002913-12; NCT01506609) evaluating efficacy and tolerability of veliparib in combination with TMZ or in combination with carboplatin/paclitaxel compared with placebo plus carboplatin/paclitaxel in patients with a <italic>BRCA1</italic>/<italic>2</italic> deleterious mutation and locally recurrent or metastatic breast cancer. This study was approved by an Independent Ethics Committee/Independent Review Board before initiation and was performed in accordance with the 1964 Declaration of Helsinki and its later amendments. All patients provided written informed consent before their participation.</p></sec><sec id="S0003"><title>Objectives</title><p>The primary objective of this study is to determine whether veliparib in combination with TMZ or in combination with carboplatin/paclitaxel improves PFS compared with placebo plus carboplatin/paclitaxel. The secondary objectives include OS, CBR, ORR and CIPN (as assessed by the European Organization for Research and Treatment of Cancer [EORTC] Quality of Life Questionnaire [QLQ]-CIPN20 and National Cancer Institute Common Terminology Criteria for Adverse Events [CTCAE] 4.0 grading for peripheral neuropathy) is assessed in patients treated with veliparib plus carboplatin/paclitaxel, versus placebo plus carboplatin/paclitaxel. The tertiary objectives are to assess Eastern Cooperative Oncology Group (ECOG) performance status, quality of life and exploratory correlative endpoints.</p></sec><sec id="S0004"><title>Key eligibility criteria</title><p>Patients aged &#x02265;18 years with histologically or cytologically confirmed breast cancer that is either locally recurrent or metastatic, and a deleterious <italic>BRCA1 or BRCA2</italic> germline mutation are eligible. Patients may be enrolled on the basis of local or central results, but only patients with deleterious germline <italic>BRCA1</italic>/<italic>2</italic> mutations per the central laboratory are included in the primary analysis. Locally recurrent disease must not be amenable to surgical resection or radiation with curative intent. If patients are <italic>HER2+</italic>, they must have received, and progressed on, at least one prior standard <italic>HER2</italic>-directed therapy, or be ineligible to receive anti-<italic>HER2</italic> therapy. Patients may have measurable or nonmeasurable disease; however, it must be radiologically evaluable per Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1 on computed tomography scan or MRI with at least one lesion outside previously irradiated areas. In addition, eligible patients are required to have ECOG performance status of 0&#x02013;2, and adequate hematologic, renal and hepatic function. Patients meeting any of the following criteria are excluded: prior anticancer agent(s) or an investigational agent within 21 days of baseline (cycle 1, day 1 [C1D1]) or radiotherapy within 28 days prior to C1D1; more than two prior lines of cytotoxic chemotherapy for metastatic disease; prior treatment of breast cancer with TMZ, a platinum agent, or PARP inhibitor; prior taxane therapy administered for treatment of metastatic breast cancer (except patients who have undergone less than one cycle or experienced an interval of more than 1 year since treatment), and patients with history of brain metastases.</p></sec><sec id="S0005"><title>Study design &#x00026; methodology</title><p>Eligible patients are randomized in a 1:1:1 ratio to one of three treatment arms (veliparib plus TMZ, veliparib plus carboplatin/paclitaxel, placebo plus carboplatin/paclitaxel) according to the planned schedule (<xref ref-type="fig" rid="F0002">Figure 2</xref>). Patients randomized to the veliparib plus TMZ treatment arm self-administer veliparib 40 mg b.i.d. days 1&#x02013;7 plus TMZ 150&#x02013;200 mg/m<sup>2</sup> q.d. days 1&#x02013;5 in each 28-day cycle. For cycle 1, the TMZ dose starts at 150 mg/m<sup>2</sup> q.d. on days 1&#x02013;5. If, during the first cycle, platelets (nadir) are &#x0003e;100,000/&#x003bc;l and the absolute neutrophil count (nadir) is &#x0003e;1500/&#x003bc;l and no grade 3 or 4 CTCAE nonhematologic toxicities attributable to TMZ are observed, the TMZ dose is escalated to 200 mg/m<sup>2</sup> q.d. for cycle 2 (<xref ref-type="fig" rid="F0003">Figure 3</xref>). If the dose was not escalated at cycle 2, it is not escalated in future cycles. Study visits are conducted at day 1, day 15 and day 22 for the first two cycles and then day 1 of every 28-day cycle. Patients randomized to the veliparib or placebo plus carboplatin/paclitaxel treatment arms selfadminister veliparib 120 mg or placebo b.i.d. days 1&#x02013;7 plus carboplatin AUC 6 administered on day 3 and paclitaxel 175 mg/m<sup>2</sup> administered on day 3 of each 21-day cycle. Study visits are conducted at day 1, day 3 and day 17 of cycle 1, and day 1 and day 3 of every subsequent 21-day cycle. Patient randomization will be stratified by estrogen and/or progesterone receptor (positive or negative), prior cytotoxic therapy (yes or no), and ECOG status (0&#x02013;1 or 2). Patients continue dosing until defined discontinuation criteria are met, at which time a final visit is conducted. All patients receive a follow-up visit approximately 30 days after the last dose of study treatment. Patients with controlled disease (CR, PR or SD) per RECIST 1.1 and with tolerable side effects may continue to receive treatment with veliparib plus TMZ until reaching a protocol-defined event of disease progression, experiencing unmanageable toxicity or reaching a maximum 24 cycles of veliparib plus TMZ. Patients in the veliparib or placebo plus carboplatin/paclitaxel arm with controlled disease and tolerable side effects may continue to receive treatment until reaching a protocol-defined event of disease progression or experiencing unmanageable toxicity. If both carboplatin/paclitaxel have been discontinued due to toxicity, veliparib will also be discontinued.</p><fig fig-type="figure" id="F0002" position="float"><label><bold>Figure 2.</bold>&#x02002;</label><caption><title>
+<bold>Study design scheme.</bold>
+</title><p>*A follow-up visit does not need to be conducted if the final visit is &#x02265;30 days after last dose of study drug. Follow-up for survival continues until death or 3 years.</p><p>AUC: Area under the curve; b.i.d.: Twice daily; ECOG: Eastern Cooperative Oncology Group; ER: Estrogen receptor; PgR: Progesterone receptor; q.d.: Once daily; TMZ: Temozolomide.</p></caption><graphic xlink:href="fon-13-307-g2"/></fig><fig fig-type="figure" id="F0003" position="float"><label><bold>Figure 3.</bold>&#x02002;</label><caption><title>
+<bold>Temozolomide dosing modification following cycle 1.</bold>
+</title><p>ANC: Absolute neutrophil count; CTCAE: Common Terminology Criteria for Adverse Event; Gr: Grade; TMZ: Temozolomide.</p></caption><graphic xlink:href="fon-13-307-g3"/></fig></sec><sec id="S0006"><title>Efficacy evaluations</title><p>PFS is assessed using modified RECIST 1.1 at 9-week intervals. In addition to being reviewed by the investigator and/or participating center staff, radiographic scans will be sent to a central imaging center (CIC) where events of disease progression will be determined. Only patients with deleterious mutations will be used in the primary and secondary efficacy analyses. Posttreatment and survival information will be collected at monthly intervals beginning on the date the patient is registered off study and for up to 3 years until the endpoint of death, the patient is lost to follow-up, or the study is terminated. CBR and ORR are assessed using RECIST 1.1. QOL data will be collected predose on C1D1, day 1 of cycle 2 and every other cycle thereafter, beginning with cycle 4, final visit and at the follow-up visit, via the EORTC QLQ C-15/BR23 scale. In addition, patients randomized to veliparib or placebo plus carboplatin/paclitaxel will complete the EORTC QLQ-CIPN20 scale.</p></sec><sec id="S0007"><title>Pharmacokinetic evaluations</title><p>Pharmacokinetic (PK) data are analyzed from blood samples collected at 0.5, 1, 2 and 3 h after receiving the veliparib dose. Paclitaxel pharmacokinetic sampling is carried out 2 h 55 min after start of the infusion, and free platinum (for carboplatin) sampling at 25 min after start of the infusion.</p></sec><sec id="S0008"><title>Pharmacodynamics evaluations</title><p>Pharmacodynamics data are analyzed from blood samples collected predose and at each scheduled visit (C1D1, C2D1, D1 of every tenth cycle, and at final visit). Pharmacodynamics correlative studies are exploratory in nature. Putative biomarkers of efficacy and response may be evaluated with the goal of defining the relationship between drug concentration, PARP inhibition and disease status.</p></sec><sec id="S0009"><title>Safety evaluations</title><p>The safety of each treatment group is assessed by evaluating study drug exposure, adverse events, serious adverse events, all deaths, changes in laboratory determinations and vital signs parameters. Patients who are randomized but did not receive study drug are not included in the safety analyses.</p></sec><sec id="S0010"><title>Sample size</title><p>The study described herein will enroll 290 patients to accrue sufficient PFS and OS events to provide 80% power at two-sided &#x003b1; = 0.05 (74% at two-sided &#x003b1; = 0.025 for two-arm comparison) to detect a statistically significant difference between veliparib plus carboplatin/paclitaxel and placebo plus carboplatin/paclitaxel or between veliparib plus TMZ and placebo plus carboplatin/paclitaxel, assuming a true HR for PFS of 0.58 and 0.61 for OS (favoring the experimental treatment groups).</p></sec><sec id="S0011"><title>Statistical analysis methods</title><p>All statistical analyses are determined by a two-sided p &#x02264; 0.05, unless otherwise noted. PFS is defined as number of days from the date the patient is randomized to the date the patient experiences an event of disease progression confirmed by the CIC, or to the date of death (all causes of mortality) if disease progression is not reached. Events of death will be included for patients who had not experienced a confirmed event of disease progression, provided the death occurred within 9 weeks of the last available disease progression assessment. Patient data will be censored at the date of last available disease progression assessment if the patient does not have a confirmed event of disease progression and the patient has not died as defined above. OS is defined as number of days from the day the patient is randomized to the date of the patient's death. All events of death will be included, regardless of whether the event occurs while the patient is still taking study drug, or after discontinuation. Data will be censored at the date when the patient is last known to be alive if the patient has not died. CBR at week 18 is defined as progression-free rate at 18 weeks from the Kaplan&#x02013;Meier curve for time to progression (date of randomization to date of disease progression as determined by the CIC). All intention-to-treat patients will be included in the analysis. ORR is defined as proportion of patients with confirmed CR or PR per RECIST 1.1 in patients with measurable disease as determined by the CIC. All patients who had at least one measurable lesion at baseline are included in the calculation. CIPN is assessed by EORTC QLQ CIPN20 questionnaire and National Cancer Institute CTCAE 4.0 grading for peripheral neuropathy.</p></sec><sec id="S0012"><title>Interim analysis</title><p>An independent data monitoring committee reviewed unblinded safety data when approximately 36 enrolled patients met at least one of the following criteria: received two cycles of treatment, reached an event of disease progression, or discontinued the study due to toxicity/adverse events. Subsequent reviews occurred as requested by the committee. In addition, a futility analysis of veliparib with TMZ was conducted and reviewed after the week 27 tumor assessment of the first 30 patients randomized to the veliparib plus TMZ arm.</p></sec><sec sec-type="discussion" id="S0013"><title>Discussion</title><p>PARP inhibitors constitute a promising new class of targeted therapy and are actively being investigated in a number of different indications, either as single agents or in combination with various DNA-damaging therapies. The present three-arm study comparing veliparib with carboplatin/paclitaxel, placebo with carboplatin/paclitaxel and veliparib with TMZ, in locally advanced or metastatic breast cancer with deleterious <italic>BRCA1</italic> or <italic>BRCA2</italic> mutation, is based on robust preclinical data and multiple early stage clinical trials suggesting that addition of veliparib to regimens containing a platinum agent or TMZ has the potential to improve response rates compared with chemotherapy alone. Other PARP inhibitors are actively being developed as monotherapies in this indication.</p><p>Emerging evidence suggests PARP inhibitors may employ different mechanisms depending on the regimen (i.e., monotherapy vs TMZ vs platinum). Until recently, PARP inhibitor cytotoxicity in the context of impaired homologous recombination, or in combination with monofunctional alkylating agents such as TMZ or methyl methanesulfonate, was attributed to inhibition of SSBR with the resulting accumulation of SSBs and DSBs causing replication fork collapse [<xref rid="B27" ref-type="bibr">27</xref>,<xref rid="B44" ref-type="bibr">44&#x02013;46</xref>]. However, an additional mechanism of action of PARP inhibitors, so-called PARP trapping, has recently been described [<xref rid="B47" ref-type="bibr">47</xref>], whereby PARP inhibitors act as DNA poisons by trapping PARP on damaged DNA, resulting in cytotoxic PARP&#x02013;DNA complexes. Many cellular responses are susceptible to suppression of ADP-ribosylation through PARP depletion or catalytic inhibition, whereas direct cytotoxicity via PARP trapping appears to drive both toxicity and efficacy in specific contexts, such as those where PARP inhibitors are active as monotherapy or in combination with TMZ.</p><p>In contrast, PARP trapping has remained undetectable in cells treated with platinum agents despite extensive research [<xref rid="B23" ref-type="bibr">23</xref>,<xref rid="B48" ref-type="bibr">48</xref>]. Based on <italic>in vitro</italic> evidence, it has been suggested that PARP inhibitors do not substantially enhance the activity of platinum drugs [<xref rid="B48" ref-type="bibr">48</xref>]; however, recent evidence from xenograft models <italic>in vivo</italic> and in 3D spheroids <italic>in vitro</italic> clearly demonstrates that veliparib potentiates the activity of cisplatin and carboplatin [<xref rid="B20" ref-type="bibr">20</xref>,<xref rid="B23" ref-type="bibr">23</xref>]. Consistent with the lack of detectable trapping in cisplatin-treated cells, this activity is evident at veliparib exposures sufficient for catalytic inhibition but insufficient for trapping [<xref rid="B23" ref-type="bibr">23</xref>]. These results suggest that PARP trapping does not play a role in the potentiation of platinum drug activity by PARP inhibitors, and highlights the context-specific nature of the trapping mechanism.</p><p>Another important discovery related to PARP trapping is that different PARP inhibitors display varying degrees of trapping efficiency [<xref rid="B23" ref-type="bibr">23</xref>,<xref rid="B47" ref-type="bibr">47</xref>]. All nicotinamide adenine dinucleotide-competitive PARP inhibitors are capable of both catalytic inhibition and PARP trapping. However, lower efficiency trapping agents, such as veliparib, display trapping activity only at exposures substantially higher than those required for catalytic inhibition, while higher efficiency trapping agents such as talazoparib trap PARP at concentrations similar to those required for catalytic inhibition. To explain this phenomenon, an allosteric mechanism of trapping PARP1 at DNA SSBs was proposed [<xref rid="B47" ref-type="bibr">47</xref>,<xref rid="B49" ref-type="bibr">49</xref>]. However, this allosteric trapping mechanism has been refuted by research performed by Hopkins <italic>et al</italic>. [<xref rid="B50" ref-type="bibr">50</xref>,<xref rid="B51" ref-type="bibr">51</xref>], who demonstrated that PARP1 trapping in cells is due to inhibition of PAR synthesis, in accordance with the seminal findings of Satoh and Lindahl [<xref rid="B52" ref-type="bibr">52</xref>]. Despite extensive efforts in multiple systems, the authors detected no evidence of an allosteric mechanism. The underlying cause for the substantial variation in trapping efficiency among PARP inhibitors remains to be elucidated.</p><p>Categorizing PARP inhibitors according to PARP trapping potency has been proposed [<xref rid="B48" ref-type="bibr">48</xref>], on the basis that this broad variance in trapping efficiency is likely to affect the suitability of a PARP inhibitor for a specific regimen. Based on <italic>in vitro</italic> evidence, it has been suggested that high-efficiency trapping agents are preferable to veliparib in combination with TMZ and other alkylating agents [<xref rid="B48" ref-type="bibr">48</xref>,<xref rid="B49" ref-type="bibr">49</xref>]. However, more-recent evidence suggests the toxicity associated with PARP trapping is dose limiting in preclinical <italic>in vivo</italic> models [<xref rid="B51" ref-type="bibr">51</xref>]. As a result, more-potent trapping is not associated with superior efficacy when PARP inhibitors are combined with TMZ at MTDs [<xref rid="B50" ref-type="bibr">50</xref>]. In support of this lack of association, veliparib strongly potentiated TMZ in a murine melanoma model, with maximal efficacy achieved at a dose as low as 25 mg/kg/day [<xref rid="B20" ref-type="bibr">20</xref>].</p><p>The impact of trapping efficiency on the clinical activity of different PARP inhibitors remains an area of ongoing investigation. While there is currently no direct evidence of PARP trapping in patients treated with PARP inhibitors, there is considerable correlative evidence that the PARP trapping mechanism is clinically relevant. First, trapping is detectable <italic>in vitro</italic> at concentrations consistent with clinical exposures [<xref rid="B47" ref-type="bibr">47</xref>]. In addition, PARP trapping activity has been associated with greater cytotoxicity toward myeloid and erythroid progenitors [<xref rid="B23" ref-type="bibr">23</xref>], suggesting that trapping may contribute to the anemia and myelosuppression observed in some patients treated with PARP inhibitors. Consistent with this, the combination of PARP inhibitors with TMZ in the clinic has required substantial reductions in the dose of PARP inhibitor relative to the monotherapy RP2D, in large part because of exacerbation of neutropenia and thrombocytopenia typically associated with TMZ [<xref rid="B38" ref-type="bibr">38</xref>,<xref rid="B53" ref-type="bibr">53</xref>]. This effect appears to be less pronounced in contexts where trapping may be less relevant, such as regimens containing platinum agents. Indeed, in the present study the veliparib RP2D employed in the carboplatin/paclitaxel arm (120 mg b.i.d.) is substantially greater than that in the TMZ arm (40 mg b.i.d.). In the monotherapy setting, clinical plasma exposures at the RP2D of different PARP inhibitors are more strongly correlated with trapping efficiency than catalytic inhibition potency. These observations suggest that toxicity associated with PARP trapping may be dose limiting. Additional clinical data are needed to assess whether there is a correlation between trapping efficiency and clinical activity of monotherapy PARP inhibition in homologous recombination-deficient tumors.</p><p>Overall, these observations suggest that catalytic inhibition and PARP trapping may act differentially to impact efficacy and toxicity, depending on the specific therapeutic combination. A PARP inhibitor such as veliparib, with a dose/concentration window that allows for robust catalytic inhibition at doses that do not engage significant trapping activity, may provide for enhanced combination utility and an improved therapeutic window in combination regimens (e.g., with platinum agents) where a trapping mechanism of action is not required [<xref rid="B22" ref-type="bibr">22&#x02013;23</xref>,<xref rid="B54" ref-type="bibr">54&#x02013;55</xref>].</p><p>Improving our understanding of the mechanisms of resistance to PARP inhibitors is also a crucial area of research. Single-agent studies of veliparib in <italic>BRCA</italic>-mutated breast cancer demonstrate a 40&#x02013;60% ORR at the RP2D, which suggests substantial primary resistance, even in this population of patients sensitive to PARP inhibition [<xref rid="B25" ref-type="bibr">25</xref>,<xref rid="B56" ref-type="bibr">56</xref>]. Furthermore, a substantial proportion of cancers develop resistance to treatment following an initial response. Preclinical data suggest that resistance to PARP inhibition can be created in cell lines through constant high-level exposure to PARP inhibitors and the development of PARP inhibitor-resistant clones [<xref rid="B57" ref-type="bibr">57</xref>]. Resistance also appears to be context dependent. Clinical trial data in ovarian cancer suggest that resistance to platinum agents also decreases sensitivity to PARP inhibition [<xref rid="B58" ref-type="bibr">58</xref>]. This cross-resistance between PARP inhibitor and platinum therapy can partly be attributed to genetic reversion that corrects, or bypasses, the original <italic>BRCA1</italic>-inactivating mutation [<xref rid="B59" ref-type="bibr">59</xref>]. A recent study also demonstrated <italic>BRCA2</italic> secondary mutations in PARP inhibitor-resistant tumor cells that restored <italic>BRCA2</italic> function, thereby conferring resistance [<xref rid="B60" ref-type="bibr">60</xref>].</p><p>In conclusion, the BROCADE trial described will investigate the efficacy and tolerability of veliparib with TMZ, an all-oral regimen or veliparib with carboplatin/paclitaxel compared with placebo with carboplatin/paclitaxel in patients with <italic>BRCA1</italic>/<italic>2</italic> mutation and metastatic breast cancer. The results of this trial will provide valuable clinical data in the quest to realize the full potential of PARP inhibitors, with the objective of ultimately improving clinical outcomes.</p><boxed-text id="BB1" position="float"><caption><title>EXECUTIVE SUMMARY</title></caption><sec id="S0014" sec-type="intro"><title>
+<bold>Background</bold>
+</title><list list-type="bullet"><list-item><p>PARP inhibitors block DNA damage repair and may thereby enhance the clinical activity of DNA-damaging chemotherapy.</p></list-item><list-item><p>Deleterious mutation in <italic>BRCA1</italic> or <italic>BRCA2</italic> impairs homologous recombination DNA repair, rendering cancers with such mutations uniquely sensitive to platinum and PARP inhibitor therapy.</p></list-item><list-item><p>PARP inhibitors are being investigated in numerous clinical trials across several indications, including <italic>BRCA1</italic>/<italic>2</italic>-mutated breast cancer.</p></list-item></list></sec><sec id="S0015"><title>
+<bold>Veliparib</bold>
+</title><list list-type="bullet"><list-item><p>Veliparib is an orally available PARP inhibitor that potentiates the antitumor activity of DNA-damaging therapies, including temozolomide (TMZ) and platinum agents, in preclinical models.</p></list-item><list-item><p>Based on the results of early phase clinical trials, TMZ with veliparib and carboplatin/paclitaxel with veliparib were selected as regimens for evaluation in this Phase II study.</p></list-item></list></sec><sec id="S0016"><title>
+<bold>Phase II trial</bold>
+</title><list list-type="bullet"><list-item><p>The primary objective of this study is to determine whether veliparib, in combination with TMZ or with carboplatin/paclitaxel, improves progression-free survival relative to placebo plus carboplatin/paclitaxel.</p></list-item><list-item><p>The secondary objectives include overall survival, clinical benefit rate and overall response rate.</p></list-item></list></sec><sec id="S0017"><title>
+<bold>Key eligibility criteria</bold>
+</title><list list-type="bullet"><list-item><p>Patients with histologically confirmed locally recurrent or metastatic breast cancer harboring a deleterious <italic>BRCA1</italic> or <italic>BRCA2</italic> germline mutation.</p></list-item><list-item><p>No prior treatment of breast cancer with TMZ, platinum or PARP inhibitor therapy.</p></list-item><list-item><p>No more than two lines of chemotherapy for advanced breast cancer.</p></list-item><list-item><p>No CNS metastases.</p></list-item></list></sec><sec id="S0018"><title>
+<bold>Study design &#x00026; methodology</bold>
+</title><list list-type="bullet"><list-item><p>Eligible patients are randomized 1:1:1 to veliparib plus TMZ, veliparib plus carboplatin/paclitaxel or placebo plus carboplatin/paclitaxel.</p></list-item></list></sec><sec id="S0019"><title>
+<bold>Efficacy, pharmacokinetic &#x00026; safety evaluations</bold>
+</title><list list-type="bullet"><list-item><p>For progression-free survival, clinical benefit rate and overall response rate, tumors are assessed using Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1 at 9-week intervals.</p></list-item><list-item><p>Pharmacokinetic data are analyzed from blood samples collected at defined time points after dosing.</p></list-item><list-item><p>Safety is assessed by evaluating study drug exposure, adverse events, serious adverse events, deaths, changes in laboratory values and vital sign parameters.</p></list-item></list></sec><sec id="S0020" sec-type="discussion"><title>
+<bold>Discussion</bold>
+</title><list list-type="bullet"><list-item><p>The clinical efficacy of PARP inhibitors, as single agents and in combination with DNA-damaging therapies, is being investigated in clinical trials.</p></list-item><list-item><p>The mechanism of action responsible for PARP inhibitor antitumor activity is likely to be context dependent, and includes both the potentiation of DNA damage following inhibition of poly(ADP-ribose) synthesis (catalytic inhibition) and the direct cytotoxicity of PARP inhibitor-induced PARP&#x02013;DNA complexes (PARP trapping).</p></list-item><list-item><p>Various PARP inhibitor resistance mechanisms, some common to platinum resistance, are indicated by preclinical and clinical studies.</p></list-item><list-item><p>The results of this trial will provide valuable clinical data on the effectiveness of the PARP inhibitor veliparib in <italic>BRCA1</italic>- or <italic>BRCA2</italic>-mutated breast cancer in combination with DNA-damaging therapies.</p></list-item></list></sec></boxed-text></sec></body><back><fn-group><fn fn-type="COI-statement"><p>
+<bold>Financial &#x00026; competing interests disclosure</bold>
+</p><p>
+<italic>SJ Isakoff: Consultant &#x02013; AbbVie, Myriad; Research support &#x02013; Genentech, Pharmamar, AbbVie. S Puhalla: Consultant &#x02013; AbbVie, Celldex, Pfizer; Research funding to institution, AbbVie, Covance-Bayer, Lilly, Incyte, Novartis, Pfizer, Genentech, AstraZeneca, BioMarin, Puma. S Domchek: Consulting, EMD Serono, AbbVie; Research support (institution) &#x02013; AbbVie, Clovis, AstraZeneca, Pharmamar. M Friedlander: Advisory boards and honoraria &#x02013; AstraZeneca, Roche and Pfizer. B Kaufman: Nothing to report. M Robson: Consulting &#x02013; AstraZeneca; Research support (institution) &#x02013; AbbVie, BioMarin, Medivation, AstraZeneca, Myriad. M Telli: Research funding (institution) &#x02013; AbbVie, BioMarin, Medivation, Pharmamar; Consultant &#x02013; AstraZeneca. V Di&#x000e9;ras: Honoraria &#x02013; AB Roche Genentech, Novartis, Pfizer, AbbVie; Symposia &#x02013; Roche Genentech, Novartis, Pfizer. HS Han: Research support (institution) &#x02013; AbbVie, Corcept, Incyte, Karyopharm, Merrimack, Prescient, TapImmune. JE Garber: Consulting or Advisory Role &#x02013; Biogen, GTx Pharmaceuticals (spouse), Helix, Novartis (spouse), Pfizer (spouse), Pfizer, Sequenom, SV Life Sciences (spouse); Research Funding &#x02013; Myriad Genetics, Novartis (spouse), Pfizer (spouse), Ambry Genetics. E Johnson, D Maag, Q Qin, VL Giranda, SP Shepherd: AbbVie employees and stock owners. AbbVie Inc. provided financial support for this study and participated in the design, study conduct, analysis and interpretation of the data, as well as the writing, review and approval of this manuscript. The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed.</italic>
+</p><p>
+<italic>Medical writing support was provided by D Eickermann, PhD, TRM Oncology, Atlanta, GA, funded by AbbVie Inc.</italic>
+</p></fn><fn><p>
+<bold>Open access</bold>
+</p><p>This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 Unported License. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>
+</p></fn></fn-group><ref-list><title>References</title><p>Papers of special note have been highlighted as: &#x02022; of interest; &#x02022;&#x02022; of considerable interest</p><ref id="B1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Campeau</surname><given-names>PM</given-names></name><name><surname>Foulkes</surname><given-names>WD</given-names></name><name><surname>Tischkowitz</surname><given-names>MD</given-names></name></person-group>
+<article-title>Hereditary breast cancer: new genetic developments, new therapeutic avenues</article-title>
+<source><italic>Hum. Genet.</italic></source>
+<volume>124</volume>
+<issue>1</issue>
+<fpage>31</fpage>
+<lpage>42</lpage>
+<year>2008</year>
+<pub-id pub-id-type="pmid">18575892</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Balma&#x000f1;a</surname><given-names>J</given-names></name><name><surname>D&#x000ed;ez</surname><given-names>O</given-names></name><name><surname>Rubio</surname><given-names>IT</given-names></name><name><surname>Cardoso</surname><given-names>F</given-names></name></person-group>
+<article-title>ESMO Guidelines Working Group. <italic>BRCA</italic> in breast cancer: ESMO Clinical Practice Guidelines</article-title>
+<source><italic>Ann. Oncol.</italic></source>
+<volume>22</volume>
+<issue>Suppl. 6</issue>
+<fpage>vi31</fpage>
+<lpage>vi34</lpage>
+<year>2011</year>
+<pub-id pub-id-type="pmid">21908500</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>S</given-names></name><name><surname>Parmigiani</surname><given-names>G</given-names></name></person-group>
+<article-title>Meta-analysis of <italic>BRCA1</italic> and <italic>BRCA2</italic> penetrance</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>25</volume>
+<issue>11</issue>
+<fpage>1329</fpage>
+<lpage>1333</lpage>
+<year>2007</year>
+<pub-id pub-id-type="pmid">17416853</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Byrski</surname><given-names>T</given-names></name><name><surname>Dent</surname><given-names>R</given-names></name><name><surname>Blecharz</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title>Results of a Phase II open-label, non-randomized trial of cisplatin chemotherapy in patients with BRCA1-positive metastatic breast cancer</article-title>
+<source><italic>Breast Cancer Res.</italic></source>
+<volume>14</volume>
+<issue>4</issue>
+<fpage>R110</fpage>
+<year>2012</year>
+<pub-id pub-id-type="pmid">22817698</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Tutt</surname><given-names>A</given-names></name><name><surname>Ellis</surname><given-names>P</given-names></name><name><surname>Kilburn</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>The TNT trial: a randomized Phase III trial of carboplatin (C) compared with docetaxel (D) for patients with metastatic or recurrent locally advanced triple negative or <italic>BRCA1</italic>/<italic>2</italic> breast cancer (CRUK/07/012)</article-title>
+<comment>Presented at</comment>
+<source><italic>37th Annual San Antonio Breast Cancer Symposium</italic></source>
+<publisher-loc>San Antonio, TX, USA</publisher-loc>
+<year>9&#x02013;13 December 2014</year>
+</element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Isakoff</surname><given-names>SJ</given-names></name><name><surname>Mayer</surname><given-names>EL</given-names></name><name><surname>He</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>TBCRC009: a multicenter Phase II clinical trial of platinum monotherapy with biomarker assessment in metastatic triple-negative breast cancer</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>33</volume>
+<issue>17</issue>
+<fpage>1902</fpage>
+<lpage>1909</lpage>
+<year>2015</year>
+<pub-id pub-id-type="pmid">25847936</pub-id></element-citation><note><p>&#x02022; Reports the results of a single-arm Phase II clinical trial of single-agent platinum for metastatic triple-negative breast cancer with biomarker correlates. It was concluded that platinum agents are active in metastatic triple-negative breast cancer, especially in patients with germline <italic>BRCA1</italic>/<italic>2</italic> mutations.</p></note></ref><ref id="B7"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cardoso</surname><given-names>F</given-names></name><name><surname>Costa</surname><given-names>A</given-names></name><name><surname>Norton</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>ESO-ESMO 2nd international consensus guidelines for advanced breast cancer (ABC2)</article-title>
+<source><italic>Breast</italic></source>
+<volume>23</volume>
+<issue>5</issue>
+<fpage>489</fpage>
+<lpage>502</lpage>
+<year>2014</year>
+<pub-id pub-id-type="pmid">25244983</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fong</surname><given-names>PC</given-names></name><name><surname>Boss</surname><given-names>DS</given-names></name><name><surname>Yap</surname><given-names>TA</given-names></name><etal/></person-group>
+<article-title>Inhibition of poly(ADP-ribose) polymerase in tumors from <italic>BRCA</italic> mutation carriers</article-title>
+<source><italic>N. Engl. J. Med.</italic></source>
+<volume>361</volume>
+<issue>2</issue>
+<fpage>123</fpage>
+<lpage>134</lpage>
+<year>2009</year>
+<pub-id pub-id-type="pmid">19553641</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaufman</surname><given-names>B</given-names></name><name><surname>Shapira-Frommer</surname><given-names>R</given-names></name><name><surname>Schmutzler</surname><given-names>RK</given-names></name><etal/></person-group>
+<article-title>Olaparib monotherapy in patients with advanced cancer and a germline <italic>BRCA1</italic>/<italic>2</italic> mutation</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>33</volume>
+<issue>3</issue>
+<fpage>244</fpage>
+<lpage>250</lpage>
+<year>2015</year>
+<pub-id pub-id-type="pmid">25366685</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ledermann</surname><given-names>J</given-names></name><name><surname>Harter</surname><given-names>P</given-names></name><name><surname>Gourley</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Olaparib maintenance therapy in platinum-sensitive relapsed ovarian cancer</article-title>
+<source><italic>N. Engl. J. Med.</italic></source>
+<volume>366</volume>
+<issue>15</issue>
+<fpage>1382</fpage>
+<lpage>1392</lpage>
+<year>2012</year>
+<pub-id pub-id-type="pmid">22452356</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ledermann</surname><given-names>J</given-names></name><name><surname>Harter</surname><given-names>P</given-names></name><name><surname>Gourley</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Olaparib maintenance therapy in patients with platinum-sensitive relapsed serous ovarian cancer: a preplanned retrospective analysis of outcomes by BRCA status in a randomised Phase II trial</article-title>
+<source><italic>Lancet Oncol.</italic></source>
+<volume>15</volume>
+<issue>8</issue>
+<fpage>852</fpage>
+<lpage>861</lpage>
+<year>2014</year>
+<pub-id pub-id-type="pmid">24882434</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Livraghi</surname><given-names>L</given-names></name><name><surname>Garber</surname><given-names>JE</given-names></name></person-group>
+<article-title>PARP inhibitors in the management of breast cancer: current data and future prospects</article-title>
+<source><italic>BMC Med.</italic></source>
+<volume>13</volume>
+<fpage>188</fpage>
+<year>2015</year>
+<pub-id pub-id-type="pmid">26268938</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Am&#x000e9;</surname><given-names>JC</given-names></name><name><surname>Spenlehauer</surname><given-names>C</given-names></name><name><surname>de Murcia</surname><given-names>G</given-names></name></person-group>
+<article-title>The PARP superfamily</article-title>
+<source><italic>Bioessays</italic></source>
+<volume>26</volume>
+<issue>8</issue>
+<fpage>882</fpage>
+<lpage>893</lpage>
+<year>2004</year>
+<pub-id pub-id-type="pmid">15273990</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beck</surname><given-names>C</given-names></name><name><surname>Robert</surname><given-names>I</given-names></name><name><surname>Reina-San-Martin</surname><given-names>B</given-names></name><name><surname>Schreiber</surname><given-names>V</given-names></name><name><surname>Dantzer</surname><given-names>F</given-names></name></person-group>
+<article-title>Poly(ADP-ribose) polymerases in double-strand break repair: focus on PARP1, PARP2 and PARP3</article-title>
+<source><italic>Exp. Cell Res.</italic></source>
+<volume>329</volume>
+<issue>1</issue>
+<fpage>18</fpage>
+<lpage>25</lpage>
+<year>2014</year>
+<pub-id pub-id-type="pmid">25017100</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Caldecott</surname><given-names>KW</given-names></name></person-group>
+<article-title>Protein ADP-ribosylation and the cellular response to DNA strand breaks</article-title>
+<source><italic>DNA Rep. (Amst.)</italic></source>
+<volume>19</volume>
+<fpage>108</fpage>
+<lpage>113</lpage>
+<year>2014</year>
+</element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Vos</surname><given-names>M</given-names></name><name><surname>Schreiber</surname><given-names>V</given-names></name><name><surname>Dantzer</surname><given-names>F</given-names></name></person-group>
+<article-title>The diverse roles and clinical relevance of PARPs in DNA damage repair: current state of the art</article-title>
+<source><italic>Biochem. Pharmacol.</italic></source>
+<volume>84</volume>
+<issue>2</issue>
+<fpage>137</fpage>
+<lpage>146</lpage>
+<year>2012</year>
+<pub-id pub-id-type="pmid">22469522</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barkauskaite</surname><given-names>E</given-names></name><name><surname>Jankevicius</surname><given-names>G</given-names></name><name><surname>Ladurner</surname><given-names>AG</given-names></name><name><surname>Ahel</surname><given-names>I</given-names></name><name><surname>Timinszky</surname><given-names>G</given-names></name></person-group>
+<article-title>The recognition and removal of cellular poly(ADP-ribose) signals</article-title>
+<source><italic>FEBS J.</italic></source>
+<volume>280</volume>
+<issue>15</issue>
+<fpage>3491</fpage>
+<lpage>3507</lpage>
+<year>2013</year>
+<pub-id pub-id-type="pmid">23711178</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karlberg</surname><given-names>T</given-names></name><name><surname>Langelier</surname><given-names>MF</given-names></name><name><surname>Pascal</surname><given-names>JM</given-names></name><name><surname>Sch&#x000fc;ler</surname><given-names>H</given-names></name></person-group>
+<article-title>Structural biology of the writers, readers, and erasers in mono- and poly(ADP-ribose) mediated signaling</article-title>
+<source><italic>Mol. Aspects Med.</italic></source>
+<volume>34</volume>
+<issue>6</issue>
+<fpage>1088</fpage>
+<lpage>1108</lpage>
+<year>2013</year>
+<pub-id pub-id-type="pmid">23458732</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dantzer</surname><given-names>F</given-names></name><name><surname>Am&#x000e9;</surname><given-names>JC</given-names></name><name><surname>Schreiber</surname><given-names>V</given-names></name><name><surname>Nakamura</surname><given-names>J</given-names></name><name><surname>M&#x000e9;nissier-de Murcia</surname><given-names>J</given-names></name><name><surname>de Murcia</surname><given-names>G</given-names></name></person-group>
+<article-title>Poly(ADP-ribose) polymerase-1 activation during DNA damage and repair</article-title>
+<source><italic>Methods Enzymol.</italic></source>
+<volume>409</volume>
+<fpage>493</fpage>
+<lpage>510</lpage>
+<year>2006</year>
+<pub-id pub-id-type="pmid">16793420</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Donawho</surname><given-names>CK</given-names></name><name><surname>Luo</surname><given-names>Y</given-names></name><name><surname>Luo</surname><given-names>Y</given-names></name><etal/></person-group>
+<article-title>ABT-888, an orally active poly(ADP-ribose) polymerase inhibitor that potentiates DNA-damaging agents in preclinical tumor models</article-title>
+<source><italic>Clin. Cancer Res.</italic></source>
+<volume>13</volume>
+<issue>9</issue>
+<fpage>2728</fpage>
+<lpage>2737</lpage>
+<year>2007</year>
+<pub-id pub-id-type="pmid">17473206</pub-id></element-citation><note><p>&#x02022;&#x02022; Provides <italic>in vitro</italic> and <italic>in vivo</italic> evidence demonstrating veliparib is a potent PARP inhibitor, has good oral bioavailability, can cross the blood&#x02013;brain barrier and potentiates temozolomide, platinums, cyclophosphamide and radiation in syngeneic and xenograft tumor models.</p></note></ref><ref id="B21"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Curtin</surname><given-names>NJ</given-names></name><name><surname>Szabo</surname><given-names>C</given-names></name></person-group>
+<article-title>Therapeutic applications of PARP inhibitors: anticancer therapy and beyond</article-title>
+<source><italic>Mol. Aspects Med.</italic></source>
+<volume>34</volume>
+<issue>6</issue>
+<fpage>1217</fpage>
+<lpage>1256</lpage>
+<year>2013</year>
+<pub-id pub-id-type="pmid">23370117</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Solomon</surname><given-names>L</given-names></name><name><surname>Hopkins</surname><given-names>T</given-names></name><name><surname>Shi</surname><given-names>Y</given-names></name><etal/></person-group>
+<article-title>Veliparib (ABT-888) potentiates the cytotoxic activity of DNA alkylating agents by trapping PARP onto damaged chromatin</article-title>
+<source><italic>Cancer Res.</italic></source>
+<volume>74</volume>
+<issue>Suppl. 19</issue>
+<comment>Abstract 2734</comment>
+<year>2014</year>
+</element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maag</surname><given-names>D</given-names></name><name><surname>Solomon</surname><given-names>L</given-names></name><name><surname>Hopkins</surname><given-names>T</given-names></name><etal/></person-group>
+<article-title>Rationale for the combination of veliparib with platinum-based chemotherapy</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>33</volume>
+<issue>Suppl.</issue>
+<comment>Abstract 2556</comment>
+<year>2015</year>
+</element-citation><note><p>&#x02022; The underlying mechanism of action by which veliparib, a PARP inhibitor, potentiates the activity of platinum agents <italic>in vitro</italic> and <italic>in vivo</italic> remains unclear. The results of the reported study suggest that PARP trapping is not required for the combination activity of PARP inhibitors and cisplatin.</p></note></ref><ref id="B24"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kummar</surname><given-names>S</given-names></name><name><surname>Kinders</surname><given-names>R</given-names></name><name><surname>Gutierrez</surname><given-names>ME</given-names></name><etal/></person-group>
+<article-title>Phase 0 clinical trial of the poly (ADP-ribose) polymerase inhibitor ABT-888 in patients with advanced malignancies</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>27</volume>
+<issue>16</issue>
+<fpage>2705</fpage>
+<lpage>2711</lpage>
+<year>2009</year>
+<pub-id pub-id-type="pmid">19364967</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Puhalla</surname><given-names>S</given-names></name><name><surname>Beumer</surname><given-names>JH</given-names></name><name><surname>Pahuja</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Final results of a Phase 1 study of single-agent veliparib (V) in patients (pts) with either <italic>BRCA1</italic>/<italic>2</italic>-mutated cancer (BRCA<sup>+</sup>), platinum-refractory ovarian, or basal-like breast cancer (BRCA-wt)</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>32</volume>
+<issue>Suppl.</issue>
+<comment>Abstract 2570</comment>
+<year>2014</year>
+</element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coleman</surname><given-names>RL</given-names></name><name><surname>Sill</surname><given-names>MW</given-names></name><name><surname>Bell-McGuinn</surname><given-names>K</given-names></name><etal/></person-group>
+<article-title>A Phase II evaluation of the potent, highly selective PARP inhibitor veliparib in the treatment of persistent or recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer in patients who carry a germline <italic>BRCA1</italic> or <italic>BRCA2</italic> mutation &#x02013; an NRG Oncology/Gynecologic Oncology Group study</article-title>
+<source><italic>Gynecol. Oncol.</italic></source>
+<volume>137</volume>
+<issue>3</issue>
+<fpage>386</fpage>
+<lpage>391</lpage>
+<year>2015</year>
+<pub-id pub-id-type="pmid">25818403</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Palma</surname><given-names>JP</given-names></name><name><surname>Wang</surname><given-names>YC</given-names></name><name><surname>Rodriguez</surname><given-names>LE</given-names></name><etal/></person-group>
+<article-title>ABT-888 confers broad <italic>in vivo</italic> activity in combination with temozolomide in diverse tumors</article-title>
+<source><italic>Clin. Cancer Res.</italic></source>
+<volume>15</volume>
+<issue>23</issue>
+<fpage>7277</fpage>
+<lpage>7290</lpage>
+<year>2009</year>
+<pub-id pub-id-type="pmid">19934293</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miknyoczki</surname><given-names>SJ</given-names></name><name><surname>Jones-Bolin</surname><given-names>S</given-names></name><name><surname>Pritchard</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Chemopotentiation of temozolomide, irinotecan, and cisplatin activity by CEP-6800, a poly(ADP-ribose) polymerase inhibitor</article-title>
+<source><italic>Mol. Cancer Ther.</italic></source>
+<volume>2</volume>
+<issue>4</issue>
+<fpage>371</fpage>
+<lpage>382</lpage>
+<year>2003</year>
+<pub-id pub-id-type="pmid">12700281</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Appleman</surname><given-names>LJ</given-names></name><name><surname>Beumer</surname><given-names>JH</given-names></name><name><surname>Jiang</surname><given-names>Y</given-names></name><etal/></person-group>
+<article-title>A Phase I study of veliparib (ABT-888) in combination with carboplatin and paclitaxel in advanced solid malignancies</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>30</volume>
+<issue>Suppl.</issue>
+<comment>Abstract 3049</comment>
+<year>2012</year>
+</element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ramalingam</surname><given-names>SS</given-names></name><name><surname>Blais</surname><given-names>N</given-names></name><name><surname>Mazi&#x000e8;res</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>A randomized, double-blind, Phase 2 trial of veliparib (ABT-888) with carboplatin and paclitaxel in previously untreated metastatic or advanced non-small cell lung cancer</article-title>
+<comment>Presented at</comment>
+<source><italic>European Society for Medical Oncology Congress</italic></source>
+<year>26&#x02013;30 September 2014</year>
+</element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ramalingam</surname><given-names>SS</given-names></name><name><surname>Blais</surname><given-names>N</given-names></name><name><surname>Mazi&#x000e8;res</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>Smoking status to predict sensitivity to PARP inhibitor, veliparib, in patients with advanced NSCLC</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>33</volume>
+<issue>Suppl.</issue>
+<comment>Abstract 8038</comment>
+<year>2015</year>
+</element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mazi&#x000e8;res</surname><given-names>J</given-names></name><name><surname>Blais</surname><given-names>N</given-names></name><name><surname>Juhasz</surname><given-names>E</given-names></name><etal/></person-group>
+<article-title>A randomized, double-blind, Phase 2 trial of veliparib (ABT-888) with carboplatin and paclitaxel in previously untreated metastatic or advanced non-small cell lung cancer</article-title>
+<source><italic>Ann. Oncol.</italic></source>
+<volume>26</volume>
+<issue>Suppl. 1</issue>
+<comment>Abstract 102PD</comment>
+<year>2015</year>
+</element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Somlo</surname><given-names>G</given-names></name><name><surname>Frankel</surname><given-names>PH</given-names></name><name><surname>Luu</surname><given-names>TH</given-names></name><etal/></person-group>
+<article-title>Efficacy of the combination of ABT-888 (veliparib) and carboplatin in patients with BRCA-associated breast cancer</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>31</volume>
+<issue>Suppl.</issue>
+<comment>Abstract 1024</comment>
+<year>2013</year>
+</element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pahuja</surname><given-names>S</given-names></name><name><surname>Beumer</surname><given-names>JH</given-names></name><name><surname>Appleman</surname><given-names>LJ</given-names></name><etal/></person-group>
+<article-title>A Phase I study of veliparib (ABT-888) in combination with weekly carboplatin and paclitaxel in advanced solid malignancies and enriched for triple-negative breast cancer (TNBC)</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>33</volume>
+<issue>Suppl.</issue>
+<comment>Abstract 1015</comment>
+<year>2015</year>
+</element-citation><note><p>&#x02022; Reports veliparib in combination with weekly carboplatin and paclitaxel was well tolerated with an acceptable safety profile in patients with breast cancer. Promising antitumor activity was also observed, particularly in triple-negative breast cancer.</p></note></ref><ref id="B35"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wesolowski</surname><given-names>R</given-names></name><name><surname>Zhao</surname><given-names>M</given-names></name><name><surname>Geyer</surname><given-names>SM</given-names></name><etal/></person-group>
+<article-title>Phase I trial of the PARP inhibitor veliparib (V) in combination with carboplatin (C) in metastatic breast cancer (MBC)</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>32</volume>
+<issue>Suppl.</issue>
+<comment>Abstract 1074</comment>
+<year>2014</year>
+</element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olopade</surname><given-names>OI</given-names></name><name><surname>DeMichele</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title>Adaptive randomization of veliparib-carboplatin treatment in breast cancer</article-title>
+<source><italic>N. Engl. J. Med.</italic></source>
+<volume>375</volume>
+<issue>1</issue>
+<fpage>23</fpage>
+<lpage>34</lpage>
+<year>2016</year>
+<pub-id pub-id-type="pmid">27406347</pub-id></element-citation><note><p>&#x02022;&#x02022; Examines the results of I-SPY 2, an ongoing Phase II, multicenter, randomized trial that screened multiple experimental regimens in combination with standard neoadjuvant chemotherapy for patients with breast cancer. This trial demonstrated that combination therapy with veliparib and carboplatin added to standard therapy resulted in higher rates of pathologic complete response than standard therapy alone, specifically in patients with triple-negative breast cancer.</p></note></ref><ref id="B37"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bell-McGuinn</surname><given-names>KM</given-names></name><name><surname>Brady</surname><given-names>WE</given-names></name><name><surname>Schilder</surname><given-names>RJ</given-names></name><etal/></person-group>
+<article-title>A Phase I study of continuous veliparib in combination with IV carboplatin/paclitaxel or IV/IP paclitaxel/cisplatin and bevacizumab in newly diagnosed patients with previously untreated epithelial ovarian, fallopian tube, or primary peritoneal cancer: an NRG Oncology/Gynecologic Oncology Group study</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>33</volume>
+<issue>Suppl.</issue>
+<comment>Abstract 5507</comment>
+<year>2015</year>
+</element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Isakoff</surname><given-names>SJ</given-names></name><name><surname>Overmoyer</surname><given-names>B</given-names></name><name><surname>Tung</surname><given-names>NM</given-names></name><etal/></person-group>
+<article-title>A Phase II trial of the PARP inhibitor veliparib (ABT888) and temozolomide for metastatic breast cancer</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>28</volume>
+<issue>15 Suppl.</issue>
+<comment>Abstract 1019</comment>
+<year>2010</year>
+</element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Isakoff</surname><given-names>SJ</given-names></name><name><surname>Overmoyer</surname><given-names>B</given-names></name><name><surname>Tung</surname><given-names>N</given-names></name><etal/></person-group>
+<article-title>A Phase II trial expansion cohort of the PARP inhibitor veliparib (ABT888) and temozolomide in BRCA1/2 associated metastatic breast cancer</article-title>
+<source><italic>Cancer Res.</italic></source>
+<volume>71</volume>
+<issue>Suppl. 24</issue>
+<comment>Abstract P3-16-05</comment>
+<year>2012</year>
+</element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Trudeau</surname><given-names>ME</given-names></name><name><surname>Crump</surname><given-names>M</given-names></name><name><surname>Charpentier</surname><given-names>D</given-names></name><etal/></person-group>
+<article-title>Temozolomide in metastatic breast cancer (MBC): a Phase II trial of the National Cancer Institute of Canada-Clinical Trials Group (NCIC-CTG)</article-title>
+<source><italic>Ann. Oncol.</italic></source>
+<volume>17</volume>
+<issue>6</issue>
+<fpage>952</fpage>
+<lpage>956</lpage>
+<year>2006</year>
+<pub-id pub-id-type="pmid">16565212</pub-id></element-citation></ref><ref id="B41"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Windebank</surname><given-names>AJ</given-names></name><name><surname>Grisold</surname><given-names>W</given-names></name></person-group>
+<article-title>Chemotherapy-induced neuropathy</article-title>
+<source><italic>J. Peripher. Nerv. Syst.</italic></source>
+<volume>13</volume>
+<issue>1</issue>
+<fpage>27</fpage>
+<lpage>46</lpage>
+<year>2008</year>
+<pub-id pub-id-type="pmid">18346229</pub-id></element-citation></ref><ref id="B42"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>lnytska</surname><given-names>O</given-names></name><name><surname>Lyzogubov</surname><given-names>VV</given-names></name><name><surname>Stevens</surname><given-names>MJ</given-names></name><etal/></person-group>
+<article-title>Poly(ADP-ribose) polymerase inhibition alleviates experimental diabetic sensory neuropathy</article-title>
+<source><italic>Diabetes</italic></source>
+<volume>55</volume>
+<issue>6</issue>
+<fpage>1686</fpage>
+<lpage>1694</lpage>
+<year>2006</year>
+<pub-id pub-id-type="pmid">16731831</pub-id></element-citation></ref><ref id="B43"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brederson</surname><given-names>JD</given-names></name><name><surname>Joshi</surname><given-names>SK</given-names></name><name><surname>Browman</surname><given-names>KE</given-names></name><etal/></person-group>
+<article-title>PARP inhibitors attenuate chemotherapy-induced painful neuropathy</article-title>
+<source><italic>J. Peripher. Nerv. Syst.</italic></source>
+<volume>17</volume>
+<issue>3</issue>
+<fpage>324</fpage>
+<lpage>330</lpage>
+<year>2012</year>
+<pub-id pub-id-type="pmid">22971094</pub-id></element-citation></ref><ref id="B44"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bryant</surname><given-names>HE</given-names></name><name><surname>Schultz</surname><given-names>N</given-names></name><name><surname>Thomas</surname><given-names>HD</given-names></name><etal/></person-group>
+<article-title>Specific killing of BRCA2-deficient tumours with inhibitors of poly(ADP-ribose) polymerase</article-title>
+<source><italic>Nature</italic></source>
+<volume>434</volume>
+<issue>7035</issue>
+<fpage>913</fpage>
+<lpage>917</lpage>
+<year>2005</year>
+<pub-id pub-id-type="pmid">15829966</pub-id></element-citation></ref><ref id="B45"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Farmer</surname><given-names>H</given-names></name><name><surname>McCabe</surname><given-names>N</given-names></name><name><surname>Lord</surname><given-names>CJ</given-names></name><etal/></person-group>
+<article-title>Targeting the DNA repair defect in BRCA mutant cells as a therapeutic strategy</article-title>
+<source><italic>Nature</italic></source>
+<volume>434</volume>
+<issue>7035</issue>
+<fpage>917</fpage>
+<lpage>921</lpage>
+<year>2005</year>
+<pub-id pub-id-type="pmid">15829967</pub-id></element-citation></ref><ref id="B46"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>X</given-names></name><name><surname>Han</surname><given-names>EK</given-names></name><name><surname>Anderson</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Acquired resistance to combination treatment with temozolomide and ABT-888 is mediated by both base excision repair and homologous recombination DNA repair pathways</article-title>
+<source><italic>Mol. Cancer Res.</italic></source>
+<volume>7</volume>
+<issue>10</issue>
+<fpage>1686</fpage>
+<lpage>1692</lpage>
+<year>2009</year>
+<pub-id pub-id-type="pmid">19825992</pub-id></element-citation></ref><ref id="B47"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murai</surname><given-names>J</given-names></name><name><surname>Huang</surname><given-names>SY</given-names></name><name><surname>Das</surname><given-names>BB</given-names></name><etal/></person-group>
+<article-title>Trapping of PARP1 and PARP2 by clinical PARP inhibitors</article-title>
+<source><italic>Cancer Res.</italic></source>
+<volume>72</volume>
+<issue>21</issue>
+<fpage>5588</fpage>
+<lpage>5599</lpage>
+<year>2012</year>
+<pub-id pub-id-type="pmid">23118055</pub-id></element-citation><note><p>&#x02022; An important paper that demonstrates PARP inhibitors induce cytotoxic PARP&#x02013;DNA complexes, and that clinically relevant PARP inhibitors differ markedly in their potency to trap PARP&#x02013;DNA complexes. It also reveals previously unknown repair factors/pathways for the PARP&#x02013;DNA complexes, and discusses their importance in the context of personalized medicine.</p></note></ref><ref id="B48"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murai</surname><given-names>J</given-names></name><name><surname>Zhang</surname><given-names>Y</given-names></name><name><surname>Morris</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>Rationale for poly(ADP-ribose) polymerase (PARP) inhibitors in combination therapy with camptothecins or temozolomide based on PARP trapping versus catalytic inhibition</article-title>
+<source><italic>J. Pharmacol. Exp. Ther.</italic></source>
+<volume>349</volume>
+<issue>3</issue>
+<fpage>408</fpage>
+<lpage>416</lpage>
+<year>2014</year>
+<pub-id pub-id-type="pmid">24650937</pub-id></element-citation></ref><ref id="B49"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murai</surname><given-names>J</given-names></name><name><surname>Huang</surname><given-names>SY</given-names></name><name><surname>Renaud</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title>Stereospecific PARP trapping by BMN 673 and comparison with olaparib and rucaparib</article-title>
+<source><italic>Mol. Cancer Ther.</italic></source>
+<volume>13</volume>
+<issue>2</issue>
+<fpage>433</fpage>
+<lpage>443</lpage>
+<year>2014</year>
+<pub-id pub-id-type="pmid">24356813</pub-id></element-citation></ref><ref id="B50"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hopkins</surname><given-names>T</given-names></name><name><surname>Solomon</surname><given-names>L</given-names></name><name><surname>Shi</surname><given-names>Y</given-names></name><etal/></person-group>
+<article-title>PARP inhibitors trap PARP1 onto damaged DNA via catalytic inhibition and not by an allosteric mechanism</article-title>
+<source><italic>Eur. J. Cancer</italic></source>
+<volume>50</volume>
+<issue>Suppl. 6</issue>
+<comment>Abstract 246</comment>
+<year>2014</year>
+</element-citation></ref><ref id="B51"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hopkins</surname><given-names>TA</given-names></name><name><surname>Shi</surname><given-names>Y</given-names></name><name><surname>Rodriguez</surname><given-names>LE</given-names></name><etal/></person-group>
+<article-title>Mechanistic dissection of PARP1 trapping and the impact on <italic>in vivo</italic> tolerability and efficacy of PARP inhibitors</article-title>
+<source><italic>Mol. Cancer Res.</italic></source>
+<volume>13</volume>
+<issue>11</issue>
+<fpage>1465</fpage>
+<lpage>1477</lpage>
+<year>2015</year>
+<pub-id pub-id-type="pmid">26217019</pub-id></element-citation></ref><ref id="B52"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Satoh</surname><given-names>MS</given-names></name><name><surname>Lindahl</surname><given-names>T</given-names></name></person-group>
+<article-title>Role of poly(ADP-ribose) formation in DNA repair</article-title>
+<source><italic>Nature</italic></source>
+<volume>356</volume>
+<issue>6367</issue>
+<fpage>356</fpage>
+<lpage>358</lpage>
+<year>1992</year>
+<pub-id pub-id-type="pmid">1549180</pub-id></element-citation></ref><ref id="B53"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Plummer</surname><given-names>R</given-names></name><name><surname>Lorigan</surname><given-names>P</given-names></name><name><surname>Evans</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>First and final report of a Phase II study of the poly(ADP-ribose) polymerase (PARP) inhibitor, AG014699, in combination with temozolomide (TMZ) in patients with metastatic malignant melanoma (MM)</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>24</volume>
+<issue>Suppl.</issue>
+<comment>Abstract 8013</comment>
+<year>2006</year>
+</element-citation></ref><ref id="B54"><label>54</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wagner</surname><given-names>LM</given-names></name></person-group>
+<article-title>Profile of veliparib and its potential in the treatment of solid tumors</article-title>
+<source><italic>Onco. Targets Ther.</italic></source>
+<volume>8</volume>
+<fpage>1931</fpage>
+<lpage>1939</lpage>
+<year>2015</year>
+<pub-id pub-id-type="pmid">26251615</pub-id></element-citation></ref><ref id="B55"><label>55</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stewart</surname><given-names>E</given-names></name><name><surname>Goshorn</surname><given-names>R</given-names></name><name><surname>Bradley</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Targeting the DNA repair pathway in Ewing sarcoma</article-title>
+<source><italic>Cell Rep.</italic></source>
+<volume>9</volume>
+<issue>3</issue>
+<fpage>829</fpage>
+<lpage>841</lpage>
+<year>2014</year>
+<pub-id pub-id-type="pmid">25437539</pub-id></element-citation></ref><ref id="B56"><label>56</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pahuja</surname><given-names>S</given-names></name><name><surname>Beumer</surname><given-names>JH</given-names></name><name><surname>Appleman</surname><given-names>LJ</given-names></name><etal/></person-group>
+<article-title>Outcome of <italic>BRCA 1/2</italic>-mutated (BRCA<sup>+</sup>) and triple-negative, <italic>BRCA</italic> wild type (<italic>BRCA</italic>-wt) breast cancer patients in a Phase I study of single-agent veliparib (V)</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>32</volume>
+<issue>Suppl. 26</issue>
+<comment>Abstract 135</comment>
+<year>2014</year>
+</element-citation></ref><ref id="B57"><label>57</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davar</surname><given-names>D</given-names></name><name><surname>Beumer</surname><given-names>JH</given-names></name><name><surname>Hamieh</surname><given-names>L</given-names></name><name><surname>Tawbi</surname><given-names>H</given-names></name></person-group>
+<article-title>Role of PARP inhibitors in cancer biology and therapy</article-title>
+<source><italic>Curr. Med. Chem.</italic></source>
+<volume>19</volume>
+<issue>23</issue>
+<fpage>3907</fpage>
+<lpage>3921</lpage>
+<year>2012</year>
+<pub-id pub-id-type="pmid">22788767</pub-id></element-citation></ref><ref id="B58"><label>58</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fong</surname><given-names>PC</given-names></name><name><surname>Yap</surname><given-names>TA</given-names></name><name><surname>Boss</surname><given-names>DS</given-names></name><etal/></person-group>
+<article-title>Poly(ADP)-ribose polymerase inhibition: frequent durable responses in BRCA carrier ovarian cancer correlating with platinum-free interval</article-title>
+<source><italic>J. Clin. Oncol.</italic></source>
+<volume>28</volume>
+<issue>15</issue>
+<fpage>2512</fpage>
+<lpage>2519</lpage>
+<year>2010</year>
+<pub-id pub-id-type="pmid">20406929</pub-id></element-citation></ref><ref id="B59"><label>59</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bouwman</surname><given-names>P</given-names></name><name><surname>Jonkers</surname><given-names>J</given-names></name></person-group>
+<article-title>Molecular pathways: how can <italic>BRCA</italic>-mutated tumors become resistant to PARP inhibitors?</article-title>
+<source><italic>Clin. Cancer Res.</italic></source>
+<volume>20</volume>
+<issue>3</issue>
+<fpage>540</fpage>
+<lpage>547</lpage>
+<year>2014</year>
+<pub-id pub-id-type="pmid">24270682</pub-id></element-citation></ref><ref id="B60"><label>60</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barber</surname><given-names>LJ</given-names></name><name><surname>Sandhu</surname><given-names>S</given-names></name><name><surname>Chen</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>Secondary mutations in <italic>BRCA2</italic> associated with clinical resistance to a PARP inhibitor</article-title>
+<source><italic>J. Pathol.</italic></source>
+<volume>229</volume>
+<issue>3</issue>
+<fpage>422</fpage>
+<lpage>429</lpage>
+<year>2013</year>
+<pub-id pub-id-type="pmid">23165508</pub-id></element-citation></ref></ref-list></back></article>

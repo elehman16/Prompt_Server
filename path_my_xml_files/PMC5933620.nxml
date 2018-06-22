@@ -1,0 +1,549 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ther Adv Respir Dis</journal-id><journal-id journal-id-type="iso-abbrev">Ther Adv Respir Dis</journal-id><journal-id journal-id-type="publisher-id">TAR</journal-id><journal-id journal-id-type="hwp">sptar</journal-id><journal-title-group><journal-title>Therapeutic Advances in Respiratory Disease</journal-title></journal-title-group><issn pub-type="ppub">1753-4658</issn><issn pub-type="epub">1753-4666</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage UK: London, England</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27480166</article-id><article-id pub-id-type="pmc">5933620</article-id><article-id pub-id-type="doi">10.1177/1753465816661091</article-id><article-id pub-id-type="publisher-id">10.1177_1753465816661091</article-id><article-categories><subj-group subj-group-type="heading"><subject>Reviews</subject></subj-group></article-categories><title-group><article-title>Nivolumab in the treatment of metastatic squamous non-small cell lung
+cancer: a review of the evidence</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Lim</surname><given-names>Joline S. J.</given-names></name><aff id="aff1-1753465816661091">Cancer Science Institute of Singapore, National
+University of Singapore, Singapore</aff></contrib><contrib contrib-type="author"><name><surname>Soo</surname><given-names>Ross A.</given-names></name><xref ref-type="corresp" rid="corresp1-1753465816661091"/><aff id="aff2-1753465816661091">Department of Haematology&#x02013;Oncology, National
+University Cancer Institute, National University Health System, 1E Kent
+Ridge Road, NUHS Tower Block Level 7, Singapore 119228</aff></contrib></contrib-group><author-notes><corresp id="corresp1-1753465816661091"><email>ross_soo@nuhs.edu.sg</email></corresp></author-notes><pub-date pub-type="epub"><day>31</day><month>7</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2016</year></pub-date><volume>10</volume><issue>5</issue><fpage>444</fpage><lpage>454</lpage><permissions><copyright-statement>&#x000a9; The Author(s), 2016</copyright-statement><copyright-year>2016</copyright-year><copyright-holder content-type="sage">SAGE Publications</copyright-holder><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/"><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 3.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/3.0/">http://www.creativecommons.org/licenses/by-nc/3.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><p>Progress in the treatment of patients with advanced stage squamous cell non-small
+cell lung cancer (NSCLC) has been limited. An improvement in the understanding
+of tumor immunosurveillance has resulted in the development of the immune
+checkpoint inhibitors such as nivolumab. Nivolumab (Opdivo<sup>&#x000ae;</sup>), a human
+immunoglobulin (Ig)G4 anti-programmed death (PD)-1 monoclonal antibody, was the
+first PD-1 inhibitor approved in the treatment of patients with advanced stage
+squamous cell NSCLC following platinum-based chemotherapy. CHECKMATE 017, a
+randomized phase III study of second-line nivolumab <italic>versus</italic>
+docetaxel, significantly improved overall survival (OS), progression-free
+survival (PFS), patient reported outcomes and the safety and tolerability
+favored patients treated with nivolumab. The ligand (PD-L1) expression did not
+predict for outcome. In this paper, we review the role of nivolumab in the
+treatment of NSCLC with particular attention on recent studies, ongoing
+combination studies, toxicity profile, current and potential predictive
+biomarkers.</p></abstract><kwd-group><kwd>anti-programmed death-1</kwd><kwd>immunotherapy</kwd><kwd>nivolumab</kwd><kwd>non-small cell lung cancer</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="section1-1753465816661091"><title>Introduction</title><p>Although the field of immune-oncology has been ongoing for more than a decade, only
+more recently has it generated great interest with the efficacy of immune checkpoint
+inhibitors (ICI). Ipilimumab, a cytotoxic T-cell Lymphocyte Antigen 4 (CTLA4)
+inhibitor, was amongst the first ICI to be approved by the United States (US) Food
+and Drug Administration (FDA), and this was subsequently followed by other ICIs such
+as antibodies against both programmed-cell death-protein 1 (PD-1) and its ligand
+(PD-L1). The ICIs have been shown to be effective in a range of hematological and
+solid tumors, including melanomas, non-small cell lung cancer (NSCLC), renal cell
+carcinoma and lymphomas [<xref rid="bibr34-1753465816661091" ref-type="bibr">Sundar
+<italic>et al.</italic> 2015</xref>]. Nivolumab (BMS-936558), an anti-PD-1
+antibody, was the first in its class to be approved by the US FDA in the second-line
+treatment of patients with advanced stage NSCLC (both squamous [<xref rid="bibr8-1753465816661091" ref-type="bibr">Brahmer <italic>et al.</italic>
+2015</xref>] and nonsquamous [<xref rid="bibr6-1753465816661091" ref-type="bibr">Borghaei <italic>et al.</italic> 2015</xref>] histologies) after progression on
+platinum-based chemotherapy. Nivolumab is a human immunoglobulin (Ig)G4 anti-PD-1
+monoclonal antibody. It acts by binding to PD-1, an inhibitory co-receptor expressed
+on antigen-activated T cells, thus preventing interaction with PD-L1, resulting in
+the loss of inhibitory signals in T cells, and tumor recognition by cytotoxic T
+cells and thus restoring T-cell function (<xref ref-type="fig" rid="fig1-1753465816661091">Figure 1</xref>) [<xref rid="bibr38-1753465816661091" ref-type="bibr">Wang <italic>et al.</italic> 2014</xref>]. In this
+article, we review the current standard of care for treatment of squamous NSCLC, the
+role of nivolumab in its treatment, toxicities and management of treatment-related
+adverse events.</p><fig id="fig1-1753465816661091" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Mechanism of action of nivolumab.</p><p>The TCR signaling pathway is a major component of immune defense against
+tumors. Under normal circumstances, TCR recognition of the MHC on APCs will
+trigger a cascade of events causing activation of T cells and thus immune
+response against tumor cells. This signal is inhibited by tumor cells with
+activation of the PD-1/PD-L1 inhibitor co-signaling pathway, which
+ameliorates T-cell activation. Nivolumab acts by binding onto the PD-L1 on T
+cells, thus preventing inhibitor co-signaling and restoring T-cell
+activation.</p><p>APC, antigen presenting cell; MHC, major histocompatibility complex; PD-1,
+programmed death-1; PD-L1, programmed death-1 ligand; TCR, T-cell
+receptor.</p></caption><graphic xlink:href="10.1177_1753465816661091-fig1"/></fig></sec><sec id="section2-1753465816661091"><title>Treatment of squamous non-small cell lung cancer</title><p>Adenocarcinoma and squamous cell carcinoma (SCC) histologic subtypes comprise 60&#x02013;70%
+and 10&#x02013;20% of NSCLC, respectively [<xref rid="bibr13-1753465816661091" ref-type="bibr">De la Cruz <italic>et al.</italic> 2011</xref>].
+The survival of patients with adenocarcinoma has improved. Patients with NSCLC
+adenocarcinoma treated with agents targeting tumor-specific oncogenes had a median
+survival of 3.5 years [<xref rid="bibr22-1753465816661091" ref-type="bibr">Kris
+<italic>et al.</italic> 2014</xref>]. However, unlike adenocarcinoma,
+therapeutic progress in SCC of the lung has lagged, in part due to the paucity of
+relevant oncogenic drivers that can inform treatment. This evidence suggests that
+new drugs for metastatic squamous NSCLC are needed. The treatment of nonsquamous
+NSCLC has seen significant progress in the past decade with the identification of
+molecular subtypes [<xref rid="bibr23-1753465816661091" ref-type="bibr">Kumarakulasinghe <italic>et al.</italic> 2015</xref>]. Data from the Cancer
+Genome Atlas Research Network (TCGA) showed significant differences in genetic
+profiles between the two most common histological subtypes of lung cancer,
+adenocarcinoma and SCC [<xref rid="bibr10-1753465816661091" ref-type="bibr">Cancer
+Genome Atlas Research, 2012</xref>, <xref rid="bibr11-1753465816661091" ref-type="bibr">2014</xref>]. Overall, 62% of lung adenocarcinomas
+harbored known activating mutations in driver oncogenes, including mutations in the
+epidermal growth factor receptor (EGFR) gene and echinoderm microtubule-associated
+protein-like 4 &#x02013; anaplastic lymphoma kinase (EML4-ALK) and ROS1 gene fusion and the
+use of tyrosine kinase inhibitors (TKIs) towards target proteins [<xref rid="bibr11-1753465816661091" ref-type="bibr">Cancer Genome Atlas Research,
+2014</xref>]. However similar driver mutations are uncommonly observed in SCCs
+[<xref rid="bibr10-1753465816661091" ref-type="bibr">Cancer Genome Atlas
+Research, 2012</xref>]. As such, platinum-based doublet chemotherapy, such as
+carboplatin/ paclitaxel or gemcitabine/ cisplatin has remained the mainstay of
+first-line treatment of squamous NSCLC [<xref rid="bibr2-1753465816661091" ref-type="bibr">Ang <italic>et al.</italic> 2015</xref>]. Recently,
+the addition of necitumumab, a second-generation EGFR monoclonal antibody, showed
+significant improvement in progression-free survival (PFS) (5.7
+<italic>versus</italic> 5.5 months, 95% CI 0.74&#x02013;0.98, <italic>p</italic> = 0.02)
+and overall survival (OS) (11.5 <italic>versus</italic> 9.9 months, 95% CI
+0.74&#x02013;0.96, <italic>p</italic> = 0.01) when added to the platinum doublet of
+cisplatin-gemcitabine in patients with metastatic SCC lung [<xref rid="bibr35-1753465816661091" ref-type="bibr">Thatcher <italic>et al.</italic> 2015</xref>].
+Further analysis of correlation between EGFR expression by IHC scoring and FISH
+analysis suggest possible predictive values towards response, although this will
+need to be further validated. Nonetheless, necitumumab is the first drug that has
+been approved in first-line treatment for SCC lung since the use of platinum-based
+doublet therapy in the past decade.</p><p>Traditionally the median OS in patients treated with second-line therapy for advanced
+NSCLC is about 8 months, with docetaxel the most frequent chemotherapy of choice
+[<xref rid="bibr31-1753465816661091" ref-type="bibr">Shepherd <italic>et
+al.</italic> 2000</xref>; <xref rid="bibr21-1753465816661091" ref-type="bibr">Kim <italic>et al.</italic> 2008</xref>].
+Nonetheless, recent pooled analysis from various second-line docetaxel studies have
+suggested that patients with squamous histology tend to do worse than those with
+nonsquamous histologies, amidst already dismal survival improvements [<xref rid="bibr37-1753465816661091" ref-type="bibr">Torri <italic>et al.</italic>
+2015</xref>]. In a phase III study of second-line docetaxel and ramucirumab
+<italic>versus</italic> docetaxel (REVEL study), OS favored the combination arm
+with an OS of 10.5 <italic>versus</italic> 9.1 months [hazard ratio (HR) 0.86, 95%
+CI 0.75&#x02013;0.98]. In the 26% of patients with SCC, the HR for OS was 0.761 (95% CI
+0.606&#x02013;0.957) [<xref rid="bibr15-1753465816661091" ref-type="bibr">Garon <italic>et
+al.</italic> 2014</xref>]. In a phase III study of docetaxel and nintedanib
+<italic>versus</italic> docetaxel, among patients with SCC lung (42%), the
+addition of nintedanib was associated with a PFS of HR 0.77 (95% CI 0.62&#x02013;0.96), and
+an OS of HR 1.01 (95%CI 0.85&#x02013;1.21, <italic>p</italic> = 0.891) [<xref rid="bibr27-1753465816661091" ref-type="bibr">Reck <italic>et al.</italic>
+2014</xref>]. In a phase III study of second-line afatinib
+<italic>versus</italic> erlotinib, the median PFS was 2.6
+<italic>versus</italic> 1.9 months (HR 0.81, 95% CI 0.69&#x02013;0.96,
+<italic>p</italic> = 0.0103), and OS was 7.92 <italic>versus</italic> 6.77
+months (HR 0.808, 95% CI 0.691&#x02013;0.946, <italic>p</italic> = &#x02009;0.0077) [<xref rid="bibr32-1753465816661091" ref-type="bibr">Soria <italic>et al.</italic>
+2015</xref>]. In these studies, the survival benefit, whilst statistically
+significant, is only modest and novel therapeutic approaches are needed. The success
+of ICIs in melanoma has led to its use in other solid tumors including NSCLC.</p></sec><sec id="section3-1753465816661091"><title>Nivolumab in lung cancer</title><p>Nivolumab (Opdivo<sup>&#x000ae;</sup>, Bristol Myers Squibb, USA) was the first ICI to be
+approved by the US FDA in the treatment of SCC lung in March 2015, with its approval
+extended to lung cancers of nonsquamous histologies in October 2015 [<xref rid="bibr34-1753465816661091" ref-type="bibr">Sundar <italic>et al.</italic>
+2015</xref>]. In addition, nivolumab has been approved by the US FDA for the
+following indications: unresectable or metastatic melanoma, classical Hodgkin&#x02019;s
+lymphoma after failure of more than two treatment lines, second-line treatment of
+advanced renal cell carcinoma, and in combination with ipilimumab, a CTLA-4
+inhibitor, in metastatic melanoma irrespective of BRAF status.</p><p>Pembrolizumab (Keytruda<sup>&#x000ae;</sup>, Merck, USA), another anti-PD-1 agent, was
+approved by the US FDA in October 2015 for use in a second-line setting post
+platinum-based chemotherapy for patients with metastatic NSCLC whose tumors express
+PD-L1.</p><p>The first in-human studies of nivolumab carried out were basket trials carried out in
+refractory solid tumors, of which 15.4% patients (six out of 39) had NSCLC [<xref rid="bibr36-1753465816661091" ref-type="bibr">Topalian <italic>et al.</italic>
+2012</xref>]. Patients on the study received a single dose of nivolumab at doses
+ranging from 0.3&#x02013;10 mg/kg with provision for a repeat dose at 3-month intervals for
+patients who derived clinical benefit. Although drug efficacy was not the primary
+endpoint in this phase I trial, significant tumor regression was seen in one of the
+six patients with NSCLC, despite the fact that lung cancers were not known to be
+classically immunogenic compared with tumors like renal cell carcinomas and
+melanomas. The drug was well tolerated and maximum tolerated dose (MTD) was not
+reached, with only one patient developing the serious adverse event (SAE) of
+inflammatory colitis [<xref rid="bibr7-1753465816661091" ref-type="bibr">Brahmer
+<italic>et al.</italic> 2010</xref>].</p><p>Based on these results, a dose-expansion cohort of patients with NSCLC were enrolled
+into trial. Of these 129 patients enrolled, 54 patients (41.2%) had SCC lung. The
+overall response rate (ORR) was 17% across all cohorts, and median OS was 9.9
+months, with median survival in the 3 mg/kg cohort performing best at 14.9 months
+[Gettinger <italic>et al.</italic> 2015]. This was similar for both patients with
+squamous and nonsquamous histology. PD-L1 expression status did not appear to
+predict for tumor response, and subgroup analysis suggest that better responses were
+seen in former and current smokers (ORR 30% in patients with smoking history of more
+than 5 pack-years <italic>versus</italic> 0% in patients with smoking history of 5
+pack-years or less) [<xref rid="bibr16-1753465816661091" ref-type="bibr">Gettinger
+<italic>et al.</italic> 2015a</xref>]. Based on the promising results,
+subsequent phase II studies with nivolumab at a dose of 3 mg/kg every 2 weeks were
+conducted.</p><p>In a phase II single-arm study (CHECKMATE 063), 117 patients with advanced stage
+squamous cell NSCLC were treated with nivolumab in third-line and beyond. The ORR
+was 14.5%, 26% of patients had stable disease and the 6-month and 12-month PFS was
+25.9% and 20.0% [<xref rid="bibr28-1753465816661091" ref-type="bibr">Rizvi
+<italic>et al.</italic> 2015</xref>]. These results were noteworthy given
+65% of patients were previously treated with three or more lines of systemic
+therapy, and in 61% of patients, disease progression was the best response to the
+most recent treatment. Updated survival results presented recently reported an OS of
+8.2 months and 1-year OS rate of 41% [<xref rid="bibr19-1753465816661091" ref-type="bibr">Horn <italic>et al.</italic> 2015</xref>]. In a
+Japanese phase II study (ONO-4538-05), of patients with advanced stage SCC lung
+(<italic>n</italic> = 35) and nonsquamous lung cancer (<italic>n</italic> = 76)
+treated with nivolumab, the ORR was 25.7% in the SCC group. In addition, the disease
+control rate (DCR) of 54.3% and the PFS of 4.2 months. The OS was not reached [<xref rid="bibr25-1753465816661091" ref-type="bibr">Nakagawa <italic>et al.</italic>
+2015</xref>] (<xref ref-type="table" rid="table1-1753465816661091">Table
+1</xref>). In another phase II study conducted at community research sites
+(CHECKMATE 153, CA209-153) patients with advanced stage NSCLC were treated with
+nivolumab till progression or unacceptable toxicities compared with being treated
+for a maximum of 1 year, then discontinuation with an intention to restart nivolumab
+at progression. Of the 824 patients enrolled, 227 patients (28%) had a SCC
+histologic subtype. The ORR and stable disease at first assessment was 13% and 50%,
+respectively, in patients with squamous cell NSCLC [<xref rid="bibr20-1753465816661091" ref-type="bibr">Hussein <italic>et al.</italic> 2015</xref>].
+While the second study involved patients with both squamous and nonsquamous
+subtypes, both phase II studies supported that nivolumab was effective in patients
+with SCC lung compared with historical outcomes of patients on conventional
+chemotherapy. As such, further phase III trial was undertaken for patients with SCC
+lung.</p><table-wrap id="table1-1753465816661091" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Trials of nivolumab in SCC lung.</p></caption><alternatives><graphic xlink:href="10.1177_1753465816661091-table1"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Phase</th><th align="left" rowspan="1" colspan="1">Author</th><th align="left" rowspan="1" colspan="1">Line of treatment</th><th align="left" rowspan="1" colspan="1">Sample size</th><th align="left" rowspan="1" colspan="1">ORR (%)</th><th align="left" rowspan="1" colspan="1">PFS (months) (95% CI)</th><th align="left" rowspan="1" colspan="1">OS (months) (95% CI)</th><th align="left" rowspan="1" colspan="1">Limitations</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">Topalian NEJM2012 [<xref rid="bibr36-1753465816661091" ref-type="bibr">Topalian <italic>et
+al.</italic> 2012</xref>], Gettinger JCO2015 [Gettinger
+<italic>et al.</italic> 2015]</td><td rowspan="1" colspan="1">Second line and beyond</td><td rowspan="1" colspan="1">54</td><td rowspan="1" colspan="1">16.7</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">9.2 (7.3&#x02013;12.5)</td><td rowspan="1" colspan="1">Small sample size<break/>Multiple treatment lines</td></tr><tr><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">Gettinger ASCO2015 [Gettinger <italic>et al.</italic> 2015]</td><td rowspan="1" colspan="1">First line</td><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">18.2 (CI not reported)</td><td rowspan="1" colspan="1">Small sample size<break/>First line only</td></tr><tr><td rowspan="1" colspan="1">II (CHECKMATE 063)</td><td rowspan="1" colspan="1">Rizvi Lancet 2015 [<xref rid="bibr28-1753465816661091" ref-type="bibr">Rizvi <italic>et al.</italic>
+2015</xref>]</td><td rowspan="1" colspan="1">Third line and beyond</td><td rowspan="1" colspan="1">117</td><td rowspan="1" colspan="1">14.5</td><td rowspan="1" colspan="1">1.9 (1.8&#x02013;3.2)</td><td rowspan="1" colspan="1">8.2 (6.1&#x02013;10.9)</td><td rowspan="1" colspan="1">Heavily pretreated population, with 20.5% of patients having 4
+or more lines of previous treatment</td></tr><tr><td rowspan="1" colspan="1">II (ONO-4538-050)</td><td rowspan="1" colspan="1">Nakagawa JTO2015 [<xref rid="bibr25-1753465816661091" ref-type="bibr">Nakagawa <italic>et
+al.</italic> 2015</xref>]</td><td rowspan="1" colspan="1">Second line and beyond</td><td rowspan="1" colspan="1">35</td><td rowspan="1" colspan="1">25.7</td><td rowspan="1" colspan="1">4.2 (1.5&#x02013;7.1)</td><td rowspan="1" colspan="1">Not reached (12.4&#x02013;not reached)</td><td rowspan="1" colspan="1">Preliminary results<break/>Small sample size<break/>Asian
+population<break/>Multiple treatment lines</td></tr><tr><td rowspan="1" colspan="1">II (CHECKMATE 153)</td><td rowspan="1" colspan="1">Hussein WLCC2015 [<xref rid="bibr20-1753465816661091" ref-type="bibr">Hussein <italic>et
+al.</italic> 2015</xref>]</td><td rowspan="1" colspan="1">Second line or more</td><td rowspan="1" colspan="1">145</td><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">Preliminary results<break/>Study compared 1 year
+<italic>versus</italic> continuous nivolumab<break/>Multiple
+treatment lines</td></tr><tr><td rowspan="1" colspan="1">III (CHECKMATE 017)</td><td rowspan="1" colspan="1">Brahmer NEJM2015 [<xref rid="bibr8-1753465816661091" ref-type="bibr">Brahmer <italic>et al.</italic>
+2015</xref>]</td><td rowspan="1" colspan="1">Second line</td><td rowspan="1" colspan="1">272</td><td rowspan="1" colspan="1">20</td><td rowspan="1" colspan="1">3.5 (2.1&#x02013;4.9)</td><td rowspan="1" colspan="1">9.2 (7.3&#x02013;13.3)</td><td rowspan="1" colspan="1">Retrospective analysis of PD-L1 expression<break/>Compared
+against docetaxel whereas newer regimens such as docetaxel +
+ramucirumab is superior to docetaxel</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-1753465816661091"><p>CI, confidence interval; NA, not available; ORR, objective response rate;
+OS, overall survival; PFS, progression-free survival; SCC, squamous cell
+carcinoma.</p></fn></table-wrap-foot></table-wrap><p>In a phase III study of nivolumab <italic>versus</italic> docetaxel in 272 patients
+with advanced SCC lung (CHECKMATE 017), the study was terminated early on the
+recommendation of the independent data and safety monitoring committee as
+pre-specified interim analysis succeeded in showing an improvement in their primary
+endpoint of OS. The OS with nivolumab and docetaxel was 9.2 and 6.0 months,
+respectively (HR 0.59, 95% CI 0.44&#x02013;0.79, <italic>p</italic> &#x0003c; 0.001) [<xref rid="bibr8-1753465816661091" ref-type="bibr">Brahmer <italic>et al.</italic>
+2015</xref>]. Furthermore, the ORR and PFS favored nivolumab (20%
+<italic>versus</italic> 9%, <italic>p</italic> = 0.008) and HR 0.63 (95% CI
+0.48&#x02013;0.83, <italic>p</italic> &#x0003c; 0.01), respectively (<xref ref-type="table" rid="table1-1753465816661091">Table 1</xref>). Again PD-L1 expression was
+neither prognostic nor predictive of outcomes. Lung Cancer Symptom Scale (LCSS)
+assessment of patients showed that patients who responded to nivolumab appeared to
+have a more sustained period of symptom improvement compared with patients on
+docetaxel. Time to first disease deterioration measured by LSCC Global Health
+Related Quality of Life was longer in patients treated with nivolumab compared with
+patients treated with docetaxel (HR 0.58, 95% CI 0.39&#x02013;0.86) [<xref rid="bibr18-1753465816661091" ref-type="bibr">Gralla <italic>et al.</italic> 2015</xref>]. With
+the positive outcome of this study, the US FDA approved nivolumab for the treatment
+of advanced SCC lung with progression on or after platinum-based chemotherapy.
+Nonetheless, certain limitations remain, including the role of PD-L1 expression as a
+predictive marker, that is still an area of active investigation. While nivolumab is
+superior to docetaxel, the efficacy of nivolumab compared with other recent active
+combinations such as docetaxel with ramucirumab or nindetanib remains to be
+seen.</p><p>Current trials are being undertaken to look at the efficacy of nivolumab compared
+with platinum doublet treatment in a first-line setting. CHECKMATE026 included
+patients with both squamous and nonsquamous NSCLC, has completed accrual and early
+results may be made available by 2017. In the squamous cohort, patients were
+randomized to either nivolumab or platinum doublet (cisplatin or carboplatin
+combined with either gemcitabine or paclitaxel) with the option of crossover at
+disease progression (<xref ref-type="table" rid="table2-1753465816661091">Table
+2</xref>).</p><table-wrap id="table2-1753465816661091" orientation="portrait" position="float"><label>Table 2.</label><caption><p>Combination studies of nivolumab in non-small cell lung cancer.</p></caption><alternatives><graphic xlink:href="10.1177_1753465816661091-table2"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Phase</th><th align="left" rowspan="1" colspan="1">Author</th><th align="left" rowspan="1" colspan="1">Line of treatment</th><th align="left" rowspan="1" colspan="1">Sample size</th><th align="left" rowspan="1" colspan="1">ORR (%) (range)</th><th align="left" rowspan="1" colspan="1">PFS (months) (range)</th><th align="left" rowspan="1" colspan="1">OS (months) (range)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">Antonia [<xref rid="bibr3-1753465816661091" ref-type="bibr">Antonia <italic>et al.</italic> 2014a</xref>]</td><td rowspan="1" colspan="1">First line with chemotherapy</td><td rowspan="1" colspan="1">56</td><td rowspan="1" colspan="1">33&#x02013;57</td><td rowspan="1" colspan="1">4.1&#x02013;6.1</td><td rowspan="1" colspan="1">50.5&#x02013;NR</td></tr><tr><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">Rizvi [<xref rid="bibr29-1753465816661091" ref-type="bibr">Rizvi
+<italic>et al.</italic> 2014</xref>]</td><td rowspan="1" colspan="1">EGFR+ but resistant nivolumab + erlotinib</td><td rowspan="1" colspan="1">21</td><td rowspan="1" colspan="1">19</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">NA</td></tr><tr><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">Antonia [<xref rid="bibr4-1753465816661091" ref-type="bibr">Antonia <italic>et al.</italic> 2014b</xref>]</td><td rowspan="1" colspan="1">Second line with ipilimumab</td><td rowspan="1" colspan="1">148</td><td rowspan="1" colspan="1">13&#x02013;39</td><td rowspan="1" colspan="1">4.9&#x02013;10.6</td><td rowspan="1" colspan="1">NR</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn2-1753465816661091"><p>NA, not available; NR, not reported; ORR, objective response rate; OS,
+overall survival; PFS, progression-free survival.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section4-1753465816661091"><title>Rationale for combination therapy</title><p>Preclinical data have suggested that combination of ICIs with chemotherapy or other
+targeted therapy like anti-angiogenic drugs may have synergistic effects. Akbay and
+colleagues showed that PD-L1 expression may be upregulated <italic>via</italic> the
+EGFR signaling pathway [<xref rid="bibr1-1753465816661091" ref-type="bibr">Akbay
+<italic>et al.</italic> 2013</xref>], and D&#x02019;Incecco and colleagues showed
+that there was a significant correlation between EGFR and KRAS mutations with PD-L1
+and PD-1 expression respectively [<xref rid="bibr14-1753465816661091" ref-type="bibr">D&#x02019;Incecco <italic>et al.</italic> 2015</xref>].
+The combination of nivolumab with EGFR-mutant NSCLC is being studied in patients who
+are treatment na&#x000ef;ve or have progressed on first-line EGFR TKI therapy. Preliminary
+results reported an ORR of 19%, 6-month PFS of 51% and 1-year OS of 73% [<xref rid="bibr29-1753465816661091" ref-type="bibr">Rizvi <italic>et al.</italic>
+2014</xref>].</p><p>Conventional chemotherapy occurs largely through apoptosis, which is believed to be
+nonimmunogenic compared with necrosis, which is more inflammatory in nature.
+Preclinical data have shown that combination of chemotherapy with immunotherapy may
+lead to more pronounced cell death due to complementary pathways in cell killing
+[<xref rid="bibr5-1753465816661091" ref-type="bibr">Apetoh <italic>et
+al.</italic> 2008</xref>]. The combination of nivolumab with platinum-based
+doublet in the first-line setting has shown encouraging outcomes. In a phase I trial
+of 56 patients with NSCLC, including both squamous and nonsquamous histology,
+patients were treated with four cycles of nivolumab plus platinum-based doublet in
+four different subgroups, with continuation of nivolumab alone till progression or
+unacceptable toxicities. The ORR ranged from 33&#x02013;57%, PFS 21&#x02013;31 weeks and median OS
+of 50.5 weeks to not reached [<xref rid="bibr4-1753465816661091" ref-type="bibr">Antonia <italic>et al.</italic> 2014b</xref>].</p><p><italic>In vitro</italic> studies have shown anti-CTLA4 and anti-PD-1 inhibition have
+synergistic effects in promoting cell death. Combined PD-1 and CTLA-4 blockade has
+been shown to increase effector T-cell infiltration in melanoma cells, that
+eventually leads to decreased anergy and increased activity that allows for the
+tumor microenvironment to shift from suppressive to inflammatory [<xref rid="bibr12-1753465816661091" ref-type="bibr">Curran <italic>et al.</italic>
+2010</xref>]. Encouraging preclinical data, combined with success of combination
+therapy in melanomas have fueled the extension of such studies in NSCLC.
+CHECKMATE012, a phase I trial, is currently investigating the combination of
+nivolumab with ipilimumab at various dose combinations. Initial results have been
+encouraging with ORR range from 13&#x02013;39% and median PFS from 4.9&#x02013;10.6 months in
+various treatment arms. Grade 3/4 SAEs were see in 28% of patients, including
+pneumonitis, diarrhea, colitis and raised liver function, with three patient deaths
+deemed attributable to drug-related toxicities, including respiratory failure
+following colitis, pulmonary hemorrhage and toxic epidermal necrolysis in a patient
+with history of ulcerative colitis. [Antonia <italic>et al.</italic> 2014].</p></sec><sec id="section5-1753465816661091"><title>Adverse events</title><p>Based on the mechanism of action of nivolumab, the anticipated side effects are
+immune-related adverse events (irAEs). In studies of patients with NSCLC treated
+with nivolumab, any grade adverse events were reported in 58&#x02013;85% of patients, while
+rates of grade 3&#x02013;4 toxicities ranged from 5.7&#x02013;17% (<xref ref-type="table" rid="table3-1753465816661091">Table 3</xref>). The common side effects included
+fatigue (16&#x02013;33%), anorexia (11%), diarrhea (8&#x02013;10%) and endocrinopathies [<xref rid="bibr29-1753465816661091" ref-type="bibr">Rizvi <italic>et al.</italic>
+2014</xref>; <xref rid="bibr8-1753465816661091" ref-type="bibr">Brahmer
+<italic>et al.</italic> 2015</xref>; <xref rid="bibr25-1753465816661091" ref-type="bibr">Nakagawa <italic>et al.</italic> 2015</xref>].</p><table-wrap id="table3-1753465816661091" orientation="portrait" position="float"><label>Table 3.</label><caption><p>Ongoing trials of nivolumab in advanced NSCLC.</p></caption><alternatives><graphic xlink:href="10.1177_1753465816661091-table3"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Phase</th><th align="left" rowspan="1" colspan="1">Line of treatment</th><th align="left" rowspan="1" colspan="1">Control arm</th><th align="left" rowspan="1" colspan="1">Experimental arm</th><th align="left" rowspan="1" colspan="1">Clinical trial gov. number</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">I (CHECKMATE 012)</td><td rowspan="1" colspan="1">Second line and beyond</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Nivolumab + ipilimumab, nivolumab + platinum doublet, nivolumab
++ erlotinib</td><td rowspan="1" colspan="1">NCT01454102</td></tr><tr><td rowspan="1" colspan="1">III (CHECKMATE 026)</td><td rowspan="1" colspan="1">First line</td><td rowspan="1" colspan="1">Platinum doublet</td><td rowspan="1" colspan="1">Nivolumab</td><td rowspan="1" colspan="1">NCT02041533</td></tr><tr><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">Second line and beyond</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Nivolumab + EGF816 or INC280</td><td rowspan="1" colspan="1">NCT02323126</td></tr><tr><td rowspan="1" colspan="1">III (CHECKMATE 078)</td><td rowspan="1" colspan="1">Second line</td><td rowspan="1" colspan="1">Docetaxel</td><td rowspan="1" colspan="1">Nivolumab</td><td rowspan="1" colspan="1">NCT02613507</td></tr><tr><td rowspan="1" colspan="1">III (CHECKMATE 227)</td><td rowspan="1" colspan="1">First line</td><td rowspan="1" colspan="1">Platinum doublet</td><td rowspan="1" colspan="1">Nivolumab, nivolumab + ipilimumab, nivolumab + platinum
+doublet</td><td rowspan="1" colspan="1">NCT02477826</td></tr><tr><td rowspan="1" colspan="1">II (CHECKMATE 568)</td><td rowspan="1" colspan="1">First line</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Nivolumab + ipilimumab</td><td rowspan="1" colspan="1">NCT02659059</td></tr><tr><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">First line</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Nivolumab + ceritinib</td><td rowspan="1" colspan="1">NCT02393625</td></tr></tbody></table></alternatives></table-wrap><p>The rate of treatment-related adverse events (TRAEs) leading to discontinuation and
+death is relatively low with nivolumab. In CHECKMATE 063 [<xref rid="bibr28-1753465816661091" ref-type="bibr">Rizvi <italic>et al.</italic> 2015</xref>], 12%
+and 1.7% of patients experienced TRAE discontinuation and death, respectively, and
+in CHECKMATE 017 [<xref rid="bibr8-1753465816661091" ref-type="bibr">Brahmer
+<italic>et al.</italic> 2015</xref>], it was 3% and 0%, respectively. In
+comparison, the rate of TRAE discontinuation and death in patients treated with
+docetaxel in CHECKMATE 017 was 10% and 2%, respectively. In addition, there was more
+neutropenia of any grade (33% <italic>versus</italic> 1%) and febrile neutropenia
+(11% <italic>versus</italic> 0%) in patients treated with docetaxel compared with
+nivolumab.</p><p>Pneumonitis was the most common irAE resulting in nivolumab discontinuation.
+Pneumonitis is generally mild and manageable with steroid treatment. In CHECKMATE
+063, 5% of patients had pneumonitis of which 3% was grade 3 or higher. In this
+study, all patients responded to steroids and the median time to resolution was 3.4
+weeks (1.6&#x02013;13.4 weeks) [<xref rid="bibr28-1753465816661091" ref-type="bibr">Rizvi
+<italic>et al.</italic> 2015</xref>]. In CHECKMATE 017, 5% of patients had
+pneumonitis (any grade) whereas no patients had pneumonitis is the docetaxel arm. In
+the phase I study, three patients had unresolved pneumonitis, resulting in mortality
+[Gettinger <italic>et al.</italic> 2015]. The onset of pneumonitis may be variable.
+In a recent report of patients with melanoma treated with nivolumab, the onset of
+pneumonitis was 7.4&#x02013;24.3 months from treatment initiation [<xref rid="bibr26-1753465816661091" ref-type="bibr">Nishino <italic>et al.</italic> 2015</xref>].
+Onset can be insidious with symptoms like cough, while others developed dyspnea and
+hypoxia. Radiology may show ground glass changes with reticular opacities, although
+consolidative changes were also observed in one patient. The diagnosis of
+pneumonitis may be challenging in patients, especially in those with underlying
+airways disease or metastases confounding underlying baseline symptoms. It may also
+sometimes be difficult to discern development of pneumonitis from underlying disease
+progression from description of symptoms alone. It is important to have a high
+degree of suspicion and early access to imaging as this may be useful in
+differentiating the etiology of worsening respiratory symptoms.</p><p>The management of irAEs include the use of steroids and in more severe cases,
+immunomodulatory agents such as anti-metabolite (mycophenolate mofetil), anti-tumor
+necrosis factor (TNF)-&#x003b1; antibody (infliximab) and calcineurin inhibitors (tacrolimus
+and cyclosporine). Choice of steroids and immunomodulatory agents are largely
+dependent on grade of side effects, and are summarized in <xref ref-type="table" rid="table4-1753465816661091">Table 4</xref> [<xref rid="bibr24-1753465816661091" ref-type="bibr">Naidoo <italic>et al.</italic> 2015</xref>; <xref rid="bibr33-1753465816661091" ref-type="bibr">Spain <italic>et al.</italic>
+2016</xref>; <xref rid="bibr9-1753465816661091" ref-type="bibr">Bristol-Myers-Squibb, 2016</xref>]. While the Common Terminology Criteria for
+Adverse Events (CTCAE) is the most common platform used to grade toxicities, there
+have been concerns about whether it may underestimate certain toxicities like
+hypophysitis. With increased understanding of irAEs, better grading systems may
+eventually evolve.</p><table-wrap id="table4-1753465816661091" orientation="portrait" position="float"><label>Table 4.</label><caption><p>Immune related adverse events (%) in patients treated with nivolumab.</p></caption><alternatives><graphic xlink:href="10.1177_1753465816661091-table4"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Study</th><th align="left" colspan="2" rowspan="1">CHECKMATE 063 [<xref rid="bibr19-1753465816661091" ref-type="bibr">Horn <italic>et al.</italic>
+2015</xref>]</th><th align="left" colspan="2" rowspan="1">ONO-4538-050 [<xref rid="bibr25-1753465816661091" ref-type="bibr">Nakagawa <italic>et
+al.</italic> 2015</xref>]</th><th align="left" colspan="2" rowspan="1">CHECKMATE 017 [<xref rid="bibr8-1753465816661091" ref-type="bibr">Brahmer <italic>et al.</italic>
+2015</xref>]</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Immune related adverse events</td><td rowspan="1" colspan="1">All grade</td><td rowspan="1" colspan="1">Grade 3/4</td><td rowspan="1" colspan="1">Grade 3/4</td><td rowspan="1" colspan="1">Grade 3/4</td><td rowspan="1" colspan="1">All grade</td><td rowspan="1" colspan="1">Grade 3/4</td></tr><tr><td rowspan="1" colspan="1">Skin</td><td rowspan="1" colspan="1">15.5</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">28.6</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Gastrointestinal</td><td rowspan="1" colspan="1">11.6</td><td rowspan="1" colspan="1">0.8</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">5.7</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Pulmonary</td><td rowspan="1" colspan="1">7.0</td><td rowspan="1" colspan="1">2.3</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">5.7</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Endocrinopathies</td><td rowspan="1" colspan="1">6.2</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">11.4</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Hepatitis</td><td rowspan="1" colspan="1">4.7</td><td rowspan="1" colspan="1">0.8</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">5.7</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Renal injury</td><td rowspan="1" colspan="1">3.1</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">2.9</td><td rowspan="1" colspan="1">0</td></tr></tbody></table></alternatives></table-wrap></sec><sec id="section6-1753465816661091"><title>Role of predictive biomarkers</title><p>In this era of precision medicine, companion diagnostics such as a validated
+predictive biomarkers that may be able to help select for patients who are most
+likely to respond to treatment, is paramount in optimizing patient outcomes. Studies
+involving nivolumab have collected immunohistochemical (IHC) data in terms of
+measurement of PD-1, PD-L1 and tumor infiltrating lymphocytes (TIL) expression
+levels in tumor samples for correlation with treatment outcomes. Thus far, none of
+the above IHC expression levels have conclusively proven to be either prognostic or
+predictive of response to treatment. In CHECKMATE 017, tumor expression of PD-L1 by
+immunohistochemistry does not seems not to be predictive for OS or PFS benefit to
+nivolumab [<xref rid="bibr8-1753465816661091" ref-type="bibr">Brahmer <italic>et
+al.</italic> 2015</xref>]. However in CHECKMATE 057, PD-L1+ patients treated
+with nivolumab was associated with an improved OS, PFS and duration of response at
+the predefined 1%, 5%, and 10% cut-off points [<xref rid="bibr6-1753465816661091" ref-type="bibr">Borghaei <italic>et al.</italic> 2015</xref>].
+These findings suggest there may inherent differences in the tumor microenvironment
+between SCC <italic>versus</italic> nonsquamous cancer, consistent with the idea
+that these are two distinct diseases. Inherent challenges are present in the use of
+IHC expression levels, as differing antibodies and staining techniques may affect
+scoring. There are currently no standard criteria across various anti PD-1 and PD-L1
+trials in terms of reporting of a positive expression, making it even more
+challenging to confirm the utility of IHC expression level with outcomes. To improve
+on patient selection for ICIs, other biomarkers have been explored. Tumor mutation
+and neo-antigen load are potentially promising predictive factors [<xref rid="bibr30-1753465816661091" ref-type="bibr">Schumacher and Schreiber,
+2015</xref>]. However, the clinical applicability of this biomarker approach
+remains to be defined.</p></sec><sec id="section7-1753465816661091"><title>Conclusion and future perspectives</title><p>The positive results of CHECKMATE 017 have established the role of nivolumab as a
+superior option as compared with docetaxel in the second-line therapy in lung SCC.
+Studies of nivolumab in first-line settings are ongoing and results are greatly
+anticipated. Currently, many further studies are underway to investigate nivolumab&#x02019;s
+role both as a single agent and as combination therapy at various lines of treatment
+(<xref ref-type="table" rid="table5-1753465816661091">Table 5</xref>). These
+studies will undoubtedly help to further define the role of nivolumab in the
+treatment algorithm of NSCLC. However, undefined areas remain and are actively being
+explored, including the role of ICIs in the adjuvant setting, in stage III following
+chemotherapy and radiotherapy and duration of treatment. Further studies to
+investigate predictive biomarkers and a better understanding of how we evaluate
+treatment response will further help to optimize the outcomes of patients on
+treatment.</p><table-wrap id="table5-1753465816661091" orientation="portrait" position="float"><label>Table 5.</label><caption><p>Overview on the treatment of immune-related toxicities, adapted from Spain
+and colleagues [<xref rid="bibr33-1753465816661091" ref-type="bibr">Spain
+<italic>et al.</italic> 2016</xref>], Naidoo and colleagues [<xref rid="bibr24-1753465816661091" ref-type="bibr">Naidoo <italic>et
+al.</italic> 2015</xref>] and product insert [<xref rid="bibr9-1753465816661091" ref-type="bibr">Bristol-Myers-Squibb, 2016</xref>].</p></caption><alternatives><graphic xlink:href="10.1177_1753465816661091-table5"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Grade 1</th><th align="left" rowspan="1" colspan="1">Grade 2</th><th align="left" rowspan="1" colspan="1">Grade 3</th><th align="left" rowspan="1" colspan="1">Grade 4</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Skin</td><td rowspan="1" colspan="1">Topical steroid cream, antihistamines, can continue ICI</td><td rowspan="1" colspan="1">Initiate systemic steroids (prednisolone 0.5&#x02013;1 mg/kg/day) and
+delay treatment until symptoms resolve to Grade 1</td><td rowspan="1" colspan="1">Hold ICI. Commence steroids (prednisolone 1&#x02013;2 mg/kg/day).
+Dermatology consult for skin biopsy</td><td rowspan="1" colspan="1">Permanently discontinue ICI. Management as per Grade 3.</td></tr><tr><td rowspan="1" colspan="1">Gastrointestinal</td><td rowspan="1" colspan="1">Supportive measures, can continue ICI</td><td rowspan="1" colspan="1">Hold ICI. Commence steroids (prednisolone 0.5&#x02013;1 mg/kg/day) until
+symptoms improve to Grade 1. If symptoms do not improve after 5
+days, consider increasing steroids to 1&#x02013;2 mg/kg/day.</td><td rowspan="1" colspan="1">Hold ICI. Intravenous hydration, commence steroids (prednisolone
+1&#x02013;2 mg/kg/day). Add infliximab 5 mg/kg if no improvement</td><td rowspan="1" colspan="1">Permanently discontinue ICI. Acute treatment as per Grade 3,
+consider referral to gastroenterology and surgery for opinion in
+management.</td></tr><tr><td rowspan="1" colspan="1">Pulmonary</td><td rowspan="1" colspan="1">Consider commencement of steroids (prednisolone 0.5&#x02013;1
+mg/kg/day)</td><td rowspan="1" colspan="1">Hold ICI. Commence steroids (1&#x02013;2 mg/kg/day) until improvement.
+consider empiric antibiotics.</td><td rowspan="1" colspan="1">Permanently discontinue ICI. High dose steroids (IV
+methylprednisolone 2&#x02013;4 g/day) with empirical antibiotics. Add
+immunomodulatory agent if no improvement after 48 h. referral to
+pulmonologist for consideration of bronchoscopy.</td><td rowspan="1" colspan="1">Permanently discontinue ICI. Acute management as per Grade 3,
+consider intensive care support</td></tr><tr><td rowspan="1" colspan="1">Thyroid dysfunction</td><td rowspan="1" colspan="1">Continue ICI. Monitor thyroid function</td><td rowspan="1" colspan="1">Hold ICI. Referral to endocrinology for further management</td><td rowspan="1" colspan="1">Permanently discontinue ICI. Commence steroids (Prednisolone 1&#x02013;2
+mg/kg), referral to endocrinology for further management</td><td rowspan="1" colspan="1">Permanently discontinue ICI. Management as per Grade 3</td></tr><tr><td rowspan="1" colspan="1">Hepatitis</td><td rowspan="1" colspan="1">Continue ICI. Rule out other causes of hepatitis including
+viral, metabolic and alcoholic causes</td><td rowspan="1" colspan="1">Hold ICI. Commence steroids (prednisolone 0.5&#x02013;1 mg/kg/day) until
+symptoms improve to Grade 1.</td><td rowspan="1" colspan="1">Hold ICI, consider permanent discontinuation. Commence steroids
+as per Grade 2.</td><td rowspan="1" colspan="1">Permanent discontinue ICI. Acute treatment as per Grade 3,
+consider referral to hepatologist.</td></tr><tr><td rowspan="1" colspan="1">Renal</td><td rowspan="1" colspan="1">Can continue ICI. Supportive measures (encourage hydration,
+monitor renal function, medication reconciliation to avoid
+nephrotoxic drugs)</td><td rowspan="1" colspan="1">Hold ICI. Commence steroids (prednisolone 0.5&#x02013;1 mg/kg/day)</td><td rowspan="1" colspan="1">Permanently discontinue ICI, commence steroids (prednisolone 1&#x02013;2
+mg/kg/day), consider high dose steroids. Referral to
+nephrologist for further management</td><td rowspan="1" colspan="1">Permanently discontinue ICI. Acute management as per Grade 3,
+consider acute hemodialysis</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn3-1753465816661091"><p>ICI, immune checkpoint inhibitor; IV, intravenous.</p></fn></table-wrap-foot></table-wrap><p>In conclusion, ICI has proven benefit in the treatment of metastatic NSCLC,
+especially in the setting of SCC where targeted therapy with TKIs has not been
+particularly effective. It is currently a treatment of choice post-progression on
+platinum-based chemotherapy, and several studies are underway to examine its role in
+a first-line setting and also in combination with chemotherapy and other
+immunotherapeutic agents.</p></sec></body><back><ack><p>Ross Soo is supported by the National Research Foundation, Singapore and the
+Singapore Ministry of Education under its Research Centers of Excellence initiative.
+Joline Lim is supported by the National Medical Research Council, Singapore.</p></ack><fn-group><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: Ross Soo is supported
+by the National Research Foundation Singapore and the Singapore Ministry of
+Education under its Research Centres of Excellence initiative.</p></fn><fn fn-type="COI-statement"><p><bold>Conflict of interest statement:</bold> Joline Lim has no conflict of interest. Ross Soo has received honoraria from
+Astra-Zeneca, Boehringer Ingelheim, Lilly, Merck, Novartis, Pfizer, and
+Roche.</p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Akbay</surname><given-names>E.</given-names></name><name><surname>Koyama</surname><given-names>S.</given-names></name><name><surname>Carretero</surname><given-names>J.</given-names></name><name><surname>Altabef</surname><given-names>A.</given-names></name><name><surname>Tchaicha</surname><given-names>J.</given-names></name><name><surname>Christensen</surname><given-names>C.</given-names></name><etal/></person-group> (<year>2013</year>) <article-title>Activation of the Pd-1
+pathway contributes to immune escape in Egfr-driven lung
+tumors</article-title>. <source>Cancer Discov</source>
+<volume>3</volume>: <fpage>1355</fpage>&#x02013;<lpage>1363</lpage>.<pub-id pub-id-type="pmid">24078774</pub-id></mixed-citation></ref><ref id="bibr2-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ang</surname><given-names>Y.</given-names></name><name><surname>Tan</surname><given-names>H.</given-names></name><name><surname>Soo</surname><given-names>R.</given-names></name></person-group> (<year>2015</year>) <article-title>Best practice in the
+treatment of advanced squamous cell lung cancer</article-title>.
+<source>Ther Adv Respir Dis</source>
+<volume>9</volume>: <fpage>224</fpage>&#x02013;<lpage>235</lpage>.<pub-id pub-id-type="pmid">25902866</pub-id></mixed-citation></ref><ref id="bibr3-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Antonia</surname><given-names>S.</given-names></name><name><surname>Brahmer</surname><given-names>J.</given-names></name><name><surname>Gettinger</surname><given-names>S.</given-names></name><name><surname>Chow</surname><given-names>L.</given-names></name><name><surname>Juergens</surname><given-names>R.</given-names></name><name><surname>Shepherd</surname><given-names>F.</given-names></name><etal/></person-group> (<year>2014a</year>) <article-title>Nivolumab (Anti-Pd-1;
+Bms-936558, Ono-4538) in combination with platinum-based doublet
+chemotherapy (Pt-Dc) in advanced non-small cell lung cancer
+(NSCLC)</article-title>. <source>Int J Radiat Oncol Biol Phys</source>
+<volume>90</volume>: <fpage>S2</fpage>.</mixed-citation></ref><ref id="bibr4-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Antonia</surname><given-names>S.</given-names></name><name><surname>Gettinger</surname><given-names>S.</given-names></name><name><surname>Chow</surname><given-names>L.</given-names></name><name><surname>Juergens</surname><given-names>R.</given-names></name><name><surname>Borghaei</surname><given-names>H.</given-names></name><name><surname>Shen</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2014b</year>) <article-title>Nivolumab (Anti-Pd-1;
+Bms-936558, Ono-4538) and ipilimumab in first-line non-small cell lung
+cancer (NSCLC): Interim Phase 1 Results</article-title>. <source>J Clin
+Oncol</source>
+<volume>32</volume>(<issue>Suppl. 5</issue>):
+<fpage>8023</fpage>.</mixed-citation></ref><ref id="bibr5-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Apetoh</surname><given-names>L.</given-names></name><name><surname>Tesniere</surname><given-names>A.</given-names></name><name><surname>Ghiringhelli</surname><given-names>F.</given-names></name><name><surname>Kroemer</surname><given-names>G.</given-names></name><name><surname>Zitvogel</surname><given-names>L.</given-names></name></person-group> (<year>2008</year>) <article-title>Molecular interactions
+between dying tumor cells and the innate immune system determine the
+efficacy of conventional anticancer therapies</article-title>.
+<source>Cancer Res</source>
+<volume>68</volume>: <fpage>4026</fpage>&#x02013;<lpage>4030</lpage>.<pub-id pub-id-type="pmid">18519658</pub-id></mixed-citation></ref><ref id="bibr6-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Borghaei</surname><given-names>H.</given-names></name><name><surname>Paz-Ares</surname><given-names>L.</given-names></name><name><surname>Horn</surname><given-names>L.</given-names></name><name><surname>Spigel</surname><given-names>D.</given-names></name><name><surname>Steins</surname><given-names>M.</given-names></name><name><surname>Ready</surname><given-names>N.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Nivolumab
+<italic>versus</italic> docetaxel in advanced nonsquamous non-small cell
+lung cancer</article-title>. <source>N Engl J Med</source>
+<volume>373</volume>: <fpage>1627</fpage>&#x02013;<lpage>1639</lpage>.<pub-id pub-id-type="pmid">26412456</pub-id></mixed-citation></ref><ref id="bibr7-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brahmer</surname><given-names>J.</given-names></name><name><surname>Drake</surname><given-names>C.</given-names></name><name><surname>Wollner</surname><given-names>I.</given-names></name><name><surname>Powderly</surname><given-names>J.</given-names></name><name><surname>Picus</surname><given-names>J.</given-names></name><name><surname>Sharfman</surname><given-names>W.</given-names></name><etal/></person-group> (<year>2010</year>) <article-title>Phase I study of
+single-agent anti-programmed death-1 (Mdx-1106) in refractory solid tumors:
+safety, clinical activity, pharmacodynamics, and immunologic
+correlates</article-title>. <source>J Clin Oncol</source>
+<volume>28</volume>: <fpage>3167</fpage>&#x02013;<lpage>3175</lpage>.<pub-id pub-id-type="pmid">20516446</pub-id></mixed-citation></ref><ref id="bibr8-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brahmer</surname><given-names>J.</given-names></name><name><surname>Reckamp</surname><given-names>K.</given-names></name><name><surname>Baas</surname><given-names>P.</given-names></name><name><surname>Crino</surname><given-names>L.</given-names></name><name><surname>Eberhardt</surname><given-names>W.</given-names></name><name><surname>Poddubskaya</surname><given-names>E.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Nivolumab
+<italic>versus</italic> docetaxel in advanced squamous-cell non-small
+cell lung cancer</article-title>. <source>N Engl J Med</source>
+<volume>373</volume>: <fpage>123</fpage>&#x02013;<lpage>135</lpage>.<pub-id pub-id-type="pmid">26028407</pub-id></mixed-citation></ref><ref id="bibr9-1753465816661091"><mixed-citation publication-type="web">
+<collab>Bristol-Myers-Squibb</collab> (<year>2016</year>) <article-title>Opdivo
+Product Insert</article-title> (version revised 01/2016). Available at:
+<ext-link ext-link-type="uri" xlink:href="http://packageinserts.bms.com/pi/pi_opdivo.pdf">http://packageinserts.bms.com/pi/pi_opdivo.pdf</ext-link>
+(<comment>accessed 20 July 2016</comment>).</mixed-citation></ref><ref id="bibr10-1753465816661091"><mixed-citation publication-type="journal">
+<collab>Cancer Genome Atlas Research</collab> (<year>2012</year>)
+<article-title>Comprehensive genomic characterization of squamous cell lung
+cancers</article-title>. <source>Nature</source>
+<volume>489</volume>: <fpage>519</fpage>&#x02013;<lpage>525</lpage>.<pub-id pub-id-type="pmid">22960745</pub-id></mixed-citation></ref><ref id="bibr11-1753465816661091"><mixed-citation publication-type="journal">
+<collab>Cancer Genome Atlas Research</collab> (<year>2014</year>)
+<article-title>Comprehensive molecular profiling of lung
+adenocarcinoma</article-title>. <source>Nature</source>
+<volume>511</volume>: <fpage>543</fpage>&#x02013;<lpage>550</lpage>.<pub-id pub-id-type="pmid">25079552</pub-id></mixed-citation></ref><ref id="bibr12-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Curran</surname><given-names>M.</given-names></name><name><surname>Montalvo</surname><given-names>W.</given-names></name><name><surname>Yagita</surname><given-names>H.</given-names></name><name><surname>Allison</surname><given-names>J.</given-names></name></person-group> (<year>2010</year>) <article-title>Pd-1 and Ctla-4 combination
+blockade expands infiltrating T-cells and reduces regulatory T and myeloid
+cells within B16 melanoma tumors</article-title>. <source>Proc Natl Acad Sci
+USA</source>
+<volume>107</volume>: <fpage>4275</fpage>&#x02013;<lpage>4280</lpage>.<pub-id pub-id-type="pmid">20160101</pub-id></mixed-citation></ref><ref id="bibr13-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De la Cruz</surname><given-names>C.</given-names></name><name><surname>Tanoue</surname><given-names>L.</given-names></name><name><surname>Matthay</surname><given-names>R.</given-names></name></person-group> (<year>2011</year>) <article-title>Lung cancer: epidemiology,
+etiology, and prevention</article-title>. <source>Clin Chest Med</source>
+<volume>32</volume>: <fpage>605</fpage>&#x02013;<lpage>644</lpage>.<pub-id pub-id-type="pmid">22054876</pub-id></mixed-citation></ref><ref id="bibr14-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>D&#x02019;Incecco</surname><given-names>A.</given-names></name><name><surname>Andreozzi</surname><given-names>M.</given-names></name><name><surname>Ludovini</surname><given-names>V.</given-names></name><name><surname>Rossi</surname><given-names>E.</given-names></name><name><surname>Capodanno</surname><given-names>A.</given-names></name><name><surname>Landi</surname><given-names>L.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Pd-1 and Pd-L1 expression in
+molecularly selected non-small cell lung cancer patients</article-title>.
+<source>Br J Cancer</source>
+<volume>112</volume>: <fpage>95</fpage>&#x02013;<lpage>102</lpage>.<pub-id pub-id-type="pmid">25349974</pub-id></mixed-citation></ref><ref id="bibr15-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garon</surname><given-names>E.</given-names></name><name><surname>Ciuleanu</surname><given-names>T.</given-names></name><name><surname>Arrieta</surname><given-names>O.</given-names></name><name><surname>Prabhash</surname><given-names>K.</given-names></name><name><surname>Syrigos</surname><given-names>K.</given-names></name><name><surname>Goksel</surname><given-names>T.</given-names></name><etal/></person-group> (<year>2014</year>) <article-title>Ramucirumab plus docetaxel
+<italic>versus</italic> placebo plus docetaxel for second-line treatment
+of stage IV non-small-cell lung cancer after disease progression on
+platinum-based therapy (revel): a multicentre, double-blind, randomised
+phase 3 trial</article-title>. <source>Lancet</source>
+<volume>384</volume>: <fpage>665</fpage>&#x02013;<lpage>673</lpage>.<pub-id pub-id-type="pmid">24933332</pub-id></mixed-citation></ref><ref id="bibr16-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gettinger</surname><given-names>S.</given-names></name><name><surname>Hellmann</surname><given-names>M.</given-names></name><name><surname>Shepherd</surname><given-names>F.</given-names></name><name><surname>Antonia</surname><given-names>S.</given-names></name><name><surname>Brahmer</surname><given-names>J.</given-names></name><name><surname>Goldman</surname><given-names>J.</given-names></name><etal/></person-group> (<year>2015a</year>) <article-title>First-line monotherapy with
+nivolumab in advanced non-small cell lung cancer: safety, efficacy and
+correlation of outcomes with Pd-1 ligand expression</article-title>.
+<source>J Clin Oncol</source>
+<volume>33</volume>(<issue>suppl</issue>): abstr
+8025.</mixed-citation></ref><ref id="bibr17-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gettinger</surname><given-names>S.</given-names></name><name><surname>Horn</surname><given-names>L.</given-names></name><name><surname>Gandhi</surname><given-names>L.</given-names></name><name><surname>Spigel</surname><given-names>D.</given-names></name><name><surname>Antonia</surname><given-names>S.</given-names></name><name><surname>Rizvi</surname><given-names>N.</given-names></name><etal/></person-group> (<year>2015b</year>) <article-title>Overall survival and
+long-term safety of nivolumab (anti-programmed death 1 antibody, Bms-936558,
+Ono-4538) in patients with previously treated advanced non-small cell lung
+cancer</article-title>. <source>J Clin Oncol</source>
+<volume>33</volume>: <fpage>2004</fpage>&#x02013;<lpage>2012</lpage>.<pub-id pub-id-type="pmid">25897158</pub-id></mixed-citation></ref><ref id="bibr18-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gralla</surname><given-names>R.</given-names></name><name><surname>Coon</surname><given-names>C.</given-names></name><name><surname>Taylor</surname><given-names>F.</given-names></name><name><surname>Penrod</surname><given-names>J.</given-names></name><name><surname>Derosa</surname><given-names>M.</given-names></name><name><surname>Dastani</surname><given-names>H.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Evaluation of
+disease-related symptoms in patients with advanced squamous non-small cell
+lung cancer treated with nivolumab or docetaxel</article-title>. <source>J
+Thorac Oncol</source>
+<volume>10</volume>(<issue>Suppl 2</issue>):
+<fpage>S233</fpage>.</mixed-citation></ref><ref id="bibr19-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Horn</surname><given-names>L.</given-names></name><name><surname>Rizvi</surname><given-names>N.</given-names></name><name><surname>Mazieres</surname><given-names>J.</given-names></name><name><surname>Planchard</surname><given-names>D.</given-names></name><name><surname>Stinchcombe</surname><given-names>T.</given-names></name><name><surname>Dy</surname><given-names>G.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Longer-term follow-up of a
+phase 2 study (checkmate 063) of nivolumab in patients with advanced,
+refractory squamous non-small cell lung cancer</article-title>. <source>J
+Thorac Oncol</source>
+<volume>10</volume>(<issue>Suppl 2</issue>):
+<fpage>S175</fpage>.</mixed-citation></ref><ref id="bibr20-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hussein</surname><given-names>M.</given-names></name><name><surname>McCleod</surname><given-names>M.</given-names></name><name><surname>Chandler</surname><given-names>J.</given-names></name></person-group> (<year>2015</year>) <article-title>Safety and efficacy of
+nivolumab in an ongoing trial of a Pd-L1+/- patient population with
+metastatic non-small cell lung cancer</article-title>. <source>J Thorac
+Oncol</source>
+<volume>10</volume>(<issue>Suppl 2</issue>):
+<fpage>S175</fpage>.</mixed-citation></ref><ref id="bibr21-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>E.</given-names></name><name><surname>Hirsh</surname><given-names>V.</given-names></name><name><surname>Mok</surname><given-names>T.</given-names></name><name><surname>Socinski</surname><given-names>M.</given-names></name><name><surname>Gervais</surname><given-names>R.</given-names></name><name><surname>Wu</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2008</year>) <article-title>Gefitinib
+<italic>versus</italic> docetaxel in previously treated non-small cell
+lung cancer (interest): a randomised phase III trial</article-title>.
+<source>Lancet</source>
+<volume>372</volume>: <fpage>1809</fpage>&#x02013;<lpage>1818</lpage>.<pub-id pub-id-type="pmid">19027483</pub-id></mixed-citation></ref><ref id="bibr22-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kris</surname><given-names>M.</given-names></name><name><surname>Johnson</surname><given-names>B.</given-names></name><name><surname>Berry</surname><given-names>L.</given-names></name><name><surname>Kwiatkowski</surname><given-names>D.</given-names></name><name><surname>Iafrate</surname><given-names>A.</given-names></name><name><surname>Wistuba</surname><given-names>I.</given-names></name><etal/></person-group> (<year>2014</year>) <article-title>Using multiplexed assays of
+oncogenic drivers in lung cancers to select targeted drugs</article-title>.
+<source>JAMA</source>
+<volume>31</volume>: <fpage>1998</fpage>&#x02013;<lpage>2006</lpage>.</mixed-citation></ref><ref id="bibr23-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kumarakulasinghe</surname><given-names>N.</given-names></name><name><surname>Van Zanwijk</surname><given-names>N.</given-names></name><name><surname>Soo</surname><given-names>R.</given-names></name></person-group> (<year>2015</year>) <article-title>Molecular targeted therapy in
+the treatment of advanced stage non-small cell lung cancer
+(NSCLC)</article-title>. <source>Respirology</source>
+<volume>20</volume>: <fpage>370</fpage>&#x02013;<lpage>378</lpage>.<pub-id pub-id-type="pmid">25689095</pub-id></mixed-citation></ref><ref id="bibr24-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Naidoo</surname><given-names>J.</given-names></name><name><surname>Page</surname><given-names>D.</given-names></name><name><surname>Li</surname><given-names>B.</given-names></name><name><surname>Connell</surname><given-names>L.</given-names></name><name><surname>Schindler</surname><given-names>K.</given-names></name><name><surname>Lacouture</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Toxicities of the anti-Pd-1
+and anti-Pd-L1 immune checkpoint antibodies</article-title>. <source>Ann
+Oncol</source>
+<volume>26</volume>: <fpage>2375</fpage>&#x02013;<lpage>2391</lpage>.<pub-id pub-id-type="pmid">26371282</pub-id></mixed-citation></ref><ref id="bibr25-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakagawa</surname><given-names>K. M.</given-names></name><name><surname>Sakai</surname><given-names>H.</given-names></name><name><surname>Nogami</surname><given-names>N.</given-names></name><name><surname>Atagi</surname><given-names>S.</given-names></name><name><surname>Takahashi</surname><given-names>T.</given-names></name><name><surname>Nishio</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Phase II studies of
+nivolumab in patients with advanced squamous (SQ) or nonsquamous (NSQ)
+non-small cell lung cancer (NSCLC)</article-title>. <source>J Thorac
+Oncol</source>
+<volume>10</volume>(<issue>Suppl 2</issue>):
+<fpage>S270</fpage>.</mixed-citation></ref><ref id="bibr26-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nishino</surname><given-names>M.</given-names></name><name><surname>Sholl</surname><given-names>L.</given-names></name><name><surname>Hodi</surname><given-names>F.</given-names></name><name><surname>Hatabu</surname><given-names>H.</given-names></name><name><surname>Ramaiya</surname><given-names>N.</given-names></name></person-group> (<year>2015</year>) <article-title>Anti-Pd-1-related pneumonitis
+during cancer immunotherapy</article-title>. <source>N Engl J Med</source>
+<volume>373</volume>: <fpage>288</fpage>&#x02013;<lpage>290</lpage>.<pub-id pub-id-type="pmid">26176400</pub-id></mixed-citation></ref><ref id="bibr27-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reck</surname><given-names>M.</given-names></name><name><surname>Kaiser</surname><given-names>R.</given-names></name><name><surname>Mellemgaard</surname><given-names>A.</given-names></name><name><surname>Douillard</surname><given-names>J.</given-names></name><name><surname>Orlov</surname><given-names>S.</given-names></name><name><surname>Krzakowski</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2014</year>) <article-title>Docetaxel plus nintedanib
+<italic>versus</italic> docetaxel plus placebo in patients with
+previously treated non-small-cell lung cancer (Lume-Lung 1): a phase 3,
+double-blind, randomised controlled trial</article-title>. <source>Lancet
+Oncol</source>
+<volume>15</volume>: <fpage>143</fpage>&#x02013;<lpage>155</lpage>.<pub-id pub-id-type="pmid">24411639</pub-id></mixed-citation></ref><ref id="bibr28-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rizvi</surname><given-names>N.</given-names></name><name><surname>Mazieres</surname><given-names>J.</given-names></name><name><surname>Planchard</surname><given-names>D.</given-names></name><name><surname>Stinchcombe</surname><given-names>T.</given-names></name><name><surname>Dy</surname><given-names>G.</given-names></name><name><surname>Antonia</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Activity and safety of
+nivolumab, an anti-pd-1 immune checkpoint inhibitor, for patients with
+advanced, refractory squamous non-small-cell lung cancer (checkmate 063): a
+phase 2, single-arm trial</article-title>. <source>Lancet Oncol</source>
+<volume>16</volume>: <fpage>257</fpage>&#x02013;<lpage>265</lpage>.<pub-id pub-id-type="pmid">25704439</pub-id></mixed-citation></ref><ref id="bibr29-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rizvi</surname><given-names>N.</given-names></name><name><surname>Quan</surname><given-names>L.</given-names></name><name><surname>Borghaei</surname><given-names>H.</given-names></name><name><surname>Shen</surname><given-names>Y.</given-names></name><name><surname>Harbison</surname><given-names>C.</given-names></name><name><surname>Alparthy</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2014</year>) <article-title>Safety and response with
+nivolumab (anti-Pd-1; Bms-936558, Ono-4538) plus erlotinib in patients (Pts)
+with epidermal growth factor receptor mutant (EGFR MT) advanced
+NSCLC</article-title>. <source>J Clin Oncol</source>
+<volume>32</volume>(<issue>Suppl. 5</issue>):
+<fpage>8022</fpage>.</mixed-citation></ref><ref id="bibr30-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schumacher</surname><given-names>T.</given-names></name><name><surname>Schreiber</surname><given-names>R.</given-names></name></person-group> (<year>2015</year>) <article-title>Neoantigens in cancer
+immunotherapy</article-title>. <source>Science</source>
+<volume>348</volume>: <fpage>69</fpage>&#x02013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">25838375</pub-id></mixed-citation></ref><ref id="bibr31-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shepherd</surname><given-names>F.</given-names></name><name><surname>Dancey</surname><given-names>J.</given-names></name><name><surname>Ramlau</surname><given-names>R.</given-names></name><name><surname>Mattson</surname><given-names>K.</given-names></name><name><surname>Gralla</surname><given-names>R.</given-names></name><name><surname>O&#x02019;Rourke</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2000</year>) <article-title>Prospective randomized trial
+of docetaxel <italic>versus</italic> best supportive care in patients with
+non-small cell lung cancer previously treated with platinum-based
+chemotherapy</article-title>. <source>J Clin Oncol</source>
+<volume>18</volume>: <fpage>2095</fpage>&#x02013;<lpage>2103</lpage>.<pub-id pub-id-type="pmid">10811675</pub-id></mixed-citation></ref><ref id="bibr32-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Soria</surname><given-names>J.</given-names></name><name><surname>Felip</surname><given-names>E.</given-names></name><name><surname>Cobo</surname><given-names>M.</given-names></name><name><surname>Lu</surname><given-names>S.</given-names></name><name><surname>Syrigos</surname><given-names>K.</given-names></name><name><surname>Lee</surname><given-names>K.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Afatinib
+<italic>versus</italic> erlotinib as second-line treatment of patients
+with advanced squamous cell carcinoma of the lung (Lux-Lung 8): an
+open-label randomised controlled phase 3 trial</article-title>.
+<source>Lancet Oncol</source>
+<volume>16</volume>: <fpage>897</fpage>&#x02013;<lpage>907</lpage>.<pub-id pub-id-type="pmid">26156651</pub-id></mixed-citation></ref><ref id="bibr33-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spain</surname><given-names>L.</given-names></name><name><surname>Diem</surname><given-names>S.</given-names></name><name><surname>Larkin</surname><given-names>J.</given-names></name></person-group> (<year>2016</year>) <article-title>Management of toxicities of
+immune checkpoint inhibitors</article-title>. <source>Cancer Treat
+Rev</source>
+<volume>44</volume>: <fpage>51</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">26874776</pub-id></mixed-citation></ref><ref id="bibr34-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sundar</surname><given-names>R.</given-names></name><name><surname>Cho</surname><given-names>B.</given-names></name><name><surname>Brahmer</surname><given-names>J.</given-names></name><name><surname>Soo</surname><given-names>R.</given-names></name></person-group> (<year>2015</year>) <article-title>Nivolumab in NSCLC: latest
+evidence and clinical potential</article-title>. <source>Ther Adv Med
+Oncol</source>
+<volume>7</volume>: <fpage>85</fpage>&#x02013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">25755681</pub-id></mixed-citation></ref><ref id="bibr35-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thatcher</surname><given-names>N.</given-names></name><name><surname>Hirsch</surname><given-names>F.</given-names></name><name><surname>Luft</surname><given-names>A.</given-names></name><name><surname>Szczesna</surname><given-names>A.</given-names></name><name><surname>Ciuleanu</surname><given-names>T.</given-names></name><name><surname>Dediu</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Necitumumab plus gemcitabine
+and cisplatin <italic>versus</italic> gemcitabine and cisplatin alone as
+first-line therapy in patients with stage IV squamous non-small cell lung
+cancer (squire): an open-label, randomised, controlled phase 3
+trial</article-title>. <source>Lancet Oncol</source>
+<volume>16</volume>: <fpage>763</fpage>&#x02013;<lpage>774</lpage>.<pub-id pub-id-type="pmid">26045340</pub-id></mixed-citation></ref><ref id="bibr36-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Topalian</surname><given-names>S.</given-names></name><name><surname>Hodi</surname><given-names>F.</given-names></name><name><surname>Brahmer</surname><given-names>J.</given-names></name><name><surname>Gettinger</surname><given-names>S.</given-names></name><name><surname>Smith</surname><given-names>D.</given-names></name><name><surname>Mcdermott</surname><given-names>D.</given-names></name><etal/></person-group> (<year>2012</year>) <article-title>Safety, activity, and immune
+correlates of anti-Pd-1 antibody in cancer</article-title>. <source>N Engl J
+Med</source>
+<volume>366</volume>: <fpage>2443</fpage>&#x02013;<lpage>2454</lpage>.<pub-id pub-id-type="pmid">22658127</pub-id></mixed-citation></ref><ref id="bibr37-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Torri</surname><given-names>V.</given-names></name><name><surname>Ando</surname><given-names>M.</given-names></name><name><surname>Rulli</surname><given-names>E.</given-names></name><name><surname>Floriani</surname><given-names>I.</given-names></name><name><surname>Kawaguchi</surname><given-names>T.</given-names></name><name><surname>Isa</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2015</year>) <article-title>Individual patients data
+analysis (IPD) of three randomized studies comparing erlotinib (E) with
+chemotherapy (CT) in patients with advanced wild-type epidermal growth
+factor receptor (WTEGFR) non-small cell lung cancer (NSCLC)</article-title>.
+<source>J Clin Oncol</source>
+<volume>33</volume>: abstr 8048.</mixed-citation></ref><ref id="bibr38-1753465816661091"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>C.</given-names></name><name><surname>Thudium</surname><given-names>K.</given-names></name><name><surname>Han</surname><given-names>M.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Huang</surname><given-names>H.</given-names></name><name><surname>Feingersh</surname><given-names>D.</given-names></name><etal/></person-group> (<year>2014</year>) <article-title>In vitro characterization of
+the anti-PD-1 antibody nivolumab, BMS-936558, and in vivo toxicology in
+non-human primates</article-title>. <source>Cancer Immunol Res</source>
+<volume>2</volume>: <fpage>846</fpage>&#x02013;<lpage>856</lpage>.<pub-id pub-id-type="pmid">24872026</pub-id></mixed-citation></ref></ref-list></back></article>

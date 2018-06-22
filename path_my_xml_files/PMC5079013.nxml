@@ -1,0 +1,912 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27625344</article-id><article-id pub-id-type="pmc">5079013</article-id><article-id pub-id-type="doi">10.1161/JAHA.116.003421</article-id><article-id pub-id-type="publisher-id">JAH31709</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Coronary Heart Disease</subject></subj-group></subj-group></article-categories><title-group><article-title>Efficacy and Safety of Alirocumab 150&#x000a0;mg Every 4&#x000a0;Weeks in Patients With Hypercholesterolemia Not on Statin Therapy: The <styled-content style="fixed-case">ODYSSEY CHOICE II</styled-content> Study</article-title><alt-title alt-title-type="left-running-head">Stroes et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah31709-cr-0001" contrib-type="author" corresp="yes"><name><surname>Stroes</surname><given-names>Erik</given-names></name><degrees>MD, PhD</degrees><address><email>e.s.stroes@amc.uva.nl</email></address><xref ref-type="aff" rid="jah31709-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah31709-cr-0002" contrib-type="author"><name><surname>Guyton</surname><given-names>John R.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31709-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah31709-cr-0003" contrib-type="author"><name><surname>Lepor</surname><given-names>Norman</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31709-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah31709-cr-0004" contrib-type="author"><name><surname>Civeira</surname><given-names>Fernando</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31709-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah31709-cr-0005" contrib-type="author"><name><surname>Gaudet</surname><given-names>Daniel</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah31709-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jah31709-cr-0006" contrib-type="author"><name><surname>Watts</surname><given-names>Gerald F.</given-names></name><degrees>MD, DSc</degrees><xref ref-type="aff" rid="jah31709-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="jah31709-cr-0007" contrib-type="author"><name><surname>Baccara&#x02010;Dinet</surname><given-names>Marie T.</given-names></name><degrees>MD, MSc</degrees><xref ref-type="aff" rid="jah31709-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="jah31709-cr-0008" contrib-type="author"><name><surname>Lecorps</surname><given-names>Guillaume</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="jah31709-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="jah31709-cr-0009" contrib-type="author"><name><surname>Manvelian</surname><given-names>Garen</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31709-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="jah31709-cr-0010" contrib-type="author"><name><surname>Farnier</surname><given-names>Michel</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah31709-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="jah31709-cr-0011" contrib-type="author"><collab collab-type="authors">the ODYSSEY CHOICE II Investigators</collab></contrib></contrib-group><contrib-group><contrib id="jah31709-cr-0012" contrib-type="author"><name><surname>Kostner</surname><given-names>K.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0013" contrib-type="author"><name><surname>Lehman</surname><given-names>S.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0014" contrib-type="author"><name><surname>Descamps</surname><given-names>O.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0015" contrib-type="author"><name><surname>Gheyle</surname><given-names>L.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0016" contrib-type="author"><name><surname>Mathieu</surname><given-names>C.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0017" contrib-type="author"><name><surname>Bergeron</surname><given-names>J.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0018" contrib-type="author"><name><surname>Elliott</surname><given-names>T.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0019" contrib-type="author"><name><surname>Girard</surname><given-names>G.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0020" contrib-type="author"><name><surname>Gupta</surname><given-names>A.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0021" contrib-type="author"><name><surname>Hoag</surname><given-names>G.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0022" contrib-type="author"><name><surname>Hove</surname><given-names>J.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0023" contrib-type="author"><name><surname>Jeppesen</surname><given-names>J.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0024" contrib-type="author"><name><surname>Kj&#x000e6;rulf</surname><given-names>J.H.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0025" contrib-type="author"><name><surname>Klarlund</surname><given-names>K.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0026" contrib-type="author"><name><surname>Thomsen</surname><given-names>K.K.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0027" contrib-type="author"><name><surname>Basart</surname><given-names>D.C.G.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0028" contrib-type="author"><name><surname>Kooy</surname><given-names>A.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0029" contrib-type="author"><name><surname>Liem</surname><given-names>A.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0030" contrib-type="author"><name><surname>Swart</surname><given-names>H.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0031" contrib-type="author"><name><surname>Troquay</surname><given-names>R.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0032" contrib-type="author"><name><surname>Van Het Hof&#x02010;Wiersma</surname><given-names>J</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0033" contrib-type="author"><name><surname>Viergever</surname><given-names>P.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0034" contrib-type="author"><name><surname>Visseren</surname><given-names>F.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0035" contrib-type="author"><name><surname>Doughty</surname><given-names>R.N.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0036" contrib-type="author"><name><surname>Scott</surname><given-names>R.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0037" contrib-type="author"><name><surname>Calvo</surname><given-names>C.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0038" contrib-type="author"><name><surname>D&#x000ed;az&#x02010;D&#x000ed;az</surname><given-names>J.L.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0039" contrib-type="author"><name><surname>Fuentes</surname><given-names>F.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0040" contrib-type="author"><name><surname>Gil&#x02010;Extremera</surname><given-names>B.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0041" contrib-type="author"><name><surname>Jeric&#x000f3;</surname><given-names>C.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0042" contrib-type="author"><name><surname>Matas Pericas</surname><given-names>L.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0043" contrib-type="author"><name><surname>Mediavilla Garcia</surname><given-names>J.D.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0044" contrib-type="author"><name><surname>Bolster</surname><given-names>D.E.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0045" contrib-type="author"><name><surname>Koren</surname><given-names>M.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0046" contrib-type="author"><name><surname>El Shahawy</surname><given-names>M.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0047" contrib-type="author"><name><surname>Vardi</surname><given-names>G.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0048" contrib-type="author"><name><surname>Weinstein</surname><given-names>D.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0049" contrib-type="author"><name><surname>Zuzarte</surname><given-names>K.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0050" contrib-type="author"><name><surname>Ginsberg</surname><given-names>Henry</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0051" contrib-type="author"><name><surname>Robinson</surname><given-names>Jennifer G.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0052" contrib-type="author"><name><surname>Rader</surname><given-names>Daniel J.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0053" contrib-type="author"><name><surname>Cannon</surname><given-names>Christopher P.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0054" contrib-type="author"><name><surname>Colhoun</surname><given-names>Helen</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0055" contrib-type="author"><name><surname>Kastelein</surname><given-names>John J.P.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0056" contrib-type="author"><name><surname>Huo</surname><given-names>Yong</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0057" contrib-type="author"><name><surname>Olsson</surname><given-names>Anders</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0058" contrib-type="author"><name><surname>Waters</surname><given-names>David</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0059" contrib-type="author"><name><surname>Larrey</surname><given-names>Dominique</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0060" contrib-type="author"><name><surname>Rosenson</surname><given-names>Robert S.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0061" contrib-type="author"><name><surname>Patriarca</surname><given-names>Peter A.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0062" contrib-type="author"><name><surname>Molenberghs</surname><given-names>Geert</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0063" contrib-type="author"><name><surname>Tricoci</surname><given-names>Pierluigi</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0064" contrib-type="author"><name><surname>Mahaffey</surname><given-names>Kenneth W.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0065" contrib-type="author"><name><surname>Lopes</surname><given-names>Renato D.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0066" contrib-type="author"><name><surname>Shah</surname><given-names>Bimal R.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0067" contrib-type="author"><name><surname>Mehta</surname><given-names>Rajendra H.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0068" contrib-type="author"><name><surname>Roe</surname><given-names>Matthew T.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0069" contrib-type="author"><name><surname>Eapen</surname><given-names>Zubin</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0070" contrib-type="author"><name><surname>Armaganijan</surname><given-names>Luciana</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0071" contrib-type="author"><name><surname>Bertolami</surname><given-names>Adriana</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0072" contrib-type="author"><name><surname>Leonardi</surname><given-names>Sergio</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0073" contrib-type="author"><name><surname>Kolls</surname><given-names>Bradley J.</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0074" contrib-type="author"><name><surname>Jordan</surname><given-names>J. Dedrick</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0075" contrib-type="author"><name><surname>Ducrocq</surname><given-names>Gr&#x000e9;gory</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0076" contrib-type="author"><name><surname>Puymirat</surname><given-names>Etienne</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib><contrib id="jah31709-cr-0077" contrib-type="author"><name><surname>Mathews</surname><given-names>Robin</given-names></name><xref ref-type="contrib" rid="jah31709-cr-0011"/></contrib></contrib-group><aff id="jah31709-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Vascular Medicine</named-content><institution>Academic Medical Center</institution><named-content content-type="city">Amsterdam</named-content><country country="NL">The Netherlands</country></aff><aff id="jah31709-aff-0002"><label><sup>2</sup></label><institution>Duke University Medical Center</institution><named-content content-type="city">Durham</named-content><named-content content-type="country-part">NC</named-content></aff><aff id="jah31709-aff-0003"><label><sup>3</sup></label><institution>Westside Medical Associates of Los Angeles Cedars&#x02010;Sinai Heart Institute</institution><named-content content-type="city">Beverly Hills</named-content><named-content content-type="country-part">CA</named-content></aff><aff id="jah31709-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Lipid Unit</named-content><named-content content-type="organisation-division">Hospital Universitario Miguel Servet</named-content><institution>IIS Aragon</institution><named-content content-type="city">Zaragoza</named-content><country country="ES">Spain</country></aff><aff id="jah31709-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">ECOGENE&#x02010;21 Clinical and Translational Research Center and Department of Medicine</named-content><institution>Universit&#x000e9; de Montr&#x000e9;al</institution><named-content content-type="city">Chicoutimi</named-content><named-content content-type="country-part">Quebec</named-content><country country="CA">Canada</country></aff><aff id="jah31709-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Lipid Disorders Clinic</named-content><named-content content-type="organisation-division">Cardiovascular Medicine</named-content><named-content content-type="organisation-division">Royal Perth Hospital</named-content><named-content content-type="organisation-division">School of Medicine and Pharmacology</named-content><institution>University of Western Australia</institution><named-content content-type="city">Perth</named-content><country country="AU">Australia</country></aff><aff id="jah31709-aff-0007"><label><sup>7</sup></label><named-content content-type="organisation-division">Sanofi</named-content><named-content content-type="organisation-division">Clinical Development</named-content><institution>R&#x00026;D</institution><named-content content-type="city">Montpellier</named-content><country country="FR">France</country></aff><aff id="jah31709-aff-0008"><label><sup>8</sup></label><institution>Sanofi</institution><named-content content-type="city">Chilly&#x02010;Mazarin</named-content><country country="FR">France</country></aff><aff id="jah31709-aff-0009"><label><sup>9</sup></label><institution>Regeneron Pharmaceuticals Inc</institution><named-content content-type="city">Tarrytown</named-content><named-content content-type="country-part">NY</named-content></aff><aff id="jah31709-aff-0010"><label><sup>10</sup></label><named-content content-type="organisation-division">Lipid Clinic</named-content><institution>Point M&#x000e9;dical</institution><named-content content-type="city">Dijon</named-content><country country="FR">France</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Erik Stroes, MD, PhD, Department of Vascular Medicine, F4.211, Academic Medical Center, Meibergdreef 9, 1105 AZ Amsterdam, The Netherlands. E&#x02010;mail: <email>e.s.stroes@amc.uva.nl</email></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>9</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2016</year></pub-date><volume>5</volume><issue>9</issue><issue-id pub-id-type="doi">10.1002/jah3.2016.5.issue-9</issue-id><elocation-id>e003421</elocation-id><history><date date-type="received"><day>24</day><month>2</month><year>2016</year></date><date date-type="accepted"><day>29</day><month>6</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors, Sanofi, and Regeneron Pharmaceuticals, Inc. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-5-e003421.pdf"/><abstract id="jah31709-abs-0001"><sec id="jah31709-sec-0001"><title>Background</title><p>The <styled-content style="fixed-case">PCSK</styled-content>9 antibody alirocumab (75&#x000a0;mg every 2&#x000a0;weeks; Q2W) as monotherapy reduced low&#x02010;density lipoprotein&#x02010;cholesterol (<styled-content style="fixed-case">LDL</styled-content>&#x02010;C) levels by 47%. Because the option of a monthly dosing regimen is convenient, <styled-content style="fixed-case">ODYSSEY CHOICE II</styled-content> evaluated alirocumab 150&#x000a0;mg Q4W in patients with inadequately controlled hypercholesterolemia and not on statin (majority with statin&#x02010;associated muscle symptoms), receiving treatment with fenofibrate, ezetimibe, or diet&#x000a0;alone.</p></sec><sec id="jah31709-sec-0002"><title>Methods and Results</title><p>Patients were randomly assigned to placebo, alirocumab 150&#x000a0;mg Q4W or 75&#x000a0;mg Q2W (calibrator arm), with dose adjustment to 150&#x000a0;mg Q2W at week (W) 12 if W8 predefined <styled-content style="fixed-case">LDL</styled-content>&#x02010;C target levels were not met. The primary efficacy endpoint was <styled-content style="fixed-case">LDL</styled-content>&#x02010;C percentage change from baseline to W24. Mean baseline <styled-content style="fixed-case">LDL</styled-content>&#x02010;C levels were 163.9&#x000a0;mg/dL (alirocumab 150&#x000a0;mg Q4W, n=59), 154.5&#x000a0;mg/dL (alirocumab 75&#x000a0;mg Q2W, n=116), and 158.5&#x000a0;mg/dL (placebo, n=58). In the alirocumab 150&#x000a0;mg Q4W and 75&#x000a0;mg Q2W groups (49.1% and 36.0% of patients received dose adjustment, respectively), least&#x02010;squares mean <styled-content style="fixed-case">LDL</styled-content>&#x02010;C changes from baseline to W24 were &#x02212;51.7% and &#x02212;53.5%, respectively (placebo [+4.7%]; both groups <italic>P</italic>&#x0003c;0.0001 versus placebo). In total, 63.9% and 70.3% of alirocumab&#x02010;treated patients achieved their <styled-content style="fixed-case">LDL</styled-content>&#x02010;C targets at W24. Treatment&#x02010;emergent adverse events occurred in 77.6% (alirocumab 150&#x000a0;mg Q4W), 73.0% (alirocumab 75&#x000a0;mg Q2W), and 63.8% (placebo) of patients, with injection&#x02010;site reactions among the most common treatment&#x02010;emergent adverse events.</p></sec><sec id="jah31709-sec-0003"><title>Conclusions</title><p>Alirocumab 150&#x000a0;mg Q4W can be considered in patients not on statin with inadequately controlled hypercholesterolemia as a convenient option for lowering <styled-content style="fixed-case">LDL</styled-content>&#x02010;C.</p></sec><sec id="jah31709-sec-0004"><title>Clinical Trial Registration</title><p>
+<styled-content style="fixed-case">URL</styled-content>: <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">http://www.clinicaltrials.gov</ext-link>. Unique identifier: <styled-content style="fixed-case">NCT</styled-content>02023879.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah31709-kwd-0001">alirocumab</kwd><kwd id="jah31709-kwd-0002">cardiovascular risk</kwd><kwd id="jah31709-kwd-0003">low&#x02010;density lipoprotein cholesterol</kwd><kwd id="jah31709-kwd-0004">placebo&#x02010;controlled</kwd><kwd id="jah31709-kwd-0005">proprotein convertase subtilisin/kexin type 9</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Clinical Studies</kwd><kwd>Lipids and Cholesterol</kwd><kwd>Pharmacology</kwd><kwd>Treatment</kwd></kwd-group><funding-group><award-group><funding-source>Sanofi</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Regeneron Pharmaceuticals, Inc.</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="3"/><page-count count="36"/><word-count count="8554"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah31709</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.4 mode:remove_FC converted:27.09.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah31709-cit-1001">(<source>J Am Heart Assoc</source>. <year>2016</year>;<volume>5</volume>:e003421 doi: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.116.003421">10.1161/JAHA.116.003421</ext-link>)</mixed-citation>
+</p></notes></front><body><sec id="jah31709-sec-0005"><title>Introduction</title><p>Statins lower low&#x02010;density lipoprotein cholesterol (LDL&#x02010;C) by inhibiting 3&#x02010;hydroxy&#x02010;3&#x02010;methylglutaryl&#x02010;coenzyme A reductase and consistently reduce cardiovascular disease (CVD) risk by 30% to 40%.<xref rid="jah31709-bib-0001" ref-type="ref">1</xref>, <xref rid="jah31709-bib-0002" ref-type="ref">2</xref>, <xref rid="jah31709-bib-0003" ref-type="ref">3</xref> Therefore, statin therapy is currently the recommended standard&#x02010;of&#x02010;care treatment for lowering LDL&#x02010;C in patients at increased CVD risk.<xref rid="jah31709-bib-0002" ref-type="ref">2</xref>, <xref rid="jah31709-bib-0003" ref-type="ref">3</xref> In contrast to all major randomized controlled trials, which have found comparable rates of muscle adverse events (AEs) between statin and placebo arms,<xref rid="jah31709-bib-0004" ref-type="ref">4</xref>, <xref rid="jah31709-bib-0005" ref-type="ref">5</xref>, <xref rid="jah31709-bib-0006" ref-type="ref">6</xref> observational studies reported higher rates of statin&#x02010;associated muscle symptoms (SAMS) in 7% to 29% of patients.<xref rid="jah31709-bib-0007" ref-type="ref">7</xref> As a consequence, patients with SAMS often receive a suboptimal statin dose or no statin therapy.<xref rid="jah31709-bib-0007" ref-type="ref">7</xref> A substantial proportion of these, often high&#x02010;risk, patients have persistently elevated LDL&#x02010;C levels (&#x0003e;190&#x000a0;mg/dL),<xref rid="jah31709-bib-0008" ref-type="ref">8</xref>, <xref rid="jah31709-bib-0009" ref-type="ref">9</xref>, <xref rid="jah31709-bib-0010" ref-type="ref">10</xref> placing them at a correspondingly high CVD risk.<xref rid="jah31709-bib-0003" ref-type="ref">3</xref>, <xref rid="jah31709-bib-0011" ref-type="ref">11</xref>
+</p><p>Proprotein convertase subtilisin/kexin type 9 (PCSK9), a key regulator of cholesterol homeostasis, is a novel and attractive therapeutic target for lowering LDL&#x02010;C levels via a 3&#x02010;hydroxy&#x02010;3&#x02010;methylglutaryl&#x02010;coenzyme A reductase&#x02010;independent pathway. Alirocumab, a fully human monoclonal antibody that specifically binds to PCSK9, has been shown to significantly lower LDL&#x02010;C levels across a range of dosing regimens, whether as monotherapy<xref rid="jah31709-bib-0012" ref-type="ref">12</xref> or on a background of statin&#x000b1;other lipid&#x02010;lowering therapies.<xref rid="jah31709-bib-0013" ref-type="ref">13</xref>, <xref rid="jah31709-bib-0014" ref-type="ref">14</xref>, <xref rid="jah31709-bib-0015" ref-type="ref">15</xref>, <xref rid="jah31709-bib-0016" ref-type="ref">16</xref> A monthly dosing regimen may be convenient and effective,<xref rid="jah31709-bib-0017" ref-type="ref">17</xref>, <xref rid="jah31709-bib-0018" ref-type="ref">18</xref> with different doses being appropriate when used as monotherapy compared with background statin therapy. This is because statins are known to increase PCSK9 levels,<xref rid="jah31709-bib-0019" ref-type="ref">19</xref> which reduce duration of alirocumab effect in the setting of every 4&#x000a0;weeks (Q4W) dosing.</p><p>Alirocumab 150&#x000a0;mg Q4W monotherapy demonstrated a 47.4% reduction in LDL&#x02010;C levels from baseline in a phase 1 study.<xref rid="jah31709-bib-0017" ref-type="ref">17</xref> However, in an early phase 2 study of patients with heterozygous familial hypercholesterolemia on statin, there was only an incremental LDL&#x02010;C reduction of 28.9% at week 12 with alirocumab 150&#x000a0;Q4W.<xref rid="jah31709-bib-0018" ref-type="ref">18</xref> The use of higher doses (200&#x02010;300&#x000a0;mg Q4W) resulted in greater incremental LDL&#x02010;C reductions (42.5&#x02010;47.7% at week 12) when added to stable statin therapy.<xref rid="jah31709-bib-0018" ref-type="ref">18</xref>, <xref rid="jah31709-bib-0020" ref-type="ref">20</xref>
+</p><p>In this phase 3, placebo&#x02010;controlled study (ODYSSEY CHOICE II, NCT02023879), we evaluated the efficacy and safety of alirocumab 150&#x000a0;mg Q4W (with possible adjustment to 150&#x000a0;mg Q2W; referred to as &#x0201c;150Q4W&#x0201d;) as a therapeutic option for patients with hypercholesterolemia not receiving statin. This study also employed an alirocumab dosing regimen of 75&#x000a0;mg every 2&#x000a0;weeks (Q2W; with possible dose adjustment to 150&#x000a0;mg Q2W; referred to as &#x0201c;75Q2W&#x0201d;) as a calibrator arm, a dose that has been extensively investigated across the phase 3 ODYSSEY clinical trials program.<xref rid="jah31709-bib-0012" ref-type="ref">12</xref>, <xref rid="jah31709-bib-0013" ref-type="ref">13</xref>, <xref rid="jah31709-bib-0014" ref-type="ref">14</xref>, <xref rid="jah31709-bib-0015" ref-type="ref">15</xref>, <xref rid="jah31709-bib-0016" ref-type="ref">16</xref> CHOICE II followed a &#x0201c;treat&#x02010;to&#x02010;target&#x0201d; dosing strategy, based on the LDL&#x02010;C reduction needed to provide best achievement of target LDL&#x02010;C level at the lowest alirocumab dose.</p></sec><sec id="jah31709-sec-0006"><title>Methods</title><p>ODYSSEY CHOICE II was a randomized, double&#x02010;blind, placebo&#x02010;controlled, phase 3 multinational study including 233 patients from 43 study sites from Australia (n=3), Belgium (n=3), Canada (n=6), Denmark (n=5), the Netherlands (n=9), New Zealand (n=2), Spain (n=7), and the United States (n=8). The study was initiated on December 16, 2013 (first patient screened) with the first patient randomized on January 2, 2014 and the last patient randomized on May 12, 2014. The study was conducted in accordance with the ethical principles in the Declaration of Helsinki and applicable amendments, and the International Conference on Harmonisation guidelines for Good Clinical Practice. The protocol was approved by the relevant institutional review boards or independent ethics committees. All participating patients provided written informed consent.</p><sec id="jah31709-sec-0007"><title>Patients</title><p>The study enrolled adult patients (&#x02265;18&#x000a0;years of age) with hypercholesterolemia receiving fenofibrate or ezetimibe or diet&#x000a0;alone. Only patients not receiving a statin were eligible for the study, which corresponded to patients who (1) had SAMS (which was defined as statin intolerance in the protocol) with moderate, high, or very high cardiovascular risk or (2) were not receiving a statin but who did not fulfill the SAMS definition: only patients at moderate cardiovascular risk were included in this stratum. SAMS, as well as moderate, high, and very high cardiovascular risk, were defined as previously described.<xref rid="jah31709-bib-0021" ref-type="ref">21</xref>
+</p><p>SAMS, defined as statin intolerance in the study protocol, was defined as the inability to tolerate at least 2 statins, consistent with other studies in the ODYSSEY clinical trial program<xref rid="jah31709-bib-0021" ref-type="ref">21</xref>: 1 statin at the lowest daily starting dose (defined as rosuvastatin 5&#x000a0;mg, atorvastatin 10&#x000a0;mg, simvastatin 10&#x000a0;mg, lovastatin 20&#x000a0;mg, pravastatin 40&#x000a0;mg, fluvastatin 40&#x000a0;mg, or pitavastatin 2&#x000a0;mg), and another statin at any dose, due to SAMS, other than those due to strain or trauma, such as pain, aches, weakness, or cramping, that began or increased during statin therapy and stopped when statin therapy was discontinued.</p><p>The aim was for two&#x02010;thirds of randomized patients to be receiving fenofibrate/ezetimibe, and for &#x02265;50% of patients to fulfill the SAMS definition. Patients were instructed to maintain a stable diet (National Cholesterol Education Program Adult Treatment Panel&#x000a0;III Therapeutic Lifestyle Changes diet or equivalent) throughout the entire study duration, including the screening period.<xref rid="jah31709-bib-0022" ref-type="ref">22</xref> Use of fibrates (other than fenofibrate), niacin, bile acid&#x02010;binding sequestrants, or red yeast rice products was not allowed during the study. A list of exclusion criteria is given in Table&#x000a0;S1.</p><p>Hypercholesterolemia was defined based on cardiovascular risk: LDL&#x02010;C &#x02265;70&#x000a0;mg/dL if very high cardiovascular risk, or LDL&#x02010;C &#x02265;100&#x000a0;mg/dL if high or moderate risk. In addition, for those patients not fulfilling the SAMS definition, or who were being treated with diet&#x000a0;alone, LDL&#x02010;C also had to be &#x02265;100 and &#x0003c;160&#x000a0;mg/dL.</p></sec><sec id="jah31709-sec-0008"><title>Study Procedures</title><p>The study comprised a 3&#x02010;week screening period, followed by 24&#x000a0;weeks of double&#x02010;blind treatment and 8&#x000a0;weeks of follow&#x02010;up (off treatment) for those patients who did not enter the open&#x02010;label treatment period (Figure&#x000a0;<xref rid="jah31709-fig-0001" ref-type="fig">1</xref>). After screening, the planned randomization was to follow a 2:1:1 treatment ratio for alirocumab 150Q4W, alirocumab 75Q2W (calibrator arm), and placebo Q2W, respectively. Randomization was stratified by SAMS status and by either ezetimibe/fenofibrate therapy or diet&#x000a0;alone. However, owing to a systematic error in the algorithm managing treatment allocation at the study setup (where alirocumab 75Q2W was allocated to patients randomized to alirocumab 150Q4W during the entire double&#x02010;blind period and vice versa), patients were actually randomized in a 1:2:1 ratio to receive alirocumab 150Q4W, 75Q2W, or placebo in a blinded manner. The blinding was maintained for patients randomized to alirocumab 150Q4W by alternating active and placebo injections; each patient received 12 injections during the study period. Each treatment was administered subcutaneously by 1&#x02010;mL prefilled pen.</p><fig fig-type="Figure" xml:lang="en" id="jah31709-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<styled-content style="fixed-case">CHOICE II</styled-content> study design. *Patients were to be randomized to 2:1:1 alirocumab 150Q4W: alirocumab 75Q2W: placebo. However, a systematic randomization error occurred in alirocumab treatment allocation. <sup>&#x02020;</sup>Blind was maintained in all patients, including those receiving dose adjustments, by giving the study treatment as a single 1&#x02010;mL subcutaneous injection Q2W in all groups. 75Q2W indicates 75&#x000a0;mg every 2&#x000a0;weeks (with possible dose adjustment to 150&#x000a0;mg every 2&#x000a0;weeks); 150Q4W, 150&#x000a0;mg every 4&#x000a0;weeks (with possible dose adjustment to 150&#x000a0;mg every 2&#x000a0;weeks); <styled-content style="fixed-case">LDL</styled-content>&#x02010;C, low&#x02010;density lipoprotein cholesterol; <styled-content style="fixed-case">NCEP ATP III TLC</styled-content>, National Cholesterol Education Program Adult Treatment Panel&#x000a0;<styled-content style="fixed-case">III</styled-content> Therapeutic Lifestyle Changes; Q2W, every 2&#x000a0;weeks; Q4W, every 4&#x000a0;weeks; R, randomization; W, week.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-5-e003421-g001"/></fig><p>On&#x02010;site visits took place during the double&#x02010;blind period at weeks 0 (baseline, ie, the randomization visit), 4, 8, 9, 10, 11, 12, 16, and 24.</p><p>Patients in the alirocumab 150&#x000a0;mg Q4W or 75&#x000a0;mg Q2W treatment groups who did not achieve their target LDL&#x02010;C levels (&#x0003c;70 or &#x0003c;100&#x000a0;mg/dL, depending on CVD risk), or who did not achieve a reduction of &#x02265;30% in LDL&#x02010;C level from baseline at week 8, had their alirocumab regimen changed to 150&#x000a0;mg Q2W at week 12 in a blinded fashion.</p><p>Patients also had the option of entering an open&#x02010;label treatment period after completion of the double&#x02010;blind treatment period. In this treatment period all patients received alirocumab 150Q4W at week 36 based on the investigator's judgment.</p></sec><sec id="jah31709-sec-0009"><title>Endpoints</title><p>The primary efficacy endpoint was the percentage change in LDL&#x02010;C (calculated using the Friedewald equation) from baseline to week 24 in the intent&#x02010;to&#x02010;treat (ITT) population, using all LDL&#x02010;C values within 1 of the analysis windows up to week 24 regardless of adherence to treatment (ie, ITT approach). Efficacy endpoints were also assessed using an on&#x02010;treatment approach, using all LDL&#x02010;C values during the efficacy treatment period.</p><p>A hierarchical procedure was used to control type I error and handle multiple key secondary endpoints. Those endpoints included the percentage change in calculated LDL&#x02010;C from baseline to week 24 using the on&#x02010;treatment approach, the percentage change in calculated LDL&#x02010;C from baseline to week 12 (also averaged for weeks 9&#x02010;12), the proportion of patients achieving predefined LDL&#x02010;C targets of &#x0003c;70 or &#x0003c;100&#x000a0;mg/dL, depending on cardiovascular risk, at weeks 12 and 24, and the percentage change in other lipid parameters such as apolipoprotein B, non&#x02010;high&#x02010;density lipoprotein cholesterol, total cholesterol, lipoprotein(a) (Lp[a]), fasting triglycerides, high&#x02010;density lipoprotein cholesterol, and apolipoprotein A1 from baseline to weeks 12 and 24. All comparisons with the alirocumab 75&#x000a0;mg Q2W treatment arm were classed as other secondary endpoints.</p><p>Analyses of lipid samples were conducted by a central laboratory. Lp(a) was analyzed using an immunoturbidimetric assay on a Siemens BNII analyzer (Siemens, Erlangen, Germany), with a reference range of 1 to 30&#x000a0;mg/dL. If triglyceride values exceeded 400&#x000a0;mg/dL (4.52&#x000a0;mmol/L), LDL&#x02010;C was measured via &#x003b2;&#x02010;quantification rather than by calculation. (LDL&#x02010;C ultracentrifugation was performed using a Beckman Ultracentrifuge with an ultracentrifuge rotor, Type 50.4; LDL&#x02010;C concentration was assessed using a Beckman Coulter chemistry analyzer.) LDL&#x02010;C was also measured via the &#x003b2;&#x02010;quantification method at weeks 0 and 24 in all patients.</p><p>Safety was assessed primarily from the reporting of treatment&#x02010;emergent AEs (TEAEs), defined as those occurring during the period from first to last study drug injection plus 70&#x000a0;days or up to the first open&#x02010;label injection, whichever came first.</p><p>Certain events were classed as safety events of interest, requiring completion of a special electronic case report form (e&#x02010;CRF), including general allergic reactions, cardiovascular events, injection&#x02010;site reactions, hemolytic anemia, neurologic events, ophthalmologic events, and increased alanine aminotransferase (ALT) levels. See Appendix S1 for further details on safety events of interest and preferred terms for the adverse events categories.</p><p>To assess development of antidrug antibodies to alirocumab, blood samples were collected before study drug administration at baseline and scheduled clinic visits at weeks 4, 8, 12, 16, 24, and at the follow&#x02010;up visit. These samples were analyzed using a validated nonquantitative, titer&#x02010;based bridging immunoassay by Regeneron Pharmaceuticals, Inc (Tarrytown, NY), using a tiered approach involving 3 potential steps: initial screen, confirmation, and a titer measurement. Assay sensitivity was ~5.6&#x000a0;ng/mL based on the positive control monoclonal antibody, and the drug tolerance limit was 191&#x000a0;&#x003bc;g/mL of alirocumab for 500&#x000a0;ng/mL of monoclonal antibody positive control. Positive samples were tested for the presence of antidrug antibody using a validated, nonquantitative, competitive ligand&#x02010;binding assay with sensitivity based on a monoclonal positive control neutralizing antibody of 470&#x000a0;ng/mL. Drug tolerance limit was 547&#x000a0;ng/mL of alirocumab in neat serum for 500&#x000a0;ng/mL of monoclonal antibody positive control. Free PCSK9 levels were determined using a specific validated enzyme&#x02010;linked immunosorbent assay (Regeneron Pharmaceuticals, Tarrytown, NY). The lower limits of detection were 31.2&#x000a0;ng/mL.</p></sec><sec id="jah31709-sec-0010"><title>Statistical Analysis</title><p>A sample size of 39 patients (26 in alirocumab 150Q4W and 13 in placebo arms, respectively) was estimated to have 90% power to detect a between&#x02010;treatment&#x02010;group difference in mean percentage change in LDL&#x02010;C of 30%, with a 5% 2&#x02010;sided significance level and assuming a common standard deviation of 25%, and a 5% nonevaluable primary endpoint. To obtain additional safety data on the administration of a 150Q4W regimen in non&#x02010;statin&#x02010;treated patients, the total planned sample size was increased and rounded to 200 (100 for alirocumab 150Q4W, 50 for alirocumab 75Q2W, and 50 for placebo). Thus, the systematic allocation error was not anticipated to have an impact on the power of the study.</p><p>The primary efficacy analysis was conducted in the ITT population, which included all randomized patients with an evaluable primary endpoint. Analysis utilized a mixed&#x02010;effect model with repeated measures to account for missing data as used in previous alirocumab studies.<xref rid="jah31709-bib-0023" ref-type="ref">23</xref>
+</p><p>Secondary lipid endpoints were analyzed as for the primary endpoint, except Lp(a) and triglycerides (analyzed by multiple imputation followed by a robust regression model) and LDL&#x02010;C goal achievement (analyzed by multiple imputation followed by logistic regression). The modified ITT population used for on&#x02010;treatment analyses included all randomized patients with an evaluable primary endpoint during the treatment period who had received at least 1 dose or part of a dose of study treatment.</p><p>The safety population included all randomized patients who had received at least 1 dose or part of a dose of study drug. Safety data were analyzed by descriptive statistics.</p></sec><sec id="jah31709-sec-0011"><title>Device&#x02010;Handling Questionnaire</title><p>At weeks 0 and 12, an optional device&#x02010;handling questionnaire assessed experience of participants performing self&#x02010;injection using the alirocumab prefilled pen.</p><p>Participants rated 7 manipulations/steps to inject alirocumab/placebo (7&#x02010;point scale from &#x0201c;not easy at all&#x0201d; [1] to &#x0201c;extremely easy&#x0201d; [7]), how many clicks they heard during injection, satisfaction with duration of injection (7&#x02010;point scale from &#x0201c;extremely unsatisfied&#x0201d; [1] to &#x0201c;extremely satisfied&#x0201d; [7]), and the overall experience performing self&#x02010;injection (7&#x02010;point scale from &#x0201c;extremely unsatisfied&#x0201d; [1] to &#x0201c;extremely satisfied&#x0201d; [7]).</p></sec></sec><sec id="jah31709-sec-0012"><title>Results</title><sec id="jah31709-sec-0013"><title>Patients</title><p>A total of 233 patients were randomly assigned to alirocumab 150Q4W (n=59), 75Q2W (n=116), and placebo (n=58) (Figure&#x000a0;<xref rid="jah31709-fig-0001" ref-type="fig">1</xref>, Figure&#x000a0;S1). The ITT, modified ITT, and safety populations comprised 230, 228, and 231 patients, respectively. A total of 158 (90.3%) randomized patients receiving alirocumab completed the 24&#x02010;week treatment period. Reasons for study discontinuation are given in Table&#x000a0;S2.</p><p>Baseline characteristics and lipid parameters were generally balanced between groups (Table&#x000a0;<xref rid="jah31709-tbl-0001" ref-type="table-wrap">1</xref>). A total of 90.1% of patients fulfilled the criteria for SAMS as the reason for statin discontinuation. The majority of patients with additional lipid&#x02010;lowering therapy received ezetimibe (60.1%) and/or fenofibrate (8.6%). Across the different treatment groups, 32.2% of patients received treatment with diet&#x000a0;alone and 3.4% received nutraceuticals (Table&#x000a0;<xref rid="jah31709-tbl-0001" ref-type="table-wrap">1</xref>).</p><table-wrap id="jah31709-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline Characteristics (Randomized Population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="left" rowspan="2" valign="top" colspan="1">Placebo (n=58)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Alirocumab</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">75Q2W (n=116)</th><th align="left" valign="top" rowspan="1" colspan="1">150Q4W (n=59)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Baseline demographics</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Age, y, mean (SD)</td><td align="left" rowspan="1" colspan="1">63.1 (10.7)</td><td align="left" rowspan="1" colspan="1">62.5 (9.9)</td><td align="left" rowspan="1" colspan="1">64.2 (10.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male, n (%)</td><td align="left" rowspan="1" colspan="1">31 (53.4)</td><td align="left" rowspan="1" colspan="1">69 (59.5)</td><td align="left" rowspan="1" colspan="1">30 (50.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Race, white, n (%)</td><td align="left" rowspan="1" colspan="1">56 (96.6)</td><td align="left" rowspan="1" colspan="1">108 (93.1)</td><td align="left" rowspan="1" colspan="1">55 (93.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Race, black or African American, n (%)</td><td align="left" rowspan="1" colspan="1">1 (1.7)</td><td align="left" rowspan="1" colspan="1">3 (2.6)</td><td align="left" rowspan="1" colspan="1">1 (1.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ethnicity, Hispanic/Latino, n (%)</td><td align="left" rowspan="1" colspan="1">1 (1.7)</td><td align="left" rowspan="1" colspan="1">7 (6.0)</td><td align="left" rowspan="1" colspan="1">4 (6.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">BMI, kg/m<sup>2</sup>, mean (SD)</td><td align="left" rowspan="1" colspan="1">28.5 (4.6)</td><td align="left" rowspan="1" colspan="1">29.4 (5.6)</td><td align="left" rowspan="1" colspan="1">28.2 (5.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">HeFH, n (%)</td><td align="left" rowspan="1" colspan="1">5 (8.6)</td><td align="left" rowspan="1" colspan="1">15 (12.9)</td><td align="left" rowspan="1" colspan="1">9 (15.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diagnosis of HeFH, n</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">9</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">By genotyping, n (%)</td><td align="left" rowspan="1" colspan="1">4 (80.0)</td><td align="left" rowspan="1" colspan="1">8 (53.3)</td><td align="left" rowspan="1" colspan="1">6 (66.7)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">By WHO/Simon Broome criteria, n (%)</td><td align="left" rowspan="1" colspan="1">1 (20.0)</td><td align="left" rowspan="1" colspan="1">7 (46.7)</td><td align="left" rowspan="1" colspan="1">3 (33.3)</td></tr><tr><td align="left" style="padding-left:10%" colspan="4" rowspan="1">SAMS status, n (%)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">SAMS</td><td align="left" rowspan="1" colspan="1">51 (87.9)</td><td align="left" rowspan="1" colspan="1">106 (91.4)</td><td align="left" rowspan="1" colspan="1">53 (89.8)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Non&#x02010;SAMS</td><td align="left" rowspan="1" colspan="1">7 (12.1)</td><td align="left" rowspan="1" colspan="1">10 (8.6)</td><td align="left" rowspan="1" colspan="1">6 (10.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CHD history, n (%)</td><td align="left" rowspan="1" colspan="1">27 (46.6)</td><td align="left" rowspan="1" colspan="1">57 (49.1)</td><td align="left" rowspan="1" colspan="1">32 (54.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CHD risk equivalent<xref ref-type="fn" rid="jah31709-note-0004">a</xref>, n (%)</td><td align="left" rowspan="1" colspan="1">10 (17.2)</td><td align="left" rowspan="1" colspan="1">23 (19.8)</td><td align="left" rowspan="1" colspan="1">11 (18.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hypertension, n (%)</td><td align="left" rowspan="1" colspan="1">37 (63.8)</td><td align="left" rowspan="1" colspan="1">69 (59.5)</td><td align="left" rowspan="1" colspan="1">36 (61.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Type 2 diabetes, n (%)</td><td align="left" rowspan="1" colspan="1">9 (15.5)</td><td align="left" rowspan="1" colspan="1">22 (19.0)</td><td align="left" rowspan="1" colspan="1">7 (11.9)</td></tr><tr><td align="left" style="padding-left:10%" colspan="4" rowspan="1">Categorization of cardiovascular risk, n (%)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Very&#x02010;high cardiovascular risk</td><td align="left" rowspan="1" colspan="1">31 (53.4)</td><td align="left" rowspan="1" colspan="1">66 (56.9)</td><td align="left" rowspan="1" colspan="1">36 (61.0)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">High cardiovascular risk</td><td align="left" rowspan="1" colspan="1">13 (22.4)</td><td align="left" rowspan="1" colspan="1">23 (19.8)</td><td align="left" rowspan="1" colspan="1">10 (16.9)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Moderate cardiovascular risk</td><td align="left" rowspan="1" colspan="1">14 (24.1)</td><td align="left" rowspan="1" colspan="1">27 (23.3)</td><td align="left" rowspan="1" colspan="1">13 (22.0)</td></tr><tr><td align="left" colspan="4" rowspan="1">Lipid medication, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Any LLT other than statins</td><td align="left" rowspan="1" colspan="1">41 (70.7)</td><td align="left" rowspan="1" colspan="1">82 (70.7)</td><td align="left" rowspan="1" colspan="1">42 (71.2)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Ezetimibe</td><td align="left" rowspan="1" colspan="1">35 (60.3)</td><td align="left" rowspan="1" colspan="1">70 (60.3)</td><td align="left" rowspan="1" colspan="1">35 (59.3)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Fenofibrate</td><td align="left" rowspan="1" colspan="1">3 (5.2)</td><td align="left" rowspan="1" colspan="1">12 (10.3)</td><td align="left" rowspan="1" colspan="1">5 (8.5)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Nutraceuticals</td><td align="left" rowspan="1" colspan="1">1 (1.7)</td><td align="left" rowspan="1" colspan="1">3 (2.6)</td><td align="left" rowspan="1" colspan="1">4 (6.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diet&#x000a0;alone<xref ref-type="fn" rid="jah31709-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">20 (34.5)</td><td align="left" rowspan="1" colspan="1">35 (30.2)</td><td align="left" rowspan="1" colspan="1">20 (33.9)</td></tr><tr><td align="left" colspan="4" rowspan="1">Baseline lipid parameters, mg/dL, mean (SD)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LDL&#x02010;C (calculated)</td><td align="left" rowspan="1" colspan="1">158.5 (47.3)</td><td align="left" rowspan="1" colspan="1">154.5 (44.6)</td><td align="left" rowspan="1" colspan="1">163.9 (69.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LDL&#x02010;C (calculated), median (Q1:Q3)</td><td align="left" rowspan="1" colspan="1">148.5 (136.0:166.0)</td><td align="left" rowspan="1" colspan="1">146.0 (124.5:173.5)</td><td align="left" rowspan="1" colspan="1">148.0 (127.0:179.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LDL&#x02010;C (measured)</td><td align="left" rowspan="1" colspan="1">156.6 (46.6)</td><td align="left" rowspan="1" colspan="1">154.1 (42.4)</td><td align="left" rowspan="1" colspan="1">167.5 (69.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Non&#x02010;HDL&#x02010;C</td><td align="left" rowspan="1" colspan="1">191.9 (51.0)</td><td align="left" rowspan="1" colspan="1">188.0 (49.9)</td><td align="left" rowspan="1" colspan="1">195.9 (76.4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Total cholesterol</td><td align="left" rowspan="1" colspan="1">244.7 (50.8)</td><td align="left" rowspan="1" colspan="1">239.1 (50.2)</td><td align="left" rowspan="1" colspan="1">250.8 (75.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Apo B</td><td align="left" rowspan="1" colspan="1">120.3 (27.6)</td><td align="left" rowspan="1" colspan="1">120.2 (27.1)</td><td align="left" rowspan="1" colspan="1">126.5 (44.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lp(a), median (Q1:Q3)</td><td align="left" rowspan="1" colspan="1">10.5 (4.0:31.0)</td><td align="left" rowspan="1" colspan="1">16.0 (5.0:46.0)</td><td align="left" rowspan="1" colspan="1">19.0 (5.0:41.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">HDL&#x02010;C</td><td align="left" rowspan="1" colspan="1">52.8 (16.6)</td><td align="left" rowspan="1" colspan="1">51.1 (15.1)</td><td align="left" rowspan="1" colspan="1">54.9 (13.4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fasting triglycerides, median (Q1:Q3)</td><td align="left" rowspan="1" colspan="1">154.5 (105.0:218.0)</td><td align="left" rowspan="1" colspan="1">147.5 (107.0:225.0)</td><td align="left" rowspan="1" colspan="1">145.0 (102.0:211.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Apo A1</td><td align="left" rowspan="1" colspan="1">151.0 (27.7)</td><td align="left" rowspan="1" colspan="1">150.5 (27.3)</td><td align="left" rowspan="1" colspan="1">154.8 (25.8)</td></tr></tbody></table><table-wrap-foot><fn id="jah31709-note-0003"><p>75Q2W indicates 75&#x000a0;mg every 2&#x000a0;weeks (with possible dose adjustment to 150&#x000a0;mg every 2&#x000a0;weeks); 150Q4W, 150&#x000a0;mg every 4&#x000a0;weeks (with possible dose adjustment to 150&#x000a0;mg every 2&#x000a0;weeks); Apo, apolipoprotein; BMI, body mass index; CHD, coronary heart disease; HDL&#x02010;C, high&#x02010;density lipoprotein cholesterol; HeFH, heterozygous familial hypercholesterolemia; LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol; LLT, lipid&#x02010;lowering therapy; Lp(a), lipoprotein(a); SAMS, statin&#x02010;associated muscle symptoms; SD, standard deviation; WHO, World Health Organization.</p></fn><fn id="jah31709-note-0004"><label>a</label><p>CHD risk equivalents were defined as abdominal aortic aneurysm, carotid artery occlusions &#x0003e;50% without symptoms, peripheral arterial disease, carotid endarterectomy or carotid artery stent procedure, type 1 or 2 diabetes mellitus, with target organ damage, ischemic stroke, renal artery stenosis, and transient ischemic attack.</p></fn><fn id="jah31709-note-0005"><label>b</label><p>Patients not taking fenofibrate or ezetimibe.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah31709-sec-0014"><title>Efficacy Analyses</title><p>Alirocumab (both dose regimens) maintained LDL&#x02010;C reductions from week 4 (first sampling point) until week 24 (Figure&#x000a0;<xref rid="jah31709-fig-0002" ref-type="fig">2</xref>; Table&#x000a0;<xref rid="jah31709-tbl-0002" ref-type="table-wrap">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jah31709-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Calculated <styled-content style="fixed-case">LDL</styled-content>&#x02010;C mean (<styled-content style="fixed-case">SE</styled-content>) absolute values from baseline (<styled-content style="fixed-case">ITT</styled-content> analysis) (A) and free <styled-content style="fixed-case">PCSK</styled-content>9 levels (B) over time (<styled-content style="fixed-case">PK</styled-content> analysis). &#x00394;W 9 to 12 defined as percentage change in calculated <styled-content style="fixed-case">LDL</styled-content>&#x02010;C from baseline to averaged values from weeks 9 to 12 vs placebo in the <styled-content style="fixed-case">ITT</styled-content> analysis; &#x00394;W 24 defined as percentage change in calculated <styled-content style="fixed-case">LDL</styled-content>&#x02010;C from baseline to week 24 vs placebo in the <styled-content style="fixed-case">ITT</styled-content> analysis. 75Q2W indicates 75&#x000a0;mg every 2&#x000a0;weeks (with possible dose adjustment to 150&#x000a0;mg every 2&#x000a0;weeks); 150Q4W indicates150&#x000a0;mg every 4&#x000a0;weeks (with possible dose adjustment to 150&#x000a0;mg every 2&#x000a0;weeks); <styled-content style="fixed-case">ITT</styled-content>, intent&#x02010;to&#x02010;treat; <styled-content style="fixed-case">LDL</styled-content>&#x02010;C, low&#x02010;density lipoprotein cholesterol; <styled-content style="fixed-case">LS</styled-content>, least&#x02010;squares; <styled-content style="fixed-case">PCSK</styled-content>9, proprotein convertase subtilisin/kexin type 9; <styled-content style="fixed-case">SE</styled-content>, standard error.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-5-e003421-g002"/></fig><table-wrap id="jah31709-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Change From Baseline in Lipid End Points and Achievement of LDL&#x02010;C Goals (ITT Analysis)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="center" rowspan="2" valign="top" colspan="1">Placebo (n=57)</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Alirocumab</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="top" rowspan="1" colspan="1">75Q2W (n=115)</th><th align="center" valign="top" rowspan="1" colspan="1">150Q4W (n=58)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Baseline, LS mean (SD)</td><td align="center" rowspan="1" colspan="1">156.7 (45.7)</td><td align="center" rowspan="1" colspan="1">155.1 (44.4)</td><td align="center" rowspan="1" colspan="1">164.4 (69.6)</td></tr><tr><td align="left" colspan="4" rowspan="1">Calculated LDL&#x02010;C, LS mean (SE), mg/dL</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Week 24 absolute LDL&#x02010;C value</td><td align="center" rowspan="1" colspan="1">162.9 (3.7)</td><td align="center" rowspan="1" colspan="1">75.0 (2.6)</td><td align="center" rowspan="1" colspan="1">75.8 (3.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Absolute change from baseline to week 24</td><td align="center" rowspan="1" colspan="1">5.1 (3.7)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;82.9 (2.6)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;82.1 (3.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Percentage change from baseline to week 24 (primary end point)</td><td align="center" rowspan="1" colspan="1">4.7 (2.3)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;53.5 (1.6)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;51.7 (2.3)%</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Percenaget difference vs placebo; <italic>P</italic>&#x02010;value<xref ref-type="fn" rid="jah31709-note-0007">a</xref>
+</td><td align="center" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">&#x02212;58.2 (2.8)%; &#x0003c;0.0001</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;56.4 (3.3)%; &#x0003c;0.0001<xref ref-type="fn" rid="jah31709-note-0008">b</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Percentage change from baseline to week 12</td><td align="center" rowspan="1" colspan="1">3.2 (2.5)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;50.8 (1.7)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;41.7 (2.4)%</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Percentage difference vs placebo; <italic>P</italic>&#x02010;value<xref ref-type="fn" rid="jah31709-note-0007">a</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">&#x02212;54.0 (3.0)%; &#x0003c;0.0001</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;44.9 (3.5)%; &#x0003c;0.0001<xref ref-type="fn" rid="jah31709-note-0008">b</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Percentage change from baseline to averaged weeks 9 to 12</td><td align="center" rowspan="1" colspan="1">3.2 (2.0)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;53.6 (1.4)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;52.3 (2.0)%</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Percentage difference vs placebo; <italic>P</italic>&#x02010;value<xref ref-type="fn" rid="jah31709-note-0007">a</xref>
+</td><td align="center" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">&#x02212;56.7 (2.5)%; &#x0003c;0.0001</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;55.5 (2.9)%; &#x0003c;0.0001<xref ref-type="fn" rid="jah31709-note-0008">b</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Percentage of patients achieving LDL&#x02010;C goals &#x0003c;70&#x000a0;mg/dL or &#x0003c;100&#x000a0;g/dL at week 24; <italic>P</italic>&#x02010;value vs placebo</td><td align="center" rowspan="1" colspan="1">1.8%</td><td align="center" rowspan="1" colspan="1">70.3%; &#x0003c;0.0001</td><td align="center" rowspan="1" colspan="1">63.9%; &#x0003c;0.0001<xref ref-type="fn" rid="jah31709-note-0008">b</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Percentage of patients achieving LDL&#x02010;C &#x0003c;70&#x000a0;mg/dL at week 24 (LOCF); <italic>P</italic>&#x02010;value vs placebo</td><td align="center" rowspan="1" colspan="1">0</td><td align="char" rowspan="1" colspan="1">60.0%; &#x0003c;0.0001</td><td align="center" rowspan="1" colspan="1">50.0%; &#x0003c;0.0001</td></tr><tr><td align="left" colspan="4" rowspan="1">Percentage change from baseline to week 24 in other lipid parameters, LS mean (SE)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Apo B</td><td align="center" rowspan="1" colspan="1">7.5 (2.1)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;39.7 (1.5)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;38.9 (2.2)%</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Percentage difference vs placebo; <italic>P</italic>&#x02010;value<xref ref-type="fn" rid="jah31709-note-0007">a</xref>
+</td><td align="center" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">&#x02212;47.2 (2.6)%; &#x0003c;0.0001</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;46.4 (3.0)%; &#x0003c;0.0001<xref ref-type="fn" rid="jah31709-note-0008">b</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Non&#x02010;HDL&#x02010;C</td><td align="center" rowspan="1" colspan="1">4.8 (2.1)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;45.3 (1.5)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;44.2 (2.1)%</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Percentage difference vs placebo; <italic>P</italic>&#x02010;value<xref ref-type="fn" rid="jah31709-note-0007">a</xref>
+</td><td align="center" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">&#x02212;50.1 (2.6)%; &#x0003c;0.0001</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;49.0 (3.0)%; &#x0003c;0.0001<xref ref-type="fn" rid="jah31709-note-0008">b</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Total cholesterol</td><td align="center" rowspan="1" colspan="1">3.0 (1.6)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;34.0 (1.1)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;32.3 (1.6)%</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Percentage difference vs placebo; <italic>P</italic>&#x02010;value<xref ref-type="fn" rid="jah31709-note-0007">a</xref>
+</td><td align="center" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">&#x02212;37.0 (2.0)%; &#x0003c;0.0001</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;35.3 (2.3)%; &#x0003c;0.0001<xref ref-type="fn" rid="jah31709-note-0008">b</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lp(a)<xref ref-type="fn" rid="jah31709-note-0009">c</xref>
+</td><td align="center" rowspan="1" colspan="1">4.1 (3.7)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;21.8 (2.6)%</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;15.5 (3.7)%</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Percentage difference vs placebo; <italic>P</italic>&#x02010;value<xref ref-type="fn" rid="jah31709-note-0007">a</xref>
+</td><td align="center" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">&#x02212;25.9 (4.5)%; &#x0003c;0.0001</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;19.6 (5.2)%; 0.0002<xref ref-type="fn" rid="jah31709-note-0008">b</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fasting triglycerides<xref ref-type="fn" rid="jah31709-note-0009">c</xref>
+</td><td align="center" rowspan="1" colspan="1">1.1 (3.8)%</td><td align="char" rowspan="1" colspan="1">&#x02212;10.6 (2.7)%</td><td align="char" rowspan="1" colspan="1">&#x02212;9.2 (3.9)%</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Percentage difference vs placebo; <italic>P</italic>&#x02010;value<xref ref-type="fn" rid="jah31709-note-0007">a</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">&#x02212;11.8 (4.6)%; 0.0109</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;10.4 (5.4)%; 0.0556</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">HDL&#x02010;C</td><td align="center" rowspan="1" colspan="1">&#x02212;2.4 (1.9)%</td><td align="center" rowspan="1" colspan="1">7.4 (1.4)%</td><td align="center" rowspan="1" colspan="1">7.7 (2.0)%</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Percentage difference vs placebo; <italic>P</italic>&#x02010;value<xref ref-type="fn" rid="jah31709-note-0007">a</xref>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">9.8 (2.4)%; &#x0003c;0.0001</td><td align="center" rowspan="1" colspan="1">10.1 (2.8)%; 0.0003</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Apo A1</td><td align="center" rowspan="1" colspan="1">3.4 (1.5)%</td><td align="center" rowspan="1" colspan="1">8.2 (1.1)%</td><td align="center" rowspan="1" colspan="1">10.0 (1.5)%</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Percentage difference vs placebo; <italic>P</italic>&#x02010;value<xref ref-type="fn" rid="jah31709-note-0007">a</xref>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">4.8 (1.8)%; 0.0104</td><td align="center" rowspan="1" colspan="1">6.6 (2.1)%; 0.0025</td></tr></tbody></table><table-wrap-foot><fn id="jah31709-note-0006"><p>75Q2W indicates 75&#x000a0;mg every 2&#x000a0;weeks (with possible dose adjustment to 150&#x000a0;mg every 2&#x000a0;weeks); 150Q4W, 150&#x000a0;mg every 4&#x000a0;weeks (with possible dose adjustment to 150&#x000a0;mg every 2&#x000a0;weeks); Apo, apolipoprotein; HDL&#x02010;C, high&#x02010;density lipoprotein cholesterol; LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol; LOCF, last observation carried forward; Lp(a), lipoprotein(a); LS, least squares; SD, standard deviation; SE, standard error.</p></fn><fn id="jah31709-note-0007"><label>a</label><p>
+<italic>P</italic>&#x02010;values are for the comparison with placebo.</p></fn><fn id="jah31709-note-0008"><label>b</label><p>
+<italic>P</italic>&#x02010;value is statistically significant according to the fixed hierarchical approach used to ensure a strong control of the overall type&#x02010;I error rate at the 0.05 level (only applicable to comparison of alirocumab 150Q4W arm vs placebo).</p></fn><fn id="jah31709-note-0009"><label>c</label><p>Combined estimate for adjusted mean (SE).</p></fn></table-wrap-foot></table-wrap><sec id="jah31709-sec-0015"><title>Week 12</title><p>Before any dose adjustment (ie, up to week 12), the mean percentage change in LDL&#x02010;C from baseline to averaged weeks 9 to 12 was &#x02212;52.3% in the alirocumab 150Q4W group and 3.2% in the placebo group. However, in the alirocumab 150Q4W group the mean percentage reduction in LDL&#x02010;C from baseline to weeks 9 to 11 was greater (54.5% to 57.2%) compared with that observed at week 12 (41.7%; Table&#x000a0;<xref rid="jah31709-tbl-0002" ref-type="table-wrap">2</xref>). Absolute LDL&#x02010;C levels over time are shown in Figure&#x000a0;<xref rid="jah31709-fig-0002" ref-type="fig">2</xref>. In the alirocumab 75Q2W calibrator arm, percentage reduction in LDL&#x02010;C from baseline to averaged weeks 9 to 12 was 53.6% (Table&#x000a0;<xref rid="jah31709-tbl-0002" ref-type="table-wrap">2</xref>), whereas percentage reduction in LDL&#x02010;C from baseline to weeks 9 to 11 (51.6% to 56.3%) was comparable to that at week 12 (50.8%).</p><p>At week 12, 26 patients (49.1%) received a dose adjustment from alirocumab 150&#x000a0;mg Q4W to 150&#x000a0;mg Q2W because these patients did not achieve their predefined LDL&#x02010;C target levels at week 8 (with 36.0% of patients in the 75&#x000a0;mg Q2W group also increasing to 150&#x000a0;mg Q2W). In general, subjects in both groups with dose adjustment were characterized by higher LDL&#x02010;C levels at baseline (197.5&#x000a0;mg/dL in the 150Q4W group and 188.6&#x000a0;mg/dL in the 75Q2W group) compared with those who did not require dose adjustment (130.3 and 137.3&#x000a0;mg/dL, respectively) (Figure&#x000a0;<xref rid="jah31709-fig-0003" ref-type="fig">3</xref>, Table&#x000a0;S3). Mean LDL&#x02010;C levels in patients who received dose adjustment from 150&#x000a0;mg Q4W to 150&#x000a0;mg Q2W were reduced further from 120.5&#x000a0;mg/dL at week 12 to 79.0&#x000a0;mg/dL at week 24, a decrease from week 12 of 34.4%, corresponding to an incremental benefit of ~19% compared with baseline (Figure&#x000a0;<xref rid="jah31709-fig-0003" ref-type="fig">3</xref>). Of patients allocated to alirocumab 150Q4W, 50.9% did not need dose adjustment and were maintained on this dose until the end of the study. In the calibrator arm, 64.0% of patients remained on the 75&#x000a0;mg Q2W dose. For patients who received dose adjustment from 75&#x000a0;mg Q2W to 150&#x000a0;mg Q2W, an LDL&#x02010;C reduction from week 12 to week 24 of 15.8% was observed, corresponding to an incremental benefit of ~11% compared with baseline (week 12, 106.6&#x000a0;mg/dL; week 24, 89.8&#x000a0;mg/dL) (Figure&#x000a0;S2).</p><fig fig-type="Figure" xml:lang="en" id="jah31709-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Impact of dosing regimen adjustment on <styled-content style="fixed-case">LDL</styled-content>&#x02010;C levels (<styled-content style="fixed-case">ITT</styled-content> analysis*) (A) and free <styled-content style="fixed-case">PCSK</styled-content>9 levels (B) in patients in the 150&#x000a0;mg Q4W alirocumab cohort: time profile from baseline to Week 24 (<styled-content style="fixed-case">PK</styled-content> analysis*). *Patients who received dose adjustment at Week 12 and had at least 1 subsequent injection. <styled-content style="fixed-case">LDL</styled-content>&#x02010;C indicates low&#x02010;density lipoprotein cholesterol; <styled-content style="fixed-case">PCSK</styled-content>9, proprotein convertase subtilisin/kexin type 9; Q2W, every 2&#x000a0;weeks; Q4W, every 4&#x000a0;weeks; <styled-content style="fixed-case">SE</styled-content>, standard error.</p></caption><graphic id="nlm-graphic-5" xlink:href="JAH3-5-e003421-g003"/></fig></sec><sec id="jah31709-sec-0016"><title>Week 24</title><p>At week 24 (primary endpoint), the mean (standard error) percentage change in LDL&#x02010;C from baseline to week 24 was greater in the alirocumab 150Q4W group (&#x02212;51.7%) versus placebo (+4.7%) in the ITT analysis, with a statistically significant mean difference of &#x02212;56.4% (<italic>P</italic>&#x0003c;0.0001; Table&#x000a0;<xref rid="jah31709-tbl-0002" ref-type="table-wrap">2</xref>). The on&#x02010;treatment analysis demonstrated consistent results (alirocumab 150Q4W &#x02212;54.6%; placebo +5.1%; <italic>P</italic>&#x0003c;0.0001) (Table&#x000a0;S4). Data were comparable when either measured or calculated LDL&#x02010;C was used (Table&#x000a0;S5).</p><p>At week 24, 63.9% of patients allocated to alirocumab 150Q4W achieved their LDL&#x02010;C target levels versus 1.8% of patients allocated to placebo (70.3% in the alirocumab 75Q2W group) (Table&#x000a0;<xref rid="jah31709-tbl-0002" ref-type="table-wrap">2</xref>).</p><p>Across various patient subgroups the reductions in LDL&#x02010;C were similar to the primary endpoint data at week 24 (Figure&#x000a0;S3), although patients with baseline free PCSK9 levels above the median tended to see a greater reduction in LDL&#x02010;C compared with those with baseline levels below the median (Figure&#x000a0;S3). Considering concomitant therapies (ezetimibe and/or fenofibrate or diet&#x000a0;alone), LDL&#x02010;C reductions were consistent in the alirocumab 150Q4W group at week 24 (Figure&#x000a0;S3).</p><p>At week 24, significant (<italic>P</italic>&#x0003c;0.05) improvements in secondary efficacy endpoints including apolipoprotein B, non&#x02010;high&#x02010;density lipoprotein cholesterol, and Lp(a) were observed following treatment with alirocumab 150Q4W (Table&#x000a0;<xref rid="jah31709-tbl-0002" ref-type="table-wrap">2</xref>).</p></sec><sec id="jah31709-sec-0017"><title>Free PCSK9</title><p>In general, predictable dynamics were observed following alirocumab administration, with free PCSK9 levels decreasing concomitantly with LDL&#x02010;C level reduction in the alirocumab 150Q4W group (or 75Q2W group) (Figure&#x000a0;<xref rid="jah31709-fig-0002" ref-type="fig">2</xref>). Despite similar baseline free PCSK9 levels, alirocumab&#x02010;treated patients receiving dose adjustment to 150&#x000a0;mg Q2W at week 12 had a less pronounced decrease in mean free PCSK9 levels during the first 12&#x000a0;weeks than those remaining on the initial alirocumab dose (Figure&#x000a0;<xref rid="jah31709-fig-0003" ref-type="fig">3</xref>; Figure&#x000a0;S2). Following dose adjustment, an additional reduction in mean free PCSK9 levels was observed with mean values close to 0, ranging from 1.6 to 3.6&#x000a0;ng/mL (Figure&#x000a0;<xref rid="jah31709-fig-0003" ref-type="fig">3</xref>; Figure&#x000a0;S2).</p></sec></sec><sec id="jah31709-sec-0018"><title>Device&#x02010;Handling Questionnaire</title><p>At Weeks 0 and 12, 135 and 117 of all study participants completed the device&#x02010;handling questionnaire, respectively. Overall, the provided ratings at each time point were similar. The overall experience in performing home self&#x02010;injection was rated as 6 or 7 (7=extremely satisfied) by 93% of the patients. In addition, 92% of patients (n=125) were very satisfied with the duration of injection (rating 6 or 7).</p></sec><sec id="jah31709-sec-0019"><title>Safety</title><p>As described below and compared with placebo, alirocumab was generally well tolerated at any dose regimen. The number of patients with at least 1 TEAE was 45 (77.6%) in the alirocumab 150Q4W group, 37 (63.8%) in the placebo group, and 84 (73.0%) in the alirocumab 75Q2W group (Table&#x000a0;<xref rid="jah31709-tbl-0003" ref-type="table-wrap">3</xref>). Permanent discontinuations due to TEAEs occurred in 6.9% and 3.4% of patients treated with alirocumab 150Q4W and placebo, respectively (1.7% in the alirocumab 75Q2W group). No deaths were reported during this study (Table&#x000a0;<xref rid="jah31709-tbl-0003" ref-type="table-wrap">3</xref>). Serious TEAEs were reported by 7 (12.1%) patients in the alirocumab 150Q4W group and 4 (6.9%) in the placebo group (6 [5.2%] in the alirocumab 75Q2W group).</p><table-wrap id="jah31709-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Adverse Events and Safety Laboratory Values (Safety Population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="left" rowspan="2" valign="top" colspan="1">Placebo (n=58)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Alirocumab</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">75Q2W (n=115)</th><th align="left" valign="top" rowspan="1" colspan="1">150Q4W (n=58)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">TEAEs, n (%)</td><td align="left" rowspan="1" colspan="1">37 (63.8)</td><td align="left" rowspan="1" colspan="1">84 (73.0)</td><td align="left" rowspan="1" colspan="1">45 (77.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Treatment&#x02010;emergent SAEs, n (%)</td><td align="left" rowspan="1" colspan="1">4 (6.9)</td><td align="left" rowspan="1" colspan="1">6 (5.2)</td><td align="left" rowspan="1" colspan="1">7 (12.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">TEAEs leading to death, n (%)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">TEAEs leading to discontinuation, n (%)</td><td align="left" rowspan="1" colspan="1">2 (3.4)</td><td align="left" rowspan="1" colspan="1">2 (1.7)</td><td align="left" rowspan="1" colspan="1">4 (6.9)</td></tr><tr><td align="left" colspan="4" rowspan="1">Safety terms of interest, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Adjudicated cardiovascular events<xref ref-type="fn" rid="jah31709-note-0011">a</xref>
+</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (0.9)</td><td align="left" rowspan="1" colspan="1">1 (1.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">General allergic reactions</td><td align="left" rowspan="1" colspan="1">4 (6.9)</td><td align="left" rowspan="1" colspan="1">5 (4.3)</td><td align="left" rowspan="1" colspan="1">6 (10.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">General allergic serious TEAE (CMQ)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Neurological TEAE</td><td align="left" rowspan="1" colspan="1">2 (3.4)</td><td align="left" rowspan="1" colspan="1">5 (4.3)</td><td align="left" rowspan="1" colspan="1">4 (6.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Neurocognitive disorders</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (0.9%)</td><td align="left" rowspan="1" colspan="1">1 (1.7%)</td></tr><tr><td align="left" colspan="4" rowspan="1">Laboratory parameters<xref ref-type="fn" rid="jah31709-note-0012">b</xref>, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Alanine aminotransferase &#x0003e;3 times ULN</td><td align="left" rowspan="1" colspan="1">0/58</td><td align="left" rowspan="1" colspan="1">1/115 (0.9)</td><td align="left" rowspan="1" colspan="1">0/58</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Aspartate aminotransferase &#x0003e;3 times ULN</td><td align="left" rowspan="1" colspan="1">0/58</td><td align="left" rowspan="1" colspan="1">0/115</td><td align="left" rowspan="1" colspan="1">0/58</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Creatine kinase &#x0003e;3 times ULN</td><td align="left" rowspan="1" colspan="1">1/57 (1.8)</td><td align="left" rowspan="1" colspan="1">8/115 (7.0)</td><td align="left" rowspan="1" colspan="1">4/57 (7.0)</td></tr></tbody></table><table-wrap-foot><fn id="jah31709-note-0010"><p>75Q2W indicates 75&#x000a0;mg every 2&#x000a0;weeks (with possible dose adjustment to 150&#x000a0;mg every 2&#x000a0;weeks); 150Q4W, 150&#x000a0;mg every 4&#x000a0;weeks (with possible dose adjustment to 150&#x000a0;mg every 2&#x000a0;weeks); CHD, coronary heart disease; CMQ, Custom Medical Dictionary of Regulatory Activities Query; SAE, serious adverse event; TEAE, treatment&#x02010;emergent adverse events; ULN, upper limit of normal.</p></fn><fn id="jah31709-note-0011"><label>a</label><p>Includes CHD death, nonfatal myocardial infarction, fatal and nonfatal ischemic stroke, unstable angina requiring hospitalization, congestive heart failure requiring hospitalization, and ischemia&#x02010;driven coronary revascularization procedure.</p></fn><fn id="jah31709-note-0012"><label>b</label><p>Regardless of baseline status.</p></fn></table-wrap-foot></table-wrap><p>A list of TEAEs by preferred term occurring in &#x02265;2% of patients in either group is given in Table&#x000a0;S6.</p><p>In regard to TEAEs of special interest, injection&#x02010;site reactions were experienced by 8 (13.8%) alirocumab 150Q4W&#x02010;treated patients (vs 4 [3.5%] in alirocumab 75Q2W&#x02010;treated patients and 0 [0%] in the placebo group). The intensity of all injection&#x02010;site reactions was mild, except for 1 of moderate intensity in the alirocumab 75&#x000a0;mg Q2W group (Table&#x000a0;S6). Injection&#x02010;site reactions occurred earlier and were of longer duration in the alirocumab 150Q4W group; however, none of the injection&#x02010;site reactions led to treatment discontinuation. No particular safety findings were detected for neurological events. Neurocognitive events were reported by 1 patient in the alirocumab 150Q4W group (1.7%; aphasia) and 1 patient in the alirocumab 75Q2W group (0.9%; amnesia). These neurocognitive events were not serious and did not lead to treatment discontinuation. A positively adjudicated case of nonfatal myocardial infarction and of ischemia&#x02010;driven coronary revascularization were observed in 1 (1.7%) patient receiving alirocumab 150Q4W and in 1 (0.9%) patient receiving alirocumab 75Q2W.</p><p>Three (2.7%) patients in the alirocumab 75Q2W group had calculated LDL&#x02010;C levels of &#x0003c;25&#x000a0;mg/dL on &#x02265;2 consecutive occasions (0 in the alirocumab 150Q4W group). No specific safety concern was identified in these patients.</p></sec><sec id="jah31709-sec-0020"><title>Antidrug Antibodies</title><p>The presence of antidrug antibodies had no observed effect on LDL&#x02010;C&#x02010;lowering efficacy (Figure&#x000a0;S4). A total of 1/109 (0.9%) patient in the alirocumab 75Q2W group developed a low&#x02010;titer, treatment&#x02010;emergent persistent positive response for the antialirocumab antibody assay (0 in the alirocumab 150Q4W group). Five patients in this study had positive alirocumab&#x02010;neutralizing activity: 1 patient (1/56; 1.8%) from the alirocumab 150Q4W group and 4 patients (4/109; 3.7%) from the alirocumab 75Q2W group.</p></sec></sec><sec id="jah31709-sec-0021"><title>Discussion</title><p>In ODYSSEY CHOICE II, patients with hypercholesterolemia not on statin therapy were treated with alirocumab 150Q4W, resulting in LDL&#x02010;C reductions of 51.7% at week 24 (placebo +4.7%). ODYSSEY CHOICE II was the first phase 3 study to use this alirocumab dose, with results suggesting that 150Q4W may be convenient for patients with hypercholesterolemia not on statin therapy. The dose adjustment strategy would allow the physician to modify the dose to Q2W if LDL&#x02010;C targets were not met.</p><p>The current study included weekly sample collection from weeks 8 to 12, thereby allowing detailed assessment of LDL&#x02010;C levels as well as PCSK9 levels. In line with previous studies,<xref rid="jah31709-bib-0017" ref-type="ref">17</xref>, <xref rid="jah31709-bib-0018" ref-type="ref">18</xref> alirocumab 150Q4W (and 75Q2W) led to a rapid and robust reduction in mean free PCSK9 levels, which persisted for at least 3&#x000a0;weeks (as shown between weeks 9 and 11) following alirocumab 150Q4W administration. With administration of alirocumab 75Q2W, mean free PCSK9 levels remained below 25% of baseline levels throughout the 4&#x02010;week period. However, in the 150Q4W group, there was a modest increase of free PCSK9 levels between weeks 11 and 12 that coincided with a small tailing off of LDL&#x02010;C efficacy.</p><p>At week 12, before possible dose modification, when patients remained on either alirocumab 150&#x000a0;mg Q4W or 75&#x000a0;mg Q2W, 45.9% and 60.7% of patients, respectively, achieved their predefined LDL&#x02010;C target levels despite none of them being on a statin.</p><p>The dose adjustment at week 12 (based on LDL&#x02010;C values at week 8) resulted in an additional reduction in LDL&#x02010;C of 34.4% (alirocumab 150Q4W) and 15.8% (alirocumab 75Q2W) from weeks 12 to 24, corresponding to an incremental benefit of ~19% and ~11% compared with baseline, respectively. At week 24, after possible dose modification, 63.9% of patients in the alirocumab 150Q4W group had achieved their predefined LDL&#x02010;C targets (alirocumab 75Q2W group 70.3%). Higher LDL&#x02010;C levels at baseline were associated with dose adjustment at week 12, with duration of effect across the dosing interval also being a contributory factor toward some patients receiving a dose adjustment.</p><p>At week 24, LDL&#x02010;C reductions were 51.7% in the alirocumab 150Q4W arm and 53.5% in the 75Q2W arm. Importantly, alirocumab 75Q2W used as a calibrator arm demonstrated results that are consistent with LDL&#x02010;C&#x02010;lowering efficacy and with safety data of alirocumab used as add&#x02010;on or monotherapy in previously published studies from the ODYSSEY clinical trials program.<xref rid="jah31709-bib-0012" ref-type="ref">12</xref>, <xref rid="jah31709-bib-0013" ref-type="ref">13</xref>, <xref rid="jah31709-bib-0014" ref-type="ref">14</xref> Significant reductions in LDL&#x02010;C levels have also been seen with Q4W dosing of another PCSK9 inhibitor, evolocumab, in statin&#x02010;intolerant patients.<xref rid="jah31709-bib-0008" ref-type="ref">8</xref> In that study, mean percentage reductions from baseline in LDL&#x02010;C at week 12 were 56.1% with evolocumab 140&#x000a0;mg Q2W and 52.6% with evolocumab 420&#x000a0;mg Q4W. The effectiveness of alirocumab 300&#x000a0;mg Q4W has also been investigated in patients receiving concomitant statin therapy in the ODYSSEY CHOICE I study. The changes in LDL&#x02010;C from baseline to week 24 were &#x02212;58.8% (placebo &#x02212;0.1%) with alirocumab 300&#x000a0;mg Q4W (with possible dose adjustment to 150&#x000a0;mg Q2W at week 12) in patients on statin, and at week 12, only 19.3% of those patients required dose adjustment.<xref rid="jah31709-bib-0024" ref-type="ref">24</xref>
+</p><p>Despite the fact that 90.1% of patients included in this study had a history of experiencing intolerable SAMS on multiple statins, we observed a low rate of muscle&#x02010;related symptoms with alirocumab treatment. These data support the concept that LDL&#x02010;C lowering per se is not a pivotal factor in SAMS and/or causation of myopathy.<xref rid="jah31709-bib-0007" ref-type="ref">7</xref> It should be noted that patients with perceived SAMS not utilizing statin therapy are unlikely to experience the degree of LDL&#x02010;C lowering needed to reduce cardiovascular risk with other traditional lipid&#x02010;lowering therapies.<xref rid="jah31709-bib-0007" ref-type="ref">7</xref> Causality of SAMS is debated, with randomized, blinded, and placebo&#x02010;controlled trials often reporting similar rates of muscle AEs between statin and placebo arms and with lower rates of muscle symptoms compared with observational studies.<xref rid="jah31709-bib-0025" ref-type="ref">25</xref> These findings imply that perceived SAMS, besides potential pharmacological and pharmacogenetic factors, are also likely to include a behavioral component from the expectation that statins can cause muscle symptoms.<xref rid="jah31709-bib-0007" ref-type="ref">7</xref>, <xref rid="jah31709-bib-0025" ref-type="ref">25</xref> In support, many patients who discontinue statins due to SAMS can be successfully rechallenged.<xref rid="jah31709-bib-0007" ref-type="ref">7</xref>, <xref rid="jah31709-bib-0010" ref-type="ref">10</xref>, <xref rid="jah31709-bib-0026" ref-type="ref">26</xref>
+</p><p>Injection&#x02010;site reactions were reported at a higher rate in patients receiving 150Q4W alirocumab versus comparator arms. Here, it should be emphasized that the number of patients was relatively small in this treatment arm. Furthermore, all injection&#x02010;site reactions in the 150Q4W arm were of mild intensity and of limited duration. Because of the sample size per group in this study, small percentage differences between treatment groups may not be clinically meaningful, as similar trends were not observed in previously published larger alirocumab studies.<xref rid="jah31709-bib-0013" ref-type="ref">13</xref>, <xref rid="jah31709-bib-0014" ref-type="ref">14</xref>, <xref rid="jah31709-bib-0027" ref-type="ref">27</xref>
+</p></sec><sec id="jah31709-sec-0022"><title>Conclusions</title><p>Overall, these data suggest that alirocumab 150Q4W may provide an additional option to further optimize the treatment of patients with SAMS not receiving statin treatment. However, this dosing strategy may not provide adequate LDL&#x02010;C reduction in all patients, for example, those receiving concomitant statin or those with higher baseline LDL&#x02010;C levels. In these patients, either a higher dose of alirocumab 300Q4W or alirocumab 75&#x000a0;mg Q2W (with possible dose adjustment to 150&#x000a0;mg Q2W) is likely to be preferred.</p></sec><sec id="jah31709-sec-0024"><title>Sources of Funding</title><p>The ODYSSEY CHOICE II study was supported by Sanofi and Regeneron Pharmaceuticals, Inc.</p></sec><sec id="jah31709-sec-0025"><title>Disclosures</title><p>Stroes reports speaker fees/research grants from Amgen, Merck, Novartis, Sanofi, and Regeneron Pharmaceuticals Inc. Guyton reports consulting/honoraria fees from Amgen Inc, ARMCO, Novella, and Regeneron Pharmaceuticals Inc; and research grants from Amarin, Amgen Inc, Regeneron Pharmaceuticals Inc, and Sanofi&#x02010;Aventis. Lepor reports consultant fees/honaria from Gilead, Sanofi, ZX Pharmaceuticals, and Relypsa; a role in US Medical Innovations; research grants from Amarin, Amgen, Gilead, Janssen, Norvatis, Pfizer, Regeneron Pharmaceuticals Inc, and Sanofi; and is a member of speaker's bureau for Amgen, Arbor, Astellas Pharma US, Boehringer&#x02010;Ingelheim, Bristol Myers Squibb, Eli Lilly/Daiichi Sankyo, Gilead, Novartis, Pfizer, Regeneron/Sanofi, and Relypsa. Civeira reports grants, consulting fees, and/or honoraria from Amgen, Merck, Pfizer, and Sanofi&#x02010;Aventis. Gaudet reports grants, consulting fees, and/or honoraria from Amgen, Merck, and Sanofi. Watts has nothing to disclose. Baccara&#x02010;Dinet and Lecorps are employees of and stockholders in Sanofi. Manvelian is an employee of and stockholder in Regeneron Pharmaceuticals Inc. Farnier reports research support from Amgen, Merck, and Sanofi; speaker's bureau fees from Amgen, Sanofi/Regeneron Pharmaceuticals Inc, and Merck; honoraria from Abbott/Mylan, Eli Lilly, and Pfizer; and consultant/advisory board fees from Abbot/Mylan, Amgen, AstraZeneca, Eli Lilly, Kowa, Merck, Pfizer, Roche, Sanofi/Regeneron Pharmaceuticals Inc, and Servier.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jah31709-sup-0001"><caption><p>
+<bold>Table&#x000a0;S1.</bold> Exclusion Criteria</p><p>
+<bold>Table&#x000a0;S2.</bold> Reasons for Not Completing the Study Treatment Period (Randomized Population)</p><p>
+<bold>Table&#x000a0;S3.</bold> Baseline Characteristics According to Dose Adjustment Status (Safety Population*)</p><p>
+<bold>Table&#x000a0;S4.</bold> Percentage Change From Baseline in Calculated LDL&#x02010;C at Week 24: Mixed&#x02010;Effect Model With Repeated Measures (On&#x02010;Treatment Analysis&#x02014;Modified ITT Population)</p><p>
+<bold>Table&#x000a0;S5.</bold> Percentage Change From Baseline in Measured LDL&#x02010;C at Week 24: Analysis of Covariance&#x02014;Complete Case Analysis (ITT Analysis&#x02014;ITT Population)</p><p>
+<bold>Table&#x000a0;S6.</bold> Adverse Events by Preferred Term Occurring in &#x02265;2% of Patients in Either Group (Safety Population)</p><p>
+<bold>Figure&#x000a0;S1.</bold> Patient disposition for CHOICE II study.</p><p>
+<bold>Figure&#x000a0;S2.</bold> Impact of dosing regimen adjustment on LDL&#x02010;C levels (A) and free PCSK9 levels (B) in patients in the 75&#x000a0;mg Q2W alirocumab cohort: time profile from baseline to week 24 (ITT analysis).</p><p>
+<bold>Figure&#x000a0;S3.</bold> The difference in percentage change from baseline to week 24 in LDL&#x02010;C (alirocumab 150Q4W vs placebo) according to baseline subgroup: demographics (A), medical history and PCSK9 levels (B), lipids (C), and medication (D) (ITT analysis).</p><p>
+<bold>Figure&#x000a0;S4.</bold> Percentage reduction in LDL&#x02010;C at last value up to week 24 by anti&#x02010;alirocumab antibody status in the alirocumab 150Q4W group (A) and 75Q2W group (B) (on&#x02010;treatment analysis&#x02014;modified ITT population).</p></caption><media xlink:href="JAH3-5-e003421-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jah31709-sec-0023"><title>Acknowledgments</title><p>The authors would like to thank the study patients and investigators and the following persons from the sponsors for their contributions to data collection and analysis, assistance with statistical analysis, or critical review of the manuscript: Regeneron Pharmaceuticals Inc: Carol Hudson, Michael Louie, Jaman Maroni, Robert Pordy, Bill Sasiela, and Neil Stahl; Sanofi: Laurence Bessac, Aur&#x000e9;lie Brunet, Jay Edelberg, L. Veronica Lee, Solenn Le&#x02010;Guennec, and Michael Howard. Medical writing support was provided by Susanne Ulm of Prime Medica Ltd, Knutsford, Cheshire, UK, supported by Sanofi and Regeneron Pharmaceuticals Inc. Responsibility for all opinions, conclusions, and interpretation of data lies with the authors.</p></ack><ref-list content-type="cited-references" id="jah31709-bibl-0001"><title>References</title><ref id="jah31709-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah31709-cit-0001">
+<string-name>
+<surname>Brugts</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Yetgin</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hoeks</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Gotto</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Shepherd</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Westendorp</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>de Craen</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Knopp</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Nakamura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ridker</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>van Domburg</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Deckers</surname>
+<given-names>JW</given-names>
+</string-name>. <article-title>The benefits of statins in people without established cardiovascular disease but with cardiovascular risk factors: meta&#x02010;analysis of randomised controlled trials</article-title>. <source>BMJ</source>. <year>2009</year>;<volume>338</volume>:<fpage>b2376</fpage>.<pub-id pub-id-type="pmid">19567909</pub-id></mixed-citation></ref><ref id="jah31709-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah31709-cit-0002">
+<string-name>
+<surname>Reiner</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Catapano</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>De Backer</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Taskinen</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Wiklund</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Agewall</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Alegria</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Durrington</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Erdine</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Halcox</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hobbs</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kjekshus</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Filardi</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name>
+<surname>Riccardi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Storey</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>ESC/EAS guidelines for the management of dyslipidaemias: the Task Force for the Management of Dyslipidaemias of the European Society of Cardiology (ESC) and the European Atherosclerosis Society (EAS)</article-title>. <source>Eur Heart J</source>. <year>2011</year>;<volume>32</volume>:<fpage>1769</fpage>&#x02013;<lpage>1818</lpage>.<pub-id pub-id-type="pmid">21712404</pub-id></mixed-citation></ref><ref id="jah31709-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah31709-cit-0003">
+<string-name>
+<surname>Stone</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Lichtenstein</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Bairey Merz</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Blum</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Eckel</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lloyd&#x02010;Jones</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>McBride</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Shero</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>SC</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Watson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>PW</given-names>
+</string-name>. <article-title>2013 ACC/AHA guideline on the treatment of blood cholesterol to reduce atherosclerotic cardiovascular risk in adults: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines</article-title>. <source>J Am Coll Cardiol</source>. <year>2014</year>;<volume>63</volume>:<fpage>2889</fpage>&#x02013;<lpage>2934</lpage>.<pub-id pub-id-type="pmid">24239923</pub-id></mixed-citation></ref><ref id="jah31709-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah31709-cit-0004">
+<string-name>
+<surname>Kashani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>
+<given-names>CO</given-names>
+</string-name>, <string-name>
+<surname>Foody</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mangalmurti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ko</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Krumholz</surname>
+<given-names>HM</given-names>
+</string-name>. <article-title>Risks associated with statin therapy: a systematic overview of randomized clinical trials</article-title>. <source>Circulation</source>. <year>2006</year>;<volume>114</volume>:<fpage>2788</fpage>&#x02013;<lpage>2797</lpage>.<pub-id pub-id-type="pmid">17159064</pub-id></mixed-citation></ref><ref id="jah31709-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah31709-cit-0005">
+<string-name>
+<surname>Ridker</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Danielson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Fonseca</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>Genest</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gotto</surname>
+<given-names>AM</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Kastelein</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Koenig</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Libby</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lorenzatti</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>MacFadyen</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Nordestgaard</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>Shepherd</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Willerson</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Glynn</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Rosuvastatin to prevent vascular events in men and women with elevated C&#x02010;reactive protein</article-title>. <source>N Engl J Med</source>. <year>2008</year>;<volume>359</volume>:<fpage>2195</fpage>&#x02013;<lpage>2207</lpage>.<pub-id pub-id-type="pmid">18997196</pub-id></mixed-citation></ref><ref id="jah31709-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah31709-cit-0006">
+<collab collab-type="authors">Group HPSC</collab>
+. <article-title>MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high&#x02010;risk individuals: a randomised placebo&#x02010;controlled trial</article-title>. <source>Lancet</source>. <year>2002</year>;<volume>360</volume>:<fpage>7</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">12114036</pub-id></mixed-citation></ref><ref id="jah31709-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah31709-cit-0007">
+<string-name>
+<surname>Stroes</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Corsini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vladutiu</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Raal</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Ray</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Roden</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tokgozoglu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Nordestgaard</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>Bruckert</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>De</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>Krauss</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Laufs</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Hegele</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Hovingh</surname>
+<given-names>GK</given-names>
+</string-name>, <string-name>
+<surname>Leiter</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Mach</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Marz</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Newman</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Wiklund</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Jacobson</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Catapano</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ginsberg</surname>
+<given-names>HN</given-names>
+</string-name>. <article-title>Statin&#x02010;associated muscle symptoms: impact on statin therapy&#x02010;European Atherosclerosis Society Consensus Panel&#x000a0;Statement on Assessment, Aetiology and Management</article-title>. <source>Eur Heart J</source>. <year>2015</year>;<volume>36</volume>:<fpage>1012</fpage>&#x02013;<lpage>1022</lpage>.<pub-id pub-id-type="pmid">25694464</pub-id></mixed-citation></ref><ref id="jah31709-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah31709-cit-0008">
+<string-name>
+<surname>Stroes</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Colquhoun</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Civeira</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Rosenson</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Watts</surname>
+<given-names>GF</given-names>
+</string-name>, <string-name>
+<surname>Bruckert</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dent</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Knusel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wasserman</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Rocco</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Anti&#x02010;PCSK9 antibody effectively lowers cholesterol in patients with statin intolerance: the GAUSS&#x02010;2 randomized, placebo&#x02010;controlled phase 3 clinical trial of evolocumab</article-title>. <source>J Am Coll Cardiol</source>. <year>2014</year>;<volume>63</volume>:<fpage>2541</fpage>&#x02013;<lpage>2548</lpage>.<pub-id pub-id-type="pmid">24694531</pub-id></mixed-citation></ref><ref id="jah31709-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah31709-cit-0009">
+<string-name>
+<surname>Visser</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Wagener</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Geary</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Donovan</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Beuers</surname>
+<given-names>UH</given-names>
+</string-name>, <string-name>
+<surname>Nederveen</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Verheij</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Trip</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Basart</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Kastelein</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Stroes</surname>
+<given-names>ES</given-names>
+</string-name>. <article-title>Mipomersen, an apolipoprotein B synthesis inhibitor, lowers low&#x02010;density lipoprotein cholesterol in high&#x02010;risk statin&#x02010;intolerant patients: a randomized, double&#x02010;blind, placebo&#x02010;controlled trial</article-title>. <source>Eur Heart J</source>. <year>2012</year>;<volume>33</volume>:<fpage>1142</fpage>&#x02013;<lpage>1149</lpage>.<pub-id pub-id-type="pmid">22507979</pub-id></mixed-citation></ref><ref id="jah31709-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah31709-cit-0010">
+<string-name>
+<surname>Moriarty</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Guyton</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Bergeron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zieve</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Bruckert</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Jacobson</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Kopecky</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Baccara&#x02010;Dinet</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gipe</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Efficacy and safety of alirocumab versus ezetimibe in statin&#x02010;intolerant patients, with a statin&#x02010;re&#x02010;challenge arm: the ODYSSEY ALTERNATIVE randomized trial</article-title>. <source>J Clin Lipidol</source>. <year>2015</year>;<volume>9</volume>:<fpage>758</fpage>&#x02013;<lpage>769</lpage>.<pub-id pub-id-type="pmid">26687696</pub-id></mixed-citation></ref><ref id="jah31709-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah31709-cit-0011">
+<string-name>
+<surname>Phan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gomez</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Elbaz</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Daskalopoulou</surname>
+<given-names>SS</given-names>
+</string-name>. <article-title>Statin treatment non&#x02010;adherence and discontinuation: clinical implications and potential solutions</article-title>. <source>Curr Pharm Des</source>. <year>2014</year>;<volume>20</volume>:<fpage>6314</fpage>&#x02013;<lpage>6324</lpage>.<pub-id pub-id-type="pmid">24953391</pub-id></mixed-citation></ref><ref id="jah31709-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah31709-cit-0012">
+<string-name>
+<surname>Roth</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Taskinen</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Ginsberg</surname>
+<given-names>HN</given-names>
+</string-name>, <string-name>
+<surname>Kastelein</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Colhoun</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Merlet</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Baccara&#x02010;Dinet</surname>
+<given-names>MT</given-names>
+</string-name>. <article-title>Monotherapy with the PCSK9 inhibitor alirocumab versus ezetimibe in patients with hypercholesterolemia: results of a 24&#x000a0;week, double&#x02010;blind, randomized phase 3 trial</article-title>. <source>Int J Cardiol</source>. <year>2014</year>;<volume>176</volume>:<fpage>55</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">25037695</pub-id></mixed-citation></ref><ref id="jah31709-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah31709-cit-0013">
+<string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Cariou</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Blom</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>McKenney</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Lorenzato</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chaudhari</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Colhoun</surname>
+<given-names>HM</given-names>
+</string-name>. <article-title>Efficacy and safety of alirocumab in high cardiovascular risk patients with inadequately controlled hypercholesterolaemia on maximally tolerated doses of statins: the ODYSSEY COMBO II randomized controlled trial</article-title>. <source>Eur Heart J</source>. <year>2015</year>;<volume>36</volume>:<fpage>1186</fpage>&#x02013;<lpage>1194</lpage>.<pub-id pub-id-type="pmid">25687353</pub-id></mixed-citation></ref><ref id="jah31709-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah31709-cit-0014">
+<string-name>
+<surname>Kereiakes</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Lorenzato</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chaudhari</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Colhoun</surname>
+<given-names>HM</given-names>
+</string-name>. <article-title>Efficacy and safety of the proprotein convertase subtilisin/kexin type 9 inhibitor alirocumab among high cardiovascular risk patients on maximally tolerated statin therapy: the ODYSSEY COMBO I study</article-title>. <source>Am Heart J</source>. <year>2015</year>;<volume>169</volume>:<fpage>906</fpage>&#x02013;<lpage>915</lpage>.<pub-id pub-id-type="pmid">26027630</pub-id></mixed-citation></ref><ref id="jah31709-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah31709-cit-0015">
+<string-name>
+<surname>Bays</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gaudet</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ruiz</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Watts</surname>
+<given-names>GF</given-names>
+</string-name>, <string-name>
+<surname>Gouni&#x02010;Berthold</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hanotin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Donahue</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Alirocumab as add&#x02010;on to atorvastatin versus other lipid treatment strategies: ODYSSEY OPTIONS I randomized trial</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2015</year>;<volume>100</volume>:<fpage>3140</fpage>&#x02013;<lpage>3148</lpage>.<pub-id pub-id-type="pmid">26030325</pub-id></mixed-citation></ref><ref id="jah31709-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah31709-cit-0016">
+<string-name>
+<surname>Kastelein</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Ginsberg</surname>
+<given-names>HN</given-names>
+</string-name>, <string-name>
+<surname>Langslet</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hovingh</surname>
+<given-names>GK</given-names>
+</string-name>, <string-name>
+<surname>Ceska</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dufour</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Blom</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Civeira</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Krempf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lorenzato</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Baccara&#x02010;Dinet</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Gipe</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Geiger</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Farnier</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>ODYSSEY FH I and FH II: 78&#x000a0;week results with alirocumab treatment in 735 patients with heterozygous familial hypercholesterolaemia</article-title>. <source>Eur Heart J</source>. <year>2015</year>;<volume>36</volume>:<fpage>2996</fpage>&#x02013;<lpage>3003</lpage>.<pub-id pub-id-type="pmid">26330422</pub-id></mixed-citation></ref><ref id="jah31709-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah31709-cit-0017">
+<string-name>
+<surname>Rey</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Poitiers</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Paehler</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Brunet</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>DiCioccio</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Surks</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Pinquier</surname>
+<given-names>J&#x02010;L</given-names>
+</string-name>, <string-name>
+<surname>Hanotin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sasiela</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Relationship between LDL&#x02010;C, free PCSK9, and alirocumab levels after different lipid&#x02010;lowering strategies</article-title>. <source>J Am Heart Assoc</source>. <year>2016</year>;<volume>5</volume>:<fpage>e003323</fpage> doi: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.116.003323">10.1161/JAHA.116.003323</ext-link>.<pub-id pub-id-type="pmid">27287699</pub-id></mixed-citation></ref><ref id="jah31709-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah31709-cit-0018">
+<string-name>
+<surname>Stein</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Gipe</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bergeron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gaudet</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dufour</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Effect of a monoclonal antibody to PCSK9, REGN727/SAR236553, to reduce low&#x02010;density lipoprotein cholesterol in patients with heterozygous familial hypercholesterolaemia on stable statin dose with or without ezetimibe therapy: a phase 2 randomised controlled trial</article-title>. <source>Lancet</source>. <year>2012</year>;<volume>380</volume>:<fpage>29</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">22633824</pub-id></mixed-citation></ref><ref id="jah31709-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah31709-cit-0019">
+<string-name>
+<surname>Seidah</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Awan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Chretien</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mbikay</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>PCSK9: a key modulator of cardiovascular health</article-title>. <source>Circ Res</source>. <year>2014</year>;<volume>114</volume>:<fpage>1022</fpage>&#x02013;<lpage>1036</lpage>.<pub-id pub-id-type="pmid">24625727</pub-id></mixed-citation></ref><ref id="jah31709-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah31709-cit-0020">
+<string-name>
+<surname>McKenney</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Koren</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Kereiakes</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Hanotin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ferrand</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>EA</given-names>
+</string-name>. <article-title>Safety and efficacy of a monoclonal antibody to proprotein convertase subtilisin/kexin type 9 serine protease, SAR236553/REGN727, in patients with primary hypercholesterolemia receiving ongoing stable atorvastatin therapy</article-title>. <source>J Am Coll Cardiol</source>. <year>2012</year>;<volume>59</volume>:<fpage>2344</fpage>&#x02013;<lpage>2353</lpage>.<pub-id pub-id-type="pmid">22463922</pub-id></mixed-citation></ref><ref id="jah31709-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah31709-cit-0021">
+<string-name>
+<surname>Moriarty</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Jacobson</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Bruckert</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Guyton</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Baccara&#x02010;Dinet</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Gipe</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Efficacy and safety of alirocumab, a monoclonal antibody to PCSK9, in statin&#x02010;intolerant patients: design and rationale of ODYSSEY ALTERNATIVE, a randomized phase 3 trial</article-title>. <source>J Clin Lipidol</source>. <year>2014</year>;<volume>8</volume>:<fpage>554</fpage>&#x02013;<lpage>561</lpage>.<pub-id pub-id-type="pmid">25499937</pub-id></mixed-citation></ref><ref id="jah31709-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah31709-cit-0022">
+<string-name>
+<surname>Grundy</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Cleeman</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name>
+<surname>Merz</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Brewer</surname>
+<given-names>HB</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name>
+<surname>Hunninghake</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Pasternak</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>SC</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Stone</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Implications of recent clinical trials for the National Cholesterol Education Program Adult Treatment Panel&#x000a0;III guidelines</article-title>. <source>Circulation</source>. <year>2004</year>;<volume>110</volume>:<fpage>227</fpage>&#x02013;<lpage>239</lpage>.<pub-id pub-id-type="pmid">15249516</pub-id></mixed-citation></ref><ref id="jah31709-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah31709-cit-0023">
+<string-name>
+<surname>Kastelein</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Farnier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Krempf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Langslet</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lorenzato</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gipe</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Baccara&#x02010;Dinet</surname>
+<given-names>MT</given-names>
+</string-name>. <article-title>Efficacy and safety of alirocumab in patients with heterozygous familial hypercholesterolemia not adequately controlled with current lipid&#x02010;lowering therapy: design and rationale of the ODYSSEY FH studies</article-title>. <source>Cardiovasc Drugs Ther</source>. <year>2014</year>;<volume>28</volume>:<fpage>281</fpage>&#x02013;<lpage>289</lpage>.<pub-id pub-id-type="pmid">24842558</pub-id></mixed-citation></ref><ref id="jah31709-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah31709-cit-0024">
+<string-name>
+<surname>Roth</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Moriarty</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bergeron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Langslet</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Manvelian</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Baccara&#x02010;Dinet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rader</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>A phase 3 randomized trial evaluating alirocumab 300&#x000a0;mg every 4&#x000a0;weeks (Q4W) as monotherapy or add&#x02010;on to statin: ODYSSEY CHOICE I</article-title>. <source>J Clin Lipidol</source>. <year>2016</year>;<volume>10</volume>:<fpage>716</fpage>&#x02013;<lpage>717</lpage>.</mixed-citation></ref><ref id="jah31709-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah31709-cit-0025">
+<string-name>
+<surname>Newman</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Tobert</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Statin intolerance: reconciling clinical trials and clinical experience</article-title>. <source>JAMA</source>. <year>2015</year>;<volume>313</volume>:<fpage>1011</fpage>&#x02013;<lpage>1012</lpage>.<pub-id pub-id-type="pmid">25756433</pub-id></mixed-citation></ref><ref id="jah31709-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah31709-cit-0026">
+<string-name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Plutzky</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Skentzos</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mar</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shubina</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Turchin</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Discontinuation of statins in routine care settings: a cohort study</article-title>. <source>Ann Intern Med</source>. <year>2013</year>;<volume>158</volume>:<fpage>526</fpage>&#x02013;<lpage>534</lpage>.<pub-id pub-id-type="pmid">23546564</pub-id></mixed-citation></ref><ref id="jah31709-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah31709-cit-0027">
+<string-name>
+<surname>Robinson</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Farnier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Krempf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bergeron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Luc</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Averna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Stroes</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Langslet</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Raal</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>El</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Koren</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Lepor</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Lorenzato</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chaudhari</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Kastelein</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Efficacy and safety of alirocumab in reducing lipids and cardiovascular events</article-title>. <source>N Engl J Med</source>. <year>2015</year>;<volume>372</volume>:<fpage>1489</fpage>&#x02013;<lpage>1499</lpage>.<pub-id pub-id-type="pmid">25773378</pub-id></mixed-citation></ref></ref-list></back></article>

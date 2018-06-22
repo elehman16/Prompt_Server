@@ -1,0 +1,684 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Int AIDS Soc</journal-id><journal-id journal-id-type="iso-abbrev">J Int AIDS Soc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1758-2652</journal-id><journal-id journal-id-type="publisher-id">JIA2</journal-id><journal-title-group><journal-title>Journal of the International AIDS Society</journal-title></journal-title-group><issn pub-type="epub">1758-2652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29485746</article-id><article-id pub-id-type="pmc">5978692</article-id><article-id pub-id-type="doi">10.1002/jia2.25043</article-id><article-id pub-id-type="publisher-id">JIA225043</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Conditional cash transfers and the reduction in partner violence for young women: an investigation of causal pathways using evidence from a randomized experiment in South Africa (<styled-content style="fixed-case">HPTN</styled-content> 068)</article-title><alt-title alt-title-type="left-running-head">Kilburn K et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="jia225043-cr-0001" contrib-type="author" corresp="yes"><name><surname>Kilburn</surname><given-names>Kelly N</given-names></name><address><email>kkilburn@unc.edu</email></address><xref ref-type="aff" rid="jia225043-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jia225043-cr-0002" contrib-type="author"><name><surname>Pettifor</surname><given-names>Audrey</given-names></name><xref ref-type="aff" rid="jia225043-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jia225043-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jia225043-cr-0003" contrib-type="author"><name><surname>Edwards</surname><given-names>Jessie K</given-names></name><xref ref-type="aff" rid="jia225043-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jia225043-cr-0004" contrib-type="author"><name><surname>Selin</surname><given-names>Amanda</given-names></name><xref ref-type="aff" rid="jia225043-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jia225043-cr-0005" contrib-type="author"><name><surname>Twine</surname><given-names>Rhian</given-names></name><xref ref-type="aff" rid="jia225043-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jia225043-cr-0006" contrib-type="author"><name><surname>MacPhail</surname><given-names>Catherine</given-names></name><xref ref-type="aff" rid="jia225043-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jia225043-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jia225043-cr-0007" contrib-type="author"><name><surname>Wagner</surname><given-names>Ryan</given-names></name><xref ref-type="aff" rid="jia225043-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jia225043-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jia225043-cr-0008" contrib-type="author"><name><surname>Hughes</surname><given-names>James P</given-names></name><xref ref-type="aff" rid="jia225043-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="jia225043-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="jia225043-cr-0009" contrib-type="author"><name><surname>Wang</surname><given-names>Jing</given-names></name><xref ref-type="aff" rid="jia225043-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="jia225043-cr-0010" contrib-type="author"><name><surname>Kahn</surname><given-names>Kathleen</given-names></name><xref ref-type="aff" rid="jia225043-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jia225043-aff-0008">
+<sup>8</sup>
+</xref></contrib></contrib-group><aff id="jia225043-aff-0001">
+<label><sup>1</sup></label>
+<institution>University of North Carolina</institution>
+<named-content content-type="city">Chapel Hill</named-content>
+<country country="US">United States</country>
+</aff><aff id="jia225043-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">MRC/Wits Rural Public Health and Health Transitions Research Unit (Agincourt)</named-content>
+<institution>University of the Witwatersrand</institution>
+<named-content content-type="city">Johannesburg</named-content>
+<country country="ZA">South Africa</country>
+</aff><aff id="jia225043-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">University of Wollongong</named-content>
+<institution>Wollongong NSW</institution>
+<country country="AU">Australia</country>
+</aff><aff id="jia225043-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Wits Reproductive Health and HIV Institute</named-content>
+<institution>University of the Witwatersrand</institution>
+<named-content content-type="city">Johannesburg</named-content>
+<country country="ZA">South Africa</country>
+</aff><aff id="jia225043-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Ume&#x000e5; Centre for Global Health Research</named-content>
+<institution>Ume&#x000e5; University</institution>
+<named-content content-type="city">Ume&#x000e5;</named-content>
+<country country="SE">Sweden</country>
+</aff><aff id="jia225043-aff-0006">
+<label><sup>6</sup></label>
+<institution>Statistical Center for HIV/AIDS Research and Prevention (SCHARP)</institution>
+<named-content content-type="city">Seattle</named-content>
+<country country="US">United States</country>
+</aff><aff id="jia225043-aff-0007">
+<label><sup>7</sup></label>
+<institution>University of Washington</institution>
+<named-content content-type="city">Seattle</named-content>
+<country>Washington</country>
+</aff><aff id="jia225043-aff-0008">
+<label><sup>8</sup></label>
+<institution>INDEPTH Network</institution>
+<named-content content-type="city">Accra</named-content>
+<country country="GH">Ghana</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Corresponding author</bold>: Kelly N Kilburn, University of North Carolina, 130 Mason Road, Bioinformatics Building, Chapel Hill, NC 27599&#x02010;7030, USA. Tel: +1 919 966 2537. (<email>kkilburn@unc.edu</email>)</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2018</year></pub-date><volume>21</volume><issue>Suppl Suppl 1</issue><issue-id pub-id-type="doi">10.1002/jia2.2018.21.issue-S1</issue-id><issue-title content-type="special-issue-title">Paediatric and Adolescent HIV and the Sustainable Development Goals: the road ahead to 2030. Guest Editors: Douglas Webb, Chewe Luo, Lucie Cluver</issue-title><elocation-id>e25043</elocation-id><history><date date-type="received"><day>09</day><month>5</month><year>2017</year></date><date date-type="accepted"><day>12</day><month>12</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 International AIDS Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Journal of the International AIDS Society published by John Wiley &#x00026; sons Ltd on behalf of the International AIDS Society.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JIA2-21-e25043.pdf"/><abstract id="jia225043-abs-0001"><title>Abstract</title><sec id="jia225043-sec-0001"><title>Introduction</title><p>Evidence has shown that the experience of violence by a partner has important influences on women's risk of <styled-content style="fixed-case">HIV</styled-content> acquisition. Using a randomized experiment in northeast South Africa, we found that a conditional cash transfer (<styled-content style="fixed-case">CCT</styled-content>) targeted to poor girls in high school reduced the risk of physical intimate partner violence (<styled-content style="fixed-case">IPV</styled-content>) in the past 12&#x000a0;months by 34%. The purpose of this analysis is to understand the pathways through which the <styled-content style="fixed-case">CCT</styled-content> affects <styled-content style="fixed-case">IPV</styled-content>.</p></sec><sec id="jia225043-sec-0002"><title>Methods</title><p>HPTN 068 was a phase 3, randomized controlled trial in rural Mpumalanga province, South Africa. Eligible young women (aged 13&#x02013;20) and their parents or guardians were randomly assigned (1:1) to either receive a monthly cash transfer conditional on monthly high school attendance or no cash transfer. Between 2011 and 2015, participants (N&#x000a0;=&#x000a0;2,448) were interviewed at baseline, then at annual follow&#x02010;up visits at 12, 24 and 36&#x000a0;months. The total effect of the <styled-content style="fixed-case">CCT</styled-content> on <styled-content style="fixed-case">IPV</styled-content> was estimated using a <styled-content style="fixed-case">GEE</styled-content> log&#x02010;binomial regression model. We then estimated controlled direct effects to examine mediation of direct effects through intermediate pathways. Mediators include sexual partnership measures, the sexual relationship power scale, and household consumption measures.</p></sec><sec id="jia225043-sec-0003"><title>Results</title><p>We found evidence that the <styled-content style="fixed-case">CCT</styled-content> works in part through delaying sexual debut or reducing the number of sexual partners. The intervention interacts with these mediators leading to larger reductions in <styled-content style="fixed-case">IPV</styled-content> risk compared to the total effect of the <styled-content style="fixed-case">CCT</styled-content> on any physical <styled-content style="fixed-case">IPV</styled-content> [<styled-content style="fixed-case">RR</styled-content> 0.66, <styled-content style="fixed-case">CI</styled-content>(95%):0.59&#x02013;0.74]. The largest reductions are seen when we estimate the controlled direct effect under no sexual debut [<styled-content style="fixed-case">RR</styled-content> 0.57, <styled-content style="fixed-case">CI</styled-content>(95%):0.48&#x02013;0.65] or under no sexual partner in the last 12&#x000a0;months [<styled-content style="fixed-case">RR</styled-content> 0.53, <styled-content style="fixed-case">CI</styled-content>(95%):0.46&#x02013;0.60].</p></sec><sec id="jia225043-sec-0004"><title>Conclusions</title><p>Results indicate that a <styled-content style="fixed-case">CCT</styled-content> for high school girls has protective effects on their experience of <styled-content style="fixed-case">IPV</styled-content> and that the effect is due in part to girls choosing not to engage in sexual partnerships, thereby reducing the opportunity for <styled-content style="fixed-case">IPV</styled-content>. As a lower exposure to <styled-content style="fixed-case">IPV</styled-content> and safer sexual behaviours also protect against <styled-content style="fixed-case">HIV</styled-content> acquisition, this study adds to the growing body of evidence on how cash transfers may reduce young women's <styled-content style="fixed-case">HIV</styled-content> risk.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jia225043-kwd-0001">intimate partner violence</kwd><kwd id="jia225043-kwd-0002">cash transfers</kwd><kwd id="jia225043-kwd-0003">gender</kwd><kwd id="jia225043-kwd-0004">South Africa</kwd><kwd id="jia225043-kwd-0005"><styled-content style="fixed-case">HIV</styled-content> prevention</kwd></kwd-group><funding-group><award-group><funding-source>National Institute of Allergy and Infectious Diseases (NIAID)</funding-source><award-id>T32AI007001</award-id></award-group><award-group><funding-source>National Institute of Mental Health (NIMH)</funding-source></award-group><award-group><funding-source>National Institute on Drug Abuse (NIDA)</funding-source></award-group><award-group><funding-source>National Institutes of Health</funding-source><award-id>UM1AI068619</award-id><award-id>UM1AI068617</award-id><award-id>UM1AI068613</award-id></award-group><award-group><funding-source>Carolina Population Center</funding-source><award-id>R01MH110186</award-id><award-id>R01MH087118</award-id><award-id>R24 HD050924</award-id></award-group><award-group><funding-source>Division of Intramural Research</funding-source></award-group><award-group><funding-source>School of Public Health University of the Witwatersrand and Medical Research Council, South Africa</funding-source></award-group><award-group><funding-source>UK Wellcome Trust</funding-source><award-id>058893/Z/99/A</award-id><award-id>069683/Z/02/Z</award-id><award-id>085477/Z/08/Z</award-id><award-id>085477/B/08/Z</award-id></award-group></funding-group><counts><fig-count count="0"/><table-count count="4"/><page-count count="8"/><word-count count="7988"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jia225043</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.0 mode:remove_FC converted:31.05.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jia225043-cit-1001">
+<string-name>
+<surname>Kilburn</surname>, <given-names>K. N.</given-names>
+</string-name>, <string-name>
+<surname>Pettifor</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Selin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Twine</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>MacPhail</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hughes</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kahn</surname>, <given-names>K.</given-names>
+</string-name>
+<article-title>Conditional cash transfers and the reduction in partner violence for young women: an investigation of causal pathways using evidence from a randomized experiment in South Africa (HPTN 068)</article-title>. <source xml:lang="en">J Int AIDS Soc</source>. <year>2018</year>; <volume>21</volume>(<issue>S1</issue>):<elocation-id>e25043</elocation-id>
+</mixed-citation>
+</p><fn-group id="jia225043-ntgp-0001"><fn id="jia225043-note-1001"><p>This study is registered at ClinicalTrials.gov (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="NCT01233531">NCT01233531</ext-link>).</p></fn></fn-group></notes></front><body><sec id="jia225043-sec-0005"><label>1</label><title>Introduction</title><p>Violence against women, and specifically intimate partner violence (IPV), is a major global public health problem, causing significant morbidity and mortality worldwide <xref rid="jia225043-bib-0001" ref-type="ref">1</xref>. Around a third of women globally have experienced IPV <xref rid="jia225043-bib-0002" ref-type="ref">2</xref> and South Africa, the location of this study, is no exception <xref rid="jia225043-bib-0003" ref-type="ref">3</xref>, <xref rid="jia225043-bib-0004" ref-type="ref">4</xref>. Partner violence in South Africa is particularly a problem for young women, putting them at risk for sexual and reproductive health issues including HIV infection <xref rid="jia225043-bib-0005" ref-type="ref">5</xref>. IPV can be a direct cause of HIV transmission through forced or coercive sex with a HIV&#x02010;positive male but can also indirectly lead to HIV transmission by limiting young women's ability to negotiate and practice safe sexual behaviours such as using condoms <xref rid="jia225043-bib-0005" ref-type="ref">5</xref>, <xref rid="jia225043-bib-0006" ref-type="ref">6</xref>, <xref rid="jia225043-bib-0007" ref-type="ref">7</xref>. Moreover, poverty can exacerbate young women's risk for both IPV and HIV as it often heightens this gendered power imbalance by pressuring young women to engage in transactional sex <xref rid="jia225043-bib-0007" ref-type="ref">7</xref>, <xref rid="jia225043-bib-0008" ref-type="ref">8</xref>, <xref rid="jia225043-bib-0009" ref-type="ref">9</xref>. Given the critical intersections of HIV and IPV, the success of HIV prevention interventions may be conditional upon changes in gendered power inequalities.</p><p>The importance of addressing these interconnections&#x02014;those among health, gender inequalities and poverty&#x02014;has even been articulated in the United Nations Sustainable Development Goals (SDGs) in order to advance the global development agenda. In context of HIV prevention for female adolescents in South Africa, a focus on combination interventions which work towards reducing national poverty (SDG 1.2) and gender inequality (SDG 5), particularly intimate partner violence (SDG 5.2.1), may be the most imperative to reduce new HIV infections (SDG 3.3.1). Social protection programmes have become an explicit part of the development agenda (SDG 1.3) to reduce national poverty and lately, these programmes&#x02014;particularly cash transfers&#x02014;have also been promoted for HIV prevention. The theory is that cash transfers may reduce women's HIV risk as they can address poverty as structural driver of risk and because cash transfers may be an effective vehicle for empowering women and lead to safer sexual behaviours <xref rid="jia225043-bib-0010" ref-type="ref">10</xref>, <xref rid="jia225043-bib-0011" ref-type="ref">11</xref>, <xref rid="jia225043-bib-0012" ref-type="ref">12</xref>, <xref rid="jia225043-bib-0013" ref-type="ref">13</xref>. Moreover, cash transfers often increase children's educational attendance (SDG 4.1) with even stronger effects when the money is tied to an explicit condition <xref rid="jia225043-bib-0013" ref-type="ref">13</xref>. As education can also be empowering for girls, providing the cash conditional on school attendance may be an important mechanism for reducing young women's vulnerability to HIV and IPV <xref rid="jia225043-bib-0014" ref-type="ref">14</xref>, <xref rid="jia225043-bib-0015" ref-type="ref">15</xref>, <xref rid="jia225043-bib-0016" ref-type="ref">16</xref>.</p><p>In this analysis, we examine how a conditional cash transfer (CCT), HIV Prevention Trial Network (HPTN) 068 study, helped address these intersecting issues in poor, rural South Africa. HPTN 068 was an experimental intervention for HIV prevention that provided monthly cash transfers to young women and their households conditional high school attendance by the young woman. The main findings of HPTN 068 (published in the Lancet) revealed that the CCT had no significant effect on HIV incidence but did reduce young women's risk of IPV by 34 percent <xref rid="jia225043-bib-0017" ref-type="ref">17</xref>. While similar evidence has been found in other studies of cash transfers <xref rid="jia225043-bib-0018" ref-type="ref">18</xref>, <xref rid="jia225043-bib-0019" ref-type="ref">19</xref>, <xref rid="jia225043-bib-0020" ref-type="ref">20</xref>, <xref rid="jia225043-bib-0021" ref-type="ref">21</xref>, most evidence comes from Latin America and focuses on older women. Moreover, little is known about how these programmes work to prevent IPV <xref rid="jia225043-bib-0021" ref-type="ref">21</xref>. In this paper, we build upon the Lancet findings to investigate the causal pathways through which a CCT intervention targeted to young women in South Africa works to reduce IPV; concentrating on perceived sexual relationship power, sexual behaviours and economic wellbeing.</p></sec><sec id="jia225043-sec-0006"><label>2</label><title>Methods</title><sec id="jia225043-sec-0007"><label>2.1</label><title>Study site and design</title><p>The HPTN 068 study site is in the Mpumalanga province in northeast South Africa. Villages in our study are located within the Agincourt Health and Socio&#x02010;Demographic Surveillance Systems (AHDSS) catchment area&#x02014;a rural but densely populated and characterized by high poverty and high HIV prevalence <xref rid="jia225043-bib-0022" ref-type="ref">22</xref>, <xref rid="jia225043-bib-0023" ref-type="ref">23</xref>. A 2010 population&#x02010;based HIV prevalence survey undertaken in Agincourt found HIV prevalence rises significantly among young women of similar age to our study sample&#x02014;from 5.5% among 15&#x02013;19&#x000a0;year olds to 27% among 20&#x02013;24&#x000a0;year olds <xref rid="jia225043-bib-0023" ref-type="ref">23</xref>. Incidence among young women from the HPTN 068 study was &#x0003c;2% (per person&#x02010;year) <xref rid="jia225043-bib-0017" ref-type="ref">17</xref>, which was low considering a 4.5% incidence rate among black African females aged 20&#x02013;34 from a recent national survey in South Africa <xref rid="jia225043-bib-0024" ref-type="ref">24</xref>.</p><p>The study was designed as a phase III randomized control trial to test the effectiveness of CCTs for HIV prevention among young women (aged 13&#x02013;20) attending high school. Enrolled participants were randomly assigned to the treatment arm, and participants and their parents or guardians received monthly cash transfers of 100 and 200 Rand (R) respectively (or roughly US$ 10 and US$ 20 using 2012 the conversion rates). At baseline, monthly per capita household expenditure was R295 so transfer amounts made up a significant proportion of pre&#x02010;programme consumption. For both the young woman and the parent or guardian, transfer funds were deposited directly into respective bank accounts. Cash transfers were conditional on the young woman attending at least 80% of school days during the month. As long as the young woman was eligible to be in school and met the attendance criteria, she could receive the transfer for up to 3&#x000a0;years.</p></sec><sec id="jia225043-sec-0008"><label>2.2</label><title>Eligibility and randomization</title><p>To be eligible for the study, young women had to be aged 13&#x02013;20&#x000a0;years and enrolled in a participating high school (grades 8, 9, 10, or 11) in the study location. They also had to be unmarried, not pregnant, able to read, living with at least one parent or guardian, willing to take an HIV and herpes simplex virus (HSV)&#x02010;2 test, and have or be able to open a bank account (or post office account). Between March 2011 and December 2012, a total of 10,134 young women were screened from the ADHSS population, and 2,537 were found eligible and enrolled <xref rid="jia225043-bib-0025" ref-type="ref">25</xref>. After young women were recruited to the study, participants completed an Audio Computer&#x02010;Assisted Self&#x02010;Interview (ACASI) and HIV and HSV&#x02010;2 testing, which included pre and post&#x02010;test HIV counselling. After baseline assessments, young women (and their parent or guardian) were individually randomized (1:1) to either the treatment group (monthly cash transfer conditional on school attendance) or control group (no cash). All participants were then reassessed annually at 12, 24, and 36&#x000a0;months until they graduated from high school or the study ended, whichever came first. Each visit included the ACASI, HIV and HSV&#x02010;2 testing (if negative at the previous visit), and pre and post&#x02010;test HIV counselling. A household survey was also completed with parents or guardians at baseline and each follow&#x02010;up visit. Consent for study participation was obtained at the home visits with written informed consent from both young women and her parent or guardian. Written assent was obtained for female participants under 18&#x000a0;years old. Institutional Review Board approval for this study was obtained from the University of North Carolina at Chapel Hill and the University of the Witwatersrand Human Research Ethics Committee as well as the Provincial Department of Health's Research Ethics Committee.</p></sec><sec id="jia225043-sec-0009"><label>2.3</label><title>Measures</title><p>The ACASI asked respondents about sexual and physical IPV experiences regardless of whether they reported having a sexual partner. &#x0201c;Forced sex&#x0201d; is an indicator any experience of forced sex by a partner in the previous 12&#x000a0;months. &#x0201c;Any physical IPV&#x0201d; is an indicator for any experience of physical intimate partner violence in the previous 12&#x000a0;months as defined by the WHO <xref rid="jia225043-bib-0002" ref-type="ref">2</xref>;</p><p>Has a partner (responses are yes or no):</p><p>
+<list list-type="order" id="jia225043-list-0001"><list-item><p>Slapped you or thrown something at you that could hurt you?</p></list-item><list-item><p>Pushed you or shoved you?</p></list-item><list-item><p>Hit you with a fist or with something else that could hurt?</p></list-item><list-item><p>Kicked you, dragged you, or beaten you up?</p></list-item><list-item><p>Choked or burnt you on purpose?</p></list-item><list-item><p>Threatened to use or actually used a gun, knife, or other weapon against you?</p></list-item></list>
+</p><p>We also created indicators for moderate and severe IPV as defined by the WHO, where moderate IPV indicates any experience of violence from items 1 or 2 and severe IPV indicates any experience of violence from items 3&#x02013;6. Variables are not mutually exclusive; young women could experience both moderate and severe IPV.</p><p>Mediation pathways we examined included sexual behaviours, perceived sexual relationship power and household economic wellbeing. We chose to explore these variables based on hypothesized conceptual pathways through which the cash transfer might reduce IPV <xref rid="jia225043-bib-0021" ref-type="ref">21</xref>, <xref rid="jia225043-bib-0026" ref-type="ref">26</xref>. For one, sexual behaviours that increase the risk of IPV (e.g. transactional sex) may be driven in part by poverty, including relative poverty. Individual transfers to young women may reduce these behaviours if the money improves outcomes such as food security or consumption for &#x0201c;symbolic purposes&#x0201d; <xref rid="jia225043-bib-0027" ref-type="ref">27</xref>. In addition, young women are more susceptible to violence if they are economically dependent on their male partners. But, with their own source of money, relationship power dynamics may change or women may feel more empowered to leave abusive relationships. Finally, income transfers at the household level have been shown to reduce economic insecurity, which in turn may further lower young women's risk of IPV by changing household time&#x02010;use decisions. For young women, this may include more time spent in school and at home vs. high&#x02010;risk settings such as unsafe work environments.</p><p>Sexual behaviour measures included an indicator for sexual debut (vaginal or anal) after baseline, an indicator for whether the girl had any sexual partners in the past 12&#x000a0;months, and the number of sexual partners in the last 12&#x000a0;months. Sexual relationship power was defined only for young women that reported ever having had sex and operationalized with the Sexual Relationship Power Scale (SRPS), which measures constructs of relationship control and decision&#x02010;making dominance <xref rid="jia225043-bib-0028" ref-type="ref">28</xref>, <xref rid="jia225043-bib-0029" ref-type="ref">29</xref>. We looked at the continuous scale (higher scores indicate greater perceived empowerment) and similar to other studies that use the SRPS, we split the scale into terciles based on scores from all waves. Economic measures included per capita household expenditure (in logarithms) and an indicator for being in the top quartile of per capita household expenditure.</p></sec><sec id="jia225043-sec-0010"><label>2.4</label><title>Analysis methods</title><p>We began with an intention&#x02010;to&#x02010;treat (ITT) analysis of the total effect of the CCT on IPV measures and on potential mediators for all participants with an HIV&#x02010;negative status at baseline. Intervention effects were modelled using generalized estimating equation (GEE) models with robust variance to account for repeated observations on study participants. We estimated risk ratios using log&#x02010;binomial regressions for binary (and count) mediators. For continuous mediators (SRPS and log per capita expenditure), coefficients are calculated using a Gaussian distribution. All models control for participant's age at baseline. In addition, sexual debut was modelled using a discrete time survival analysis and includes dummy variables for study visits.</p><p>To explore mediation of the effect of the CCT on IPV, we used the counterfactual approach to causal mediation <xref rid="jia225043-bib-0030" ref-type="ref">30</xref>, <xref rid="jia225043-bib-0031" ref-type="ref">31</xref>, <xref rid="jia225043-bib-0032" ref-type="ref">32</xref> where we estimate the risk of IPV, Y, for everyone under each possible exposure; treatment, Y(1), and control, Y(0). Only mediators that were significantly impacted by treatment were considered for mediation analysis. We estimated the controlled direct effect (CDE) of the CCT, which expresses the effect of keeping the mediator controlled at level M&#x000a0;for everyone but switching exposure from control, Y(0), to treatment, Y(1). <disp-formula id="jia225043-disp-0001"><mml:math id="nlm-math-1"><mml:mrow><mml:mtext>CDE</mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mi>M</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mi>E</mml:mi><mml:mo stretchy="false">[</mml:mo><mml:mrow><mml:mi>Y</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>M</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo stretchy="false">]</mml:mo><mml:mo stretchy="false">/</mml:mo><mml:mi>E</mml:mi><mml:mo stretchy="false">[</mml:mo><mml:mrow><mml:mi>Y</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mi>M</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math></disp-formula>
+</p><p>In general, CDEs are used to estimate what the difference in the effect of the exposure would be if you could impose a mediator intervention. In our study, CDEs represent the hypothetical risk reduction if we were able to set our mediators at a more protective level (e.g. reducing sexual partners).</p><p>We estimated the CDE using the parametric g&#x02010;formula <xref rid="jia225043-bib-0032" ref-type="ref">32</xref>. In the first step, we fit log&#x02010;binomial models for the effect of CCT on IPV at each time point, including terms for each mediator, treatment&#x02010;mediator interactions, and baseline levels of confounders (see Appendix <xref rid="jia225043-sup-0001" ref-type="supplementary-material">S1</xref> for details). We then used the coefficients from this model to estimate the predicted probabilities of the outcome under each hypothetical intervention on the exposure (treatment or control) and mediator. We report risk ratios for each contrast of interest as the ratio of the average predicted outcome probability under each hypothetical intervention compared. Standard errors of the risk ratios were estimated as the standard deviation of the point estimate from 5,000 bootstrap samples of the observed data <xref rid="jia225043-bib-0034" ref-type="ref">34</xref>.</p></sec></sec><sec id="jia225043-sec-0011"><label>3</label><title>Results</title><sec id="jia225043-sec-0012"><label>3.1</label><title>Baseline data</title><p>Baseline descriptive statistics for study participants (total and by study arm) are provided in Table&#x000a0;<xref rid="jia225043-tbl-0001" ref-type="table-wrap">1</xref>. We exclude baseline HIV positive or unknown cases (N&#x000a0;=&#x000a0;85) from our analysis leaving a baseline sample of 2,448 HIV&#x02010;negative young women. All young women participating in the study were South African and of black race/ethnicity. Young women had a median age of 15&#x000a0;years (IQR 14&#x02013;17) and were distributed equally across all school grades (8&#x02013;11). All demographic and outcome variables in Table&#x000a0;<xref rid="jia225043-tbl-0001" ref-type="table-wrap">1</xref> were tested for baseline balance and we found no significant differences in means between study arms at the 10 percent significance level. In addition, the study arms were also balanced on other key behavioural outcomes, including the main outcomes of HIV and HSV&#x02010;2 infection status <xref rid="jia225043-bib-0017" ref-type="ref">17</xref>.</p><table-wrap id="jia225043-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline demographics and outcomes for young women study participants by treatment arm</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="char" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Total (n&#x000a0;=&#x000a0;2,448)</th><th align="char" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Treatment group (n&#x000a0;=&#x000a0;1,225)</th><th align="char" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Control group (n&#x000a0;=&#x000a0;1,223)</th></tr><tr><th align="center" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">N (%) or Median (IQR)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (years)</td><td align="char" char=" " rowspan="1" colspan="1">15 (14 to 17)</td><td align="char" char=" " rowspan="1" colspan="1">15 (14 to 17)</td><td align="char" char=" " rowspan="1" colspan="1">15 (14 to 16)</td></tr><tr><td align="left" colspan="4" rowspan="1">School grade enrolment</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Grade 8</td><td align="char" char=" " rowspan="1" colspan="1">614 (25)</td><td align="char" char=" " rowspan="1" colspan="1">310 (25)</td><td align="char" char=" " rowspan="1" colspan="1">304 (25)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Grade 9</td><td align="char" char=" " rowspan="1" colspan="1">669 (27)</td><td align="char" char=" " rowspan="1" colspan="1">321 (26)</td><td align="char" char=" " rowspan="1" colspan="1">348 (28)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Grade 10</td><td align="char" char=" " rowspan="1" colspan="1">677 (28)</td><td align="char" char=" " rowspan="1" colspan="1">347 (28)</td><td align="char" char=" " rowspan="1" colspan="1">330 (27)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Grade 11</td><td align="char" char=" " rowspan="1" colspan="1">488 (20)</td><td align="char" char=" " rowspan="1" colspan="1">247 (20)</td><td align="char" char=" " rowspan="1" colspan="1">241 (20)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ever physical IPV</td><td align="char" char=" " rowspan="1" colspan="1">415 (17)</td><td align="char" char=" " rowspan="1" colspan="1">219 (18)</td><td align="char" char=" " rowspan="1" colspan="1">196 (16)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ever forced sex</td><td align="char" char=" " rowspan="1" colspan="1">73 (3.0)</td><td align="char" char=" " rowspan="1" colspan="1">33 (2.7)</td><td align="char" char=" " rowspan="1" colspan="1">40 (3.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Any physical IPV in past 12&#x000a0;months</td><td align="char" char=" " rowspan="1" colspan="1">254 (11)</td><td align="char" char=" " rowspan="1" colspan="1">136 (11)</td><td align="char" char=" " rowspan="1" colspan="1">118 (10)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ever vaginal or anal sex</td><td align="char" char=" " rowspan="1" colspan="1">649 (27)</td><td align="char" char=" " rowspan="1" colspan="1">324 (26)</td><td align="char" char=" " rowspan="1" colspan="1">325 (27)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Any sexual partner in past 12&#x000a0;months</td><td align="char" char=" " rowspan="1" colspan="1">645 (27)</td><td align="char" char=" " rowspan="1" colspan="1">316 (26)</td><td align="char" char=" " rowspan="1" colspan="1">329 (27)</td></tr><tr><td align="left" colspan="4" rowspan="1">Number of sexual partners in past 12&#x000a0;months</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0 partners</td><td align="char" char=" " rowspan="1" colspan="1">1,773 (73)</td><td align="char" char=" " rowspan="1" colspan="1">893 (74)</td><td align="char" char=" " rowspan="1" colspan="1">880 (73)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1 partner</td><td align="char" char=" " rowspan="1" colspan="1">504 (21)</td><td align="char" char=" " rowspan="1" colspan="1">247 (20)</td><td align="char" char=" " rowspan="1" colspan="1">257 (21)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;2 partners</td><td align="char" char=" " rowspan="1" colspan="1">141 (6)</td><td align="char" char=" " rowspan="1" colspan="1">69 (6)</td><td align="char" char=" " rowspan="1" colspan="1">72 (6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Sexual relationship power scale (SRPS)<xref ref-type="fn" rid="jia225043-note-0003">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">28 (23 to 32)</td><td align="char" char=" " rowspan="1" colspan="1">28 (23 to 32)</td><td align="char" char=" " rowspan="1" colspan="1">29 (24 to 32)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Highest tercile SRPS (34&#x02013;36)</td><td align="char" char=" " rowspan="1" colspan="1">132/653 (20)</td><td align="char" char=" " rowspan="1" colspan="1">70/324 (22)</td><td align="char" char=" " rowspan="1" colspan="1">62/329 (19)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Log PC Expenditure (2.9&#x02013;9.7)</td><td align="char" char=" " rowspan="1" colspan="1">5.7 (5.2 to 6.2)</td><td align="char" char=" " rowspan="1" colspan="1">5.7 (5.2 to 6.2)</td><td align="char" char=" " rowspan="1" colspan="1">5.7 (5.2 to 6.2)</td></tr></tbody></table><table-wrap-foot><fn id="jia225043-note-0002"><p>No significant differences (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.1) found between treatment and control outcomes at baseline.</p></fn><fn id="jia225043-note-0003"><label>a</label><p>SRPS is only reported for girls who had been sexually active (n&#x000a0;=&#x000a0;697), scale range is from 1 to 36 with higher scores representing greater empowerment.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>At baseline, 17 percent of all young women in the study reported ever having experienced physical IPV by a partner and 11 percent had experienced some form of physical IPV in the past 12&#x000a0;months. The majority of study participants were not sexually active at baseline, only 27 percent reported ever having had sex (vaginal or anal). In addition, only around 3 percent had ever experienced forced sex.</p><p>Table&#x000a0;<xref rid="jia225043-tbl-0002" ref-type="table-wrap">2</xref> shows ITT programme impacts on all IPV outcomes including the main effects of whether a participant experienced forced sex by a partner (row 1) and physical IPV (row 2) in the past 12&#x000a0;months. We found no effect on forced sex, but, as reported in the Lancet <xref rid="jia225043-bib-0017" ref-type="ref">17</xref>, the programme resulted in a significant reduction in physical IPV. Young women in the treatment group have a 34 percent lower risk of IPV (RR 0.66), significant at the 99.9% CI level.</p><table-wrap id="jia225043-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Intent to Treat Impacts of the CCT on IPV among young women enrolled in HPTN 068</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="char" valign="top" rowspan="1" colspan="1">Treatment</th><th align="char" valign="top" rowspan="1" colspan="1">Obs.<xref ref-type="fn" rid="jia225043-note-0006">a</xref>
+</th><th align="char" valign="top" rowspan="1" colspan="1">Control</th><th align="char" valign="top" rowspan="1" colspan="1">Obs.<xref ref-type="fn" rid="jia225043-note-0006">a</xref>
+</th><th align="char" valign="top" rowspan="1" colspan="1">Risk ratio (95% CI)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Forced sex</td><td align="char" char=" " rowspan="1" colspan="1">58 (2.5%)</td><td align="char" char=" " rowspan="1" colspan="1">2,282</td><td align="char" char=" " rowspan="1" colspan="1">46 (2.2%)</td><td align="char" char=" " rowspan="1" colspan="1">2,062</td><td align="char" char=" " rowspan="1" colspan="1">1.13 (0.75&#x02013;1.70)</td></tr><tr><td align="left" rowspan="1" colspan="1">Any physical IPV</td><td align="char" char=" " rowspan="1" colspan="1">473 (18.5%)</td><td align="char" char=" " rowspan="1" colspan="1">2,559</td><td align="char" char=" " rowspan="1" colspan="1">636 (27.8%)</td><td align="char" char=" " rowspan="1" colspan="1">2,290</td><td align="char" char=" " rowspan="1" colspan="1">0.66<xref ref-type="fn" rid="jia225043-note-0005">***</xref> (0.59&#x02013;0.74)</td></tr><tr><td align="left" colspan="6" rowspan="1">Individual items</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Slapped or threw something</td><td align="char" char=" " rowspan="1" colspan="1">377 (14.7%)</td><td align="char" char=" " rowspan="1" colspan="1">2,564</td><td align="char" char=" " rowspan="1" colspan="1">519 (22.6%)</td><td align="char" char=" " rowspan="1" colspan="1">2,295</td><td align="char" char=" " rowspan="1" colspan="1">0.65<xref ref-type="fn" rid="jia225043-note-0005">***</xref> (0.57&#x02013;0.74)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pushed or shoved</td><td align="char" char=" " rowspan="1" colspan="1">282 (11.0%)</td><td align="char" char=" " rowspan="1" colspan="1">2,564</td><td align="char" char=" " rowspan="1" colspan="1">391 (17.1%)</td><td align="char" char=" " rowspan="1" colspan="1">2,292</td><td align="char" char=" " rowspan="1" colspan="1">0.64<xref ref-type="fn" rid="jia225043-note-0005">***</xref> (0.56&#x02013;0.74)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hit with fist/another item</td><td align="char" char=" " rowspan="1" colspan="1">203 (7.9%)</td><td align="char" char=" " rowspan="1" colspan="1">2,563</td><td align="char" char=" " rowspan="1" colspan="1">309 (13.5%)</td><td align="char" char=" " rowspan="1" colspan="1">2,294</td><td align="char" char=" " rowspan="1" colspan="1">0.59<xref ref-type="fn" rid="jia225043-note-0005">***</xref> (0.50&#x02013;0.69)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kicked, dragged, or beaten up</td><td align="char" char=" " rowspan="1" colspan="1">198 (7.7%)</td><td align="char" char=" " rowspan="1" colspan="1">2,562</td><td align="char" char=" " rowspan="1" colspan="1">272 (11.9%)</td><td align="char" char=" " rowspan="1" colspan="1">2,293</td><td align="char" char=" " rowspan="1" colspan="1">0.65<xref ref-type="fn" rid="jia225043-note-0005">***</xref> (0.54&#x02013;0.78)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Choked or burnt</td><td align="char" char=" " rowspan="1" colspan="1">148 (5.8%)</td><td align="char" char=" " rowspan="1" colspan="1">2,561</td><td align="char" char=" " rowspan="1" colspan="1">222 (9.7%)</td><td align="char" char=" " rowspan="1" colspan="1">2,293</td><td align="char" char=" " rowspan="1" colspan="1">0.60<xref ref-type="fn" rid="jia225043-note-0005">***</xref> (0.48&#x02013;0.73)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Threatened or used gun/another weapon</td><td align="char" char=" " rowspan="1" colspan="1">140 (5.5%)</td><td align="char" char=" " rowspan="1" colspan="1">2,563</td><td align="char" char=" " rowspan="1" colspan="1">205 (8.9%)</td><td align="char" char=" " rowspan="1" colspan="1">2,293</td><td align="char" char=" " rowspan="1" colspan="1">0.61<xref ref-type="fn" rid="jia225043-note-0005">***</xref> (0.49&#x02013;0.75)</td></tr><tr><td align="left" colspan="6" rowspan="1">Severity</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Moderate</td><td align="char" char=" " rowspan="1" colspan="1">445 (17.4%)</td><td align="char" char=" " rowspan="1" colspan="1">2,559</td><td align="char" char=" " rowspan="1" colspan="1">591 (25.8%)</td><td align="char" char=" " rowspan="1" colspan="1">2,290</td><td align="char" char=" " rowspan="1" colspan="1">0.67<xref ref-type="fn" rid="jia225043-note-0005">***</xref> (0.60&#x02013;0.75)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Severe</td><td align="char" char=" " rowspan="1" colspan="1">260 (10.2%)</td><td align="char" char=" " rowspan="1" colspan="1">2,559</td><td align="char" char=" " rowspan="1" colspan="1">367 (16.0%)</td><td align="char" char=" " rowspan="1" colspan="1">2,290</td><td align="char" char=" " rowspan="1" colspan="1">0.63<xref ref-type="fn" rid="jia225043-note-0005">***</xref> (0.54&#x02013;0.74)</td></tr></tbody></table><table-wrap-foot><fn id="jia225043-note-0004"><p>Data are n (%) unless otherwise stated. RRs from GEE log&#x02010;binomial model adjusted for age.</p></fn><fn id="jia225043-note-0005"><p>
+<sup>+</sup>
+<italic>p&#x000a0;</italic>&#x0003c;&#x000a0;0.10, *<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.05, **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.01, ***<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001.</p></fn><fn id="jia225043-note-0006"><label>a</label><p>Observations over the three follow&#x02010;up study visits, out of total N of 2,302 study participants (1,209 treatment and 1,093 control) followed up for at least one visit after baseline.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Below the main treatment effects, we break down any physical IPV into its component parts and find that treatment effect is robust across each of these different specifications. For the six separate acts of physical violence, risk ratios for each measure are similar to the overall impact (ranging from 0.59&#x02013;0.65) and significant at the 99.9% CI level. In addition, results are just as robust to categorization of IPV into moderate and severe categories (<italic>p</italic>&#x02010;values&#x000a0;&#x0003c;&#x000a0;0.001).</p><p>Earlier we described the potential pathways we examined related to sexual partnerships, relationship power and economic wellbeing to explain the effect of the CCT on reducing risk of IPV. Table&#x000a0;<xref rid="jia225043-tbl-0003" ref-type="table-wrap">3</xref> shows the treatment impacts on these pathways. As a necessary condition for mediation, we should find that the CCT directly impacts these pathways.</p><table-wrap id="jia225043-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Intent to Treat Impacts of the CCT on Hypothesized Mediators among young women enrolled in HPTN 068</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="char" valign="top" rowspan="1" colspan="1">Treatment</th><th align="char" valign="top" rowspan="1" colspan="1">Obs.<xref ref-type="fn" rid="jia225043-note-0010">a</xref>
+</th><th align="char" valign="top" rowspan="1" colspan="1">Control</th><th align="char" valign="top" rowspan="1" colspan="1">Obs.<xref ref-type="fn" rid="jia225043-note-0010">a</xref>
+</th><th align="char" valign="top" rowspan="1" colspan="1">RR, IRR, or Coef. (95% CI)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sexual debut<xref ref-type="fn" rid="jia225043-note-0011">b</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jia225043-note-0012">c</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">245 (13.9%)</td><td align="char" char=" " rowspan="1" colspan="1">1,762</td><td align="char" char=" " rowspan="1" colspan="1">250 (16.6%)</td><td align="char" char=" " rowspan="1" colspan="1">1,510</td><td align="char" char=" " rowspan="1" colspan="1">RR 0.83<xref ref-type="fn" rid="jia225043-note-0009">*</xref> (0.71&#x02013;0.98)</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of sexual partners in the last 12&#x000a0;months (Mean, SD)</td><td align="char" char=" " rowspan="1" colspan="1">0.41 (0.7)</td><td align="char" char=" " rowspan="1" colspan="1">2,574</td><td align="char" char=" " rowspan="1" colspan="1">0.46 (0.8)</td><td align="char" char=" " rowspan="1" colspan="1">2,292</td><td align="char" char=" " rowspan="1" colspan="1">IRR 0.86<xref ref-type="fn" rid="jia225043-note-0009">**</xref> (0.78&#x02013;0.96)</td></tr><tr><td align="left" rowspan="1" colspan="1">Any sexual partner in last 12&#x000a0;months</td><td align="char" char=" " rowspan="1" colspan="1">841 (33%)</td><td align="char" char=" " rowspan="1" colspan="1">2,574</td><td align="char" char=" " rowspan="1" colspan="1">824 (36%)</td><td align="char" char=" " rowspan="1" colspan="1">2,292</td><td align="char" char=" " rowspan="1" colspan="1">RR 0.90<xref ref-type="fn" rid="jia225043-note-0009">*</xref> (0.83&#x02013;0.99)</td></tr><tr><td align="left" rowspan="1" colspan="1">Over one sexual partner in last 12&#x000a0;months</td><td align="char" char=" " rowspan="1" colspan="1">147 (5.7%)</td><td align="char" char=" " rowspan="1" colspan="1">2,574</td><td align="char" char=" " rowspan="1" colspan="1">149 (6.3%)</td><td align="char" char=" " rowspan="1" colspan="1">2,292</td><td align="char" char=" " rowspan="1" colspan="1">RR 0.88 (0.68&#x02013;1.09)</td></tr><tr><td align="left" rowspan="1" colspan="1">SRPS<xref ref-type="fn" rid="jia225043-note-0013">d</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jia225043-note-0014">e</xref> (Mean, SD)</td><td align="char" char=" " rowspan="1" colspan="1">28.6 (7.0)</td><td align="char" char=" " rowspan="1" colspan="1">936</td><td align="char" char=" " rowspan="1" colspan="1">28.6 (6.7)</td><td align="char" char=" " rowspan="1" colspan="1">916</td><td align="char" char=" " rowspan="1" colspan="1">Coef. 0.06 (&#x02212;0.63&#x02013;0.75)</td></tr><tr><td align="left" rowspan="1" colspan="1">High SRPS<xref ref-type="fn" rid="jia225043-note-0014">e</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jia225043-note-0015">f</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">296 (31.6%)</td><td align="char" char=" " rowspan="1" colspan="1">936</td><td align="char" char=" " rowspan="1" colspan="1">264 (28.8%)</td><td align="char" char=" " rowspan="1" colspan="1">916</td><td align="char" char=" " rowspan="1" colspan="1">RR 1.12 (0.96&#x02013;1.30)</td></tr><tr><td align="left" rowspan="1" colspan="1">Log per capita expenditure (Mean, SD)</td><td align="char" char=" " rowspan="1" colspan="1">6.0 (0.7)</td><td align="char" char=" " rowspan="1" colspan="1">2,583</td><td align="char" char=" " rowspan="1" colspan="1">6.0 (0.7)</td><td align="char" char=" " rowspan="1" colspan="1">2,290</td><td align="char" char=" " rowspan="1" colspan="1">Coef. 0.03 (&#x02212;0.02&#x02013;0.08)</td></tr><tr><td align="left" rowspan="1" colspan="1">Top quartile per capita expenditure</td><td align="char" char=" " rowspan="1" colspan="1">670 (26.9%)</td><td align="char" char=" " rowspan="1" colspan="1">2,583</td><td align="char" char=" " rowspan="1" colspan="1">552 (24.1%)</td><td align="char" char=" " rowspan="1" colspan="1">2,290</td><td align="char" char=" " rowspan="1" colspan="1">RR 1.09 (0.97&#x02013;1.22)</td></tr></tbody></table><table-wrap-foot><fn id="jia225043-note-0007"><p>Data are n (%) unless otherwise stated. Estimates from GEE models adjusted for age (sexual debut also adjusts for time dummies).</p></fn><fn id="jia225043-note-0008"><p>RR, risk ratio; IRR, incident rate ratio; Coef, coefficient.</p></fn><fn id="jia225043-note-0009"><p>
+<sup>+</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.10, *<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.05, **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.01, ***<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001.</p></fn><fn id="jia225043-note-0010"><label>a</label><p>Observations over the three follow&#x02010;up study visits, out of total N of 2,302 study participants (1,209 treatment and 1,093 control) followed up for at least one visit after baseline.</p></fn><fn id="jia225043-note-0011"><label>b</label><p>Among those who had not debuted before baseline.</p></fn><fn id="jia225043-note-0012"><label>c</label><p>Per person&#x02010;visit.</p></fn><fn id="jia225043-note-0013"><label>d</label><p>Sexual Relationship Power Scale, scores ranges from 1 to 36.</p></fn><fn id="jia225043-note-0014"><label>e</label><p>Only girls that reported having sex either at some point at that visit or before, or if she reported having a partner after being asked IPV questions.</p></fn><fn id="jia225043-note-0015"><label>f</label><p>High SRPS is top tercile (&#x02265;34) and compared to low or moderate SRPS score.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Using a discrete time&#x02010;survival analysis, we find that there is a reduced risk of sexual debut (RR 0.83), significant at the 95% CI level. In other words, the CCT has a cumulative, protective effect of first sex at each study visit. It is important to note that in the main trial findings, no significant difference was found in sexual debut between study arms using a cox proportional hazards model to measure risk of debut over the entire study period <xref rid="jia225043-bib-0017" ref-type="ref">17</xref>. We chose to examine the cumulative risk of debut for this analysis because we are interested in the pathways that affect incident IPV by visit. Another difference is that we excluded cases of debut if women reported an age of first sex that was younger than their age at baseline. However, sensitivity analysis confirms that results are robust to model choice and not dependent on the inclusion or exclusion of these cases.</p><p>In addition, the programme had a positive effect of reducing sexual partnerships during the study. Since partner number is a count variable and most sexually active girls had only one partner we estimated the incident rate ratio and find that being in the intervention resulted in a significantly lower risk of having an additional partner (IRR 0.86). Similarly, participants in the treatment arm had a 9% lower risk of having any sexual partner in the last 12&#x000a0;months (<italic>p</italic>&#x02010;value&#x000a0;&#x0003c;&#x000a0;0.05).</p><p>In addition, we examined the effect of CCT on young women&#x02019; perceived relationship power using the SRPS. As only young women that reported having sexual partnerships have SRPS scores, the sample is reduced considerably (Table&#x000a0;<xref rid="jia225043-tbl-0003" ref-type="table-wrap">3</xref>). We found no significant effect of the CCT intervention on either the continuous SRPS scale or the likelihood of scoring in the top tercile (a score of 34 or greater). Lastly, we found no effect of the CCT on logged per capita household expenditure or on the likelihood of being in the top quartile of per capita expenditure.</p><p>To examine causal mediation of the CCT on IPV, we used the three partnership measures that were significantly affected by treatment (sexual debut, any sexual partner and number of sexual partners). Since treatment effects in Table&#x000a0;<xref rid="jia225043-tbl-0002" ref-type="table-wrap">2</xref> are robust to different specifications of IPV, we used any IPV as our key outcome to analyse mediation. We estimated CDEs for each mediator&#x02010;outcome pair using the G&#x02010;computation formula for mediation (Table&#x000a0;<xref rid="jia225043-tbl-0004" ref-type="table-wrap">4</xref>). For each mediator intervention defined in the left column, we show the CDE broken into the absolute risk of IPV (for each arm) and the risk ratio.</p><table-wrap id="jia225043-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Controlled direct effects of mediator interventions on physical intimate partner violence using parametric G&#x02010;computation formula</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Mediator intervention</th><th align="char" valign="top" rowspan="1" colspan="1">Risk (%) (T&#x000a0;=&#x000a0;treatment C&#x000a0;=&#x000a0;control)</th><th align="char" valign="top" rowspan="1" colspan="1">Risk ratio (95% CI)</th><th align="char" valign="top" rowspan="1" colspan="1">No mediator intervention</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">No sexual debut</td><td align="char" char="=" rowspan="1" colspan="1">T&#x000a0;=&#x000a0;14.8</td><td align="char" char="(" rowspan="2" colspan="1">0.57 (0.48&#x02013;0.65)</td><td align="center" rowspan="6" colspan="1">
+Risk (%)<break/>
+T&#x000a0;=&#x000a0;18.5<break/>
+C&#x000a0;=&#x000a0;27.8<break/>
+(RR 0.66)
+</td></tr><tr><td align="char" char="=" rowspan="1" colspan="1">C&#x000a0;=&#x000a0;26.2</td></tr><tr><td align="left" rowspan="2" colspan="1">No sexual partner (past 12&#x000a0;months)</td><td align="char" char="=" rowspan="1" colspan="1">T&#x000a0;=&#x000a0;14.8</td><td align="char" char="(" rowspan="2" colspan="1">0.53 (0.46&#x02013;0.60)</td></tr><tr><td align="char" char="=" rowspan="1" colspan="1">C&#x000a0;=&#x000a0;27.9</td></tr><tr><td align="left" rowspan="2" colspan="1">Reduce sexual partners by one (past 12&#x000a0;months)</td><td align="char" char="=" rowspan="1" colspan="1">T&#x000a0;=&#x000a0;16.2</td><td align="char" char="(" rowspan="2" colspan="1">0.59 (0.53&#x02013;0.66)</td></tr><tr><td align="char" char="=" rowspan="1" colspan="1">C&#x000a0;=&#x000a0;27.4</td></tr></tbody></table><table-wrap-foot><fn id="jia225043-note-0016"><p>Adjusted for age and baseline level of mediator. Binary outcomes estimated using a GEE log&#x02010;linear model and robust variance. Number of sexual partners estimated using a linear regression model with standard errors clustered at the individual level. Effects estimated from Monte Carlo sample (N&#x000a0;=&#x000a0;5,000) with 95% CIs calculated from standard deviations of point estimates.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Compared to total effect of RR 0.66 (shown in the last column), we find that each mediator intervention additionally lowered the risk of IPV for young women in treatment. The first mediator intervention sets all young women to no sexual debut after baseline resulting in a risk ratio of 0.57, approximately 9 percentage points lower than the total effect. The second row shows the effect of setting all young women in the study to having no sexual partner. This intervention results in the smallest risk ratio (0.53), which is more than 10 percentage points lower than the original total effect. In the last row, we tested a less restrictive mediation scenario by reducing sexual partnerships by 1 (for all those with 1 or more partners). This also reduced the risk of IPV by 7 percentage points (RR 0.59) from total effect. Moreover, for each mediator intervention, we see that the absolute risk of IPV is lower for young women in the treatment group compared to the original risk in the right&#x02010;hand column (18.5 percent). For young women in the control group, however, the risk is about the same as the original (27.8 percent). Therefore, the interaction of the mediator and treatment is driving the result&#x02014;intervening on the mediator works to reduce risk of IPV only in combination with the CCT.</p></sec></sec><sec id="jia225043-sec-0013"><label>4</label><title>Discussion</title><p>This study explored how a cash transfer intervention given to young women in South Africa conditional on school attendance reduced the risk of intimate partner violence. We first showed treatment effects were significant for all types of physical violence, but that there was no coinciding effect on sexual violence. The CCT also had significant impact on sexual partnerships including sexual debut by visit, any partner in the last 12&#x000a0;months, and number of partners in the last 12&#x000a0;months. We then used the G&#x02010;formula for mediation analysis to estimate CDEs for each of these sexual partnership mediators. Our findings indicate that while the intervention had a strong direct effect on physical IPV, it also had a significant interactive effect with sexual partnership behaviours, leading to even lower risks of IPV. While CDE estimates are hypothetical effects, they provide insight into how mediators work and they have the potential to inform policy about how complementary interventions might work using observed effects <xref rid="jia225043-bib-0035" ref-type="ref">35</xref>.</p><p>This evidence adds to the growing body of literature showing that CCTs can reduce the risk of IPV <xref rid="jia225043-bib-0018" ref-type="ref">18</xref>, <xref rid="jia225043-bib-0019" ref-type="ref">19</xref>, <xref rid="jia225043-bib-0020" ref-type="ref">20</xref>, <xref rid="jia225043-bib-0021" ref-type="ref">21</xref>. However, whereas the current evidence focuses on older women who are married or cohabiting with their intimate partner, our study provides new evidence on the effect for adolescent girls and young women still living at home and attending school. Developmentally, this may be important for adolescents&#x02019; successful transition into adulthood since for most of these young women this is their first relationship, thus setting patterns for experiencing IPV in future relationships. In addition, our results are important because there was concern that the cash could lead to more conflict within relationships and increase risk of IPV <xref rid="jia225043-bib-0018" ref-type="ref">18</xref>, <xref rid="jia225043-bib-0021" ref-type="ref">21</xref>. Instead, we provide evidence for the supporting role that economic interventions can have on young women's risk of IPV and potential effect on HIV transmission given the critical intersections of the two.</p><p>Despite our finding that the CCT reduced risky sexual behaviours and the link between IPV and HIV in South Africa <xref rid="jia225043-bib-0005" ref-type="ref">5</xref>, the CCT intervention did not lead to a parallel reduction in new HIV infections <xref rid="jia225043-bib-0017" ref-type="ref">17</xref>. A likely reason is that the intervention did not lead to differential rates of school attendance between treatment and control groups&#x02014;it was very high for both groups&#x02014;and that schooling itself has a protective effect on HIV. Indeed, the study found school attendance itself had a significant effect on HIV incidence <xref rid="jia225043-bib-0017" ref-type="ref">17</xref>. It is also possible that the reductions in sexual debut and partner number were not enough to affect HIV incidence (or to enable discernible differences in incidence) given fairly low rates in both arms during the trial. This is also true for forced sex&#x02014;sexual violence was much less prevalent compared to physical violence at baseline, which could help explain the null findings.</p><p>Besides the inability to link impacts on IPV to HIV incidence, our analysis of mediation pathways could be improved with better measures. For one, the SRPS is only available for women who reported ever having sex. Unlike evidence from other studies linking reductions in IPV to relationship power dynamic changes <xref rid="jia225043-bib-0020" ref-type="ref">20</xref>, the CCT does not have an impact on sexual relationship power within current relationships. This may again speak to the point that young women are choosing to not engage in any sexual relationships (which itself could be the ultimate form of sexual relationship power). However, since most young women were still in school and living at home as opposed to cohabiting with partners, potential impacts in an older, married or largely cohabiting population may be different. In addition, despite the fact there was no treatment effect on household expenditures, economic wellbeing likely plays a role since the direct effect on IPV is so robust. Qualitative evidence indicates that the cash had positive effects on young women's feelings of independence and financial empowerment <xref rid="jia225043-bib-0036" ref-type="ref">36</xref>. Therefore, a more universal measure of empowerment could improve our understanding of how the intervention affects young women&#x02019; attitudes and decision&#x02010;making.</p><p>Despite these limitations, there are noteworthy strengths of the study including the randomized study design and longitudinal data that not only allows for causal estimation of treatment effects but provides stronger causal assumptions for estimation of mediation effects. In addition, we believe our findings have broader generalizability across poor, rural settings in South Africa given the high coverage of other social protection programmes.</p></sec><sec id="jia225043-sec-0014"><label>5</label><title>Conclusions</title><p>This study is the first to investigate the causal pathways through which a cash transfer programme reduced IPV among young women. In contrast to other studies with older women, we do not find that the cash works through changing power dynamics within existing partnerships but rather the effect was boosted through young women choosing not to engage in sexual partnerships. Furthermore, there is a remaining direct effect of the CCT on physical IPV. In terms of the global development agenda, these results show improved SDG outcomes for gender equality, specifically the reduction in physical violence against women (SDG 5.2.1). But, since there was no effect on HIV incidence (SDG 3.3.1) or sexual violence (also SDG 5.2.1), is not clear that CCTs alone are an effective strategy for HIV prevention for young women in South Africa.</p><p>Nonetheless, given the critical intersections of HIV and IPV in high&#x02010;poverty contexts<italic>,</italic> this study adds to the growing evidence on the role of social protection in reducing poor young women's risk of HIV <xref rid="jia225043-bib-0012" ref-type="ref">12</xref>, <xref rid="jia225043-bib-0013" ref-type="ref">13</xref>, <xref rid="jia225043-bib-0037" ref-type="ref">37</xref>. In the context of South Africa, social protection already reaches many vulnerable groups, including poor adolescents under 18 covered under the Child Support Grant (CSG). Recent evidence has shown that the CSG is similarly protective of HIV risk behaviours in adolescents 18 and under <xref rid="jia225043-bib-0037" ref-type="ref">37</xref>, <xref rid="jia225043-bib-0038" ref-type="ref">38</xref>. In view of our findings, continued cash payments for young women older than 18 could extend this protective effect, especially considering youth between 18 and 24 in South Africa are regularly still in school or unemployed and this is the age when HIV incidence starts to take off <xref rid="jia225043-bib-0023" ref-type="ref">23</xref>. Extending or expanding existing programmes is clearly not an insignificant policy decision, but greater inclusion of vulnerable young people into social protection schemes could have important implications for HIV prevention and the health of the next generation.</p><p>Although our findings come from an experimental intervention, cash transfers play a major role in many SSA governments&#x02019; social protection schemes <xref rid="jia225043-bib-0039" ref-type="ref">39</xref>. Consequently, these findings illustrate the potential for current social protection programmes in the SSA region to achieve important progress in SDGs, which builds on other recent findings demonstrating how social protection in South Africa is benefiting adolescent across many SDGs <xref rid="jia225043-bib-0040" ref-type="ref">40</xref>. In particular, our results highlight the benefits of combining age and gender&#x02010;sensitive targeting with structural interventions to achieve the SDG agenda as it relates to adolescent HIV prevention. In this regard, policy&#x02010;makers across social development and public health ministries would do well to work together to integrate targeted public health interventions for young women into social protection programmes in order to harness the synergistic power of the two and improve SDGs related to poverty, health and gender equality.</p></sec><sec id="jia225043-sec-0015"><title>Competing interests</title><p>The authors have no competing interests to declare.</p></sec><sec id="jia225043-sec-0016"><title>Authors&#x02019; contributions</title><p>KNK and JKE contributed to data analysis, data interpretation and writing of this manuscript. AP and AS contributed to study design, development of data collection instruments and the protocol, study oversight and implementation, data interpretation, data analysis and writing of this manuscript.CM and KK contributed to study design, development of data collection instruments and the protocol, study oversight and implementation, and editing of this manuscript. RT contributed to the protocol development, study implementation and oversight, and editing of the manuscript. JPH contributed to study design, development of the protocol, data interpretation and editing of this manuscript. JW contributed to data analysis, data interpretation and editing of the manuscript. RW contributed to study implementation and oversight, and editing of the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jia225043-sup-0001"><caption><p>
+<bold>Appendix S1</bold> Models used to estimate controlled direct effects.</p></caption><media xlink:href="JIA2-21-e25043-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jia225043-sec-0017"><title>Acknowledgements</title><p>The authors acknowledge and thank all of the young women and their families who participated in HIV Prevention Trials Network (HPTN) 068 and made the study possible.</p></ack><ack id="jia225043-sec-0018"><title>Funding</title><p>The HPTN was provided by the National Institute of Allergy and Infectious Diseases (NIAID), the National Institute of Mental Health (NIMH), and the National Institute on Drug Abuse (NIDA) of the National Institutes of Health (NIH; award numbers UM1AI068619 [HPTN Leadership and Operations Center], UM1AI068617 [HPTN Statistical and Data Management Center], and UM1AI068613 [HPTN Laboratory Center]. The study was also funded under R01MH110186, R01MH087118, and R24 HD050924 to the Carolina Population Center. Research reported in this publication was also supported by the NIAID of the NIH [Award Number T32AI007001]. Additional funding was provided by the Division of Intramural Research, NIAID, and NIH. The Agincourt Health and Socio&#x02010;Demographic Surveillance System is supported by the School of Public Health University of the Witwatersrand and Medical Research Council, South Africa, and the UK Wellcome Trust (grants 058893/Z/99/A; 069683/Z/02/Z; 085477/Z/08/Z; and 085477/B/08/Z). The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.</p></ack><ref-list content-type="cited-references" id="jia225043-bibl-0001"><title>References</title><ref id="jia225043-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jia225043-cit-0001">
+<string-name>
+<surname>Ellsberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Heise</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Watts</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Moreno</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Intimate partner violence and women's physical and mental health in the WHO multi&#x02010;country study on women's health and domestic violence: an observational study</article-title>. <source xml:lang="en">Lancet</source>. <year>2008</year>;<volume>371</volume>(<issue>9619</issue>):<fpage>1165</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">18395577</pub-id></mixed-citation></ref><ref id="jia225043-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="jia225043-cit-0002">
+<collab collab-type="authors">World Health Organization</collab>
+. <article-title>Global and regional estimates of violence against women: prevalence and health effects of intimate partner violence and non&#x02010;partner sexual violence</article-title>. World Health Organization; <year>2013</year> Retrived from: <ext-link ext-link-type="uri" xlink:href="http://apps.who.int/iris/bitstream/10665/85239/1/9789241564625_eng.pdf?ua=1">http://apps.who.int/iris/bitstream/10665/85239/1/9789241564625_eng.pdf?ua=1</ext-link>
+</mixed-citation></ref><ref id="jia225043-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jia225043-cit-0003">
+<string-name>
+<surname>Gass</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Seedat</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Intimate partner violence, health behaviours, and chronic physical illness among South African women</article-title>. <source xml:lang="en">S Afr Med J</source>. <year>2010</year>;<volume>100</volume>(<issue>9</issue>):<fpage>582</fpage>&#x02013;<lpage>585</lpage>.<pub-id pub-id-type="pmid">20822646</pub-id></mixed-citation></ref><ref id="jia225043-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jia225043-cit-0004">
+<string-name>
+<surname>Dunkle</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Jewkes</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Yoshihama</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>McIntyre</surname>
+<given-names>JA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Prevalence and patterns of gender&#x02010;based violence and revictimization among women attending antenatal clinics in Soweto, South Africa</article-title>. <source xml:lang="en">Am J Epidemiol</source>. <year>2004</year>;<volume>160</volume>(<issue>3</issue>):<fpage>230</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">15257996</pub-id></mixed-citation></ref><ref id="jia225043-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jia225043-cit-0005">
+<string-name>
+<surname>Jewkes</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Dunkle</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Nduna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shai</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Intimate partner violence, relationship power inequity, and incidence of HIV infection in young women in South Africa: a cohort study</article-title>. <source xml:lang="en">Lancet</source>. <year>2010</year>;<volume>376</volume>(<issue>9734</issue>):<fpage>41</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">20557928</pub-id></mixed-citation></ref><ref id="jia225043-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jia225043-cit-0006">
+<string-name>
+<surname>Kouyoumdjian</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name>
+<surname>Findlay</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Schwandt</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Calzavara</surname>
+<given-names>LM</given-names>
+</string-name>. <article-title>A systematic review of the relationships between intimate partner violence and HIV/AIDS</article-title>. <source xml:lang="en">PLoS One</source>. <year>2013</year>;<volume>8</volume>(<issue>11</issue>):<fpage>e81044</fpage>.<pub-id pub-id-type="pmid">24282566</pub-id></mixed-citation></ref><ref id="jia225043-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jia225043-cit-0007">
+<string-name>
+<surname>Pettifor</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Measham</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Rees</surname>
+<given-names>HV</given-names>
+</string-name>, <string-name>
+<surname>Padian</surname>
+<given-names>NS</given-names>
+</string-name>. <article-title>Sexual power and HIV risk, South Africa</article-title>. <source xml:lang="en">Emerg Infect Dis</source>. <year>2004</year>;<volume>10</volume>(<issue>11</issue>):<fpage>1996</fpage>&#x02013;<lpage>2004</lpage>.<pub-id pub-id-type="pmid">15550214</pub-id></mixed-citation></ref><ref id="jia225043-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jia225043-cit-0008">
+<string-name>
+<surname>Krishnan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dunbar</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Minnis</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Medlin</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Gerdts</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Padian</surname>
+<given-names>NS</given-names>
+</string-name>. <article-title>Poverty, gender inequities, and women's risk of human immunodeficiency virus/AIDS</article-title>. <source xml:lang="en">Ann N Y Acad Sci</source>. <year>2008</year>;<volume>1136</volume>(<issue>1</issue>):<fpage>101</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">17954681</pub-id></mixed-citation></ref><ref id="jia225043-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jia225043-cit-0009">
+<string-name>
+<surname>Cluver</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Orkin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Boyes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Meinck</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Transactional sex amongst AIDS&#x02010;orphaned and AIDS&#x02010;affected adolescents predicted by abuse and extreme poverty</article-title>. <source xml:lang="en">J Acquir Immune Defic Syndr</source>. <year>2011</year>;<volume>58</volume>(<issue>3</issue>):<fpage>336</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">21857361</pub-id></mixed-citation></ref><ref id="jia225043-bib-0010"><label>10</label><mixed-citation publication-type="book" id="jia225043-cit-0010">
+<string-name>
+<surname>Adato</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Roopnaraine</surname>
+<given-names>T</given-names>
+</string-name>. <chapter-title>Women's status, gender relations, and conditional cash transfers</chapter-title> In: <string-name>
+<surname>Adato</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hoddinott</surname>
+<given-names>J</given-names>
+</string-name>, editors. <source xml:lang="en">Conditional cash transfers in Latin America</source>, vol. <volume>10</volume>
+<publisher-loc>Baltimore</publisher-loc>: <publisher-name>The Johns Hopkins University Press</publisher-name>; <year>2010</year> pp. <fpage>284</fpage>&#x02013;<lpage>314</lpage>.</mixed-citation></ref><ref id="jia225043-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jia225043-cit-0011">
+<string-name>
+<surname>Pettifor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>MacPhail</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Rosenberg</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Can money prevent the spread of HIV? A review of cash payments for HIV prevention</article-title>. <source xml:lang="en">AIDS Behav</source>. <year>2012</year>;<volume>16</volume>(<issue>7</issue>):<fpage>1729</fpage>&#x02013;<lpage>38</lpage>.<pub-id pub-id-type="pmid">22760738</pub-id></mixed-citation></ref><ref id="jia225043-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jia225043-cit-0012">
+<string-name>
+<surname>Handa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Halpern</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Pettifor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Thirumurthy</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>The government of Kenya's cash transfer program reduces the risk of sexual debut among young people age 15&#x02013;25</article-title>. <source xml:lang="en">PLoS One</source>. <year>2014</year>;<volume>9</volume>(<issue>1</issue>):<fpage>e85473</fpage>.<pub-id pub-id-type="pmid">24454875</pub-id></mixed-citation></ref><ref id="jia225043-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jia225043-cit-0013">
+<string-name>
+<surname>Baird</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>&#x000d6;zler</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Woolcock</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Conditional, unconditional and everything in between: a systematic review of the effects of cash transfer programmes on schooling outcomes</article-title>. <source xml:lang="en">J Dev Effect</source>. <year>2014</year>;<volume>6</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>43</lpage>.</mixed-citation></ref><ref id="jia225043-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jia225043-cit-0014">
+<string-name>
+<surname>Baird</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Garfein</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>McIntosh</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>&#x000d6;zler</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Effect of a cash transfer programme for schooling on prevalence of HIV and herpes simplex type 2 in Malawi: a cluster randomised trial</article-title>. <source xml:lang="en">Lancet</source>. <year>2012</year>;<volume>379</volume>(<issue>9823</issue>):<fpage>1320</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">22341825</pub-id></mixed-citation></ref><ref id="jia225043-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jia225043-cit-0015">
+<string-name>
+<surname>Hallfors</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Rusakaniko</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Iritani</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Mapfumo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Halpern</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Supporting adolescent orphan girls to stay in school as HIV risk prevention: evidence from a randomized controlled trial in Zimbabwe</article-title>. <source xml:lang="en">Am J Public Health</source>. <year>2011</year>;<volume>101</volume>(<issue>6</issue>):<fpage>1082</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">21493943</pub-id></mixed-citation></ref><ref id="jia225043-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jia225043-cit-0016">
+<string-name>
+<surname>Cho</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hallfors</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Mbai</surname>
+<given-names>II</given-names>
+</string-name>, <string-name>
+<surname>Itindi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Milimo</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Halpern</surname>
+<given-names>CT</given-names>
+</string-name>, et&#x000a0;al. <article-title>Keeping adolescent orphans in school to prevent human immunodeficiency virus infection: evidence from a randomized controlled trial in Kenya</article-title>. <source xml:lang="en">J Adolesc Health</source>. <year>2011</year>;<volume>48</volume>(<issue>5</issue>):<fpage>523</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">21501814</pub-id></mixed-citation></ref><ref id="jia225043-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jia225043-cit-0017">
+<string-name>
+<surname>Pettifor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>MacPhail</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hughes</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Selin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f3;mez&#x02010;Oliv&#x000e9;</surname>
+<given-names>FX</given-names>
+</string-name>, et&#x000a0;al. <article-title>The effect of a conditional cash transfer on HIV incidence in young women in rural South Africa (HPTN 068): a phase 3, randomised controlled trial</article-title>. <source xml:lang="en">Lancet Glob Health</source>. <year>2016</year>;<volume>4</volume>(<issue>12</issue>):<fpage>e978</fpage>&#x02013;<lpage>88</lpage>.<pub-id pub-id-type="pmid">27815148</pub-id></mixed-citation></ref><ref id="jia225043-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jia225043-cit-0018">
+<string-name>
+<surname>Bobonis</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez&#x02010;Brenes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Castro</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Public transfers and domestic violence: the roles of private information and spousal control</article-title>. <source xml:lang="en">Am Econ J Econ Policy</source>. <year>2013</year>;<volume>1</volume>:<fpage>179</fpage>&#x02013;<lpage>205</lpage>.</mixed-citation></ref><ref id="jia225043-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jia225043-cit-0019">
+<string-name>
+<surname>Hidrobo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fernald</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Cash transfers and domestic violence</article-title>. <source xml:lang="en">J Health Econ</source>. <year>2013</year>;<volume>32</volume>(<issue>1</issue>):<fpage>304</fpage>&#x02013;<lpage>19</lpage>.<pub-id pub-id-type="pmid">23237793</pub-id></mixed-citation></ref><ref id="jia225043-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jia225043-cit-0020">
+<string-name>
+<surname>Hidrobo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Peterman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Heise</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>The effect of cash, vouchers, and food transfers on intimate partner violence: evidence from a randomized experiment in northern Ecuador</article-title>. <source xml:lang="en">Am Econ J Appl Econ</source>. <year>2016</year>;<volume>8</volume>(<issue>3</issue>):<fpage>284</fpage>&#x02013;<lpage>303</lpage>.</mixed-citation></ref><ref id="jia225043-bib-0021"><label>21</label><mixed-citation publication-type="miscellaneous" id="jia225043-cit-0021">
+<string-name>
+<surname>Bueller</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Peterman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ranganathan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bleile</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hidrobo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Heise</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Mixed methods review of cash transfers and intimate partner violence in low and middle&#x02010;income countries</article-title>. UNICEF Innocenti Working Paper Series. Forthcoming <year>2017</year>.</mixed-citation></ref><ref id="jia225043-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jia225043-cit-0022">
+<string-name>
+<surname>Kahn</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Collinson</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f3;mez&#x02010;Oliv&#x000e9;</surname>
+<given-names>FX</given-names>
+</string-name>, <string-name>
+<surname>Mokoena</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Twine</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mee</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>Profile: agincourt health and socio&#x02010;demographic surveillance system</article-title>. <source xml:lang="en">Int J Epidemiol</source>. <year>2012</year>;<volume>41</volume>(<issue>4</issue>):<fpage>988</fpage>&#x02013;<lpage>1001</lpage>.<pub-id pub-id-type="pmid">22933647</pub-id></mixed-citation></ref><ref id="jia225043-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jia225043-cit-0023">
+<string-name>
+<surname>G&#x000f3;mez&#x02010;Oliv&#x000e9;</surname>
+<given-names>FX</given-names>
+</string-name>, <string-name>
+<surname>Angotti</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Houle</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Klipstein&#x02010;Grobusch</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kabudula</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Menken</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Prevalence of HIV among those 15 and older in rural South Africa</article-title>. <source xml:lang="en">AIDS Care</source>. <year>2013</year>;<volume>25</volume>(<issue>9</issue>):<fpage>1122</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">23311396</pub-id></mixed-citation></ref><ref id="jia225043-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jia225043-cit-0024">
+<string-name>
+<surname>Zuma</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shisana</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Rehle</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Simbayi</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Jooste</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zungu</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>New insights into HIV epidemic in South Africa: key findings from the National HIV Prevalence, Incidence and Behaviour Survey, 2012</article-title>. <source xml:lang="en">Af J AIDS Res</source>. <year>2016</year>;<volume>15</volume>(<issue>1</issue>):<fpage>67</fpage>&#x02013;<lpage>75</lpage>.</mixed-citation></ref><ref id="jia225043-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jia225043-cit-0025">
+<string-name>
+<surname>Pettifor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>MacPhail</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Selin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f3;mez&#x02010;Oliv&#x000e9;</surname>
+<given-names>FX</given-names>
+</string-name>, <string-name>
+<surname>Rosenberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>
+<given-names>RG</given-names>
+</string-name>, et&#x000a0;al. <article-title>HPTN 068: a randomized control trial of a conditional cash transfer to reduce HIV infection in young women in South Africa &#x02013;Study design and baseline results</article-title>. <source xml:lang="en">AIDS Behav</source>. <year>2016</year>;<volume>20</volume>(<issue>9</issue>):<fpage>1863</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">26891839</pub-id></mixed-citation></ref><ref id="jia225043-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jia225043-cit-0026">
+<string-name>
+<surname>Peterman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Neijhoft</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Palermo</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Understanding the linkages between social safety nets and childhood violence: a review of the evidence from low&#x02010; and middle&#x02010;income countries</article-title>. <source xml:lang="en">Health Policy Plan</source>. <year>2017</year>;<volume>32</volume>(<issue>7</issue>):<fpage>1049</fpage>&#x02013;<lpage>1071</lpage>.<pub-id pub-id-type="pmid">28444197</pub-id></mixed-citation></ref><ref id="jia225043-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jia225043-cit-0027">
+<string-name>
+<surname>Adato</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Devereux</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sabates&#x02010;Wheeler</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Accessing the &#x02018;right&#x02019; kinds of material and symbolic capital: The role of cash transfers in reducing adolescent school absence and risky behaviour in South Africa</article-title>. <source xml:lang="en">J Dev Studies</source>. <year>2016</year>;<volume>52</volume>(<issue>8</issue>):<fpage>1132</fpage>&#x02013;<lpage>46</lpage>.</mixed-citation></ref><ref id="jia225043-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jia225043-cit-0028">
+<string-name>
+<surname>Pulerwitz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gortmaker</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>DeJong</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Measuring sexual relationship power in HIV/STD research</article-title>. <source xml:lang="en">Sex Roles</source>. <year>2000</year>;<volume>42</volume>(<issue>7</issue>):<fpage>637</fpage>&#x02013;<lpage>60</lpage>.</mixed-citation></ref><ref id="jia225043-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jia225043-cit-0029">
+<string-name>
+<surname>Dunkle</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Jewkes</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>McIntryre</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Harlow</surname>
+<given-names>SD</given-names>
+</string-name>. <article-title>Gender&#x02010;based violence, relationship power and risk of prevalent HIV infection among women attending antenatal clinics in Soweto, South Africa</article-title>. <source xml:lang="en">Lancet</source>. <year>2004</year>;<volume>363</volume>:<fpage>1415</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">15121402</pub-id></mixed-citation></ref><ref id="jia225043-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jia225043-cit-0030">
+<string-name>
+<surname>Valeri</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>VanderWeele</surname>
+<given-names>TJ</given-names>
+</string-name>. <article-title>Mediation analysis allowing for exposure &#x02010;mediator interactions and causal interpretation: theoretical assumptions and implementation with SAS and SPSS macros</article-title>. <source xml:lang="en">Psychol Methods</source>. <year>2013</year>;<volume>18</volume>(<issue>2</issue>):<fpage>137</fpage>.<pub-id pub-id-type="pmid">23379553</pub-id></mixed-citation></ref><ref id="jia225043-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jia225043-cit-0031">
+<string-name>
+<surname>Imai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Keele</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tingley</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>A general approach to causal mediation analysis</article-title>. <source xml:lang="en">Psychol Methods</source>. <year>2010</year>;<volume>15</volume>(<issue>4</issue>):<fpage>309</fpage>.<pub-id pub-id-type="pmid">20954780</pub-id></mixed-citation></ref><ref id="jia225043-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jia225043-cit-0032">
+<string-name>
+<surname>Vansteelandt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Daniel</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>Interventional effects for mediation analysis with multiple mediators</article-title>. <source xml:lang="en">Epidemiology</source>. <year>2017</year>; Jan 6.</mixed-citation></ref><ref id="jia225043-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jia225043-cit-0033">
+<string-name>
+<surname>Taubman</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Robins</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Mittleman</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;n</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Intervening on risk factors for coronary heart disease: an application of the parametric g&#x02010;formula</article-title>. <source xml:lang="en">Int J Epidemiol</source>. <year>2009</year>;<volume>38</volume>(<issue>6</issue>):<fpage>1599</fpage>&#x02013;<lpage>611</lpage>.<pub-id pub-id-type="pmid">19389875</pub-id></mixed-citation></ref><ref id="jia225043-bib-0034"><label>34</label><mixed-citation publication-type="book" id="jia225043-cit-0034">
+<string-name>
+<surname>Efron</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tibshirani</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>An introduction to the bootstrap New York</article-title>. <publisher-loc>NY</publisher-loc>: <publisher-name>Chapman and Hall/CRC</publisher-name>; <year>1994</year>.</mixed-citation></ref><ref id="jia225043-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jia225043-cit-0035">
+<string-name>
+<surname>Naimi</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Kaufman</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>MacLehose</surname>
+<given-names>RF</given-names>
+</string-name>. <article-title>Mediation misgivings: ambiguous clinical and public health interpretations of natural direct and indirect effects</article-title>. <source xml:lang="en">Int J Epidemiol</source>. <year>2014</year>;<volume>43</volume>(<issue>5</issue>):<fpage>1656</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">24860122</pub-id></mixed-citation></ref><ref id="jia225043-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jia225043-cit-0036">
+<string-name>
+<surname>MacPhail</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Khoza</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Selin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Julien</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Twine</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>
+<given-names>RG</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cash transfers for HIV prevention: what do young women spend it on? Mixed methods findings from HPTN 068</article-title>. <source xml:lang="en">BMC Public Health</source>. <year>2017</year>;<volume>18</volume>(<issue>1</issue>):<fpage>10</fpage>.<pub-id pub-id-type="pmid">28697762</pub-id></mixed-citation></ref><ref id="jia225043-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jia225043-cit-0037">
+<string-name>
+<surname>Cluver</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name>
+<surname>Orkin</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Yakubovich</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Sherr</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Combination social protection for reducing HIV&#x02010;risk behavior amongst adolescents in South Africa</article-title>. <source xml:lang="en">J Acquir Immune Defic Syndr</source>. <year>2016</year>;<volume>72</volume>(<issue>1</issue>):<fpage>96</fpage>.<pub-id pub-id-type="pmid">26825176</pub-id></mixed-citation></ref><ref id="jia225043-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jia225043-cit-0038">
+<string-name>
+<surname>Heinrich</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Hoddinott</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Samson</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Reducing adolescent risky behaviors in a high&#x02010;risk context: the effects of unconditional cash transfers in South Africa</article-title>. <source xml:lang="en">Econ Dev Cult Change</source>. <year>2017</year>;<volume>65</volume>(<issue>4</issue>):<fpage>619</fpage>&#x02013;<lpage>52</lpage>.</mixed-citation></ref><ref id="jia225043-bib-0039"><label>39</label><mixed-citation publication-type="book" id="jia225043-cit-0039">
+<string-name>
+<surname>Bastagli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hagen&#x02010;Zanker</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Harman</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Barca</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Sturge</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cash transfers: what does the evidence say. A rigorous review of programme impact and the role of design and implementation features</article-title>. <publisher-loc>London</publisher-loc>: <publisher-name>ODI</publisher-name>
+<year>2016</year>.</mixed-citation></ref><ref id="jia225043-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jia225043-cit-0040">
+<string-name>
+<surname>Cluver</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name>
+<surname>Orkin</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Meinck</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Boyes</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Yakubovich</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Sherr</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Can social protection improve sustainable development goals for adolescent health?</article-title>. <source xml:lang="en">PLoS ONE</source>
+<year>2016</year>;<volume>11</volume>(<issue>10</issue>):<fpage>e0164808</fpage>.<pub-id pub-id-type="pmid">27749932</pub-id></mixed-citation></ref></ref-list></back></article>

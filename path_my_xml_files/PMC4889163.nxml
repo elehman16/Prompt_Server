@@ -1,0 +1,947 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27207959</article-id><article-id pub-id-type="pmc">4889163</article-id><article-id pub-id-type="doi">10.1161/JAHA.115.002586</article-id><article-id pub-id-type="publisher-id">JAH31480</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Coronary Heart Disease</subject></subj-group></subj-group></article-categories><title-group><article-title>Multimarker Risk Stratification in Patients With Acute Myocardial Infarction</article-title><alt-title alt-title-type="left-running-head">O'Donoghue et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah31480-cr-0001" contrib-type="author" corresp="yes"><name><surname>O'Donoghue</surname><given-names>Michelle L.</given-names></name><degrees>MD, MPH</degrees><xref ref-type="aff" rid="jah31480-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah31480-cr-0002" contrib-type="author"><name><surname>Morrow</surname><given-names>David A.</given-names></name><degrees>MD, MPH</degrees><xref ref-type="aff" rid="jah31480-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah31480-cr-0003" contrib-type="author"><name><surname>Cannon</surname><given-names>Christopher P.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31480-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah31480-cr-0004" contrib-type="author"><name><surname>Jarolim</surname><given-names>Petr</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah31480-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah31480-cr-0005" contrib-type="author"><name><surname>Desai</surname><given-names>Nihar R.</given-names></name><degrees>MD, MPH</degrees><xref ref-type="aff" rid="jah31480-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jah31480-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah31480-cr-0006" contrib-type="author"><name><surname>Sherwood</surname><given-names>Matthew W.</given-names></name><degrees>MD, MHS</degrees><xref ref-type="aff" rid="jah31480-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jah31480-cr-0007" contrib-type="author"><name><surname>Murphy</surname><given-names>Sabina A.</given-names></name><degrees>MPH</degrees><xref ref-type="aff" rid="jah31480-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah31480-cr-0008" contrib-type="author"><name><surname>Gerszten</surname><given-names>Robert E.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31480-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="jah31480-cr-0009" contrib-type="author"><name><surname>Sabatine</surname><given-names>Marc S.</given-names></name><degrees>MD, MPH</degrees><xref ref-type="aff" rid="jah31480-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jah31480-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">TIMI Study Group</named-content><named-content content-type="organisation-division">Cardiovascular Division</named-content><institution>Brigham and Women's Hospital</institution><named-content content-type="city">Boston</named-content><named-content content-type="country-part">MA</named-content></aff><aff id="jah31480-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Cardiovascular Division</named-content><institution>Brigham and Women's Hospital</institution><named-content content-type="city">Boston</named-content><named-content content-type="country-part">MA</named-content></aff><aff id="jah31480-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Center for Outcomes Research and Evaluation</named-content><institution>Yale&#x02013;New Haven Hospital</institution><named-content content-type="city">New Haven</named-content><named-content content-type="country-part">CT</named-content></aff><aff id="jah31480-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Section&#x000a0;of Cardiovascular Medicine</named-content><named-content content-type="organisation-division">Department of Internal Medicine</named-content><institution>Yale University School of Medicine</institution><named-content content-type="city">New Haven</named-content><named-content content-type="country-part">CT</named-content></aff><aff id="jah31480-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Division of Cardiovascular Medicine</named-content><named-content content-type="organisation-division">Duke University Medical Center</named-content><institution>Duke Clinical Research Institute</institution><named-content content-type="city">Durham</named-content><named-content content-type="country-part">NC</named-content></aff><aff id="jah31480-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Cardiolovascular Division</named-content><institution>Beth Israel Deaconess Medical Center</institution><named-content content-type="city">Boston</named-content><named-content content-type="country-part">MA</named-content></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Michelle L. O'Donoghue, MD, MPH, TIMI Study Group, 350 Longwood Ave, 1st Floor, Boston, MA 02115. E&#x02010;mail: <email>modonoghue@partners.org</email></corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>5</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2016</year></pub-date><volume>5</volume><issue>5</issue><issue-id pub-id-type="doi">10.1002/jah3.2016.5.issue-5</issue-id><elocation-id>e002586</elocation-id><history><date date-type="received"><day>08</day><month>10</month><year>2015</year></date><date date-type="accepted"><day>29</day><month>3</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-5-e002586.pdf"/><abstract id="jah31480-abs-0001"><sec id="jah31480-sec-0001"><title>Background</title><p>Several biomarkers have individually been shown to be useful for risk stratification in patients with acute myocardial infarction (<styled-content style="fixed-case">MI</styled-content>). The optimal multimarker strategy remains undefined.</p></sec><sec id="jah31480-sec-0002"><title>Methods and Results</title><p>Biomarkers representing different pathobiological axes were studied, including myocardial stress/structural changes (<styled-content style="fixed-case">NT</styled-content>&#x02010;pro B&#x02010;type natriuretic peptide [<styled-content style="fixed-case">NT</styled-content>&#x02010;pro<styled-content style="fixed-case">BNP</styled-content>], midregional proatrial natriuretic peptide [<styled-content style="fixed-case">MR</styled-content>&#x02010;pro<styled-content style="fixed-case">ANP</styled-content>], suppression of tumorigenicity 2 [<styled-content style="fixed-case">ST</styled-content>2], galectin&#x02010;3, midregional proadrenomedullin [<styled-content style="fixed-case">MR</styled-content>&#x02010;pro<styled-content style="fixed-case">ADM</styled-content>], and copeptin), myonecrosis (troponin T), and inflammation (myeloperoxidase [<styled-content style="fixed-case">MPO</styled-content>], high sensitivity C&#x02010;reactive protein [hs<styled-content style="fixed-case">CRP</styled-content>], pregnancy&#x02010;associated plasma protein A [<styled-content style="fixed-case">PAPP</styled-content>&#x02010;A], and growth&#x02010;differentiation factor&#x02010;15 [<styled-content style="fixed-case">GDF</styled-content>&#x02010;15]), in up to 1258 patients from Clopidogrel as Adjunctive Reperfusion Therapy&#x02010;Thrombolysis in Myocardial Infarction 28 (<styled-content style="fixed-case">CLARITY</styled-content>&#x02010;<styled-content style="fixed-case">TIMI</styled-content> 28), a randomized trial of clopidogrel in <styled-content style="fixed-case">ST</styled-content>&#x02010;elevation <styled-content style="fixed-case">MI</styled-content> (<styled-content style="fixed-case">STEMI</styled-content>). Patients were followed for 30&#x000a0;days. Biomarker analyses were adjusted for traditional clinical variables. Forward step&#x02010;wise selection was used to assess a multimarker strategy. After adjustment for clinical variables and using a dichotomous cutpoint, 7 biomarkers were each significantly associated with a higher odds of cardiovascular death or heart failure (<styled-content style="fixed-case">HF</styled-content>) through 30&#x000a0;days, including <styled-content style="fixed-case">NT</styled-content>&#x02010;pro<styled-content style="fixed-case">BNP</styled-content> (adjusted odds ratio [<styled-content style="fixed-case">OR</styled-content>
+<sub>adj</sub>], 2.54; 95% <styled-content style="fixed-case">CI</styled-content>, 1.47&#x02013;4.37), <styled-content style="fixed-case">MR</styled-content>&#x02010;pro<styled-content style="fixed-case">ANP</styled-content> (2.18; 1.27&#x02013;3.76), <styled-content style="fixed-case">ST</styled-content>2 (2.88; 1.72&#x02013;4.81), troponin T (4.13; 1.85&#x02013;9.20), <styled-content style="fixed-case">MPO</styled-content> (2.75; 1.20&#x02013;6.27), hs<styled-content style="fixed-case">CRP</styled-content> (1.96, 1.17&#x02013;3.30), and <styled-content style="fixed-case">PAPP</styled-content>&#x02010;A (3.04; 1.17&#x02013;7.88). In a multimarker model, 3 biomarkers emerged as significant and complementary predictors of cardiovascular death or <styled-content style="fixed-case">HF</styled-content>:<styled-content style="fixed-case"> ST</styled-content>2 (<styled-content style="fixed-case">OR</styled-content>
+<sub>adj</sub>, 2.87; 1.61&#x02013;5.12), troponin T (2.34; 1.09&#x02013;5.01 and 4.13, 1.85&#x02013;9.20, respectively for intermediate and high levels), and <styled-content style="fixed-case">MPO</styled-content> (2.49; 1.04&#x02013;5.96). When added to the <styled-content style="fixed-case">TIMI STEMI</styled-content> Risk Score alone, the multimarker risk score significantly improved the C&#x02010;statistic (area under the curve, 0.75 [95% <styled-content style="fixed-case">CI</styled-content>, 0.69&#x02013;0.81] to 0.82 [0.78&#x02013;0.87]; <italic>P</italic>=0.001), net reclassification index (0.93; <italic>P</italic>&#x0003c;0.001), and integrated discrimination index (0.09; <italic>P</italic>&#x0003c;0.001).</p></sec><sec id="jah31480-sec-0003"><title>Conclusions</title><p>In patients with <styled-content style="fixed-case">STEMI</styled-content>, a multimarker strategy that combines biomarkers across pathobiological axes of myocardial stress, myocyte necrosis, and inflammation provides incremental prognostic information for prediction of cardiovascular death or <styled-content style="fixed-case">HF</styled-content>.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah31480-kwd-0001">biomarkers</kwd><kwd id="jah31480-kwd-0002">multimarker</kwd><kwd id="jah31480-kwd-0003">prognosis</kwd><kwd id="jah31480-kwd-0004"><styled-content style="fixed-case">ST</styled-content>&#x02010;elevation myocardial infarction</kwd><kwd id="jah31480-kwd-0005">Thrombolysis in Myocardial Infarction risk score</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Biomarkers</kwd></kwd-group><funding-group><award-group><funding-source>National Heart, Lung, and Blood Institute</funding-source><award-id>U01HL0831341</award-id><award-id>R01HL096738</award-id><award-id>HHSN268201000033C</award-id></award-group></funding-group><funding-group><award-group><funding-source>Sanofi&#x02010;Aventis</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Bristol&#x02010;Myers Squibb</funding-source></award-group></funding-group><counts><page-count count="28"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah31480</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.8.9 mode:remove_FC converted:27.05.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah31480-cit-1001">(<source>J Am Heart Assoc</source>. <year>2016</year>;<volume>5</volume>:e002586 doi: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.115.002586">10.1161/JAHA.115.002586</ext-link>)</mixed-citation>
+</p></notes><notes><fn-group id="jah31480-ntgp-0001"><fn id="jah31480-note-1002"><p>The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.</p></fn></fn-group></notes></front><body><sec id="jah31480-sec-0004"><title>Introduction</title><p>Subsequent to hospitalization for an acute myocardial infarction (MI), patients remain at increased risk of death and recurrent cardiovascular events. Several biomarkers have emerged as potential tools for patient risk stratification and provide incremental information beyond established risk predictors. To date, such markers have largely been evaluated on an individual basis, and therefore limited data are available that compare the prognostic utility of multiple candidate markers simultaneously in the setting of an acute coronary syndrome.<xref rid="jah31480-bib-0001" ref-type="ref">1</xref>, <xref rid="jah31480-bib-0002" ref-type="ref">2</xref>, <xref rid="jah31480-bib-0003" ref-type="ref">3</xref>, <xref rid="jah31480-bib-0004" ref-type="ref">4</xref>, <xref rid="jah31480-bib-0005" ref-type="ref">5</xref>, <xref rid="jah31480-bib-0006" ref-type="ref">6</xref>, <xref rid="jah31480-bib-0007" ref-type="ref">7</xref>
+</p><p>Given that many markers reflect different pathobiological axes of response post&#x02010;MI, a multimarker strategy might provide substantially more information for risk stratification than any individual marker on its own.<xref rid="jah31480-bib-0003" ref-type="ref">3</xref> In addition, identifying such high&#x02010;risk patients could aid in early triage decisions. In particular, past studies have demonstrated that there may be additive value for combining markers including those of myonecrosis, myocardial strain or stress, and vascular inflammation.<xref rid="jah31480-bib-0001" ref-type="ref">1</xref>, <xref rid="jah31480-bib-0002" ref-type="ref">2</xref>, <xref rid="jah31480-bib-0003" ref-type="ref">3</xref>, <xref rid="jah31480-bib-0004" ref-type="ref">4</xref>, <xref rid="jah31480-bib-0005" ref-type="ref">5</xref>, <xref rid="jah31480-bib-0006" ref-type="ref">6</xref>, <xref rid="jah31480-bib-0007" ref-type="ref">7</xref> However, the identification of more recent candidate markers that reflect alternate pathways of disease or are more sensitive markers of underlying biology offer the possibility that a novel multimarker risk score may be able to provide incremental information for risk stratification. We therefore evaluated the prognostic utility of several established and novel candidate biomarkers in a trial population of patients with an acute MI and evaluated the role of a multimarker strategy in risk stratification across several pathobiological axes of myocardial injury, including inflammation, myocardial stress, structural changes, and myonecrosis.</p></sec><sec id="jah31480-sec-0005"><title>Methods</title><sec id="jah31480-sec-0006"><title>Study Population and Design</title><p>The design and results of Clopidogrel as Adjunctive Reperfusion Therapy&#x02010;Thrombolysis in Myocardial Infarction 28 (CLARITY&#x02010;TIMI 28) have previously been reported.<xref rid="jah31480-bib-0008" ref-type="ref">8</xref>, <xref rid="jah31480-bib-0009" ref-type="ref">9</xref> In brief, CLARITY&#x02010;TIMI 28 was a double&#x02010;blind, randomized, multicenter clinical trial of clopidogrel versus placebo in addition to fibrinolytic therapy in 3491 patients with STEMI who presented within 12&#x000a0;hours of symptom onset. The choice of fibrinolytic and type of heparin were left at the discretion of the managing physician. Relevant exclusion criteria included age &#x0003c;18 or &#x0003e;75&#x000a0;years, use of clopidogrel in the 7&#x000a0;days preceding randomization, contraindications to fibrinolytic drugs, planned elective angiography within 48&#x000a0;hours, or evidence of cardiogenic shock.</p><p>As part of the trial protocol, patients were scheduled to undergo coronary angiography 2 to 8&#x000a0;days after initiation of therapy to assess for late patency of the infarct&#x02010;related artery. Angiography was permitted less than 48&#x000a0;hours only if clinically indicated. The decision for coronary revascularization was left to the discretion of the managing physician. Patients were followed for clinical outcomes, and adverse events through to 30&#x000a0;days after the time of randomization and vital status were obtained in 99.9% of all patients. The protocol was approved by the relevant institutional review boards, and written informed consent was obtained from all patients.</p></sec><sec id="jah31480-sec-0007"><title>Outcomes</title><p>The prespecified clinical endpoint of interest for this analysis was the composite of cardiovascular death or heart failure (HF) based on previous prognostic assessments for the markers in acute coronary syndrome (ACS) patients. Other endpoints that were assessed in CLARITY&#x02010;TIMI 28 were recurrent MI, recurrent ischemia requiring urgent revascularization, and TIMI flow grade 0 to 1 on protocol&#x02010;mandated angiography. Endpoints were defined according to previously reported criteria.<xref rid="jah31480-bib-0008" ref-type="ref">8</xref>, <xref rid="jah31480-bib-0009" ref-type="ref">9</xref> All ischemic events were adjudicated by a clinical events committee that was blinded to assigned treatment arm. Information on the development of new or worsening HF was collected from the case report forms.</p></sec><sec id="jah31480-sec-0008"><title>Blood Sampling and Analysis</title><p>A sample of blood was obtained at time of enrollment and was available for testing in up to 1258 subjects who elected to participate and were at sites that participated in this optional substudy, which represented 36% of the overall study population of CLARITY&#x02010;TIMI 28. Median time from symptom onset to randomization was 2.5&#x000a0;hours. There were no clinically meaningful differences in baseline characteristics of the biomarker group and the overall trial cohort.<xref rid="jah31480-bib-0010" ref-type="ref">10</xref> The serum and plasma components were frozen and shipped to the TIMI Biomarker Core Laboratory (Boston, MA), where samples were stored at &#x02212;70&#x000b0;C. A total of 11 established and emerging biomarkers were measured in the biomarker cohort as sample volume permitted by individuals who were blinded to patient outcomes. These included biomarkers of myocardial stress or structural changes (NT&#x02010;pro B&#x02010;type natriuretic peptide [NT&#x02010;proBNP; Roche Diagnostics, Indianapolis, IN], midregional pro&#x02010;atrial natriuretic peptide [MR&#x02010;proANP; B.R.A.H.M.S GmbH, Hennigsdorf, Germany], soluble suppression of tumorigenicity 2 [ST2; MBL International Corporation, Woburn, MA], galectin&#x02010;3 [BG Medicine, Inc., Waltham, MA], midregional pro&#x02010;adrenomedullin [MR&#x02010;proADM; B.R.A.H.M.S GmbH], and copeptin [B.R.A.H.M.S GmbH]), biomarkers of myonecrosis (troponin T [third&#x02010;generation assay; Roche Diagnostics]) and biomarkers of inflammation (myeloperoxidase [MPO; R&#x00026;D Systems, Minneapolis, MN], high sensitivity C&#x02010;reactive protein [hsCRP; Roche Diagnostics], pregnancy&#x02010;associated plasma protein A [PAPP&#x02010;A; Beckman Coulter, Danvers, MA], and growth differentiation factor&#x02010;15 [GDF&#x02010;15; R&#x00026;D Systems]). Samples were assayed after 2006 with myeloperoxidase (MPO), PAPP&#x02010;A, and galectin&#x02010;3 completed in 2014.</p></sec><sec id="jah31480-sec-0009"><title>Statistical Analysis</title><p>Continuous variables were compared using the Kruskal&#x02013;Wallis test and categorical variables were compared using the &#x003c7;<sup>2</sup> test for trend. The correlation between baseline biomarkers was assessed with Spearman's correlation coefficient. All biomarkers were first assessed by both categorizing the marker into quartiles and looking at the continuous association between biomarker and risk using logistic regression models (risk per SD of log&#x02010;transformed biomarker). For troponin T, all patients who had undetectable levels were categorized as the referent group and patients with detectable levels were divided into tertiles in all models. After assessing the shape of the relationship with cardiovascular events, biomarkers were subsequently assessed as dichotomous variables before multimarker selection with the threshold applied at the concentration where an inflection in the risk of cardiovascular death or HF was most apparent. For most markers, this dichotomous threshold was applied at the fourth quartile (Q) with the first through third quartile as referent. The only exceptions were MPO, GDF&#x02010;15, and PAPP&#x02010;A where the threshold was applied between the first and second quartile (modeled as Q2&#x02013;4:1). In the case of troponin T, 3 groups were used: undetectable, the first and second tertiles combined, and the third tertile. Logistic regression models were used to assess the relationship between marker and outcomes adjusting for age, sex, past HF, diabetes mellitus, past MI, systolic blood pressure, heart rate, Killip class II to IV, anterior <styled-content style="fixed-case">ST</styled-content>&#x02010;elevation <styled-content style="fixed-case">MI</styled-content> (STEMI), creatinine clearance &#x0003c;60&#x000a0;mL/min, time to lytic, type of lytic, and randomized treatment arm. A multimarker strategy was assessed by introducing all markers at their dichotomous thresholds (except for troponin T, which was maintained as a 3&#x02010;way variable) through a forward selection process with a <italic>P</italic>&#x0003c;0.05 for retention in the final model. Final candidate markers were subsequently confirmed through backward selection. Once the final model was determined, an integeric score system was created by summing the number of elevated markers. In the case of troponin T, 1 point was assigned to patients with a detectable troponin T concentration in the first or second tertile and 2 points were assigned to patients with a detectable troponin T concentration in the top tertile. The prognostic utility of the multimarker risk score and the TIMI Risk Score for STEMI<xref rid="jah31480-bib-0011" ref-type="ref">11</xref> and GRACE Risk Score<xref rid="jah31480-bib-0012" ref-type="ref">12</xref> were compared through assessment of the C&#x02010;statistic, integrated discrimination index (IDI), and categoryless net reclassification index (NRI) that was calculated on a continuous basis, using previously described methodology.<xref rid="jah31480-bib-0013" ref-type="ref">13</xref> A test for the equality of the area under the receiver&#x02010;operating curves (AUCs) was applied using the algorithm described by DeLong et&#x000a0;al.<xref rid="jah31480-bib-0014" ref-type="ref">14</xref> Because all analyses were exploratory, tests were 2&#x02010;sided with a <italic>P</italic>&#x0003c;0.05 considered to be significant.</p></sec></sec><sec id="jah31480-sec-0010"><title>Results</title><p>Baseline characteristics for the overall biomarker cohort and by quartile of biomarker are shown in Tables S1 through S12. In general, higher concentrations of markers were associated with a higher prevalence of multiple traditional cardiovascular risk factors and a higher TIMI Risk Score for STEMI. A moderate&#x02010;to&#x02010;strong correlation was observed between MPO and PAPP&#x02010;A (&#x003c1;=0.60; <italic>P</italic>&#x0003c;0.001), troponin T and NT&#x02010;proBNP (&#x003c1;=0.54; <italic>P</italic>&#x0003c;0.001) and MR&#x02010;proADM and MR&#x02010;proANP (&#x003c1;=0.67; <italic>P</italic>&#x0003c;0.001). A modest or weak relationship was observed between all remaining markers (Table&#x000a0;<xref rid="jah31480-tbl-0001" ref-type="table-wrap">1</xref>).</p><table-wrap id="jah31480-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Spearman Correlation (Rho, <italic>P</italic> Value) Between Candidate Biomarkers in CLARITY&#x02010;TIMI 28</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">hsCRP</th><th align="left" valign="top" rowspan="1" colspan="1">MPO</th><th align="left" valign="top" rowspan="1" colspan="1">PAPP&#x02010;A</th><th align="left" valign="top" rowspan="1" colspan="1">GDF&#x02010;15</th><th align="left" valign="top" rowspan="1" colspan="1">NT&#x02010;proBNP</th><th align="left" valign="top" rowspan="1" colspan="1">MR&#x02010;proANP</th><th align="left" valign="top" rowspan="1" colspan="1">ST2</th><th align="left" valign="top" rowspan="1" colspan="1">Gal&#x02010;3</th><th align="left" valign="top" rowspan="1" colspan="1">TnT</th><th align="left" valign="top" rowspan="1" colspan="1">Copeptin</th><th align="left" valign="top" rowspan="1" colspan="1">MR&#x02010;proADM</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">hsCRP</td><td align="left" rowspan="1" colspan="1">&#x02014;</td><td align="left" rowspan="1" colspan="1">0.09</td><td align="left" rowspan="1" colspan="1">&#x02212;0.06</td><td align="left" rowspan="1" colspan="1">0.12</td><td align="left" rowspan="1" colspan="1">0.31</td><td align="left" rowspan="1" colspan="1">0.04</td><td align="left" rowspan="1" colspan="1">0.05</td><td align="left" rowspan="1" colspan="1">0.19</td><td align="left" rowspan="1" colspan="1">0.18</td><td align="left" rowspan="1" colspan="1">&#x02212;0.11</td><td align="left" rowspan="1" colspan="1">0.12</td></tr><tr><td align="left" rowspan="1" colspan="1">MPO</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">&#x02014;</td><td align="left" rowspan="1" colspan="1">0.60</td><td align="left" rowspan="1" colspan="1">0.11</td><td align="left" rowspan="1" colspan="1">0.02</td><td align="left" rowspan="1" colspan="1">&#x02212;0.16</td><td align="left" rowspan="1" colspan="1">0.05</td><td align="left" rowspan="1" colspan="1">0.31</td><td align="left" rowspan="1" colspan="1">0.09</td><td align="left" rowspan="1" colspan="1">&#x02212;0.04</td><td align="left" rowspan="1" colspan="1">&#x02212;0.29</td></tr><tr><td align="left" rowspan="1" colspan="1">PAPPA</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.09</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">&#x02014;</td><td align="left" rowspan="1" colspan="1">0.04</td><td align="left" rowspan="1" colspan="1">&#x02212;0.04</td><td align="left" rowspan="1" colspan="1">&#x02212;0.22</td><td align="left" rowspan="1" colspan="1">&#x02212;0.03</td><td align="left" rowspan="1" colspan="1">0.04</td><td align="left" rowspan="1" colspan="1">0.02</td><td align="left" rowspan="1" colspan="1">&#x02212;0.03</td><td align="left" rowspan="1" colspan="1">&#x02212;0.36</td></tr><tr><td align="left" rowspan="1" colspan="1">GDF&#x02010;15</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.27</td><td align="left" rowspan="1" colspan="1">&#x02014;</td><td align="left" rowspan="1" colspan="1">0.15</td><td align="left" rowspan="1" colspan="1">0.04</td><td align="left" rowspan="1" colspan="1">0.10</td><td align="left" rowspan="1" colspan="1">0.29</td><td align="left" rowspan="1" colspan="1">0.13</td><td align="left" rowspan="1" colspan="1">0.07</td><td align="left" rowspan="1" colspan="1">&#x02212;0.03</td></tr><tr><td align="left" rowspan="1" colspan="1">NT&#x02010;proBNP</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.55</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.21</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">&#x02014;</td><td align="left" rowspan="1" colspan="1">0.34</td><td align="left" rowspan="1" colspan="1">0.13</td><td align="left" rowspan="1" colspan="1">0.18</td><td align="left" rowspan="1" colspan="1">0.54</td><td align="left" rowspan="1" colspan="1">&#x02212;0.15</td><td align="left" rowspan="1" colspan="1">0.26</td></tr><tr><td align="left" rowspan="1" colspan="1">MR&#x02010;proANP</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.20</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.24</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">&#x02014;</td><td align="left" rowspan="1" colspan="1">0.07</td><td align="left" rowspan="1" colspan="1">0.15</td><td align="left" rowspan="1" colspan="1">0.19</td><td align="left" rowspan="1" colspan="1">0.25</td><td align="left" rowspan="1" colspan="1">0.67</td></tr><tr><td align="left" rowspan="1" colspan="1">ST2</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.08</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.10</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.46</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.02</td><td align="left" rowspan="1" colspan="1">&#x02014;</td><td align="left" rowspan="1" colspan="1">0.14</td><td align="left" rowspan="1" colspan="1">0.15</td><td align="left" rowspan="1" colspan="1">0.07</td><td align="left" rowspan="1" colspan="1">0.08</td></tr><tr><td align="left" rowspan="1" colspan="1">Gal&#x02010;3</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.33</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">&#x02014;</td><td align="left" rowspan="1" colspan="1">0.18</td><td align="left" rowspan="1" colspan="1">0.12</td><td align="left" rowspan="1" colspan="1">0.09</td></tr><tr><td align="left" rowspan="1" colspan="1">TnT</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.59</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">&#x02014;</td><td align="left" rowspan="1" colspan="1">&#x02212;0.27</td><td align="left" rowspan="1" colspan="1">0.19</td></tr><tr><td align="left" rowspan="1" colspan="1">Copeptin</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.22</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.43</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.02</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.02</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">&#x02014;</td><td align="left" rowspan="1" colspan="1">0.14</td></tr><tr><td align="left" rowspan="1" colspan="1">MR&#x02010;proADM</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.27</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>=0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x0003c;0.01</td><td align="left" rowspan="1" colspan="1">&#x02014;</td></tr></tbody></table><table-wrap-foot><fn id="jah31480-note-0003"><p>Rho values in upper right and <italic>P</italic> values in lower left of table. Gal&#x02010;3 indicates galectin&#x02010;3; GDF&#x02010;15, growth&#x02010;differentiation factor&#x02010;15; hsCRP, high&#x02010;sensitivity C&#x02010;reactive protein; MPO, myeloperoxidase; MR&#x02010;proADM, midregional proadrenomedullin; MR&#x02010;proANP, midregional proatrial natriuretic peptide; NT&#x02010;proBNP, NT&#x02010;pro B&#x02010;type natriuretic peptide; PAPP&#x02010;A, pregnancy&#x02010;associated plasma protein A; ST2, suppression of tumorigenicity 2; TnT, troponin T.</p></fn></table-wrap-foot></table-wrap><sec id="jah31480-sec-0011"><title>Prognostic Utility of Individual Markers</title><p>Table&#x000a0;<xref rid="jah31480-tbl-0002" ref-type="table-wrap">2</xref> shows the odds of cardiovascular death or HF per 1 SD increase in each biomarker as well as the incidence of cardiovascular death or HF through 30&#x000a0;days across quartiles of biomarkers. There were associations between the risk of cardiovascular death or HF and increasing levels of several biomarkers, including NT&#x02010;proBNP (<italic>P</italic>
+<sub>trend</sub>&#x0003c;0.001), MR&#x02010;proANP (<italic>P</italic>
+<sub>trend</sub>&#x0003c;0.001), ST2 (<italic>P</italic>
+<sub>trend</sub>&#x0003c;0.001), galectin&#x02010;3 (<italic>P</italic>
+<sub>trend</sub>&#x0003c;0.001), MR&#x02010;proADM (<italic>P</italic>
+<sub>trend</sub>=0.02), troponin T (<italic>P</italic>
+<sub>trend</sub>&#x0003c;0.001), MPO (<italic>P</italic>
+<sub>trend</sub>=0.051), and hsCRP (<italic>P</italic>
+<sub>trend</sub>&#x0003c;0.001). There appeared to be inflection points for risk for most of the biomarkers and, after applying such dichotomous thresholds, 7 biomarkers individually remained significantly associated with a higher odds of cardiovascular death or HF through 30&#x000a0;days after&#x000a0;adjusting for traditional risk factors (Table&#x000a0;<xref rid="jah31480-tbl-0003" ref-type="table-wrap">3</xref>). Of the biomarkers of myocardial stress/structural changes, NT&#x02010;proBNP (adjusted OR, 2.54; 95% CI, 1.47&#x02013;4.37), MR&#x02010;proANP (adjusted OR, 2.18; 95% CI, 1.27&#x02013;3.76), and ST2 (adjusted OR, 2.88; 95% CI, 1.72&#x02013;4.81) remained significant predictors after adjusting for traditional risk factors. Of patients with detectable troponin T levels, those in tertiles 1 and 2 had more than a 2&#x02010;fold higher odds of cardiovascular death or HF (adjusted OR, 2.40; 95% CI, 1.22&#x02013;4.71) and those in the upper tertile had more than a 4&#x02010;fold higher odds of cardiovascular death or HF at 30&#x000a0;days (adjusted OR, 4.37; 95% CI, 2.15&#x02013;8.89). Of the inflammatory biomarkers, MPO (adjusted OR, 2.75; 95% CI, 1.20&#x02013;6.27), hsCRP (adjusted OR, 1.96; 95% CI, 1.17&#x02013;3.30) and PAPP&#x02010;A (adjusted OR, 3.04; 95% CI, 1.17&#x02013;7.88) remained significant predictors after adjusting for traditional risk factors. In general, directional consistency was observed across the individual elements of the composite outcome of cardiovascular death or HF, with a stronger relationship observed between candidate markers and the odds of cardiovascular death than for heart failure (Tables S13 and S14). In general, biomarker concentration was not associated with the odds of MI, recurrent ischemia requiring urgent revascularization or TIMI flow grade 0 to 1, except for ST2, where higher levels of which were associated with recurrent MI and TIMI flow grade 0 to 1 (Tables S15 through S17).</p><table-wrap id="jah31480-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Incidence of Cardiovascular Death or HF at 30&#x000a0;Days per 1 standard deviation increase and by Quartile of Biomarker</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Biomarker</th><th align="left" valign="top" rowspan="1" colspan="1">OR (95% CI) Per 1 Standard Deviation of Log&#x02010;Transformed Biomarker</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th><th align="left" valign="top" rowspan="1" colspan="1">Quartile 1</th><th align="left" valign="top" rowspan="1" colspan="1">Quartile 2</th><th align="left" valign="top" rowspan="1" colspan="1">Quartile 3</th><th align="left" valign="top" rowspan="1" colspan="1">Quartile 4</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>
+<sub>trend</sub>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">NT&#x02010;proBNP (n=1249)</td><td align="left" rowspan="1" colspan="1">2.27 (1.83&#x02013;2.82)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">3.2%</td><td align="left" rowspan="1" colspan="1">3.5%</td><td align="left" rowspan="1" colspan="1">5.4%</td><td align="left" rowspan="1" colspan="1">16.7%</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">MR&#x02010;proANP (n=1121)</td><td align="left" rowspan="1" colspan="1">1.73 (1.26&#x02013;2.36)</td><td align="left" rowspan="1" colspan="1">0.001</td><td align="left" rowspan="1" colspan="1">4.3%</td><td align="left" rowspan="1" colspan="1">4.3%</td><td align="left" rowspan="1" colspan="1">5.7%</td><td align="left" rowspan="1" colspan="1">16.4%</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">ST2 (n=1239)</td><td align="left" rowspan="1" colspan="1">1.76 (1.40&#x02013;2.21)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">4.4%</td><td align="left" rowspan="1" colspan="1">4.2%</td><td align="left" rowspan="1" colspan="1">6.2%</td><td align="left" rowspan="1" colspan="1">14.3%</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Galectin&#x02010;3 (n=1034)</td><td align="left" rowspan="1" colspan="1">1.50 (1.24&#x02013;1.82)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">3.8%</td><td align="left" rowspan="1" colspan="1">4.3%</td><td align="left" rowspan="1" colspan="1">8.5%</td><td align="left" rowspan="1" colspan="1">14.0%</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Copeptin (n=1126)</td><td align="left" rowspan="1" colspan="1">1.25 (0.99&#x02013;1.58)</td><td align="left" rowspan="1" colspan="1">0.06</td><td align="left" rowspan="1" colspan="1">7.8%</td><td align="left" rowspan="1" colspan="1">5.0%</td><td align="left" rowspan="1" colspan="1">6.7%</td><td align="left" rowspan="1" colspan="1">11.0%</td><td align="left" rowspan="1" colspan="1">0.11</td></tr><tr><td align="left" rowspan="1" colspan="1">MR&#x02010;proADM (n=1126)</td><td align="left" rowspan="1" colspan="1">1.19 (0.94&#x02013;1.51)</td><td align="left" rowspan="1" colspan="1">0.15</td><td align="left" rowspan="1" colspan="1">7.4%</td><td align="left" rowspan="1" colspan="1">5.0%</td><td align="left" rowspan="1" colspan="1">5.0%</td><td align="left" rowspan="1" colspan="1">13.2%</td><td align="left" rowspan="1" colspan="1">0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">Troponin T<xref ref-type="fn" rid="jah31480-note-0004">*</xref> (n=1250)</td><td align="left" rowspan="1" colspan="1">2.15 (1.75&#x02013;2.63)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">3.2%</td><td align="left" rowspan="1" colspan="1">5.0%</td><td align="left" rowspan="1" colspan="1">8.2%</td><td align="left" rowspan="1" colspan="1">19.3%</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">hsCRP (n=1250)</td><td align="left" rowspan="1" colspan="1">1.96 (1.61&#x02013;2.39)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">4.7%</td><td align="left" rowspan="1" colspan="1">3.9%</td><td align="left" rowspan="1" colspan="1">6.4%</td><td align="left" rowspan="1" colspan="1">13.8%</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Myeloperoxidase (n=1045)</td><td align="left" rowspan="1" colspan="1">1.31 (1.04&#x02013;1.65)</td><td align="left" rowspan="1" colspan="1">0.02</td><td align="left" rowspan="1" colspan="1">3.1%</td><td align="left" rowspan="1" colspan="1">10.3%</td><td align="left" rowspan="1" colspan="1">8.4%</td><td align="left" rowspan="1" colspan="1">8.4%</td><td align="left" rowspan="1" colspan="1">0.051</td></tr><tr><td align="left" rowspan="1" colspan="1">PAPP&#x02010;A (n=876)</td><td align="left" rowspan="1" colspan="1">1.17 (0.89&#x02013;1.53)</td><td align="left" rowspan="1" colspan="1">0.26</td><td align="left" rowspan="1" colspan="1">4.1%</td><td align="left" rowspan="1" colspan="1">6.8%</td><td align="left" rowspan="1" colspan="1">5.9%</td><td align="left" rowspan="1" colspan="1">7.3%</td><td align="left" rowspan="1" colspan="1">0.23</td></tr><tr><td align="left" rowspan="1" colspan="1">GDF&#x02010;15 (n=1111)</td><td align="left" rowspan="1" colspan="1">1.26 (1.02&#x02013;1.55)</td><td align="left" rowspan="1" colspan="1">0.03</td><td align="left" rowspan="1" colspan="1">5.0%</td><td align="left" rowspan="1" colspan="1">7.2%</td><td align="left" rowspan="1" colspan="1">8.3%</td><td align="left" rowspan="1" colspan="1">7.9%</td><td align="left" rowspan="1" colspan="1">0.16</td></tr></tbody></table><table-wrap-foot><fn id="jah31480-note-0004"><p>GDF&#x02010;15 indicates growth&#x02010;differentiation factor&#x02010;15; HF, heart failure; hsCRP, high&#x02010;sensitivity C&#x02010;reactive protein; MR&#x02010;proADM, midregional proadrenomedullin; MR&#x02010;proANP, midregional proatrial natriuretic peptide; NT&#x02010;proBNP, NT&#x02010;pro B&#x02010;type natriuretic peptide; OR, odds ratio; PAPP&#x02010;A, pregnancy&#x02010;associated plasma protein A; ST2, suppression of tumorigenicity 2.*All patients with undetectable troponin T levels were grouped in quartile 1, and then patients with detectable troponin T levels were divided into tertiles.</p></fn></table-wrap-foot></table-wrap><table-wrap id="jah31480-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Association Between Each Candidate Marker Individually When Modeled as a Categorical Variable and the Odds of Cardiovascular Death or HF at 30&#x000a0;Days After Multivariable Adjustment</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Biomarker</th><th align="left" valign="top" rowspan="1" colspan="1">OR (95% CI) Adjusted for Clinical Factors Modeled Applying a Dichotomous Threshold</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="6" colspan="1">Myocardial stress/structural changes</td><td align="left" rowspan="1" colspan="1">NT&#x02010;proBNP (n=1142)</td><td align="left" rowspan="1" colspan="1">2.54 (1.47&#x02013;4.37)</td><td align="left" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">MR&#x02010;proANP (n=1027)</td><td align="left" rowspan="1" colspan="1">2.18 (1.27&#x02013;3.76)</td><td align="left" rowspan="1" colspan="1">0.005</td></tr><tr><td align="left" rowspan="1" colspan="1">ST2 (n=1133)</td><td align="left" rowspan="1" colspan="1">2.88 (1.72&#x02013;4.81)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Galectin&#x02010;3 (n=943)</td><td align="left" rowspan="1" colspan="1">1.74 (0.96&#x02013;3.16)</td><td align="left" rowspan="1" colspan="1">0.07</td></tr><tr><td align="left" rowspan="1" colspan="1">MR&#x02010;proADM (n=1032)</td><td align="left" rowspan="1" colspan="1">1.07 (0.61&#x02013;1.87)</td><td align="left" rowspan="1" colspan="1">0.82</td></tr><tr><td align="left" rowspan="1" colspan="1">Copeptin (n=1031)</td><td align="left" rowspan="1" colspan="1">1.12 (0.63&#x02013;1.99)</td><td align="left" rowspan="1" colspan="1">0.71</td></tr><tr><td align="left" rowspan="2" colspan="1">Myonecrosis (n=1142)</td><td align="left" rowspan="1" colspan="1">Troponin T (T1&#x02013;T2)<xref ref-type="fn" rid="jah31480-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">2.40 (1.22&#x02013;4.71)</td><td align="left" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Troponin T (T3)<xref ref-type="fn" rid="jah31480-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">4.37 (2.15&#x02013;8.89)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="4" colspan="1">Inflammation</td><td align="left" rowspan="1" colspan="1">MPO (n=952)</td><td align="left" rowspan="1" colspan="1">2.75 (1.20&#x02013;6.27)</td><td align="left" rowspan="1" colspan="1">0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">hsCRP (n=1140)</td><td align="left" rowspan="1" colspan="1">1.96 (1.17&#x02013;3.30)</td><td align="left" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">PAPP&#x02010;A (n=794)</td><td align="left" rowspan="1" colspan="1">3.04 (1.17&#x02013;7.88)</td><td align="left" rowspan="1" colspan="1">0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">GDF&#x02010;15 (n=1019)</td><td align="left" rowspan="1" colspan="1">0.81 (0.41&#x02013;1.60)</td><td align="left" rowspan="1" colspan="1">0.54</td></tr></tbody></table><table-wrap-foot><fn id="jah31480-note-0005"><p>Multivariable model included age, sex, past HF, diabetes mellitus, past MI, systolic blood pressure, heart rate, Killip class II to IV, type of lytic, anterior STEMI, creatinine clearance &#x0003c;60&#x000a0;mL/min, time to lytic, treatment arm. Gal&#x02010;3 indicates galectin&#x02010;3; GDF&#x02010;15, growth&#x02010;differentiation factor&#x02010;15; HF, heart failure; hsCRP, high&#x02010;sensitivity C&#x02010;reactive protein; MI, myocardial infarction; MPO, myeloperoxidase; MR&#x02010;proADM, midregional proadrenomedullin; MR&#x02010;proANP, midregional proatrial natriuretic peptide; NT&#x02010;proBNP, NT&#x02010;pro B&#x02010;type natriuretic peptide; OR, odds ratio; PAPP&#x02010;A, pregnancy&#x02010;associated plasma protein A; ST2, suppression of tumorigenicity 2; STEMI, ST&#x02010;elevation myocardial infarction.</p></fn><fn id="jah31480-note-0006"><label>a</label><p>For categorical analysis, troponin T was coded as 3&#x02010;way variable with undetectable troponin T as referent and detectable troponin T modeled by tertile (T).</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah31480-sec-0012"><title>Multimarker Risk Stratification</title><p>When candidate markers were combined into a multimarker model, 3 biomarkers emerged as significant and complementary predictors of cardiovascular death or HF through both forward and backward selection: ST2, troponin T, and MPO. Patients with higher levels of either ST2 or MPO had more than a 2&#x02010;fold higher odds of cardiovascular death or HF (adjusted OR, 2.87; 95% CI, 1.61&#x02013;5.12 and adjusted OR, 2.49; 95% CI, 1.04&#x02013;5.96, respectively). Similarly, patients with detectable troponin T levels in the first or second tertile had more than a 2&#x02010;fold higher odds of cardiovascular death or HF (adjusted OR, 2.34; 95% CI, 1.09&#x02013;5.01) and those with a troponin T concentration in the highest detectable tertile had more than a 4&#x02010;fold higher odds of an event (adjusted OR, 4.13; 95% CI, 1.85&#x02013;9.20; Figure&#x000a0;<xref rid="jah31480-fig-0001" ref-type="fig">1</xref>). For patients in whom left ventricular ejection fraction (LVEF) had been assessed (n=515), directionally consistent findings were observed regarding the prognostic value of all 3 markers when LVEF was included in the model (Table&#x000a0;S18).</p><fig fig-type="Figure" xml:lang="en" id="jah31480-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>When all markers were combined in a model, 3 candidate markers remained significantly associated with higher odds of <styled-content style="fixed-case">CV</styled-content> death or <styled-content style="fixed-case">HF</styled-content> at 30&#x000a0;days in patients with <styled-content style="fixed-case">STEMI</styled-content> after multivariable adjustment. Troponin T was modeled into 3 groups: undetectable as referent then tertiles (T) of detectable troponin T with tertile 1 and 2 collapsed. CV indicates cardiovascular; HF, heart failure; MPO, myeloperoxidase; OR, odds ratio; STEMI, ST&#x02010;elevation myocardial infarction.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-5-e002586-g001"/></fig><p>When an integeric multimarker risk score was created that assigned points for elevations in ST2 (1 point), troponin T (1 or 2 points), or MPO (1 point; Figure&#x000a0;<xref rid="jah31480-fig-0002" ref-type="fig">2</xref>), a step&#x02010;wise increase in the incidence of 30&#x000a0;day cardiovascular death or HF was observed for patients with higher biomarker scores (<italic>P</italic>&#x0003c;0.001 for trend). Furthermore, the multimarker risk score provided incremental information for risk stratification to the TIMI Risk Score for STEMI (Figure&#x000a0;<xref rid="jah31480-fig-0003" ref-type="fig">3</xref>). In particular, the multimarker risk score significantly improved the C&#x02010;statistic for predicting cardiovascular death or HF as compared with the TIMI STEMI Risk Score alone (AUC, 0.75 [95% CI, 0.69&#x02013;0.81] to 0.82 [95% CI, 0.78&#x02013;0.87]; <italic>P</italic>=0.001), as well as the NRI (0.93; <italic>P</italic>&#x0003c;0.001) and IDI (0.09; <italic>P</italic>&#x0003c;0.001). Similarly, the multimarker score improved the C&#x02010;statistic as&#x000a0;compared with the GRACE Risk Score alone (AUC, 0.76 [95% CI, 0.72&#x02013;0.80] to 0.85 [95% CI, 0.81&#x02013;0.89]; <italic>P</italic>&#x0003c;0.001),&#x000a0;as well as the NRI (0.93; <italic>P</italic>&#x0003c;0.001 and IDI (0.10; <italic>P</italic>&#x0003c;0.001).</p><fig fig-type="Figure" xml:lang="en" id="jah31480-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>An integeric risk score was created using the 3 markers that were significantly associated with the odds <styled-content style="fixed-case">CV</styled-content> death or <styled-content style="fixed-case">HF</styled-content> including <styled-content style="fixed-case">ST</styled-content>2, <styled-content style="fixed-case">MPO</styled-content>, and troponin T. A step&#x02010;wise increase in the incidence of 30&#x02010;day <styled-content style="fixed-case">CV</styled-content> death or <styled-content style="fixed-case">HF</styled-content> was observed with increasing multimarker risk score. CV indicates cardiovascular; HF, heart failure; MPO, myeloperoxidase; OR, odds ratio.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-5-e002586-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="jah31480-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The multimarker risk score provided incremental information for risk stratification to the <styled-content style="fixed-case">TIMI</styled-content> risk score for <styled-content style="fixed-case">STEMI</styled-content>. CV indicates cardiovascular; DM, diabetes mellitus; HF, heart failure; HR, hazard ratio; HTN, hypertension; LBBB, left bundle branch block; SBP, systolic blood pressure; STE, ST elevation; STEMI, ST&#x02010;elevation myocardial infarction; TIMI, Thrombolysis in Myocardial Infarction.</p></caption><graphic id="nlm-graphic-5" xlink:href="JAH3-5-e002586-g003"/></fig></sec></sec><sec id="jah31480-sec-0013"><title>Discussion</title><p>In a large trial population of patients with STEMI, we evaluated the prognostic utility of 11 novel and established biomarkers. We determined that a multimarker strategy that combines biomarkers across pathobiological axes of myocardial stress, myocyte necrosis, and inflammation provides incremental prognostic information for risk stratification. In particular, by combining three markers (troponin T, ST2, and MPO) into a multimarker risk score, we were able to identify patients at increased risk of 30&#x02010;day of cardiovascular death or HF with additive value beyond established clinical predictors and the TIMI and GRACE Risk Score for STEMI alone. These findings could therefore have implications in regards to early patient triage in the setting of acute MI.</p><p>Despite marked improvements in outcomes over the past few decades, early readmission rates and mortality remain high after hospital discharge for patients hospitalized with an acute MI.<xref rid="jah31480-bib-0015" ref-type="ref">15</xref> Therefore, it remains of key importance to continue to develop tools that may identify individuals at heightened risk of adverse outcomes who may benefit more from enhanced monitoring or potentially directed treatment strategies. In the current analysis that included up to 1258 patients with an acute MI, we found that several candidate markers&#x02014;NT&#x02010;proBNP, MR&#x02010;proANP, ST2, troponin T, MPO, hsCRP, and PAPP&#x02010;A&#x02014;were individually significantly associated with the 30&#x02010;day odds of cardiovascular death or HF after adjustment for clinical predictors.</p><p>However, the rapid proliferation of candidate markers that appear to be useful for risk stratification has contributed to growing confusion among practitioners as to which marker may be more useful for clinical practice. Furthermore, few have been able to reliably provide incremental information for risk discrimination beyond established clinical tools.<xref rid="jah31480-bib-0016" ref-type="ref">16</xref> In particular, there often exists a moderate&#x02010;to&#x02010;strong correlation between markers that reflect similar pathobiological axes of disease. As such, the relative prognostic value of any single candidate marker versus another may be unclear.</p><p>By assessing multiple markers simultaneously, we were able to demonstrate that only 3 candidate markers (ST2, troponin T, and MPO) remained significantly associated with the odds of cardiovascular death or HF after adjusting for both clinical predictors and other candidate markers. Interestingly, these 3 markers reflect different pathobiological axes of disease, including myocardial stress, myocyte necrosis, and inflammation, suggesting that this type of multimarker strategy may leverage the complementary prognostic utility of each marker to further optimize risk stratification and discrimination. The current findings are supported by a multimarker analysis of 7 candidate markers in a population of patients with non&#x02010;ST&#x02010;segment&#x02010;elevation (NSTE)&#x02010;ACS whereby both troponin T and MPO emerged as significant markers of long&#x02010;term cardiovascular risk; however, ST2 was not evaluated.<xref rid="jah31480-bib-0006" ref-type="ref">6</xref>
+</p><p>In the current study of 11 candidate markers, individuals with elevated levels of ST2, troponin T, or MPO had more than a 2&#x02010;fold higher odds of cardiovascular death or HF at 30&#x000a0;days, and those with the highest levels of troponin T had more than a 4&#x02010;fold higher odds of an event after multivariable adjustment. Moreover, by combining these markers into a multimarker risk score, we were able to demonstrate a steep step&#x02010;wise increase in the 30&#x02010;day incidence of cardiovascular death or HF ranging from &#x0003c;1% for individuals with a score of 0 to 33% for individuals with a score of 4. Of note, patients with a biomarker score of 0 had a low risk of cardiovascular death or HF regardless of their clinical features.</p><p>The prognostic utility of troponin in the setting of ACS was first established several years ago and has now been replicated across multiple trials,<xref rid="jah31480-bib-0017" ref-type="ref">17</xref>, <xref rid="jah31480-bib-0018" ref-type="ref">18</xref>, <xref rid="jah31480-bib-0019" ref-type="ref">19</xref>, <xref rid="jah31480-bib-0020" ref-type="ref">20</xref>, <xref rid="jah31480-bib-0021" ref-type="ref">21</xref>, <xref rid="jah31480-bib-0022" ref-type="ref">22</xref> including the current study. Consistent with many previous studies, troponin T was not associated with the risk of recurrent ischemic events, but its robust prognostic value was most apparent for the odds of cardiovascular death and HF. Given that troponin concentration reflects the extent of myonecrosis, it is also a direct correlate of infarct size.<xref rid="jah31480-bib-0023" ref-type="ref">23</xref> However, troponin release may also occur in the setting of myocardial strain<xref rid="jah31480-bib-0024" ref-type="ref">24</xref> and may therefore help to identify patients at increased risk of cardiovascular death or HF through alternate axes of pathobiology. To that end, the prognostic value of troponin T was maintained after adjusting for surrogates of infarct size, in addition to other clinical predictors. Similarly, ST2, a soluble interleukin&#x02010;1 receptor family member, is upregulated and secreted in response to mechanical stress.<xref rid="jah31480-bib-0025" ref-type="ref">25</xref> Yet, in the current study, we observed only a weak correlation between ST2 and other markers of myocardial strain, including BNP, galectin&#x02010;3, and troponin T. Similar observations have been noted in the setting of NSTE&#x02010;ACS,<xref rid="jah31480-bib-0026" ref-type="ref">26</xref> leading investigators to speculate that ST2 may not be solely a marker of myocardial strain, but also a marker of inflammation, fibrosis, and adverse myocardial remodeling.<xref rid="jah31480-bib-0026" ref-type="ref">26</xref>
+</p><p>MPO is an established marker of inflammation that may have proatherogenic and destabilizing effects on atheromatous plaque through a variety of proposed pathways, including low&#x02010;density lipoprotein oxidation.<xref rid="jah31480-bib-0027" ref-type="ref">27</xref> Inflammation is known to be not only a key mediator in atherogenesis and plaque rupture, but also plays a central role in myocardial wound healing after acute MI.<xref rid="jah31480-bib-0028" ref-type="ref">28</xref> A maladaptive wound&#x02010;healing response can contribute to adverse remodeling and may identify patients at increased risk of HF. Although markers of inflammation are sometimes considered to be strong correlates of infarct size, we observed only a weak correlation between MPO and troponin T concentration in the current study. Although the relationship has not always been consistent,<xref rid="jah31480-bib-0029" ref-type="ref">29</xref> several studies have previously demonstrated an association between MPO and the risk of recurrent cardiovascular events when measured during hospitalization with ACS.<xref rid="jah31480-bib-0027" ref-type="ref">27</xref>, <xref rid="jah31480-bib-0030" ref-type="ref">30</xref>, <xref rid="jah31480-bib-0031" ref-type="ref">31</xref>, <xref rid="jah31480-bib-0032" ref-type="ref">32</xref> The current findings therefore lend renewed support to the use of MPO as a prognostic marker after adjusting for other established risk predictors, including a wide number of biomarkers.</p><p>Limitations to the current analysis warrant consideration. Samples were not available in the entire study cohort, and there remains the possibility of residual confounding despite extensive multivariable adjustment. Because there are no widely accepted cutpoints for many of the markers evaluated in the setting of acute MI, we applied thresholds on the basis of their relationship with outcomes by quartiles. Therefore, the current multimarker risk score and all applied cutpoints require further validation in additional patient populations. As well, there have been reports of preanalytical issues in regards to MPO quantification in the setting of heparin exposure.<xref rid="jah31480-bib-0033" ref-type="ref">33</xref>, <xref rid="jah31480-bib-0034" ref-type="ref">34</xref> The samples used to assess MPO concentration in the current study were stored in EDTA plasma tubes, but the majority of patients were treated with systemic heparin as part of their acute MI management. However, one might expect that any assay interference attributed to heparin exposure would bias the results toward the null, which was not observed in the current study. For the assessment of troponin T, we used a current generation assay that is the current assay used in the United States, but future analyses may consider the use of newer high&#x02010;sensitivity assays. As well, LVEF was only assessed in a subset of individuals, and therefore it was not possible to adjust for LVEF in all models; however, qualitatively consistent results were observed when this parameter was included as a covariate in a sensitivity analysis.</p><p>In summary, after the simultaneous assessment of 11 novel and established biomarkers of risk in patients hospitalized with an acute MI, ST2, troponin T, and MPO emerged as significant predictors of short&#x02010;term cardiovascular death or HF after adjusting for clinical predictors and other candidate markers. These findings highlight the incremental utility of combining markers that reflect complementary axes of cardiovascular disease.</p></sec><sec id="jah31480-sec-0014"><title>Sources of Funding</title><p>Research reported in this publication was supported by the National Heart, Lung, and Blood Institute of the National Institutes of Health under award numbers U01HL0831341, R01HL096738, and HHSN268201000033C. The CLARITY&#x02010;TIMI 28 trial was supported, in part, by the pharmaceutical partnership of Sanofi&#x02010;Aventis and Bristol&#x02010;Myers Squibb, who were not involved in the current analysis. Roche Diagnostics provided reagent for troponin T, hsCRP, and NT&#x02010;proBNP testing. BRAHMS provided reagent for MR&#x02010;proANP, MR&#x02010;proADM, and copeptin testing. Beckman Coulter provided reagent for PAPP&#x02010;A testing.</p></sec><sec id="jah31480-sec-0015"><title>Disclosures</title><p>Dr O'Donoghue has received grant support from Merck, GlaxoSmithKline (GSK), AstraZeneca, and Eisai and consulting fees from diaDexus. Dr Morrow has received grant support from Amgen, Abbott Labs, AstraZeneca, Critical Diagnostics, Daiichi Sankyo/Eli Lilly, Eisai, Gilead, GSK, Merck, Novartis, Roche, Singulex, and ThermoFisher. He also received consulting fees from Abbott Labs, AstraZeneca, Daiichi Sankyo/Eli Lilly, diaDexus, Gilead, GSK, Instrumentation Laboratory, Merck, Novartis, Provencio, Radiometer, and Roche. Dr Cannon has received grant support from Accumetrics, Arisaph, Astra Zeneca, Boehringer Ingelheim, GSK, Janssen, Merck, and Takeda. In addition, he has received consulting fees from Boehringer Ingelheim, BMS, CSL Behring, Essentialis, GSK, Kowa, Merck, Takeda, Lipimedix, Pfizer, Regeneron, and Sanofi. Dr Jarolim received research support from Abbott Laboratories, Amgen Inc., AstraZeneca LP, Beckman Coulter, Daiichi Sankyo, Inc., GSK, Merck &#x00026; Co., Inc., Roche Diagnostics Corporation, Takeda Global Research and Development Center, and Waters Technologies Corporation. Dr Desai is supported by grant K12 HS023000&#x02010;01 from the Agency for Healthcare Research and Quality. Dr Desai reports receiving research grant support from Johnson &#x00026; Johnson, through Yale University. Dr Sabatine has received grant support from Abbott Laboratories, Amgen, AstraZeneca, Critical Diagnostics, Daiichi&#x02010;Sankyo, Eisai, Gilead, GSK, Intarcia, Merck, Roche Diagnostics, Sanofi&#x02010;Aventis, Novartis, Poxel and Takeda. In addition, he has received consulting fees from Alnylam, Amgen, AstraZeneca, Cubist, CVS Caremark, Intarcia, and Merck. Ms Murphy, Dr Sherwood, and Dr Gerszten have no relevant financial disclosures.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Table&#x000a0;S1.</bold> Baseline Characteristics for Patients in the Biomarker Substudy of CLARITY&#x02010;TIMI 28</p><p>
+<bold>Table&#x000a0;S2.</bold> Baseline Characteristics by NT&#x02010;proBNP Quartile at Baseline</p><p>
+<bold>Table&#x000a0;S3.</bold> Baseline Characteristics by Quartile of ANP at Baseline</p><p>
+<bold>Table&#x000a0;S4.</bold> Baseline Characteristics by ST2 Quartile at Baseline</p><p>
+<bold>Table&#x000a0;S5.</bold> Baseline Characteristics by Galectin&#x02010;3 Quartile at Baseline</p><p>
+<bold>Table&#x000a0;S6.</bold> Baseline Characteristics by MR&#x02010;pro ADM Quartile at Baseline</p><p>
+<bold>Table&#x000a0;S7.</bold> Baseline Characteristics by Copeptin Quartile at Baseline</p><p>
+<bold>Table&#x000a0;S8.</bold> Baseline Characteristics by MPO Quartile at Baseline</p><p>
+<bold>Table&#x000a0;S9.</bold> Baseline Characteristics by hsCRP Quartile at Baseline</p><p>
+<bold>Table&#x000a0;S10.</bold> Baseline Characteristics by PAPP&#x02010;A Quartile at Baseline</p><p>
+<bold>Table&#x000a0;S11.</bold> Baseline Characteristics by GDF&#x02010;15 Quartile at Baseline Among</p><p>
+<bold>Table&#x000a0;S12.</bold> Baseline Characteristics by Troponin T Quantile at Baseline</p><p>
+<bold>Table&#x000a0;S13.</bold> The Association Between Each Candidate Marker Individually and the Odds of CV Death at 30&#x000a0;Days After Multivariable Adjustment</p><p>
+<bold>Table&#x000a0;S14.</bold> The Association Between Each Candidate Marker Individually and the Odds of Heart Failure at 30&#x000a0;Days After Multivariable Adjustment</p><p>
+<bold>Table&#x000a0;S15.</bold> The Association Between Each Candidate Marker Individually and the Odds of MI at 30&#x000a0;Days After Multivariable Adjustment</p><p>
+<bold>Table&#x000a0;S16.</bold> The Association Between Each Candidate Marker Individually and the Odds of Recurrent Ischemia Requiring Urgent Revascularization at 30&#x000a0;Days After Multivariable Adjustment</p><p>
+<bold>Table&#x000a0;S17.</bold> The Association Between Each Candidate Marker Individually and the Odds of TIMI Flow Grade 0 or 1 at Angiography After Multivariable Adjustment</p><p>
+<bold>Table&#x000a0;S18.</bold> The Association Between ST2, Troponin T and MPO and the Odds of CV Death or HF at 30&#x000a0;Days After Multivariable Adjustment Including Left Ventricular Ejection Fraction (LVEF) in the 515 Subjects in Whom LVEF was Available</p></caption><media xlink:href="JAH3-5-e002586-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list content-type="cited-references" id="jah31480-bibl-0001"><title>References</title><ref id="jah31480-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah31480-cit-0001">
+<string-name>
+<surname>Morrow</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Rifai</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Antman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Weiner</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>McCabe</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Braunwald</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>C&#x02010;reactive protein is a potent predictor of mortality independently and in combination with troponin T in acute coronary syndromes: a TIMI 11A substudy</article-title>. <source>J Am Coll Cardiol</source>. <year>1998</year>;<volume>31</volume>:<fpage>1460</fpage>&#x02013;<lpage>1465</lpage>.<pub-id pub-id-type="pmid">9626820</pub-id></mixed-citation></ref><ref id="jah31480-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah31480-cit-0002">
+<string-name>
+<surname>Lindahl</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Toss</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Siegbahn</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Venge</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wallentin</surname>
+<given-names>L</given-names>
+</string-name>; <collab collab-type="authors">for the FRISC Study Group</collab>
+. <article-title>Fragmin during instability in coronary artery disease. Markers of myocardial damage and inflammation in relation to long&#x02010;term mortality in unstable coronary artery disease</article-title>. <source>N Engl J Med</source>. <year>2000</year>;<volume>343</volume>:<fpage>1139</fpage>&#x02013;<lpage>1147</lpage>.<pub-id pub-id-type="pmid">11036119</pub-id></mixed-citation></ref><ref id="jah31480-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah31480-cit-0003">
+<string-name>
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Morrow</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>de Lemos</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Rifai</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>McCabe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Antman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Braunwald</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Multimarker approach to risk stratification in non&#x02010;ST elevation acute coronary syndromes: simultaneous assessment of troponin I, C&#x02010;reactive protein, and B&#x02010;type natriuretic peptide</article-title>. <source>Circulation</source>. <year>2002</year>;<volume>105</volume>:<fpage>1760</fpage>&#x02013;<lpage>1763</lpage>.<pub-id pub-id-type="pmid">11956114</pub-id></mixed-citation></ref><ref id="jah31480-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah31480-cit-0004">
+<string-name>
+<surname>James</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Lindahl</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Siegbahn</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Stridsberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Venge</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Armstrong</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Barnathan</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Califf</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Topol</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Simoons</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Wallentin</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>N&#x02010;terminal pro&#x02010;brain natriuretic peptide and other risk markers for the separate prediction of mortality and subsequent myocardial infarction in patients with unstable coronary artery disease: a Global Utilization of Strategies To Open occluded arteries (GUSTO)&#x02010;IV substudy</article-title>. <source>Circulation</source>. <year>2003</year>;<volume>108</volume>:<fpage>275</fpage>&#x02013;<lpage>281</lpage>.<pub-id pub-id-type="pmid">12847065</pub-id></mixed-citation></ref><ref id="jah31480-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah31480-cit-0005">
+<string-name>
+<surname>Tello&#x02010;Montoliu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Marin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Roldan</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Mainar</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Sogorb</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Vicente</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>. <article-title>A multimarker risk stratification approach to non&#x02010;ST elevation acute coronary syndrome: implications of troponin T, CRP, NT pro&#x02010;BNP and fibrin D&#x02010;dimer levels</article-title>. <source>J Intern Med</source>. <year>2007</year>;<volume>262</volume>:<fpage>651</fpage>&#x02013;<lpage>658</lpage>.<pub-id pub-id-type="pmid">17986200</pub-id></mixed-citation></ref><ref id="jah31480-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah31480-cit-0006">
+<string-name>
+<surname>Oemrawsingh</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Lenderink</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Akkerhuis</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Heeschen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Baldus</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fichtlscherer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hamm</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Simoons</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Boersma</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Multimarker risk model containing troponin&#x02010;T, interleukin 10, myeloperoxidase and placental growth factor predicts long&#x02010;term cardiovascular risk after non&#x02010;ST&#x02010;segment elevation acute coronary syndrome</article-title>. <source>Heart</source>. <year>2011</year>;<volume>97</volume>:<fpage>1061</fpage>&#x02013;<lpage>1066</lpage>.<pub-id pub-id-type="pmid">21558475</pub-id></mixed-citation></ref><ref id="jah31480-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah31480-cit-0007">
+<string-name>
+<surname>Vieira</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nabais</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ramos</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Braga</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gaspar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Azevedo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Alvares Pereira</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Salome</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Correia</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Multimarker approach with cystatin C, N&#x02010;terminal pro&#x02010;brain natriuretic peptide, C&#x02010;reactive protein and red blood cell distribution width in risk stratification of patients with acute coronary syndromes</article-title>. <source>Rev Port Cardiol</source>. <year>2014</year>;<volume>33</volume>:<fpage>127</fpage>&#x02013;<lpage>136</lpage>.<pub-id pub-id-type="pmid">24674467</pub-id></mixed-citation></ref><ref id="jah31480-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah31480-cit-0008">
+<string-name>
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>McCabe</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>. <article-title>Design and rationale of clopidogrel as adjunctive reperfusion therapy (CLARITY)&#x02014;thrombolysis in myocardial infarction (TIMI) 28 trial</article-title>. <source>Am Heart J</source>. <year>2005</year>;<volume>149</volume>:<fpage>227</fpage>&#x02013;<lpage>233</lpage>.<pub-id pub-id-type="pmid">15846259</pub-id></mixed-citation></ref><ref id="jah31480-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah31480-cit-0009">
+<string-name>
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Sendon</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Montalescot</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Theroux</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Claeys</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Cools</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Skene</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>McCabe</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Braunwald</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Addition of clopidogrel to aspirin and fibrinolytic therapy for myocardial infarction with ST&#x02010;segment elevation</article-title>. <source>N Engl J Med</source>. <year>2005</year>;<volume>352</volume>:<fpage>1179</fpage>&#x02013;<lpage>1189</lpage>.<pub-id pub-id-type="pmid">15758000</pub-id></mixed-citation></ref><ref id="jah31480-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah31480-cit-0010">
+<string-name>
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Morrow</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Higgins</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>MacGillivray</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Bode</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rifai</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Gerszten</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>RT</given-names>
+</string-name>. <article-title>Complementary roles for biomarkers of biomechanical strain ST2 and N&#x02010;terminal prohormone B&#x02010;type natriuretic peptide in patients with ST&#x02010;elevation myocardial infarction</article-title>. <source>Circulation</source>. <year>2008</year>;<volume>117</volume>:<fpage>1936</fpage>&#x02013;<lpage>1944</lpage>.<pub-id pub-id-type="pmid">18378613</pub-id></mixed-citation></ref><ref id="jah31480-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah31480-cit-0011">
+<string-name>
+<surname>Morrow</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Antman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Charlesworth</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cairns</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>de Lemos</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Giugliano</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>McCabe</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Braunwald</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>TIMI risk score for ST&#x02010;elevation myocardial infarction: a convenient, bedside, clinical score for risk assessment at presentation: an intravenous nPA for treatment of infarcting myocardium early II trial substudy</article-title>. <source>Circulation</source>. <year>2000</year>;<volume>102</volume>:<fpage>2031</fpage>&#x02013;<lpage>2037</lpage>.<pub-id pub-id-type="pmid">11044416</pub-id></mixed-citation></ref><ref id="jah31480-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah31480-cit-0012">
+<string-name>
+<surname>Eagle</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Dabbous</surname>
+<given-names>OH</given-names>
+</string-name>, <string-name>
+<surname>Pieper</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Van de Werf</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Goodman</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Gore</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Budaj</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Avezum</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Flather</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>A validated prediction model for all forms of acute coronary syndrome: estimating the risk of 6&#x02010;month postdischarge death in an international registry</article-title>. <source>JAMA</source>. <year>2004</year>;<volume>291</volume>:<fpage>2727</fpage>&#x02013;<lpage>2733</lpage>.<pub-id pub-id-type="pmid">15187054</pub-id></mixed-citation></ref><ref id="jah31480-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah31480-cit-0013">
+<string-name>
+<surname>Pencina</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>D'Agostino</surname>
+<given-names>RB</given-names>
+<suffix>Sr</suffix>
+</string-name>, <string-name>
+<surname>Steyerberg</surname>
+<given-names>EW</given-names>
+</string-name>. <article-title>Extensions of net reclassification improvement calculations to measure usefulness of new biomarkers</article-title>. <source>Stat Med</source>. <year>2011</year>;<volume>30</volume>:<fpage>11</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">21204120</pub-id></mixed-citation></ref><ref id="jah31480-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah31480-cit-0014">
+<string-name>
+<surname>DeLong</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>DeLong</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Clarke&#x02010;Pearson</surname>
+<given-names>DL</given-names>
+</string-name>. <article-title>Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach</article-title>. <source>Biometrics</source>. <year>1988</year>;<volume>44</volume>:<fpage>837</fpage>&#x02013;<lpage>845</lpage>.<pub-id pub-id-type="pmid">3203132</pub-id></mixed-citation></ref><ref id="jah31480-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah31480-cit-0015">
+<string-name>
+<surname>Suter</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>SX</given-names>
+</string-name>, <string-name>
+<surname>Grady</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Bhat</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Turkmani</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Spivack</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Lindenauer</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Merrill</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Drye</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Krumholz</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Bernheim</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>National patterns of risk&#x02010;standardized mortality and readmission after hospitalization for acute myocardial infarction, heart failure, and pneumonia: update on publicly reported outcomes measures based on the 2013 release</article-title>. <source>J Gen Intern Med</source>. <year>2014</year>;<volume>29</volume>:<fpage>1333</fpage>&#x02013;<lpage>1340</lpage>.<pub-id pub-id-type="pmid">24825244</pub-id></mixed-citation></ref><ref id="jah31480-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah31480-cit-0016">
+<string-name>
+<surname>Morrow</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>de Lemos</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Benchmarks for the assessment of novel cardiovascular biomarkers</article-title>. <source>Circulation</source>. <year>2007</year>;<volume>115</volume>:<fpage>949</fpage>&#x02013;<lpage>952</lpage>.<pub-id pub-id-type="pmid">17325253</pub-id></mixed-citation></ref><ref id="jah31480-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah31480-cit-0017">
+<string-name>
+<surname>Antman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Tanasijevic</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Schactman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McCabe</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Fung</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wybenga</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Braunwald</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Cardiac&#x02010;specific troponin I levels to predict the risk of mortality in patients with acute coronary syndromes</article-title>. <source>N Engl J Med</source>. <year>1996</year>;<volume>335</volume>:<fpage>1342</fpage>&#x02013;<lpage>1349</lpage>.<pub-id pub-id-type="pmid">8857017</pub-id></mixed-citation></ref><ref id="jah31480-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah31480-cit-0018">
+<string-name>
+<surname>Ravkilde</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nissen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Horder</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thygesen</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Independent prognostic value of serum creatine kinase isoenzyme MB mass, cardiac troponin T and myosin light chain levels in suspected acute myocardial infarction. Analysis of 28&#x000a0;months of follow&#x02010;up in 196 patients</article-title>. <source>J Am Coll Cardiol</source>. <year>1995</year>;<volume>25</volume>:<fpage>574</fpage>&#x02013;<lpage>581</lpage>.<pub-id pub-id-type="pmid">7860899</pub-id></mixed-citation></ref><ref id="jah31480-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah31480-cit-0019">
+<string-name>
+<surname>Ohman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Armstrong</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Christenson</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Katus</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Hamm</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>O'Hanesian</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Kleiman</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Harrell</surname>
+<given-names>FE</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Califf</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Topol</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Cardiac troponin T levels for risk stratification in acute myocardial ischemia. GUSTO IIA Investigators</article-title>. <source>N Engl J Med</source>. <year>1996</year>;<volume>335</volume>:<fpage>1333</fpage>&#x02013;<lpage>1341</lpage>.<pub-id pub-id-type="pmid">8857016</pub-id></mixed-citation></ref><ref id="jah31480-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah31480-cit-0020">
+<string-name>
+<surname>Stubbs</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Collinson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Moseley</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Greenwood</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Noble</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Prospective study of the role of cardiac troponin T in patients admitted with unstable angina</article-title>. <source>BMJ</source>. <year>1996</year>;<volume>313</volume>:<fpage>262</fpage>&#x02013;<lpage>264</lpage>.<pub-id pub-id-type="pmid">8704534</pub-id></mixed-citation></ref><ref id="jah31480-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah31480-cit-0021">
+<string-name>
+<surname>Pettijohn</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Doyle</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Spiekerman</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Watson</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Riggs</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Lawrence</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>Usefulness of positive troponin&#x02010;T and negative creatine kinase levels in identifying high&#x02010;risk patients with unstable angina pectoris</article-title>. <source>Am J Cardiol</source>. <year>1997</year>;<volume>80</volume>:<fpage>510</fpage>&#x02013;<lpage>511</lpage>.<pub-id pub-id-type="pmid">9285668</pub-id></mixed-citation></ref><ref id="jah31480-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah31480-cit-0022">
+<string-name>
+<surname>Heidenreich</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Alloggiamento</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Melsop</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Go</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Hlatky</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>The prognostic value of troponin in patients with non&#x02010;ST elevation acute coronary syndromes: a meta&#x02010;analysis</article-title>. <source>J Am Coll Cardiol</source>. <year>2001</year>;<volume>38</volume>:<fpage>478</fpage>&#x02013;<lpage>485</lpage>.<pub-id pub-id-type="pmid">11499741</pub-id></mixed-citation></ref><ref id="jah31480-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah31480-cit-0023">
+<string-name>
+<surname>Vasile</surname>
+<given-names>VC</given-names>
+</string-name>, <string-name>
+<surname>Babuin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Giannitsis</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Katus</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Relationship of MRI&#x02010;determined infarct size and cTnI measurements in patients with ST&#x02010;elevation myocardial infarction</article-title>. <source>Clin Chem</source>. <year>2008</year>;<volume>54</volume>:<fpage>617</fpage>&#x02013;<lpage>619</lpage>.<pub-id pub-id-type="pmid">18310155</pub-id></mixed-citation></ref><ref id="jah31480-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah31480-cit-0024">
+<string-name>
+<surname>Feng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schaus</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Fallavollita</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Canty</surname>
+<given-names>JM</given-names>
+<suffix>Jr</suffix>
+</string-name>. <article-title>Preload induces troponin I degradation independently of myocardial ischemia</article-title>. <source>Circulation</source>. <year>2001</year>;<volume>103</volume>:<fpage>2035</fpage>&#x02013;<lpage>2037</lpage>.<pub-id pub-id-type="pmid">11319190</pub-id></mixed-citation></ref><ref id="jah31480-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah31480-cit-0025">
+<string-name>
+<surname>Weinberg</surname>
+<given-names>EO</given-names>
+</string-name>, <string-name>
+<surname>Shimpo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>De Keulenaer</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>MacGillivray</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tominaga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Solomon</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Rouleau</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>RT</given-names>
+</string-name>. <article-title>Expression and regulation of ST2, an interleukin&#x02010;1 receptor family member, in cardiomyocytes and myocardial infarction</article-title>. <source>Circulation</source>. <year>2002</year>;<volume>106</volume>:<fpage>2961</fpage>&#x02013;<lpage>2966</lpage>.<pub-id pub-id-type="pmid">12460879</pub-id></mixed-citation></ref><ref id="jah31480-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah31480-cit-0026">
+<string-name>
+<surname>Kohli</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bonaca</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Kakkar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kudinova</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Scirica</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Braunwald</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>RT</given-names>
+</string-name>, <string-name>
+<surname>Morrow</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Role of ST2 in non&#x02010;ST&#x02010;elevation acute coronary syndrome in the MERLIN&#x02010;TIMI 36 trial</article-title>. <source>Clin Chem</source>. <year>2012</year>;<volume>58</volume>:<fpage>257</fpage>&#x02013;<lpage>266</lpage>.<pub-id pub-id-type="pmid">22096031</pub-id></mixed-citation></ref><ref id="jah31480-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah31480-cit-0027">
+<string-name>
+<surname>Morrow</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Brennan</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>de Lemos</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Ruff</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Rifai</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Hazen</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>Concurrent evaluation of novel cardiac biomarkers in acute coronary syndrome: myeloperoxidase and soluble CD40 ligand and the risk of recurrent ischaemic events in TACTICS&#x02010;TIMI 18</article-title>. <source>Eur Heart J</source>. <year>2008</year>;<volume>29</volume>:<fpage>1096</fpage>&#x02013;<lpage>1102</lpage>.<pub-id pub-id-type="pmid">18339606</pub-id></mixed-citation></ref><ref id="jah31480-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah31480-cit-0028">
+<string-name>
+<surname>Libby</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Inflammation in atherosclerosis</article-title>. <source>Nature</source>. <year>2002</year>;<volume>420</volume>:<fpage>868</fpage>&#x02013;<lpage>874</lpage>.<pub-id pub-id-type="pmid">12490960</pub-id></mixed-citation></ref><ref id="jah31480-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah31480-cit-0029">
+<string-name>
+<surname>Morrow</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Appraisal of myeloperoxidase for evaluation of patients with suspected acute coronary syndromes</article-title>. <source>J Am Coll Cardiol</source>. <year>2007</year>;<volume>49</volume>:<fpage>2001</fpage>&#x02013;<lpage>2002</lpage>.<pub-id pub-id-type="pmid">17512354</pub-id></mixed-citation></ref><ref id="jah31480-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah31480-cit-0030">
+<string-name>
+<surname>Baldus</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Heeschen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Meinertz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zeiher</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Eiserich</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Munzel</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Simoons</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Hamm</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>Myeloperoxidase serum levels predict risk in patients with acute coronary syndromes</article-title>. <source>Circulation</source>. <year>2003</year>;<volume>108</volume>:<fpage>1440</fpage>&#x02013;<lpage>1445</lpage>.<pub-id pub-id-type="pmid">12952835</pub-id></mixed-citation></ref><ref id="jah31480-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah31480-cit-0031">
+<string-name>
+<surname>Cavusoglu</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ruwende</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Eng</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chopra</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Yanamadala</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name>
+<surname>Pinsky</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Marmur</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>Usefulness of baseline plasma myeloperoxidase levels as an independent predictor of myocardial infarction at two years in patients presenting with acute coronary syndrome</article-title>. <source>Am J Cardiol</source>. <year>2007</year>;<volume>99</volume>:<fpage>1364</fpage>&#x02013;<lpage>1368</lpage>.<pub-id pub-id-type="pmid">17493461</pub-id></mixed-citation></ref><ref id="jah31480-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah31480-cit-0032">
+<string-name>
+<surname>Mocatta</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Pilbrow</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Senthilmohan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Frampton</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Winterbourn</surname>
+<given-names>CC</given-names>
+</string-name>. <article-title>Plasma concentrations of myeloperoxidase predict mortality after myocardial infarction</article-title>. <source>J Am Coll Cardiol</source>. <year>2007</year>;<volume>49</volume>:<fpage>1993</fpage>&#x02013;<lpage>2000</lpage>.<pub-id pub-id-type="pmid">17512353</pub-id></mixed-citation></ref><ref id="jah31480-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah31480-cit-0033">
+<string-name>
+<surname>Shih</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Datwyler</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Matias</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Pacenti</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Lueders</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Danne</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Mockel</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Effect of collection tube type and preanalytical handling on myeloperoxidase concentrations</article-title>. <source>Clin Chem</source>. <year>2008</year>;<volume>54</volume>:<fpage>1076</fpage>&#x02013;<lpage>1079</lpage>.<pub-id pub-id-type="pmid">18509013</pub-id></mixed-citation></ref><ref id="jah31480-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah31480-cit-0034">
+<string-name>
+<surname>Baldus</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rudolph</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Roiss</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>WD</given-names>
+</string-name>, <string-name>
+<surname>Rudolph</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Eiserich</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Sydow</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lau</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Szocs</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Klinke</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kubala</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Berglund</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Schrepfer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Deuse</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Haddad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Risius</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Klemm</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Reichenspurner</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Meinertz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Heitzer</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Heparins increase endothelial nitric oxide bioavailability by liberating vessel&#x02010;immobilized myeloperoxidase</article-title>. <source>Circulation</source>. <year>2006</year>;<volume>113</volume>:<fpage>1871</fpage>&#x02013;<lpage>1878</lpage>.<pub-id pub-id-type="pmid">16606792</pub-id></mixed-citation></ref></ref-list></back></article>

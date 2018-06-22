@@ -1,0 +1,706 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22022472</article-id><article-id pub-id-type="pmc">3192127</article-id><article-id pub-id-type="publisher-id">PONE-D-11-10674</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0025929</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Anatomy and Physiology</subject><subj-group><subject>Digestive System</subject><subj-group><subject>Digestive Physiology</subject><subj-group><subject>Digestive Regulation</subject></subj-group></subj-group></subj-group><subj-group><subject>Physiological Processes</subject><subj-group><subject>Energy Metabolism</subject></subj-group></subj-group></subj-group><subj-group><subject>Biochemistry</subject><subj-group><subject>Glycobiology</subject><subj-group><subject>Carbohydrates</subject></subj-group></subj-group><subj-group><subject>Metabolism</subject><subj-group><subject>Carbohydrate Metabolism</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Anatomy and Physiology</subject><subj-group><subject>Digestive System</subject><subj-group><subject>Digestive Physiology</subject><subj-group><subject>Digestive Regulation</subject></subj-group></subj-group></subj-group><subj-group><subject>Physiological Processes</subject><subj-group><subject>Energy Metabolism</subject></subj-group></subj-group></subj-group><subj-group><subject>Mental Health</subject><subj-group><subject>Psychology</subject><subj-group><subject>Behavior</subject></subj-group></subj-group></subj-group><subj-group><subject>Metabolic Disorders</subject></subj-group><subj-group><subject>Nutrition</subject><subj-group><subject>Obesity</subject></subj-group></subj-group><subj-group><subject>Public Health</subject><subj-group><subject>Behavioral and Social Aspects of Health</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Social and Behavioral Sciences</subject><subj-group><subject>Psychology</subject><subj-group><subject>Behavior</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Testing Protein Leverage in Lean Humans: A Randomised Controlled Experimental Study</article-title><alt-title alt-title-type="running-head">Protein Leveraging in Humans</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Gosby</surname><given-names>Alison K.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Conigrave</surname><given-names>Arthur D.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lau</surname><given-names>Namson S.</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Iglesias</surname><given-names>Miguel A.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="fn1">
+<sup>&#x000a4;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hall</surname><given-names>Rosemary M.</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Jebb</surname><given-names>Susan A.</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Brand-Miller</surname><given-names>Jennie</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Caterson</surname><given-names>Ian D.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Raubenheimer</surname><given-names>David</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Simpson</surname><given-names>Stephen J.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>School of Biological Sciences, The University of Sydney, Sydney, Australia</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>School of Molecular Bioscience, The University of Sydney, Sydney, Australia</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Boden Institute of Obesity, Nutrition and Exercise, University of Sydney, Sydney, Australia</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Medical Research Council, Human Nutrition Research, Cambridge, United Kingdom</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Institute for Natural Sciences, Massey University, Auckland, New Zealand</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Morrison</surname><given-names>Christopher</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Pennington Biomedical Research Center, United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>alison.gosby@sydney.edu.au</email> (AKG); <email>stephen.simpson@sydney.edu.au</email> (SJS)</corresp><fn fn-type="con"><p>Conceived and designed the experiments: AKG ADC RMH SAJ JBM IDC DR SJS. Performed the experiments: AKG NSL MAI. Analyzed the data: AKG SJS. Wrote the paper: AKG SJS. Edited the manuscript: AKG ADC NSL MAI RMH SAJ JBM IDC DR SJS.</p></fn><fn id="fn1" fn-type="current-aff"><label>&#x000a4;</label><p>Current address: School of Medical Sciences, The University of Sydney, Sydney, Australia</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>12</day><month>10</month><year>2011</year></pub-date><volume>6</volume><issue>10</issue><elocation-id>e25929</elocation-id><history><date date-type="received"><day>25</day><month>5</month><year>2011</year></date><date date-type="accepted"><day>13</day><month>9</month><year>2011</year></date></history><permissions><copyright-statement>Gosby et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><p>A significant contributor to the rising rates of human obesity is an increase in energy intake. The &#x02018;protein leverage hypothesis&#x02019; proposes that a dominant appetite for protein in conjunction with a decline in the ratio of protein to fat and carbohydrate in the diet drives excess energy intake and could therefore promote the development of obesity. Our aim was to test the &#x02018;protein leverage hypothesis&#x02019; in lean humans by disguising the macronutrient composition of foods offered to subjects under <italic>ad libitum</italic> feeding conditions. Energy intakes and hunger ratings were measured for 22 lean subjects studied over three 4-day periods of in-house dietary manipulation. Subjects were restricted to fixed menus in random order comprising 28 foods designed to be similar in palatability, availability, variety and sensory quality and providing 10&#x00025;, 15&#x00025; or 25&#x00025; energy as protein. Nutrient and energy intake was calculated as the product of the amount of each food eaten and its composition. Lowering the percent protein of the diet from 15&#x00025; to 10&#x00025; resulted in higher (&#x0002b;12&#x000b1;4.5&#x00025;, p&#x0200a;=&#x0200a;0.02) total energy intake, predominantly from savoury-flavoured foods available between meals. This increased energy intake was not sufficient to maintain protein intake constant, indicating that protein leverage is incomplete. Urinary urea on the 10&#x00025; and 15&#x00025; protein diets did not differ statistically, nor did they differ from habitual values prior to the study. In contrast, increasing protein from 15&#x00025; to 25&#x00025; did not alter energy intake. On the fourth day of the trial, however, there was a greater increase in the hunger score between 1&#x02013;2 h after the 10&#x00025; protein breakfast versus the 25&#x00025; protein breakfast (1.6&#x000b1;0.4 <italic>vs</italic> 25&#x00025;: 0.5&#x000b1;0.3, p&#x0200a;=&#x0200a;0.005). In our study population a change in the nutritional environment that dilutes dietary protein with carbohydrate and fat promotes overconsumption, enhancing the risk for potential weight gain.</p></abstract><counts><page-count count="11"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Increased energy intake is a significant contributor to the rising rates of human obesity <xref rid="pone.0025929-Swinburn1" ref-type="bibr">[1]</xref> and an important priority is thus to understand the factors underlying this shift. It has been proposed that a change in the ratio of protein to fat and carbohydrate in the diet may play a central role in increased energy intake &#x02013; the &#x02018;protein leverage hypothesis&#x02019; (PLH) <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>, <xref rid="pone.0025929-Simpson2" ref-type="bibr">[3]</xref>. The role of dietary protein in the emerging obesity epidemic has, however, until recently largely been ignored. This is partly because protein provides only a minor component of the dietary energy for humans (typically around 15&#x00025;) and also because its intake has remained far more constant over time and across populations than either fat or carbohydrate <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>, <xref rid="pone.0025929-WesterterpPlantenga1" ref-type="bibr">[4]</xref>. However, rather than indicating that protein has played little role in the rising prevalence of obesity over recent decades, the relative constancy of protein intake may, in fact, offer a key to understanding the dietary causes of excess energy intake and obesity <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>. Simpson and Raubenheimer <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref> used data from the FAOSTAT <xref rid="pone.0025929-FAOSTAT1" ref-type="bibr">[5]</xref> nutrient-supply database to show that an estimated decrease in percent dietary protein from 14&#x00025; to 12.5&#x00025; between 1961 and 2000 in the USA was associated with a 14&#x00025; increase in non-protein energy intake, with absolute protein intake remaining almost constant. A recent analysis of The National Health and Nutrition Examination Survey are consistent with this conclusion, showing that a drop in percent dietary protein across the period from 1971 to 2006 has been associated with an increase in total energy intake <xref rid="pone.0025929-Austin1" ref-type="bibr">[6]</xref>. Experimental data suggest that the response of humans when faced with imbalanced diets is to prioritize the absolute intake of protein to a &#x02018;target&#x02019; level at the expense of regulating fat and carbohydrate intake <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>, <xref rid="pone.0025929-Simpson2" ref-type="bibr">[3]</xref>, <xref rid="pone.0025929-Austin1" ref-type="bibr">[6]</xref>, <xref rid="pone.0025929-Larsen1" ref-type="bibr">[7]</xref>. Such &#x02018;protein leverage&#x02019; <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref> has been demonstrated in numerous other species, including non-human primates <xref rid="pone.0025929-Felton1" ref-type="bibr">[8]</xref>, pigs <xref rid="pone.0025929-Kyriazakis1" ref-type="bibr">[9]</xref>, <xref rid="pone.0025929-Webster1" ref-type="bibr">[10]</xref>, rodents <xref rid="pone.0025929-Webster1" ref-type="bibr">[10]</xref>, <xref rid="pone.0025929-Srensen1" ref-type="bibr">[11]</xref>, birds <xref rid="pone.0025929-Shariatmadari1" ref-type="bibr">[12]</xref>, fish <xref rid="pone.0025929-Raubenheimer1" ref-type="bibr">[13]</xref> and insects <xref rid="pone.0025929-Raubenheimer2" ref-type="bibr">[14]</xref>. The strength of protein regulation (i.e. the extent of protein leverage) varies between species, but in all these animals when the percentage of protein in the diet is lowered, total energy intake increases in an effort to maintain constant protein intake. The most extreme example of protein leverage reported to date comes from free-ranging spider monkeys <xref rid="pone.0025929-Felton1" ref-type="bibr">[8]</xref>, in which protein intake was maintained constant across a wide range of &#x00025; protein diets; whereas in mice protein compensation is partial due to counterbalancing feedbacks from carbohydrate <xref rid="pone.0025929-Srensen1" ref-type="bibr">[11]</xref>.</p><p>If the PLH is true for humans, the implications are substantial: a shift towards dilution of protein in the diet by fat and carbohydrate encouraged by economic pressures <xref rid="pone.0025929-Brooks1" ref-type="bibr">[15]</xref>, increased reliance on cheap fats and sugar, and an ancestral tendency to find fat and sugar highly palatable <xref rid="pone.0025929-Eaton1" ref-type="bibr">[16]</xref>, <xref rid="pone.0025929-Cordain1" ref-type="bibr">[17]</xref> will drive excess energy intake. This will be exacerbated by reduced energy expenditure without a commensurate increase in the proportion of protein in the diet <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>. Excess energy intake predisposes towards obesity which in turn instigates a vicious metabolic cycle, whereby elevated circulating levels of free fatty acids and developing insulin resistance disinhibit protein catabolism and hepatic gluconeogenesis, requiring increased protein intake to maintain muscle mass and amino acid pools. This then drives over-consumption of low-protein diets <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>. Consistent with this, attempts to lose weight are impeded by a reduction in percent dietary protein <xref rid="pone.0025929-Larsen1" ref-type="bibr">[7]</xref>.</p><p>Our aim in the present study was to test the predictions of the PLH while controlling for two key confounding factors inherent in previous studies; that changing percent dietary protein typically involves concurrent changes in both food palatability and variety <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>, <xref rid="pone.0025929-Weigle1" ref-type="bibr">[18]</xref>&#x02013;<xref rid="pone.0025929-Due2" ref-type="bibr">[21]</xref>. Accordingly, we have used recently developed protocols <xref rid="pone.0025929-Gosby1" ref-type="bibr">[22]</xref> to disguise the macronutrient composition of foods offered to lean subjects, anticipated to have effective appetite regulatory systems. The foods were provided under <italic>ad libitum</italic> feeding conditions and we then measured the effect of manipulating macronutrient balance on energy intake.</p></sec><sec id="s2"><title>Results</title><sec id="s2a"><title>Intake</title><p>Participants consumed an average of 4.34 MJ more energy (a 12&#x00025; increase) over the 4-day period on a 10&#x00025; protein diet than on a 15&#x00025; protein diet (P<sub>10&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0003c;0.0001; <xref ref-type="table" rid="pone-0025929-t001">Table 1</xref>, <xref ref-type="fig" rid="pone-0025929-g001">Figure 1A</xref>; refer to <xref ref-type="supplementary-material" rid="pone.0025929.s001">Figure S1</xref> for individual data points). This increased energy intake on the 10&#x00025; diet was the net result of eating 1.24 MJ less protein energy (a decrease of 3&#x00025; total energy) and 5.59 MJ more carbohydrate and fat (an increase of 15&#x00025; total energy). Participants consumed 1.73&#x000b1;0.08 (10&#x00025; P), 1.55&#x000b1;0.07 (15&#x00025; P) and 1.54&#x000b1;0.07 (25&#x00025;P) times their predicted basal energy requirements based on the Schofield equation, consistent with a light to moderate level of physical activity <xref rid="pone.0025929-Human1" ref-type="bibr">[23]</xref>. That subjects were close to metabolic equilibrium was indicated by estimated habitual protein intakes being similar to protein intakes during the 10&#x00025; and 15&#x00025; treatment periods: there was no difference in total urinary urea excretion prior to and following the 10&#x00025; (p&#x0200a;=&#x0200a;0.1) and 15&#x00025; (p&#x0200a;=&#x0200a;0.6) protein study periods (<xref ref-type="supplementary-material" rid="pone.0025929.s002">Figure S2</xref>). Habitual percent dietary protein was estimated to be approximately 18.6&#x000b1;.0.9, 18.3&#x000b1;1.1 and 18.7&#x000b1;0.7 prior to each 10, 15 and 25&#x00025; study period. The significantly increased total energy intake on the lower-protein diet was evident from the first day of the trial and continued throughout the subsequent 3 days (<xref ref-type="fig" rid="pone-0025929-g001">Figure 1B</xref>). Daily protein and energy intakes were constant and the cumulative increase in energy intake on the 10&#x00025; protein diet remained significant from day-1 through to day-4 of the trial (<xref ref-type="fig" rid="pone-0025929-g001">Figure 1C</xref>). There was no effect of order in which the three treatment regimes (10, 15 or 25&#x00025; protein) were experienced (F(<sub>2, 42</sub>)&#x0200a;=&#x0200a;0.5, P&#x0200a;=&#x0200a;0.6). Fibre, salt and sugar (expressed as percent of intake, by weight) (<xref ref-type="table" rid="pone-0025929-t002">Table 2</xref>) did not correlate with energy intake suggesting that changes in percentage of these nutrients did not play a significant role in driving increased energy intakes (<xref ref-type="table" rid="pone-0025929-t003">Table 3</xref>).</p><fig id="pone-0025929-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.g001</object-id><label>Figure 1</label><caption><title>Lean humans increase energy consumption on a lower percent protein diet.</title><p>(<bold>A</bold>) Cumulative daily bi-coordinate means for protein and non-protein macronutrient (carbohydrate and fat) intake (MJ) for participants during the 4-day 10&#x00025; (white circles), 15&#x00025; (grey triangles) and 25&#x00025; (black squares) <italic>ad libitum</italic> study periods. The dashed lines represent the nutrient rails participants were restricted to during the 10&#x00025;, 15&#x00025; and 25&#x00025; study periods. The dotted lines represent intakes that may occur on the 10&#x00025;, 15&#x00025; and 25&#x00025; foods if intake was regulated to energy requirements (calculated as 1.6&#x000d7; basal energy requirements as derived from the Schofields equation <xref rid="pone.0025929-Human1" ref-type="bibr">[23]</xref> assuming a light to moderate level of physical activity) and that protein and carbohydrate were interchangeable. The inset shows total energy intake (MJ) for participants over the 4-day 10&#x00025; (white), 15&#x00025; (grey) and 25&#x00025; (black) <italic>ad libitum</italic> study periods. The same letter above the bars in the insert indicates that the means did not differ significantly in Bonferroni post hoc comparisons, whereas different letters indicate differences at p&#x0003c;0.05. Refer to <xref ref-type="supplementary-material" rid="pone.0025929.s001">Figure S1</xref> for individual total energy intake data points. (<bold>B</bold>) Daily protein (triangles) and total (circles) intake (MJ) for participants during the 4-day 10&#x00025; (white), 15&#x00025; (grey) and 25&#x00025; (black) <italic>ad libitum</italic> study periods. Intake did not change statistically across days within each treatment. Note that the appearance of an increase in intake (of all nutrients, due to fixed diet compositions) from days 1 to 2 and a decline from day 3 to 4 reflected commencement of the study after breakfast on day 1 and fasting overnight on day 4 in readiness for a meal test on day 5 (data not reported). (<bold>C</bold>) Cumulative protein (triangles) and total (circles) intake (MJ) for participants during the 4-day 10&#x00025; (white), 15&#x00025; (grey) and 25&#x00025; (black) <italic>ad libitum</italic> study periods.</p></caption><graphic xlink:href="pone.0025929.g001"/></fig><table-wrap id="pone-0025929-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.t001</object-id><label>Table 1</label><caption><title>Total energy and nutrient intakes over the 4-day 10&#x00025;, 15&#x00025; and 25&#x00025; protein <italic>ad-libitum</italic> study periods.</title></caption><alternatives><graphic id="pone-0025929-t001-1" xlink:href="pone.0025929.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">10&#x00025;</td><td align="left" rowspan="1" colspan="1">15&#x00025;</td><td align="left" rowspan="1" colspan="1">25&#x00025;</td><td align="left" rowspan="1" colspan="1">df</td><td align="left" rowspan="1" colspan="1">F-value</td><td align="left" rowspan="1" colspan="1">P-value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>energy (MJ)</bold>
+</td><td align="left" rowspan="1" colspan="1">41.45&#x000b1;2.43</td><td align="left" rowspan="1" colspan="1">37.11&#x000b1;2.08<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">37.07&#x000b1;2.16<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">2,42</td><td align="left" rowspan="1" colspan="1">6.73</td><td align="left" rowspan="1" colspan="1">0.002<xref ref-type="table-fn" rid="nt102">&#x0002a;</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>protein (MJ)</bold>
+</td><td align="left" rowspan="1" colspan="1">4.46&#x000b1;0.25</td><td align="left" rowspan="1" colspan="1">5.70&#x000b1;0.31<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">9.23&#x000b1;0.53<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+<xref ref-type="table-fn" rid="nt104">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">2,42</td><td align="left" rowspan="1" colspan="1">125.56</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001<xref ref-type="table-fn" rid="nt102">&#x0002a;</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>non-protein (MJ)</bold>
+</td><td align="left" rowspan="1" colspan="1">37.00&#x000b1;2.19</td><td align="left" rowspan="1" colspan="1">31.41&#x000b1;1.78<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">27.84&#x000b1;1.63<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+<xref ref-type="table-fn" rid="nt104">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">2.42</td><td align="left" rowspan="1" colspan="1">29.17</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001<xref ref-type="table-fn" rid="nt102">&#x0002a;</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>fat (MJ)</bold>
+</td><td align="left" rowspan="1" colspan="1">12.00&#x000b1;0.72</td><td align="left" rowspan="1" colspan="1">10.77&#x000b1;0.62<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">10.87&#x000b1;0.64<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">2,42</td><td align="left" rowspan="1" colspan="1">5.97</td><td align="left" rowspan="1" colspan="1">0.004<xref ref-type="table-fn" rid="nt102">&#x0002a;</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>carbohydrate (MJ)</bold>
+</td><td align="left" rowspan="1" colspan="1">24.99&#x000b1;1.47</td><td align="left" rowspan="1" colspan="1">20.64&#x000b1;1.16<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">16.97&#x000b1;0.98<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+<xref ref-type="table-fn" rid="nt104">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">2,42</td><td align="left" rowspan="1" colspan="1">43.37</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001<xref ref-type="table-fn" rid="nt102">&#x0002a;</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>sugars (g)</bold>
+</td><td align="left" rowspan="1" colspan="1">449&#x000b1;26</td><td align="left" rowspan="1" colspan="1">469&#x000b1;26</td><td align="left" rowspan="1" colspan="1">468&#x000b1;28</td><td align="left" rowspan="1" colspan="1">2,42</td><td align="left" rowspan="1" colspan="1">0.63</td><td align="left" rowspan="1" colspan="1">0.5</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>fibre (g)</bold>
+</td><td align="left" rowspan="1" colspan="1">97&#x000b1;6</td><td align="left" rowspan="1" colspan="1">85&#x000b1;5<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">79&#x000b1;4<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+<xref ref-type="table-fn" rid="nt104">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">2,42</td><td align="left" rowspan="1" colspan="1">19.39</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>salt (g)</bold>
+</td><td align="left" rowspan="1" colspan="1">12.0&#x000b1;0.8</td><td align="left" rowspan="1" colspan="1">11.9&#x000b1;0.8</td><td align="left" rowspan="1" colspan="1">13.3&#x000b1;0.8<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+<xref ref-type="table-fn" rid="nt104">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">2,42</td><td align="left" rowspan="1" colspan="1">8.96</td><td align="left" rowspan="1" colspan="1">0.0006</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>Values are means &#x000b1; SEM. A one-way within subject ANOVA was used to determine differences between the 10&#x00025;, 15&#x00025; and 25&#x00025; protein study periods.</p></fn><fn id="nt102"><label/><p>&#x0002a;represents Greenhouse-Geiser corrected P-values due to violation of sphericity assumption. Post-hoc analysis was performed using paired t-test with Bonferroni correction.</p></fn><fn id="nt103"><label>&#x02020;</label><p>compared to 10&#x00025;;</p></fn><fn id="nt104"><label>&#x02021;</label><p>compared to 15&#x00025;.</p></fn></table-wrap-foot></table-wrap><table-wrap id="pone-0025929-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.t002</object-id><label>Table 2</label><caption><title>Percent fibre, sugar and salt intakes over each 4-day <italic>ad libitum</italic> periods.</title></caption><alternatives><graphic id="pone-0025929-t002-2" xlink:href="pone.0025929.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">ANOVA</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">10&#x00025;</td><td align="left" rowspan="1" colspan="1">15&#x00025;</td><td align="left" rowspan="1" colspan="1">25&#x00025;</td><td align="left" rowspan="1" colspan="1">df</td><td align="left" rowspan="1" colspan="1">F-value</td><td align="left" rowspan="1" colspan="1">P-value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>fibre (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">1.57&#x000b1;0.03</td><td align="left" rowspan="1" colspan="1">1.50&#x000b1;0.03</td><td align="left" rowspan="1" colspan="1">1.37&#x000b1;0.03<xref ref-type="table-fn" rid="nt106">&#x02020;</xref>
+<xref ref-type="table-fn" rid="nt107">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">2,42</td><td align="left" rowspan="1" colspan="1">37.2</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>sugar (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">7.3&#x000b1;0.2</td><td align="left" rowspan="1" colspan="1">8.3&#x000b1;0.2<xref ref-type="table-fn" rid="nt106">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">8.0&#x000b1;0.2<xref ref-type="table-fn" rid="nt106">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">2,42</td><td align="left" rowspan="1" colspan="1">12.9</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>salt (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.20&#x000b1;0.04</td><td align="left" rowspan="1" colspan="1">0.21&#x000b1;0.01<xref ref-type="table-fn" rid="nt106">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">0.23&#x000b1;0.01<xref ref-type="table-fn" rid="nt106">&#x02020;</xref>
+<xref ref-type="table-fn" rid="nt107">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">2,42</td><td align="left" rowspan="1" colspan="1">19.9</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt105"><label/><p>Fibre, sugar and salt intakes expressed as a percent of weight of food eaten. Values are means &#x000b1; SEM. A one-way within subject ANOVA was used to determine differences between the 10&#x00025;, 15&#x00025; and 25&#x00025; protein study periods. Post-hoc analysis was performed using paired t-test with Bonferroni correction.</p></fn><fn id="nt106"><label>&#x02020;</label><p>P&#x0003c;0.05 compared to 10&#x00025;;</p></fn><fn id="nt107"><label>&#x02021;</label><p>P&#x0003c;0.05 compared to 15&#x00025;.</p></fn></table-wrap-foot></table-wrap><table-wrap id="pone-0025929-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.t003</object-id><label>Table 3</label><caption><title>Effect of percent fibre, sugar and salt intakes on total energy intake.</title></caption><alternatives><graphic id="pone-0025929-t003-3" xlink:href="pone.0025929.t003"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Pearsons</td><td align="left" rowspan="1" colspan="1">df</td><td align="left" rowspan="1" colspan="1">t</td><td align="left" rowspan="1" colspan="1">P-value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>fibre (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;0.14</td><td align="left" rowspan="1" colspan="1">1, 64</td><td align="left" rowspan="1" colspan="1">&#x02212;1.1</td><td align="left" rowspan="1" colspan="1">0.26</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>sugar (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;0.18</td><td align="left" rowspan="1" colspan="1">1, 64</td><td align="left" rowspan="1" colspan="1">&#x02212;1.5</td><td align="left" rowspan="1" colspan="1">0.14</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>salt (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;0.17</td><td align="left" rowspan="1" colspan="1">1, 64</td><td align="left" rowspan="1" colspan="1">&#x02212;1.4</td><td align="left" rowspan="1" colspan="1">0.18</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt108"><label/><p>Fibre, sugar and salt intakes expressed as a percent of weight of food eaten correlated with total energy intake over the 4-day <italic>ad libitum</italic> period.</p></fn></table-wrap-foot></table-wrap><p>Fifty-seven percent of the 4.34 MJ increase in total energy intake between the 15&#x00025; and 10&#x00025; protein diets was due to increased intake of savoury foods (P<sub>15&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.03). Intake of sweet foods contributed the remaining 43&#x00025; of the increase, but the difference was not statistically significant (P<sub>15&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.2). More strikingly, 70&#x00025; of the increase came from foods that were available anytime (P<sub>15&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.02), with the intake of &#x02018;meal-time&#x02019; foods remaining statistically unchanged (P<sub>15&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.26; 30&#x00025; of the total energy difference).</p><p>With an increase from 15&#x00025; to 25&#x00025; protein, participants consumed, on average, 3.53 MJ more protein energy (P<sub>25&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0003c;0.0001) and 3.57 MJ less non-protein energy (P<sub>25&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0003c;0.0001); total energy intake did not differ (P<sub>25&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0200a;=&#x0200a;1.0; <xref ref-type="table" rid="pone-0025929-t001">Table 1</xref>, <xref ref-type="fig" rid="pone-0025929-g001">Figure 1A</xref>; refer to <xref ref-type="supplementary-material" rid="pone.0025929.s001">Figure S1</xref> for individual data points). Hence, whereas reducing dietary protein from 15&#x00025; to 10&#x00025; evoked a significantly increased energy intake, an increase from 15&#x00025; to 25&#x00025; protein did not lead to a reduction in energy intake. This was evident from the first day of the trials and daily intake did not differ throughout the subsequent 3 days (<xref ref-type="fig" rid="pone-0025929-g001">Figure 1B</xref>).</p><p>Although total energy intake during the 15&#x00025; and 25&#x00025; protein periods did not differ, the difference in the patterns of intake seen between the 10&#x00025; and 15&#x00025; protein periods became more pronounced when comparing the 10&#x00025; and 25&#x00025; treatment periods. Thus, increased intake of &#x02018;anytime&#x02019; foods contributed 84&#x00025; of the 4.38 MJ average increase in energy intake between 25&#x00025; and 10&#x00025; protein (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.0003). Participants significantly increased intake of both sweet (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.03) and savoury (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.01) foods (<xref ref-type="fig" rid="pone-0025929-g002">Figure 2A and 2B</xref>), with each contributing 50&#x00025; of the total increase. The percent contribution of &#x02018;anytime&#x02019; savoury foods was greater during the 10&#x00025; protein period (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.002), and the percent contribution of &#x02018;meal-time&#x02019; savoury foods to total intake decreased commensurately (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.01) (<xref ref-type="fig" rid="pone-0025929-g002">Figure 2C</xref>). The percent contribution of &#x02018;anytime&#x02019; (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.1) and &#x02018;meal time&#x02019; (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.7) sweet foods did not differ between the study periods (<xref ref-type="fig" rid="pone-0025929-g002">Figure 2D</xref>).</p><fig id="pone-0025929-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.g002</object-id><label>Figure 2</label><caption><title>Sweet and savoury intake during the 4-day <italic>ad libitum</italic> period.</title><p>Total (triangle), anytime (square) and meal-time (circle) savoury (<bold>A</bold>) and sweet (<bold>B</bold>) intake (MJ) during the 4-day <italic>ad libitum</italic> 10&#x00025; (white), 15&#x00025; (grey) and 25&#x00025; (black) protein study periods. Bi-coordinate means for &#x02018;anytime&#x02019; and &#x02018;meal time&#x02019; savoury (<bold>C</bold>) and sweet (<bold>D</bold>) foods as a percent of total intakes for participants over the 4-day 10&#x00025; (white circles), 15&#x00025; (grey triangles) and 25&#x00025; (black squares) <italic>ad libitum</italic> study periods. Pairwise comparison performed with Bonferroni post hoc comparisons - &#x0002a;&#x0002a;10&#x00025; significantly different to 15&#x00025; and 25&#x00025;, p&#x0003c;0.05; &#x0002a; 10&#x00025; significantly different to 25&#x00025;, p&#x0003c;0.05.</p></caption><graphic xlink:href="pone.0025929.g002"/></fig></sec><sec id="s2b"><title>Subjective hunger and fullness</title><p>Intake at breakfast did not change with an increase in percent dietary protein from 10&#x00025; to 25&#x00025; (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.5), and hence protein intake increased (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0003c;0.0001) and non-protein intake decreased (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.001) (<xref ref-type="table" rid="pone-0025929-t004">Table 4</xref>). This is consistent with the finding that <italic>ad libitum</italic> intake of meal-time only foods does not differ with percent dietary protein. Following breakfast the hunger (<xref ref-type="fig" rid="pone-0025929-g003">Figure 3A</xref>) and fullness (<xref ref-type="fig" rid="pone-0025929-g003">Figure 3D</xref>) scores were unchanged by an increase in percent protein on hunger and fullness ratings taken at 1 h and 2 h with all subjects reporting similarly decreased hunger and increased fullness. However, the increase in hunger from 1 to 2 h was greater following the 10&#x00025; protein breakfast when compared to the 25&#x00025; protein breakfast (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.005) and a similar trend was evident when protein increased from 15 to 25&#x00025; (P<sub>25&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0200a;=&#x0200a;0.06) (<xref ref-type="fig" rid="pone-0025929-g003">Figure 3B</xref>). In contrast, the decrease in fullness score from 1 to 2 h did not differ with percent protein (P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;1.0, P<sub>25&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0200a;=&#x0200a;1.0) (<xref ref-type="fig" rid="pone-0025929-g003">Figure 3E</xref>). <xref ref-type="fig" rid="pone-0025929-g003">Figure 3C and F</xref> show that hunger and fullness scores did not differ with percent protein from 12:00 onwards. Furthermore, from breakfast (08:00&#x02013;10:00) until 22:00, hunger and fullness scores did not change with an increase in percent protein from 10 to 15&#x00025; (hunger: P<sub>15&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.2 and fullness: P<sub>15&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.2) or from 15 to 25&#x00025; (hunger: P<sub>25&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0200a;=&#x0200a;1.0 and fullness: P<sub>25&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;1.0) nor was there an effect of percent dietary protein on either the minimum scores (hunger: P<sub>15&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.7, P<sub>25&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0200a;=&#x0200a;1.0 and fullness: P<sub>15&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;0.4, P<sub>25&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0200a;=&#x0200a;0.13) or maximum scores (hunger: P<sub>15&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;1.0, P<sub>25&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0200a;=&#x0200a;1.0 and fullness: P<sub>15&#x00025;<italic>vs</italic>10&#x00025;</sub>&#x0200a;=&#x0200a;1.0, P<sub>25&#x00025;<italic>vs</italic>15&#x00025;</sub>&#x0200a;=&#x0200a;1.0) (<xref ref-type="table" rid="pone-0025929-t005">Table 5</xref>).</p><fig id="pone-0025929-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.g003</object-id><label>Figure 3</label><caption><title>Hunger and fullness scores on 10&#x00025;, 15&#x00025; and 25&#x00025; protein diets.</title><p>On study day 4, subjects completed a visual analogue scale (VAS) questionnaire to assess subjective hunger and fullness. The VAS questionnaire asked subjects to assess their hunger by reference to a 10 cm horizontal line anchored at one end with the extreme feeling &#x0201c;not at all hungry&#x0201d; and at the other end with &#x0201c;very hungry&#x0201d; and fullness with the extreme feeling &#x0201c;not at all full&#x0201d; and at the other end &#x0201c;very full&#x0201d;. This was done hourly from before breakfast until 10pm. Participants were free to consume breakfast anytime between 08:00&#x02013;10:00, after which lunch and dinner times were fixed. Hunger and fullness curves have been plotted accordingly. The score prior to breakfast (first of the day) and the 2 scores following breakfast were plotted for hunger (<bold>A</bold>) and fullness (<bold>D</bold>). From 12:00 onwards scores for hunger (<bold>B</bold>) and fullness (<bold>D</bold>) were plotted on the hour. <xref ref-type="fig" rid="pone-0025929-g003">
+<bold>Figures 3</bold>
+</xref>
+<bold>C</bold> and <bold>F</bold> show the increase in hunger and decrease in fullness from 1 to 2 h following breakfast. Bars with different letters are significantly different (P&#x0003c;0.05) with Bonferroni post hoc comparisons.</p></caption><graphic xlink:href="pone.0025929.g003"/></fig><table-wrap id="pone-0025929-t004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.t004</object-id><label>Table 4</label><caption><title>Energy and nutrient intakes at breakfast on day 4 of the 10&#x00025;, 15&#x00025; and 25&#x00025; protein <italic>ad-libitum</italic> study periods.</title></caption><alternatives><graphic id="pone-0025929-t004-4" xlink:href="pone.0025929.t004"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">10&#x00025;</td><td align="left" rowspan="1" colspan="1">15&#x00025;</td><td align="left" rowspan="1" colspan="1">25&#x00025;</td><td align="left" rowspan="1" colspan="1">df</td><td align="left" rowspan="1" colspan="1">F-value</td><td align="left" rowspan="1" colspan="1">P-value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>energy (MJ)</bold>
+</td><td align="left" rowspan="1" colspan="1">1.78&#x000b1;0.14</td><td align="left" rowspan="1" colspan="1">1.74&#x000b1;0.16</td><td align="left" rowspan="1" colspan="1">1.64&#x000b1;0.14</td><td align="left" rowspan="1" colspan="1">2, 36</td><td align="left" rowspan="1" colspan="1">0.8</td><td align="left" rowspan="1" colspan="1">0.5</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>protein (MJ)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.18&#x000b1;0.01</td><td align="left" rowspan="1" colspan="1">0.25&#x000b1;0.02<xref ref-type="table-fn" rid="nt110">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">0.40&#x000b1;0.03<xref ref-type="table-fn" rid="nt110">&#x02020;</xref>
+<xref ref-type="table-fn" rid="nt111">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">2, 36</td><td align="left" rowspan="1" colspan="1">46.09</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>non-protein (MJ)</bold>
+</td><td align="left" rowspan="1" colspan="1">1.60&#x000b1;0.12</td><td align="left" rowspan="1" colspan="1">1.49&#x000b1;0.13<xref ref-type="table-fn" rid="nt110">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">1.24&#x000b1;0.11<xref ref-type="table-fn" rid="nt110">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">2, 36</td><td align="left" rowspan="1" colspan="1">7.5</td><td align="left" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>fat (MJ)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.53&#x000b1;0.04</td><td align="left" rowspan="1" colspan="1">0.52&#x000b1;0.05</td><td align="left" rowspan="1" colspan="1">0.50&#x000b1;0.04</td><td align="left" rowspan="1" colspan="1">2, 36</td><td align="left" rowspan="1" colspan="1">0.29</td><td align="left" rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>carbohydrate (MJ)</bold>
+</td><td align="left" rowspan="1" colspan="1">1.07&#x000b1;0.08</td><td align="left" rowspan="1" colspan="1">0.97&#x000b1;0.09<xref ref-type="table-fn" rid="nt110">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">0.74&#x000b1;0.06<xref ref-type="table-fn" rid="nt110">&#x02020;</xref>
+<xref ref-type="table-fn" rid="nt111">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">2, 36</td><td align="left" rowspan="1" colspan="1">15.2</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>sugars (g)</bold>
+</td><td align="left" rowspan="1" colspan="1">25.4&#x000b1;2.5</td><td align="left" rowspan="1" colspan="1">28.2&#x000b1;2.8</td><td align="left" rowspan="1" colspan="1">27.8&#x000b1;2.4</td><td align="left" rowspan="1" colspan="1">2, 36</td><td align="left" rowspan="1" colspan="1">1.6</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>fibre (g)</bold>
+</td><td align="left" rowspan="1" colspan="1">4.6&#x000b1;0.4</td><td align="left" rowspan="1" colspan="1">5.8&#x000b1;0.5<xref ref-type="table-fn" rid="nt110">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">4.3&#x000b1;0.4<xref ref-type="table-fn" rid="nt111">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">2, 36</td><td align="left" rowspan="1" colspan="1">14.0</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>salt (g)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.263&#x000b1;0.023</td><td align="left" rowspan="1" colspan="1">0.287&#x000b1;0.031</td><td align="left" rowspan="1" colspan="1">0.355&#x000b1;0.047</td><td align="left" rowspan="1" colspan="1">2, 36</td><td align="left" rowspan="1" colspan="1">3.9</td><td align="left" rowspan="1" colspan="1">0.03</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt109"><label/><p>Values are means &#x000b1; SEM. A one-way within subject ANOVA was used to determine differences between the 10&#x00025;, 15&#x00025; and 25&#x00025; protein study periods. Post-hoc analysis was performed using paired t-test with Bonferroni correction.</p></fn><fn id="nt110"><label>&#x02020;</label><p>compared to 10&#x00025;;</p></fn><fn id="nt111"><label>&#x02021;</label><p>compared to 15&#x00025;.</p></fn></table-wrap-foot></table-wrap><table-wrap id="pone-0025929-t005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.t005</object-id><label>Table 5</label><caption><title>Hunger and fullness ratings on day 4 of each of the 10&#x00025;, 15&#x00025; and 25&#x00025; protein study periods.</title></caption><alternatives><graphic id="pone-0025929-t005-5" xlink:href="pone.0025929.t005"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">10&#x00025;</td><td align="left" rowspan="1" colspan="1">15&#x00025;</td><td align="left" rowspan="1" colspan="1">25&#x00025;</td><td align="left" rowspan="1" colspan="1">df</td><td align="left" rowspan="1" colspan="1">F-value</td><td align="left" rowspan="1" colspan="1">P-value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>HUNGER</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Mean</bold>
+</td><td align="left" rowspan="1" colspan="1">3.2&#x000b1;0.3</td><td align="left" rowspan="1" colspan="1">3.5&#x000b1;0.3</td><td align="left" rowspan="1" colspan="1">3.3&#x000b1;0.3</td><td align="left" rowspan="1" colspan="1">2,36</td><td align="left" rowspan="1" colspan="1">0.9</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Lowest</bold>
+</td><td align="left" rowspan="1" colspan="1">0.5&#x000b1;0.2</td><td align="left" rowspan="1" colspan="1">0.6&#x000b1;0.2</td><td align="left" rowspan="1" colspan="1">0.7&#x000b1;0.2</td><td align="left" rowspan="1" colspan="1">2,36</td><td align="left" rowspan="1" colspan="1">1.7</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>highest</bold>
+</td><td align="left" rowspan="1" colspan="1">7.3&#x000b1;0.4</td><td align="left" rowspan="1" colspan="1">7.1&#x000b1;0.5</td><td align="left" rowspan="1" colspan="1">7.4&#x000b1;0.4</td><td align="left" rowspan="1" colspan="1">2,36</td><td align="left" rowspan="1" colspan="1">1.7</td><td align="left" rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>FULLNESS</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Mean</bold>
+</td><td align="left" rowspan="1" colspan="1">5.4&#x000b1;0.2</td><td align="left" rowspan="1" colspan="1">5.1&#x000b1;0.2</td><td align="left" rowspan="1" colspan="1">5.4&#x000b1;0.3</td><td align="left" rowspan="1" colspan="1">2,36</td><td align="left" rowspan="1" colspan="1">0.9</td><td align="left" rowspan="1" colspan="1">0.4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Lowest</bold>
+</td><td align="left" rowspan="1" colspan="1">1.5&#x000b1;0.3</td><td align="left" rowspan="1" colspan="1">1.0&#x000b1;0.2</td><td align="left" rowspan="1" colspan="1">1.7&#x000b1;0.3</td><td align="left" rowspan="1" colspan="1">2,36</td><td align="left" rowspan="1" colspan="1">1.9</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Highest</bold>
+</td><td align="left" rowspan="1" colspan="1">9.0&#x000b1;0.2</td><td align="left" rowspan="1" colspan="1">8.8&#x000b1;0.2</td><td align="left" rowspan="1" colspan="1">8.5&#x000b1;0.3</td><td align="left" rowspan="1" colspan="1">2,36</td><td align="left" rowspan="1" colspan="1">0.9</td><td align="left" rowspan="1" colspan="1">0.4</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt112"><label/><p>Values are means &#x000b1; SEM. A one-way within subject ANOVA was used to determine differences between the 10&#x00025;, 15&#x00025; and 25&#x00025; protein study periods.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="s3"><title>Discussion</title><p>In this randomised, controlled, experimental study we have shown that even when the macronutrient composition of foods was disguised and variety controlled, increased energy intake occurred on diets containing a lower proportion of energy from protein and persisted throughout the four days of the study. This result does not, on its own, demonstrate that protein leverage has been a contributory mechanism to the increased energy intakes that have accompanied the rise in the prevalence of obesity <xref rid="pone.0025929-Swinburn1" ref-type="bibr">[1]</xref> for which we would need to establish that the effect persists over the long-term. However, that the conclusions from our short-term study may also apply in the longer term is supported by two lines of evidence. First, there has been a progressive dilution of protein in the diet over recent decades with associated rises in energy intake and obesity <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>, <xref rid="pone.0025929-Austin1" ref-type="bibr">[6]</xref>. Second, longer-term experimental trials than ours, in which compliance was ensured but un-disguised foods were used, have shown an association between increased percent dietary protein and a prolonged reduction in total energy intake <xref rid="pone.0025929-Larsen1" ref-type="bibr">[7]</xref>, <xref rid="pone.0025929-Weigle1" ref-type="bibr">[18]</xref>. If subjects maintained the level of increased intake observed on the 10&#x00025; protein diet in our study, without an accompanying increase in energy expenditure through increased activity or thermogenesis <xref rid="pone.0025929-Stock1" ref-type="bibr">[24]</xref>, a 1.0 kg weight increase per month would be expected <xref rid="pone.0025929-Brown1" ref-type="bibr">[25]</xref>, <xref rid="pone.0025929-Hall1" ref-type="bibr">[26]</xref>.</p><p>Significantly, subjects increased energy intake on the 10&#x00025; protein diet via increased consumption of &#x02018;anytime foods&#x02019;, rather than &#x02018;meal time&#x02019; foods. Providing constant access to food rather than restricting food to meal times allows subjects to increase the number of eating episodes in a day (&#x02018;snacking&#x02019; behaviour). This has previously been associated with an increase in total energy intake <xref rid="pone.0025929-Keast1" ref-type="bibr">[27]</xref>, <xref rid="pone.0025929-Kerver1" ref-type="bibr">[28]</xref>, especially if high energy density foods are chosen <xref rid="pone.0025929-Johnson1" ref-type="bibr">[29]</xref>. In free-living individuals in the USA the number of eating episodes per day has risen <xref rid="pone.0025929-Popkin1" ref-type="bibr">[30]</xref>. Increased food variety may also increase total energy intake, as shown in studies that controlled for macronutrient composition <xref rid="pone.0025929-Stubbs1" ref-type="bibr">[31]</xref>. Indeed, evidence suggests that the stimulation of intake by dietary variety is important for achieving nutritional requirements <xref rid="pone.0025929-Maillot1" ref-type="bibr">[32]</xref> and prevents under-consumption because of boredom effects and sensory specific satiety <xref rid="pone.0025929-Brondel1" ref-type="bibr">[33]</xref>&#x02013;<xref rid="pone.0025929-Nolan1" ref-type="bibr">[35]</xref>. Subjects showed a clear preference for savoury over sweet food items when increasing intake of &#x02018;anytime&#x02019; foods on the 10&#x00025; protein diet (even though both food types were of the same macronutrient composition). This may reflect habitual preferences or may be an indication of participants seeking protein due to associating savoury sensory qualities with protein. The increased energy intake was disproportionately attributable to eating more between main meals rather than during meal times implying that protein influences energy intake through hunger and meal initiation rather than satiation or meal termination. This interpretation is supported by our results showing a greater increase in hunger ratings in the second hour following a 10&#x00025; protein breakfast on study day 4 than for the higher protein breakfasts.</p><p>The idea that protein influences energy intake through hunger would also help to explain results from studies showing that mandatory high protein snacks are energetically compensated for at subsequent <italic>ad libitum</italic> meals but do not reduce total energy intake over a day <xref rid="pone.0025929-Potier1" ref-type="bibr">[36]</xref>, <xref rid="pone.0025929-Johnstone1" ref-type="bibr">[37]</xref>, and that eating a high-protein snack prolongs the time until a subsequent request for dinner <xref rid="pone.0025929-Marmonier1" ref-type="bibr">[38]</xref>. Interestingly, the mean hourly hunger levels of participants across the entire day in the current study did not differ between dietary treatments. Similarly, Weigle <italic>et al.</italic>
+<xref rid="pone.0025929-Weigle1" ref-type="bibr">[18]</xref> found increased satiety ratings when participants were fed an iso-energetic 30&#x00025; protein diet in comparison to 15&#x00025; protein, but when the same participants were allowed to eat the 30&#x00025; protein diet ad libitum, energy intake was decreased but satiety ratings were similar to those measured on the isocaloric 15&#x00025; protein diet. This discrepancy between appetite scores and objectively measured hunger is not uncommon. A more detailed time-course of changes in hunger and fullness throughout the period from the end of a meal until the next <italic>ad libitum</italic> feeding episode, in a study design where participants initiate all meal times, may be more instructive in explaining patterns of intake in response to altered levels of dietary protein intake. Alternatively, changes in hunger and fullness may only be evident when high and low levels of protein intake are prescribed <xref rid="pone.0025929-Weigle1" ref-type="bibr">[18]</xref>, <xref rid="pone.0025929-Lejeune1" ref-type="bibr">[39]</xref> but not under <italic>ad libitum</italic> and constant food availability conditions <xref rid="pone.0025929-Weigle1" ref-type="bibr">[18]</xref>. In the latter circumstance, the participant may immediately respond to a small increase in hunger by eating prior to detection of the increase on a visual analogue scale. The mechanism of protein appetite cues is yet to be determined, but potentially involves the detection of reductions in intestinal and/or circulating free amino acid levels <xref rid="pone.0025929-Gietzen1" ref-type="bibr">[40]</xref>&#x02013;<xref rid="pone.0025929-Potier2" ref-type="bibr">[42]</xref> and associated hormonal signals <xref rid="pone.0025929-TannousditElKhoury1" ref-type="bibr">[43]</xref>, <xref rid="pone.0025929-Leidy1" ref-type="bibr">[44]</xref>.</p><p>Over the 4-day study periods, for every 1 kJ decrease in protein intake below the 15&#x00025; level, non-protein intake increased by 4.5 kJ; whereas for every 1 kJ increase in protein intake above the target, participants decreased non-protein intake by 1 kJ. These results suggest an asymmetry in protein leveraging in humans, as inferred from earlier human studies and described experimentally in other animal models <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>, <xref rid="pone.0025929-Brooks1" ref-type="bibr">[15]</xref>, <xref rid="pone.0025929-Cheng1" ref-type="bibr">[45]</xref>. A general asymmetry of appetite is accepted <xref rid="pone.0025929-Prentice1" ref-type="bibr">[46]</xref>. This asymmetry may reflect the fact that the evolutionary costs of eating too little protein exceed those of eating too much <xref rid="pone.0025929-Cheng1" ref-type="bibr">[45]</xref>, although excess protein consumption has also been shown to have associated costs in some animals <xref rid="pone.0025929-Lee1" ref-type="bibr">[47]</xref> and perhaps in humans <xref rid="pone.0025929-Metges1" ref-type="bibr">[48]</xref>. Nevertheless, reduced energy intake on high percent protein diets has been reported previously in studies in which macronutrient composition was not disguised <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>, <xref rid="pone.0025929-Larsen1" ref-type="bibr">[7]</xref>, <xref rid="pone.0025929-Weigle1" ref-type="bibr">[18]</xref>&#x02013;<xref rid="pone.0025929-Due2" ref-type="bibr">[21]</xref>. Typically such studies have used higher protein (commonly 30&#x00025;) dietary regimens, in overweight and obese individuals indicating a need for future protein leverage testing in such individuals. Alternatively the failure to adjust total energy intake on the 25&#x00025; protein regimen in lean humans in the current study may have arisen from the constant availability and high level of variety of the study foods. We therefore suggest that high levels of food availability and variety may enable over-consumption on lower percent protein diets, promoting the chances that protein requirements will be met but also attenuating reductions in energy intake on higher percent protein diets that would otherwise arise via protein-dependent feedbacks. If we had incorporated higher fat levels into the study foods, the effect of protein leverage on energy intake by snacking may well have been substantially greater, given that fat has twice the energy density of carbohydrate and appears to provide significantly less suppression of appetite than carbohydrate <xref rid="pone.0025929-Stubbs2" ref-type="bibr">[49]</xref>.</p><p>As a result of failure to decrease intake on the 25&#x00025; protein treatment, habitual protein intakes were exceeded on this treatment, unlike in the lower-protein treatments. As well as engendering possible health costs <xref rid="pone.0025929-Metges1" ref-type="bibr">[48]</xref>, physiological adaptation to higher protein intakes would be predicted to lead to an increase in the protein intake target <xref rid="pone.0025929-Long1" ref-type="bibr">[50]</xref>, <xref rid="pone.0025929-Tom1" ref-type="bibr">[51]</xref>. Having a higher protein target will, in turn, increase the susceptibility to overeat on a low percent protein diet since more total energy has to be ingested to achieve a higher target level. This has been proposed as a possible reason why oceanic populations appear more susceptible to overeating on a low percent protein western diet than populations that went through the agricultural revolution and have adapted to a lower percent protein in the diet <xref rid="pone.0025929-Simpson1" ref-type="bibr">[2]</xref>, <xref rid="pone.0025929-Brooks1" ref-type="bibr">[15]</xref>. These populations may also be quite &#x02018;thrifty&#x02019;, with efficient storage but limited thermogenic capacities, further increasing the risk of obesity through overconsumption <xref rid="pone.0025929-Keast1" ref-type="bibr">[27]</xref>.</p><p>In the present study, we used carbohydrate as the diluent for protein in the diet, raising the possibility that the effects we observed were due to carbohydrate rather than protein. Rodents regulate intake of both protein and carbohydrate when provided with complementary foods, but when forced to trade-off overeating one macronutrient against undereating the other relative to this target mixture, protein dominates <xref rid="pone.0025929-Srensen1" ref-type="bibr">[11]</xref>, <xref rid="pone.0025929-Simpson4" ref-type="bibr">[52]</xref>. If the same applies for humans, regulatory feedbacks for carbohydrate would have mitigated the response to dietary protein, with higher levels of carbohydrate in the 10&#x00025; protein diet impeding increased consumption, and lower levels of carbohydrate on the 25&#x00025; protein offsetting negative feedbacks from protein. Hence, although carbohydrate may have dampened the protein leverage response, it seems unlikely that it provides an explanation for the observed changes in energy intake that were maximal when subjects were consuming foods with high percent carbohydrate content. Neither is there evidence that other differences among the diets, whether associated with the foods themselves, or &#x02018;self-dosed&#x02019; as a result of subjects eating more of the 10&#x00025; protein diet, could have caused the increased consumption. For example, there was no association between total energy intake and the intakes of fibre, salt and sugar (separate from total carbohydrate). Future studies should systematically explore the interactions between protein, fat and carbohydrate, as well as other factors such as energy density, protein quality, glycemic index and fibre content.</p><p>It follows from our results that any change in the nutritional environment that encourages dilution of dietary protein with fat and/or carbohydrate will promote increased total energy intake and thus increase the risk that obesity might develop. Many sources of such encouragement exist in the modern westernised environment. Some are economic - fat and carbohydrate are cheaper than protein <xref rid="pone.0025929-Brooks1" ref-type="bibr">[15]</xref>; others reflect an increasing reliance on processed foods which are often higher in fat and refined carbohydrate than unprocessed foods, and yet other influences include our evolutionary heritage, which has left us with a predilection for foods with a high fat and sugar content <xref rid="pone.0025929-Eaton1" ref-type="bibr">[16]</xref>, <xref rid="pone.0025929-Cordain1" ref-type="bibr">[17]</xref>. To make matters worse, it appears that the beneficial side of protein leverage &#x02013; reduced intake on high percent protein diets &#x02013; may be diminished in westernised countries in which the variety and availability of foods, especially snack foods, is greater than it has ever been in our evolutionary history.</p></sec><sec sec-type="methods" id="s4"><title>Methods</title><sec id="s4a"><title>Ethics Statement</title><p>The study was approved by Sydney South West Area Health Service (Royal Prince Alfred Hospital) Human Research Ethics Committee (Protocol No. X07-0044) and the University of Sydney Human Research Ethics Committee (Ref No. 10153).</p></sec><sec id="s4b"><title>Study participants</title><p>Lean, healthy (BMI: 18&#x02013;25 kg/m<sup>2</sup>) male and female participants were recruited via advertising through casual employment sites at five universities within the Sydney region. The study was also advertised in local newspapers but this form of recruitment was not successful because of the time-commitment required for the study. Exclusion criteria included diabetes, high blood pressure, gastrointestinal problems, asthma, eczema or hay fever, chronic medical conditions, anaemia, allergies or strong dislikes to any study foods, smoking, following a weight reducing diet within the 3 months prior to the screening interview, pregnancy and breastfeeding. Participants completed the EAT-26 questionnaire and were excluded if they had a history of eating disorders or irregular eating habits. Vegetarians and vegans were excluded to aid in preparation of the treatment foods. 53 females and 28 males attended a screening interview. 22 females and 12 males were eligible, indicated their willingness to undertake the trial and completed initial investigation day measures. From these, 20 females and 10 males commenced the trial. Subsequently, three females chose to discontinue due to interference with university studies, illness or difficulties with blood collection. One male was excluded after commencement following a diagnosis of hyperthyroidism. Overall, 17 lean female and 9 lean male participants completed the trial, these were 24.3&#x000b1;1.3 (mean &#x000b1; SEM; range 18&#x02013;51) years of age and had a mean BMI of 21.8&#x000b1;0.4 (18&#x02013;25.5) kg m<sup>&#x02212;2</sup>. On completion, four participants were excluded from the data analysis for reasons including gastrointestinal upset during one of the study weeks (n&#x0200a;=&#x0200a;1 female) and failure of one sub-group to comply with study procedures (n&#x0200a;=&#x0200a;3 males, who ate one another's food). 16 lean female and 6 lean male participants were included in the final data analysis. These were 24.7&#x000b1;1.4 (mean &#x000b1; SEM; range 18&#x02013;51) years of age and had a mean BMI of 21.8&#x000b1;0.4 (18&#x02013;25) kg m<sup>&#x02212;2</sup>. All participants were given detailed verbal and written information regarding the purpose of the trial and the study procedures. All participants provided written consent. Participants were paid a AUD 100 instalment upon completion of each 4-day study period and a final payment of AUD 500 totalling AUD 800 for completion of all three study periods.</p></sec><sec id="s4c"><title>Diet manipulation and final menu</title><p>The design, manipulation and testing of the foods used are presented in detail elsewhere 22. Briefly, recipes were modified to contain 10, 15 or 25&#x00025; energy as protein. Carbohydrate was adjusted to be 60, 55 or 45&#x00025; energy and dietary fat was kept constant at 30&#x00025;. Energy density (kJ/g) was similar between the 10&#x00025;, 15&#x00025; and 25&#x00025; versions of a given food item but was different between foods. These foods were tested prior to the start of the current trial where a separate group of lean, healthy subjects were presented with the 10&#x00025;, 15&#x00025; and 25&#x00025; protein versions of each of the food items simultaneously. Participants sampled each version and then completed questionnaires testing for differences in pleasantness, sensory attributes and nutritional perception.</p><p>The final <italic>ad libitum</italic> menu, for each of the three, 4-day study periods contained the same 28 food items, including 12 sweet and 16 savoury foods (see <xref ref-type="table" rid="pone-0025929-t006">Table 6</xref> for full 4-day menu). In one of the study periods all the 28 foods contained 10&#x00025; protein, in another period they all contained 15&#x00025; protein, and in the third study period they all contained 25&#x00025; protein. Menus were matched for energy density and palatability <xref rid="pone.0025929-Gosby1" ref-type="bibr">[22]</xref> (see <xref ref-type="table" rid="pone-0025929-t007">Table 7</xref> for nutritional information). Up to 12 foods were provided on each day during the 4-day period, giving participants both variety and choice at all times. Some foods were only available in the one meal sitting (&#x02018;meal time foods&#x02019;), whereas others were available to participants anytime once served (&#x02018;anytime foods&#x02019;). Anytime foods were &#x02018;snack&#x02019; foods and foods that were first served at a meal and could be kept if not eaten or finished at that meal (<xref ref-type="table" rid="pone-0025929-t006">Table 6</xref>). Therefore, between meals a participant had up to 4 sweet and 2 savoury options from which to choose. The foods were served as specific amounts. Foods served at meals were presented to each participant on a tray (<xref ref-type="fig" rid="pone-0025929-g004">Figure 4</xref>). &#x02018;Anytime&#x02019; foods were labelled for identification and stored in a refrigerator, to which the participants had free access at all times. A variety of plates were used to present the different foods, but the 10, 15 and 25&#x00025; versions of a particular food were always presented on the same style of plate in all three study periods (<xref ref-type="fig" rid="pone-0025929-g004">Figure 4</xref>).</p><fig id="pone-0025929-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.g004</object-id><label>Figure 4</label><caption><title>Protein leverage study foods.</title><p>The 3 photos on the left column are the 10&#x00025;, 15&#x00025; and 25&#x00025; versions (top to bottom) of each food given to participants at breakfast on study day 2. In the right hand column the three photos are the 10&#x00025;, 15&#x00025; and 25&#x00025; versions (top to bottom) of each food given to participants at dinner on study day 2. Participants were offered a set amount of each food that was the same on each study period. The plates were the same for a particular food on each study period.</p></caption><graphic xlink:href="pone.0025929.g004"/></fig><table-wrap id="pone-0025929-t006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.t006</object-id><label>Table 6</label><caption><title>4-day <italic>ad libitum</italic> menu for the 10&#x00025;, 15&#x00025; and 25&#x00025; protein study periods.</title></caption><alternatives><graphic id="pone-0025929-t006-6" xlink:href="pone.0025929.t006"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Study day 1</td><td align="left" rowspan="1" colspan="1">Study day 2</td><td align="left" rowspan="1" colspan="1">Study day 3</td><td align="left" rowspan="1" colspan="1">Study day 4</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Breakfast</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Savoury breakfast muffin</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Savoury breakfast muffin</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Savoury breakfast muffin</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">8.30&#x02013;10.00am</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Apricot yoghurt muesli</td><td align="left" rowspan="1" colspan="1">Raspberry yoghurt muesli</td><td align="left" rowspan="1" colspan="1">Apricot yoghurt muesli</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Pear, raspberry &#x00026; coconut bread</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Banana bread</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Pear, raspberry &#x00026; coconut bread</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Lunch</bold>
+</td><td align="left" rowspan="1" colspan="1">Tuna bake</td><td align="left" rowspan="1" colspan="1">Mexican wrap</td><td align="left" rowspan="1" colspan="1">Tandoori wrap</td><td align="left" rowspan="1" colspan="1">Sweet potato wrap</td></tr><tr><td align="left" rowspan="1" colspan="1">1pm</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Beef and vegetable pastry</td><td align="left" rowspan="1" colspan="1">Teriyaki sushi roll</td><td align="left" rowspan="1" colspan="1">Beef and vegetable pastry</td><td align="left" rowspan="1" colspan="1">Pasta salad</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Salad &#x00026; dressing</td><td align="left" rowspan="1" colspan="1">Salad &#x00026; dressing</td><td align="left" rowspan="1" colspan="1">Salad &#x00026; dressing</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Fruit salad yoghurt</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Apple crumble muffins</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Fruit salad yoghurt</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Apple crumble muffins</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Dinner</bold>
+</td><td align="left" rowspan="1" colspan="1">Goulash</td><td align="left" rowspan="1" colspan="1">Mushroom Pasta</td><td align="left" rowspan="1" colspan="1">Pasta Bolognaise</td><td align="left" rowspan="1" colspan="1">Hokkien noodles</td></tr><tr><td align="left" rowspan="1" colspan="1">6.30pm</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Cheese Scones</bold>
+</td><td align="left" rowspan="1" colspan="1">Chow mein mince</td><td align="left" rowspan="1" colspan="1">
+<bold>Cheese Scones</bold>
+</td><td align="left" rowspan="1" colspan="1">Massaman curry</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Salad &#x00026; dressing</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Salad &#x00026; dressing</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Orange &#x00026; poppyseed cake</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Chocolate, apple &#x00026; ricotta cake</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Orange &#x00026; poppyseed cake</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Chocolate, apple &#x00026; ricotta cake</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Custard</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Custard</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Custard</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Custard</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Snacks</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Savoury scones</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Cheese scones</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Savoury scones</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Cheese scones</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">all day</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Carrot cake</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Raspberry yoghurt</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Apricot muffins</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Raspberry yoghurt</bold>
+</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt113"><label/><p>Foods offered during the 10&#x00025;, 15&#x00025; and 25&#x00025; protein 4-day <italic>ad libitum</italic> study periods. The methodology used to design each of these foods and the final nutritional information can be found elsewhere <xref rid="pone.0025929-Gosby1" ref-type="bibr">[22]</xref>. Some foods were only available in one meal sitting (&#x02018;meal time foods&#x02019;: not bold), whereas others were available to participants anytime once served (&#x02018;anytime foods&#x02019;: bold). Anytime foods were &#x02018;snack&#x02019; foods and foods that were first served at a meal and could be kept if not eaten or finished at that meal; these foods were labelled for identification and kept in a refrigerator to which participants had free access.</p></fn></table-wrap-foot></table-wrap><table-wrap id="pone-0025929-t007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.t007</object-id><label>Table 7</label><caption><title>Total nutrition and weight of food available to participants over the 4-day <italic>ad libitum</italic> periods.</title></caption><alternatives><graphic id="pone-0025929-t007-7" xlink:href="pone.0025929.t007"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">energy</td><td align="left" rowspan="1" colspan="1">food</td><td align="left" rowspan="1" colspan="1">protein</td><td align="left" rowspan="1" colspan="1">fat</td><td align="left" rowspan="1" colspan="1">carbohydrate</td><td align="left" rowspan="1" colspan="1">fibre</td><td align="left" rowspan="1" colspan="1">sugars</td><td align="left" rowspan="1" colspan="1">sodium</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">MJ/4 day</td><td align="left" rowspan="1" colspan="1">weight kg/4day</td><td align="left" rowspan="1" colspan="1">MJ/4 day</td><td align="left" rowspan="1" colspan="1">MJ/4 day</td><td align="left" rowspan="1" colspan="1">MJ/4 day</td><td align="left" rowspan="1" colspan="1">g/4day</td><td align="left" rowspan="1" colspan="1">g/4day</td><td align="left" rowspan="1" colspan="1">mg/4day</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>10&#x00025;</bold>
+</td><td align="left" rowspan="1" colspan="1">84.720</td><td align="left" rowspan="1" colspan="1">12.550</td><td align="left" rowspan="1" colspan="1">8.510</td><td align="left" rowspan="1" colspan="1">24.950</td><td align="left" rowspan="1" colspan="1">51.010</td><td align="left" rowspan="1" colspan="1">195</td><td align="left" rowspan="1" colspan="1">874</td><td align="left" rowspan="1" colspan="1">26534</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>15&#x00025;</bold>
+</td><td align="left" rowspan="1" colspan="1">84.560</td><td align="left" rowspan="1" colspan="1">12.590</td><td align="left" rowspan="1" colspan="1">12.350</td><td align="left" rowspan="1" colspan="1">25.140</td><td align="left" rowspan="1" colspan="1">46.830</td><td align="left" rowspan="1" colspan="1">187</td><td align="left" rowspan="1" colspan="1">1026</td><td align="left" rowspan="1" colspan="1">29034</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>25&#x00025;</bold>
+</td><td align="left" rowspan="1" colspan="1">84.750</td><td align="left" rowspan="1" colspan="1">12.850</td><td align="left" rowspan="1" colspan="1">20.680</td><td align="left" rowspan="1" colspan="1">25.290</td><td align="left" rowspan="1" colspan="1">38.540</td><td align="left" rowspan="1" colspan="1">169</td><td align="left" rowspan="1" colspan="1">1040</td><td align="left" rowspan="1" colspan="1">31632</td></tr></tbody></table></alternatives></table-wrap><p>The nutritional information for each 4-day <italic>ad libitum</italic> menu (10, 15 and 25&#x00025; protein) is presented in <xref ref-type="table" rid="pone-0025929-t007">Table 7</xref>. To confirm that palatability was similar between the 10, 15 and 25&#x00025; protein versions of each food, food palatability was tested on study day 4 of each experimental period using a 10 cm visual analogue scale. All 12 foods offered to participants on study day 4 of each study period were rated for pleasantness, sweetness and savouriness and confirmed the absence of differences (<xref ref-type="fig" rid="pone-0025929-g005">Figure 5A&#x02013;5C</xref>) as observed for other subjects in pre-trial testing <xref rid="pone.0025929-Gosby1" ref-type="bibr">[22]</xref>. Participants were offered optional un-manipulated foods including 10 g salad and 2 types of low-calorie dressings (10 g of each) with most meals. In addition, participants were asked to consume 150 g of skim milk per day to drink with tea, herbal teas and/or decaffeinated coffee.</p><fig id="pone-0025929-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0025929.g005</object-id><label>Figure 5</label><caption><title>Palatability of foods served on each 4-day <italic>ad libitum</italic> period.</title><p>Pleasantness (A), savouriness (B) and sweetness (C) ratings given to the 10&#x00025; (white), 15&#x00025; (grey) and 25&#x00025; (black) versions for the 12 foods offered on study day 4: 1. Apricot, walnut and yoghurt muesli, 2. Pear, Raspberry and Coconut Bread, 3. Savoury Breakfast Muffins, 4. Pasta Salad, 5. Sweet Potato and Ricotta Wrap, 6. Apple Crumble Muffins, 7. Hokkien Noodles, 8. Massaman Curry, 9. Chocolate, Apple and Ricotta Cake, 10. Custard, using visual analogue scales scored from 0 to 10 cm.</p></caption><graphic xlink:href="pone.0025929.g005"/></fig></sec><sec id="s4d"><title>Study design</title><p>Each participant attended three 4-day periods of in-house dietary manipulation at the Woolcock Institute Sleep Study Centre, each separated by at least 1 week. In order for habitual energy and protein intakes to be estimated, subjects arrived for each three 4-day period with a completed 4-day food diary and a 24-h urine collection for measurement of urea excretion (<xref ref-type="supplementary-material" rid="pone.0025929.s002">Figure S2</xref>). Subjects were tested in single-sex groups of 2&#x02013;3 and each group remained together throughout the full experiment. During each 4-day study period participants were provided with <italic>ad libitum</italic> food comprising 10&#x00025;, 15&#x00025; or 25&#x00025; protein, so that by the end of the experiment each group had undergone 4 continuous days of each of the 10&#x00025;, 15&#x00025; and 25&#x00025; menus. Only the participants were blinded to the treatment. Breakfast was provided between 8&#x02013;10am, lunch at 1pm and dinner at 6.30pm and snacks were freely available at all times. If participants had not attended breakfast by 10am they were woken. Participants were taken for a 1-hour supervised walk each day. On day 4 participants were asked to complete visual analogue scale questionnaire for the measurement of palatability of each of the study foods tasted that day and also subjects' subjective hunger and to complete a 24-h urine collection for measurement of urea excretion.</p></sec><sec id="s4e"><title>Measurement and validation of habitual protein intake</title><p>Four-day food diaries completed immediately prior to each 4-day <italic>ad libitum</italic> study period were analysed for daily protein and total energy intakes using Foodworks 2007. A 24-h urine collection was completed on the fourth day of the 4-day food diary, as well as on day 4 of each study period. The volume of urine and urinary urea concentrations were measured to calculate 24-h urine urea excretion. A highly significant correlation between 24-h protein intake and 24-h urine urea excretion was found (t<sub>50</sub>&#x0200a;=&#x0200a;15.7, p&#x0003c;0.0001) (<xref ref-type="supplementary-material" rid="pone.0025929.s002">Figure S2</xref>). Habitual protein and urea intakes fit this line (<xref ref-type="supplementary-material" rid="pone.0025929.s002">Figure S2</xref>), validating habitual protein intakes estimated from food diary analysis.</p></sec><sec id="s4f"><title>Measurement of food intake</title><p>Participants were given <italic>ad libitum</italic> access to study food with no access to other food sources during each experimental period. Food intake was measured by recording the weight of the food before and after serving, to the nearest gram. Energy intake was then calculated using the nutritional information for each recipe <xref rid="pone.0025929-Gosby1" ref-type="bibr">[22]</xref>.</p></sec><sec id="s4g"><title>Subjective hunger and fullness</title><p>Visual analogue scales are a validated method to test appetite levels <xref rid="pone.0025929-Flint1" ref-type="bibr">[53]</xref>. On study day 4, subjects completed a visual analogue scale (VAS) questionnaire to assess subjective hunger and fullness. The VAS questionnaire asks subjects to assess their hunger by reference to a 10 cm horizontal line anchored at one end with the extreme feeling &#x0201c;not at all hungry&#x0201d; and at the other end with &#x0201c;very hungry&#x0201d; and fullness with the extreme feeling &#x0201c;not at all full&#x0201d; and at the other end &#x0201c;very full&#x0201d;. This was done hourly from before breakfast until 22:00. The mean hunger scores and the lowest and highest values between breakfast and 22:00 were calculated. The score before breakfast and within the first and second hour following breakfast were averaged to determine if there was an effect of percent protein on hunger and fullness from a baseline meal. The change in hunger and fullness that occurred in the first and second hours following breakfast were calculated by difference between the score before breakfast and 1 hour after breakfast and between the score 1 hour and 2 hours after breakfast. From 12:00 onwards, hourly scores were plotted. Area under the curve was not measured due to missing values occurring when participants had a sleep during the day.</p></sec><sec id="s4h"><title>Statistical Analysis</title><p>All data analysis and graphics were performed using <italic>R</italic> software <xref rid="pone.0025929-R1" ref-type="bibr">[54]</xref>. The data are routinely presented as means &#x000b1; SEM. Nutrient intake data and subjective hunger and fullness scores and the change in hunger and fullness following breakfast were analysed using one-way within-subject ANOVA. The data were checked for sphericity using Mauchlys sphericity test (<italic>Multcomp</italic> package <xref rid="pone.0025929-Hothorn1" ref-type="bibr">[55]</xref>). If the sphericity assumption was violated, Greenhouse-Geiser corrections were applied to the F- and p-values and are indicated by the additions of &#x02018;&#x0002a;&#x02019;. Post-hoc analysis was performed with pair-wise comparisons using the Bonferroni correction for multiple comparisons.</p></sec></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0025929.s001"><label>Figure S1</label><caption><p>
+<bold>Total protein and non-protein intake for individuals over each 10&#x00025;, 15&#x00025; and 25&#x00025; protein 4-day </bold>
+<bold><italic>ad libitum</italic></bold>
+<bold> study periods.</bold> Bi-coordinate intake plots for individual subjects on 10, 15 and 25&#x00025; protein 4-day treatment periods (dashed lines, females; solid lines, males). The range of total energy intakes (the sums of the x- and y- coordinates) on the 15&#x00025; protein treatment period was 0.8 times the Schofield equation estimate (subject 15) to 2.1 times (subject 2), with a mean of 1.55&#x000b1;0.1.</p><p>(TIFF)</p></caption><media xlink:href="pone.0025929.s001.tiff"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0025929.s002"><label>Figure S2</label><caption><p>
+<bold>Estimation of habitual protein intake and percent dietary protein.</bold> Bi-coordinate means for 24-h protein intake (MJ) versus 24-h urine urea excretion (moles) for participants during the 4-day 10&#x00025; (white triangle), 15&#x00025; (grey triangle) and 25&#x00025; (black triangle) <italic>ad libitum</italic> study periods. The dashed line represents the positive linear regression between 24-h dietary protein intake and total urine urea excretion (t<sub>(50)</sub>&#x0200a;=&#x0200a;15.7, p&#x0003c;0.0001). Average daily habitual protein intake and 24-h urine urea excretion prior to each study 10&#x00025; (white circle), 15&#x00025; (grey circle) and 25&#x00025; (black circle) <italic>ad libitum</italic> study periods are also added to the plot.</p><p>(TIFF)</p></caption><media xlink:href="pone.0025929.s002.tiff"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We thank the Woolcock Institute of Medical Research (Sydney, Australia) for the use of their facilities. We thank Jennifer Niven, Arnaud Johanet, Aude Tiravy and Christelle Barbette for their technical assistance. We would also like to thank all the study volunteers for their participation.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>SAJ receives a fee from the Rosemary Conley Diet and Fitness Company for nutrition-related articles and lectures. This does not alter the authors' adherence to all the PLoS ONE policies on sharing data and materials. The authors have declared that no other competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This work was entirely funded by an Australian National Health and Medical Research Council project grant (no. 457522). DR is partly funded by the National Research Centre for Growth and Development. SJS is funded by an Australian Research Council Laureate Fellowship. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0025929-Swinburn1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Swinburn</surname><given-names>BA</given-names></name><name><surname>Sacks</surname><given-names>G</given-names></name><name><surname>Lo</surname><given-names>SK</given-names></name><name><surname>Westerterp</surname><given-names>KR</given-names></name><name><surname>Rush</surname><given-names>EC</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Estimating the changes in energy flux that characterize the rise in obesity prevalence.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>89</volume>
+<issue>6</issue>
+<fpage>1723</fpage>
+<lpage>1728</lpage>
+<pub-id pub-id-type="pmid">19369382</pub-id></element-citation></ref><ref id="pone.0025929-Simpson1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simpson</surname><given-names>SJ</given-names></name><name><surname>Raubenheimer</surname><given-names>D</given-names></name></person-group>
+<year>2005</year>
+<article-title>Obesity: the protein leverage hypothesis.</article-title>
+<source>Obes Rev</source>
+<volume>6</volume>
+<issue>2</issue>
+<fpage>133</fpage>
+<lpage>142</lpage>
+<pub-id pub-id-type="pmid">15836464</pub-id></element-citation></ref><ref id="pone.0025929-Simpson2"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simpson</surname><given-names>SJ</given-names></name><name><surname>Batley</surname><given-names>R</given-names></name><name><surname>Raubenheimer</surname><given-names>D</given-names></name></person-group>
+<year>2003</year>
+<article-title>Geometric analysis of macronutrient intake in humans: the power of protein?</article-title>
+<source>Appetite</source>
+<volume>41</volume>
+<issue>2</issue>
+<fpage>123</fpage>
+<lpage>140</lpage>
+<pub-id pub-id-type="pmid">14550310</pub-id></element-citation></ref><ref id="pone.0025929-WesterterpPlantenga1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Westerterp-Plantenga</surname><given-names>MS</given-names></name></person-group>
+<year>2004</year>
+<article-title>Fat intake and energy-balance effects.</article-title>
+<source>Physiol Behav</source>
+<volume>83</volume>
+<issue>4</issue>
+<fpage>579</fpage>
+<lpage>585</lpage>
+<pub-id pub-id-type="pmid">15621063</pub-id></element-citation></ref><ref id="pone.0025929-FAOSTAT1"><label>5</label><element-citation publication-type="other">
+<collab>FAOSTAT database</collab>
+<year>2010</year>
+<article-title>Food Balance Sheets [Online].</article-title>
+<comment>Available: <ext-link ext-link-type="uri" xlink:href="http://faostat.fao.org/site/368/default.aspx#ancor">http://faostat.fao.org/site/368/default.aspx#ancor</ext-link>. Accessed 2010 Sep 15</comment>
+</element-citation></ref><ref id="pone.0025929-Austin1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Austin</surname><given-names>GL</given-names></name><name><surname>Ogden</surname><given-names>LG</given-names></name><name><surname>Hill</surname><given-names>JO</given-names></name></person-group>
+<year>2011</year>
+<article-title>Trends in carbohydrate, fat and protein intakes and association with energy intake in normal-weight, overweight, and obese individuals: 1971&#x02013;2006.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>93</volume>
+<issue>4</issue>
+<fpage>836</fpage>
+<lpage>843</lpage>
+<pub-id pub-id-type="pmid">21310830</pub-id></element-citation></ref><ref id="pone.0025929-Larsen1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Larsen</surname><given-names>TM</given-names></name><name><surname>Dalskov</surname><given-names>SM</given-names></name><name><surname>van Baak</surname><given-names>M</given-names></name><name><surname>Jebb</surname><given-names>SA</given-names></name><name><surname>Papadaki</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Diets with high or low protein content and glycemic index for weight-loss maintenance.</article-title>
+<source>N Engl J Med</source>
+<volume>363</volume>
+<issue>22</issue>
+<fpage>2102</fpage>
+<lpage>2113</lpage>
+<pub-id pub-id-type="pmid">21105792</pub-id></element-citation></ref><ref id="pone.0025929-Felton1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Felton</surname><given-names>AM</given-names></name><name><surname>Felton</surname><given-names>A</given-names></name><name><surname>Lindenmayer</surname><given-names>DB</given-names></name><name><surname>Foley</surname><given-names>WJ</given-names></name></person-group>
+<year>2009</year>
+<article-title>Nutritional goals of wild primates.</article-title>
+<source>Functional Ecology</source>
+<volume>23</volume>
+<issue>1</issue>
+<fpage>70</fpage>
+<lpage>78</lpage>
+</element-citation></ref><ref id="pone.0025929-Kyriazakis1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kyriazakis</surname><given-names>I</given-names></name><name><surname>Emmans</surname><given-names>GC</given-names></name><name><surname>Whittemore</surname><given-names>CT</given-names></name></person-group>
+<year>1991</year>
+<article-title>The ability of pigs to control their protein intake when fed in three different ways.</article-title>
+<source>Physiol Behav</source>
+<volume>50</volume>
+<issue>6</issue>
+<fpage>1197</fpage>
+<lpage>1203</lpage>
+<pub-id pub-id-type="pmid">1798775</pub-id></element-citation></ref><ref id="pone.0025929-Webster1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Webster</surname><given-names>AJ</given-names></name></person-group>
+<year>1993</year>
+<article-title>Energy partitioning, tissue growth and appetite control.</article-title>
+<source>Proc Nutr Soc</source>
+<volume>52</volume>
+<issue>1</issue>
+<fpage>69</fpage>
+<lpage>76</lpage>
+<pub-id pub-id-type="pmid">8493278</pub-id></element-citation></ref><ref id="pone.0025929-Srensen1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>S&#x000f8;rensen</surname><given-names>A</given-names></name><name><surname>Mayntz</surname><given-names>D</given-names></name><name><surname>Raubenheimer</surname><given-names>D</given-names></name><name><surname>Simpson</surname><given-names>SJ</given-names></name></person-group>
+<year>2008</year>
+<article-title>Protein-leverage in mice: the geometry of macronutrient balancing and consequences for fat deposition.</article-title>
+<source>Obesity</source>
+<volume>16</volume>
+<issue>3</issue>
+<fpage>566</fpage>
+<lpage>571</lpage>
+<pub-id pub-id-type="pmid">18239565</pub-id></element-citation></ref><ref id="pone.0025929-Shariatmadari1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shariatmadari</surname><given-names>F</given-names></name><name><surname>Forbes</surname><given-names>JM</given-names></name></person-group>
+<year>1993</year>
+<article-title>Growth and food intake responses to diets of different protein contents and a choice between diets containing two concentrations of protein in broiler and layer strains of chicken.</article-title>
+<source>Br Poult Sci</source>
+<volume>34</volume>
+<issue>5</issue>
+<fpage>959</fpage>
+<lpage>970</lpage>
+<pub-id pub-id-type="pmid">8156434</pub-id></element-citation></ref><ref id="pone.0025929-Raubenheimer1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raubenheimer</surname><given-names>D</given-names></name><name><surname>Zemke-White</surname><given-names>WL</given-names></name><name><surname>Phillips</surname><given-names>RJ</given-names></name><name><surname>Clements</surname><given-names>KD</given-names></name></person-group>
+<year>2005</year>
+<article-title>Algal macronutrients and food selection by the omnivorous marine fish <italic>Girella tricuspidata</italic>.</article-title>
+<source>Ecology</source>
+<volume>86</volume>
+<issue>10</issue>
+<fpage>2601</fpage>
+<lpage>2610</lpage>
+</element-citation></ref><ref id="pone.0025929-Raubenheimer2"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raubenheimer</surname><given-names>D</given-names></name><name><surname>Simpson</surname><given-names>SJ</given-names></name></person-group>
+<year>1997</year>
+<article-title>Integrative models of nutrient balancing: application to insects and vertebrates.</article-title>
+<source>Nutr Res Rev</source>
+<volume>10</volume>
+<issue>1</issue>
+<fpage>151</fpage>
+<lpage>179</lpage>
+<pub-id pub-id-type="pmid">19094262</pub-id></element-citation></ref><ref id="pone.0025929-Brooks1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brooks</surname><given-names>RC</given-names></name><name><surname>Simpson</surname><given-names>SJ</given-names></name><name><surname>Raubenheimer</surname><given-names>D</given-names></name></person-group>
+<year>2010</year>
+<article-title>The price of protein: combining evolutionary and economic analysis to understand excessive energy consumption.</article-title>
+<source>Obes Rev</source>
+<volume>11</volume>
+<issue>12</issue>
+<fpage>887</fpage>
+<lpage>894</lpage>
+<pub-id pub-id-type="pmid">20230444</pub-id></element-citation></ref><ref id="pone.0025929-Eaton1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eaton</surname><given-names>SB</given-names></name></person-group>
+<year>2006</year>
+<article-title>The ancestral human diet: what was it and should it be a paradigm for contemporary nutrition?</article-title>
+<source>Proc Nutr Soc</source>
+<volume>65</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>6</lpage>
+</element-citation></ref><ref id="pone.0025929-Cordain1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cordain</surname><given-names>L</given-names></name><name><surname>Miller</surname><given-names>JB</given-names></name><name><surname>Eaton</surname><given-names>SB</given-names></name><name><surname>Mann</surname><given-names>N</given-names></name><name><surname>Holt</surname><given-names>SH</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Plant-animal subsistence ratios and macronutrient energy estimations in worldwide hunter-gatherer diets.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>71</volume>
+<issue>3</issue>
+<fpage>682</fpage>
+<lpage>692</lpage>
+<pub-id pub-id-type="pmid">10702160</pub-id></element-citation></ref><ref id="pone.0025929-Weigle1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weigle</surname><given-names>DS</given-names></name><name><surname>Breen</surname><given-names>PA</given-names></name><name><surname>Matthys</surname><given-names>CC</given-names></name><name><surname>Callahan</surname><given-names>HS</given-names></name><name><surname>Meeuws</surname><given-names>KE</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>A high-protein diet induces sustained reductions in appetite, ad libitum caloric intake, and body weight despite compensatory changes in diurnal plasma leptin and ghrelin concentrations.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>82</volume>
+<issue>1</issue>
+<fpage>41</fpage>
+<lpage>48</lpage>
+<pub-id pub-id-type="pmid">16002798</pub-id></element-citation></ref><ref id="pone.0025929-Skov1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skov</surname><given-names>AR</given-names></name><name><surname>Toubro</surname><given-names>S</given-names></name><name><surname>Ronn</surname><given-names>B</given-names></name><name><surname>Holm</surname><given-names>L</given-names></name><name><surname>Astrup</surname><given-names>A</given-names></name></person-group>
+<year>1999</year>
+<article-title>Randomized trial on protein vs carbohydrate in ad libitum fat reduced diet for the treatment of obesity.</article-title>
+<source>Int J Obes Relat Metab Disord</source>
+<volume>23</volume>
+<issue>5</issue>
+<fpage>528</fpage>
+<lpage>536</lpage>
+<pub-id pub-id-type="pmid">10375057</pub-id></element-citation></ref><ref id="pone.0025929-Due1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Due</surname><given-names>A</given-names></name><name><surname>Toubro</surname><given-names>S</given-names></name><name><surname>Skov</surname><given-names>AR</given-names></name><name><surname>Astrup</surname><given-names>A</given-names></name></person-group>
+<year>2004</year>
+<article-title>Effect of normal-fat diets, either medium or high in protein, on body weight in overweight subjects: a randomised 1-year trial.</article-title>
+<source>Int J Obes Relat Metab Disord</source>
+<volume>28</volume>
+<issue>10</issue>
+<fpage>1283</fpage>
+<lpage>1290</lpage>
+<pub-id pub-id-type="pmid">15303109</pub-id></element-citation></ref><ref id="pone.0025929-Due2"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Due</surname><given-names>A</given-names></name><name><surname>Toubro</surname><given-names>S</given-names></name><name><surname>Stender</surname><given-names>S</given-names></name><name><surname>Skov</surname><given-names>AR</given-names></name><name><surname>Astrup</surname><given-names>A</given-names></name></person-group>
+<year>2005</year>
+<article-title>The effect of diets high in protein or carbohydrate on inflammatory markers in overweight subjects.</article-title>
+<source>Diabetes Obes Metab</source>
+<volume>7</volume>
+<issue>3</issue>
+<fpage>223</fpage>
+<lpage>229</lpage>
+<pub-id pub-id-type="pmid">15811138</pub-id></element-citation></ref><ref id="pone.0025929-Gosby1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gosby</surname><given-names>AK</given-names></name><name><surname>Soares-Wynter</surname><given-names>S</given-names></name><name><surname>Campbell</surname><given-names>C</given-names></name><name><surname>Badaloo</surname><given-names>A</given-names></name><name><surname>Antonelli</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Design and testing of foods differing in protein to energy ratios.</article-title>
+<source>Appetite</source>
+<volume>55</volume>
+<issue>2</issue>
+<fpage>367</fpage>
+<lpage>370</lpage>
+<pub-id pub-id-type="pmid">20600416</pub-id></element-citation></ref><ref id="pone.0025929-Human1"><label>23</label><element-citation publication-type="journal">
+<collab>Human energy requirements</collab>
+<article-title>Scientific background papers from the Joint FAO/WHO/UNU Expert Consultation. October 17&#x02013;24, 2001 (2005).</article-title>
+<source>Public Health Nutr</source>
+<volume>8</volume>
+<issue>7A</issue>
+<fpage>929</fpage>
+<lpage>1228</lpage>
+</element-citation></ref><ref id="pone.0025929-Stock1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stock</surname><given-names>MJ</given-names></name></person-group>
+<year>1999</year>
+<article-title>Gluttony and thermogenesis revisited.</article-title>
+<source>Int J Obes</source>
+<volume>23</volume>
+<fpage>1105</fpage>
+<lpage>1117</lpage>
+</element-citation></ref><ref id="pone.0025929-Brown1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>WJ</given-names></name><name><surname>Williams</surname><given-names>L</given-names></name><name><surname>Ford</surname><given-names>JH</given-names></name><name><surname>Ball</surname><given-names>K</given-names></name><name><surname>Dobson</surname><given-names>AJ</given-names></name></person-group>
+<year>2005</year>
+<article-title>Identifying the energy gap: magnitude and determinants of 5-year weight gain in midage women.</article-title>
+<source>Obes Res</source>
+<volume>13</volume>
+<issue>8</issue>
+<fpage>1431</fpage>
+<lpage>1441</lpage>
+<pub-id pub-id-type="pmid">16129726</pub-id></element-citation></ref><ref id="pone.0025929-Hall1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hall</surname><given-names>KD</given-names></name><name><surname>Sacks</surname><given-names>G</given-names></name><name><surname>Chandramohan</surname><given-names>D</given-names></name><name><surname>Chow</surname><given-names>CC</given-names></name><name><surname>Wang</surname><given-names>YC</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Quantification of the effect of energy balance on bodyweight.</article-title>
+<source>Lancet</source>
+<volume>378</volume>
+<fpage>826</fpage>
+<lpage>37</lpage>
+<pub-id pub-id-type="pmid">21872751</pub-id></element-citation></ref><ref id="pone.0025929-Keast1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Keast</surname><given-names>DR</given-names></name><name><surname>Nicklas</surname><given-names>TA</given-names></name><name><surname>O'Neil</surname><given-names>CE</given-names></name></person-group>
+<year>2010</year>
+<article-title>Snacking is associated with reduced risk of overweight and reduced abdominal obesity in adolescents: National Health and Nutrition Examination Survey (NHANES) 1999&#x02013;2004.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>92</volume>
+<issue>2</issue>
+<fpage>428</fpage>
+<lpage>435</lpage>
+<pub-id pub-id-type="pmid">20554791</pub-id></element-citation></ref><ref id="pone.0025929-Kerver1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kerver</surname><given-names>JM</given-names></name><name><surname>Yang</surname><given-names>EJ</given-names></name><name><surname>Obayashi</surname><given-names>S</given-names></name><name><surname>Bianchi</surname><given-names>L</given-names></name><name><surname>Song</surname><given-names>WO</given-names></name></person-group>
+<year>2006</year>
+<article-title>Meal and snack patterns are associated with dietary intake of energy and nutrients in US adults.</article-title>
+<source>J Am Diet Assoc</source>
+<volume>106</volume>
+<issue>1</issue>
+<fpage>46</fpage>
+<lpage>53</lpage>
+<pub-id pub-id-type="pmid">16390666</pub-id></element-citation></ref><ref id="pone.0025929-Johnson1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johnson</surname><given-names>L</given-names></name><name><surname>Wilks</surname><given-names>DC</given-names></name><name><surname>Lindroos</surname><given-names>AK</given-names></name><name><surname>Jebb</surname><given-names>SA</given-names></name></person-group>
+<year>2009</year>
+<article-title>Reflections from a systematic review of dietary energy density and weight gain: is the inclusion of drinks valid?</article-title>
+<source>Obes Rev</source>
+<volume>10</volume>
+<issue>6</issue>
+<fpage>681</fpage>
+<lpage>692</lpage>
+<pub-id pub-id-type="pmid">19413706</pub-id></element-citation></ref><ref id="pone.0025929-Popkin1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Popkin</surname><given-names>BM</given-names></name><name><surname>Duffey</surname><given-names>KJ</given-names></name></person-group>
+<year>2010</year>
+<article-title>Does hunger and satiety drive eating anymore? Increasing eating occasions and decreasing time between eating occasions in the United States.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>91</volume>
+<issue>5</issue>
+<fpage>1342</fpage>
+<lpage>1347</lpage>
+<pub-id pub-id-type="pmid">20237134</pub-id></element-citation></ref><ref id="pone.0025929-Stubbs1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stubbs</surname><given-names>RJ</given-names></name><name><surname>Johnstone</surname><given-names>AM</given-names></name><name><surname>Mazlan</surname><given-names>N</given-names></name><name><surname>Mbaiwa</surname><given-names>SE</given-names></name><name><surname>Ferris</surname><given-names>S</given-names></name></person-group>
+<year>2001</year>
+<article-title>Effect of altering the variety of sensorially distinct foods, of the same macronutrient content, on food intake and body weight in men.</article-title>
+<source>Eur J Clin Nutr</source>
+<volume>55</volume>
+<issue>1</issue>
+<fpage>19</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="pmid">11303491</pub-id></element-citation></ref><ref id="pone.0025929-Maillot1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maillot</surname><given-names>M</given-names></name><name><surname>Vieux</surname><given-names>F</given-names></name><name><surname>Ferguson</surname><given-names>EF</given-names></name><name><surname>Volatier</surname><given-names>JL</given-names></name><name><surname>Amiot</surname><given-names>MJ</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>To meet nutrient recommendations, most French adults need to expand their habitual food repertoire.</article-title>
+<source>J Nutr</source>
+<volume>139</volume>
+<issue>9</issue>
+<fpage>1721</fpage>
+<lpage>1727</lpage>
+<pub-id pub-id-type="pmid">19625703</pub-id></element-citation></ref><ref id="pone.0025929-Brondel1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brondel</surname><given-names>L</given-names></name><name><surname>Romer</surname><given-names>M</given-names></name><name><surname>Van Wymelbeke</surname><given-names>V</given-names></name><name><surname>Pineau</surname><given-names>N</given-names></name><name><surname>Jiang</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Variety enhances food intake in humans: role of sensory-specific satiety.</article-title>
+<source>Physiol Behav</source>
+<volume>97</volume>
+<issue>1</issue>
+<fpage>44</fpage>
+<lpage>51</lpage>
+<pub-id pub-id-type="pmid">19419673</pub-id></element-citation></ref><ref id="pone.0025929-Norton1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Norton</surname><given-names>GN</given-names></name><name><surname>Anderson</surname><given-names>AS</given-names></name><name><surname>Hetherington</surname><given-names>MM</given-names></name></person-group>
+<year>2006</year>
+<article-title>Volume and variety: relative effects on food intake.</article-title>
+<source>Physiol Behav</source>
+<volume>87</volume>
+<issue>4</issue>
+<fpage>714</fpage>
+<lpage>722</lpage>
+<pub-id pub-id-type="pmid">16516251</pub-id></element-citation></ref><ref id="pone.0025929-Nolan1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nolan</surname><given-names>LJ</given-names></name><name><surname>Hetherington</surname><given-names>MM</given-names></name></person-group>
+<year>2009</year>
+<article-title>The effects of sham feeding-induced sensory specific satiation and food variety on subsequent food intake in humans.</article-title>
+<source>Appetite</source>
+<volume>52</volume>
+<issue>3</issue>
+<fpage>720</fpage>
+<lpage>725</lpage>
+<pub-id pub-id-type="pmid">19501771</pub-id></element-citation></ref><ref id="pone.0025929-Potier1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Potier</surname><given-names>M</given-names></name><name><surname>Fromentin</surname><given-names>G</given-names></name><name><surname>Calvez</surname><given-names>J</given-names></name><name><surname>Benamouzig</surname><given-names>R</given-names></name><name><surname>Martin-Rouas</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>A high-protein, moderate-energy, regular cheesy snack is energetically compensated in human subjects.</article-title>
+<source>Br J Nutr</source>
+<volume>102</volume>
+<issue>4</issue>
+<fpage>625</fpage>
+<lpage>631</lpage>
+<pub-id pub-id-type="pmid">19216814</pub-id></element-citation></ref><ref id="pone.0025929-Johnstone1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johnstone</surname><given-names>AM</given-names></name><name><surname>Shannon</surname><given-names>E</given-names></name><name><surname>Whybrow</surname><given-names>S</given-names></name><name><surname>Reid</surname><given-names>CA</given-names></name><name><surname>Stubbs</surname><given-names>RJ</given-names></name></person-group>
+<year>2000</year>
+<article-title>Altering the temporal distribution of energy intake with isoenergetically dense foods given as snacks does not affect total daily energy intake in normal-weight men.</article-title>
+<source>Br J Nutr</source>
+<volume>83</volume>
+<issue>1</issue>
+<fpage>7</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="pmid">10703459</pub-id></element-citation></ref><ref id="pone.0025929-Marmonier1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marmonier</surname><given-names>C</given-names></name><name><surname>Chapelot</surname><given-names>D</given-names></name><name><surname>Louis-Sylvestre</surname><given-names>J</given-names></name></person-group>
+<year>2000</year>
+<article-title>Effects of macronutrient content and energy density of snacks consumed in a satiety state on the onset of the next meal.</article-title>
+<source>Appetite</source>
+<volume>34</volume>
+<issue>2</issue>
+<fpage>161</fpage>
+<lpage>168</lpage>
+<pub-id pub-id-type="pmid">10744905</pub-id></element-citation></ref><ref id="pone.0025929-Lejeune1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lejeune</surname><given-names>MPGM</given-names></name><name><surname>Westerterp</surname><given-names>KR</given-names></name><name><surname>Adam</surname><given-names>TCM</given-names></name><name><surname>Luscombe-Marsh</surname><given-names>ND</given-names></name><name><surname>Westerterp-Plantenga</surname><given-names>MS</given-names></name></person-group>
+<year>2006</year>
+<article-title>Ghrelin and glucagon-like peptide 1 concentrations, 24-h satiety, and energy and substrate metabolism during a high-protein diet and measured in a respiration chamber.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>83</volume>
+<fpage>89</fpage>
+<lpage>94</lpage>
+<pub-id pub-id-type="pmid">16400055</pub-id></element-citation></ref><ref id="pone.0025929-Gietzen1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gietzen</surname><given-names>DW</given-names></name><name><surname>Hao</surname><given-names>S</given-names></name><name><surname>Anthony</surname><given-names>TG</given-names></name></person-group>
+<year>2007</year>
+<article-title>Mechanisms of Food Intake Repression in Indispensable Amino Acid Deficiency.</article-title>
+<source>Annu Rev Nutr</source>
+<volume>27</volume>
+<fpage>63</fpage>
+<lpage>78</lpage>
+<pub-id pub-id-type="pmid">17328672</pub-id></element-citation></ref><ref id="pone.0025929-Simpson3"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simpson</surname><given-names>SJ</given-names></name><name><surname>Raubenheimer</surname><given-names>D</given-names></name></person-group>
+<year>2009</year>
+<article-title>Macronutrient balance and lifespan.</article-title>
+<source>Aging</source>
+<volume>1</volume>
+<issue>10</issue>
+<fpage>875</fpage>
+<lpage>880</lpage>
+<pub-id pub-id-type="pmid">20157561</pub-id></element-citation></ref><ref id="pone.0025929-Potier2"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Potier</surname><given-names>M</given-names></name><name><surname>Darcel</surname><given-names>N</given-names></name><name><surname>Tom&#x000e9;</surname><given-names>D</given-names></name></person-group>
+<year>2009</year>
+<article-title>Protein, amino acids and the control of food intake.</article-title>
+<source>Curr Opin Clin Nutr Metab Care</source>
+<volume>12</volume>
+<fpage>54</fpage>
+<lpage>58</lpage>
+<pub-id pub-id-type="pmid">19057188</pub-id></element-citation></ref><ref id="pone.0025929-TannousditElKhoury1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tannous dit El Khoury</surname><given-names>D</given-names></name><name><surname>Obeid</surname><given-names>O</given-names></name><name><surname>Azar</surname><given-names>ST</given-names></name><name><surname>Hwalla</surname><given-names>N</given-names></name></person-group>
+<year>2006</year>
+<article-title>Variations in postprandial ghrelin status following ingestion of high-carbohydrate, high-fat, and high-protein meals in males.</article-title>
+<source>Ann Nutr Metab</source>
+<volume>50</volume>
+<issue>3</issue>
+<fpage>260</fpage>
+<lpage>269</lpage>
+<pub-id pub-id-type="pmid">16508254</pub-id></element-citation></ref><ref id="pone.0025929-Leidy1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leidy</surname><given-names>HJ</given-names></name><name><surname>Armstrong</surname><given-names>CL</given-names></name><name><surname>Tang</surname><given-names>M</given-names></name><name><surname>Mattes</surname><given-names>RD</given-names></name><name><surname>Campbell</surname><given-names>WW</given-names></name></person-group>
+<year>2010</year>
+<article-title>The Influence of Higher Protein Intake and Greater Eating Frequency on Appetite Control in Overweight and Obese Men.</article-title>
+<source>Obesity</source>
+<volume>18</volume>
+<issue>9</issue>
+<fpage>1725</fpage>
+<lpage>1732</lpage>
+<pub-id pub-id-type="pmid">20339363</pub-id></element-citation></ref><ref id="pone.0025929-Cheng1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cheng</surname><given-names>K</given-names></name><name><surname>Simpson</surname><given-names>SJ</given-names></name><name><surname>Raubenheimer</surname><given-names>D</given-names></name></person-group>
+<year>2008</year>
+<article-title>A geometry of regulatory scaling.</article-title>
+<source>Am Nat</source>
+<volume>172</volume>
+<issue>5</issue>
+<fpage>681</fpage>
+<lpage>693</lpage>
+<pub-id pub-id-type="pmid">18834292</pub-id></element-citation></ref><ref id="pone.0025929-Prentice1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Prentice</surname><given-names>A</given-names></name><name><surname>Jebb</surname><given-names>S</given-names></name></person-group>
+<year>2004</year>
+<article-title>Energy intake/physical activity interactions in the homestasis of body weight regulation.</article-title>
+<source>Nutr Rev</source>
+<volume>62</volume>
+<issue>7, Part2</issue>
+<fpage>S98</fpage>
+<lpage>104</lpage>
+<pub-id pub-id-type="pmid">15387474</pub-id></element-citation></ref><ref id="pone.0025929-Lee1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>KP</given-names></name><name><surname>Simpson</surname><given-names>SJ</given-names></name><name><surname>Clissold</surname><given-names>FJ</given-names></name><name><surname>Brooks</surname><given-names>R</given-names></name><name><surname>Ballard</surname><given-names>JW</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Lifespan and reproduction in Drosophila: New insights from nutritional geometry.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>105</volume>
+<issue>7</issue>
+<fpage>2498</fpage>
+<lpage>2503</lpage>
+<pub-id pub-id-type="pmid">18268352</pub-id></element-citation></ref><ref id="pone.0025929-Metges1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Metges</surname><given-names>CC</given-names></name><name><surname>Barth</surname><given-names>CA</given-names></name></person-group>
+<year>2000</year>
+<article-title>Metabolic consequences of a high dietary-protein intake in adulthood: assessment of the available evidence.</article-title>
+<source>J Nutr</source>
+<volume>130</volume>
+<issue>4</issue>
+<fpage>886</fpage>
+<lpage>889</lpage>
+<pub-id pub-id-type="pmid">10736347</pub-id></element-citation></ref><ref id="pone.0025929-Stubbs2"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stubbs</surname><given-names>RJ</given-names></name><name><surname>Harbron</surname><given-names>CG</given-names></name><name><surname>Murgatroyd</surname><given-names>PR</given-names></name><name><surname>Prentice</surname><given-names>AM</given-names></name></person-group>
+<year>1995</year>
+<article-title>Covert manipulation of dietary fat and energy density: effect on substrate flux and food intake in men eating ad libitum.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>62</volume>
+<issue>2</issue>
+<fpage>316</fpage>
+<lpage>329</lpage>
+<pub-id pub-id-type="pmid">7625338</pub-id></element-citation></ref><ref id="pone.0025929-Long1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Long</surname><given-names>SJ</given-names></name><name><surname>Jeffcoat</surname><given-names>AR</given-names></name><name><surname>Millward</surname><given-names>DJ</given-names></name></person-group>
+<year>2000</year>
+<article-title>Effect of habitual dietary-protein intake on appetite and satiety.</article-title>
+<source>Appetite</source>
+<volume>35</volume>
+<issue>1</issue>
+<fpage>79</fpage>
+<lpage>88</lpage>
+<pub-id pub-id-type="pmid">10896764</pub-id></element-citation></ref><ref id="pone.0025929-Tom1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tom&#x000e9;</surname><given-names>D</given-names></name><name><surname>Bos</surname><given-names>C</given-names></name></person-group>
+<year>2000</year>
+<article-title>Dietary protein and nitrogen utilization.</article-title>
+<source>Journal of Nutrition</source>
+<volume>130</volume>
+<issue>7</issue>
+<fpage>1868S</fpage>
+<lpage>1873S</lpage>
+<pub-id pub-id-type="pmid">10867065</pub-id></element-citation></ref><ref id="pone.0025929-Simpson4"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simpson</surname><given-names>SJ</given-names></name><name><surname>Raubenheimer</surname><given-names>D</given-names></name></person-group>
+<year>1997</year>
+<article-title>Geometric analysis of macronutrient selection in the rat.</article-title>
+<source>Appetite</source>
+<volume>28</volume>
+<issue>3</issue>
+<fpage>201</fpage>
+<lpage>213</lpage>
+<pub-id pub-id-type="pmid">9218094</pub-id></element-citation></ref><ref id="pone.0025929-Flint1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Flint</surname><given-names>A</given-names></name><name><surname>Raben</surname><given-names>A</given-names></name><name><surname>Blundell</surname><given-names>JE</given-names></name><name><surname>Astrup</surname><given-names>A</given-names></name></person-group>
+<year>2000</year>
+<article-title>Reproducibility, power and validity of visual analogue scales in assessment of appetite sensations in single test meal studies.</article-title>
+<source>Int J Obes Relat Metab Disord</source>
+<volume>24</volume>
+<issue>1</issue>
+<fpage>38</fpage>
+<lpage>48</lpage>
+<pub-id pub-id-type="pmid">10702749</pub-id></element-citation></ref><ref id="pone.0025929-R1"><label>54</label><element-citation publication-type="other">
+<collab>R Development Core Team</collab>
+<year>2010</year>
+<article-title>R: a language and environment for statistical computing.</article-title>
+<comment>Available: <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org">http://www.R-project.org</ext-link>. Accessed 2010 Sep 15</comment>
+</element-citation></ref><ref id="pone.0025929-Hothorn1"><label>55</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hothorn</surname><given-names>T</given-names></name><name><surname>Bretz</surname><given-names>F</given-names></name><name><surname>Westfall</surname><given-names>P</given-names></name></person-group>
+<year>2008</year>
+<article-title>Simultaneous inference in general parametric models.</article-title>
+<source>Biom J</source>
+<volume>50</volume>
+<issue>3</issue>
+<fpage>346</fpage>
+<lpage>363</lpage>
+<pub-id pub-id-type="pmid">18481363</pub-id></element-citation></ref></ref-list></back></article>

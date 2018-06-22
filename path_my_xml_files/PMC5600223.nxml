@@ -1,0 +1,911 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1369-7625</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28295915</article-id><article-id pub-id-type="pmc">5600223</article-id><article-id pub-id-type="doi">10.1111/hex.12553</article-id><article-id pub-id-type="publisher-id">HEX12553</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research Papers</subject></subj-group></article-categories><title-group><article-title>Effectiveness of a decision aid for patients with depression: A&#x000a0;randomized controlled trial</article-title></title-group><contrib-group><contrib id="hex12553-cr-0001" contrib-type="author" corresp="yes"><name><surname>Perestelo&#x02010;Perez</surname><given-names>Lilisbeth</given-names></name><degrees>MPsych, PhD</degrees><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6113-7313</contrib-id><address><email>lperperr@gobiernodecanarias.org</email><email>lilisbethp@gmail.com</email></address><xref ref-type="aff" rid="hex12553-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="hex12553-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="hex12553-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="hex12553-cr-0002" contrib-type="author"><name><surname>Rivero&#x02010;Santana</surname><given-names>Amado</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="hex12553-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="hex12553-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="hex12553-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="hex12553-cr-0003" contrib-type="author"><name><surname>Sanchez&#x02010;Afonso</surname><given-names>Juan Antonio</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="hex12553-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="hex12553-cr-0004" contrib-type="author"><name><surname>Perez&#x02010;Ramos</surname><given-names>Jeanette</given-names></name><degrees>MPsych, PhD</degrees><xref ref-type="aff" rid="hex12553-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="hex12553-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="hex12553-cr-0005" contrib-type="author"><name><surname>Castellano&#x02010;Fuentes</surname><given-names>Carmen Luisa</given-names></name><degrees>MPsych</degrees><xref ref-type="aff" rid="hex12553-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="hex12553-cr-0006" contrib-type="author"><name><surname>Sepucha</surname><given-names>Karen</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="hex12553-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="hex12553-cr-0007" contrib-type="author"><name><surname>Serrano&#x02010;Aguilar</surname><given-names>Pedro</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="hex12553-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="hex12553-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="hex12553-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="hex12553-aff-0001">
+<label><sup>1</sup></label>
+<institution>Evaluation Unit of the Canary Islands Health Service (SESCS)</institution>
+<named-content content-type="city">Tenerife</named-content>
+<country country="ES">Spain</country>
+</aff><aff id="hex12553-aff-0002">
+<label><sup>2</sup></label>
+<institution>Health Services Research on Chronic Patients Network (REDISSEC)</institution>
+<named-content content-type="city">Tenerife</named-content>
+<country country="ES">Spain</country>
+</aff><aff id="hex12553-aff-0003">
+<label><sup>3</sup></label>
+<institution>Center for Biomedical Research of the Canary Islands (CIBICAN)</institution>
+<named-content content-type="city">Tenerife</named-content>
+<country country="ES">Spain</country>
+</aff><aff id="hex12553-aff-0004">
+<label><sup>4</sup></label>
+<institution>Canary Islands Foundation of Health Research (FUNCANIS)</institution>
+<named-content content-type="city">Tenerife</named-content>
+<country country="ES">Spain</country>
+</aff><aff id="hex12553-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Health Decision Sciences Center (HDSC)</named-content>
+<institution>Massachusetts General Hospital</institution>
+<named-content content-type="city">Boston</named-content>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Lilisbeth Perestelo&#x02010;Perez, MPsych, PhD, Servicio de Evaluacion del Servicio Canario de la Salud, Tenerife, Spain.<break/>
+Emails: <email>lperperr@gobiernodecanarias.org</email>; <email>lilisbethp@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>3</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2017</year></pub-date><volume>20</volume><issue>5</issue><issue-id pub-id-type="doi">10.1111/hex.2017.20.issue-5</issue-id><fpage>1096</fpage><lpage>1105</lpage><history><date date-type="accepted"><day>10</day><month>2</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors Health Expectations Published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:HEX-20-1096.pdf"/><abstract id="hex12553-abs-0001"><title>Abstract</title><sec id="hex12553-sec-0001"><title>Background</title><p>Shared decision making is an important component of patient&#x02010;centred care and decision aids are tools designed to support patients' decision making and help patients with depression to make informed choices.</p></sec><sec id="hex12553-sec-0002"><title>Objective</title><p>The study aim was to assess the effectiveness of a web&#x02010;based decision aid for patients with unipolar depression.</p></sec><sec id="hex12553-sec-0003"><title>Design</title><p>Randomized controlled trial.</p></sec><sec id="hex12553-sec-0004"><title>Setting and participants</title><p>Adults diagnosed with a major depressive disorder and recruited in primary care centres were included and randomized to the decision aid (n=68) or usual care (n=79).</p></sec><sec id="hex12553-sec-0005"><title>Intervention</title><p>Patients in the decision aid group reviewed the decision aid accompanied by a researcher.</p></sec><sec id="hex12553-sec-0006"><title>Outcome measures</title><p>Knowledge about treatment options, decisional conflict, treatment intention and preference for participation in decision making. We also developed a pilot measure of concordance between patients' goals and concerns about treatment options and their treatment intention.</p></sec><sec id="hex12553-sec-0007"><title>Results</title><p>Intervention significantly improved knowledge (<italic>P</italic>&#x0003c;.001) and decisional conflict (<italic>P</italic>&#x0003c;.001), and no differences were observed in treatment intention, preferences for participation, or concordance. One of the scales developed to measure goals and concerns showed validity issues.</p></sec><sec id="hex12553-sec-0008"><title>Conclusion</title><p>The decision aid &#x0201c;Decision making in depression&#x0201d; is effective improving knowledge of treatment options and reducing decisional conflict of patients with unipolar depression. More research is needed to establish a valid and reliable measure of concordance between patients' goals and concerns regarding pharmacological and psychological treatment, and the choice made.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="hex12553-kwd-0001">decision aid</kwd><kwd id="hex12553-kwd-0002">depression</kwd><kwd id="hex12553-kwd-0003">patient involvement (empowerment, self&#x02010;management)</kwd><kwd id="hex12553-kwd-0004">primary care</kwd><kwd id="hex12553-kwd-0005">randomized controlled trial</kwd><kwd id="hex12553-kwd-0006">shared decision making</kwd><kwd id="hex12553-kwd-0007">Spain</kwd></kwd-group><funding-group><award-group><funding-source>Canary Islands Agency for Research, Innovation, and Society of Information</funding-source><award-id>ProID20100251</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="4"/><page-count count="10"/><word-count count="8064"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>hex12553</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.9 mode:remove_FC converted:15.09.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hex12553-cit-1001">
+<string-name>
+<surname>Perestelo&#x02010;Perez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rivero&#x02010;Santana</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sanchez&#x02010;Afonso</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>Effectiveness of a&#x000a0;decision&#x000a0;aid for patients with depression: A randomized&#x000a0;controlled trial</article-title>. <source>Health Expect</source>. <year>2017</year>;<volume>20</volume>:<fpage>1096</fpage>&#x02013;<lpage>1105</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/hex.12553">https://doi.org/10.1111/hex.12553</ext-link>
+</mixed-citation>
+</p></notes><notes><fn-group id="hex12553-ntgp-0001"><fn id="hex12553-note-1001"><p>
+<bold>Trial registration:</bold> This trial is registered with the European Union Clinical Trials Register (EudraCT: 2012&#x02010;001673&#x02010;90)</p></fn></fn-group></notes></front><body><sec id="hex12553-sec-0009"><label>1</label><title>INTRODUCTION</title><p>In the last decade, the active participation of patients in the decision making process regarding their health care has been increasingly advocated.<xref rid="hex12553-bib-0001" ref-type="ref">1</xref>, <xref rid="hex12553-bib-0002" ref-type="ref">2</xref>, <xref rid="hex12553-bib-0003" ref-type="ref">3</xref> One of the conceptual models proposed within this new patient&#x02010;centred perspective of health care is the shared decision making (SDM) model. SDM is a process of joint deliberation and collaboration between the health professional and the patient in order to reach a consensus about treatment or diagnostic decisions. In this dyadic interaction, health professionals offer technical information about the disease, the benefits, and risks of the available therapeutic or diagnostic options, whereas patients provide information about their beliefs, concerns, values, and preferences about the consequences of those options.<xref rid="hex12553-bib-0004" ref-type="ref">4</xref>, <xref rid="hex12553-bib-0005" ref-type="ref">5</xref>, <xref rid="hex12553-bib-0006" ref-type="ref">6</xref> SDM is especially relevant when the scientific evidence about the effectiveness or safety of available treatments is scarce, or when they show a similar balance between benefits and risks.</p><p>Patients decision aids (DAs) are tools designed to promote and facilitate SDM and help patients to make informed choices.<xref rid="hex12553-bib-0007" ref-type="ref">7</xref>, <xref rid="hex12553-bib-0008" ref-type="ref">8</xref>, <xref rid="hex12553-bib-0009" ref-type="ref">9</xref> These materials are developed in different formats (paper and pencil instruments, videos, audio&#x02010;guided workbooks, web&#x02010;based tools, interactive software, etc.) and can be used alone by the patient or in interaction with the health professional. DAs include explanations about treatment options, describing the benefits and harms based on the scientific evidence. They also encourage patients to think about their own values and preferences regarding the benefits and risks of the different treatment options, and how they could influence their lives and well&#x02010;being.<xref rid="hex12553-bib-0010" ref-type="ref">10</xref>, <xref rid="hex12553-bib-0011" ref-type="ref">11</xref>
+</p><p>Recent systematic reviews show that DAs are effective in improving patients' knowledge about available treatments, risk perceptions, and their decisional conflict (uncertainty about the course of action to take). They also have shown to reduce the proportion of people who were passive in decision making or who remained undecided after deliberation. Mixed or inconclusive results have been found on other outcomes such as satisfaction with the decision making process, adherence to treatment or consultation time.<xref rid="hex12553-bib-0012" ref-type="ref">12</xref>, <xref rid="hex12553-bib-0013" ref-type="ref">13</xref>, <xref rid="hex12553-bib-0014" ref-type="ref">14</xref>
+</p><p>In the field of mental health, although some studies have pointed out some psychiatrists' concerns about the capacity of patients to engage in SDM, due to a lower awareness of the disease or reduced cognitive abilities,<xref rid="hex12553-bib-0015" ref-type="ref">15</xref>, <xref rid="hex12553-bib-0016" ref-type="ref">16</xref> research has shown that most of these patients can understand treatment choices and make rational decisions.<xref rid="hex12553-bib-0017" ref-type="ref">17</xref>, <xref rid="hex12553-bib-0018" ref-type="ref">18</xref> In the specific area of depressive disorders, results show that a majority of these patients are interested in receiving information about their illness and participating in SDM,<xref rid="hex12553-bib-0019" ref-type="ref">19</xref>, <xref rid="hex12553-bib-0020" ref-type="ref">20</xref>, <xref rid="hex12553-bib-0021" ref-type="ref">21</xref>, <xref rid="hex12553-bib-0022" ref-type="ref">22</xref> and perceive a lesser involvement in decisions than they desire.<xref rid="hex12553-bib-0023" ref-type="ref">23</xref>, <xref rid="hex12553-bib-0024" ref-type="ref">24</xref>, <xref rid="hex12553-bib-0025" ref-type="ref">25</xref> This perception is confirmed by studies that objectively assessed SDM facilitation in practice by psychiatrists<xref rid="hex12553-bib-0026" ref-type="ref">26</xref> or primary care physicians.<xref rid="hex12553-bib-0027" ref-type="ref">27</xref>, <xref rid="hex12553-bib-0028" ref-type="ref">28</xref> However, despite this demand there have been very few studies that have assessed the effectiveness of DAs or other decision support interventions in the field of depressive disorders. To our knowledge, only three randomized trials have implemented a DA for patients with depression;<xref rid="hex12553-bib-0029" ref-type="ref">29</xref>, <xref rid="hex12553-bib-0030" ref-type="ref">30</xref>, <xref rid="hex12553-bib-0031" ref-type="ref">31</xref> one of them also included an intense 6&#x02010;month training for physicians in the concepts and practice of SDM.<xref rid="hex12553-bib-0029" ref-type="ref">29</xref> Results showed significant differences favouring intervention groups in decisional conflict,<xref rid="hex12553-bib-0030" ref-type="ref">30</xref>, <xref rid="hex12553-bib-0031" ref-type="ref">31</xref> preparation for decision making and preference for participation,<xref rid="hex12553-bib-0029" ref-type="ref">29</xref> and several domains of satisfaction,<xref rid="hex12553-bib-0031" ref-type="ref">31</xref> whereas mixed results were observed on knowledge<xref rid="hex12553-bib-0030" ref-type="ref">30</xref>, <xref rid="hex12553-bib-0031" ref-type="ref">31</xref> and patients' perception of their involvement facilitated by the doctor.<xref rid="hex12553-bib-0029" ref-type="ref">29</xref>, <xref rid="hex12553-bib-0030" ref-type="ref">30</xref> No significant effects were observed on the severity of depression or treatment adherence.<xref rid="hex12553-bib-0029" ref-type="ref">29</xref>, <xref rid="hex12553-bib-0031" ref-type="ref">31</xref>
+</p><p>Our research group has developed a Web Platform (PyDeSalud.com) to promote and facilitate citizens' empowerment and engagement in the decisions concerning their health.<xref rid="hex12553-bib-0032" ref-type="ref">32</xref> It offers different resources, including DAs, for several highly prevalent health conditions. The present study aims to add new evidence about the effectiveness of DAs for patients with depression, assessing the effect of a web&#x02010;based DA on several patients' decisional outcomes. As the primary objective, we hypothesized that the DA would decrease patients' decisional conflict. Secondarily, we expected that the intervention would improve their knowledge of treatment options, increase the number of patients who are sure about the treatment choice and of those who prefer to share this decision with their health&#x02010;care provider, instead of playing a passive role. In addition, we developed a measure of concordance between patients' goals/concerns about treatment options and their intention to choose a particular treatment, because this outcome has been recently proposed as a quality criterion of the decisional process;<xref rid="hex12553-bib-0033" ref-type="ref">33</xref> we expected that the intervention would increase the number of participants who make a concordant choice.</p></sec><sec id="hex12553-sec-0010"><label>2</label><title>METHOD</title><sec id="hex12553-sec-0011"><label>2.1</label><title>Study design and participants</title><p>A randomized controlled trial was performed in 13 primary care centres in Tenerife (Spain). Patients were eligible if they were 18 or older, had a major depressive disorder according to the ICD&#x02010;10<xref rid="hex12553-bib-0034" ref-type="ref">34</xref> or the DSM&#x02010;IV&#x02010;TR<xref rid="hex12553-bib-0035" ref-type="ref">35</xref> diagnostic criteria, and spoke Spanish language. Between June 2014 and June 2015, 26 primary care professionals presented the study to their (consecutive) eligible patients, and those who were interested in participate were contacted by telephone by a researcher. They were informed in detail about the study aims and procedures, and definitively decided about their participation. Those who consented were given an appointment in our research centre. A simple randomization schedule (ratio 1:1) to intervention (web&#x02010;based DA) or control group (usual care) was performed by an independent researcher, by means of a computer software. Both physicians and the researcher who informed and recruited the patients were unaware of patients' allocation.</p><p>The Scientific and Ethics Committee of the University Hospital Nuestra Se&#x000f1;ora de la Candelaria approved the study protocol. The study was performed in accordance with Good Clinical Practice standards, applicable local regulatory requirements, and the recommendations of the Declaration of Helsinki.</p></sec><sec id="hex12553-sec-0012"><label>2.2</label><title>Intervention and procedure</title><p>The Web Platform PyDeSalud.com is a medical website developed to improve citizens' knowledge of highly prevalent diseases such as diabetes, depression, or cancer, and promote their active participation in health&#x02010;care decisions.<xref rid="hex12553-bib-0032" ref-type="ref">32</xref>
+</p><p>It contains three modules of information services: (i) narratives of real patients' experiences, (ii) DAs, and (iii) research needs from the perspective of patients that have to be fulfilled in the scientific literature. The module &#x0201c;Decision making in depression&#x0201d; is a DA for patients with unipolar depression; it was developed according to recommended methods,<xref rid="hex12553-bib-0036" ref-type="ref">36</xref> including patients' and professionals' perspectives by means of focus groups and individual interviews, in an iterative process. Through the DA, the patient can learn about symptoms, types of depression, treatment options and its characteristics (probabilities of response, remission and relapse, adverse effects, and other problems), information resources and support, etc. It includes a values clarification exercise in which patients have to rate the importance attributed or concerns related to different aspects of treatments. At the time of the study, the DA was not publically accessible.</p><p>Participants in the study came to our research centre and signed informed consent. Intervention patients completed the baseline questionnaires (outcome measures were not assessed at baseline) and then reviewed the DA in a single session, accompanied by a researcher who gave support in navigation and clarified patients' questions when necessary. Participants took the time they considered necessary to review the DA. Immediately after, outcome measures were assessed.</p><p>Control participants filled the questionnaires assessing all the study variables. They were told that the study aimed to investigate patients' attitudes about the participation in the decision&#x02010;making process about their care, but they were not informed about the assessment of the DA until they finished their participation.</p></sec><sec id="hex12553-sec-0013"><label>2.3</label><title>Measures</title><sec id="hex12553-sec-0014"><label>2.3.1</label><title>Baseline</title><p>Socio&#x02010;demographic and clinical data are as follows: age, sex, education, marital and work status, illness duration, whether the patients was taking antidepressants and had experienced adverse effects, and type of health care (only public vs public/private). Severity of depression was assessed with the Spanish version of the Beck Depression Inventory (BDI&#x02010;II).<xref rid="hex12553-bib-0037" ref-type="ref">37</xref>
+</p></sec><sec id="hex12553-sec-0015"><label>2.3.2</label><title>Post&#x02010;intervention</title><sec id="hex12553-sec-0016"><title>Primary outcome</title><p>
+<italic>Decisional conflict</italic>: We used the Spanish version of the <italic>Decisional Conflict Scale</italic> (DCS)<xref rid="hex12553-bib-0038" ref-type="ref">38</xref>, <xref rid="hex12553-bib-0039" ref-type="ref">39</xref> that evaluates the level of patients' uncertainty when they are confronted to a medical decision. The scale includes 16 items and five subscales: feeling informed, clear values about benefits and risks, support, uncertainty, and effective decision. Items are scored from 0 (strongly agree) to 4 points (strongly disagree), with higher scores indicating higher decisional conflict. The total score is transformed to a 0&#x02010;100 scale. In a previous study with Spanish patients diagnosed with type 2 diabetes, the total scale showed a Cronbach's alpha of .90.<xref rid="hex12553-bib-0040" ref-type="ref">40</xref> We calculated that, assuming equal variances in the intervention and control groups, 126 patients would be needed to detect a moderate effect size (standardized mean difference=0.5), with a confidence level of 95% and a power of 80%.</p></sec><sec id="hex12553-sec-0017"><title>Secondary outcomes</title><p>
+<italic>Knowledge of treatment options</italic> was assessed with an eight&#x02010;item scale developed by the authors. Items' content referred to aspects like adverse effects of antidepressants, continuation pharmacotherapy, or time to improve with psychotherapy. Five items had a response format of &#x0201c;true/false/I don't know&#x0201d; and the remaining three had a multiple&#x02010;choice format with four response options. The number of correct responses represents the total score.</p><p>
+<italic>Treatment intention</italic>: Patients were asked &#x0201c;If you had to choose a treatment right now, what treatment would you choose?,&#x0201d; with four response alternatives: (i) antidepressant drugs, (ii) psychological treatment, (iii) combined pharmacological and psychological treatment, and (iv) &#x0201c;I'm not sure.&#x0201d; For the aim of the analysis, we collapsed the three former options into a single category, but we also explore whether there were significant differences between study groups in the type of treatment chosen.</p><p>
+<italic>Decisional control preferences</italic>: We applied the item of the Control Preference Scale<xref rid="hex12553-bib-0041" ref-type="ref">41</xref> that assessed patients' preferred level of involvement in making a decision about treatment. It consists of five statements that range from a completely passive role (only the doctor makes the decision) to a completely active role (only the patient makes the decision). In the analysis, the first two and the last two response levels were respectively collapsed into one, resulting in three categories: passive, shared, and active roles.</p><p>
+<italic>Goals and concerns</italic>: Patients were asked four questions about their goals and concerns related to pharmacological and psychological treatments (Table&#x000a0;<xref rid="hex12553-tbl-0001" ref-type="table-wrap">1</xref>), to be answered in a 0&#x02010;10 scale (from &#x0201c;not important at all&#x0201d; to &#x0201c;extremely important&#x0201d; in the case of goals, and from &#x0201c;nothing&#x0201d; to &#x0201c;very much&#x0201d; in the case of concerns). We then pooled the scores of the two items about psychotherapy on one side and the two items about pharmacotherapy on the other, resulting in two separate scales ranging 0&#x02010;20 and labelled &#x0201c;Attitude towards psychotherapy&#x0201d; (ATP) and &#x0201c;Attitude towards antidepressants&#x0201d; (ATA), respectively, with higher scores representing a more positive attitude. These two scales, along with the responses to the question about what treatment patients would choose, were used to develop a measure of concordance (see the <xref rid="hex12553-sec-0018" ref-type="sec">2.4</xref> section).</p><table-wrap id="hex12553-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Scales of goals and concerns, and criteria for defining concordance</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" colspan="3" rowspan="1">
+<italic>Attitude towards psychotherapy</italic> (<italic>ATP</italic>) (<italic>range 0&#x02010;20</italic>)</td></tr><tr><td align="left" style="padding-left:10%" colspan="3" rowspan="1">How important is for you to learn coping strategies to modify your negative thoughts and inappropriate behaviors?</td></tr><tr><td align="left" style="padding-left:10%" colspan="3" rowspan="1">How much are you worried about spending time and effort performing the activities of the psychotherapy? (reversed)</td></tr><tr><td align="left" colspan="3" rowspan="1">
+<italic>Attitude towards antidepressants</italic> (<italic>ATA</italic>) (<italic>range 0&#x02010;20</italic>)</td></tr><tr><td align="left" style="padding-left:10%" colspan="3" rowspan="1">How important is for you to avoid the adverse effects of antidepressant drugs? (reversed)</td></tr><tr><td align="left" style="padding-left:10%" colspan="3" rowspan="1">How much are you worried about taking antidepressants drugs? (reversed)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Treatment choice</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Concordance criteria</italic> (<italic>midpoint</italic>)</td><td align="left" rowspan="1" colspan="1">
+<italic>Concordance criteria</italic> (<italic>means</italic>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Only pharmacotherapy</td><td align="left" rowspan="1" colspan="1">ATP&#x02264;10 and ATA&#x0003e;10</td><td align="left" rowspan="1" colspan="1">ATP&#x02264;18 and ATA&#x0003e;7</td></tr><tr><td align="left" rowspan="1" colspan="1">Only psychotherapy</td><td align="left" rowspan="1" colspan="1">ATP&#x0003e;10 and ATA&#x02264;10</td><td align="left" rowspan="1" colspan="1">ATP&#x0003e;18 and ATA&#x02264;7</td></tr><tr><td align="left" rowspan="1" colspan="1">Combined therapy</td><td align="left" rowspan="1" colspan="1">ATP&#x0003e;10 and ATA&#x0003e;10</td><td align="left" rowspan="1" colspan="1">ATP&#x0003e;18 and ATA&#x0003e;7</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec></sec><sec id="hex12553-sec-0018"><label>2.4</label><title>Statistical analysis</title><p>Analyses were performed with the SPSS 22.0 software. <italic>T</italic>&#x02010;test and Chi&#x02010;squared test, for continuous and categorical variables, respectively, were used to analyse the effect of the intervention from a univariate perspective. Then, several multiple linear regression models were performed with each one of the continuous outcome measures (decisional conflict and its subscales, knowledge) as dependent variables, and the experimental group as the independent variable. For exploratory aims, the following socio&#x02010;demographic and clinical confounders were included in the model: age, sex, education level, depression severity and duration, being taking antidepressants, having experienced antidepressants adverse effects, and receiving private health services.</p><p>In addition, we developed a measure of concordance between patients' goals/concerns and their treatment intention. There is not a standardized method to measure this concordance.<xref rid="hex12553-bib-0033" ref-type="ref">33</xref>, <xref rid="hex12553-bib-0042" ref-type="ref">42</xref> We applied a &#x0201c;simple match&#x0201d; approach in which, after excluding those patients who answered &#x0201c;not sure&#x0201d; to the question about what treatment they would choose, the remaining patients' choices were classified as concordant or not depending on whether their scores on ATP and ATA were above or under the scales' midpoint (that is, &#x0003e;10 or &#x02264;10). For instance, a patient who would choose only pharmacotherapy is classified as concordant if she/he scores above the midpoint in ATA and under that threshold in ATP, and as non&#x02010;concordant in any other case (see Table&#x000a0;<xref rid="hex12553-tbl-0001" ref-type="table-wrap">1</xref>). Then, we compared the number of patients who made a concordant choice in the intervention and control groups, respectively, both from a univariate (Chi&#x02010;squared test) and multivariate (logistic regression with concordance as dependent variable) perspective. Finally, we compared the results to those obtained by using the scales' means as thresholds for defining concordance, instead of the midpoint. Statistical analyses were performed by a researcher blinded to participants' allocation.</p><p>In the intervention group, a range of 4&#x02010;8 patients, depending on the outcome measure, missed or refused (due to fatigue) to complete some scales or subscales; we adopted a conservative intention&#x02010;to&#x02010;treat (ITT) approach, imputing those values with the completers' observed mean plus (for decisional conflict) or minus (for knowledge) a standard deviation, therefore supposing a worse scenario for our hypothesis (lower knowledge and/or higher decisional conflict than the average participant). Discrepancies between ITT and completers analyses will be reported.</p></sec></sec><sec id="hex12553-sec-0019"><label>3</label><title>RESULTS</title><p>The Figure&#x000a0;<xref rid="hex12553-fig-0001" ref-type="fig">1</xref> shows the flow of patients through the trial. Physicians informed about the study to 151 patients, from whom four decline participation at that moment. All the remaining 147 patients consented to participate when the research team contacted them. Baseline data for intervention and control groups are shown in Table <xref rid="hex12553-tbl-0002" ref-type="table-wrap">2</xref>. Sixty&#x02010;eight and 79 were randomized to the intervention (DA) and control groups, respectively. Mean age was 51.3 (SD=12.9), the percentage of women was 77.6%, and 44.2% of participants had secondary education or more. Onset of depressive symptoms was 12.5 (SD=13.1) years ago on average, and the mean BDI&#x02010;II score was 20.0 (SD=12.4), that represents a moderate level of depression. Eighty&#x02010;five percentage of patients were on antidepressant medication, 76.2% were taking other psychoactive drug (mostly benzodiazepines), and only three (2%) were receiving psychotherapy. The DCS showed a Cronbach's alpha of .88.</p><fig fig-type="Figure" xml:lang="en" id="hex12553-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<styled-content style="fixed-case">CONSORT</styled-content> flow diagram of participants through the study</p></caption><graphic id="nlm-graphic-1" xlink:href="HEX-20-1096-g001"/></fig><sec id="hex12553-sec-0020"><label>3.1</label><title>Acceptability of the DA</title><p>Sixty&#x02010;one intervention patients offered data about DA acceptability. Most of them agreed or strongly agreed (score of 4 or 5 in a 5&#x02010;point scale) that the DA was useful (91.8%), easy to navigate (88.5%), visually appealing (88.5%), entertaining (90.1%), and that they would use it for choosing treatment (80.3%). In a 7&#x02010;point scale, the percentage of patients who scored 6 or 7 on the different dimensions assessed was: 88.5% thought that the information was clear, 78.8% would recommend it to a friend, 78.7% and 72.1% stated that they had learned new things about benefits and risk of treatments, respectively, and a 70.5% would ask their physician about these topics they had learned. However, 85.2% thought that the quantity of information was too much.</p><table-wrap id="hex12553-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Sociodemographic and clinical data at baseline</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="char" valign="top" rowspan="1" colspan="1">DA group (n=68)</th><th align="char" valign="top" rowspan="1" colspan="1">Control group (n=79)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age</td><td align="char" char=" " rowspan="1" colspan="1">51.8 (11.5)</td><td align="char" char=" " rowspan="1" colspan="1">50.9 (14.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Women</td><td align="char" char=" " rowspan="1" colspan="1">49 (72.1%)</td><td align="char" char=" " rowspan="1" colspan="1">65 (82.3%)</td></tr><tr><td align="left" colspan="3" rowspan="1">Education</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No formal education</td><td align="char" char=" " rowspan="1" colspan="1">16 (23.5%)</td><td align="char" char=" " rowspan="1" colspan="1">11 (13.9%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Primary studies</td><td align="char" char=" " rowspan="1" colspan="1">22 (32.4%)</td><td align="char" char=" " rowspan="1" colspan="1">33 (41.8%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Secondary studies</td><td align="char" char=" " rowspan="1" colspan="1">22 (32.4%)</td><td align="char" char=" " rowspan="1" colspan="1">19 (24.1%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">University studies</td><td align="char" char=" " rowspan="1" colspan="1">8 (11.8%)</td><td align="char" char=" " rowspan="1" colspan="1">16 (20.3%)</td></tr><tr><td align="left" colspan="3" rowspan="1">Marital status</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Single</td><td align="char" char=" " rowspan="1" colspan="1">8 (11.8%)</td><td align="char" char=" " rowspan="1" colspan="1">21 (26.6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Married</td><td align="char" char=" " rowspan="1" colspan="1">36 (52.9%)</td><td align="char" char=" " rowspan="1" colspan="1">35 (44.3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Divorced</td><td align="char" char=" " rowspan="1" colspan="1">19 (27.9%)</td><td align="char" char=" " rowspan="1" colspan="1">17 (21.5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Widow</td><td align="char" char=" " rowspan="1" colspan="1">5 (7.4%)</td><td align="char" char=" " rowspan="1" colspan="1">6 (7.6%)</td></tr><tr><td align="left" colspan="3" rowspan="1">Laboral status</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Employed</td><td align="char" char=" " rowspan="1" colspan="1">22 (32.4%)</td><td align="char" char=" " rowspan="1" colspan="1">22 (28.9%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unemployed</td><td align="char" char=" " rowspan="1" colspan="1">13 (19.1%)</td><td align="char" char=" " rowspan="1" colspan="1">13 (17.1%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Sick leave</td><td align="char" char=" " rowspan="1" colspan="1">12 (17.6%)</td><td align="char" char=" " rowspan="1" colspan="1">13 (17.1%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Retired</td><td align="char" char=" " rowspan="1" colspan="1">13 (19.1%)</td><td align="char" char=" " rowspan="1" colspan="1">19 (25%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Housework</td><td align="char" char=" " rowspan="1" colspan="1">8 (11.8%)</td><td align="char" char=" " rowspan="1" colspan="1">9 (11.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Time since onset of depressive symptoms (years)</td><td align="char" char=" " rowspan="1" colspan="1">13.6 (13.7)</td><td align="char" char=" " rowspan="1" colspan="1">11.6 (12.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression severity (BDI&#x02010;II)</td><td align="char" char=" " rowspan="1" colspan="1">18.4 (13.6)</td><td align="char" char=" " rowspan="1" colspan="1">21.2 (11.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Taking antidepressant medication</td><td align="char" char=" " rowspan="1" colspan="1">58 (85.3%)</td><td align="char" char=" " rowspan="1" colspan="1">67 (84.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Having experienced antidepressants AEs</td><td align="char" char=" " rowspan="1" colspan="1">32 (50.0%)</td><td align="char" char=" " rowspan="1" colspan="1">30 (40.5%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Taking other psychoactive medication</td><td align="char" char=" " rowspan="1" colspan="1">54 (79.4%)</td><td align="char" char=" " rowspan="1" colspan="1">58 (73.4%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Receiving psychotherapy</td><td align="char" char=" " rowspan="1" colspan="1">1 (1.5%)</td><td align="char" char=" " rowspan="1" colspan="1">2 (2.5%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Receiving private health care</td><td align="char" char=" " rowspan="1" colspan="1">14 (20.6%)</td><td align="char" char=" " rowspan="1" colspan="1">17 (21.5%)</td></tr></tbody></table><table-wrap-foot><fn id="hex12553-note-0002"><p>AEs, adverse effects; BDI&#x02010;II, Beck Depression Inventory; DA, decision aid.</p></fn><fn id="hex12553-note-0003"><p>Data are means (SD) and n (%) for continuous and categorical variables respectively.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="hex12553-sec-0021"><label>3.2</label><title>Effect of the intervention</title><p>Table&#x000a0;<xref rid="hex12553-tbl-0003" ref-type="table-wrap">3</xref> shows the results of the univariate analyses on the outcome measures assessed, and Table&#x000a0;<xref rid="hex12553-tbl-0004" ref-type="table-wrap">4</xref> shows the results of the linear regression models, controlling for socio&#x02010;demographic and clinical confounders (unstandardized betas are shown). The intervention significantly decreased decisional conflict total score (<italic>B</italic>=&#x02212;9.98, <italic>P</italic>&#x0003c;.001), and the subscales &#x0201c;informed&#x0201d; and &#x0201c;effectiveness&#x0201d;. The &#x0201c;support&#x0201d; subscale only yielded a significant difference in the completer's analysis, also favouring the DA (<italic>P</italic>=.044). Among the remaining independent variables, receiving private health services was significantly associated with improvements in DCS total score and its subscales, excepting &#x0201c;informed&#x0201d; and &#x0201c;effectiveness&#x0201d;, whereas having university education (vs primary education), and less time since onset of symptoms significantly predicted scores on the feeling of being informed. Having experienced antidepressants adverse effects related to less conflict on the &#x0201c;values&#x0201d; subscale.</p><table-wrap id="hex12553-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Effect of the intervention (univariate results)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="char" valign="top" rowspan="1" colspan="1">DA group (n=68)</th><th align="char" valign="top" rowspan="1" colspan="1">Control group (n=79)</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>
+<xref ref-type="fn" rid="hex12553-note-0005">a</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">DCS total score (0&#x02010;100)</td><td align="char" char=" " rowspan="1" colspan="1">23.65 (15.89)</td><td align="char" char=" " rowspan="1" colspan="1">35.40 (15.30)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Informed</td><td align="char" char=" " rowspan="1" colspan="1">55.47 (32.57)</td><td align="char" char=" " rowspan="1" colspan="1">74.26 (27.15)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Values</td><td align="char" char=" " rowspan="1" colspan="1">17.71 (12.90)</td><td align="char" char=" " rowspan="1" colspan="1">18.67 (15.34)</td><td align="char" char="." rowspan="1" colspan="1">.690</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Support</td><td align="char" char=" " rowspan="1" colspan="1">16.53 (21.27)</td><td align="char" char=" " rowspan="1" colspan="1">23.21 (15.49)</td><td align="char" char="." rowspan="1" colspan="1">.033</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Uncertainty</td><td align="char" char=" " rowspan="1" colspan="1">19.26 (24.65)</td><td align="char" char=" " rowspan="1" colspan="1">34.28 (26.85)</td><td align="char" char="." rowspan="1" colspan="1">.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Effectiveness</td><td align="char" char=" " rowspan="1" colspan="1">14.34 (21.87)</td><td align="char" char=" " rowspan="1" colspan="1">28.80 (22.07)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Knowledge (0&#x02010;8)</td><td align="char" char=" " rowspan="1" colspan="1">6.89 (1.25)</td><td align="char" char=" " rowspan="1" colspan="1">4.63 (1.48)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td align="left" colspan="4" rowspan="1">Intention to choose</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Sure<xref ref-type="fn" rid="hex12553-note-0006">b</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">62 (96.9%)</td><td align="char" char=" " rowspan="1" colspan="1">69 (87.3%)</td><td align="char" char="." rowspan="2" colspan="1">.041</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not sure</td><td align="char" char=" " rowspan="1" colspan="1">2 (3.1%)</td><td align="char" char=" " rowspan="1" colspan="1">10 (12.7%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Medication</td><td align="char" char=" " rowspan="1" colspan="1">5 (7.8%)</td><td align="char" char=" " rowspan="1" colspan="1">7 (8.9%)</td><td align="char" char="." rowspan="4" colspan="1">.185</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Psychotherapy</td><td align="char" char=" " rowspan="1" colspan="1">15 (23.4%)</td><td align="char" char=" " rowspan="1" colspan="1">13 (16.5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Combined</td><td align="char" char=" " rowspan="1" colspan="1">42 (65.6%)</td><td align="char" char=" " rowspan="1" colspan="1">49 (62.0%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not sure</td><td align="char" char=" " rowspan="1" colspan="1">2 (3.1%)</td><td align="char" char=" " rowspan="1" colspan="1">10 (12.7%)</td></tr><tr><td align="left" colspan="4" rowspan="1">Decisional control preference</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Passive</td><td align="char" char=" " rowspan="1" colspan="1">43 (54.4%)</td><td align="char" char=" " rowspan="1" colspan="1">35 (54.7%)</td><td align="char" char="." rowspan="3" colspan="1">.149</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Shared</td><td align="char" char=" " rowspan="1" colspan="1">28 (43.8%)</td><td align="char" char=" " rowspan="1" colspan="1">29 (36.7%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Active</td><td align="char" char=" " rowspan="1" colspan="1">1 (1.6%)</td><td align="char" char=" " rowspan="1" colspan="1">7 (8.9%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Patients who made a concordant choice<xref ref-type="fn" rid="hex12553-note-0007">c</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">23 (37.1%)</td><td align="char" char=" " rowspan="1" colspan="1">27 (39.1%)</td><td align="char" char="." rowspan="1" colspan="1">.811</td></tr></tbody></table><table-wrap-foot><fn id="hex12553-note-0004"><p>DA, decision aid; DCS, Decisional Conflict Scale.</p></fn><fn id="hex12553-note-0005"><label>a</label><p>
+<italic>P</italic>&#x02010;values from <italic>t</italic> test, for continuous variables (mean, SD), and &#x003c7;<sup>2</sup> for categorical variables (n, %).</p></fn><fn id="hex12553-note-0006"><label>b</label><p>Patients who stated an intention to choose medication, psychotherapy or combined therapy.</p></fn><fn id="hex12553-note-0007"><label>c</label><p>Patients who answered &#x0201c;not sure&#x0201d; to the question about treatment choice were excluded (n=12).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="hex12553-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Results of the lineal regression models on knowledge, decisional conflict and its subscales<xref ref-type="fn" rid="hex12553-note-0009">a</xref>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="char" valign="top" rowspan="1" colspan="1">DCS</th><th align="char" valign="top" rowspan="1" colspan="1">Informed</th><th align="char" valign="top" rowspan="1" colspan="1">Values</th><th align="char" valign="top" rowspan="1" colspan="1">Support</th><th align="char" valign="top" rowspan="1" colspan="1">Uncertainty</th><th align="char" valign="top" rowspan="1" colspan="1">Effectiveness</th><th align="char" valign="top" rowspan="1" colspan="1">Knowledge</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">DA intervention</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;9.98 (&#x02212;15.6, &#x02212;4.38)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;20.8 (&#x02212;30.9, &#x02212;10.8)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.52 (&#x02212;5.41, 4.37)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;5.01 (&#x02212;11.6, 1.63)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;11.9 (&#x02212;21.3, &#x02212;2.48)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;11.3 (&#x02212;19.4, &#x02212;3.14)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">2.33 (1.85, 2.81)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Age</td><td align="char" char=" " rowspan="1" colspan="1">0.10 (&#x02212;0.14, 0.34)</td><td align="char" char=" " rowspan="1" colspan="1">0.05 (&#x02212;0.39, 0.48)</td><td align="char" char=" " rowspan="1" colspan="1">0.15 (&#x02212;0.06, 0.36)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.04 (&#x02212;0.32, 0.25)</td><td align="char" char=" " rowspan="1" colspan="1">0.17 (&#x02212;0.24, 0.58)</td><td align="char" char=" " rowspan="1" colspan="1">0.20 (&#x02212;0.16, 0.55)</td><td align="char" char=" " rowspan="1" colspan="1">0.01 (&#x02212;0.01, 0.03)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex</td><td align="char" char=" " rowspan="1" colspan="1">2.21 (&#x02212;4.69, 9.10)</td><td align="char" char=" " rowspan="1" colspan="1">3.46 (&#x02212;8.91, 15.8)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.71 (&#x02212;8.72, 3.31)</td><td align="char" char=" " rowspan="1" colspan="1">0.36 (&#x02212;7.81, 8.52)</td><td align="char" char=" " rowspan="1" colspan="1">4.67 (&#x02212;6.92, 16.3)</td><td align="char" char=" " rowspan="1" colspan="1">3.20 (&#x02212;6.80, 13.2)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.17 (&#x02212;0.76, 0.42)</td></tr><tr><td align="left" rowspan="1" colspan="1">No formal education<xref ref-type="fn" rid="hex12553-note-0010">b</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.43 (&#x02212;8.39, 7.53)</td><td align="char" char=" " rowspan="1" colspan="1">3.16 (&#x02212;11.1, 17.4)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.69 (&#x02212;8.63, 5.25)</td><td align="char" char=" " rowspan="1" colspan="1">4.76 (&#x02212;4.66, 14.2)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;5.40 (&#x02212;18.8, 7.98)</td><td align="char" char=" " rowspan="1" colspan="1">0.50 (&#x02212;11.1, 12.0)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.51 (&#x02212;1.19, 0.17)</td></tr><tr><td align="left" rowspan="1" colspan="1">Secondary education<xref ref-type="fn" rid="hex12553-note-0010">b</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;4.20 (&#x02212;11.6, 3.16)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;8.62 (&#x02212;21.8, 4.58)</td><td align="char" char=" " rowspan="1" colspan="1">0.34 (&#x02212;6.08, 6.76)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.95 (&#x02212;10.7, 6.77)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;5.33 (&#x02212;17.7, 7.03)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;4.52 (&#x02212;15.2, 6.15)</td><td align="char" char=" " rowspan="1" colspan="1">0.22 (&#x02212;0.41, 0.85)</td></tr><tr><td align="left" rowspan="1" colspan="1">University education<xref ref-type="fn" rid="hex12553-note-0010">b</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;6.46 (&#x02212;14.6, 1.73)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;20.8 (&#x02212;35.5, &#x02212;6.17)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;3.17 (&#x02212;10.3, 3.97)</td><td align="char" char=" " rowspan="1" colspan="1">1.97 (&#x02212;7.72, 11.7)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;6.09 (&#x02212;19.8, 7.65)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.93 (&#x02212;14.8, 8.93)</td><td align="char" char=" " rowspan="1" colspan="1">0.61 (&#x02212;0.09, 1.31)</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression severity<xref ref-type="fn" rid="hex12553-note-0011">c</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">0.12 (&#x02212;0.11, 0.35)</td><td align="char" char=" " rowspan="1" colspan="1">0.17 (&#x02212;0.24, 0.58)</td><td align="char" char=" " rowspan="1" colspan="1">0.16 (&#x02212;0.04, 0.36)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.01 (&#x02212;0.28, 0.26)</td><td align="char" char=" " rowspan="1" colspan="1">0.22 (&#x02212;0.17, 0.60)</td><td align="char" char=" " rowspan="1" colspan="1">0.08 (&#x02212;0.25, 0.41)</td><td align="char" char=" " rowspan="1" colspan="1">0.01 (&#x02212;0.01, 0.03)</td></tr><tr><td align="left" rowspan="1" colspan="1">Time since onset</td><td align="char" char=" " rowspan="1" colspan="1">0.22 (&#x02212;0.03, 0.46)</td><td align="char" char=" " rowspan="1" colspan="1">0.61 (0.17, 1.05)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">0.12 (&#x02212;0.09, 0.34)</td><td align="char" char=" " rowspan="1" colspan="1">0.09 (&#x02212;0.20, 0.38)</td><td align="char" char=" " rowspan="1" colspan="1">0.31 (&#x02212;0.10, 0.72)</td><td align="char" char=" " rowspan="1" colspan="1">0.07 (&#x02212;0.29, 0.42)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.03 (&#x02212;0.05, &#x02212;0.01)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Taking antidepressants</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;3.06 (&#x02212;12.1, 6.00)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;11.1 (&#x02212;27.4, 5.13)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.06 (&#x02212;7.96, 7.85)</td><td align="char" char=" " rowspan="1" colspan="1">0.46 (&#x02212;10.3, 11.2)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.36 (&#x02212;17.6, 12.9)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;3.04 (&#x02212;16.2, 10.1)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.65 (&#x02212;1.43, 0.13)</td></tr><tr><td align="left" rowspan="1" colspan="1">Having experienced antidepressants AEs</td><td align="char" char=" " rowspan="1" colspan="1">1.17 (&#x02212;4.34, 6.67)</td><td align="char" char=" " rowspan="1" colspan="1">4.50 (&#x02212;5.37, 14.4)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;5.27 (&#x02212;10.1, &#x02212;0.47)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">4.61 (&#x02212;1.91, 11.1)</td><td align="char" char=" " rowspan="1" colspan="1">3.36 (&#x02212;5.89, 12.6)</td><td align="char" char=" " rowspan="1" colspan="1">0.28 (&#x02212;7.71, 8.26)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.20 (&#x02212;0.68, 0.27)</td></tr><tr><td align="left" rowspan="1" colspan="1">Receiving private health services</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;9.13 (&#x02212;16.0, &#x02212;2.28)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;11.1 (&#x02212;23.4, 1.20)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;6.66 (&#x02212;12.6, &#x02212;0.69)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;8.17 (&#x02212;16.3, &#x02212;0.06)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;12.9 (&#x02212;24.4, &#x02212;1.40)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;8.21 (&#x02212;18.1, 1.72)</td><td align="char" char=" " rowspan="1" colspan="1">0.68 (0.09, 1.27)<xref ref-type="fn" rid="hex12553-note-0012">d</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="hex12553-note-0008"><p>AEs, adverse effects; DA, decision aid; DCS, Decisional Conflict Scale.</p></fn><fn id="hex12553-note-0009"><label>a</label><p>Data are unstandardized beta values (95% confidence interval). For DCS total score and subscales (score range 0&#x02010;100) negative values indicate a better result for the intervention group, whereas the opposite applied to Knowledge (range 0&#x02010;8).</p></fn><fn id="hex12553-note-0010"><label>b</label><p>Reference is primary studies.</p></fn><fn id="hex12553-note-0011"><label>c</label><p>Assessed with the Beck Depression Inventory II (BDI&#x02010;II).</p></fn><fn id="hex12553-note-0012"><label>d</label><p>Significant results.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>In the case of patients' knowledge of treatment options, results showed a significant effect favouring the DA intervention (<italic>B</italic>=2.33, <italic>P</italic>&#x0003c;.001). In addition, those with less time since depression onset and those receiving private (vs only public) health services scored significantly higher. Having university education (compared to those with primary education) significantly related to higher knowledge only in the completers' analysis.</p><p>Data about the patients' treatment intention after viewing the DA are shown in Table&#x000a0;<xref rid="hex12553-tbl-0003" ref-type="table-wrap">3</xref>. As a whole, most participants (62%) preferred the combined treatment; in the intervention group, there were more patients that would choose psychotherapy and less that were not sure about the decision, but the difference was not significant (<italic>P</italic>=.185). However, when we compared the rate of patients who preferred a particular treatment (medication, psychotherapy, and combined treatment collapsed into one category) to those who were not sure, the difference favouring the intervention group was significant (<italic>P</italic>=.041). There were not significant differences in control preferences (Table&#x000a0;<xref rid="hex12553-tbl-0003" ref-type="table-wrap">3</xref>).</p><p>When using the midpoints of the ATP and ATA scales as thresholds to define concordance between patients' goals/concerns and treatment intention, a total of 50 patients (38.2%, after excluding those who were not sure about treatment choice) were classified as making a concordant choice. There were not significant differences between intervention and control groups in the univariate (37.1% vs 39.1%, <italic>P</italic>=.881) or the multivariate analysis (OR=0.50, <italic>P</italic>=.124). In the latter, two variables significantly predicted concordance: lower severity assessed by the BDI&#x02010;II (OR=0.96, <italic>P</italic>=.017) and having not experienced adverse effects of antidepressants (OR=0.41, <italic>P</italic>=.045). The rate of concordant decisions was higher in the group that would choose psychotherapy (25/28, 89.3%) than in the &#x0201c;combined therapy&#x0201d; group (25/91, 27.5%) and the &#x0201c;only pharmacotherapy&#x0201d; group (0/12, 0%) (<italic>P</italic>&#x0003c;.001 for the between&#x02010;group difference). When the mean scores of ATP and ATA scales (18 and 7 respectively) were used instead of their midpoints to calculate concordance, the rate of patients who made concordant decisions decreased (31.3%) and the remaining analyses yielded similar results.</p></sec></sec><sec id="hex12553-sec-0022"><label>4</label><title>DISCUSSION AND CONCLUSION</title><sec id="hex12553-sec-0023"><label>4.1</label><title>Discussion</title><p>Our results confirm previous evidence on the effectiveness of DAs in decreasing patients' decisional conflict and increasing their knowledge.<xref rid="hex12553-bib-0012" ref-type="ref">12</xref>, <xref rid="hex12553-bib-0030" ref-type="ref">30</xref>, <xref rid="hex12553-bib-0031" ref-type="ref">31</xref> Furthermore, the effects observed were more than two&#x02010;fold greater than the average effect for other diseases as a whole, a 13% in decisional conflict (vs 5%) and 29% of improvement in knowledge (vs 14%).<xref rid="hex12553-bib-0012" ref-type="ref">12</xref> This could be due in part to the relatively low educational level of the sample included (18% had no formal education and 37% only primary studies), since it has been observed that disadvantaged or less knowledgeable populations obtain more benefit from decision support interventions.<xref rid="hex12553-bib-0043" ref-type="ref">43</xref>, <xref rid="hex12553-bib-0044" ref-type="ref">44</xref> In addition, the high mean score observed in the DCS subscale &#x0201c;informed&#x0201d; (74 in a 0&#x02010;100 scale in the control group, that is, a high conflict) favours a potential strong improvement; however, even after the application of the DA the intervention group showed a considerable level of feeling uninformed (56 points). It is possible that viewing the DA, or simply being asked about these issues, makes patients to become aware of their poor knowledge of treatment options, especially about the nature of psychotherapy and its characteristics; very few patients had some experience with psychological treatment (in Spain, public resources for psychotherapy services are limited, and waiting lists are long) and indeed the two knowledge items that exclusively asked about psychotherapy obtained the lowest rates of correct answers, 35% and 50%, respectively. On the other side, results show that receiving private health care was a significant independent predictor of better knowledge and less decisional conflict, which could reflect the lesser time constrains or a more personalized attention in private practices.</p><p>In line with the results obtained on decisional conflict, significantly less patients in the intervention group were unsure about the treatment choice. Regarding the specific treatment, there were no significant differences in patients' choices. Most of them (63%) would choose the combined therapy, 19% preferred only psychotherapy, and 8% would choose only medication. The preference for psychotherapy vs medication is in line with previous findings,<xref rid="hex12553-bib-0045" ref-type="ref">45</xref>, <xref rid="hex12553-bib-0046" ref-type="ref">46</xref>, <xref rid="hex12553-bib-0047" ref-type="ref">47</xref>, <xref rid="hex12553-bib-0048" ref-type="ref">48</xref> whereas mixed results have been observed about the preference for the combined treatment.<xref rid="hex12553-bib-0045" ref-type="ref">45</xref>, <xref rid="hex12553-bib-0047" ref-type="ref">47</xref>, <xref rid="hex12553-bib-0049" ref-type="ref">49</xref> The importance of matching the preferred and received treatment in depression is highlighted by studies that have found better health outcomes and/or lower attrition in those patients who underwent their preferred treatment,<xref rid="hex12553-bib-0045" ref-type="ref">45</xref>, <xref rid="hex12553-bib-0050" ref-type="ref">50</xref>, <xref rid="hex12553-bib-0051" ref-type="ref">51</xref> although former studies had obtained null results.<xref rid="hex12553-bib-0052" ref-type="ref">52</xref>, <xref rid="hex12553-bib-0053" ref-type="ref">53</xref> But besides these potential beneficial effects on health outcomes, the concordance between patients' preferences and their treatment choices represents itself a measure of decision quality,<xref rid="hex12553-bib-0007" ref-type="ref">7</xref>, <xref rid="hex12553-bib-0053" ref-type="ref">53</xref>, <xref rid="hex12553-bib-0054" ref-type="ref">54</xref> since the theoretical foundations of SDM rest on a normative rationalistic ideal of decision making.<xref rid="hex12553-bib-0054" ref-type="ref">54</xref>
+</p><p>There is not a commonly agreed&#x02010;on method to measure this concordance and different proposals have been published, from &#x0201c;simple match&#x0201d; approaches to more sophisticated techniques like conjoint analysis or regression models, that empirically assessed the associations of patients' values regarding specific characteristics of available options on one side, with their treatment choices on the other.<xref rid="hex12553-bib-0042" ref-type="ref">42</xref>, <xref rid="hex12553-bib-0055" ref-type="ref">55</xref>, <xref rid="hex12553-bib-0056" ref-type="ref">56</xref>, <xref rid="hex12553-bib-0057" ref-type="ref">57</xref> We carried out a pilot assessment of a measure of concordance developing two simple scales to assess patients' goals and concerns about pharmacological and psychological treatments. We obtained a much lower rate of concordant decisions (38%) than studies in the field of breast cancer (77%&#x02010;89%),<xref rid="hex12553-bib-0056" ref-type="ref">56</xref>, <xref rid="hex12553-bib-0057" ref-type="ref">57</xref>, <xref rid="hex12553-bib-0058" ref-type="ref">58</xref> osteoarthritis (73%),<xref rid="hex12553-bib-0059" ref-type="ref">59</xref> or herniated disc (78%),<xref rid="hex12553-bib-0060" ref-type="ref">60</xref> but we cannot establish whether these differences are due to the method used, the health condition, or other factors. We performed some validity analyses of the two goals/concerns scales (associations with treatment choice, having experienced adverse effects of antidepressants, illness severity, and duration; data not shown), and results were not optimal, especially for the ATA; for instance, a negative attitude represented by a low score does not imply at all a refusal to take them (in the group that would choose only pharmacotherapy, 9 out of 12 patients scored under the midpoint of the scale, that is, stated a concern about taking antidepressants). Assuming that participants make rational choices, these data suggest that there are relevant features of pharmacological and psychological treatments that have not been assessed in the goals/concern scales.</p><p>The main methodological limitation of this study is the absence of baseline assessment. Since all the assessments and the intervention had to be applied in one continue session in our research centre, we did not want to overload intervention participants, and we also wanted to avoid memory effects in the case of the knowledge measure (being tested just before reviewing the DA could reinforced patients' learning of the aspects evaluated). Randomization is expected to overcome this limitation, and indeed we tried to minimize the likelihood of allocation bias by performing the randomization blinded to the recruitment of participants and vice versa. However, it resulted in a quite unbalanced distribution of patients to the intervention and control groups (43.3%/56.7%, respectively, <italic>P</italic>=.05). However, there were not significant differences between groups in baseline socio&#x02010;demographic and clinical variables, but reviewing the baseline distributions of patients' characteristics we observed that although the difference is non&#x02010;significant, control group included almost twice as many participants with university degree and half with no formal education. Taking into account the significant positive relationship between education level and knowledge found in previous studies on other diseases<xref rid="hex12553-bib-0061" ref-type="ref">61</xref>, <xref rid="hex12553-bib-0062" ref-type="ref">62</xref>, <xref rid="hex12553-bib-0063" ref-type="ref">63</xref>, <xref rid="hex12553-bib-0064" ref-type="ref">64</xref>, <xref rid="hex12553-bib-0065" ref-type="ref">65</xref>, <xref rid="hex12553-bib-0066" ref-type="ref">66</xref>, <xref rid="hex12553-bib-0067" ref-type="ref">67</xref>, <xref rid="hex12553-bib-0068" ref-type="ref">68</xref> (replicated in our completers analysis; in addition, patients with university degree also outperformed no formally educated patients in the variable &#x0201c;feeling informed&#x0201d;), this could suggest that allocation imbalance might have been in fact more prejudicial for the intervention group, in terms of the outcomes evaluated.</p><p>A second limitation is that blinding of participants is difficult in these interventions, and therefore, a &#x0201c;novelty&#x0201d; or &#x0201c;attention&#x0201d; effect cannot be ruled out. Third, DA was administrated by a researcher instead of the health&#x02010;care provider, which would not represent the usual practice; related to this, a previous study that compared the two procedures in type 2 diabetes patients showed a better result in the latter case;<xref rid="hex12553-bib-0069" ref-type="ref">69</xref> if this result is extensive to other medical conditions, the significant effects obtained in this study could be considered as a worst&#x02010;case scenario. Finally, we could not register whether patients actually made changes in their treatment after study completion (instead, we measured the treatment intention, that has been shown to be a significant predictor of actual choices)<xref rid="hex12553-bib-0070" ref-type="ref">70</xref>, <xref rid="hex12553-bib-0071" ref-type="ref">71</xref> or tried to obtained more information about treatments' characteristics. However, despite these limitations, we think that this study adds relevant evidence about the effect of DAs on two fundamental variables of the decisional process (decisional conflict and knowledge) in the treatment of depression in primary care, a field in which this evidence, well established for somatic diseases,<xref rid="hex12553-bib-0012" ref-type="ref">12</xref>, <xref rid="hex12553-bib-0013" ref-type="ref">13</xref>, <xref rid="hex12553-bib-0014" ref-type="ref">14</xref> is scarce.</p></sec><sec id="hex12553-sec-0024"><label>4.2</label><title>Conclusion</title><p>The decision aid &#x0201c;Decision making in depression&#x0201d; is effective improving decisional conflict and knowledge of treatment options of patients with unipolar depression. More research is needed to establish a valid and reliable measure of concordance between patients' goals and concerns regarding pharmacological and psychological treatment, and the choice made.</p></sec></sec><sec id="hex12553-sec-0026"><title>CONFLICT OF INTEREST</title><p>The authors have no conflict of interest to declare.</p></sec></body><back><ack id="hex12553-sec-0025"><title>ACKNOWLEDGEMENTS</title><p>This study was supported by the Canary Islands Agency for Research, Innovation, and Society of Information (ACIISI; grant number: ProID20100251). We would like to acknowledge the essential role played in this research by the study participants, including health&#x02010;care professionals, as well as primary care patients, and the role of the staff in the practices in which this research was conducted. The authors would also like to acknowledge Dr. Marien Gonzalez&#x02010;Lorenzo who participated in the design of the study.</p></ack><ref-list content-type="cited-references" id="hex12553-bibl-0001"><title>REFERENCES</title><ref id="hex12553-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hex12553-cit-0001">
+<string-name>
+<surname>Barry</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Helping patients make better personal health decisions: the promise of patient&#x02010;centered outcomes research</article-title>. <source>JAMA</source>. <year>2011</year>;<volume>306</volume>:<fpage>1258</fpage>&#x02010;<lpage>1259</lpage>.<pub-id pub-id-type="pmid">21934062</pub-id></mixed-citation></ref><ref id="hex12553-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hex12553-cit-0002">
+<string-name>
+<surname>Pignone</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Challenges to implementing patient&#x02010;centered research</article-title>. <source>Ann Intern Med</source>. <year>2012</year>;<volume>157</volume>:<fpage>450</fpage>&#x02010;<lpage>451</lpage>.<pub-id pub-id-type="pmid">22847154</pub-id></mixed-citation></ref><ref id="hex12553-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hex12553-cit-0003">
+<string-name>
+<surname>Berry</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Beckham</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dettman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mead</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Toward a strategy of patient&#x02010;centered access to primary care</article-title>. <source>Mayo Clin Proc</source>. <year>2014</year>;<volume>89</volume>:<fpage>1406</fpage>&#x02010;<lpage>1415</lpage>.<pub-id pub-id-type="pmid">25199953</pub-id></mixed-citation></ref><ref id="hex12553-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hex12553-cit-0004">
+<string-name>
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Frosch</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Shared decision making: a model for clinical practice</article-title>. <source>J Gen Intern Med</source>. <year>2012</year>;<volume>27</volume>:<fpage>1361</fpage>&#x02010;<lpage>1367</lpage>.<pub-id pub-id-type="pmid">22618581</pub-id></mixed-citation></ref><ref id="hex12553-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hex12553-cit-0005">
+<string-name>
+<surname>Ting</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Brito</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Montori</surname>
+<given-names>VM</given-names>
+</string-name>. <article-title>Shared decision making: science and action</article-title>. <source>Circ Cardiovasc Qual Outcomes</source>. <year>2014</year>;<volume>7</volume>:<fpage>323</fpage>&#x02010;<lpage>327</lpage>.<pub-id pub-id-type="pmid">24496298</pub-id></mixed-citation></ref><ref id="hex12553-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hex12553-cit-0006">
+<string-name>
+<surname>Joseph&#x02010;Williams</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Knowledge is not power for patients: a systematic review and thematic synthesis of patient&#x02010;reported barriers and facilitators to shared decision making</article-title>. <source>Patient Educ Couns</source>. <year>2014</year>;<volume>94</volume>:<fpage>291</fpage>&#x02010;<lpage>309</lpage>.<pub-id pub-id-type="pmid">24305642</pub-id></mixed-citation></ref><ref id="hex12553-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hex12553-cit-0007">
+<string-name>
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>O'Connor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Stacey</surname>
+<given-names>D</given-names>
+</string-name>, et&#x000a0;al. <article-title>International Patient Decision Aids Standards (IPDAS) Collaboration. Developing a quality criteria framework for patient decision aids: online international Delphi consensus process</article-title>. <source>BMJ</source>. <year>2006</year>;<volume>333</volume>:<fpage>417</fpage>.<pub-id pub-id-type="pmid">16908462</pub-id></mixed-citation></ref><ref id="hex12553-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hex12553-cit-0008">
+<string-name>
+<surname>Coulter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Stilwell</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kryworuchko</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mullen</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>van der Weijden</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>A systematic development process for patient decision aids</article-title>. <source>BMC Med Inform Decis Mak</source>. <year>2013</year>;<volume>13</volume>(<issue>Suppl 2</issue>):<fpage>S2</fpage>.</mixed-citation></ref><ref id="hex12553-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hex12553-cit-0009">
+<string-name>
+<surname>Durand</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Witt</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Joseph&#x02010;Williams</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>Minimum standards for the certification of patient decision support interventions: feasibility and application</article-title>. <source>Patient Educ Couns</source>. <year>2015</year>;<volume>98</volume>:<fpage>462</fpage>&#x02010;<lpage>468</lpage>.<pub-id pub-id-type="pmid">25577469</pub-id></mixed-citation></ref><ref id="hex12553-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hex12553-cit-0010">
+<string-name>
+<surname>Fagerlin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pignone</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Abhyankar</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>Clarifying values: an updated review</article-title>. <source>BMC Med Inform Decis Mak</source>. <year>2013</year>;<volume>13</volume>(<issue>Suppl 2</issue>):<fpage>S8</fpage>.</mixed-citation></ref><ref id="hex12553-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hex12553-cit-0011">
+<string-name>
+<surname>Charles</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gafni</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The vexing problem of defining the meaning, role and measurement of values in treatment decision&#x02010;making</article-title>. <source>J Comp Eff Res</source>. <year>2014</year>;<volume>3</volume>:<fpage>197</fpage>&#x02010;<lpage>209</lpage>.<pub-id pub-id-type="pmid">24645693</pub-id></mixed-citation></ref><ref id="hex12553-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hex12553-cit-0012">
+<string-name>
+<surname>Stacey</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>L&#x000e9;gar&#x000e9;</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Col</surname>
+<given-names>NF</given-names>
+</string-name>, et&#x000a0;al. <article-title>Decision aids for people facing health treatment or screening decisions</article-title>. <source>Cochrane Database Syst Rev</source>. <year>2014</year>;(<issue>1</issue>):<fpage>CD001431</fpage>.<pub-id pub-id-type="pmid">24470076</pub-id></mixed-citation></ref><ref id="hex12553-bib-0013"><label>13</label><mixed-citation publication-type="book" id="hex12553-cit-0013">
+<string-name>
+<surname>Trikalinos</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Wieland</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Adam</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name>
+<surname>Zgodic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ntzani</surname>
+<given-names>EE</given-names>
+</string-name>. <source>Decision Aids for Cancer Screening and Treatment [Internet]</source>. <publisher-loc>Rockville, MD</publisher-loc>: <publisher-name>Agency for Healthcare Research and Quality (US)</publisher-name>; <year>2014</year>.</mixed-citation></ref><ref id="hex12553-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hex12553-cit-0014">
+<string-name>
+<surname>Knops</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Legemate</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Goossens</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bossuyt</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Ubbink</surname>
+<given-names>DT</given-names>
+</string-name>. <article-title>Decision aids for patients facing a surgical treatment decision: a systematic review and meta&#x02010;analysis</article-title>. <source>Ann Surg</source>. <year>2013</year>;<volume>257</volume>:<fpage>860</fpage>&#x02010;<lpage>866</lpage>.<pub-id pub-id-type="pmid">23470574</pub-id></mixed-citation></ref><ref id="hex12553-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hex12553-cit-0015">
+<string-name>
+<surname>Seale</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chaplin</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lelliott</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Quirk</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Sharing decisions in consultations involving anti&#x02010;psychotic medication: a qualitative study of psychiatrists' experiences</article-title>. <source>Soc Sci Med</source>. <year>2006</year>;<volume>62</volume>:<fpage>2861</fpage>&#x02010;<lpage>2873</lpage>.<pub-id pub-id-type="pmid">16343722</pub-id></mixed-citation></ref><ref id="hex12553-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hex12553-cit-0016">
+<string-name>
+<surname>Hamann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mendel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Self&#x02010;reported use of shared decision making among psychiatrists in the treatment of schizophrenia. Influence of patient characteristics and decision topics</article-title>. <source>Psychiatr Serv</source>. <year>2009</year>;<volume>60</volume>:<fpage>1107</fpage>&#x02010;<lpage>1112</lpage>.<pub-id pub-id-type="pmid">19648199</pub-id></mixed-citation></ref><ref id="hex12553-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hex12553-cit-0017">
+<string-name>
+<surname>Carpenter</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Gold</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Lahti</surname>
+<given-names>AC</given-names>
+</string-name>, et&#x000a0;al. <article-title>Decisional capacity for informed consent in schizophrenia research</article-title>. <source>Arch Gen Psychiatry</source>. <year>2000</year>;<volume>57</volume>:<fpage>533</fpage>&#x02010;<lpage>538</lpage>.<pub-id pub-id-type="pmid">10839330</pub-id></mixed-citation></ref><ref id="hex12553-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hex12553-cit-0018">
+<string-name>
+<surname>Stroup</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Appelbaum</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Swartz</surname>
+<given-names>MS</given-names>
+</string-name>, et&#x000a0;al. <article-title>Decision&#x02010;making capacity for research participation among individuals in the CATIE schizophrenia trial</article-title>. <source>Schizophr Res</source>. <year>2005</year>;<volume>80</volume>:<fpage>1</fpage>&#x02010;<lpage>8</lpage>.<pub-id pub-id-type="pmid">16182516</pub-id></mixed-citation></ref><ref id="hex12553-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hex12553-cit-0019">
+<string-name>
+<surname>Loh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jahn</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e4;nselmann</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Information and participation interests of patients with depression in clinical decision making in primary care</article-title>. <source>Z &#x000c4;rztl Fortbild Qualit&#x000e4;tssich</source>. <year>2004</year>;<volume>98</volume>:<fpage>101</fpage>&#x02010;<lpage>107</lpage>.<pub-id pub-id-type="pmid">15106488</pub-id></mixed-citation></ref><ref id="hex12553-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hex12553-cit-0020">
+<string-name>
+<surname>Solberg</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name>
+<surname>Crain</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Rubenstein</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Un&#x000fc;tzer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Whitebird</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Beck</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>How much shared decision making occurs in usual primary care of depression?</article-title>
+<source>J Am Board Fam Med</source>. <year>2014</year>;<volume>27</volume>:<fpage>199</fpage>&#x02010;<lpage>208</lpage>.<pub-id pub-id-type="pmid">24610182</pub-id></mixed-citation></ref><ref id="hex12553-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hex12553-cit-0021">
+<string-name>
+<surname>De Las Cuevas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pe&#x000f1;ate</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>de Rivera</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>To what extent is treatment adherence of psychiatric patients influenced by their participation in shared decision making?</article-title>
+<source>Patient Prefer Adherence</source>. <year>2014</year>;<volume>8</volume>:<fpage>1547</fpage>&#x02010;<lpage>1553</lpage>.<pub-id pub-id-type="pmid">25395840</pub-id></mixed-citation></ref><ref id="hex12553-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hex12553-cit-0022">
+<string-name>
+<surname>Patel</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Bakken</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Preferences for participation in decision making among ethnically diverse patients with anxiety and depression</article-title>. <source>Community Ment Health J</source>. <year>2010</year>;<volume>46</volume>:<fpage>466</fpage>&#x02010;<lpage>473</lpage>.<pub-id pub-id-type="pmid">20556512</pub-id></mixed-citation></ref><ref id="hex12553-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hex12553-cit-0023">
+<string-name>
+<surname>Liebherz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tlach</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e4;rter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dirmaier</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Information and decision&#x02010;making needs among people with affective disorders &#x02013; results of an online survey</article-title>. <source>Patient Prefer Adherence</source>. <year>2015</year>;<volume>9</volume>:<fpage>627</fpage>&#x02010;<lpage>638</lpage>.<pub-id pub-id-type="pmid">25999698</pub-id></mixed-citation></ref><ref id="hex12553-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hex12553-cit-0024">
+<string-name>
+<surname>Fosgerau</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Davidsen</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Patients' perspectives on antidepressant treatment in consultations with physicians</article-title>. <source>Qual Health Res</source>. <year>2014</year>;<volume>24</volume>:<fpage>641</fpage>&#x02010;<lpage>653</lpage>.<pub-id pub-id-type="pmid">24714618</pub-id></mixed-citation></ref><ref id="hex12553-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hex12553-cit-0025">
+<string-name>
+<surname>De las Cuevas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pe&#x000f1;ate</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>de Rivera</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Psychiatric patients' preferences and experiences in clinical decision&#x02010;making: examining concordance and correlates of patients' preferences</article-title>. <source>Patient Educ Couns</source>. <year>2014</year>;<volume>96</volume>:<fpage>222</fpage>&#x02010;<lpage>228</lpage>.<pub-id pub-id-type="pmid">24894880</pub-id></mixed-citation></ref><ref id="hex12553-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hex12553-cit-0026">
+<string-name>
+<surname>Goss</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Moretti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mazzi</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Del Piccolo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rimondini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zimmermann</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Involving patients in decisions during psychiatric consultations</article-title>. <source>Br J Psychiatry</source>. <year>2008</year>;<volume>193</volume>:<fpage>416</fpage>&#x02010;<lpage>421</lpage>.<pub-id pub-id-type="pmid">18978325</pub-id></mixed-citation></ref><ref id="hex12553-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hex12553-cit-0027">
+<string-name>
+<surname>Young</surname>
+<given-names>HN</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Epstein</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Kravitz</surname>
+<given-names>RL</given-names>
+</string-name>. <article-title>Physicians' shared decision&#x02010;making behaviors in depression care</article-title>. <source>Arch Intern Med</source>. <year>2008</year>;<volume>168</volume>:<fpage>1404</fpage>&#x02010;<lpage>1408</lpage>.<pub-id pub-id-type="pmid">18625920</pub-id></mixed-citation></ref><ref id="hex12553-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hex12553-cit-0028">
+<string-name>
+<surname>Loh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hennig</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hennig</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e4;rter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The assessment of depressive patients' involvement in decision making in audio&#x02010;taped primary care consultations</article-title>. <source>Patient Educ Couns</source>. <year>2006</year>;<volume>63</volume>:<fpage>314</fpage>&#x02010;<lpage>318</lpage>.<pub-id pub-id-type="pmid">16872794</pub-id></mixed-citation></ref><ref id="hex12553-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hex12553-cit-0029">
+<string-name>
+<surname>Loh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Wills</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Kriston</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Niebling</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e4;rter</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The effects of a shared decision&#x02010;making intervention in primary care of depression: a cluster&#x02010;randomized controlled trial</article-title>. <source>Patient Educ Couns</source>. <year>2007</year>;<volume>67</volume>:<fpage>324</fpage>&#x02010;<lpage>332</lpage>.<pub-id pub-id-type="pmid">17509808</pub-id></mixed-citation></ref><ref id="hex12553-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hex12553-cit-0030">
+<string-name>
+<surname>Simon</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kriston</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>von Wolff</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Effectiveness of a web&#x02010;based, individually tailored decision aid for depression or acute low back pain: a randomized controlled trial</article-title>. <source>Patient Educ Couns</source>. <year>2012</year>;<volume>87</volume>:<fpage>360</fpage>&#x02010;<lpage>368</lpage>.<pub-id pub-id-type="pmid">22154867</pub-id></mixed-citation></ref><ref id="hex12553-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hex12553-cit-0031">
+<string-name>
+<surname>LeBlanc</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Herrin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>MD</given-names>
+</string-name>, et&#x000a0;al. <article-title>Shared decision making for antidepressants in primary care: a cluster randomized trial</article-title>. <source>JAMA Intern Med</source>. <year>2015</year>;<volume>28</volume>:<fpage>1</fpage>&#x02010;<lpage>10</lpage>.</mixed-citation></ref><ref id="hex12553-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hex12553-cit-0032">
+<string-name>
+<surname>Perestelo&#x02010;P&#x000e9;rez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;rez&#x02010;Ramos</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Abt&#x02010;Sacks</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rivero&#x02010;Santana</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Serrano&#x02010;Aguilar</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Promoting citizen participation in healthcare through PyDEsalud.com</article-title>. <source>Gac Sanit</source>. <year>2013</year>;<volume>27</volume>:<fpage>466</fpage>&#x02010;<lpage>467</lpage>.<pub-id pub-id-type="pmid">23465730</pub-id></mixed-citation></ref><ref id="hex12553-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hex12553-cit-0033">
+<string-name>
+<surname>Winn</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ozanne</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Sepucha</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Measuring patient&#x02010;centered care: an updated systematic review of how studies define and report concordance between patients' preferences and medical treatments</article-title>. <source>Patient Educ Couns</source>. <year>2015</year>;<volume>98</volume>:<fpage>811</fpage>&#x02010;<lpage>821</lpage>.<pub-id pub-id-type="pmid">25846191</pub-id></mixed-citation></ref><ref id="hex12553-bib-0034"><label>34</label><mixed-citation publication-type="book" id="hex12553-cit-0034">
+<collab collab-type="authors">World Health Organization</collab>
+. <source>Depression</source>. <publisher-loc>Geneva</publisher-loc>: <publisher-name>World Health Organization</publisher-name>; <year>2013</year>.</mixed-citation></ref><ref id="hex12553-bib-0035"><label>35</label><mixed-citation publication-type="book" id="hex12553-cit-0035">
+<collab collab-type="authors">American Psychiatric Association</collab>
+. <source>Diagnostic and Statistical Manual of Mental Disorders. DSM&#x02010;IV&#x02010;TR</source>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>American Psychiatric Association</publisher-name>; <year>2000</year>.</mixed-citation></ref><ref id="hex12553-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="hex12553-cit-0036">
+<string-name>
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kreuwel</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Durand</surname>
+<given-names>MA</given-names>
+</string-name>, et&#x000a0;al. <article-title>How to develop web&#x02010;based decision support interventions for patients: a process map</article-title>. <source>Patient Educ Couns</source>. <year>2011</year>;<volume>82</volume>:<fpage>260</fpage>&#x02010;<lpage>265</lpage>.<pub-id pub-id-type="pmid">20627644</pub-id></mixed-citation></ref><ref id="hex12553-bib-0037"><label>37</label><mixed-citation publication-type="book" id="hex12553-cit-0037">
+<string-name>
+<surname>Beck</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Steer</surname>
+<given-names>RA</given-names>
+</string-name>. <source>Beck Depression Inventory II Manual</source>. <publisher-loc>San Antonio, TX</publisher-loc>: <publisher-name>The Psychological Corporation</publisher-name>; <year>1996</year>.</mixed-citation></ref><ref id="hex12553-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hex12553-cit-0038">
+<string-name>
+<surname>O'Connor</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Validation of a decisional conflict scale</article-title>. <source>Med Decis Making</source>. <year>1995</year>;<volume>15</volume>:<fpage>25</fpage>&#x02010;<lpage>30</lpage>.<pub-id pub-id-type="pmid">7898294</pub-id></mixed-citation></ref><ref id="hex12553-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="hex12553-cit-0039">
+<string-name>
+<surname>Urrutia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Campos</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>O'Connor</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Validation of a Spanish version of the decisional conflict scale</article-title>. <source>Rev M&#x000e9;d Chil</source>. <year>2008</year>;<volume>136</volume>:<fpage>1439</fpage>&#x02010;<lpage>1447</lpage>.<pub-id pub-id-type="pmid">19301775</pub-id></mixed-citation></ref><ref id="hex12553-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="hex12553-cit-0040">
+<string-name>
+<surname>Perestelo&#x02010;P&#x000e9;rez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rivero&#x02010;Santana</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Boronat</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Effect of the statin choice en&#x02010;counter decision aid in Spanish patients with type 2 diabetes: a randomized trial</article-title>. <source>Patient Educ Couns</source>. <year>2016</year>;<volume>99</volume>:<fpage>295</fpage>&#x02010;<lpage>299</lpage>.<pub-id pub-id-type="pmid">26343571</pub-id></mixed-citation></ref><ref id="hex12553-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="hex12553-cit-0041">
+<string-name>
+<surname>Degner</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name>
+<surname>Sloan</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Venkatesh</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>The control preferences scale</article-title>. <source>Can J Nurs Res</source>. <year>1997</year>;<volume>29</volume>:<fpage>21</fpage>&#x02010;<lpage>43</lpage>.</mixed-citation></ref><ref id="hex12553-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="hex12553-cit-0042">
+<string-name>
+<surname>Lee</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Dominik</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Levin</surname>
+<given-names>CA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Development of instruments to measure the quality of breast cancer treatment decisions</article-title>. <source>Health Expect</source>. <year>2010</year>;<volume>13</volume>:<fpage>258</fpage>&#x02010;<lpage>272</lpage>.<pub-id pub-id-type="pmid">20550591</pub-id></mixed-citation></ref><ref id="hex12553-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="hex12553-cit-0043">
+<string-name>
+<surname>Durand</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Carpenter</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dolan</surname>
+<given-names>H</given-names>
+</string-name>, et&#x000a0;al. <article-title>Do interventions designed to support shared decision&#x02010;making reduce health inequalities? A systematic review and meta&#x02010;analysis</article-title>. <source>PLoS One</source>. <year>2014</year>;<volume>9</volume>:<fpage>e94670</fpage>.<pub-id pub-id-type="pmid">24736389</pub-id></mixed-citation></ref><ref id="hex12553-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="hex12553-cit-0044">
+<string-name>
+<surname>Gentles</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Stacey</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Alshurafa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Walter</surname>
+<given-names>SD</given-names>
+</string-name>. <article-title>Factors explaining the heterogeneity of effects of patient decision aids on knowledge of outcome probabilities: a systematic review sub&#x02010;analysis</article-title>. <source>Syst Rev</source>. <year>2013</year>;<volume>2</volume>:<fpage>95</fpage>.<pub-id pub-id-type="pmid">24143875</pub-id></mixed-citation></ref><ref id="hex12553-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="hex12553-cit-0045">
+<string-name>
+<surname>Steidtmann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Manber</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Arnow</surname>
+<given-names>BA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Patient treatment preference as a predictor of response and attrition in treatment for chronic depression</article-title>. <source>Depress Anxiety</source>. <year>2012</year>;<volume>29</volume>:<fpage>896</fpage>&#x02010;<lpage>905</lpage>.<pub-id pub-id-type="pmid">22767424</pub-id></mixed-citation></ref><ref id="hex12553-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="hex12553-cit-0046">
+<string-name>
+<surname>Houle</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Villaggi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Beaulieu</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Lesp&#x000e9;rance</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Rondeau</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lambert</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Treatment preferences in patients with first episode depression</article-title>. <source>J&#x000a0;Affect Disord</source>. <year>2013</year>;<volume>147</volume>:<fpage>94</fpage>&#x02010;<lpage>100</lpage>.<pub-id pub-id-type="pmid">23167975</pub-id></mixed-citation></ref><ref id="hex12553-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="hex12553-cit-0047">
+<string-name>
+<surname>Backenstrass</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Joest</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Frank</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hingmann</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mundt</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kronm&#x000fc;ller</surname>&#x000a0;<given-names>KT</given-names>
+</string-name>. <article-title>Preferences for treatment in primary care: a comparison of nondepressive, subsyndromal and major depressive patients</article-title>. <source>Gen Hosp Psychiatry</source>. <year>2006</year>;<volume>28</volume>:<fpage>178</fpage>&#x02010;<lpage>180</lpage>.<pub-id pub-id-type="pmid">16516070</pub-id></mixed-citation></ref><ref id="hex12553-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="hex12553-cit-0048">
+<string-name>
+<surname>van Schaik</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Klijn</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>van Hout</surname>
+<given-names>HP</given-names>
+</string-name>, et&#x000a0;al. <article-title>Patients' preferences in the treatment of depressive disorder in primary care</article-title>. <source>Gen Hosp Psychiatry</source>. <year>2004</year>;<volume>26</volume>:<fpage>184</fpage>&#x02010;<lpage>189</lpage>.<pub-id pub-id-type="pmid">15121346</pub-id></mixed-citation></ref><ref id="hex12553-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="hex12553-cit-0049">
+<string-name>
+<surname>Dobscha</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Corson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gerrity</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Depression treatment preferences of VA primary care patients</article-title>. <source>Psychosomatics</source>. <year>2007</year>;<volume>48</volume>:<fpage>482</fpage>&#x02010;<lpage>488</lpage>.<pub-id pub-id-type="pmid">18071094</pub-id></mixed-citation></ref><ref id="hex12553-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="hex12553-cit-0050">
+<string-name>
+<surname>Moradveisi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Huibers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Renner</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Arntz</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The influence of patients' preference/attitude towards psychotherapy and antidepressant medication on the treatment of major depressive disorder</article-title>. <source>J Behav Ther Exp Psychiatry</source>. <year>2014</year>;<volume>45</volume>:<fpage>170</fpage>&#x02010;<lpage>177</lpage>.<pub-id pub-id-type="pmid">24172145</pub-id></mixed-citation></ref><ref id="hex12553-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="hex12553-cit-0051">
+<string-name>
+<surname>Mergl</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Henkel</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Allgaier</surname>
+<given-names>AK</given-names>
+</string-name>, et&#x000a0;al. <article-title>Are treatment preferences relevant in response to serotonergic antidepressants and cognitive&#x02010;behavioral therapy in depressed primary care patients? Results from a randomized controlled trial including a patients' choice arm</article-title>. <source>Psychother Psychosom</source>. <year>2011</year>;<volume>80</volume>:<fpage>39</fpage>&#x02010;<lpage>47</lpage>.<pub-id pub-id-type="pmid">20975325</pub-id></mixed-citation></ref><ref id="hex12553-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="hex12553-cit-0052">
+<string-name>
+<surname>Bedi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Chilvers</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Churchill</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Assessing effectiveness of treatment of depression in primary care. Partially randomised preference trial</article-title>. <source>Br J Psychiatry</source>. <year>2000</year>;<volume>177</volume>:<fpage>31</fpage>&#x02010;<lpage>318</lpage>.</mixed-citation></ref><ref id="hex12553-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="hex12553-cit-0053">
+<string-name>
+<surname>King</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sibbald</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Randomised controlled trial of non&#x02010;directive counselling, cognitive&#x02010;behaviour therapy and usual general practitioner care in the management of depression as well as mixed anxiety and depression in primary care</article-title>. <source>Health Technol Assess</source>. <year>2000</year>;<volume>4</volume>:<fpage>1</fpage>&#x02010;<lpage>83</lpage>.</mixed-citation></ref><ref id="hex12553-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="hex12553-cit-0054">
+<string-name>
+<surname>Sepucha</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Borkhoff</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Lally</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Establishing the effectiveness of patient decision aids: key constructs and measurement instruments</article-title>. <source>BMC Med Inform Decis Mak</source>. <year>2013</year>;<volume>13</volume>(<issue>Suppl 2</issue>):<fpage>S12</fpage>.<pub-id pub-id-type="pmid">24625035</pub-id></mixed-citation></ref><ref id="hex12553-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="hex12553-cit-0055">
+<string-name>
+<surname>Hersch</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Barratt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Use of a decision aid including information on overdetection to support informed choice about breast cancer screening: a randomised controlled trial</article-title>. <source>Lancet</source>. <year>2015</year>;<volume>385</volume>:<fpage>1642</fpage>&#x02010;<lpage>1652</lpage>.<pub-id pub-id-type="pmid">25701273</pub-id></mixed-citation></ref><ref id="hex12553-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="hex12553-cit-0056">
+<string-name>
+<surname>Fowler</surname>
+<given-names>FJ</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Gallagher</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Drake</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Sepucha</surname>
+<given-names>KR</given-names>
+</string-name>. <article-title>Decision dissonance: evaluating an approach to measuring the quality of surgical decision making</article-title>. <source>Jt Comm J Qual Patient Saf</source>. <year>2013</year>;<volume>39</volume>:<fpage>136</fpage>&#x02010;<lpage>144</lpage>.<pub-id pub-id-type="pmid">23516764</pub-id></mixed-citation></ref><ref id="hex12553-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="hex12553-cit-0057">
+<string-name>
+<surname>Sepucha</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Belkora</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>Measuring decision quality: psychometric evaluation of a new instrument for breast cancer surgery</article-title>. <source>BMC Med Inform Decis Mak</source>. <year>2012</year>;<volume>12</volume>:<fpage>51</fpage>.<pub-id pub-id-type="pmid">22681763</pub-id></mixed-citation></ref><ref id="hex12553-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="hex12553-cit-0058">
+<string-name>
+<surname>Lee</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Wetschler</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>Measuring decision quality: psychometric evaluation of a new instrument for breast cancer chemotherapy</article-title>. <source>BMC Med Inform Decis Mak</source>. <year>2014</year>;<volume>14</volume>:<fpage>73</fpage>.<pub-id pub-id-type="pmid">25142035</pub-id></mixed-citation></ref><ref id="hex12553-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="hex12553-cit-0059">
+<string-name>
+<surname>Sepucha</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Stacey</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Clay</surname>
+<given-names>CF</given-names>
+</string-name>, et&#x000a0;al. <article-title>Decision quality instrument for treatment of hip and knee osteoarthritis: a psychometric evaluation</article-title>. <source>BMC Musculoskelet Disord</source>. <year>2011</year>;<volume>12</volume>:<fpage>149</fpage>.<pub-id pub-id-type="pmid">21729315</pub-id></mixed-citation></ref><ref id="hex12553-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="hex12553-cit-0060">
+<string-name>
+<surname>Sepucha</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Feibelmann</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Abdu</surname>
+<given-names>WA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Psychometric evaluation of a decision quality instrument for treatment of lumbar herniated disc</article-title>. <source>Spine</source>. <year>2012</year>;<volume>37</volume>:<fpage>1609</fpage>&#x02010;<lpage>1616</lpage>.<pub-id pub-id-type="pmid">22426449</pub-id></mixed-citation></ref><ref id="hex12553-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="hex12553-cit-0061">
+<string-name>
+<surname>Hennell</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Brownsell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>
+<given-names>JK</given-names>
+</string-name>. <article-title>Development, validation and use of a patient knowledge questionnaire (PKQ) for patients with early rheumatoid arthritis</article-title>. <source>Rheumatology (Oxford)</source>. <year>2004</year>;<volume>43</volume>:<fpage>467</fpage>&#x02010;<lpage>471</lpage>.<pub-id pub-id-type="pmid">15024135</pub-id></mixed-citation></ref><ref id="hex12553-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="hex12553-cit-0062">
+<string-name>
+<surname>Scott</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Baltzan</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Dajczman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Wolkove</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Patient knowledge in chronic obstructive pulmonary disease: back to basics</article-title>. <source>COPD</source>. <year>2011</year>;<volume>8</volume>:<fpage>375</fpage>&#x02010;<lpage>379</lpage>.<pub-id pub-id-type="pmid">21936682</pub-id></mixed-citation></ref><ref id="hex12553-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="hex12553-cit-0063">
+<string-name>
+<surname>Wagner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lacey</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>de Groot</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chyun</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Knowledge of heart disease risk in a multicultural community sample of people with diabetes</article-title>. <source>Ann Behav Med</source>. <year>2006</year>;<volume>31</volume>:<fpage>224</fpage>&#x02010;<lpage>230</lpage>.<pub-id pub-id-type="pmid">16700635</pub-id></mixed-citation></ref><ref id="hex12553-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="hex12553-cit-0064">
+<string-name>
+<surname>Treloar</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hull</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dore</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Grebely</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Knowledge and barriers associated with assessment and treatment for hepatitis C virus infection among people who inject drugs</article-title>. <source>Drug Alcohol Rev</source>. <year>2012</year>;<volume>31</volume>:<fpage>918</fpage>&#x02010;<lpage>924</lpage>.<pub-id pub-id-type="pmid">22612899</pub-id></mixed-citation></ref><ref id="hex12553-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="hex12553-cit-0065">
+<string-name>
+<surname>Kose</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Erkorkmaz</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Cinar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Altinkaynak</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Mothers' knowledge and attitudes about HPV vaccination to prevent cervical cancers</article-title>. <source>Asian Pac J Cancer Prev</source>. <year>2014</year>;<volume>15</volume>:<fpage>7263</fpage>&#x02010;<lpage>7266</lpage>.<pub-id pub-id-type="pmid">25227825</pub-id></mixed-citation></ref><ref id="hex12553-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="hex12553-cit-0066">
+<string-name>
+<surname>Yang</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>JK</given-names>
+</string-name>, et&#x000a0;al. <article-title>An evaluation of disease knowledge in dyads of parents and their adolescent children with congenital heart disease</article-title>. <source>J Cardiovasc Nurs</source>. <year>2013</year>;<volume>28</volume>:<fpage>541</fpage>&#x02010;<lpage>549</lpage>.<pub-id pub-id-type="pmid">22964588</pub-id></mixed-citation></ref><ref id="hex12553-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="hex12553-cit-0067">
+<string-name>
+<surname>Blumenstein</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>McDermott</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Keegan</surname>
+<given-names>D</given-names>
+</string-name>, et&#x000a0;al. <article-title>Sources of information and factual knowledge in Europeans with inflammatory bowel diseases: a cross&#x02010;cultural comparison between German and Irish patients</article-title>. <source>J Crohns Colitis</source>. <year>2013</year>;<volume>7</volume>:<fpage>e331</fpage>&#x02010;<lpage>e336</lpage>.<pub-id pub-id-type="pmid">23453429</pub-id></mixed-citation></ref><ref id="hex12553-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="hex12553-cit-0068">
+<string-name>
+<surname>Heisig</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Shedden&#x02010;Mora</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>von Blanckenburg</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>Informing women with breast cancer about endocrine therapy: effects on knowledge and adherence</article-title>. <source>Psychooncology</source>. <year>2015</year>;<volume>24</volume>:<fpage>130</fpage>&#x02010;<lpage>137</lpage>.<pub-id pub-id-type="pmid">24953538</pub-id></mixed-citation></ref><ref id="hex12553-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="hex12553-cit-0069">
+<string-name>
+<surname>Jones</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Weymiller</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>Should clinicians deliver decision aids? Further exploration of the statin choice randomized trial results</article-title>. <source>Med Decis Making</source>. <year>2009</year>;<volume>29</volume>:<fpage>468</fpage>&#x02010;<lpage>474</lpage>.<pub-id pub-id-type="pmid">19605885</pub-id></mixed-citation></ref><ref id="hex12553-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="hex12553-cit-0070">
+<string-name>
+<surname>Rich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brandes</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mullan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hagger</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Theory of planned behavior and adherence in chronic illness: a meta&#x02010;analysis</article-title>. <source>J Behav Med</source>. <year>2015</year>;<volume>38</volume>:<fpage>673</fpage>&#x02010;<lpage>688</lpage>.<pub-id pub-id-type="pmid">25994095</pub-id></mixed-citation></ref><ref id="hex12553-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="hex12553-cit-0071">
+<string-name>
+<surname>McDermott</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Oliver</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Simnadis</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. <article-title>The theory of planned behaviour and dietary patterns: a systematic review and meta&#x02010;analysis</article-title>. <source>Prev Med</source>. <year>2015</year>;<volume>81</volume>:<fpage>150</fpage>&#x02010;<lpage>156</lpage>.<pub-id pub-id-type="pmid">26348455</pub-id></mixed-citation></ref></ref-list></back></article>

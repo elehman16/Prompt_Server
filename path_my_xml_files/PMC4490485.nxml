@@ -1,0 +1,1075 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Mol Sci</journal-id><journal-id journal-id-type="iso-abbrev">Int J Mol Sci</journal-id><journal-id journal-id-type="publisher-id">ijms</journal-id><journal-title-group><journal-title>International Journal of Molecular Sciences</journal-title></journal-title-group><issn pub-type="epub">1422-0067</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26068234</article-id><article-id pub-id-type="pmc">4490485</article-id><article-id pub-id-type="doi">10.3390/ijms160613043</article-id><article-id pub-id-type="publisher-id">ijms-16-13043</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>A Proposed Molecular Mechanism of High-Dose Vitamin D3 Supplementation in Prevention and Treatment of Preeclampsia</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Zabul</surname><given-names>Piotr</given-names></name><xref ref-type="aff" rid="af1-ijms-16-13043">1</xref><xref rid="c1-ijms-16-13043" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Wozniak</surname><given-names>Michal</given-names></name><xref ref-type="aff" rid="af2-ijms-16-13043">2</xref></contrib><contrib contrib-type="author"><name><surname>Slominski</surname><given-names>Andrzej T.</given-names></name><xref ref-type="aff" rid="af3-ijms-16-13043">3</xref></contrib><contrib contrib-type="author"><name><surname>Preis</surname><given-names>Krzysztof</given-names></name><xref ref-type="aff" rid="af4-ijms-16-13043">4</xref></contrib><contrib contrib-type="author"><name><surname>Gorska</surname><given-names>Magdalena</given-names></name><xref ref-type="aff" rid="af2-ijms-16-13043">2</xref></contrib><contrib contrib-type="author"><name><surname>Korozan</surname><given-names>Marek</given-names></name><xref ref-type="aff" rid="af1-ijms-16-13043">1</xref></contrib><contrib contrib-type="author"><name><surname>Wieruszewski</surname><given-names>Jan</given-names></name><xref ref-type="aff" rid="af2-ijms-16-13043">2</xref></contrib><contrib contrib-type="author"><name><surname>Zmijewski</surname><given-names>Michal A.</given-names></name><xref ref-type="aff" rid="af5-ijms-16-13043">5</xref></contrib><contrib contrib-type="author"><name><surname>Zabul</surname><given-names>Ewa</given-names></name><xref ref-type="aff" rid="af6-ijms-16-13043">6</xref></contrib><contrib contrib-type="author"><name><surname>Tuckey</surname><given-names>Robert</given-names></name><xref ref-type="aff" rid="af7-ijms-16-13043">7</xref></contrib><contrib contrib-type="author"><name><surname>Kuban-Jankowska</surname><given-names>Alicja</given-names></name><xref ref-type="aff" rid="af2-ijms-16-13043">2</xref></contrib><contrib contrib-type="author"><name><surname>Mickiewicz</surname><given-names>Wieslawa</given-names></name><xref ref-type="aff" rid="af2-ijms-16-13043">2</xref></contrib><contrib contrib-type="author"><name><surname>Knap</surname><given-names>Narcyz</given-names></name><xref ref-type="aff" rid="af2-ijms-16-13043">2</xref><xref rid="c1-ijms-16-13043" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Tikkanen</surname><given-names>Ritva</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-ijms-16-13043"><label>1</label>Department of Obstetrics &#x00026; Gynecology, the Sw. Wojciech Specialist Hospital, Independent Public Complex of Integrated Health Care Units in Gdansk, 50 Al. Jana Paw&#x00142;a II St., Gdansk 80-462, Poland; E-Mail: <email>marek@korozan.com</email></aff><aff id="af2-ijms-16-13043"><label>2</label>Department of Medical Chemistry, Medical University of Gdansk, 1 Debinki St., Gdansk 80-211, Poland; E-Mails: <email>mwozniak@gumed.edu.pl</email> (M.W.); <email>m.gorska@gumed.edu.pl</email> (M.G.); <email>janwieruszewski@gumed.edu.pl</email> (J.W.); <email>alicjakuban@gumed.edu.pl</email> (A.K.-J.); <email>wmick@gumed.edu.pl</email> (W.M.)</aff><aff id="af3-ijms-16-13043"><label>3</label>Department of Dermatology, University of Alabama at Birmingham, VA Medical Center, Birmingham, AL 35294, USA; E-Mail: <email>aslominski@uabmc.edu</email></aff><aff id="af4-ijms-16-13043"><label>4</label>Department of Obstetrics &#x00026; Gynecology, Medical University of Gdansk, 1A Kliniczna St., Gdansk 80-402, Poland; E-Mail: <email>kpreis@gumed.edu.pl</email></aff><aff id="af5-ijms-16-13043"><label>5</label>Department of Histology, Medical University of Gdansk, 1 Debinki St., Gdansk 80-211, Poland; E-Mail: <email>mzmijewski@gumed.edu.pl</email></aff><aff id="af6-ijms-16-13043"><label>6</label>Department of Anesthesiology &#x00026; Intensive Care, Medical University of Gdansk, 1 Debinki St., Gdansk 80-211, Poland; E-Mail: <email>ewa.zabul@gmail.com</email></aff><aff id="af7-ijms-16-13043"><label>7</label>School of Chemistry and Biochemistry, the University of Western Australia, 35 Stirling Highway, Crawley, WA 6009, Australia; E-Mail: <email>robert.tuckey@uwa.edu.au</email></aff><author-notes><corresp id="c1-ijms-16-13043"><label>*</label>Authors to whom correspondence should be addressed; E-Mails: <email>piotrzabul@wp.pl</email> (P.Z.); <email>narcyz@gumed.edu.pl</email> (N.K.); Tel.: +48-58-768-40-00 (P.Z.); +48-58-349-14-50 (N.K.); Fax: +48-58-556-38-70 (P.Z.); +48-58-349-14-56 (N.K.).</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>16</volume><issue>6</issue><fpage>13043</fpage><lpage>13064</lpage><history><date date-type="received"><day>12</day><month>2</month><year>2015</year></date><date date-type="accepted"><day>01</day><month>6</month><year>2015</year></date></history><permissions><copyright-statement>&#x000a9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2015</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>A randomized prospective clinical study performed on a group of 74 pregnant women (43 presenting with severe preeclampsia) proved that urinary levels of 15-F<sub>2t</sub>-isoprostane were significantly higher in preeclamptic patients relative to the control (3.05 <italic>vs.</italic> 2.00 ng/mg creatinine). Surprisingly enough, plasma levels of 25-hydroxyvitamin D<sub>3</sub> in both study groups were below the clinical reference range with no significant difference between the groups. <italic>In vitro</italic> study performed on isolated placental mitochondria and placental cell line showed that suicidal self-oxidation of cytochrome P450scc may lead to structural disintegration of heme, potentially contributing to enhancement of oxidative stress phenomena in the course of preeclampsia. As placental cytochrome P450scc pleiotropic activity is implicated in the metabolism of free radical mediated arachidonic acid derivatives as well as multiple Vitamin D<sub>3</sub> hydroxylations and progesterone synthesis, we propose that Vitamin D<sub>3</sub> might act as a competitive inhibitor of placental cytochrome P450scc preventing the production of lipid peroxides or excess progesterone synthesis, both of which may contribute to the etiopathogenesis of preeclampsia. The proposed molecular mechanism is in accord with the preliminary clinical observations on the surprisingly high efficacy of high-dose Vitamin D<sub>3</sub> supplementation in prevention and treatment of preeclampsia.</p></abstract><kwd-group><kwd>preeclampsia</kwd><kwd>isoprostanes</kwd><kwd>arachidonic acid hydroperoxide</kwd><kwd>vitamin D3</kwd><kwd>placenta</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>A rise in the arterial blood pressure resulting in the development of preeclampsia has been a considerable obstetric problem for years. Eclampsia-related complications can put both the fetus and the mother in jeopardy. The risk of preeclampsia is elevated in the presence of chronic renal disease, chronic hypertension, antiphospholipid syndrome, family history of preeclampsia, multiple pregnancy, maternal age over 40, nulliparity or diabetes [<xref rid="B1-ijms-16-13043" ref-type="bibr">1</xref>,<xref rid="B2-ijms-16-13043" ref-type="bibr">2</xref>]. The role of oxidative stress in the eclampsia-related complications remains controversial. For many years, there has been no substantial change in the management of preeclampsia and eclampsia. It is not uncommon that when medication fails to normalize the blood pressure, the physician is forced to terminate pregnancy in order to save the mother&#x02019;s life at the expense of the baby.</p><p>In light of numerous clinical studies and literature data, pathogenesis of preeclampsia seems to be complex and depends on multifactorial abnormalities observed at the molecular level [<xref rid="B2-ijms-16-13043" ref-type="bibr">2</xref>]. The majority of experts in the field associate etiology of preeclampsia with endothelial injury, oxidative stress phenomena, compromised placental perfusion, imbalance between prostacyclin and thromboxane signaling, decreased glomerular filtration rate with retention of salt and water, alteration of gene expression, and dietary factors including vitamin deficiency [<xref rid="B3-ijms-16-13043" ref-type="bibr">3</xref>,<xref rid="B4-ijms-16-13043" ref-type="bibr">4</xref>]. Reactive oxygen species (ROS) affect vascular reactivity through multiple mechanisms [<xref rid="B5-ijms-16-13043" ref-type="bibr">5</xref>]. Interestingly<italic>,</italic> Mousa <italic>et al.</italic> [<xref rid="B6-ijms-16-13043" ref-type="bibr">6</xref>] reported that reduced methylation of the thromboxane synthase gene correlated with its increased vascular expression in preeclampsia. Oxidative stress, as measured by placental isoprostane generation [<xref rid="B7-ijms-16-13043" ref-type="bibr">7</xref>], caused DNA hypomethylation, and preeclampsia was associated with oxidative stress [<xref rid="B6-ijms-16-13043" ref-type="bibr">6</xref>]. Interestingly, 15-F<sub>2t</sub>-isoprostane (15-F<sub>2t</sub>-isoP), a product of nonenzymatic lipid peroxidation, is a potent renal vasoconstrictor acting principally through thromboxane A2 receptor activation [<xref rid="B8-ijms-16-13043" ref-type="bibr">8</xref>], and thus enhances the biological effects of thromboxane synthase gene expression. In addition, 15-F<sub>2t</sub>-isoP has been implicated as a causative mediator in hepatorenal syndrome [<xref rid="B9-ijms-16-13043" ref-type="bibr">9</xref>]. There are clinical trials suggesting that pharmacological lowering of 15-F<sub>2t</sub>-isoP urinary excretion might improve an antihypertensive treatment in patients presenting with chronic kidney failure [<xref rid="B10-ijms-16-13043" ref-type="bibr">10</xref>,<xref rid="B11-ijms-16-13043" ref-type="bibr">11</xref>].</p><p>Vitamin D<sub>3</sub> is naturally produced in the skin subjected to ultraviolet radiation from sun light. It is estimated that approximately 80%&#x02013;100% of daily Vitamin D<sub>3</sub> supply comes from synthesis in the skin, with only limited contribution from dietary intake [<xref rid="B12-ijms-16-13043" ref-type="bibr">12</xref>]. Vitamin D<sub>3</sub> deficiency in early pregnancy can constitute an independent causal factor for the development of eclampsia [<xref rid="B13-ijms-16-13043" ref-type="bibr">13</xref>] since high incidence rates are reported to coincide with the winter months [<xref rid="B14-ijms-16-13043" ref-type="bibr">14</xref>], when cutaneous synthesis of Vitamin D<sub>3</sub> is lacking due to the absence of UVB in solar light in this geographical area [<xref rid="B12-ijms-16-13043" ref-type="bibr">12</xref>].</p><p>The activation of Vitamin D<sub>3</sub> requires its subsequent enzymatic hydroxylations at carbons C25 and C1. Initial hydroxylation at C25 in the liver produces 25(OH)D<sub>3</sub> which due to its relatively longhalf-life of 2&#x02013;3 weeks in the human body, is routinely used as an indicator of the overall Vitamin D status [<xref rid="B15-ijms-16-13043" ref-type="bibr">15</xref>]. The second hydroxylation producing the hormonally active 1&#x003b1;,25-dihydroxyvitamin D<sub>3</sub> (calcitriol, 1&#x003b1;,25(OH)<sub>2</sub>D<sub>3</sub>) takes place in the kidney. Active metabolites of Vitamin D display an array of biological effects mediated through genomic and non-genomic pathways [<xref rid="B16-ijms-16-13043" ref-type="bibr">16</xref>,<xref rid="B17-ijms-16-13043" ref-type="bibr">17</xref>]. In many cells and tissues, 1&#x003b1;,25(OH)<sub>2</sub>D<sub>3</sub> first binds to the Vitamin D receptor (VDR) which then forms a heterodimer with the receptor for 9-cis retinoic acid (RXR); this dimer is translocated to the nucleus where it controls expression of over 1000 genes [<xref rid="B18-ijms-16-13043" ref-type="bibr">18</xref>]. Calcitriol (1,25(OH)<sub>2</sub>D<sub>3</sub>), an active form of Vitamin D<sub>3</sub>, can serve as a placental vasculature modulator possibly through its antioxidative activities [<xref rid="B19-ijms-16-13043" ref-type="bibr">19</xref>,<xref rid="B20-ijms-16-13043" ref-type="bibr">20</xref>]. The endogenous formation of Vitamin D exclusively depends on sun exposure (UVB wavelengths 280&#x02013;320 nm) [<xref rid="B12-ijms-16-13043" ref-type="bibr">12</xref>], and many studies support seasonal variation in the prevalence of preeclampsia [<xref rid="B21-ijms-16-13043" ref-type="bibr">21</xref>]. There is evidence that oral supplementation of Vitamin D can decrease the rate of severe preeclamptic complications [<xref rid="B22-ijms-16-13043" ref-type="bibr">22</xref>,<xref rid="B23-ijms-16-13043" ref-type="bibr">23</xref>].</p><p>An imbalance between oxidant and antioxidant potential is associated with reproductive problems [<xref rid="B24-ijms-16-13043" ref-type="bibr">24</xref>]. The level of lipid peroxide in the maternal blood is significantly elevated in preeclampsia as compared to normal pregnancy, and levels of antioxidants are compromised [<xref rid="B25-ijms-16-13043" ref-type="bibr">25</xref>,<xref rid="B26-ijms-16-13043" ref-type="bibr">26</xref>,<xref rid="B27-ijms-16-13043" ref-type="bibr">27</xref>,<xref rid="B28-ijms-16-13043" ref-type="bibr">28</xref>]. However, some authors report that there are no differences in 15-F<sub>2t</sub>-isoP, lipid peroxide or malondialdehyde plasma levels between women with preeclampsia and pregnant controls [<xref rid="B29-ijms-16-13043" ref-type="bibr">29</xref>]. Importantly, the placenta produces large amounts of progesterone required for the maintenance of pregnancy, synthesizing 10 times the quantity secreted by the corpus luteum in the mid-luteal phase [<xref rid="B30-ijms-16-13043" ref-type="bibr">30</xref>]. It is well known that placental mitochondria are responsible for progesterone biosynthesis [<xref rid="B31-ijms-16-13043" ref-type="bibr">31</xref>] and preeclampsia may develop because of an inadequate supply of progesterone [<xref rid="B32-ijms-16-13043" ref-type="bibr">32</xref>]. It is likely that in the preeclamptic placenta progesterone synthesis may be compromised [<xref rid="B33-ijms-16-13043" ref-type="bibr">33</xref>]. Conversion of cholesterol to progesterone starts with the production of pregnenolone, catalyzed by cytochrome P450scc (side-chain cleavage cytochrome P450; CYP11A1) in the inner mitochondrial membrane [<xref rid="B30-ijms-16-13043" ref-type="bibr">30</xref>,<xref rid="B31-ijms-16-13043" ref-type="bibr">31</xref>,<xref rid="B34-ijms-16-13043" ref-type="bibr">34</xref>]. In the placenta cytochrome P450scc also hydroxylates Vitamin D<sub>3</sub> producing 20-hydroxyvitamin D<sub>3</sub> (20(OH)D<sub>3</sub>) which can be further transformed to other biologically active metabolites [<xref rid="B35-ijms-16-13043" ref-type="bibr">35</xref>,<xref rid="B36-ijms-16-13043" ref-type="bibr">36</xref>]. The existence of gene transcript of 1&#x003b1;-hydroxylase and the finding of Vitamin D receptor (VDR) expression in placental trophoblasts suggest a possible autocrine loop of Vitamin D signaling within trophoblasts [<xref rid="B37-ijms-16-13043" ref-type="bibr">37</xref>,<xref rid="B38-ijms-16-13043" ref-type="bibr">38</xref>]. The unique metabolic profile of the placental cytochrome P450scc appears to arise from its location in trophoblast cells, as compared to the adrenal cortex and gonads [<xref rid="B30-ijms-16-13043" ref-type="bibr">30</xref>], as well as from the local exposure to a broad range of substrates produced during pregnancy. Among arachidonic acid metabolites, isoprostanes are unique bioactive (vasoconstrictive) products of cytochrome P450scc-mediated lipid peroxidation. The synthetic hydroperoxide, cumene hydroperoxide, has been found to inactivate cytochrome P450scc in human term placental mitochondria [<xref rid="B32-ijms-16-13043" ref-type="bibr">32</xref>].</p><p>An objective of this study was to evaluate Vitamin D<sub>3</sub> and oxidative stress levels in a population of pregnant women with severe preeclampsia/eclampsia in order to verify potential correlation between wintertime plasma levels of 25-hydroxyvitamin D<sub>3</sub> (25(OH)D<sub>3</sub>) as measured in late gestation, and urinary excretion of 15-F<sub>2t</sub>-isoprostane which is a reliable marker of oxidative stress in the human body. A prospective study was designed in order to measure urinary levels of isoprostanes as markers of oxidative stress and potential vasoconstrictors, and levels of Vitamin 25(OH)D<sub>3</sub> whose deficiency might be a potential cofactor for the development of eclampsia. The study comprised caucasian women of northern Poland who were admitted to the hospital from December through February, and subsequently qualified for C-section.</p><p>As placental cytochrome P450scc is required for progesterone synthesis, oxidative stress generation and metabolism of Vitamin D<sub>3</sub>, a parallel study on the activity of placental cytochrome P450scc under oxidative stress conditions, as well as lipid peroxidation in placental cells, was carried out. To determine whether increased levels of naturally synthesized arachidonic acid hydroperoxide had a similar impact on lipid peroxidation and biodegradation of cytochrome P450scc, we measured progesterone synthesis by isolated mitochondria from term human placentas, and measured lipid peroxidation by placental mitochondria and cultured placental JAR cells.</p></sec><sec><title>2. Results</title><p>The urinary levels of 15-F<sub>2t</sub>-isoP in the preeclamptic group were significantly higher relative to the control group (3.05 <italic>vs.</italic> 2.00 ng/mg creatinine; <italic>p</italic> &#x0003c; 0.01) (<xref ref-type="fig" rid="ijms-16-13043-f001">Figure 1</xref>). This finding supports the hypothesis that biological effects of an oxidative stress-mediated increases in placental generation of thromboxane A2 may be enhanced by 15-F<sub>2t</sub>-isoP isoprostane-dependent activation of the thromboxane A2 receptor [<xref rid="B8-ijms-16-13043" ref-type="bibr">8</xref>]. The plasma levels of 25(OH)D<sub>3</sub> in both groups were below the clinical reference range of 30 ng/mL with no difference between the groups (mean 16.8 ng/mL) (<xref ref-type="fig" rid="ijms-16-13043-f002">Figure 2</xref>). There was no correlation between the urinary excretion of 15-F<sub>2t</sub>-isoP and plasma levels of 25(OH)D<sub>3</sub> in either of the study groups.</p><fig id="ijms-16-13043-f001" position="float"><label>Figure 1</label><caption><p>Urinary isoprostane excretion as calculated per mg of creatinine in preeclamptic women <italic>vs.</italic> control (<bold>*</bold>
+<italic>p</italic> &#x0003c; 0.01).</p></caption><graphic xlink:href="ijms-16-13043-g001"/></fig><fig id="ijms-16-13043-f002" position="float"><label>Figure 2</label><caption><p>Vitamin D<sub>3</sub> (25(OH)D<sub>3</sub>) plasma levels in preeclamptic women <italic>vs.</italic> control. No significant difference between groups was found.</p></caption><graphic xlink:href="ijms-16-13043-g002"/></fig><p>To test the effect of a natural lipid peroxide on progesterone production, increasing concentrations of AA(OOH) were added to placental mitochondria (<xref ref-type="fig" rid="ijms-16-13043-f003">Figure 3</xref>). This resulted in the inhibition of progesterone synthesis from cholesterol but no effect on its synthesis from pregnenolone. This result indicates that P450scc required to convert cholesterol to pregnenolone, and not 3&#x003b2;-hydroxysteroid dehydrogenase required to convert pregnenolone to progesterone, is the locus of action of the AA(OOH). To determine whether the decrease in P450scc activity was associated with a decrease in P450scc levels, the concentration of functional P450, assessed from its ability to bind CO, was measured following treatment of mitochondria with 100 &#x000b5;M AA(OOH). The cytochrome P450 concentration decreased in a time-dependent manner which was inversely proportional to the increase in the concentration of lipid peroxidation products MDA and HNE (<xref ref-type="fig" rid="ijms-16-13043-f004">Figure 4</xref>). This indicates that inactivation/degradation of P450scc occurs in response to AA(OOH) treatment, possibly as a result of heme breakdown [<xref rid="B32-ijms-16-13043" ref-type="bibr">32</xref>,<xref rid="B39-ijms-16-13043" ref-type="bibr">39</xref>,<xref rid="B40-ijms-16-13043" ref-type="bibr">40</xref>,<xref rid="B41-ijms-16-13043" ref-type="bibr">41</xref>,<xref rid="B42-ijms-16-13043" ref-type="bibr">42</xref>,<xref rid="B43-ijms-16-13043" ref-type="bibr">43</xref>,<xref rid="B44-ijms-16-13043" ref-type="bibr">44</xref>].</p><fig id="ijms-16-13043-f003" position="float"><label>Figure 3</label><caption><p>Progesterone biosynthesis as a function of AA(OOH) concentration in placental mitochondria (measured as percentage of substrate conversion). Progesterone biosynthesis from cholesterol or pregnenolone was measured following a 15 min. incubation. Data presented as mean &#x000b1; SD obtained from five independent experiments.</p></caption><graphic xlink:href="ijms-16-13043-g003"/></fig><fig id="ijms-16-13043-f004" position="float"><label>Figure 4</label><caption><p>Cytochrome P450scc level after treatment with arachidonic acid hydroperoxide (AA(OOH)). Lipid peroxidation induced by AA(OOH) was measured from the production of MDA and HNE. Data are presented as mean &#x000b1; SD obtained from five independent experiments expressed as percentage of control.</p></caption><graphic xlink:href="ijms-16-13043-g004"/></fig><p>To test the ability of AA(OOH) to stimulate lipid peroxidation, the JAR placental cell line was treated with AA(OOH) and products of lipid peroxidation measured. This treatment dramatically stimulated formation of lipid peroxidation products over a 24 h period. Treatment with the powerful antioxidant, TEMPOL, completely protected the cells against the AA(OOH)-induced lipid peroxidation (<xref ref-type="fig" rid="ijms-16-13043-f005">Figure 5</xref>).</p><fig id="ijms-16-13043-f005" position="float"><label>Figure 5</label><caption><p>Lipid peroxidation in JAR cell culture. Control cells, cells treated with 100 &#x000b5;M Arachidonic Acid Hydroperoxide AA(OOH), cells treated with 100 &#x000b5;M AA(OOH) and 50 &#x000b5;M TEMPOL (AA(OOH) + TEMPOL). Products of lipid peroxidation (MDA plus HNE) were significantly elevated in cells treated with AA(OOH) only. Data presented as mean &#x000b1; SD obtained from five independent experiments.</p></caption><graphic xlink:href="ijms-16-13043-g005"/></fig></sec><sec><title>3. Discussion</title><p>The results of our study showed that severe cases of preeclampsia (terminated by C-section) were associated with increased oxidative stress as measured by urinary isoprostane level. Importantly, we chose C-section terminated normal pregnancies as the control group in order to eliminate a potential ROS increase in response to surgical trauma [<xref rid="B45-ijms-16-13043" ref-type="bibr">45</xref>]. Our results are in accord with a couple of studies in terms of urinary isoprostane excretion [<xref rid="B46-ijms-16-13043" ref-type="bibr">46</xref>,<xref rid="B47-ijms-16-13043" ref-type="bibr">47</xref>], and contradict a few others [<xref rid="B48-ijms-16-13043" ref-type="bibr">48</xref>,<xref rid="B49-ijms-16-13043" ref-type="bibr">49</xref>,<xref rid="B50-ijms-16-13043" ref-type="bibr">50</xref>]. There has been a lot of controversy about circulating oxidative stress markers in preeclampsia, and specifically isoprostanes as measured in different compartments [<xref rid="B51-ijms-16-13043" ref-type="bibr">51</xref>,<xref rid="B52-ijms-16-13043" ref-type="bibr">52</xref>]. Isoprostanes, and typically 15-F<sub>2t</sub>-isoP as evaluated in plasma or urine, have been applied in clinical studies as reliable markers of total body oxidative stress [<xref rid="B53-ijms-16-13043" ref-type="bibr">53</xref>]. A decreased urinary excretion of 15-F<sub>2t</sub>-isoP is attributed to reactive oxygen species scavenging activity of certain antihypertensive drugs used for therapy in chronic renal failure therapy [<xref rid="B10-ijms-16-13043" ref-type="bibr">10</xref>,<xref rid="B11-ijms-16-13043" ref-type="bibr">11</xref>]. Walsh <italic>et al.</italic> [<xref rid="B7-ijms-16-13043" ref-type="bibr">7</xref>] provided convincing evidence that F(2)-isoprostanes are formed and secreted by the human placenta, and that oxidative stress and lipid peroxidation are pathologically increased in placentas of preeclamptic women . It is only logical that measurement of isoprostanes in body fluids could offer a unique analytical opportunity to study the role of free radicals in pathophysiology of preeclampsia. There are however many contradictory observations in the literature in terms of isoprostane levels in the plasma or urine of preeclamptic women. According to several studies, there was a significant increase observed in total or free isoprostane plasma levels in preeclampsia [<xref rid="B48-ijms-16-13043" ref-type="bibr">48</xref>,<xref rid="B49-ijms-16-13043" ref-type="bibr">49</xref>,<xref rid="B54-ijms-16-13043" ref-type="bibr">54</xref>]. Other researchers did not report any difference in isoprostane plasma levels between normal pregnancy and preeclampsia [<xref rid="B29-ijms-16-13043" ref-type="bibr">29</xref>,<xref rid="B55-ijms-16-13043" ref-type="bibr">55</xref>], including severe preeclampsia [<xref rid="B50-ijms-16-13043" ref-type="bibr">50</xref>]. The difference in the levels of isoprostanes in various studies might possibly be due to methodology (ELISA (Enzyme-linked Immunosorbent Assay), RIA (Radioimmunoassay), GC (Gas Chromatography)), different sampling regime, gestational age, social profile, geographical area, and ethnicity to name but a few. Taking into account that renal clearance of isoprostane may be impaired in preeclampsia, urinary isoprostane level should be preferably corrected for creatinine [<xref rid="B47-ijms-16-13043" ref-type="bibr">47</xref>,<xref rid="B54-ijms-16-13043" ref-type="bibr">54</xref>] which has not always been the case [<xref rid="B48-ijms-16-13043" ref-type="bibr">48</xref>,<xref rid="B49-ijms-16-13043" ref-type="bibr">49</xref>]. In light of multiple conflicting data, our finding of increased urinary isoprostane excretion in severe preeclampsia adds to existing evidence for a role of oxidative stress in pathogenesis of the disease which seems all the more significant as there are researchers who tend to question the importance of oxidative stress phenomena as the biochemical rationale for etiopathology, prevention and treatment of preeclampsia [<xref rid="B55-ijms-16-13043" ref-type="bibr">55</xref>,<xref rid="B56-ijms-16-13043" ref-type="bibr">56</xref>].</p><p>Pleiotropic effects of Vitamin D<sub>3</sub> have been the focus of many publications, linking Vitamin D<sub>3</sub> with placental regulation and modulation of inflammatory response [<xref rid="B57-ijms-16-13043" ref-type="bibr">57</xref>,<xref rid="B58-ijms-16-13043" ref-type="bibr">58</xref>]. Also, clinical studies show higher rates of preeclampsia, preterm birth, bacterial vaginosis and gestational diabetes in women with low Vitamin D levels [<xref rid="B59-ijms-16-13043" ref-type="bibr">59</xref>]. A large population of pregnant women is affected by significant Vitamin D<sub>3</sub> deficiency [<xref rid="B60-ijms-16-13043" ref-type="bibr">60</xref>,<xref rid="B61-ijms-16-13043" ref-type="bibr">61</xref>,<xref rid="B62-ijms-16-13043" ref-type="bibr">62</xref>]. Indeed, our results confirm that Vitamin D<sub>3</sub> deficiency might be a more general clinical problem in the northern European population of pregnant Caucasian women suffering from limited sun exposure during the winter season [<xref rid="B63-ijms-16-13043" ref-type="bibr">63</xref>,<xref rid="B64-ijms-16-13043" ref-type="bibr">64</xref>]. Interestingly, a recent autumn&#x02013;winter study on the urban population of northern Poland showed that 85% of participants was Vitamin D deficient, with mean 25-hydroxyvitamin D<sub>3</sub> concentration of 14.3 &#x000b1; 6.6 ng/mL [<xref rid="B65-ijms-16-13043" ref-type="bibr">65</xref>]. Furthermore, the subsequent study showed only moderate improvement of Vitamin D<sub>3</sub> status after the summer [<xref rid="B66-ijms-16-13043" ref-type="bibr">66</xref>]. It should be noted that in our current study, the mean plasma level of Vitamin D<sub>3</sub> as calculated for both preeclamptic and control groups was 16.8 ng/mL and the difference between the groups was not statistically significant. Thus, a lack of correlation between 15-F2t-isoP and 25(OH)D<sub>3</sub> might be partly explained by the substantial Vitamin D<sub>3</sub> deficiency in both study groups. These observations should encourage obstetricians and gynecologists to reconsider additional Vitamin D<sub>3</sub> supplementation in pregnant women, and in particular those who belong to the risk group being potentially hypersensitive to Vitamin D<sub>3</sub> deficiency [<xref rid="B13-ijms-16-13043" ref-type="bibr">13</xref>,<xref rid="B67-ijms-16-13043" ref-type="bibr">67</xref>,<xref rid="B68-ijms-16-13043" ref-type="bibr">68</xref>].</p><p>As mitochondria reportedly contribute to increased lipid peroxidation in the preeclamptic placenta [<xref rid="B69-ijms-16-13043" ref-type="bibr">69</xref>,<xref rid="B70-ijms-16-13043" ref-type="bibr">70</xref>], we decided to design a mitochondrial model of preeclampsia based on placental mitochondria isolated from healthy women, and treated with AA(OOH) in order to induce well characterized oxidative stress phenomena as observed in the preeclamptic trophoblast cells [<xref rid="B70-ijms-16-13043" ref-type="bibr">70</xref>,<xref rid="B71-ijms-16-13043" ref-type="bibr">71</xref>,<xref rid="B72-ijms-16-13043" ref-type="bibr">72</xref>]. The <italic>in vitro</italic> model was then used in our study to evaluate the enzymatic activity of cytochrome P450scc in response to AA(OOH)-mediated oxidative stress. Cytochrome P450scc is a key mitochondrial enzyme in steroid hormone synthesis, lipid peroxidation and trophoblastic cell behavior, which is integral to the pathogenesis of preeclampsia [<xref rid="B73-ijms-16-13043" ref-type="bibr">73</xref>]. The expression of <italic>CYP11A</italic> gene encoding P450scc protein was reported to be significantly higher in terms of both mRNA and protein levels, and was proposed to be linked with abnormal apoptosis of trophoblastic cells in placentas of preeclamptic patients [<xref rid="B73-ijms-16-13043" ref-type="bibr">73</xref>,<xref rid="B74-ijms-16-13043" ref-type="bibr">74</xref>]. Having observed similar mitochondrial degeneration followed by massive apoptosis in choriocarcinoma JAR cell line exposed to oxidative stress [<xref rid="B75-ijms-16-13043" ref-type="bibr">75</xref>,<xref rid="B76-ijms-16-13043" ref-type="bibr">76</xref>], we ventured to propose a novel mitochondrial model of preeclampsia allowing for <italic>in vitro</italic> characterization of cytochrome P450scc activity and structural integrity under the conditions of AA(OOH)-induced oxidative stress. The effect of oxidative stress on reducing the activity of cytochrome P450scc seen in the current study suggests that an impairment in the production of P450scc-derived Vitamin D<sub>3</sub> metabolites may be expected. There is evidence of disrupted Vitamin D metabolic homeostasis in the preeclamptic placenta suggesting that increased oxidative stress could be a causative factor of altered Vitamin D metabolism therein [<xref rid="B77-ijms-16-13043" ref-type="bibr">77</xref>,<xref rid="B78-ijms-16-13043" ref-type="bibr">78</xref>]. Although preeclampsia has been linked to maternal Vitamin D insufficiency [<xref rid="B13-ijms-16-13043" ref-type="bibr">13</xref>,<xref rid="B62-ijms-16-13043" ref-type="bibr">62</xref>,<xref rid="B78-ijms-16-13043" ref-type="bibr">78</xref>,<xref rid="B79-ijms-16-13043" ref-type="bibr">79</xref>], the information on placental Vitamin D metabolic system between normal and preeclamptic pregnancies is lacking [<xref rid="B77-ijms-16-13043" ref-type="bibr">77</xref>,<xref rid="B80-ijms-16-13043" ref-type="bibr">80</xref>]. It is entirely possible that it is not the plasma concentration of Vitamin D<sub>3</sub>, but rather the local placental concentration of Vitamin D<sub>3</sub> or its metabolites in combination with oxidative stress-generated arachidonic acid derivatives that might actually play a role in the prevention or treatment of preeclampsia/eclampsia.</p><p>Our <italic>in vitro</italic> experiments demonstrate that reduced cytochrome P450scc activity upon increased preeclamptic flux of AA(OOH) (<xref ref-type="fig" rid="ijms-16-13043-f003">Figure 3</xref>) is associated with heme disintegration (<xref ref-type="fig" rid="ijms-16-13043-f004">Figure 4</xref>), and consequently the release of free iron Fe<sup>2+</sup> ion, analogously to what has been reported for hemoglobin [<xref rid="B81-ijms-16-13043" ref-type="bibr">81</xref>], which in turn induces Fenton-like reactions enhancing lipid peroxidation [<xref rid="B81-ijms-16-13043" ref-type="bibr">81</xref>,<xref rid="B82-ijms-16-13043" ref-type="bibr">82</xref>] as measured by increasing MDA and HNE levels (<xref ref-type="fig" rid="ijms-16-13043-f004">Figure 4</xref>). Under <italic>in vivo</italic> conditions, there are many other lipid peroxidation products, like lipid peroxides [<xref rid="B70-ijms-16-13043" ref-type="bibr">70</xref>,<xref rid="B71-ijms-16-13043" ref-type="bibr">71</xref>,<xref rid="B83-ijms-16-13043" ref-type="bibr">83</xref>,<xref rid="B84-ijms-16-13043" ref-type="bibr">84</xref>,<xref rid="B85-ijms-16-13043" ref-type="bibr">85</xref>], hydroperoxides [<xref rid="B86-ijms-16-13043" ref-type="bibr">86</xref>], alkyl radicals [<xref rid="B87-ijms-16-13043" ref-type="bibr">87</xref>], alkoxyl radicals [<xref rid="B86-ijms-16-13043" ref-type="bibr">86</xref>] or F<sub>2</sub>-isoprostanes [<xref rid="B7-ijms-16-13043" ref-type="bibr">7</xref>,<xref rid="B8-ijms-16-13043" ref-type="bibr">8</xref>,<xref rid="B48-ijms-16-13043" ref-type="bibr">48</xref>,<xref rid="B49-ijms-16-13043" ref-type="bibr">49</xref>,<xref rid="B54-ijms-16-13043" ref-type="bibr">54</xref>] that are generated in excess and typically detected in the placenta and plasma of preeclamptic patients contributing to increased vasoconstriction and development of arterial hypertension. Surprisingly enough, preeclampsia is rarely associated with decreased P450scc activity and inadequate synthesis of placental progesterone [<xref rid="B88-ijms-16-13043" ref-type="bibr">88</xref>]. On the contrary, most studies report significant increase in placental progesterone production in the course of preeclampsia [<xref rid="B83-ijms-16-13043" ref-type="bibr">83</xref>,<xref rid="B89-ijms-16-13043" ref-type="bibr">89</xref>] linking progesterone directly with an imbalance between prostacyclin PGI<sub>2</sub> and thromboxane A<sub>2</sub> production in favor of the latter [<xref rid="B84-ijms-16-13043" ref-type="bibr">84</xref>,<xref rid="B90-ijms-16-13043" ref-type="bibr">90</xref>,<xref rid="B91-ijms-16-13043" ref-type="bibr">91</xref>,<xref rid="B92-ijms-16-13043" ref-type="bibr">92</xref>]. Significant DNA hypomethylation was observed in preeclampsia for steroidogenic genes, including <italic>CYP11A1</italic> for cytochrome P450scc and <italic>HSD3B1</italic> for 3&#x003b2;-hydroxy-delta-5-steroid dehydrogenase type 1, each controlling the two-step pathway of progesterone synthesis from cholesterol [<xref rid="B93-ijms-16-13043" ref-type="bibr">93</xref>]. As DNA methylation is inversely associated with mRNA expression, both transcripts were accordingly elevated in patients presenting with either early or late onset preeclampsia compared to controls. CYP11A expression was significantly increased in severe preeclampsia compared with normal pregnancy in both mRNA and protein levels [<xref rid="B73-ijms-16-13043" ref-type="bibr">73</xref>,<xref rid="B74-ijms-16-13043" ref-type="bibr">74</xref>]. Maternal progesterone levels as measured either in the placenta or plasma were increased in women with preeclampsia [<xref rid="B89-ijms-16-13043" ref-type="bibr">89</xref>,<xref rid="B94-ijms-16-13043" ref-type="bibr">94</xref>], and both progesterone and estradiol were reported to positively stimulate <italic>CYP11A1</italic> and <italic>HSD3B1</italic> expression in trophoblast cells increasing the abundance of P450scc and 3&#x003b2;-HSD type 1 mRNAs but had no significant effect on the amount of 3&#x003b2;-HSD protein [<xref rid="B95-ijms-16-13043" ref-type="bibr">95</xref>]. Circulating or urinary concentrations of progesterone were reported to be either within the normal range [<xref rid="B83-ijms-16-13043" ref-type="bibr">83</xref>,<xref rid="B96-ijms-16-13043" ref-type="bibr">96</xref>] or higher [<xref rid="B74-ijms-16-13043" ref-type="bibr">74</xref>,<xref rid="B94-ijms-16-13043" ref-type="bibr">94</xref>] in preeclamptic women. Therefore, it seems justified to presume that pathologically elevated progesterone may act in a compensatory feedforward loop to excessively promote placental steroidogenesis [<xref rid="B93-ijms-16-13043" ref-type="bibr">93</xref>,<xref rid="B95-ijms-16-13043" ref-type="bibr">95</xref>], and thus propel a metabolic vicious circle increasing progesterone level and progesterone-dependent vasoconstriction as observed in preeclampsia [<xref rid="B71-ijms-16-13043" ref-type="bibr">71</xref>,<xref rid="B74-ijms-16-13043" ref-type="bibr">74</xref>,<xref rid="B89-ijms-16-13043" ref-type="bibr">89</xref>,<xref rid="B90-ijms-16-13043" ref-type="bibr">90</xref>,<xref rid="B91-ijms-16-13043" ref-type="bibr">91</xref>,<xref rid="B94-ijms-16-13043" ref-type="bibr">94</xref>]. Moon <italic>et al.</italic> [<xref rid="B74-ijms-16-13043" ref-type="bibr">74</xref>] have recently presented a very convincing study based on GC-MS (Gas Chromatography-Mass Spectrometry) metabolic profiling where plasma pregnenolone and progesterone were significantly increased (&#x0003e;2.0-fold, <italic>p</italic> &#x0003c; 0.001) in preeclamptic patients as compared with control subjects, while cholesterol was significantly decreased (&#x0003c;1.4-fold, <italic>p</italic> &#x0003c; 0.001). Progesterone is essential for the maintenance of human pregnancy. However, elevated progesterone concentrations could on the one hand suppress the production of the potent vasodilator, prostacyclin, and on the other, stimulate the synthesis of the potent vasoconstrictor, thromboxane [<xref rid="B71-ijms-16-13043" ref-type="bibr">71</xref>,<xref rid="B74-ijms-16-13043" ref-type="bibr">74</xref>,<xref rid="B89-ijms-16-13043" ref-type="bibr">89</xref>,<xref rid="B90-ijms-16-13043" ref-type="bibr">90</xref>,<xref rid="B91-ijms-16-13043" ref-type="bibr">91</xref>]. In light of the above analysis, progesterone should not be advocated for prevention of preeclampsia and its complications [<xref rid="B97-ijms-16-13043" ref-type="bibr">97</xref>] as it used to be in the past.</p><p>There is a growing number of reports linking maternal Vitamin D<sub>3</sub> deficiency with preeclampsia [<xref rid="B13-ijms-16-13043" ref-type="bibr">13</xref>,<xref rid="B68-ijms-16-13043" ref-type="bibr">68</xref>,<xref rid="B78-ijms-16-13043" ref-type="bibr">78</xref>,<xref rid="B79-ijms-16-13043" ref-type="bibr">79</xref>,<xref rid="B80-ijms-16-13043" ref-type="bibr">80</xref>,<xref rid="B98-ijms-16-13043" ref-type="bibr">98</xref>]. The <italic>in vivo</italic> studies represented by <italic>ex-utero</italic> incubations of Vitamin D<sub>3</sub> with fragments of human placentas demonstrated the CYP11A1-catalyzed hydroxylation of Vitamin D<sub>3</sub> to 20(OH)D<sub>3</sub> being the major metabolite [<xref rid="B99-ijms-16-13043" ref-type="bibr">99</xref>]. It is important to note that human CYP11A1 does not metabolize 25(OH)D<sub>3</sub> [<xref rid="B100-ijms-16-13043" ref-type="bibr">100</xref>], and does not interfere with placental activation of 25-hydroxyvitamin D<sub>3</sub> [<xref rid="B101-ijms-16-13043" ref-type="bibr">101</xref>]. Therefore, it is Vitamin D<sub>3</sub> rather than 25(OH)D<sub>3</sub> possibly competing with cholesterol for the catalytic center of P450scc. Taking into account that the Km needed for the conversion of Vitamin D<sub>3</sub> to 20(OH)D<sub>3</sub> by placental CYP11A1 is higher than that for the metabolism of cholesterol [<xref rid="B102-ijms-16-13043" ref-type="bibr">102</xref>], only a relatively high level of Vitamin D<sub>3</sub> will competitively inhibit excess pregnenolone synthesis, and restore local placental production of 20(OH)D<sub>3</sub> and other derivatives by P450scc under the metabolic conditions of preeclampsia. As a matter of fact, our preliminary clinical observations suggest a plausible therapeutic effect of high-dose oral supplementation with 4000 IU Vitamin D<sub>3</sub> on preeclamptic placental vasculature which might be related to the competitive inhibition of abnormal pregnenolone and subsequent progesterone synthesis, as well as integral stabilization of placental cytochrome P450scc activity, and consequent reduction in lipid peroxidation. In our material on hypertensive patients, not only did high-dose Vitamin D<sub>3</sub> supplementation normalize arterial blood pressure, it also improved uterine vasculature as confirmed by ultrasound (data not shown) which accords with the Norwegian Mother and Child Cohort Study [<xref rid="B103-ijms-16-13043" ref-type="bibr">103</xref>] and other correlational studies [<xref rid="B13-ijms-16-13043" ref-type="bibr">13</xref>,<xref rid="B68-ijms-16-13043" ref-type="bibr">68</xref>,<xref rid="B80-ijms-16-13043" ref-type="bibr">80</xref>].</p><p>According to the WHO &#x0201c;Guideline for vitamin D supplementation in pregnant women&#x0201d; (Geneva, World Health Organization, 2012), Vitamin D<sub>3</sub> supplementation is not recommended during pregnancy to prevent the development of preeclampsia and its complications unless in cases of documented deficiency where Vitamin D<sub>3</sub> supplements may be given at the current RNI (recommended nutrient intake) of 5 &#x003bc;g (200 IU) per day as recommended by WHO/FAO or according to national guidelines. However, supplementation has been shown to have minimal toxicity in adults receiving doses of up to 10,000 IU per day [<xref rid="B104-ijms-16-13043" ref-type="bibr">104</xref>,<xref rid="B105-ijms-16-13043" ref-type="bibr">105</xref>]. Vitamin D toxicity generally becomes evident at doses of 20,000 IU per day and can lead to hypercalcaemia, hypercalciuria, and elevated (200 nmol/L) levels of serum 25(OH)D [<xref rid="B106-ijms-16-13043" ref-type="bibr">106</xref>]. There are few safety studies in pregnant women, however, in one recent study, up to 4000 IU Vitamin D<sub>3</sub> was provided to pregnant women from the twelfth to sixteenth weeks of pregnancy until delivery, with no reported cases of hypercalcaemia or hypercalciuria [<xref rid="B107-ijms-16-13043" ref-type="bibr">107</xref>]. Current evidence supports the concept that circulating 25-hydroxyvitamin D during pregnancy should rather be 40&#x02013;60 ng/mL (100&#x02013;150 nmol/L) suggesting either a high-dose daily intake of 4000 IU Vitamin D<sub>3</sub> or high-dosage interval bolus (35,000 IU/week or more) in order to attain that circulating level [<xref rid="B60-ijms-16-13043" ref-type="bibr">60</xref>,<xref rid="B108-ijms-16-13043" ref-type="bibr">108</xref>,<xref rid="B109-ijms-16-13043" ref-type="bibr">109</xref>]. Importantly, according to a couple of animal studies, 20(OH)D<sub>3</sub>, being the major placental metabolite of Vitamin D<sub>3</sub>, was reported to show a lack of calcemic or other toxic effects (as determined by serum chemistry and histological analyses of heart, spleen, liver, and kidney) at pharmacological doses far above the toxicity levels of 25(OH)D<sub>3</sub> or 1,25(OH)<sub>2</sub>D<sub>3</sub> [<xref rid="B110-ijms-16-13043" ref-type="bibr">110</xref>,<xref rid="B111-ijms-16-13043" ref-type="bibr">111</xref>,<xref rid="B112-ijms-16-13043" ref-type="bibr">112</xref>]. Moreover, 20(OH)D<sub>3</sub> exhibited potent anti-inflammatory [<xref rid="B113-ijms-16-13043" ref-type="bibr">113</xref>,<xref rid="B114-ijms-16-13043" ref-type="bibr">114</xref>], antifibrogenic [<xref rid="B112-ijms-16-13043" ref-type="bibr">112</xref>] and anticancer [<xref rid="B110-ijms-16-13043" ref-type="bibr">110</xref>,<xref rid="B115-ijms-16-13043" ref-type="bibr">115</xref>] properties, all of which being potentially beneficial in the prevention or therapy of preeclampsia.</p><p>We proposed a cellular model of preeclampsia exposing JAR trophoblast cells to AA(OOH)-induced lipid peroxidation analogously to our mitochondrial experimental model of preeclampsia which has been discussed above. Biochemical and ultrastructural changes as observed in JAR cell line exposed to oxidative stress phenomena had been previously defined [<xref rid="B75-ijms-16-13043" ref-type="bibr">75</xref>,<xref rid="B76-ijms-16-13043" ref-type="bibr">76</xref>], and were in accord with the characteristics of preeclamptic placental cells [<xref rid="B116-ijms-16-13043" ref-type="bibr">116</xref>]. We observed the same classical products of lipid peroxidation, namely MDA and HNE as we did in the isolated placental mitochondria having been exposed to AA(OOH). Lipid peroxidation was completely inhibited in cell culture pretreated with 50 &#x000b5;M TEMPOL (AA(OOH)+TEMPOL). Interestingly enough, contrary to common enzymatic antioxidants, nitroxides like 4-OH-TEMPO (TEMPOL) can provide protection of biological systems from oxidative stress by pre-emptying of carbon-centered radicals in lipid peroxidation chain reaction [<xref rid="B117-ijms-16-13043" ref-type="bibr">117</xref>,<xref rid="B118-ijms-16-13043" ref-type="bibr">118</xref>], thus preventing cytochrome P450scc heme destruction, which might be the mechanism of the observed reduction in P450scc activity (<xref ref-type="fig" rid="ijms-16-13043-f003">Figure 3</xref>) and concentration (<xref ref-type="fig" rid="ijms-16-13043-f004">Figure 4</xref>). High protective efficacy of 4-OH-TEMPO in the placental cell culture model (<xref ref-type="fig" rid="ijms-16-13043-f005">Figure 5</xref> and <xref ref-type="fig" rid="ijms-16-13043-f006">Figure 6</xref>) can be explained by extremely high absolute rate constant for the cross-coupling reaction of several carbon-centered radicals with various nitroxides (2.3 &#x000d7; 10<sup>9</sup> M<sup>&#x02212;1</sup>&#x000b7;s<sup>&#x02212;1</sup>) [<xref rid="B117-ijms-16-13043" ref-type="bibr">117</xref>,<xref rid="B119-ijms-16-13043" ref-type="bibr">119</xref>,<xref rid="B120-ijms-16-13043" ref-type="bibr">120</xref>]. As opposed to 4-OH-TEMPO, Vitamin E preferentially scavenges peroxyl radical, and proved to be ineffective in the prevention of preeclampsia [<xref rid="B56-ijms-16-13043" ref-type="bibr">56</xref>,<xref rid="B121-ijms-16-13043" ref-type="bibr">121</xref>]. The results of this study allow us to propose that alkyl radicals rather than peroxyl radicals are mainly involved in the oxidative damage to trophoblast cells under the conditions of preeclampsia (<xref ref-type="fig" rid="ijms-16-13043-f006">Figure 6</xref>).</p><p>In summary, our results suggest that regardless of inconsistencies found in literature, monitoring isoprostane concentration in the urine of pregnant women could be a valuable noninvasive method of measuring oxidative stress and it could also serve as an indicator for the initiation of anti-inflammatory therapy, or high-dose Vitamin D<sub>3</sub> supplementation throughout gestation. We propose that Vitamin D<sub>3</sub> might act as a competitive inhibitor of placental cytochrome P450scc preventing from the production of lipid peroxides or excess progesterone synthesis, both of which may contribute to the etiopathogenesis of preeclampsia.</p><fig id="ijms-16-13043-f006" position="float"><label>Figure 6</label><caption><p>A proposed molecular mechanism of high-dose Vitamin D<sub>3</sub> supplementation in prevention or treatment of preeclampsia. Vitamin D<sub>3</sub> acts as a competitive inhibitor of placental cytochrome P450scc preventing the production of lipid peroxides and excess progesterone, both of which may contribute to the etiopathogenesis of preeclampsia. 4-OH-TEMPO (TEMPOL) protects placental mitochondria as an effective scavenger of carbon-centered radicals.</p></caption><graphic xlink:href="ijms-16-13043-g006"/></fig></sec><sec><title>4. Experimental Section</title><sec><title>4.1. Clinical Study Design</title><p>The investigational group comprised patients with direct indications for having the pregnancy terminated by caesarian section, <italic>i.e.</italic>, preeclampsia due to uncontrolled rise in blood pressure in spite of antihypertensive treatment. The control group was made up of pregnant patients with other obstetric indications for C-section, such as breech presentation, cephalopelvic disproportion or dystocia. All of the patients consented to participate in the study. The study was continued for two winter seasons; concomitant medical conditions in the mother and low birth weight in the newborn were considered exclusion criteria. In the end, the preeclamptic cohort included 43 women with severe preeclampsia (clinical profile presented in <xref ref-type="table" rid="ijms-16-13043-t001">Table 1</xref>). There were 31 women with no symptoms of preeclampsia included as the control. Sociodemographic characteristics of the two study groups were comparable (<xref ref-type="table" rid="ijms-16-13043-t001">Table 1</xref>). Study samples were obtained from urine collected for approximately 24 h, from the time when urinary catheterization was performed as the patient was qualified for C-section, up until the last post-op fluid administration. Urine samples were taken from the drainage bag and stored at &#x02212;80 &#x000b0;C. 25(OH)D<sub>3</sub> levels were determined on plasma samples taken immediately after caesarian section, as part of the routine blood count and electrolyte panel. Both plasma and urine were aliquoted, and stored at &#x02212;80 &#x000b0;C for further immunochemical analysis.</p><table-wrap id="ijms-16-13043-t001" position="float"><object-id pub-id-type="pii">ijms-16-13043-t001_Table 1</object-id><label>Table 1</label><caption><p>Sociodemographic and clinical profiles of the preeclamptic <italic>vs.</italic> non-preeclamptic cohort.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Characteristic</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Non-Preeclamptic (Mean &#x000b1; SD)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Preeclamptic (Mean &#x000b1; SD)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"><italic>t</italic>-Test (<italic>p</italic>-Value)</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Age (years)</td><td align="center" valign="middle" rowspan="1" colspan="1">29 &#x000b1; 6</td><td align="center" valign="middle" rowspan="1" colspan="1">30 &#x000b1; 7</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>p</italic> &#x0003e; 0.3</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Systolic blood pressure (mm Hg)</td><td align="center" valign="middle" rowspan="1" colspan="1">122 &#x000b1; 8</td><td align="center" valign="middle" rowspan="1" colspan="1">164 &#x000b1; 7</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>p</italic> &#x0003c; 0.0001</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Diastolic blood pressure (mm Hg)</td><td align="center" valign="middle" rowspan="1" colspan="1">74 &#x000b1; 10</td><td align="center" valign="middle" rowspan="1" colspan="1">99 &#x000b1; 5</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>p</italic> &#x0003c; 0.0001</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Gravidity</td><td align="center" valign="middle" rowspan="1" colspan="1">1.7 &#x000b1; 1.0</td><td align="center" valign="middle" rowspan="1" colspan="1">1.6 &#x000b1; 1.1</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>p</italic> &#x0003e; 0.2</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Parity</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5 &#x000b1; 0.7</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4 &#x000b1; 0.6</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>p</italic> &#x0003e; 0.1</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Gestational age (weeks)</td><td align="center" valign="middle" rowspan="1" colspan="1">39 &#x000b1; 2</td><td align="center" valign="middle" rowspan="1" colspan="1">37 &#x000b1; 3</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>p</italic> &#x0003c; 0.001</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Newborn&#x02019;s weight (g)</td><td align="center" valign="middle" rowspan="1" colspan="1">3500 &#x000b1; 500</td><td align="center" valign="middle" rowspan="1" colspan="1">2780 &#x000b1; 900</td><td align="center" valign="middle" rowspan="1" colspan="1"><italic>p</italic> &#x0003c; 0.0001</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethnicity</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Caucasian</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Caucasian</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NA</td></tr></tbody></table></table-wrap></sec><sec><title>4.2. Immunochemical Assays</title><p>A commercial ELISA kit (Cayman Chemical Co., Ann Arbor, MI, USA) was used to measure the urinary excretion of 15-F<sub>2t</sub>-isoprostane (15-F<sub>2t</sub>-isoP), widely accepted as a sensitive marker of oxidative stress in the human body [<xref rid="B53-ijms-16-13043" ref-type="bibr">53</xref>]. The level of 15-F<sub>2t</sub>-isoP as immunochemically assessed in the urine was then calculated relative to urinary creatinine content and expressed as ng/mg of creatinine. 25(OH)D<sub>3</sub> was measured in plasma samples following a routine procedure applied by the hospital laboratory (Elecsys Vitamin D assay; normal values were &#x02265;30 ng/mL). 4-hydroxynonenal (HNE) was assessed using OxiSelect HNE Adduct ELISA Kit (Cell Biolabs, Inc., San Diego, CA, USA).</p></sec><sec><title>4.3. Preparation of Placental Mitochondria</title><p>Human term placental mitochondria were prepared as described previously [<xref rid="B122-ijms-16-13043" ref-type="bibr">122</xref>].</p></sec><sec><title>4.4. Cell Culture</title><p>The choriocarcinoma cell line JAR (ATCC HTB-144) was cultured in a humidified atmosphere with 5% CO<sub>2</sub> in RMPI-1640 (Sigma-Aldrich Co., St. Louis, MO, USA) containing 1 mM sodium pyruvate, 10 mM Hepes (Sigma-Aldrich, Poznan, Poland), supplemented with 10% heat-inactivated fetal bovine serum (Gibco, Grand Island, NY, USA), penicillin (100 IU/mL) and streptomycin (100 &#x000b5;g/mL) (Sigma-Aldrich, Poznan, Poland).</p></sec><sec><title>4.5. Cell Treatment with an Oxidative Stress Inducer</title><p>Cells cultured on 6-well culture dishes (5 &#x000d7; 10<sup>5</sup>&#x02013;1 &#x000d7; 10<sup>6</sup> cells/well) were treated for 3, 6, 12 or 24 h with 100 &#x000b5;M arachidonic acid hydroperoxide: 15(s)hydroperoxy(5<italic>Z</italic>,8<italic>Z</italic>,11<italic>Z</italic>,13<italic>E</italic>)-eicosatetraenoic acid (AA(OOH)) (Sigma-Aldrich, Poznan, Poland) in the culture medium. The cells of the TEMPOL-pretreated group were incubated for 2 h with 50 &#x000b5;M TEMPOL (4-hydroxy-TEMPO) (Sigma-Aldrich, Poznan, Poland) in the culture media prior to addition of 100 &#x000b5;M AA(OOH). Control cells did not receive any treatment. Cells (5 &#x000d7; 10<sup>6</sup> cells/mL) were collected from the culture dishes by trypsinization, centrifuged together with those floating in the culture medium and were washed with PBS. The cells were then lysed with lysis buffer and subjected to analysis of lipid peroxidation products as described below. Protein was determined using Bradford method (1976) after dissolving the perchloric acid precipitates in 0.5 M NaOH.</p></sec><sec><title>4.6. Placental Mitochondria Treatment with Oxidative Stress Inducer</title><p>A suspension of placental mitochondria was incubated with 100 &#x000b5;M arachidonic acid hydroperoxide (AA(OOH)) for 0, 0.125, 0.25, 0.5, 1.0, 2.0 and 2.5 h at 37 &#x000b0;C under air with constant shaking in 2.5 mL medium containing 0.1 M Tris-HCl buffer (pH 7.4), and 5 mg of mitochondrial protein. The levels of mitochondrial cytochrome P450 was determined as percentage of the control by the method of Omura and Sato [<xref rid="B123-ijms-16-13043" ref-type="bibr">123</xref>], using a molar absorption coefficient 100,000 M<sup>&#x02212;1</sup>&#x000b7;cm<sup>&#x02212;1</sup> for the difference in absorbance between 450 and 490 nm [<xref rid="B124-ijms-16-13043" ref-type="bibr">124</xref>].</p><p>Lipid peroxidation was assessed using commercial kits as described below.</p></sec><sec><title>4.7. Lipid Peroxidation Assays</title><p>Lipid peroxidation in cells lysates or placental mitochondria suspensions were evaluated on the basis of increasing levels of the key lipid peroxidation products malondialdehyde (MDA) and 4-hydroxynonenal (HNE). MDA was determined by a colorimetric method using a Lipid Peroxidation (MDA) Assay Kit (Abcam, Cambridge, UK) according to manufacturer&#x02019;s instruction. HNE was determined immunochemically using an OxiSelect HNE Adduct ELISA Kit (Cell Biolabs, Inc., San Diego, CA, USA) according to the manufacturer&#x02019;s instruction.</p></sec><sec><title>4.8. Progesterone Biosynthesis </title><p>NADP<sup>+</sup>, glucose-6-phosphate, glucose-6-phosphate dehydrogenase were obtained from Sigma-Aldrich, Poland. [4-<sup>14</sup>C]Cholesterol (58 mCi/mmol), [4-<sup>14</sup>C]pregnenolone (55 mCi/mmol), [<sup>3</sup>H]progesterone (12 Ci/mmol) and [<sup>3</sup>H]pregnenolone (6.9 Ci/mmol) were obtained from Radiochemical Centre (Amersham, UK). All other materials were of the highest analytical grade available from Sigma-Aldrich (Poland). Progesterone synthesis by mitochondria was measured using an NADPH-generating system consisting of 0.5 mM NADP<sup>+</sup>, 3 mM glucose-6-phosphate and 5 U/mL glucose-6-phosphate dehydrogenase, using radiolabeled precursors as previously described [<xref rid="B32-ijms-16-13043" ref-type="bibr">32</xref>].</p></sec><sec><title>4.9. Statistical Analysis</title><p>The results were expressed as mean &#x000b1; SEM (unless stated otherwise), and the significance of the difference between the mean values relative to control was determined by the Student&#x02019;s <italic>t</italic> test. Significance was determined at the 5% level (<bold>*</bold>
+<italic>p</italic> &#x0003c; 0.05), two-sided. Statistical significance between treatment and control group was indicated by asterisk. Correlation between variables was assessed by Pearson&#x02019;s r correlation test. Significance of correlation was determined at the 5% level (<bold>*</bold>
+<italic>p</italic> &#x0003c; 0.05). All of the statistical calculations were performed using GraphPad Prism 4 software by GraphPad Software, Inc. (La Jolla, CA, USA).</p></sec></sec><sec><title>5. Conclusions</title><p>The study showed a significantly increased level of oxidative stress, as measured by the urinary isoprostane excretion, in women presenting with severe preeclampsia as compared to control. Both study groups were Vitamin D<sub>3</sub> deficient. There was no correlation between wintertime 25(OH)D<sub>3</sub> and severe preeclampsia. However, low levels of Vitamin D<sub>3</sub> metabolites might potentially impair placental cytochrome P450scc activity inducing oxidative stress phenomena and increase the risk of preeclampsia. High-dose supplementation with Vitamin D<sub>3</sub> seems to be a rational, safe and effective countermeasure. Further randomized trials with supplementation of Vitamin D<sub>3</sub> or alternative combinations of clinically effective antioxidants in prevention and treatment of preeclampsia are necessary.</p></sec></body><back><ack><title>Acknowledgments</title><p>Narcyz Knap, Magdalena Gorska and Alicja Kuban-Jankowska acknowledge support by grant N N401 572640 from the Polish National Science Center (NCN).</p></ack><notes><title>Author Contributions</title><p>Piotr Zabul: clinical study design, sample collection, clinical data collection and interpretation, manuscript preparation &#x00026; critical revision; Michal Wozniak: in vitro model design and experimental support, manuscript preparation &#x00026; critical revision; Andrzej T. Slominski: manuscript preparation &#x00026; critical revision; Krzysztof Preis: clinical consultation; Magdalena Gorska: submission preparation and experimental support; Marek Korozan: sample collection; Jan Wieruszewski technical support and linguistic consultation; Michal A. Zmijewski: manuscript preparation &#x00026; critical revision; Ewa Zabul: clinical consultation; Robert Tuckey: manuscript preparation &#x00026; critical revision; Alicja Kuban-Jankowska: resubmission preparation; Wieslawa Mickiewicz: chemical quality control; Narcyz Knap: molecular study design, main experiments, oxidative stress analysis, data processing and interpretation, proposal of the principal molecular mechanism, writing the manuscript, rebuttal process and discussion.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-ijms-16-13043"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>D.K.</given-names></name><name><surname>Wi</surname><given-names>S.</given-names></name></person-group>
+<article-title>Changing paternity and the risk of preeclampsia/eclampsia in the subsequent pregnancy</article-title>
+<source>Am. J. Epidemiol.</source>
+<year>2000</year>
+<volume>151</volume>
+<fpage>57</fpage>
+<lpage>62</lpage>
+<pub-id pub-id-type="doi">10.1093/oxfordjournals.aje.a010122</pub-id>
+<pub-id pub-id-type="pmid">10625174</pub-id></element-citation></ref><ref id="B2-ijms-16-13043"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reslan</surname><given-names>O.M.</given-names></name><name><surname>Khalil</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Molecular and vascular targets in the pathogenesis and management of the hypertension associated with preeclampsia</article-title>
+<source>Cardiovasc. Hematol. Agents Med. Chem.</source>
+<year>2010</year>
+<volume>8</volume>
+<fpage>204</fpage>
+<lpage>226</lpage>
+<pub-id pub-id-type="doi">10.2174/187152510792481234</pub-id>
+<pub-id pub-id-type="pmid">20923405</pub-id></element-citation></ref><ref id="B3-ijms-16-13043"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>Y.C.</given-names></name><name><surname>Kong</surname><given-names>J.</given-names></name><name><surname>Wei</surname><given-names>M.</given-names></name><name><surname>Chen</surname><given-names>Z.F.</given-names></name><name><surname>Liu</surname><given-names>S.Q.</given-names></name><name><surname>Cao</surname><given-names>L.P.</given-names></name></person-group>
+<article-title>1,25-Dihydroxyvitamin D<sub>3</sub> is a negative endocrine regulator of the renin-angiotensin system</article-title>
+<source>J. Clin. Investig.</source>
+<year>2002</year>
+<volume>110</volume>
+<fpage>229</fpage>
+<lpage>238</lpage>
+<pub-id pub-id-type="doi">10.1172/JCI0215219</pub-id>
+<pub-id pub-id-type="pmid">12122115</pub-id></element-citation></ref><ref id="B4-ijms-16-13043"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holmes</surname><given-names>V.A.</given-names></name><name><surname>McCance</surname><given-names>D.R.</given-names></name></person-group>
+<article-title>Could antioxidant supplementation prevent pre-eclampsia?</article-title>
+<source>Proc. Nutr. Soc.</source>
+<year>2005</year>
+<volume>64</volume>
+<fpage>491</fpage>
+<lpage>501</lpage>
+<pub-id pub-id-type="doi">10.1079/PNS2005469</pub-id>
+<pub-id pub-id-type="pmid">16313693</pub-id></element-citation></ref><ref id="B5-ijms-16-13043"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takagi</surname><given-names>Y.</given-names></name><name><surname>Nikaido</surname><given-names>T.</given-names></name><name><surname>Toki</surname><given-names>T.</given-names></name><name><surname>Kita</surname><given-names>N.</given-names></name><name><surname>Kanai</surname><given-names>M.</given-names></name><name><surname>Ashida</surname><given-names>T.</given-names></name><name><surname>Ohira</surname><given-names>S.</given-names></name><name><surname>Konishi</surname><given-names>I.</given-names></name></person-group>
+<article-title>Levels of oxidative stress and redox-related molecules in the placenta in preeclampsia and fetal growth restriction</article-title>
+<source>Virchows Arch.</source>
+<year>2004</year>
+<volume>444</volume>
+<fpage>49</fpage>
+<lpage>55</lpage>
+<pub-id pub-id-type="doi">10.1007/s00428-003-0903-2</pub-id>
+<pub-id pub-id-type="pmid">14574573</pub-id></element-citation></ref><ref id="B6-ijms-16-13043"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mousa</surname><given-names>A.A.</given-names></name><name><surname>Strauss</surname><given-names>J.F.</given-names></name><name><surname>Walsh</surname><given-names>S.W.</given-names></name></person-group>
+<article-title>Reduced methylation of the thromboxane synthase gene is correlated with its increased vascular expression in preeclampsia</article-title>
+<source>Hypertension</source>
+<year>2012</year>
+<volume>59</volume>
+<fpage>1249</fpage>
+<lpage>1255</lpage>
+<pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.111.188730</pub-id>
+<pub-id pub-id-type="pmid">22493072</pub-id></element-citation></ref><ref id="B7-ijms-16-13043"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>S.W.</given-names></name><name><surname>Vaughan</surname><given-names>J.E.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Roberts</surname><given-names>L.J.</given-names></name></person-group>
+<article-title>Placental isoprostane is significantly increased in preeclampsia</article-title>
+<source>FASEB J.</source>
+<year>2000</year>
+<volume>14</volume>
+<fpage>1289</fpage>
+<lpage>1296</lpage>
+<pub-id pub-id-type="doi">10.1096/fj.14.10.1289</pub-id>
+<pub-id pub-id-type="pmid">10877821</pub-id></element-citation></ref><ref id="B8-ijms-16-13043"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>K.</given-names></name><name><surname>Nammour</surname><given-names>T.M.</given-names></name><name><surname>Fukunaga</surname><given-names>M.</given-names></name><name><surname>Ebert</surname><given-names>J.</given-names></name><name><surname>Morrow</surname><given-names>J.D.</given-names></name><name><surname>Roberts</surname><given-names>L.J.</given-names></name><name><surname>Hoover</surname><given-names>R.L.</given-names></name><name><surname>Badr</surname><given-names>K.F.</given-names></name></person-group>
+<article-title>Glomerular actions of a free radical-generated novel prostaglandin, 8-epi-prostaglandin F2 &#x003b1;, in the rat. Evidence for interaction with thromboxane A2 receptors</article-title>
+<source>J. Clin. Investig.</source>
+<year>1992</year>
+<volume>90</volume>
+<fpage>136</fpage>
+<lpage>141</lpage>
+<pub-id pub-id-type="doi">10.1172/JCI115826</pub-id>
+<pub-id pub-id-type="pmid">1386085</pub-id></element-citation></ref><ref id="B9-ijms-16-13043"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morrow</surname><given-names>J.D.</given-names></name><name><surname>Moore</surname><given-names>K.P.</given-names></name><name><surname>Awad</surname><given-names>J.A.</given-names></name><name><surname>Ravenscraft</surname><given-names>M.D.</given-names></name><name><surname>Marini</surname><given-names>G.</given-names></name><name><surname>Badr</surname><given-names>K.F.</given-names></name><name><surname>Williams</surname><given-names>R.</given-names></name><name><surname>Roberts</surname><given-names>L.J.</given-names></name></person-group>
+<article-title>Marked overproduction of non-cyclooxygenase derived prostanoids (F2-isoprostanes) in the hepatorenal syndrome</article-title>
+<source>J. Lipid Mediat.</source>
+<year>1993</year>
+<volume>6</volume>
+<fpage>417</fpage>
+<lpage>420</lpage>
+<pub-id pub-id-type="pmid">8358000</pub-id></element-citation></ref><ref id="B10-ijms-16-13043"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Renke</surname><given-names>M.</given-names></name><name><surname>Tylicki</surname><given-names>L.</given-names></name><name><surname>Knap</surname><given-names>N.</given-names></name><name><surname>Rutkowski</surname><given-names>P.</given-names></name><name><surname>Neuwelt</surname><given-names>A.</given-names></name><name><surname>Larczynski</surname><given-names>W.</given-names></name><name><surname>Wozniak</surname><given-names>M.</given-names></name><name><surname>Rutkowski</surname><given-names>B.</given-names></name></person-group>
+<article-title>Spironolactone attenuates oxidative stress in patients with chronic kidney disease</article-title>
+<source>Hypertension</source>
+<year>2008</year>
+<volume>52</volume>
+<fpage>e132</fpage>
+<lpage>e133</lpage>
+<pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.108.120568</pub-id>
+<pub-id pub-id-type="pmid">18824658</pub-id></element-citation></ref><ref id="B11-ijms-16-13043"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Renke</surname><given-names>M.</given-names></name><name><surname>Tylicki</surname><given-names>L.</given-names></name><name><surname>Knap</surname><given-names>N.</given-names></name><name><surname>Rutkowski</surname><given-names>P.</given-names></name><name><surname>Neuwelt</surname><given-names>A.</given-names></name><name><surname>Petranyuk</surname><given-names>A.</given-names></name><name><surname>Larczynski</surname><given-names>W.</given-names></name><name><surname>Wozniak</surname><given-names>M.</given-names></name><name><surname>Rutkowski</surname><given-names>B.</given-names></name></person-group>
+<article-title>High-dose angiotensin-converting enzyme inhibitor attenuates oxidative stress in patients with chronic kidney disease</article-title>
+<source>Nephrol. Dial. Transplant.</source>
+<year>2009</year>
+<volume>24</volume>
+<fpage>689</fpage>
+<lpage>690</lpage>
+<pub-id pub-id-type="doi">10.1093/ndt/gfn665</pub-id>
+<pub-id pub-id-type="pmid">19054799</pub-id></element-citation></ref><ref id="B12-ijms-16-13043"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holick</surname><given-names>M.F.</given-names></name></person-group>
+<article-title>Vitamin D deficiency</article-title>
+<source>N. Engl. J. Med.</source>
+<year>2007</year>
+<volume>357</volume>
+<fpage>266</fpage>
+<lpage>281</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMra070553</pub-id>
+<pub-id pub-id-type="pmid">17634462</pub-id></element-citation></ref><ref id="B13-ijms-16-13043"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bodnar</surname><given-names>L.M.</given-names></name><name><surname>Catov</surname><given-names>J.M.</given-names></name><name><surname>Simhan</surname><given-names>H.N.</given-names></name><name><surname>Holick</surname><given-names>M.F.</given-names></name><name><surname>Powers</surname><given-names>R.W.</given-names></name><name><surname>Roberts</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Maternal vitamin D deficiency increases the risk of preeclampsia</article-title>
+<source>J. Clin. Endocrinol. Metab.</source>
+<year>2007</year>
+<volume>92</volume>
+<fpage>3517</fpage>
+<lpage>3522</lpage>
+<pub-id pub-id-type="doi">10.1210/jc.2007-0718</pub-id>
+<pub-id pub-id-type="pmid">17535985</pub-id></element-citation></ref><ref id="B14-ijms-16-13043"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wellington</surname><given-names>K.</given-names></name><name><surname>Mulla</surname><given-names>Z.D.</given-names></name></person-group>
+<article-title>Seasonal trend in the occurrence of preeclampsia and eclampsia in Texas</article-title>
+<source>Am. J. Hypertens.</source>
+<year>2012</year>
+<volume>25</volume>
+<fpage>115</fpage>
+<lpage>119</lpage>
+<pub-id pub-id-type="doi">10.1038/ajh.2011.173</pub-id>
+<pub-id pub-id-type="pmid">21976279</pub-id></element-citation></ref><ref id="B15-ijms-16-13043"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jones</surname><given-names>G.</given-names></name></person-group>
+<article-title>Pharmacokinetics of vitamin D toxicity</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2008</year>
+<volume>88</volume>
+<fpage>582S</fpage>
+<lpage>586S</lpage>
+<pub-id pub-id-type="pmid">18689406</pub-id></element-citation></ref><ref id="B16-ijms-16-13043"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bikle</surname><given-names>D.D.</given-names></name></person-group>
+<article-title>Vitamin D: Newly discovered actions require reconsideration of physiologic requirements</article-title>
+<source>Trends Endocrinol. Metab.</source>
+<year>2010</year>
+<volume>21</volume>
+<fpage>375</fpage>
+<lpage>384</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tem.2010.01.003</pub-id>
+<pub-id pub-id-type="pmid">20149679</pub-id></element-citation></ref><ref id="B17-ijms-16-13043"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haussler</surname><given-names>M.R.</given-names></name><name><surname>Jurutka</surname><given-names>P.W.</given-names></name><name><surname>Mizwicki</surname><given-names>M.</given-names></name><name><surname>Norman</surname><given-names>A.W.</given-names></name></person-group>
+<article-title>Vitamin D receptor (VDR)-mediated actions of 1&#x003b1;,25(OH)<sub>2</sub> vitamin D<sub>3</sub>: Genomic and non-genomic mechanisms</article-title>
+<source>Best Pract. Res. Clin. Endocrinol. Metab.</source>
+<year>2011</year>
+<volume>25</volume>
+<fpage>543</fpage>
+<lpage>559</lpage>
+<pub-id pub-id-type="doi">10.1016/j.beem.2011.05.010</pub-id>
+<pub-id pub-id-type="pmid">21872797</pub-id></element-citation></ref><ref id="B18-ijms-16-13043"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carlberg</surname><given-names>C.</given-names></name><name><surname>Seuter</surname><given-names>S.</given-names></name><name><surname>Heikkinen</surname><given-names>S.</given-names></name></person-group>
+<article-title>The first genome-wide view of vitamin D receptor locations and their mechanistic implications</article-title>
+<source>Anticancer Res.</source>
+<year>2012</year>
+<volume>32</volume>
+<fpage>271</fpage>
+<lpage>282</lpage>
+<pub-id pub-id-type="pmid">22213316</pub-id></element-citation></ref><ref id="B19-ijms-16-13043"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woodham</surname><given-names>P.C.</given-names></name><name><surname>Brittain</surname><given-names>J.E.</given-names></name><name><surname>Baker</surname><given-names>A.M.</given-names></name><name><surname>Long</surname><given-names>D.L.</given-names></name><name><surname>Haeri</surname><given-names>S.</given-names></name><name><surname>Camargo</surname><given-names>C.A.</given-names><suffix>Jr.</suffix></name><name><surname>Boggess</surname><given-names>K.A.</given-names></name><name><surname>Stuebe</surname><given-names>A.M.</given-names></name></person-group>
+<article-title>Midgestation maternal serum 25-hydroxyvitamin D level and soluble fms-like tyrosine kinase 1/placental growth factor ratio as predictors of severe preeclampsia</article-title>
+<source>Hypertension</source>
+<year>2011</year>
+<volume>58</volume>
+<fpage>1120</fpage>
+<lpage>1125</lpage>
+<pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.111.179069</pub-id>
+<pub-id pub-id-type="pmid">21986503</pub-id></element-citation></ref><ref id="B20-ijms-16-13043"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wiseman</surname><given-names>H.</given-names></name></person-group>
+<article-title>Vitamin D is a membrane antioxidant. Ability to inhibit iron-dependent lipid peroxidation in liposomes compared to cholesterol, ergosterol and tamoxifen and relevance to anticancer action</article-title>
+<source>FEBS Lett.</source>
+<year>1993</year>
+<volume>326</volume>
+<fpage>285</fpage>
+<lpage>288</lpage>
+<pub-id pub-id-type="doi">10.1016/0014-5793(93)81809-E</pub-id>
+<pub-id pub-id-type="pmid">8325381</pub-id></element-citation></ref><ref id="B21-ijms-16-13043"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Phillips</surname><given-names>J.K.</given-names></name><name><surname>Bernstein</surname><given-names>I.M.</given-names></name><name><surname>Mongeon</surname><given-names>J.A.</given-names></name><name><surname>Badger</surname><given-names>G.J.</given-names></name></person-group>
+<article-title>Seasonal variation in preeclampsia based on timing of conception</article-title>
+<source>Obstet. Gynecol.</source>
+<year>2004</year>
+<volume>104</volume>
+<fpage>1015</fpage>
+<lpage>1020</lpage>
+<pub-id pub-id-type="doi">10.1097/01.AOG.0000143306.88438.cf</pub-id>
+<pub-id pub-id-type="pmid">15516394</pub-id></element-citation></ref><ref id="B22-ijms-16-13043"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Villar</surname><given-names>J.</given-names></name><name><surname>Abdel-Aleem</surname><given-names>H.</given-names></name><name><surname>Merialdi</surname><given-names>M.</given-names></name><name><surname>Mathai</surname><given-names>M.</given-names></name><name><surname>Ali</surname><given-names>M.M.</given-names></name><name><surname>Zavaleta</surname><given-names>N.</given-names></name><name><surname>Purwar</surname><given-names>M.</given-names></name><name><surname>Hofmeyr</surname><given-names>J.</given-names></name><name><surname>Nguyen</surname><given-names>T.N.</given-names></name><name><surname>Campodonico</surname><given-names>L.</given-names></name><etal/></person-group>
+<article-title>World Health Organization randomized trial of calcium supplementation among low calcium intake pregnant women</article-title>
+<source>Am. J. Obstet. Gynecol.</source>
+<year>2006</year>
+<volume>194</volume>
+<fpage>639</fpage>
+<lpage>649</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ajog.2006.01.068</pub-id>
+<pub-id pub-id-type="pmid">16522392</pub-id></element-citation></ref><ref id="B23-ijms-16-13043"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mulligan</surname><given-names>M.L.</given-names></name><name><surname>Felton</surname><given-names>S.K.</given-names></name><name><surname>Riek</surname><given-names>A.E.</given-names></name><name><surname>Bernal-Mizrachi</surname><given-names>C.</given-names></name></person-group>
+<article-title>Implications of vitamin D deficiency in pregnancy and lactation</article-title>
+<source>Am. J. Obstet. Gynecol.</source>
+<year>2010</year>
+<volume>202</volume>
+<fpage>429.e1</fpage>
+<lpage>429.e9</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ajog.2009.09.002</pub-id>
+<pub-id pub-id-type="pmid">19846050</pub-id></element-citation></ref><ref id="B24-ijms-16-13043"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Agarwal</surname><given-names>A.</given-names></name><name><surname>Aponte-Mellado</surname><given-names>A.</given-names></name><name><surname>Premkumar</surname><given-names>B.J.</given-names></name><name><surname>Shaman</surname><given-names>A.</given-names></name><name><surname>Gupta</surname><given-names>S.</given-names></name></person-group>
+<article-title>The effects of oxidative stress on female reproduction: A review</article-title>
+<source>Reprod. Biol. Endocrinol.</source>
+<year>2012</year>
+<volume>10</volume>
+<pub-id pub-id-type="doi">10.1186/1477-7827-10-49</pub-id>
+<pub-id pub-id-type="pmid">22748101</pub-id></element-citation></ref><ref id="B25-ijms-16-13043"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tabacova</surname><given-names>S.</given-names></name><name><surname>Little</surname><given-names>R.E.</given-names></name><name><surname>Balabaeva</surname><given-names>L.</given-names></name><name><surname>Pavlova</surname><given-names>S.</given-names></name><name><surname>Petrov</surname><given-names>I.</given-names></name></person-group>
+<article-title>Complications of pregnancy in relation to maternal lipid peroxides, glutathione, and exposure to metals</article-title>
+<source>Reprod. Toxicol.</source>
+<year>1994</year>
+<volume>8</volume>
+<fpage>217</fpage>
+<lpage>224</lpage>
+<pub-id pub-id-type="doi">10.1016/0890-6238(94)90005-1</pub-id>
+<pub-id pub-id-type="pmid">8075510</pub-id></element-citation></ref><ref id="B26-ijms-16-13043"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>S.W.</given-names></name></person-group>
+<article-title>Maternal-placental interactions of oxidative stress and antioxidants in preeclampsia</article-title>
+<source>Semin. Reprod. Endocrinol.</source>
+<year>1998</year>
+<volume>16</volume>
+<fpage>93</fpage>
+<lpage>104</lpage>
+<pub-id pub-id-type="doi">10.1055/s-2007-1016256</pub-id>
+<pub-id pub-id-type="pmid">9654611</pub-id></element-citation></ref><ref id="B27-ijms-16-13043"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wisdom</surname><given-names>S.J.</given-names></name><name><surname>Wilson</surname><given-names>R.</given-names></name><name><surname>McKillop</surname><given-names>J.H.</given-names></name><name><surname>Walker</surname><given-names>J.J.</given-names></name></person-group>
+<article-title>Antioxidant systems in normal pregnancy and in pregnancy-induced hypertension</article-title>
+<source>Am. J. Obstet. Gynecol.</source>
+<year>1991</year>
+<volume>165</volume>
+<fpage>1701</fpage>
+<lpage>1704</lpage>
+<pub-id pub-id-type="doi">10.1016/0002-9378(91)90018-M</pub-id>
+<pub-id pub-id-type="pmid">1750463</pub-id></element-citation></ref><ref id="B28-ijms-16-13043"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davidge</surname><given-names>S.T.</given-names></name><name><surname>Hubel</surname><given-names>C.A.</given-names></name><name><surname>Brayden</surname><given-names>R.D.</given-names></name><name><surname>Capeless</surname><given-names>E.C.</given-names></name><name><surname>McLaughlin</surname><given-names>M.K.</given-names></name></person-group>
+<article-title>Sera antioxidant activity in uncomplicated and preeclamptic pregnancies</article-title>
+<source>Obstet. Gynecol.</source>
+<year>1992</year>
+<volume>79</volume>
+<fpage>897</fpage>
+<lpage>901</lpage>
+<pub-id pub-id-type="doi">10.1016/0020-7292(93)90421-R</pub-id>
+<pub-id pub-id-type="pmid">1579310</pub-id></element-citation></ref><ref id="B29-ijms-16-13043"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morris</surname><given-names>J.M.</given-names></name><name><surname>Gopaul</surname><given-names>N.K.</given-names></name><name><surname>Endresen</surname><given-names>M.J.</given-names></name><name><surname>Knight</surname><given-names>M.</given-names></name><name><surname>Linton</surname><given-names>E.A.</given-names></name><name><surname>Dhir</surname><given-names>S.</given-names></name><name><surname>Anggard</surname><given-names>E.E.</given-names></name><name><surname>Redman</surname><given-names>C.W.</given-names></name></person-group>
+<article-title>Circulating markers of oxidative stress are raised in normal pregnancy and pre-eclampsia</article-title>
+<source>Br. J. Obstet. Gynaecol.</source>
+<year>1998</year>
+<volume>105</volume>
+<fpage>1195</fpage>
+<lpage>1199</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1471-0528.1998.tb09974.x</pub-id>
+<pub-id pub-id-type="pmid">9853769</pub-id></element-citation></ref><ref id="B30-ijms-16-13043"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Strauss</surname><given-names>J.F.</given-names><suffix>III</suffix></name><name><surname>Martinez</surname><given-names>F.</given-names></name><name><surname>Kiriakidou</surname><given-names>M.</given-names></name></person-group>
+<article-title>Placental steroid hormone synthesis: Unique features and unanswered questions</article-title>
+<source>Biol. Reprod.</source>
+<year>1996</year>
+<volume>54</volume>
+<fpage>303</fpage>
+<lpage>311</lpage>
+<pub-id pub-id-type="doi">10.1095/biolreprod54.2.303</pub-id>
+<pub-id pub-id-type="pmid">8788180</pub-id></element-citation></ref><ref id="B31-ijms-16-13043"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tuckey</surname><given-names>R.C.</given-names></name></person-group>
+<article-title>Progesterone synthesis by the human placenta</article-title>
+<source>Placenta</source>
+<year>2005</year>
+<volume>26</volume>
+<fpage>273</fpage>
+<lpage>281</lpage>
+<pub-id pub-id-type="doi">10.1016/j.placenta.2004.06.012</pub-id>
+<pub-id pub-id-type="pmid">15823613</pub-id></element-citation></ref><ref id="B32-ijms-16-13043"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klimek</surname><given-names>J.</given-names></name><name><surname>Wozniak</surname><given-names>M.</given-names></name><name><surname>Szymanska</surname><given-names>G.</given-names></name><name><surname>Zelewski</surname><given-names>L.</given-names></name></person-group>
+<article-title>Inhibitory effect of free radicals derived from organic hydroperoxide on progesterone synthesis in human term placental mitochondria</article-title>
+<source>Free Radic. Biol. Med.</source>
+<year>1998</year>
+<volume>24</volume>
+<fpage>1168</fpage>
+<lpage>1175</lpage>
+<pub-id pub-id-type="doi">10.1016/S0891-5849(97)00442-5</pub-id>
+<pub-id pub-id-type="pmid">9626571</pub-id></element-citation></ref><ref id="B33-ijms-16-13043"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chwalisz</surname><given-names>K.</given-names></name><name><surname>Garfield</surname><given-names>R.E.</given-names></name></person-group>
+<article-title>Role of progesterone during pregnancy: Models of parturition and preeclampsia</article-title>
+<source>Z. Geburtshilfe Perinatol.</source>
+<year>1994</year>
+<volume>198</volume>
+<fpage>170</fpage>
+<lpage>180</lpage>
+<pub-id pub-id-type="pmid">7717004</pub-id></element-citation></ref><ref id="B34-ijms-16-13043"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slominski</surname><given-names>A.T.</given-names></name><name><surname>Zmijewski</surname><given-names>M.A.</given-names></name><name><surname>Semak</surname><given-names>I.</given-names></name><name><surname>Zbytek</surname><given-names>B.</given-names></name><name><surname>Pisarchik</surname><given-names>A.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Zjawiony</surname><given-names>J.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name></person-group>
+<article-title>Cytochromes P450 and skin cancer: Role of local endocrine pathways</article-title>
+<source>Anticancer Agents Med. Chem.</source>
+<year>2014</year>
+<volume>14</volume>
+<fpage>77</fpage>
+<lpage>96</lpage>
+<pub-id pub-id-type="doi">10.2174/18715206113139990308</pub-id>
+<pub-id pub-id-type="pmid">23869782</pub-id></element-citation></ref><ref id="B35-ijms-16-13043"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slominski</surname><given-names>A.T.</given-names></name><name><surname>Kim</surname><given-names>T.K.</given-names></name><name><surname>Shehabi</surname><given-names>H.Z.</given-names></name><name><surname>Semak</surname><given-names>I.</given-names></name><name><surname>Tang</surname><given-names>E.K.</given-names></name><name><surname>Nguyen</surname><given-names>M.N.</given-names></name><name><surname>Benson</surname><given-names>H.A.</given-names></name><name><surname>Korik</surname><given-names>E.</given-names></name><name><surname>Janjetovic</surname><given-names>Z.</given-names></name><name><surname>Chen</surname><given-names>J.</given-names></name><etal/></person-group>
+<article-title><italic>In vivo</italic> evidence for a novel pathway of vitamin D<sub>3</sub> metabolism initiated by P450scc and modified by CYP27B1</article-title>
+<source>FASEB J.</source>
+<year>2012</year>
+<volume>26</volume>
+<fpage>3901</fpage>
+<lpage>3915</lpage>
+<pub-id pub-id-type="doi">10.1096/fj.12-208975</pub-id>
+<pub-id pub-id-type="pmid">22683847</pub-id></element-citation></ref><ref id="B36-ijms-16-13043"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tuckey</surname><given-names>R.C.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Zjawiony</surname><given-names>J.K.</given-names></name><name><surname>Zmijewski</surname><given-names>M.A.</given-names></name><name><surname>Nguyen</surname><given-names>M.N.</given-names></name><name><surname>Sweatman</surname><given-names>T.</given-names></name><name><surname>Miller</surname><given-names>D.</given-names></name><name><surname>Slominski</surname><given-names>A.</given-names></name></person-group>
+<article-title>Pathways and products for the metabolism of vitamin D<sub>3</sub> by cytochrome P450scc</article-title>
+<source>FEBS J.</source>
+<year>2008</year>
+<volume>275</volume>
+<fpage>2585</fpage>
+<lpage>2596</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1742-4658.2008.06406.x</pub-id>
+<pub-id pub-id-type="pmid">18410379</pub-id></element-citation></ref><ref id="B37-ijms-16-13043"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diaz</surname><given-names>L.</given-names></name><name><surname>Sanchez</surname><given-names>I.</given-names></name><name><surname>Avila</surname><given-names>E.</given-names></name><name><surname>Halhali</surname><given-names>A.</given-names></name><name><surname>Vilchis</surname><given-names>F.</given-names></name><name><surname>Larrea</surname><given-names>F.</given-names></name></person-group>
+<article-title>Identification of a 25-hydroxyvitamin D<sub>3</sub> 1&#x003b1;-hydroxylase gene transcription product in cultures of human syncytiotrophoblast cells</article-title>
+<source>J. Clin. Endocrinol. Metab.</source>
+<year>2000</year>
+<volume>85</volume>
+<fpage>2543</fpage>
+<lpage>2549</lpage>
+<pub-id pub-id-type="pmid">10902806</pub-id></element-citation></ref><ref id="B38-ijms-16-13043"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pospechova</surname><given-names>K.</given-names></name><name><surname>Rozehnal</surname><given-names>V.</given-names></name><name><surname>Stejskalova</surname><given-names>L.</given-names></name><name><surname>Vrzal</surname><given-names>R.</given-names></name><name><surname>Pospisilova</surname><given-names>N.</given-names></name><name><surname>Jamborova</surname><given-names>G.</given-names></name><name><surname>May</surname><given-names>K.</given-names></name><name><surname>Siegmund</surname><given-names>W.</given-names></name><name><surname>Dvorak</surname><given-names>Z.</given-names></name><name><surname>Nachtigal</surname><given-names>P.</given-names></name><etal/></person-group>
+<article-title>Expression and activity of vitamin D receptor in the human placenta and in choriocarcinoma BeWo and JEG-3 cell lines</article-title>
+<source>Mol. Cell. Endocrinol.</source>
+<year>2009</year>
+<volume>299</volume>
+<fpage>178</fpage>
+<lpage>187</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mce.2008.12.003</pub-id>
+<pub-id pub-id-type="pmid">19133314</pub-id></element-citation></ref><ref id="B39-ijms-16-13043"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anari</surname><given-names>M.R.</given-names></name><name><surname>Khan</surname><given-names>S.</given-names></name><name><surname>O&#x02019;Brien</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>The involvement of cytochrome P450 peroxidase in the metabolic bioactivation of cumene hydroperoxide by isolated rat hepatocytes</article-title>
+<source>Chem. Res. Toxicol.</source>
+<year>1996</year>
+<volume>9</volume>
+<fpage>924</fpage>
+<lpage>931</lpage>
+<pub-id pub-id-type="doi">10.1021/tx950188d</pub-id>
+<pub-id pub-id-type="pmid">8870978</pub-id></element-citation></ref><ref id="B40-ijms-16-13043"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weiss</surname><given-names>R.H.</given-names></name><name><surname>Estabrook</surname><given-names>R.W.</given-names></name></person-group>
+<article-title>The mechanism of cumene hydroperoxide-dependent lipid peroxidation: The function of cytochrome P-450</article-title>
+<source>Arch. Biochem. Biophys.</source>
+<year>1986</year>
+<volume>251</volume>
+<fpage>348</fpage>
+<lpage>360</lpage>
+<pub-id pub-id-type="doi">10.1016/0003-9861(86)90082-2</pub-id>
+<pub-id pub-id-type="pmid">3789739</pub-id></element-citation></ref><ref id="B41-ijms-16-13043"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Levin</surname><given-names>W.</given-names></name><name><surname>Lu</surname><given-names>A.Y.</given-names></name><name><surname>Jacobson</surname><given-names>M.</given-names></name><name><surname>Kuntzman</surname><given-names>R.</given-names></name><name><surname>Poyer</surname><given-names>J.L.</given-names></name><name><surname>McCay</surname><given-names>P.B.</given-names></name></person-group>
+<article-title>Lipid peroxidation and the degradation of cytochrome P-450 heme</article-title>
+<source>Arch. Biochem. Biophys.</source>
+<year>1973</year>
+<volume>158</volume>
+<fpage>842</fpage>
+<lpage>852</lpage>
+<pub-id pub-id-type="doi">10.1016/0003-9861(73)90580-8</pub-id>
+<pub-id pub-id-type="pmid">4150126</pub-id></element-citation></ref><ref id="B42-ijms-16-13043"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yao</surname><given-names>K.</given-names></name><name><surname>Falick</surname><given-names>A.M.</given-names></name><name><surname>Patel</surname><given-names>N.</given-names></name><name><surname>Correia</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>Cumene hydroperoxide-mediated inactivation of cytochrome P450 2B1. Identification of an active site heme-modified peptide</article-title>
+<source>J. Biol. Chem.</source>
+<year>1993</year>
+<volume>268</volume>
+<fpage>59</fpage>
+<lpage>65</lpage>
+<pub-id pub-id-type="pmid">8416964</pub-id></element-citation></ref><ref id="B43-ijms-16-13043"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barr</surname><given-names>D.P.</given-names></name><name><surname>Martin</surname><given-names>M.V.</given-names></name><name><surname>Guengerich</surname><given-names>F.P.</given-names></name><name><surname>Mason</surname><given-names>R.P.</given-names></name></person-group>
+<article-title>Reaction of cytochrome P450 with cumene hydroperoxide: ESR spin-trapping evidence for the homolytic scission of the peroxide O&#x02013;O bond by ferric cytochrome P450 1A2</article-title>
+<source>Chem. Res. Toxicol.</source>
+<year>1996</year>
+<volume>9</volume>
+<fpage>318</fpage>
+<lpage>325</lpage>
+<pub-id pub-id-type="doi">10.1021/tx9501501</pub-id>
+<pub-id pub-id-type="pmid">8924611</pub-id></element-citation></ref><ref id="B44-ijms-16-13043"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rota</surname><given-names>C.</given-names></name><name><surname>Barr</surname><given-names>D.P.</given-names></name><name><surname>Martin</surname><given-names>M.V.</given-names></name><name><surname>Guengerich</surname><given-names>F.P.</given-names></name><name><surname>Tomasi</surname><given-names>A.</given-names></name><name><surname>Mason</surname><given-names>R.P.</given-names></name></person-group>
+<article-title>Detection of free radicals produced from the reaction of cytochrome P-450 with linoleic acid hydroperoxide</article-title>
+<source>Biochem. J.</source>
+<year>1997</year>
+<volume>328</volume>
+<fpage>565</fpage>
+<lpage>571</lpage>
+<pub-id pub-id-type="pmid">9371716</pub-id></element-citation></ref><ref id="B45-ijms-16-13043"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Szymczyk</surname><given-names>G.</given-names></name><name><surname>Beltowski</surname><given-names>J.</given-names></name><name><surname>Marciniak</surname><given-names>A.</given-names></name><name><surname>Kotarski</surname><given-names>J.</given-names></name></person-group>
+<article-title>Serum isoprostanes levels in patients after abdominal hysterectomy</article-title>
+<source>Rocz. Akad. Med. Bialymst.</source>
+<year>2005</year>
+<volume>50</volume>
+<fpage>322</fpage>
+<lpage>324</lpage>
+<pub-id pub-id-type="pmid">16358993</pub-id></element-citation></ref><ref id="B46-ijms-16-13043"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scholl</surname><given-names>T.O.</given-names></name><name><surname>Leskiw</surname><given-names>M.</given-names></name><name><surname>Chen</surname><given-names>X.</given-names></name><name><surname>Sims</surname><given-names>M.</given-names></name><name><surname>Stein</surname><given-names>T.P.</given-names></name></person-group>
+<article-title>Oxidative stress, diet, and the etiology of preeclampsia</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2005</year>
+<volume>81</volume>
+<fpage>1390</fpage>
+<lpage>1396</lpage>
+<pub-id pub-id-type="pmid">15941892</pub-id></element-citation></ref><ref id="B47-ijms-16-13043"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tetteh</surname><given-names>P.W.</given-names></name><name><surname>Antwi-Boasiako</surname><given-names>C.</given-names></name><name><surname>Gyan</surname><given-names>B.</given-names></name><name><surname>Antwi</surname><given-names>D.</given-names></name><name><surname>Adzaku</surname><given-names>F.</given-names></name><name><surname>Obed</surname><given-names>S.</given-names></name></person-group>
+<article-title>Impaired renal function and increased urinary isoprostane excretion in Ghanaian women with pre-eclampsia</article-title>
+<source>Res. Rep. Trop. Med.</source>
+<year>2013</year>
+<volume>4</volume>
+<fpage>7</fpage>
+<lpage>13</lpage>
+</element-citation></ref><ref id="B48-ijms-16-13043"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barden</surname><given-names>A.</given-names></name><name><surname>Ritchie</surname><given-names>J.</given-names></name><name><surname>Walters</surname><given-names>B.</given-names></name><name><surname>Michael</surname><given-names>C.</given-names></name><name><surname>Rivera</surname><given-names>J.</given-names></name><name><surname>Mori</surname><given-names>T.</given-names></name><name><surname>Croft</surname><given-names>K.</given-names></name><name><surname>Beilin</surname><given-names>L.</given-names></name></person-group>
+<article-title>Study of plasma factors associated with neutrophil activation and lipid peroxidation in preeclampsia</article-title>
+<source>Hypertension</source>
+<year>2001</year>
+<volume>38</volume>
+<fpage>803</fpage>
+<lpage>808</lpage>
+<pub-id pub-id-type="doi">10.1161/hy1101.092969</pub-id>
+<pub-id pub-id-type="pmid">11641290</pub-id></element-citation></ref><ref id="B49-ijms-16-13043"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McKinney</surname><given-names>E.T.</given-names></name><name><surname>Shouri</surname><given-names>R.</given-names></name><name><surname>Hunt</surname><given-names>R.S.</given-names></name><name><surname>Ahokas</surname><given-names>R.A.</given-names></name><name><surname>Sibai</surname><given-names>B.M.</given-names></name></person-group>
+<article-title>Plasma, urinary, and salivary 8-epi-prostaglandin f2&#x003b1; levels in normotensive and preeclamptic pregnancies</article-title>
+<source>Am. J. Obstet. Gynecol.</source>
+<year>2000</year>
+<volume>183</volume>
+<fpage>874</fpage>
+<lpage>877</lpage>
+<pub-id pub-id-type="doi">10.1067/mob.2000.108877</pub-id>
+<pub-id pub-id-type="pmid">11035329</pub-id></element-citation></ref><ref id="B50-ijms-16-13043"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ishihara</surname><given-names>O.</given-names></name><name><surname>Hayashi</surname><given-names>M.</given-names></name><name><surname>Osawa</surname><given-names>H.</given-names></name><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Takeda</surname><given-names>S.</given-names></name><name><surname>Vessby</surname><given-names>B.</given-names></name><name><surname>Basu</surname><given-names>S.</given-names></name></person-group>
+<article-title>Isoprostanes, prostaglandins and tocopherols in pre-eclampsia, normal pregnancy and non-pregnancy</article-title>
+<source>Free Radic. Res.</source>
+<year>2004</year>
+<volume>38</volume>
+<fpage>913</fpage>
+<lpage>918</lpage>
+<pub-id pub-id-type="doi">10.1080/10715760412331273421</pub-id>
+<pub-id pub-id-type="pmid">15621708</pub-id></element-citation></ref><ref id="B51-ijms-16-13043"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basu</surname><given-names>S.</given-names></name></person-group>
+<article-title>Isoprostanes: Novel bioactive products of lipid peroxidation</article-title>
+<source>Free Radic. Res.</source>
+<year>2004</year>
+<volume>38</volume>
+<fpage>105</fpage>
+<lpage>122</lpage>
+<pub-id pub-id-type="doi">10.1080/10715760310001646895</pub-id>
+<pub-id pub-id-type="pmid">15104204</pub-id></element-citation></ref><ref id="B52-ijms-16-13043"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basu</surname><given-names>S.</given-names></name></person-group>
+<article-title>Fatty acid oxidation and isoprostanes: Oxidative strain and oxidative stress</article-title>
+<source>Prostaglandins Leukot. Essent. Fatty Acids</source>
+<year>2010</year>
+<volume>82</volume>
+<fpage>219</fpage>
+<lpage>225</lpage>
+<pub-id pub-id-type="doi">10.1016/j.plefa.2010.02.031</pub-id>
+<pub-id pub-id-type="pmid">20363116</pub-id></element-citation></ref><ref id="B53-ijms-16-13043"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fam</surname><given-names>S.S.</given-names></name><name><surname>Morrow</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>The isoprostanes: Unique products of arachidonic acid oxidation&#x02014;A review</article-title>
+<source>Curr. Med. Chem.</source>
+<year>2003</year>
+<volume>10</volume>
+<fpage>1723</fpage>
+<lpage>1740</lpage>
+<pub-id pub-id-type="doi">10.2174/0929867033457115</pub-id>
+<pub-id pub-id-type="pmid">12871112</pub-id></element-citation></ref><ref id="B54-ijms-16-13043"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barden</surname><given-names>A.</given-names></name><name><surname>Beilin</surname><given-names>L.J.</given-names></name><name><surname>Ritchie</surname><given-names>J.</given-names></name><name><surname>Croft</surname><given-names>K.D.</given-names></name><name><surname>Walters</surname><given-names>B.N.</given-names></name><name><surname>Michael</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Plasma and urinary 8-iso-prostane as an indicator of lipid peroxidation in pre-eclampsia and normal pregnancy</article-title>
+<source>Clin. Sci.</source>
+<year>1996</year>
+<volume>91</volume>
+<fpage>711</fpage>
+<lpage>718</lpage>
+<pub-id pub-id-type="pmid">8976806</pub-id></element-citation></ref><ref id="B55-ijms-16-13043"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Regan</surname><given-names>C.L.</given-names></name><name><surname>Levine</surname><given-names>R.J.</given-names></name><name><surname>Baird</surname><given-names>D.D.</given-names></name><name><surname>Ewell</surname><given-names>M.G.</given-names></name><name><surname>Martz</surname><given-names>K.L.</given-names></name><name><surname>Sibai</surname><given-names>B.M.</given-names></name><name><surname>Rokach</surname><given-names>J.</given-names></name><name><surname>Lawson</surname><given-names>J.A.</given-names></name><name><surname>Fitzgerald</surname><given-names>G.A.</given-names></name></person-group>
+<article-title>No evidence for lipid peroxidation in severe preeclampsia</article-title>
+<source>Am. J. Obstet. Gynecol.</source>
+<year>2001</year>
+<volume>185</volume>
+<fpage>572</fpage>
+<lpage>578</lpage>
+<pub-id pub-id-type="doi">10.1067/mob.2001.116754</pub-id>
+<pub-id pub-id-type="pmid">11568780</pub-id></element-citation></ref><ref id="B56-ijms-16-13043"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kalpdev</surname><given-names>A.</given-names></name><name><surname>Saha</surname><given-names>S.C.</given-names></name><name><surname>Dhawan</surname><given-names>V.</given-names></name></person-group>
+<article-title>Vitamin C and E supplementation does not reduce the risk of superimposed PE in pregnancy</article-title>
+<source>Hypertens. Pregnancy</source>
+<year>2011</year>
+<volume>30</volume>
+<fpage>447</fpage>
+<lpage>456</lpage>
+<pub-id pub-id-type="doi">10.3109/10641955.2010.507840</pub-id>
+<pub-id pub-id-type="pmid">21174586</pub-id></element-citation></ref><ref id="B57-ijms-16-13043"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shin</surname><given-names>J.S.</given-names></name><name><surname>Choi</surname><given-names>M.Y.</given-names></name><name><surname>Longtine</surname><given-names>M.S.</given-names></name><name><surname>Nelson</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>Vitamin D effects on pregnancy and the placenta</article-title>
+<source>Placenta</source>
+<year>2010</year>
+<volume>31</volume>
+<fpage>1027</fpage>
+<lpage>1034</lpage>
+<pub-id pub-id-type="doi">10.1016/j.placenta.2010.08.015</pub-id>
+<pub-id pub-id-type="pmid">20863562</pub-id></element-citation></ref><ref id="B58-ijms-16-13043"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slominski</surname><given-names>A.T.</given-names></name><name><surname>Kim</surname><given-names>T.K.</given-names></name><name><surname>Chen</surname><given-names>J.</given-names></name><name><surname>Nguyen</surname><given-names>M.N.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Yates</surname><given-names>C.R.</given-names></name><name><surname>Sweatman</surname><given-names>T.</given-names></name><name><surname>Janjetovic</surname><given-names>Z.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name></person-group>
+<article-title>Cytochrome P450scc-dependent metabolism of 7-dehydrocholesterol in placenta and epidermal keratinocytes</article-title>
+<source>Int. J. Biochem. Cell Biol.</source>
+<year>2012</year>
+<volume>44</volume>
+<fpage>2003</fpage>
+<lpage>2018</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocel.2012.07.027</pub-id>
+<pub-id pub-id-type="pmid">22877869</pub-id></element-citation></ref><ref id="B59-ijms-16-13043"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Urrutia</surname><given-names>R.P.</given-names></name><name><surname>Thorp</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Vitamin D in pregnancy: Current concepts</article-title>
+<source>Curr. Opin. Obstet. Gynecol.</source>
+<year>2012</year>
+<volume>24</volume>
+<fpage>57</fpage>
+<lpage>64</lpage>
+<pub-id pub-id-type="doi">10.1097/GCO.0b013e3283505ab3</pub-id>
+<pub-id pub-id-type="pmid">22327734</pub-id></element-citation></ref><ref id="B60-ijms-16-13043"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hollis</surname><given-names>B.W.</given-names></name><name><surname>Wagner</surname><given-names>C.L.</given-names></name></person-group>
+<article-title>Vitamin D requirements and supplementation during pregnancy</article-title>
+<source>Curr. Opin. Endocrinol. Diabetes Obes.</source>
+<year>2011</year>
+<volume>18</volume>
+<fpage>371</fpage>
+<lpage>375</lpage>
+<pub-id pub-id-type="doi">10.1097/MED.0b013e32834b0040</pub-id>
+<pub-id pub-id-type="pmid">21857221</pub-id></element-citation></ref><ref id="B61-ijms-16-13043"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bandeira</surname><given-names>F.</given-names></name><name><surname>Griz</surname><given-names>L.</given-names></name><name><surname>Dreyer</surname><given-names>P.</given-names></name><name><surname>Eufrazino</surname><given-names>C.</given-names></name><name><surname>Bandeira</surname><given-names>C.</given-names></name><name><surname>Freese</surname><given-names>E.</given-names></name></person-group>
+<article-title>Vitamin D deficiency: A global perspective</article-title>
+<source>Arq Bras. Endocrinol. Metabol.</source>
+<year>2006</year>
+<volume>50</volume>
+<fpage>640</fpage>
+<lpage>646</lpage>
+<pub-id pub-id-type="doi">10.1590/S0004-27302006000400009</pub-id>
+<pub-id pub-id-type="pmid">17117289</pub-id></element-citation></ref><ref id="B62-ijms-16-13043"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bodnar</surname><given-names>L.M.</given-names></name><name><surname>Simhan</surname><given-names>H.N.</given-names></name><name><surname>Powers</surname><given-names>R.W.</given-names></name><name><surname>Frank</surname><given-names>M.P.</given-names></name><name><surname>Cooperstein</surname><given-names>E.</given-names></name><name><surname>Roberts</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>High prevalence of vitamin D insufficiency in black and white pregnant women residing in the northern United States and their neonates</article-title>
+<source>J. Nutr.</source>
+<year>2007</year>
+<volume>137</volume>
+<fpage>447</fpage>
+<lpage>452</lpage>
+<pub-id pub-id-type="pmid">17237325</pub-id></element-citation></ref><ref id="B63-ijms-16-13043"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holmes</surname><given-names>V.A.</given-names></name><name><surname>Barnes</surname><given-names>M.S.</given-names></name><name><surname>Alexander</surname><given-names>H.D.</given-names></name><name><surname>McFaul</surname><given-names>P.</given-names></name><name><surname>Wallace</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Vitamin D deficiency and insufficiency in pregnant women: A longitudinal study</article-title>
+<source>Br. J. Nutr.</source>
+<year>2009</year>
+<volume>102</volume>
+<fpage>876</fpage>
+<lpage>881</lpage>
+<pub-id pub-id-type="doi">10.1017/S0007114509297236</pub-id>
+<pub-id pub-id-type="pmid">19331703</pub-id></element-citation></ref><ref id="B64-ijms-16-13043"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O&#x02019;Riordan</surname><given-names>M.N.</given-names></name><name><surname>Kiely</surname><given-names>M.</given-names></name><name><surname>Higgins</surname><given-names>J.R.</given-names></name><name><surname>Cashman</surname><given-names>K.D.</given-names></name></person-group>
+<article-title>Prevalence of suboptimal vitamin D status during pregnancy</article-title>
+<source>Ir. Med. J.</source>
+<year>2008</year>
+<volume>101</volume>
+<fpage>240</fpage>
+<lpage>243</lpage>
+<page-range>240, 242&#x02013;240, 243</page-range>
+<pub-id pub-id-type="pmid">18990953</pub-id></element-citation></ref><ref id="B65-ijms-16-13043"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kmiec</surname><given-names>P.</given-names></name><name><surname>Zmijewski</surname><given-names>M.</given-names></name><name><surname>Waszak</surname><given-names>P.</given-names></name><name><surname>Sworczak</surname><given-names>K.</given-names></name><name><surname>Lizakowska-Kmiec</surname><given-names>M.</given-names></name></person-group>
+<article-title>Vitamin D deficiency during winter months among an adult, predominantly urban, population in Northern Poland</article-title>
+<source>Endokrynol. Pol.</source>
+<year>2014</year>
+<volume>65</volume>
+<fpage>105</fpage>
+<lpage>113</lpage>
+<pub-id pub-id-type="pmid">24802733</pub-id></element-citation></ref><ref id="B66-ijms-16-13043"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kmiec</surname><given-names>P.</given-names></name><name><surname>Zmijewski</surname><given-names>M.</given-names></name><name><surname>Lizakowska-Kmiec</surname><given-names>M.</given-names></name><name><surname>Sworczak</surname><given-names>K.</given-names></name></person-group>
+<article-title>Widespread vitamin D deficiency among adults from northern Poland (54 degrees N) after months of low and high natural UVB radiation</article-title>
+<source>Endokrynol. Pol.</source>
+<year>2015</year>
+<volume>66</volume>
+<fpage>30</fpage>
+<lpage>38</lpage>
+<pub-id pub-id-type="pmid">25754279</pub-id></element-citation></ref><ref id="B67-ijms-16-13043"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pludowski</surname><given-names>P.</given-names></name><name><surname>Karczmarewicz</surname><given-names>E.</given-names></name><name><surname>Bayer</surname><given-names>M.</given-names></name><name><surname>Carter</surname><given-names>G.</given-names></name><name><surname>Chlebna-Sokol</surname><given-names>D.</given-names></name><name><surname>Czech-Kowalska</surname><given-names>J.</given-names></name><name><surname>Debski</surname><given-names>R.</given-names></name><name><surname>Decsi</surname><given-names>T.</given-names></name><name><surname>Dobrzanska</surname><given-names>A.</given-names></name><name><surname>Franek</surname><given-names>E.</given-names></name><etal/></person-group>
+<article-title>Practical guidelines for the supplementation of vitamin D and the treatment of deficits in Central Europe-recommended vitamin D intakes in the general population and groups at risk of vitamin D deficiency</article-title>
+<source>Endokrynol. Pol.</source>
+<year>2013</year>
+<volume>64</volume>
+<fpage>319</fpage>
+<lpage>327</lpage>
+<pub-id pub-id-type="doi">10.5603/EP.2013.0012</pub-id>
+<pub-id pub-id-type="pmid">24002961</pub-id></element-citation></ref><ref id="B68-ijms-16-13043"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bodnar</surname><given-names>L.M.</given-names></name><name><surname>Simhan</surname><given-names>H.N.</given-names></name><name><surname>Catov</surname><given-names>J.M.</given-names></name><name><surname>Roberts</surname><given-names>J.M.</given-names></name><name><surname>Platt</surname><given-names>R.W.</given-names></name><name><surname>Diesel</surname><given-names>J.C.</given-names></name><name><surname>Klebanoff</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>Maternal vitamin D status and the risk of mild and severe preeclampsia</article-title>
+<source>Epidemiology</source>
+<year>2014</year>
+<volume>25</volume>
+<fpage>207</fpage>
+<lpage>214</lpage>
+<pub-id pub-id-type="doi">10.1097/EDE.0000000000000039</pub-id>
+<pub-id pub-id-type="pmid">24457526</pub-id></element-citation></ref><ref id="B69-ijms-16-13043"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Walsh</surname><given-names>S.W.</given-names></name></person-group>
+<article-title>Placental mitochondria as a source of oxidative stress in pre-eclampsia</article-title>
+<source>Placenta</source>
+<year>1998</year>
+<volume>19</volume>
+<fpage>581</fpage>
+<lpage>586</lpage>
+<pub-id pub-id-type="doi">10.1016/S0143-4004(98)90018-2</pub-id>
+<pub-id pub-id-type="pmid">9859861</pub-id></element-citation></ref><ref id="B70-ijms-16-13043"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>S.W.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Trophoblast and placental villous core production of lipid peroxides, thromboxane, and prostacyclin in preeclampsia</article-title>
+<source>J. Clin. Endocrinol. Metab.</source>
+<year>1995</year>
+<volume>80</volume>
+<fpage>1888</fpage>
+<lpage>1893</lpage>
+<pub-id pub-id-type="pmid">7775637</pub-id></element-citation></ref><ref id="B71-ijms-16-13043"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>S.W.</given-names></name></person-group>
+<article-title>Eicosanoids in preeclampsia</article-title>
+<source>Prostaglandins Leukot. Essent. Fatty Acids</source>
+<year>2004</year>
+<volume>70</volume>
+<fpage>223</fpage>
+<lpage>232</lpage>
+<pub-id pub-id-type="doi">10.1016/j.plefa.2003.04.010</pub-id>
+<pub-id pub-id-type="pmid">14683695</pub-id></element-citation></ref><ref id="B72-ijms-16-13043"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morikawa</surname><given-names>S.</given-names></name><name><surname>Kurauchi</surname><given-names>O.</given-names></name><name><surname>Tanaka</surname><given-names>M.</given-names></name><name><surname>Yoneda</surname><given-names>M.</given-names></name><name><surname>Uchida</surname><given-names>K.</given-names></name><name><surname>Itakura</surname><given-names>A.</given-names></name><name><surname>Furugori</surname><given-names>K.</given-names></name><name><surname>Mizutani</surname><given-names>S.</given-names></name><name><surname>Tomoda</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Increased mitochondrial damage by lipid peroxidation in trophoblast cells of preeclamptic placentas</article-title>
+<source>Biochem. Mol. Biol. Int.</source>
+<year>1997</year>
+<volume>41</volume>
+<fpage>767</fpage>
+<lpage>775</lpage>
+<pub-id pub-id-type="doi">10.1080/15216549700201801</pub-id>
+<pub-id pub-id-type="pmid">9111937</pub-id></element-citation></ref><ref id="B73-ijms-16-13043"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>He</surname><given-names>G.</given-names></name><name><surname>Xu</surname><given-names>W.</given-names></name><name><surname>Chen</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>X.</given-names></name><name><surname>Xi</surname><given-names>M.</given-names></name></person-group>
+<article-title>Abnormal apoptosis of trophoblastic cells is related to the up-regulation of CYP11A gene in placenta of preeclampsia patients</article-title>
+<source>PLoS ONE</source>
+<year>2013</year>
+<volume>8</volume>
+<fpage>e59609</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0059609</pub-id>
+<pub-id pub-id-type="pmid">23555723</pub-id></element-citation></ref><ref id="B74-ijms-16-13043"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moon</surname><given-names>J.Y.</given-names></name><name><surname>Moon</surname><given-names>M.H.</given-names></name><name><surname>Kim</surname><given-names>K.T.</given-names></name><name><surname>Jeong</surname><given-names>D.H.</given-names></name><name><surname>Kim</surname><given-names>Y.N.</given-names></name><name><surname>Chung</surname><given-names>B.C.</given-names></name><name><surname>Choi</surname><given-names>M.H.</given-names></name></person-group>
+<article-title>Cytochrome P450-mediated metabolic alterations in preeclampsia evaluated by quantitative steroid signatures</article-title>
+<source>J. Steroid Biochem. Mol. Biol.</source>
+<year>2014</year>
+<volume>139</volume>
+<fpage>182</fpage>
+<lpage>191</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jsbmb.2013.02.014</pub-id>
+<pub-id pub-id-type="pmid">23474437</pub-id></element-citation></ref><ref id="B75-ijms-16-13043"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hallmann</surname><given-names>A.</given-names></name><name><surname>Klimek</surname><given-names>J.</given-names></name><name><surname>Masaoka</surname><given-names>M.</given-names></name><name><surname>Kaminski</surname><given-names>M.</given-names></name><name><surname>Kedzior</surname><given-names>J.</given-names></name><name><surname>Majczak</surname><given-names>A.</given-names></name><name><surname>Niemczyk</surname><given-names>E.</given-names></name><name><surname>Wozniak</surname><given-names>M.</given-names></name><name><surname>Trzonkowski</surname><given-names>P.</given-names></name><name><surname>Wakabayashi</surname><given-names>T.</given-names></name></person-group>
+<article-title>Partial characterization of human choriocarcinoma cell line JAR cells in regard to oxidative stress</article-title>
+<source>Acta Biochim. Pol.</source>
+<year>2004</year>
+<volume>51</volume>
+<fpage>1023</fpage>
+<lpage>1038</lpage>
+<pub-id pub-id-type="pmid">15625574</pub-id></element-citation></ref><ref id="B76-ijms-16-13043"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hallmann</surname><given-names>A.</given-names></name><name><surname>Milczarek</surname><given-names>R.</given-names></name><name><surname>Lipinski</surname><given-names>M.</given-names></name><name><surname>Kossowska</surname><given-names>E.</given-names></name><name><surname>Spodnik</surname><given-names>J.H.</given-names></name><name><surname>Wozniak</surname><given-names>M.</given-names></name><name><surname>Wakabayashi</surname><given-names>T.</given-names></name><name><surname>Klimek</surname><given-names>J.</given-names></name></person-group>
+<article-title>Fast perinuclear clustering of mitochondria in oxidatively stressed human choriocarcinoma cells</article-title>
+<source>Folia Morphol.</source>
+<year>2004</year>
+<volume>63</volume>
+<fpage>407</fpage>
+<lpage>412</lpage>
+</element-citation></ref><ref id="B77-ijms-16-13043"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ma</surname><given-names>R.</given-names></name><name><surname>Gu</surname><given-names>Y.</given-names></name><name><surname>Zhao</surname><given-names>S.</given-names></name><name><surname>Sun</surname><given-names>J.</given-names></name><name><surname>Groome</surname><given-names>L.J.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Expressions of vitamin D metabolic components VDBP, CYP2R1, CYP27B1, CYP24A1, and VDR in placentas from normal and preeclamptic pregnancies</article-title>
+<source>Am. J. Physiol. Endocrinol. Metab.</source>
+<year>2012</year>
+<volume>303</volume>
+<fpage>E928</fpage>
+<lpage>E935</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpendo.00279.2012</pub-id>
+<pub-id pub-id-type="pmid">22871339</pub-id></element-citation></ref><ref id="B78-ijms-16-13043"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diaz</surname><given-names>L.</given-names></name><name><surname>Arranz</surname><given-names>C.</given-names></name><name><surname>Avila</surname><given-names>E.</given-names></name><name><surname>Halhali</surname><given-names>A.</given-names></name><name><surname>Vilchis</surname><given-names>F.</given-names></name><name><surname>Larrea</surname><given-names>F.</given-names></name></person-group>
+<article-title>Expression and activity of 25-hydroxyvitamin D-1&#x003b1;-hydroxylase are restricted in cultures of human syncytiotrophoblast cells from preeclamptic pregnancies</article-title>
+<source>J. Clin. Endocrinol. Metab.</source>
+<year>2002</year>
+<volume>87</volume>
+<fpage>3876</fpage>
+<lpage>3882</lpage>
+<pub-id pub-id-type="doi">10.1210/jcem.87.8.8730</pub-id>
+<pub-id pub-id-type="pmid">12161526</pub-id></element-citation></ref><ref id="B79-ijms-16-13043"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Halhali</surname><given-names>A.</given-names></name><name><surname>Tovar</surname><given-names>A.R.</given-names></name><name><surname>Torres</surname><given-names>N.</given-names></name><name><surname>Bourges</surname><given-names>H.</given-names></name><name><surname>Garabedian</surname><given-names>M.</given-names></name><name><surname>Larrea</surname><given-names>F.</given-names></name></person-group>
+<article-title>Preeclampsia is associated with low circulating levels of insulin-like growth factor I and 1,25-dihydroxyvitamin D in maternal and umbilical cord compartments</article-title>
+<source>J. Clin. Endocrinol. Metab.</source>
+<year>2000</year>
+<volume>85</volume>
+<fpage>1828</fpage>
+<lpage>1833</lpage>
+<pub-id pub-id-type="doi">10.1210/jc.85.5.1828</pub-id>
+<pub-id pub-id-type="pmid">10843160</pub-id></element-citation></ref><ref id="B80-ijms-16-13043"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baker</surname><given-names>A.M.</given-names></name><name><surname>Haeri</surname><given-names>S.</given-names></name><name><surname>Camargo</surname><given-names>C.A.</given-names><suffix>Jr.</suffix></name><name><surname>Espinola</surname><given-names>J.A.</given-names></name><name><surname>Stuebe</surname><given-names>A.M.</given-names></name></person-group>
+<article-title>A nested case-control study of midgestation vitamin D deficiency and risk of severe preeclampsia</article-title>
+<source>J. Clin. Endocrinol. Metab.</source>
+<year>2010</year>
+<volume>95</volume>
+<fpage>5105</fpage>
+<lpage>5109</lpage>
+<pub-id pub-id-type="doi">10.1210/jc.2010-0996</pub-id>
+<pub-id pub-id-type="pmid">20719829</pub-id></element-citation></ref><ref id="B81-ijms-16-13043"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gutteridge</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Iron promoters of the Fenton reaction and lipid peroxidation can be released from haemoglobin by peroxides</article-title>
+<source>FEBS Lett.</source>
+<year>1986</year>
+<volume>201</volume>
+<fpage>291</fpage>
+<lpage>295</lpage>
+<pub-id pub-id-type="doi">10.1016/0014-5793(86)80626-3</pub-id>
+<pub-id pub-id-type="pmid">2423372</pub-id></element-citation></ref><ref id="B82-ijms-16-13043"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Braughler</surname><given-names>J.M.</given-names></name><name><surname>Duncan</surname><given-names>L.A.</given-names></name><name><surname>Chase</surname><given-names>R.L.</given-names></name></person-group>
+<article-title>The involvement of iron in lipid peroxidation. Importance of ferric to ferrous ratios in initiation</article-title>
+<source>J. Biol. Chem.</source>
+<year>1986</year>
+<volume>261</volume>
+<fpage>10282</fpage>
+<lpage>10289</lpage>
+<pub-id pub-id-type="pmid">3015924</pub-id></element-citation></ref><ref id="B83-ijms-16-13043"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>S.W.</given-names></name><name><surname>Parisi</surname><given-names>V.M.</given-names></name></person-group>
+<article-title>The role of arachidonic acid metabolites in preeclampsia</article-title>
+<source>Semin. Perinatol.</source>
+<year>1986</year>
+<volume>10</volume>
+<fpage>334</fpage>
+<lpage>355</lpage>
+<pub-id pub-id-type="pmid">3031819</pub-id></element-citation></ref><ref id="B84-ijms-16-13043"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y.P.</given-names></name><name><surname>Walsh</surname><given-names>S.W.</given-names></name><name><surname>Guo</surname><given-names>J.D.</given-names></name><name><surname>Zhang</surname><given-names>J.Y.</given-names></name></person-group>
+<article-title>The imbalance between thromboxane and prostacyclin in preeclampsia is associated with an imbalance between lipid peroxides and vitamin E in maternal blood</article-title>
+<source>Am. J. Obstet. Gynecol.</source>
+<year>1991</year>
+<volume>165</volume>
+<fpage>1695</fpage>
+<lpage>1700</lpage>
+<pub-id pub-id-type="doi">10.1016/0002-9378(91)90017-L</pub-id>
+<pub-id pub-id-type="pmid">1750462</pub-id></element-citation></ref><ref id="B85-ijms-16-13043"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Warso</surname><given-names>M.A.</given-names></name><name><surname>Lands</surname><given-names>W.E.</given-names></name></person-group>
+<article-title>Lipid peroxidation in relation to prostacyclin and thromboxane physiology and pathophysiology</article-title>
+<source>Br. Med. Bull.</source>
+<year>1983</year>
+<volume>39</volume>
+<fpage>277</fpage>
+<lpage>280</lpage>
+<pub-id pub-id-type="pmid">6414574</pub-id></element-citation></ref><ref id="B86-ijms-16-13043"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>C.H.</given-names></name><name><surname>Ren</surname><given-names>F.R.</given-names></name><name><surname>Shan</surname><given-names>G.Q.</given-names></name><name><surname>Qin</surname><given-names>H.</given-names></name><name><surname>Mao</surname><given-names>L.</given-names></name><name><surname>Zhu</surname><given-names>B.Z.</given-names></name></person-group>
+<article-title>Molecular mechanism of metal-independent decomposition of organic hydroperoxides by the halogenated quinoid carcinogens and the potential biological implications</article-title>
+<source>Chem. Res. Toxicol.</source>
+<year>2015</year>
+<comment>in press</comment>
+<pub-id pub-id-type="doi">10.1021/tx500486z</pub-id>
+<pub-id pub-id-type="pmid">25789984</pub-id></element-citation></ref><ref id="B87-ijms-16-13043"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abad</surname><given-names>C.</given-names></name><name><surname>Vargas</surname><given-names>F.R.</given-names></name><name><surname>Zoltan</surname><given-names>T.</given-names></name><name><surname>Proverbio</surname><given-names>T.</given-names></name><name><surname>Pinero</surname><given-names>S.</given-names></name><name><surname>Proverbio</surname><given-names>F.</given-names></name><name><surname>Marin</surname><given-names>R.</given-names></name></person-group>
+<article-title>Magnesium sulfate affords protection against oxidative damage during severe preeclampsia</article-title>
+<source>Placenta</source>
+<year>2015</year>
+<volume>36</volume>
+<fpage>179</fpage>
+<lpage>185</lpage>
+<pub-id pub-id-type="doi">10.1016/j.placenta.2014.11.008</pub-id>
+<pub-id pub-id-type="pmid">25486968</pub-id></element-citation></ref><ref id="B88-ijms-16-13043"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Acikgoz</surname><given-names>S.</given-names></name><name><surname>Bayar</surname><given-names>U.O.</given-names></name><name><surname>Can</surname><given-names>M.</given-names></name><name><surname>Guven</surname><given-names>B.</given-names></name><name><surname>Mungan</surname><given-names>G.</given-names></name><name><surname>Dogan</surname><given-names>S.</given-names></name><name><surname>Sumbuloglu</surname><given-names>V.</given-names></name></person-group>
+<article-title>Levels of oxidized LDL, estrogens, and progesterone in placenta tissues and serum paraoxonase activity in preeclampsia</article-title>
+<source>Mediators Inflamm.</source>
+<year>2013</year>
+<volume>2013</volume>
+<fpage>862982</fpage>
+<pub-id pub-id-type="doi">10.1155/2013/862982</pub-id>
+<pub-id pub-id-type="pmid">23606795</pub-id></element-citation></ref><ref id="B89-ijms-16-13043"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>S.W.</given-names></name></person-group>
+<article-title>Progesterone and estradiol production by normal and preeclamptic placentas</article-title>
+<source>Obstet. Gynecol.</source>
+<year>1988</year>
+<volume>71</volume>
+<fpage>222</fpage>
+<lpage>226</lpage>
+<pub-id pub-id-type="doi">10.1016/0020-7292(88)90150-6</pub-id>
+<pub-id pub-id-type="pmid">2962026</pub-id></element-citation></ref><ref id="B90-ijms-16-13043"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>S.W.</given-names></name></person-group>
+<article-title>Preeclampsia: An imbalance in placental prostacyclin and thromboxane production</article-title>
+<source>Am. J. Obstet. Gynecol.</source>
+<year>1985</year>
+<volume>152</volume>
+<fpage>335</fpage>
+<lpage>340</lpage>
+<pub-id pub-id-type="doi">10.1016/S0002-9378(85)80223-4</pub-id>
+<pub-id pub-id-type="pmid">3923838</pub-id></element-citation></ref><ref id="B91-ijms-16-13043"><label>91.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>S.W.</given-names></name><name><surname>Coulter</surname><given-names>S.</given-names></name></person-group>
+<article-title>Increased placental progesterone may cause decreased placental prostacyclin production in preeclampsia</article-title>
+<source>Am. J. Obstet. Gynecol.</source>
+<year>1989</year>
+<volume>161</volume>
+<fpage>1586</fpage>
+<lpage>1592</lpage>
+<pub-id pub-id-type="doi">10.1016/0002-9378(89)90931-9</pub-id>
+<pub-id pub-id-type="pmid">2513720</pub-id></element-citation></ref><ref id="B92-ijms-16-13043"><label>92.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fitzgerald</surname><given-names>D.J.</given-names></name><name><surname>Rocki</surname><given-names>W.</given-names></name><name><surname>Murray</surname><given-names>R.</given-names></name><name><surname>Mayo</surname><given-names>G.</given-names></name><name><surname>Fitzgerald</surname><given-names>G.A.</given-names></name></person-group>
+<article-title>Thromboxane A2 synthesis in pregnancy-induced hypertension</article-title>
+<source>Lancet</source>
+<year>1990</year>
+<volume>335</volume>
+<fpage>751</fpage>
+<lpage>754</lpage>
+<pub-id pub-id-type="doi">10.1016/0140-6736(90)90869-7</pub-id>
+<pub-id pub-id-type="pmid">1969511</pub-id></element-citation></ref><ref id="B93-ijms-16-13043"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hogg</surname><given-names>K.</given-names></name><name><surname>Blair</surname><given-names>J.D.</given-names></name><name><surname>McFadden</surname><given-names>D.E.</given-names></name><name><surname>von</surname><given-names>D.P.</given-names></name><name><surname>Robinson</surname><given-names>W.P.</given-names></name></person-group>
+<article-title>Early onset pre-eclampsia is associated with altered DNA methylation of cortisol-signalling and steroidogenic genes in the placenta</article-title>
+<source>PLoS ONE</source>
+<year>2013</year>
+<volume>8</volume>
+<fpage>e62969</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0062969</pub-id>
+<pub-id pub-id-type="pmid">23667551</pub-id></element-citation></ref><ref id="B94-ijms-16-13043"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tamimi</surname><given-names>R.</given-names></name><name><surname>Lagiou</surname><given-names>P.</given-names></name><name><surname>Vatten</surname><given-names>L.J.</given-names></name><name><surname>Mucci</surname><given-names>L.</given-names></name><name><surname>Trichopoulos</surname><given-names>D.</given-names></name><name><surname>Hellerstein</surname><given-names>S.</given-names></name><name><surname>Ekbom</surname><given-names>A.</given-names></name><name><surname>Adami</surname><given-names>H.O.</given-names></name><name><surname>Hsieh</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>Pregnancy hormones, pre-eclampsia, and implications for breast cancer risk in the offspring</article-title>
+<source>Cancer Epidemiol. Biomark. Prev.</source>
+<year>2003</year>
+<volume>12</volume>
+<fpage>647</fpage>
+<lpage>650</lpage>
+</element-citation></ref><ref id="B95-ijms-16-13043"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beaudoin</surname><given-names>C.</given-names></name><name><surname>Blomquist</surname><given-names>C.H.</given-names></name><name><surname>Bonenfant</surname><given-names>M.</given-names></name><name><surname>Tremblay</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Expression of the genes for 3 &#x003b2;-hydroxysteroid dehydrogenase type 1 and cytochrome P450scc during syncytium formation by human placental cytotrophoblast cells in culture and the regulation by progesterone and estradiol</article-title>
+<source>J. Endocrinol.</source>
+<year>1997</year>
+<volume>154</volume>
+<fpage>379</fpage>
+<lpage>387</lpage>
+<pub-id pub-id-type="doi">10.1677/joe.0.1540379</pub-id>
+<pub-id pub-id-type="pmid">9379114</pub-id></element-citation></ref><ref id="B96-ijms-16-13043"><label>96.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Risberg</surname><given-names>A.</given-names></name><name><surname>Olsson</surname><given-names>K.</given-names></name><name><surname>Lyrenas</surname><given-names>S.</given-names></name><name><surname>Sjoquist</surname><given-names>M.</given-names></name></person-group>
+<article-title>Plasma vasopressin, oxytocin, estradiol, and progesterone related to water and sodium excretion in normal pregnancy and gestational hypertension</article-title>
+<source>Acta Obstet. Gynecol. Scand.</source>
+<year>2009</year>
+<volume>88</volume>
+<fpage>639</fpage>
+<lpage>646</lpage>
+<pub-id pub-id-type="doi">10.1080/00016340902919002</pub-id>
+<pub-id pub-id-type="pmid">19412798</pub-id></element-citation></ref><ref id="B97-ijms-16-13043"><label>97.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meher</surname><given-names>S.</given-names></name><name><surname>Duley</surname><given-names>L.</given-names></name></person-group>
+<article-title>Progesterone for preventing pre-eclampsia and its complications</article-title>
+<source>Cochrane. Database. Syst. Rev.</source>
+<year>2006</year>
+<volume>4</volume>
+<pub-id pub-id-type="doi">10.1002/14651858.CD006175</pub-id>
+</element-citation></ref><ref id="B98-ijms-16-13043"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Al</surname><given-names>E.S.</given-names></name><name><surname>Hammoudeh</surname><given-names>M.</given-names></name></person-group>
+<article-title>Vitamin D study in pregnant women and their babies</article-title>
+<source>Qatar Med. J.</source>
+<year>2013</year>
+<volume>2013</volume>
+<fpage>32</fpage>
+<lpage>37</lpage>
+<pub-id pub-id-type="pmid">25003056</pub-id></element-citation></ref><ref id="B99-ijms-16-13043"><label>99.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slominski</surname><given-names>A.T.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Kim</surname><given-names>T.K.</given-names></name><name><surname>Semak</surname><given-names>I.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Zjawiony</surname><given-names>J.K.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name></person-group>
+<article-title>Novel activities of CYP11A1 and their potential physiological significance</article-title>
+<source>J. Steroid Biochem. Mol. Biol.</source>
+<year>2014</year>
+<volume>151</volume>
+<fpage>25</fpage>
+<lpage>37</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jsbmb.2014.11.010</pub-id>
+<pub-id pub-id-type="pmid">25448732</pub-id></element-citation></ref><ref id="B100-ijms-16-13043"><label>100.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slominski</surname><given-names>A.</given-names></name><name><surname>Semak</surname><given-names>I.</given-names></name><name><surname>Zjawiony</surname><given-names>J.</given-names></name><name><surname>Wortsman</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Szczesniewski</surname><given-names>A.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name></person-group>
+<article-title>The cytochrome P450scc system opens an alternate pathway of vitamin D3 metabolism</article-title>
+<source>FEBS J.</source>
+<year>2005</year>
+<volume>272</volume>
+<fpage>4080</fpage>
+<lpage>4090</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1742-4658.2005.04819.x</pub-id>
+<pub-id pub-id-type="pmid">16098191</pub-id></element-citation></ref><ref id="B101-ijms-16-13043"><label>101.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slominski</surname><given-names>A.T.</given-names></name><name><surname>Kim</surname><given-names>T.K.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Yi</surname><given-names>A.K.</given-names></name><name><surname>Postlethwaite</surname><given-names>A.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name></person-group>
+<article-title>The role of CYP11A1 in the production of vitamin D metabolites and their role in the regulation of epidermal functions</article-title>
+<source>J. Steroid Biochem. Mol. Biol.</source>
+<year>2014</year>
+<volume>144</volume>
+<fpage>28</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jsbmb.2013.10.012</pub-id>
+<pub-id pub-id-type="pmid">24176765</pub-id></element-citation></ref><ref id="B102-ijms-16-13043"><label>102.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tuckey</surname><given-names>R.C.</given-names></name><name><surname>Nguyen</surname><given-names>M.N.</given-names></name><name><surname>Slominski</surname><given-names>A.</given-names></name></person-group>
+<article-title>Kinetics of vitamin D3 metabolism by cytochrome P450scc (CYP11A1) in phospholipid vesicles and cyclodextrin</article-title>
+<source>Int. J. Biochem. Cell Biol.</source>
+<year>2008</year>
+<volume>40</volume>
+<fpage>2619</fpage>
+<lpage>2626</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocel.2008.05.006</pub-id>
+<pub-id pub-id-type="pmid">18573681</pub-id></element-citation></ref><ref id="B103-ijms-16-13043"><label>103.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haugen</surname><given-names>M.</given-names></name><name><surname>Brantsaeter</surname><given-names>A.L.</given-names></name><name><surname>Trogstad</surname><given-names>L.</given-names></name><name><surname>Alexander</surname><given-names>J.</given-names></name><name><surname>Roth</surname><given-names>C.</given-names></name><name><surname>Magnus</surname><given-names>P.</given-names></name><name><surname>Meltzer</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>Vitamin D supplementation and reduced risk of preeclampsia in nulliparous women</article-title>
+<source>Epidemiology</source>
+<year>2009</year>
+<volume>20</volume>
+<fpage>720</fpage>
+<lpage>726</lpage>
+<pub-id pub-id-type="doi">10.1097/EDE.0b013e3181a70f08</pub-id>
+<pub-id pub-id-type="pmid">19451820</pub-id></element-citation></ref><ref id="B104-ijms-16-13043"><label>104.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hathcock</surname><given-names>J.N.</given-names></name><name><surname>Shao</surname><given-names>A.</given-names></name><name><surname>Vieth</surname><given-names>R.</given-names></name><name><surname>Heaney</surname><given-names>R.</given-names></name></person-group>
+<article-title>Risk assessment for vitamin D</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2007</year>
+<volume>85</volume>
+<fpage>6</fpage>
+<lpage>18</lpage>
+<pub-id pub-id-type="pmid">17209171</pub-id></element-citation></ref><ref id="B105-ijms-16-13043"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heaney</surname><given-names>R.P.</given-names></name></person-group>
+<article-title>Vitamin D: Criteria for safety and efficacy</article-title>
+<source>Nutr. Rev.</source>
+<year>2008</year>
+<volume>66</volume>
+<fpage>S178</fpage>
+<lpage>S181</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1753-4887.2008.00102.x</pub-id>
+<pub-id pub-id-type="pmid">18844846</pub-id></element-citation></ref><ref id="B106-ijms-16-13043"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aloia</surname><given-names>J.F.</given-names></name><name><surname>Patel</surname><given-names>M.</given-names></name><name><surname>Dimaano</surname><given-names>R.</given-names></name><name><surname>Li-Ng</surname><given-names>M.</given-names></name><name><surname>Talwar</surname><given-names>S.A.</given-names></name><name><surname>Mikhail</surname><given-names>M.</given-names></name><name><surname>Pollack</surname><given-names>S.</given-names></name><name><surname>Yeh</surname><given-names>J.K.</given-names></name></person-group>
+<article-title>Vitamin D intake to attain a desired serum 25-hydroxyvitamin D concentration</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2008</year>
+<volume>87</volume>
+<fpage>1952</fpage>
+<lpage>1958</lpage>
+<pub-id pub-id-type="pmid">18541590</pub-id></element-citation></ref><ref id="B107-ijms-16-13043"><label>107.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hollis</surname><given-names>B.W.</given-names></name><name><surname>Johnson</surname><given-names>D.</given-names></name><name><surname>Hulsey</surname><given-names>T.C.</given-names></name><name><surname>Ebeling</surname><given-names>M.</given-names></name><name><surname>Wagner</surname><given-names>C.L.</given-names></name></person-group>
+<article-title>Vitamin D supplementation during pregnancy: Double-blind, randomized clinical trial of safety and effectiveness</article-title>
+<source>J. Bone Miner. Res.</source>
+<year>2011</year>
+<volume>26</volume>
+<fpage>2341</fpage>
+<lpage>2357</lpage>
+<pub-id pub-id-type="doi">10.1002/jbmr.463</pub-id>
+<pub-id pub-id-type="pmid">21706518</pub-id></element-citation></ref><ref id="B108-ijms-16-13043"><label>108.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roth</surname><given-names>D.E.</given-names></name><name><surname>Al</surname><given-names>M.A.</given-names></name><name><surname>Raqib</surname><given-names>R.</given-names></name><name><surname>Akhtar</surname><given-names>E.</given-names></name><name><surname>Perumal</surname><given-names>N.</given-names></name><name><surname>Pezzack</surname><given-names>B.</given-names></name><name><surname>Baqui</surname><given-names>A.H.</given-names></name></person-group>
+<article-title>Randomized placebo-controlled trial of high-dose prenatal third-trimester vitamin D3 supplementation in Bangladesh: The AViDD trial</article-title>
+<source>Nutr. J.</source>
+<year>2013</year>
+<volume>12</volume>
+<pub-id pub-id-type="doi">10.1186/1475-2891-12-47</pub-id>
+<pub-id pub-id-type="pmid">23587190</pub-id></element-citation></ref><ref id="B109-ijms-16-13043"><label>109.</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Sablok</surname><given-names>A.</given-names></name><name><surname>Batra</surname><given-names>A.</given-names></name><name><surname>Thariani</surname><given-names>K.</given-names></name><name><surname>Batra</surname><given-names>A.</given-names></name><name><surname>Bharti</surname><given-names>R.</given-names></name><name><surname>Aggarwal</surname><given-names>A.R.</given-names></name><name><surname>Kabi</surname><given-names>B.C.</given-names></name><name><surname>Chellani</surname><given-names>H.</given-names></name></person-group>
+<article-title>Supplementation of vitamin D in pregnancy and its correlation with feto-maternal outcome</article-title>
+<source>Clin. Endocrinol.</source>
+<year>2015</year>
+<comment>in press</comment>
+</element-citation></ref><ref id="B110-ijms-16-13043"><label>110.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Slominski</surname><given-names>A.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name><name><surname>Janjetovic</surname><given-names>Z.</given-names></name><name><surname>Kulkarni</surname><given-names>A.</given-names></name><name><surname>Chen</surname><given-names>J.</given-names></name><name><surname>Postlethwaite</surname><given-names>A.E.</given-names></name><name><surname>Miller</surname><given-names>D.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name></person-group>
+<article-title>20-hydroxyvitamin D<sub>3</sub> inhibits proliferation of cancer cells with high efficacy while being non-toxic</article-title>
+<source>Anticancer Res.</source>
+<year>2012</year>
+<volume>32</volume>
+<fpage>739</fpage>
+<lpage>746</lpage>
+<pub-id pub-id-type="pmid">22399586</pub-id></element-citation></ref><ref id="B111-ijms-16-13043"><label>111.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slominski</surname><given-names>A.T.</given-names></name><name><surname>Janjetovic</surname><given-names>Z.</given-names></name><name><surname>Fuller</surname><given-names>B.E.</given-names></name><name><surname>Zmijewski</surname><given-names>M.A.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name><name><surname>Nguyen</surname><given-names>M.N.</given-names></name><name><surname>Sweatman</surname><given-names>T.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Zjawiony</surname><given-names>J.</given-names></name><name><surname>Miller</surname><given-names>D.</given-names></name><etal/></person-group>
+<article-title>Products of vitamin D3 or 7-dehydrocholesterol metabolism by cytochrome P450scc show anti-leukemia effects, having low or absent calcemic activity</article-title>
+<source>PLoS ONE</source>
+<year>2010</year>
+<volume>5</volume>
+<fpage>e9907</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0009907</pub-id>
+<pub-id pub-id-type="pmid">20360850</pub-id></element-citation></ref><ref id="B112-ijms-16-13043"><label>112.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slominski</surname><given-names>A.</given-names></name><name><surname>Janjetovic</surname><given-names>Z.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name><name><surname>Nguyen</surname><given-names>M.N.</given-names></name><name><surname>Bhattacharya</surname><given-names>K.G.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Jiao</surname><given-names>Y.</given-names></name><name><surname>Gu</surname><given-names>W.</given-names></name><name><surname>Brown</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>20S-hydroxyvitamin D3, noncalcemic product of CYP11A1 action on vitamin D3, exhibits potent antifibrogenic activity <italic>in vivo</italic></article-title>
+<source>J. Clin. Endocrinol. Metab.</source>
+<year>2013</year>
+<volume>98</volume>
+<fpage>E298</fpage>
+<lpage>E303</lpage>
+<pub-id pub-id-type="doi">10.1210/jc.2012-3074</pub-id>
+<pub-id pub-id-type="pmid">23295467</pub-id></element-citation></ref><ref id="B113-ijms-16-13043"><label>113.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Janjetovic</surname><given-names>Z.</given-names></name><name><surname>Zmijewski</surname><given-names>M.A.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name><name><surname>DeLeon</surname><given-names>D.A.</given-names></name><name><surname>Nguyen</surname><given-names>M.N.</given-names></name><name><surname>Pfeffer</surname><given-names>L.M.</given-names></name><name><surname>Slominski</surname><given-names>A.T.</given-names></name></person-group>
+<article-title>20-Hydroxycholecalciferol, product of vitamin D3 hydroxylation by P450scc, decreases NF-&#x003ba;B activity by increasing IkappaB &#x003b1; levels in human keratinocytes</article-title>
+<source>PLoS ONE</source>
+<year>2009</year>
+<volume>4</volume>
+<fpage>e5988</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0005988</pub-id>
+<pub-id pub-id-type="pmid">19543524</pub-id></element-citation></ref><ref id="B114-ijms-16-13043"><label>114.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Janjetovic</surname><given-names>Z.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name><name><surname>Nguyen</surname><given-names>M.N.</given-names></name><name><surname>Thorpe</surname><given-names>E.M.</given-names><suffix>Jr.</suffix></name><name><surname>Slominski</surname><given-names>A.T.</given-names></name></person-group>
+<article-title>20,23-dihydroxyvitamin D3, novel P450scc product, stimulates differentiation and inhibits proliferation and NF-kappaB activity in human keratinocytes</article-title>
+<source>J. Cell Physiol.</source>
+<year>2010</year>
+<volume>223</volume>
+<fpage>36</fpage>
+<lpage>48</lpage>
+<pub-id pub-id-type="pmid">20020487</pub-id></element-citation></ref><ref id="B115-ijms-16-13043"><label>115.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Kim</surname><given-names>T.K.</given-names></name><name><surname>Tieu</surname><given-names>E.W.</given-names></name><name><surname>Tang</surname><given-names>E.K.</given-names></name><name><surname>Lin</surname><given-names>Z.</given-names></name><name><surname>Kovacic</surname><given-names>D.</given-names></name><name><surname>Miller</surname><given-names>D.D.</given-names></name><name><surname>Postlethwaite</surname><given-names>A.</given-names></name><name><surname>Tuckey</surname><given-names>R.C.</given-names></name><etal/></person-group>
+<article-title>Novel vitamin D analogs as potential therapeutics: Metabolism, toxicity profiling, and antiproliferative activity</article-title>
+<source>Anticancer Res.</source>
+<year>2014</year>
+<volume>34</volume>
+<fpage>2153</fpage>
+<lpage>2163</lpage>
+<pub-id pub-id-type="pmid">24778017</pub-id></element-citation></ref><ref id="B116-ijms-16-13043"><label>116.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Castejon</surname><given-names>O.C.S.</given-names></name></person-group>
+<article-title>Mitochondrial dysfunction and apoptosis in trophoblast cells during preeclampsia: And ultrastural study</article-title>
+<source>Electron. J. Biomed.</source>
+<year>2011</year>
+<volume>2</volume>
+<fpage>30</fpage>
+<lpage>38</lpage>
+</element-citation></ref><ref id="B117-ijms-16-13043"><label>117.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sobek</surname><given-names>J.</given-names></name><name><surname>Martschke</surname><given-names>R.</given-names></name><name><surname>Fischer</surname><given-names>H.</given-names></name></person-group>
+<article-title>Entropy control of the cross-reaction between carbon-centered and nitroxide radicals</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2001</year>
+<volume>123</volume>
+<fpage>2849</fpage>
+<lpage>2857</lpage>
+<pub-id pub-id-type="doi">10.1021/ja0036460</pub-id>
+<pub-id pub-id-type="pmid">11456972</pub-id></element-citation></ref><ref id="B118-ijms-16-13043"><label>118.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Damiani</surname><given-names>E.</given-names></name><name><surname>Kalinska</surname><given-names>B.</given-names></name><name><surname>Canapa</surname><given-names>A.</given-names></name><name><surname>Canestrari</surname><given-names>S.</given-names></name><name><surname>Wozniak</surname><given-names>M.</given-names></name><name><surname>Olmo</surname><given-names>E.</given-names></name><name><surname>Greci</surname><given-names>L.</given-names></name></person-group>
+<article-title>The effects of nitroxide radicals on oxidative DNA damage</article-title>
+<source>Free Radic. Biol. Med.</source>
+<year>2000</year>
+<volume>28</volume>
+<fpage>1257</fpage>
+<lpage>1265</lpage>
+<pub-id pub-id-type="doi">10.1016/S0891-5849(00)00242-2</pub-id>
+<pub-id pub-id-type="pmid">10889456</pub-id></element-citation></ref><ref id="B119-ijms-16-13043"><label>119.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chateauneuf</surname><given-names>J.</given-names></name><name><surname>Lusztyk</surname><given-names>J.</given-names></name><name><surname>Ingold</surname><given-names>K.U.</given-names></name></person-group>
+<article-title>Absolute rate constants for the reactions of some carbon-centered radicals with 2,2,6,6-tetramethyl-1-piperidinoxyl</article-title>
+<source>J. Org. Chem.</source>
+<year>1988</year>
+<volume>53</volume>
+<fpage>1629</fpage>
+<lpage>1632</lpage>
+<pub-id pub-id-type="doi">10.1021/jo00243a007</pub-id>
+</element-citation></ref><ref id="B120-ijms-16-13043"><label>120.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mitchell</surname><given-names>J.B.</given-names></name><name><surname>Samuni</surname><given-names>A.</given-names></name><name><surname>Krishna</surname><given-names>M.C.</given-names></name><name><surname>DeGraff</surname><given-names>W.G.</given-names></name><name><surname>Ahn</surname><given-names>M.S.</given-names></name><name><surname>Samuni</surname><given-names>U.</given-names></name><name><surname>Russo</surname><given-names>A.</given-names></name></person-group>
+<article-title>Biologically active metal-independent superoxide dismutase mimics</article-title>
+<source>Biochemistry</source>
+<year>1990</year>
+<volume>29</volume>
+<fpage>2802</fpage>
+<lpage>2807</lpage>
+<pub-id pub-id-type="doi">10.1021/bi00463a024</pub-id>
+<pub-id pub-id-type="pmid">2161256</pub-id></element-citation></ref><ref id="B121-ijms-16-13043"><label>121.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McCance</surname><given-names>D.R.</given-names></name><name><surname>Holmes</surname><given-names>V.A.</given-names></name><name><surname>Maresh</surname><given-names>M.J.</given-names></name><name><surname>Patterson</surname><given-names>C.C.</given-names></name><name><surname>Walker</surname><given-names>J.D.</given-names></name><name><surname>Pearson</surname><given-names>D.W.</given-names></name><name><surname>Young</surname><given-names>I.S.</given-names></name></person-group>
+<article-title>Vitamins C and E for prevention of pre-eclampsia in women with type 1 diabetes (DAPIT): A randomised placebo-controlled trial</article-title>
+<source>Lancet</source>
+<year>2010</year>
+<volume>376</volume>
+<fpage>259</fpage>
+<lpage>266</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(10)60630-7</pub-id>
+<pub-id pub-id-type="pmid">20580423</pub-id></element-citation></ref><ref id="B122-ijms-16-13043"><label>122.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klimek</surname><given-names>J.</given-names></name></person-group>
+<article-title>The involvement of superoxide and iron ions in the NADPH-dependent lipid peroxidation in human placental mitochondria</article-title>
+<source>Biochim. Biophys. Acta</source>
+<year>1988</year>
+<volume>958</volume>
+<fpage>31</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="doi">10.1016/0005-2760(88)90243-3</pub-id>
+<pub-id pub-id-type="pmid">2825815</pub-id></element-citation></ref><ref id="B123-ijms-16-13043"><label>123.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Omura</surname><given-names>T.</given-names></name><name><surname>Sato</surname><given-names>R.</given-names></name></person-group>
+<article-title>The carbon monoxide-binding pigment of liver microsomes. I. Evidence for its hemoprotein nature</article-title>
+<source>J. Biol. Chem.</source>
+<year>1964</year>
+<volume>239</volume>
+<fpage>2370</fpage>
+<lpage>2378</lpage>
+<pub-id pub-id-type="pmid">14209971</pub-id></element-citation></ref><ref id="B124-ijms-16-13043"><label>124.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>E.A.</given-names><suffix>Jr.</suffix></name><name><surname>Siiteri</surname><given-names>P.K.</given-names></name></person-group>
+<article-title>The involvement of human placental microsomal cytochrome P-450 in aromatization</article-title>
+<source>J. Biol. Chem.</source>
+<year>1974</year>
+<volume>249</volume>
+<fpage>5373</fpage>
+<lpage>5378</lpage>
+<pub-id pub-id-type="pmid">4370479</pub-id></element-citation></ref></ref-list></back></article>

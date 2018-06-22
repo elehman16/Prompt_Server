@@ -1,0 +1,508 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Prev Chronic Dis</journal-id><journal-id journal-id-type="iso-abbrev">Prev Chronic Dis</journal-id><journal-id journal-id-type="publisher-id">PCD</journal-id><journal-title-group><journal-title>Preventing Chronic Disease</journal-title></journal-title-group><issn pub-type="epub">1545-1151</issn><publisher><publisher-name>Centers for Disease Control and Prevention</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27418212</article-id><article-id pub-id-type="pmc">4951074</article-id><article-id pub-id-type="publisher-id">16_0078</article-id><article-id pub-id-type="doi">10.5888/pcd13.160078</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group><series-title>Peer Reviewed</series-title></article-categories><title-group><article-title>Optimizing Stroke Prevention in Patients With Atrial Fibrillation: A Cluster-Randomized Controlled Trial of a Computerized Antithrombotic Risk Assessment Tool in Australian General Practice, 2012&#x02013;2013</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Bajorek</surname><given-names>Beata V.</given-names></name><degrees>PhD</degrees><degrees>BPharm</degrees></contrib><contrib contrib-type="author"><name><surname>Magin</surname><given-names>Parker J.</given-names></name><degrees>PhD</degrees><degrees>MBBS</degrees><degrees>MFM(Clin)</degrees><degrees>MGPP</degrees></contrib><contrib contrib-type="author"><name><surname>Hilmer</surname><given-names>Sarah N.</given-names></name><degrees>PhD</degrees><degrees>MBBS</degrees><degrees>BScMed</degrees></contrib><contrib contrib-type="author"><name><surname>Krass</surname><given-names>Ines</given-names></name><degrees>PhD</degrees><degrees>BPharm</degrees></contrib><aff id="aff1">Author Affiliations: Parker Magin, University of Newcastle, Callaghan, New South Wales, Australia; Sarah Hilmer, Royal North Shore Hospital, St Leonards, New South Wales, Australia; Ines Krass, University of Sydney, New South Wales, Australia. Dr Bajorek is also affiliated with Royal North Shore Hospital, St Leonards, New South Wales, Australia.</aff></contrib-group><author-notes><corresp id="cor1">Corresponding Author: Beata Bajorek, PhD, BPharm, Associate Professor, School of Pharmacy, University of Technology Sydney, UTS CB07.04.51, PO Box 123, Broadway NSW 2007, Australia. Telephone: 61-2-9514-8301. Email: <email xlink:href="Beata.Bajorek@uts.edu.au">Beata.Bajorek@uts.edu.au</email>.</corresp></author-notes><pub-date pub-type="collection"><year>2016</year></pub-date><pub-date pub-type="epub"><day>14</day><month>7</month><year>2016</year></pub-date><volume>13</volume><elocation-id>E90</elocation-id><abstract><sec><title>Introduction</title><p>Clinicians have expressed a need for tools to assist in selecting treatments for stroke prevention in patients with atrial fibrillation. The objective of this study was to evaluate the impact of a computerized antithrombotic risk assessment tool (CARAT) on general practitioners&#x02019; prescribing of antithrombotics for patients with atrial fibrillation.</p></sec><sec><title>Methods</title><p>A prospective, cluster-randomized controlled trial was conducted in 4 regions (in rural and urban settings) of general practice in New South Wales, Australia (January 2012&#x02013;June 2013). General practitioner practices were assigned to an intervention arm (CARAT) or control arm (usual care). Antithrombotic therapy prescribing was assessed before and after application of CARAT.</p></sec><sec><title>Results</title><p>Overall, the antithrombotic therapies for 393 patients were reviewed by 48 general practitioners; we found no significant baseline differences in use of antithrombotics between the control arm and intervention arm. Compared with control patients, intervention patients (n = 206) were 3.1 times more likely to be recommended warfarin therapy (over any other treatment option; <italic>P</italic> &#x0003c; .001) and 2.8 times more likely to be recommended any anticoagulant (in preference to antiplatelet; <italic>P</italic> = .02). General practitioners agreed with most (75.2%) CARAT recommendations; CARAT recommended that 75 (36.4%) patients change therapy. After application of CARAT, the proportion of patients receiving any antithrombotic therapy was unchanged from baseline (99.0%); however, anticoagulant use increased slightly (from 89.3% to 92.2%), and antiplatelet use decreased (from 9.7% to 6.8%).</p></sec><sec><title>Conclusion</title><p>Tools such as CARAT can assist clinicians in selecting antithrombotic therapies, particularly in upgrading patients from antiplatelets to anticoagulants. However, the introduction of novel oral anticoagulants has complicated the decision-making process, and tools must evolve to weigh the risks and benefits of these new therapy options.</p></sec></abstract></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Treatment selection in the context of stroke prevention for people with atrial fibrillation (AFib) has become more complex (<xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R2" ref-type="bibr">2</xref>). The increasing complexity is due in part to the challenges of treating the at-risk elderly population, in whom AFib is most prevalent and risk of stroke greatest (<xref rid="R3" ref-type="bibr">3</xref>,<xref rid="R4" ref-type="bibr">4</xref>), and to an expanded range of treatment options (ie, novel oral anticoagulants [NOACs]) used to remedy some of the difficulties of anticoagulation associated with warfarin (previously the mainstay therapy) (<xref rid="R5" ref-type="bibr">5</xref>). Although NOACs offer some advantages, they are not devoid of risk (<xref rid="R6" ref-type="bibr">6</xref>), and their high costs have given rise to recommendations for restricting their use and for better supporting people who use warfarin (7).</p><p>Overall, a greater range of factors must now be considered in weighing the risks and benefits of treatment, and this expanded range translates to a more complex decision-making process, which further contributes to the suboptimal use of antithrombotic therapy (<xref rid="R8" ref-type="bibr">8</xref>,<xref rid="R9" ref-type="bibr">9</xref>). This complexity adds to the burden of care in the general practice setting, where general practitioners (GPs) are principally responsible for decision making and day-to-day management (<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref>). Although strategies and resources (eg, point-of-care testing, anticoagulation clinics, practice nurses, dedicated home-based warfarin management services) for supporting the management of anticoagulant therapy have been evaluated (<xref rid="R12" ref-type="bibr">12</xref>), less attention has been paid to decision-making processes. Simple scoring tools are available for GPs to assess the risks and benefits of treatment, particularly for stroke risk assessment (<xref rid="R13" ref-type="bibr">13</xref>), but tools to guide selection of treatment for patients are lacking (<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref>).</p><p>A paper-based holistic risk-assessment algorithm for selecting treatment significantly improved the use of antithrombotic therapy (<xref rid="R14" ref-type="bibr">14</xref>). This algorithm was redeveloped into a Web-based computerized antithrombotic risk assessment tool (CARAT). CARAT facilitates a systematic review of risk factors and calculates the estimated risk-versus-benefit of therapy for each patient. Clinician feedback has suggested the potential utility of CARAT in general practice (<xref rid="R15" ref-type="bibr">15</xref>). The objective of this study was to evaluate the effect of CARAT on GPs&#x02019; prescribing of antithrombotic therapy. We also assessed changes made to patients&#x02019; therapy and the level of agreement on recommendations between GPs and CARAT.</p></sec><sec sec-type="methods"><title>Methods</title><p>We evaluated the effect of CARAT in a prospective, cluster-randomized controlled clinical trial (trial registration no. ACTRN12613000060741); protocol details are provided elsewhere (<xref rid="R16" ref-type="bibr">16</xref>). Approval for the study was granted by the human research ethics committees of the University of Technology Sydney, University of Sydney, and University of Newcastle.</p><p>GPs were recruited from 4 regions of general practice in New South Wales, Australia: the northern suburbs of Sydney, the Central Coast, the Newcastle metropolitan area (in the Hunter Region), and the rural areas of the Hunter Region. These regions encompass rural and urban settings and have a high proportion of elderly patients who are diverse in socioeconomic status, health status, and access to health services.</p><p>GP practices were randomly allocated to one of 2 study arms, the intervention arm or the control arm (<xref ref-type="fig" rid="F1">Figure 1</xref>). GPs in the control arm followed their usual practices; they used their own clinical judgment, processes, and resources when reviewing and selecting antithrombotic therapy for patients with AFib. GPs in the intervention arm used CARAT to support their decision-making processes.</p><fig id="F1" fig-type="figure" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Schematic outline of a cluster-randomized controlled trial of a computerized antithrombotic risk assessment tool (CARAT) in a sample of general practices in New South Wales, Australia, 2012</p></caption><long-desc>General practitioners recruited from 4 regions of general practice in New South Wales, Australia, and then randomly allocated: 25 general practitioners assigned to intervention (CARAT), and 25 general practitioners assigned to the control arm (usual care). Each general practitioner recruits 5 to 10 eligible patients (aged 65 years or older, diagnosis of atrial fibrillation). Up to 250 patients recruited into each arm. Baseline data (demographics, medical history, risk factors) on all patients collected by general practitioners and project officers. General practitioners in intervention arm apply CARAT, which recommends antithrombotic therapy; general practitioners make final decision on therapy. In control arm, project officer documents therapy prescribed by general practitioner. The following information is reported elsewhere: Follow-up data collected by project officer on all patients at 1 month, 6 months, and 12 months via telephone interview, verification by general practitioner, hospital medical records. In intervention arm, at 12 months, general practitioner applies CARAT again to review therapy in recruited patients; feedback from general practitioner collected through survey and interview. In control arm, general practitioners are interviewed on challenges in prescribing.</long-desc><graphic xlink:href="PCD-13-E90s01"/></fig><p>CARAT assesses a patient&#x02019;s stroke risk, bleeding risk, and medication-safety issues to quantify the patient&#x02019;s estimated risk of stroke versus bleeding, flag medication-management issues, and generate a recommendation for therapy (warfarin, aspirin, none, or other) (<xref rid="R15" ref-type="bibr">15</xref>). GPs in the intervention arm were asked to consider CARAT output while reviewing the patient&#x02019;s therapy and then make a final decision to initiate, cease, or maintain current therapy. When GPs disagreed with CARAT&#x02019;s recommendations, the rationale for disagreement was documented in CARAT. During the study, not all NOACs were available or listed on the Australian Pharmaceutical Benefits Scheme and hence were not listed as treatment options by CARAT (except as &#x0201c;other&#x0201d; therapy); only dabigatran (Pradaxa) was available as part of the sponsoring company&#x02019;s product familiarization program, which offered patients up to 12 months of therapy at no cost (<xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R18" ref-type="bibr">18</xref>), </p><p>Family (general) practice-based GPs who practiced at one site (ie, not at multiple sites) were recruited into the study from each region. They were randomly allocated through computer-generated random allocation number sequences and then asked to recruit patients during a 3-month period, from January through March 2012. Patients were selected for participation in the study if they were eligible according to the following criteria:</p><list list-type="bullet" id="L1"><list-item><p>Aged 65 years or older (ie, moderate to high risk of stroke by definition)</p></list-item><list-item><p>Diagnosed with AFib, as confirmed by the GP (ie, pre-existing or new onset, regardless antithrombotic therapy prescribed)</p></list-item><list-item><p>Able to provide informed written consent to participate</p></list-item></list><p>The target sample size was 25 GPs for each study arm, with each GP recruiting 5 to 10 patients (ie, up to 250 patients per study arm), as estimated from previous data (<xref rid="R8" ref-type="bibr">8</xref>,<xref rid="R14" ref-type="bibr">14</xref>). This sample size accounted for any clustering effects (a prior intracluster correlation = 0.03, 80% power) and a participant dropout rate of up to 20% (<xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R20" ref-type="bibr">20</xref>).</p><sec><title>Data collection</title><p>A purpose-designed data collection form for classifying stroke risk and bleeding risk was used by GPs and project officers to document information on patient demographics, medical history (including concurrent chronic diseases defined as non-self-limiting conditions persisting for at least 3 months [<xref rid="R21" ref-type="bibr">21</xref>]), AFib, medication management and safety issues, contraindications to warfarin therapy, and antithrombotic therapy prescribed. The clinical information required to assess stroke risk, bleeding risk, medication adherence, potential for drug interactions, and medication-management support needs were inputs for CARAT. Patients were assessed for risk of stroke according to the CHADS<sub>2</sub> Score for Atrial Fibrillation Stroke Risk (<xref rid="R25" ref-type="bibr">25</xref>) and for risk of bleeding according to HEMORR<sub>2</sub>HAGES criteria (<xref rid="R26" ref-type="bibr">26</xref>) and categorized as being at low, medium, or high risk. Factors affecting the decision to prescribe antithrombotic therapy (eg, ability of patient to manage therapy, relative contraindications to therapy) were documented for each patient.</p></sec><sec><title>Data analysis</title><p>Computerized data analysis of patient outcomes was performed by using SPSS Statistics 20 (IBM Corp). Analysis of variance tested for mean differences in continuous variables, and the &#x003c7;<sup>2</sup> test, Mann&#x02013;Whitney U test, and Kruskal&#x02013;Wallis test examined differences in independent proportions (for parametric and nonparametric distributions, as appropriate). Multivariate logistic regression analysis and generalized linear modeling identified predictors of treatment use and prescribing changes in the total patient sample, including the contribution of CARAT. We adjusted for selected covariates (eg, patient characteristics, including levels of risk) and clustering of patients by GPs according to the level of variability in the initial analyses (eg, inclusion of intercepts for patients nested within GP practices). However, the lack of variability in the control arm of primary outcomes (ie, no changes in treatment use) precluded specific analyses. Simpler analyses focused on treatment changes in the intervention arm (before and after measures). Forward stepwise (Wald) regression was used because of the large number of potential explanatory variables for the outcome. Forward selection of variables begins with no variables in the initial model, then adds variables in succession, with iterative testing to see how each variable addition improves the model. In this study, any variable found to be independently associated with the outcome variable during univariate analysis (<italic>P</italic> &#x0003c; .10) was applied to the multivariate model. The Fleiss &#x003ba; statistic assessed the level of agreement between the CARAT recommendations and the GP&#x02019;s final decision on antithrombotic therapy (<xref rid="R22" ref-type="bibr">22</xref>&#x02013;<xref rid="R24" ref-type="bibr">24</xref>). All analyses were set at a significance level of .05 (unless otherwise specified), assuming intention-to-treat.</p></sec></sec><sec sec-type="results"><title>Results</title><p>A total of 393 AFib patients (mean [standard deviation] age, 78.0 [7.0] y) were recruited into the study by 48 GPs; 25 GPs and 206 patients were randomized into the intervention arm (<xref ref-type="table" rid="T1">Table 1</xref>). We found no significant differences in patient characteristics between the study arms or across the 4 regions, except that patients in the control arm had fewer chronic conditions than patients in the intervention arm (5.4 vs 6.1, <italic>P</italic> = .01).</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><title>Characteristics of Patients With Atrial Fibrillation in Intervention and Control Arms of a Cluster-Randomized Controlled Trial of a Computerized Antithrombotic Risk Assessment Tool for General Practitioners in New South Wales, Australia<xref rid="T1FN1" ref-type="table-fn">a</xref>
+<sup>,</sup>
+<xref rid="T1FN2" ref-type="table-fn">b</xref>
+</title></caption><table frame="hsides" rules="groups"><col width="243" span="1"/><col width="72" span="1"/><col width="67" span="1"/><col width="58" span="1"/><col width="45" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Characteristic</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">All Patients</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Intervention Arm</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Control Arm</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref rid="T1FN3" ref-type="table-fn">c</xref>
+</th></tr></thead><tbody><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>No. of patients (% of total sample)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">393 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">206 (52.4)</td><td valign="top" align="right" rowspan="1" colspan="1">187 (47.6)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Age, mean (SD), y</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">78.0 (7.0)</td><td valign="top" align="right" rowspan="1" colspan="1">78.2 (7.1)</td><td valign="top" align="right" rowspan="1" colspan="1">77.7 (7.0)</td><td valign="top" align="right" rowspan="1" colspan="1">.52</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Age group</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x02265;80 y</td><td valign="top" align="right" rowspan="1" colspan="1">180 (45.8)</td><td valign="top" align="right" rowspan="1" colspan="1">96 (46.6)</td><td valign="top" align="right" rowspan="1" colspan="1">84 (44.9)</td><td rowspan="2" valign="middle" align="right" colspan="1">.74</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0003c;80 y</td><td valign="top" align="right" rowspan="1" colspan="1">213 (54.2)</td><td valign="top" align="right" rowspan="1" colspan="1">110 (53.4)</td><td valign="top" align="right" rowspan="1" colspan="1">103 (55.1)</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Sex</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Male</td><td valign="top" align="right" rowspan="1" colspan="1">214 (54.5)</td><td valign="top" align="right" rowspan="1" colspan="1">113 (54.9)</td><td valign="top" align="right" rowspan="1" colspan="1">101 (54.0)</td><td rowspan="2" valign="middle" align="right" colspan="1">.87</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Female</td><td valign="top" align="right" rowspan="1" colspan="1">179 (45.5)</td><td valign="top" align="right" rowspan="1" colspan="1">93 (45.1)</td><td valign="top" align="right" rowspan="1" colspan="1">86 (46.0)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>No. of chronic conditions, mean (SD)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">5.8 (2.5)</td><td valign="top" align="right" rowspan="1" colspan="1">6.1 (2.7)</td><td valign="top" align="right" rowspan="1" colspan="1">5.4 (2.3)</td><td valign="top" align="right" rowspan="1" colspan="1">.01</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>No. of prescription medications, mean (SD)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.2 (4.0)</td><td valign="top" align="right" rowspan="1" colspan="1">9.0 (3.7)</td><td valign="top" align="right" rowspan="1" colspan="1">9.4 (4.3)</td><td valign="top" align="right" rowspan="1" colspan="1">.42</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>No. of nonprescription medications, mean (SD)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.5 (1.3)</td><td valign="top" align="right" rowspan="1" colspan="1">1.5 (1.3)</td><td valign="top" align="right" rowspan="1" colspan="1">1.5 (1.3)</td><td valign="top" align="right" rowspan="1" colspan="1">.94</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>History of atrial fibrillation</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0003c;3 mo</td><td valign="top" align="right" rowspan="1" colspan="1">10 (2.5)</td><td valign="top" align="right" rowspan="1" colspan="1">7 (3.4)</td><td valign="top" align="right" rowspan="1" colspan="1">3 (1.6)</td><td rowspan="5" valign="middle" align="right" colspan="1">.24</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0003c;12 mo</td><td valign="top" align="right" rowspan="1" colspan="1">39 (9.9)</td><td valign="top" align="right" rowspan="1" colspan="1">20 (9.7)</td><td valign="top" align="right" rowspan="1" colspan="1">19 (10.2)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0003c;2 y</td><td valign="top" align="right" rowspan="1" colspan="1">59 (15.0)</td><td valign="top" align="right" rowspan="1" colspan="1">25 (12.1)</td><td valign="top" align="right" rowspan="1" colspan="1">34 (18.2)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0003c;5 y</td><td valign="top" align="right" rowspan="1" colspan="1">82 (20.9)</td><td valign="top" align="right" rowspan="1" colspan="1">49 (23.8)</td><td valign="top" align="right" rowspan="1" colspan="1">33 (17.6)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x02265;5 y</td><td valign="top" align="right" rowspan="1" colspan="1">203(51.7)</td><td valign="top" align="right" rowspan="1" colspan="1">105 (51.0)</td><td valign="top" align="right" rowspan="1" colspan="1">98 (52.4)</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Type of atrial fibrillation</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Paroxysmal</td><td valign="top" align="right" rowspan="1" colspan="1">139 (35.4)</td><td valign="top" align="right" rowspan="1" colspan="1">76 (36.9)</td><td valign="top" align="right" rowspan="1" colspan="1">63 (33.7)</td><td rowspan="4" valign="middle" align="right" colspan="1">.86</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Persistent</td><td valign="top" align="right" rowspan="1" colspan="1">224 (57.0)</td><td valign="top" align="right" rowspan="1" colspan="1">116 (56.3)</td><td valign="top" align="right" rowspan="1" colspan="1">108 (57.8)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">New onset</td><td valign="top" align="right" rowspan="1" colspan="1">22 (5.6)</td><td valign="top" align="right" rowspan="1" colspan="1">10 (4.9)</td><td valign="top" align="right" rowspan="1" colspan="1">12 (6.4)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Unknown</td><td valign="top" align="right" rowspan="1" colspan="1">8 (2.0)</td><td valign="top" align="right" rowspan="1" colspan="1">4 (1.9)</td><td valign="top" align="right" rowspan="1" colspan="1">4 (2.1)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Duration of persistent atrial fibrillation, mean (SD), y</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">6.8 (6.8)</td><td valign="top" align="right" rowspan="1" colspan="1">6.0 (3.7)</td><td valign="top" align="right" rowspan="1" colspan="1">7.7 (8.9)</td><td valign="top" align="right" rowspan="1" colspan="1">.01</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Previous hospitalization for atrial fibrillation</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">No</td><td valign="top" align="right" rowspan="1" colspan="1">259 (65.9)</td><td valign="top" align="right" rowspan="1" colspan="1">134 (65.0)</td><td valign="top" align="right" rowspan="1" colspan="1">125 (66.8)</td><td rowspan="2" valign="middle" align="right" colspan="1">.71</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Yes</td><td valign="top" align="right" rowspan="1" colspan="1">134 (34.1)</td><td valign="top" align="right" rowspan="1" colspan="1">72 (35.0)</td><td valign="top" align="right" rowspan="1" colspan="1">62 (33.2)</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Reason for previous hospitalization</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Management of atrial fibrillation</td><td valign="top" align="right" rowspan="1" colspan="1">87 (64.9)</td><td valign="top" align="right" rowspan="1" colspan="1">48 (66.7)</td><td valign="top" align="right" rowspan="1" colspan="1">39 (62.9)</td><td rowspan="4" valign="middle" align="right" colspan="1">.85</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Stroke or cerebrovascular accident from atrial fibrillation</td><td valign="top" align="right" rowspan="1" colspan="1">24 (17.9)</td><td valign="top" align="right" rowspan="1" colspan="1">13 (18.1)</td><td valign="top" align="right" rowspan="1" colspan="1">11 (17.7)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Transient ischemic attack</td><td valign="top" align="right" rowspan="1" colspan="1">12 (9.0)</td><td valign="top" align="right" rowspan="1" colspan="1">5 (6.9)</td><td valign="top" align="right" rowspan="1" colspan="1">7 (11.3)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Other<xref rid="T1FN4" ref-type="table-fn">d</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">11 (8.2)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (8.3)</td><td valign="top" align="right" rowspan="1" colspan="1">5 (8.1)</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Current cardiac rhythm</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Normal sinus rhythm</td><td valign="top" align="right" rowspan="1" colspan="1">45 (11.5)</td><td valign="top" align="right" rowspan="1" colspan="1">25 (12.1)</td><td valign="top" align="right" rowspan="1" colspan="1">20 (10.7)</td><td rowspan="3" valign="middle" align="right" colspan="1">.57</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Controlled atrial fibrillation</td><td valign="top" align="right" rowspan="1" colspan="1">347 (88.3)</td><td valign="top" align="right" rowspan="1" colspan="1">180 (87.4)</td><td valign="top" align="right" rowspan="1" colspan="1">167 (89.3)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Uncontrolled atrial fibrillation</td><td valign="top" align="right" rowspan="1" colspan="1">1 (0.3)</td><td valign="top" align="right" rowspan="1" colspan="1">1 (0.5)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td></tr></tbody></table><table-wrap-foot><fn id="T1FN1"><label>a</label><p> All values are number (percentage in subgroup) unless otherwise indicated.</p></fn><fn id="T1FN2"><label>b</label><p> General practitioners were recruited from 4 regions of general practice in New South Wales, Australia: the northern suburbs of Sydney, the Central Coast, the Newcastle metropolitan area (in the Hunter Region), and the rural areas of the Hunter Region. Each general practitioner (25 in control arm and 25 in intervention arm) recruited 5 to 10 patients.</p></fn><fn id="T1FN3"><label>c</label><p>
+<italic>P</italic> value for difference between intervention arm and control arm determined by Pearson &#x003c7;<sup>2</sup> test.</p></fn><fn id="T1FN4"><label>d</label><p> Includes acute myocardial infarction, amiodarone-induced hyperthyroidism, anterior resection, aortic valve replacement, carcinoma, cardiac ablation, pacemaker reinsertion, pulmonary embolism.</p></fn></table-wrap-foot></table-wrap><p>Overall, 70.7% of patients were assessed as being at high risk of stroke; the most common risk factors were hypertension (68.2%) and being aged 75 or older (67.7%). Only 1.0% of patients were assessed as being at high risk of bleeding; the most common risk factors were uncontrolled hypertension (10.2%) and malignancy (8.4%) (<xref ref-type="table" rid="T2">Table 2</xref>). A higher proportion of patients in the control arm (11.2%) were deemed to be at low risk of stroke than the proportion in the intervention arm (2.9%) (<italic>P</italic> &#x0003c; .001). Two-thirds (67.9%) of all patients were deemed to be at high risk of stroke <italic>and</italic> at low risk of bleeding (ie, most eligible for antithrombotic therapy).</p><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2</label><caption><title>Risk Factors and Level of Assessed Risk Among Patients With Atrial Fibrillation in Intervention and Control Arms of a Cluster-Randomized Controlled Trial of a Computerized Antithrombotic Risk Assessment Tool for General Practitioners in New South Wales, Australia<xref rid="T2FN1" ref-type="table-fn">a</xref>
+</title></caption><table frame="hsides" rules="groups"><col width="187" span="1"/><col width="84" span="1"/><col width="76" span="1"/><col width="71" span="1"/><col width="48" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Risk Factor and Level</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">All Patients (N = 393)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Intervention Arm (n = 206)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Control Arm (n = 187)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref rid="T2FN2" ref-type="table-fn">b</xref>
+</th></tr></thead><tbody><tr><td colspan="5" valign="top" align="center" scope="col" rowspan="1">
+<bold>Stroke Risk<xref rid="T2FN3" ref-type="table-fn">c</xref></bold>
+</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Risk factor</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Previous stroke or transient ischemic attack</td><td valign="top" align="right" rowspan="1" colspan="1">72 (18.3)</td><td valign="top" align="right" rowspan="1" colspan="1">50 (24.3)</td><td valign="top" align="right" rowspan="1" colspan="1">22 (11.8)</td><td valign="top" align="right" rowspan="1" colspan="1">.001</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Aged &#x02265;75 y</td><td valign="top" align="right" rowspan="1" colspan="1">266 (67.7)</td><td valign="top" align="right" rowspan="1" colspan="1">151 (73.3)</td><td valign="top" align="right" rowspan="1" colspan="1">115 (61.5)</td><td valign="top" align="right" rowspan="1" colspan="1">.01</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Congestive heart failure</td><td valign="top" align="right" rowspan="1" colspan="1">100 (25.4)</td><td valign="top" align="right" rowspan="1" colspan="1">84 (40.8)</td><td valign="top" align="right" rowspan="1" colspan="1">16 (8.6)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Hypertension</td><td valign="top" align="right" rowspan="1" colspan="1">268 (68.2)</td><td valign="top" align="right" rowspan="1" colspan="1">166 (80.6)</td><td valign="top" align="right" rowspan="1" colspan="1">102 (54.5)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Diabetes mellitus</td><td valign="top" align="right" rowspan="1" colspan="1">78 (19.8)</td><td valign="top" align="right" rowspan="1" colspan="1">41 (19.9)</td><td valign="top" align="right" rowspan="1" colspan="1">37 (19.8)</td><td valign="top" align="right" rowspan="1" colspan="1">0.98</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Level of assessed risk</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">High</td><td valign="top" align="right" rowspan="1" colspan="1">278 (70.7)</td><td valign="top" align="right" rowspan="1" colspan="1">175 (85.0)</td><td valign="top" align="right" rowspan="1" colspan="1">103 (55.1)</td><td rowspan="3" valign="middle" align="right" colspan="1">&#x0003c;.001</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Intermediate</td><td valign="top" align="right" rowspan="1" colspan="1">88 (22.4)</td><td valign="top" align="right" rowspan="1" colspan="1">25 (12.1)</td><td valign="top" align="right" rowspan="1" colspan="1">63 (33.7)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Low</td><td valign="top" align="right" rowspan="1" colspan="1">27 (6.9)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (2.9)</td><td valign="top" align="right" rowspan="1" colspan="1">21 (11.2)</td></tr><tr><td colspan="5" valign="top" align="center" scope="col" rowspan="1">
+<bold>Bleeding Risk</bold>
+<xref rid="T2FN4" ref-type="table-fn">d</xref>
+</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Risk factor</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Hepatic or renal disease</td><td valign="top" align="right" rowspan="1" colspan="1">18 (4.6)</td><td valign="top" align="right" rowspan="1" colspan="1">12 (5.8)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (3.2)</td><td valign="top" align="right" rowspan="1" colspan="1">.22</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Alcohol abuse</td><td valign="top" align="right" rowspan="1" colspan="1">8 (2.0)</td><td valign="top" align="right" rowspan="1" colspan="1">7 (3.4)</td><td valign="top" align="right" rowspan="1" colspan="1">1 (0.5)</td><td valign="top" align="right" rowspan="1" colspan="1">.045</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Malignancy</td><td valign="top" align="right" rowspan="1" colspan="1">33 (8.4)</td><td valign="top" align="right" rowspan="1" colspan="1">22 (10.7)</td><td valign="top" align="right" rowspan="1" colspan="1">11 (5.9)</td><td valign="top" align="right" rowspan="1" colspan="1">.09</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Reduced platelet count</td><td valign="top" align="right" rowspan="1" colspan="1">6 (1.5)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (2.9)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td><td valign="top" align="right" rowspan="1" colspan="1">.02</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Re-bleeding risk</td><td valign="top" align="right" rowspan="1" colspan="1">4 (1.0)</td><td valign="top" align="right" rowspan="1" colspan="1">4 (1.9)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td><td valign="top" align="right" rowspan="1" colspan="1">.06</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Uncontrolled hypertension</td><td valign="top" align="right" rowspan="1" colspan="1">40 (10.2)</td><td valign="top" align="right" rowspan="1" colspan="1">13 (6.3)</td><td valign="top" align="right" rowspan="1" colspan="1">27 (14.4)</td><td valign="top" align="right" rowspan="1" colspan="1">.008</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Anemia</td><td valign="top" align="right" rowspan="1" colspan="1">14 (3.6)</td><td valign="top" align="right" rowspan="1" colspan="1">9 (4.4)</td><td valign="top" align="right" rowspan="1" colspan="1">5 (2.7)</td><td valign="top" align="right" rowspan="1" colspan="1">.36</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Risk of excessive falls</td><td valign="top" align="right" rowspan="1" colspan="1">22 (5.6)</td><td valign="top" align="right" rowspan="1" colspan="1">22 (10.7)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Previous hemorrhagic stroke</td><td valign="top" align="right" rowspan="1" colspan="1">6 (1.5)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (2.9)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td><td valign="top" align="right" rowspan="1" colspan="1">.02</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Level of assessed risk</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">High</td><td valign="top" align="right" rowspan="1" colspan="1">4 (1.0)</td><td valign="top" align="right" rowspan="1" colspan="1">4 (1.9)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td><td rowspan="3" valign="middle" align="right" colspan="1">.03</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Intermediate</td><td valign="top" align="right" rowspan="1" colspan="1">10 (2.5)</td><td valign="top" align="right" rowspan="1" colspan="1">8 (3.9)</td><td valign="top" align="right" rowspan="1" colspan="1">2 (1.1)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Low</td><td valign="top" align="right" rowspan="1" colspan="1">379 (96.4)</td><td valign="top" align="right" rowspan="1" colspan="1">194 (94.2)</td><td valign="top" align="right" rowspan="1" colspan="1">185 (98.9)</td></tr></tbody></table><table-wrap-foot><fn id="T2FN1"><label>a</label><p> All values are number (percentage in subgroup) unless otherwise indicated.</p></fn><fn id="T2FN2"><label>b</label><p>
+<italic>P</italic> value for difference between intervention arm and control arm determined by Pearson &#x003c7;<sup>2</sup> test.</p></fn><fn id="T2FN3"><label>c</label><p> Patients were assessed for risk of stroke according to the CHADS<sub>2</sub> Score for Atrial Fibrillation Stroke Risk (<xref rid="R25" ref-type="bibr">25</xref>).</p></fn><fn id="T2FN4"><label>d</label><p> Patients were assessed for risk of bleeding according to HEMORR<sub>2</sub>HAGES criteria (<xref rid="R26" ref-type="bibr">26</xref>).</p></fn></table-wrap-foot></table-wrap><p>We found no significant differences between the 2 arms in factors affecting the decision to prescribe antithrombotic therapy (<xref ref-type="table" rid="T3">Table 3</xref>). Overall, the most common medication-safety considerations were patients taking 4 or more medications (94.4%), patients needing assistance with medication management (41.0%), and functional impairment (16.0%). Although most patients were taking 4 or more medications, only 5.6% had a known history of medication nonadherence. Most patients (96.7%) had been educated about their antithrombotic therapy; only 1.3% of patients had previously declined therapy.</p><table-wrap id="T3" orientation="portrait" position="float"><label>Table 3</label><caption><title>Medication-Safety and Medication-Management Assessments in the Intervention and Control Arms of a Cluster-Randomized Controlled Trial of a Computerized Antithrombotic Risk Assessment Tool for General Practitioners in New South Wales, Australia<xref rid="T3FN1" ref-type="table-fn">a</xref>
+</title></caption><table frame="hsides" rules="groups"><col width="171" span="1"/><col width="76" span="1"/><col width="97" span="1"/><col width="77" span="1"/><col width="44" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Assessment</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">All Patients (N = 393)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Intervention Arm (n = 206)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Control Arm (n = 187)</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref rid="T3FN2" ref-type="table-fn">b</xref>
+</th></tr></thead><tbody><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Medication safety</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient allergic to warfarin and aspirin</td><td valign="top" align="right" rowspan="1" colspan="1">8 (2.0)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (2.9)</td><td valign="top" align="right" rowspan="1" colspan="1">2 (1.1)</td><td valign="top" align="right" rowspan="1" colspan="1">.22</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Adverse reaction to antithrombotics</td><td valign="top" align="right" rowspan="1" colspan="1">15 (3.8)</td><td valign="top" align="right" rowspan="1" colspan="1">9 (4.4)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (3.2)</td><td valign="top" align="right" rowspan="1" colspan="1">.52</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Taking medication that interacts with warfarin</td><td valign="top" align="right" rowspan="1" colspan="1">1 (0.3)</td><td valign="top" align="right" rowspan="1" colspan="1">1 (0.5)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td><td valign="top" align="right" rowspan="1" colspan="1">.73</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient has declined antithrombotics</td><td valign="top" align="right" rowspan="1" colspan="1">5 (1.3)</td><td valign="top" align="right" rowspan="1" colspan="1">4 (1.9)</td><td valign="top" align="right" rowspan="1" colspan="1">1 (0.5)</td><td valign="top" align="right" rowspan="1" colspan="1">.38</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient has contraindication to antithrombotics</td><td valign="top" align="right" rowspan="1" colspan="1">11 (2.8)</td><td valign="top" align="right" rowspan="1" colspan="1">5 (2.4)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (3.2)</td><td valign="top" align="right" rowspan="1" colspan="1">.76</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient has failed antithrombotics</td><td valign="top" align="right" rowspan="1" colspan="1">10 (2.5)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (2.9)</td><td valign="top" align="right" rowspan="1" colspan="1">4 (2.1)</td><td valign="top" align="right" rowspan="1" colspan="1">.75</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient received education about antithrombotics</td><td valign="top" align="right" rowspan="1" colspan="1">380 (96.7)</td><td valign="top" align="right" rowspan="1" colspan="1">198 (50.4)</td><td valign="top" align="right" rowspan="1" colspan="1">182 (47.9)</td><td valign="top" align="right" rowspan="1" colspan="1">.58</td></tr><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>Medication management</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient taking &#x02265;4 medications</td><td valign="top" align="right" rowspan="1" colspan="1">371 (94.4)</td><td valign="top" align="right" rowspan="1" colspan="1">195 (94.7)</td><td valign="top" align="right" rowspan="1" colspan="1">176 (94.1)</td><td valign="top" align="right" rowspan="1" colspan="1">.83</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient is not compliant with medication</td><td valign="top" align="right" rowspan="1" colspan="1">22 (5.6)</td><td valign="top" align="right" rowspan="1" colspan="1">8 (3.9)</td><td valign="top" align="right" rowspan="1" colspan="1">14 (7.5)</td><td valign="top" align="right" rowspan="1" colspan="1">.13</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient needs assistance for medication management</td><td valign="top" align="right" rowspan="1" colspan="1">161 (41.0)</td><td valign="top" align="right" rowspan="1" colspan="1">83 (40.3)</td><td valign="top" align="right" rowspan="1" colspan="1">78 (41.7)</td><td valign="top" align="right" rowspan="1" colspan="1">.84</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Difficulty accessing medical care</td><td valign="top" align="right" rowspan="1" colspan="1">3 (0.8)</td><td valign="top" align="right" rowspan="1" colspan="1">1 (0.5)</td><td valign="top" align="right" rowspan="1" colspan="1">2 (1.1)</td><td valign="top" align="right" rowspan="1" colspan="1">.61</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient in residential care facility</td><td valign="top" align="right" rowspan="1" colspan="1">4 (1.0)</td><td valign="top" align="right" rowspan="1" colspan="1">2 (1.0)</td><td valign="top" align="right" rowspan="1" colspan="1">2 (1.1)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x0003e;.99</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Cognitive impairment</td><td valign="top" align="right" rowspan="1" colspan="1">18 (4.6)</td><td valign="top" align="right" rowspan="1" colspan="1">8 (3.9)</td><td valign="top" align="right" rowspan="1" colspan="1">10 (5.3)</td><td valign="top" align="right" rowspan="1" colspan="1">.63</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Vision impairment</td><td valign="top" align="right" rowspan="1" colspan="1">24 (6.1)</td><td valign="top" align="right" rowspan="1" colspan="1">15 (7.3)</td><td valign="top" align="right" rowspan="1" colspan="1">9 (4.8)</td><td valign="top" align="right" rowspan="1" colspan="1">.40</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Hearing impairment</td><td valign="top" align="right" rowspan="1" colspan="1">34 (8.7)</td><td valign="top" align="right" rowspan="1" colspan="1">18 (8.7)</td><td valign="top" align="right" rowspan="1" colspan="1">16 (8.6)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x0003e;.99</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Language/communication barrier</td><td valign="top" align="right" rowspan="1" colspan="1">4 (1.0)</td><td valign="top" align="right" rowspan="1" colspan="1">2 (1.0)</td><td valign="top" align="right" rowspan="1" colspan="1">2 (1.1)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x0003e;.99</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Mobility disorder</td><td valign="top" align="right" rowspan="1" colspan="1">17 (4.3)</td><td valign="top" align="right" rowspan="1" colspan="1">9 (4.4)</td><td valign="top" align="right" rowspan="1" colspan="1">8 (4.3)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x0003e;.99</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Functional impairment</td><td valign="top" align="right" rowspan="1" colspan="1">63 (16.0)</td><td valign="top" align="right" rowspan="1" colspan="1">26 (12.6)</td><td valign="top" align="right" rowspan="1" colspan="1">37 (19.8)</td><td valign="top" align="right" rowspan="1" colspan="1">.06</td></tr></tbody></table><table-wrap-foot><fn id="T3FN1"><label>a</label><p> All values are number (percentage in subgroup) unless otherwise indicated.</p></fn><fn id="T3FN2"><label>b</label><p>
+<italic>P</italic> value for difference between intervention arm and control arm determined by Pearson &#x003c7;<sup>2</sup> test.</p></fn></table-wrap-foot></table-wrap><p>At baseline, 387 patients (98.5%) used some form of antithrombotic therapy: 361 (91.9%) used an anticoagulant (warfarin [&#x000b1; antiplatelet] or dabigatran [&#x000b1; clopidogrel]), 26 (6.6%) used antiplatelet therapy (aspirin only or clopidogrel only), and 6 (1.5%) did not use any therapy (<xref ref-type="fig" rid="F2">Figure 2</xref>). Most patients using antithrombotics were prescribed warfarin (316/387; 81.7%); of these, 14 used warfarin in combination with aspirin, and 1 patient each was prescribed the combination of warfarin, aspirin, and clopidogrel or warfarin and clopidogrel. The remaining patients were prescribed dabigatran (&#x000b1; clopidogrel) (45/387; 11.6%), aspirin only (23/387; 5.9%), or clopidogrel only (3/387; 0.8%).</p><fig id="F2" fig-type="figure" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Changes in the use of antithrombotic therapy, by type of therapy and by patient groups (intervention arm and control arm), in a cluster-randomized controlled trial of a computerized antithrombotic risk assessment tool in a sample of general practices in New South Wales, Australia, 2012&#x02013;2013. Percentages may not total 100 because of rounding.</p><p>
+<table-wrap orientation="portrait" id="d36e1325" position="anchor"><table frame="hsides" rules="groups"><col width="127" span="1"/><col width="100" span="1"/><col width="87" span="1"/><col width="84" span="1"/><col width="83" span="1"/><thead><tr><th rowspan="2" valign="bottom" align="left" scope="col" colspan="1">Therapy</th><th valign="bottom" colspan="4" align="center" scope="colgroup" rowspan="1">Number of Patients (Proportion of Patients by Intervention Group and Control Group)<hr/>
+</th></tr><tr><th valign="bottom" colspan="1" align="center" scope="colgroup" rowspan="1">Intervention Group: Baseline Therapy</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Intervention Group: Post-CARAT Therapy</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Intervention Group: CARAT-Recommended Therapy</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Control Group</th></tr></thead><tbody><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Warfarin (&#x000b1; antiplatelet)</td><td valign="top" align="right" rowspan="1" colspan="1">154 (74.8)</td><td valign="top" align="right" rowspan="1" colspan="1">156 (75.7)</td><td valign="top" align="right" rowspan="1" colspan="1">168 (81.6)</td><td valign="top" align="right" rowspan="1" colspan="1">162 (86.6)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Aspirin only</td><td valign="top" align="right" rowspan="1" colspan="1">17 (8.3)</td><td valign="top" align="right" rowspan="1" colspan="1">14 (6.8)</td><td valign="top" align="right" rowspan="1" colspan="1">38 (18.4)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (3.2)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Clopidogrel only</td><td valign="top" align="right" rowspan="1" colspan="1">3 (1.5)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Dabigatran (&#x000b1; clopidogrel)</td><td valign="top" align="right" rowspan="1" colspan="1">30 (14.6)</td><td valign="top" align="right" rowspan="1" colspan="1">34 (16.5)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td><td valign="top" align="right" rowspan="1" colspan="1">15 (8.0)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">None</td><td valign="top" align="right" rowspan="1" colspan="1">2 (1.0)</td><td valign="top" align="right" rowspan="1" colspan="1">2 (1.0)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td><td valign="top" align="right" rowspan="1" colspan="1">4 (2.1)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Total</td><td valign="top" align="right" rowspan="1" colspan="1">206 (100.2)</td><td valign="top" align="right" rowspan="1" colspan="1">206 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">206 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">187 (99.9)</td></tr></tbody></table></table-wrap>
+</p></caption><graphic xlink:href="PCD-13-E90s02"/></fig><p>At baseline, the use of anticoagulants was similar between patients in the control arm (177/187; 94.7%) and intervention arm (184/206; 89.3%) (<italic>P</italic> = .38) as was the use antiplatelet therapy (6/187 [3.2%] in control arm vs 20/206 [9.7%] in intervention arm; <italic>P</italic> = .10). Although the difference was not significant, a greater proportion of patients in the control arm (162/187; 86.6%) used warfarin (&#x000b1; antiplatelet) than in the intervention arm (154/206; 74.8%), and a smaller proportion in the control arm (15/187; 8.0%) used dabigatran (&#x000b1; clopidogrel) than in the intervention arm (30/206; 14.6%).</p><p>In the intervention arm, all 206 patients were recommended some form of antithrombotic therapy by CARAT; no patient was recommended no therapy. Overall, CARAT recommended a different type of therapy or agent for 75 (36.4%) patients; for 1 other patient, the change was to increase the dose of warfarin to achieve therapeutic levels at the recommended target international normalized ratio. Among the 75 CARAT-recommended changes, 12 (16.0%) were upgrades to a more effective prophylactic therapy (ie, from no therapy to any agent, or from aspirin to warfarin or dabigatran), whereas 35 (46.7%) were classified as &#x0201c;side-steps&#x0201d; to different agents in the same category of therapy (eg, from one anticoagulant to another, or from the combination of warfarin and aspirin to warfarin only). The remaining 28 (37.3%) recommendations were downgrades to less effective but potentially safer options (ie, from any agent to no therapy, or from warfarin and dabigatran to aspirin). Among the 6 patients using the combination of warfarin and aspirin for whom CARAT recommended changes, CARAT recommended changing the therapy to warfarin only for all but one patient (who was recommended aspirin only).</p><p>GPs agreed with most (75.2%) CARAT recommendations for the 206 patients in the intervention arm (&#x003ba; = 0.91; <italic>P</italic> = .03). Overall, for the 75 recommended changes, GPs agreed with the type of therapy (ie, antiplatelet vs anticoagulant) suggested by CARAT in 48 (64.0%) cases. However, among these 48 cases, GPs disagreed with CARAT on the agent recommended in 30 (62.5%) cases, all relating to the GP preferences for dabigatran over the CARAT-recommended warfarin. Among the 35 recommendations for warfarin-only therapy, GPs agreed in 13 cases; most GPs instead prescribed dabigatran (19 cases) followed by aspirin (2 cases), and 1 patient received no therapy. The most common reasons cited for disagreeing with CARAT&#x02019;s recommendations were &#x0201c;treatment considered inappropriate&#x0201d; and &#x0201c;following the cardiologist&#x02019;s recommendation.&#x0201d; In the northern suburbs of Sydney, the main reason for declining CARAT&#x02019;s recommendation was participation in the Pradaxa (dabigatran) product familiarization program, regardless of whether the NOAC was appropriately indicated or not. Perceived patient refusal was cited as a reason to decline CARAT recommendations in 8 of 48 (16%) intervention patients (ranging from 6.7% to 33.3% across practice regions); however, according to clinical notes, only 4 (1.9%) intervention patients declined therapy previously (<xref ref-type="table" rid="T3">Table 3</xref>).</p><p>GPs initiated changes to therapy only among intervention patients flagged by CARAT as needing a change; GPs did not make any changes to therapy for the 131 patients for whom CARAT did not recommend a change. Overall, the net effect of these changes was that the use of antithrombotic therapy did not change from baseline (204/206; 99.0%), but the use of anticoagulants increased significantly (<italic>P</italic> = .02) from 89.3% (184/206) to 92.2% (190/206), and the use of antiplatelet therapy decreased (but not significantly [<italic>P</italic> = .20]) from 9.7% (20/206) to 6.8% (14/206) (<xref ref-type="fig" rid="F2">Figure 2</xref>). None of the 3 patients using clopidogrel at baseline used it after application of CARAT: 2 patients were prescribed dabigatran and 1 was prescribed warfarin and aspirin. These changes are net changes in the proportion of patients using these antithrombotics, taking into account all upgrades, downgrades, and side-steps in treatment. We found more CARAT recommendations for downgrades to less effective but potentially safer options than for upgrades to more effective prophylactic therapy.</p><p>Overall, a significantly higher proportion of patients in the intervention arm (36.9%; 76/206) than in the control arm (0%; 0/187) were assessed for potential changes to therapy during baseline consultations (<italic>P</italic> &#x0003c; .001); 9 (4.4%; 9/206) patients in the intervention arm and none in the control arm immediately changed their therapy (<italic>P</italic> = .003).</p><p>Overall, compared with patients in the control arm, patients in the intervention arm were 3.1 times more likely to be considered for warfarin therapy (in preference to other treatment options; <italic>P</italic> &#x0003c; .001) and 2.8 times more likely to receive an anticoagulant (in preference to an antiplatelet; <italic>P</italic> = .02) (<xref ref-type="table" rid="T4">Table 4</xref>).</p><table-wrap id="T4" orientation="portrait" position="float"><label>Table 4</label><caption><title>Predictors of the Use of Antithrombotic Therapy (Multivariate Model) Post-Intervention (N = 393) in a Cluster-Randomized Controlled Trial of a Computerized Antithrombotic Risk Assessment Tool (CARAT) for General Practitioners in New South Wales, Australia</title></caption><table frame="hsides" rules="groups"><col width="266" span="1"/><col width="200" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Variable</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Odds Ratio (95% Confidence Interval)</th></tr></thead><tbody><tr><td colspan="2" valign="top" align="left" scope="col" rowspan="1">
+<bold>Model A: Predictors of the use of anticoagulant therapy in preference to antiplatelet therapy<xref rid="T4FN1" ref-type="table-fn">a</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Use of CARAT for decision making in the intervention arm (vs control arm)</td><td valign="top" align="right" rowspan="1" colspan="1">2.8 (1.1&#x02013;7.3)<xref rid="T4FN2" ref-type="table-fn">b</xref>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">History of uncontrolled hypertension</td><td valign="top" align="right" rowspan="1" colspan="1">3.5 (1.4&#x02013;8.3)<xref rid="T4FN2" ref-type="table-fn">b</xref>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Previous hemorrhagic stroke</td><td valign="top" align="right" rowspan="1" colspan="1">0.1 (0.02&#x02013;0.7)</td></tr><tr><td colspan="2" valign="top" align="left" scope="col" rowspan="1">
+<bold>Model B: Predictors of the use of warfarin in preference to other treatment options<xref rid="T4FN3" ref-type="table-fn">c</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Intervention arm decision making after application of CARAT (vs control arm)</td><td valign="top" align="right" rowspan="1" colspan="1">3.1 (1.7&#x02013;5.7)<xref rid="T4FN2" ref-type="table-fn">b</xref>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">History of uncontrolled hypertension</td><td valign="top" align="right" rowspan="1" colspan="1">2.4 (1.3&#x02013;4.1)<xref rid="T4FN2" ref-type="table-fn">b</xref>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Excessive alcohol intake</td><td valign="top" align="right" rowspan="1" colspan="1">0.2 (0.05&#x02013;1.0)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Language barrier</td><td valign="top" align="right" rowspan="1" colspan="1">0.1 (0.01&#x02013;0.7)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Increasing number of prescription medications being used</td><td valign="top" align="right" rowspan="1" colspan="1">0.8 (0.6&#x02013;0.9)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Increasing number of nonprescription medications being used</td><td valign="top" align="right" rowspan="1" colspan="1">0.8 (0.6&#x02013;1.0)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Malignancy</td><td valign="top" align="right" rowspan="1" colspan="1">0.4 (0.2&#x02013;0.8)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Previous hemorrhagic stroke</td><td valign="top" align="right" rowspan="1" colspan="1">0.2 (0.3&#x02013;0.97)</td></tr></tbody></table><table-wrap-foot><fn id="T4FN1"><label>a</label><p> Model correctly classified 93.5% of cases. Cox and Snell <italic>R</italic>
+<sup>2</sup> = 0.43; Nagelkerke <italic>R</italic>
+<sup>2</sup> = 0.11.</p></fn><fn id="T4FN2"><label>b</label><p> More likely to receive the former therapy; analyses adjusted for selected factors.</p></fn><fn id="T4FN3"><label>c</label><p> Model correctly classified 81.4% of cases. Cox and Snell <italic>R</italic>
+<sup>2</sup> = 0.12; Nagelkerke <italic>R</italic>
+<sup>2</sup> = 0.19.</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion"><title>Discussion</title><p>GPs in local Australian practices are increasingly prescribing antithrombotic therapy for stroke prevention in patients with AFib, in line with current guidelines and in response to interventions implemented during the past decade to improve clinician awareness, better support patients and clinicians in managing anticoagulant therapy, and develop newer treatment options. Overall, the high use of antithrombotics (any therapy) in this cohort of patients demonstrates that tools such as CARAT may have a limited role in the initial decision to prescribe therapy; however, the choice of agents may require further support, as evidenced by the proportion of patients receiving antiplatelet therapy or dabigatran, and which may reflect persistent reservations about warfarin use. This is an interesting finding, given that the prevalence of contraindications to warfarin and any related medication safety considerations that are often cited as reasons to avoid warfarin (eg, falls risk, functional/cognitive impairment) was low in this study. Most patients were assessed as being at high risk of stroke and at low risk of bleeding and therefore were ideal candidates for anticoagulation therapy with warfarin. More important was that CARAT helped to rationalize therapy rather than simply increasing therapy: the tool helped to review a patient&#x02019;s existing therapy and accounted for any changes in risk (for both stroke and bleeding) and development of contraindications; this process resulted in more downgrades (to safer options) than upgrades (to more effective options) in therapy. Studies have similarly shown this effect when review processes and tools are not only applied in the initial decision to prescribe therapy but also in reviewing a patient&#x02019;s ongoing therapy (<xref rid="R14" ref-type="bibr">14</xref>).</p><p>Although the application of CARAT did not result in dramatic improvements in the net use of antithrombotic therapy in this study, because of the high use of anticoagulants at baseline, the level of agreement on recommendations between CARAT and GPs is encouraging. However, the GPs agreeing to participate in this study may have been more confident in their evidence-based practice in antithrombotic therapy than GPs not agreeing to participate, and this potential selection bias may have contributed to the unexpectedly high level of concordance with antithrombotic guidelines. Nevertheless, CARAT assisted with rationalization of therapy and identified several lingering issues, such as patient refusal, that appear to preclude further improvement in care; future research should explore how adherence to therapy can be better supported and how clinicians can better engage patients in the decision-making process.</p><p>Since this study was conducted, the NOACs (dabigatran, rivaroxaban, apixaban) have become available for widespread use (at the Australian Pharmaceutical Benefits Scheme&#x02019;s subsidized costs) and have complicated decision-making further, necessitating guidance on how to select a therapy (<xref rid="R5" ref-type="bibr">5</xref>,7). Although these new agents offer several advantages, each has risks; safety alerts have described the risks of over-zealous, indiscriminate use (<xref rid="R27" ref-type="bibr">27</xref>). In this study, numerous patients who were recommended warfarin by CARAT received dabigatran instead, with no obvious rationale for dabigatran&#x02019;s selection. Dedicated tools may be needed to help clinicians identify patients who would benefit from NOAC therapy and to select which type to use; for this reason, a modified version of the CARAT is in development. How the high costs of NOACs may affect prescribing patterns should be considered. Although NOACs were found to be cost-effective alternatives to warfarin for stroke prevention in patients with AFib (<xref rid="R28" ref-type="bibr">28</xref>), studies showed that the absolute, short-term costs of NOACs can affect treatment selection. For example, a Canadian study demonstrated socioeconomic inequality in access to dabigatran among patients receiving warfarin for nonvalvular AFib; in the absence of subsidies, patients in the highest income quintile were 50% more likely to switch from warfarin to dabigatran than those in the lowest income quintile (<xref rid="R29" ref-type="bibr">29</xref>). When such disparity is eliminated through subsidies, treatment costs challenge health-system budgets. In Australia, high-cost medicines such as NOACs are subsidized by the Australian Pharmaceutical Benefit Scheme, making them affordable for patients but costly for government. Concerns about the costs of NOACs led the Australian government to re-examine the selection of therapy (7). In this study, prescribing patterns were likely not affected by the differential costs of treatments because of subsidies. However, decision-support tools such as CARAT may need to consider how costs are weighed in the decision-making processes of the diverse economic and health-systems contexts in which therapies are used.</p><p>This study had several limitations. First, data extraction relied on GP responses and clinical records; records may have been outdated or incomplete, and explanations for the use of therapy may not have been recorded. In particular, the patient&#x02019;s AFib status was determined by GP verification; however, the proportion of patients with new onset AFib (in whom the need for long-term antithrombotic therapy may not initially be clear) was low (5.6%) and had no significant effect on overall treatment use. Second, routine anticoagulation therapy may not be indicated for all cases of new onset AFib, such as post-surgical AFib, and so the role of CARAT may be limited in this context (<xref rid="R30" ref-type="bibr">30</xref>). Third, this study was designed to explore the use of therapy according to prescription by clinicians; it did not examine the extent to which patients adhered to the treatments prescribed.</p><p>CARAT was designed only to consider antithrombotics available at the time of the study (ie, warfarin, aspirin), and it may not have accounted for other factors important to decision-making, such as patients preferences (eg, warfarin vs NOAC), affordability, and access to resources to support clinicians and patients in managing treatment options. The availability of dabigatran through the product familiarization program may have clouded decision making in some cases, and the full impact of CARAT may not have been realized. The availability of dabigatran through the product familiarization program may have motivated some clinicians to try it, regardless of CARAT&#x02019;s recommendation. Concerns about the product familiarization program and possible inappropriate use of dabigatran have been raised (<xref rid="R31" ref-type="bibr">31</xref>). The inability of CARAT to recommend a NOAC as a treatment option or provide practical advice to clinicians about the suitability of dabigatran for a patient may have affected the rate of uptake of CARAT recommendations. A higher proportion of control-arm patients than intervention-arm patients were deemed to be at low risk of stroke; overall, this difference did not appear to influence the likelihood of receiving treatment, according to the multivariate analyses. Collectively, the above-mentioned issues may have affected the impact of CARAT and the patterns of antithrombotic use observed in this study.</p><p>Despite these limitations, this study showed that CARAT improved the use of antithrombotic therapy by supporting the rationalization of therapy. Tools such as CARAT support decision making by assisting in selecting a therapy, particularly in upgrading a patient from an antiplatelet agent to an anticoagulant. The advent of NOACs has further complicated decision making, and decision-support tools must evolve to weigh the risks and benefits of these new therapy options.</p></sec></body><back><ack><title>Acknowledgments</title><p>We acknowledge the advice and expertise provided by Ms Susan Goode, Professor Christopher Levi, Professor Mark Parsons, Dr Tony Sara and Mr Noman Masood, as well as the participating divisions of general practice in the development and planning of this study. Acknowledgement is also extended to the project officers who coordinated the various study activities: Ms Christine Barrow, Ms Helen Braggett, Ms Sofia Dimitrelis, and Dr Yishen Wang. The study was supported by the participating divisions of general practice (Medicare Locals) and funded by the National Health and Medical Research Council of Australia (project grant no. ID632799).</p></ack><fn-group><fn><p>The opinions expressed by authors contributing to this journal do not necessarily reflect the opinions of the U.S. Department of Health and Human Services, the Public Health Service, the Centers for Disease Control and Prevention, or the authors' affiliated institutions.</p></fn><fn><p>
+<italic>Suggested citation for this article:</italic> Bajorek BV, Magin PJ, Hilmer SN, Krass I. Optimizing Stroke Prevention in Patients With Atrial Fibrillation: A Cluster-Randomized Controlled Trial of a Computerized Antithrombotic Risk Assessment Tool in Australian General Practice, 2012&#x02013;2013. Prev Chronic Dis 2016;13:160078. DOI: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5888/pcd13.160078">http://dx.doi.org/10.5888/pcd13.160078</ext-link>.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Diug</surname>
+<given-names>BO</given-names>
+</string-name>, <string-name>
+<surname>Lowthian</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Dooley</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Replacing warfarin for better or worse: identifying patient factors and future directions.</article-title>
+<source>Med J Aust</source>
+<year>2013</year>;<volume>199</volume>(<issue>3</issue>):<fpage>156</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.5694/mja12.11863</pub-id>
+<pub-id pub-id-type="pmid">23909526</pub-id></mixed-citation></ref><ref id="R2"><label>2. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Attia</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Pearce</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>The use, misuse and abuse of dabigatran.</article-title>
+<source>Med J Aust</source>
+<year>2013</year>;<volume>198</volume>(<issue>7</issue>):<fpage>356</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.5694/mja12.10729</pub-id>
+<pub-id pub-id-type="pmid">23581945</pub-id></mixed-citation></ref><ref id="R3"><label>3. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wolf</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Kannel</surname>
+<given-names>WB</given-names>
+</string-name>. <article-title>Atrial fibrillation: a major contributor to stroke in the elderly. The Framingham Study.</article-title>
+<source>Arch Intern Med</source>
+<year>1987</year>;<volume>147</volume>(<issue>9</issue>):<fpage>1561</fpage>&#x02013;<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1001/archinte.1987.00370090041008</pub-id>
+<pub-id pub-id-type="pmid">3632164</pub-id></mixed-citation></ref><ref id="R4"><label>4. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bajorek</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>A review of the safety of anticoagulants in older people using the medicines management pathway: weighing the benefits against the risks.</article-title>
+<source>Ther Adv Drug Saf</source>
+<year>2011</year>;<volume>2</volume>(<issue>2</issue>):<fpage>45</fpage>&#x02013;<lpage>58</lpage>. <pub-id pub-id-type="doi">10.1177/2042098611400495</pub-id>
+<pub-id pub-id-type="pmid">25083201</pub-id></mixed-citation></ref><ref id="R5"><label>5. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Bajorek</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>New oral anticoagulants in practice: pharmacological and practical considerations.</article-title>
+<source>Am J Cardiovasc Drugs</source>
+<year>2014</year>;<volume>14</volume>(<issue>3</issue>):<fpage>175</fpage>&#x02013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1007/s40256-013-0061-0</pub-id>
+<pub-id pub-id-type="pmid">24452600</pub-id></mixed-citation></ref><ref id="R6"><label>6. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Bajorek</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Safe use of antithrombotics for stroke prevention in atrial fibrillation: consideration of risk assessment tools to support decision-making.</article-title>
+<source>Ther Adv Drug Saf</source>
+<year>2014</year>;<volume>5</volume>(<issue>1</issue>):<fpage>21</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1177/2042098613506592</pub-id>
+<pub-id pub-id-type="pmid">25083260</pub-id></mixed-citation></ref><ref id="R7"><mixed-citation publication-type="web">7. <collab>Department of Health and Ageing, Australian Government</collab>. Review of anticoagulation therapies in atrial fibrillation. <year>2012</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.pbs.gov.au/info/publication/factsheets/shared/anticoagulation-review">http://www.pbs.gov.au/info/publication/factsheets/shared/anticoagulation-review</ext-link>. Accessed June 15, 2016.</mixed-citation></ref><ref id="R8"><label>8. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bajorek</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name>
+<surname>Krass</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ogle</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Duguid</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Shenfield</surname>
+<given-names>GM</given-names>
+</string-name>. <article-title>The impact of age on antithrombotic use in elderly patients with non-valvular atrial fibrillation.</article-title>
+<source>Australas J Ageing</source>
+<year>2002</year>;<volume>21</volume>(<issue>1</issue>):<fpage>36</fpage>&#x02013;<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1111/j.1741-6612.2002.tb00413.x</pub-id>
+</mixed-citation></ref><ref id="R9"><label>9. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gallagher</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Rietbrock</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Plumb</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van Staa</surname>
+<given-names>TP</given-names>
+</string-name>. <article-title>Initiation and persistence of warfarin or aspirin in patients with chronic atrial fibrillation in general practice: do the appropriate patients receive stroke prophylaxis?</article-title>
+<source>J Thromb Haemost</source>
+<year>2008</year>;<volume>6</volume>(<issue>9</issue>):<fpage>1500</fpage>&#x02013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1111/j.1538-7836.2008.03059.x</pub-id>
+<pub-id pub-id-type="pmid">18573187</pub-id></mixed-citation></ref><ref id="R10"><label>10. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bajorek</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name>
+<surname>Ogle</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Duguid</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Shenfield</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Krass</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Management of warfarin in atrial fibrillation: views of health professionals, older patients and their carers.</article-title>
+<source>Med J Aust</source>
+<year>2007</year>;<volume>186</volume>(<issue>4</issue>):<fpage>175</fpage>&#x02013;<lpage>80</lpage>.
+<pub-id pub-id-type="pmid">17309417</pub-id></mixed-citation></ref><ref id="R11"><label>11. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gattellari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Worthington</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zwar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Middleton</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Barriers to the use of anticoagulation for nonvalvular atrial fibrillation: a representative survey of Australian family physicians.</article-title> [Published erratum in: Stroke 2010;41(4):e398; Stroke 2008; 39(4):e77.). <source>Stroke</source>
+<year>2008</year>;<volume>39</volume>(<issue>1</issue>):<fpage>227</fpage>&#x02013;<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.107.495036</pub-id>
+<pub-id pub-id-type="pmid">18048861</pub-id></mixed-citation></ref><ref id="R12"><label>12. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Stafford</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Bereznicki</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>van Tienen</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Angley</surname>
+<given-names>MT</given-names>
+</string-name>, <etal/>
+<article-title>Clinical outcomes of a collaborative, home-based postdischarge warfarin management service.</article-title>
+<source>Ann Pharmacother</source>
+<year>2011</year>;<volume>45</volume>(<issue>3</issue>):<fpage>325</fpage>&#x02013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1345/aph.1P617</pub-id>
+<pub-id pub-id-type="pmid">21386021</pub-id></mixed-citation></ref><ref id="R13"><label>13. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lip</surname>
+<given-names>GYH</given-names>
+</string-name>, <string-name>
+<surname>Nieuwlaat</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pisters</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lane</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Crijns</surname>
+<given-names>HJGM</given-names>
+</string-name>. <article-title>Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the euro heart survey on atrial fibrillation.</article-title>
+<source>Chest</source>
+<year>2010</year>;<volume>137</volume>(<issue>2</issue>):<fpage>263</fpage>&#x02013;<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1378/chest.09-1584</pub-id>
+<pub-id pub-id-type="pmid">19762550</pub-id></mixed-citation></ref><ref id="R14"><label>14. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bajorek</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name>
+<surname>Krass</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ogle</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Duguid</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Shenfield</surname>
+<given-names>GM</given-names>
+</string-name>. <article-title>Optimizing the use of antithrombotic therapy for atrial fibrillation in older people: a pharmacist-led multidisciplinary intervention.</article-title>
+<source>J Am Geriatr Soc</source>
+<year>2005</year>;<volume>53</volume>(<issue>11</issue>):<fpage>1912</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1111/j.1532-5415.2005.53564.x</pub-id>
+<pub-id pub-id-type="pmid">16274372</pub-id></mixed-citation></ref><ref id="R15"><label>15. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bajorek</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name>
+<surname>Masood</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Krass</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Development of a Computerised Antithrombotic Risk Assessment Tool (CARAT) to optimise therapy in older persons with atrial fibrillation.</article-title>
+<source>Australas J Ageing</source>
+<year>2012</year>;<volume>31</volume>(<issue>2</issue>):<fpage>102</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1111/j.1741-6612.2011.00546.x</pub-id>
+<pub-id pub-id-type="pmid">22676169</pub-id></mixed-citation></ref><ref id="R16"><label>16. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bajorek</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name>
+<surname>Magin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hilmer</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Krass</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>A cluster-randomized controlled trial of a computerized antithrombotic risk assessment tool to optimize stroke prevention in general practice: a study protocol.</article-title>
+<source>BMC Health Serv Res</source>
+<year>2014</year>;<volume>14</volume>:<fpage>55</fpage>
+<pub-id pub-id-type="pmid">24507462</pub-id></mixed-citation></ref><ref id="R17"><label>17. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bajorek</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name>
+<surname>Lemay</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Magin</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Krass</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Armour</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Preparing pharmacists to deliver a targeted service in hypertension management: evaluation of an interprofessional training program.</article-title>
+<source>BMC Med Educ</source>
+<year>2015</year>;<volume>15</volume>(<issue>1</issue>):<fpage>157</fpage>. <pub-id pub-id-type="doi">10.1186/s12909-015-0434-y</pub-id>
+<pub-id pub-id-type="pmid">26415874</pub-id></mixed-citation></ref><ref id="R18"><label>18. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dolan</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Modeling valuations for EuroQol health states.</article-title>
+<source>Med Care</source>
+<year>1997</year>;<volume>35</volume>(<issue>11</issue>):<fpage>1095</fpage>&#x02013;<lpage>108</lpage>. <pub-id pub-id-type="doi">10.1097/00005650-199711000-00002</pub-id>
+<pub-id pub-id-type="pmid">9366889</pub-id></mixed-citation></ref><ref id="R19"><label>19. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kerry</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Bland</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>The intracluster correlation coefficient in cluster randomisation.</article-title>
+<source>BMJ</source>
+<year>1998</year>;<volume>316</volume>(<issue>7142</issue>):<fpage>1455</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1136/bmj.316.7142.1455</pub-id>
+<pub-id pub-id-type="pmid">9572764</pub-id></mixed-citation></ref><ref id="R20"><label>20. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kerry</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Bland</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Sample size in cluster randomisation.</article-title>
+<source>BMJ</source>
+<year>1998</year>;<volume>316</volume>(<issue>7130</issue>):<fpage>549</fpage>. <pub-id pub-id-type="doi">10.1136/bmj.316.7130.549</pub-id>
+<pub-id pub-id-type="pmid">9501723</pub-id></mixed-citation></ref><ref id="R21"><label>21. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Goodman</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Posner</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Parekh</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Koh</surname>
+<given-names>HK</given-names>
+</string-name>. <article-title>Defining and measuring chronic conditions: imperatives for research, policy, program, and practice.</article-title>
+<source>Prev Chronic Dis</source>
+<year>2013</year>;<volume>10</volume>:<fpage>E66</fpage>. <pub-id pub-id-type="doi">10.5888/pcd10.120239</pub-id>
+<pub-id pub-id-type="pmid">23618546</pub-id></mixed-citation></ref><ref id="R22"><label>22. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Altman</surname>
+<given-names>D</given-names>
+</string-name>. Practical statistics for medical research. London (UK): Chapman and Hall; <year>1991</year>.</mixed-citation></ref><ref id="R23"><label>23. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Cohen</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>A coefficient of agreement for nominal scales.</article-title>
+<source>Educ Psychol Meas</source>
+<year>1960</year>;<volume>20</volume>(<issue>1</issue>):<fpage>37</fpage>&#x02013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1177/001316446002000104</pub-id>
+</mixed-citation></ref><ref id="R24"><label>24. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Fleiss</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Levin</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Paik</surname>
+<given-names>M</given-names>
+</string-name>. Statistical methods for rates and proportions. 3rd edition. Hoboken (NJ): John Wiley &#x00026; Sons; <year>2003</year>.</mixed-citation></ref><ref id="R25"><label>25. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gage</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Waterman</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Shannon</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Boechler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rich</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Radford</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Validation of clinical classification schemes for predicting stroke: results from the National Registry of Atrial Fibrillation.</article-title>
+<source>JAMA</source>
+<year>2001</year>;<volume>285</volume>(<issue>22</issue>):<fpage>2864</fpage>&#x02013;<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1001/jama.285.22.2864</pub-id>
+<pub-id pub-id-type="pmid">11401607</pub-id></mixed-citation></ref><ref id="R26"><label>26. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gage</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Milligan</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name>
+<surname>Waterman</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Culverhouse</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rich</surname>
+<given-names>MW</given-names>
+</string-name>, <etal/>
+<article-title>Clinical classification schemes for predicting hemorrhage: results from the National Registry of Atrial Fibrillation (NRAF).</article-title>
+<source>Am Heart J</source>
+<year>2006</year>;<volume>151</volume>(<issue>3</issue>):<fpage>713</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.ahj.2005.04.017</pub-id>
+<pub-id pub-id-type="pmid">16504638</pub-id></mixed-citation></ref><ref id="R27"><label>27. </label><mixed-citation publication-type="web">
+<collab>Therapeutic Goods Administration (TGA)</collab>. Department of Health &#x02014; Australian Government. Medicines safety update: dabigatran (Pradaxa) and the risk of bleeding. <year>2011</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.tga.gov.au/alert/dabigatran-pradaxa-and-risk-bleeding-information-health-professionals">https://www.tga.gov.au/alert/dabigatran-pradaxa-and-risk-bleeding-information-health-professionals</ext-link>. Accessed June 15, 2016.</mixed-citation></ref><ref id="R28"><label>28. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Harrington</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Armstrong</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name>
+<surname>Nolan</surname>
+<given-names>PE</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Malone</surname>
+<given-names>DC</given-names>
+</string-name>. <article-title>Cost-effectiveness of apixaban, dabigatran, rivaroxaban, and warfarin for stroke prevention in atrial fibrillation.</article-title>
+<source>Stroke</source>
+<year>2013</year>;<volume>44</volume>(<issue>6</issue>):<fpage>1676</fpage>&#x02013;<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.111.000402</pub-id>
+<pub-id pub-id-type="pmid">23549134</pub-id></mixed-citation></ref><ref id="R29"><label>29. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sholzberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gomes</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Juurlink</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Mamdani</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Laupacis</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The influence of socioeconomic status on selection of anticoagulation for atrial fibrillation.</article-title>
+<source>PLoS One</source>
+<year>2016</year>;<volume>11</volume>(<issue>2</issue>):<fpage>e0149142</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0149142</pub-id>
+<pub-id pub-id-type="pmid">26914450</pub-id></mixed-citation></ref><ref id="R30"><label>30. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Makhija</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Wigle</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Cassivi</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Nichols</surname>
+<given-names>FC</given-names>
+<suffix>3d</suffix>
+</string-name>, <etal/>
+<article-title>Routine anticoagulation is not indicated for postoperative general thoracic surgical patients with new-onset atrial fibrillation.</article-title>
+<source>Ann Thorac Surg</source>
+<year>2011</year>;<volume>92</volume>(<issue>2</issue>):<fpage>421</fpage>&#x02013;<lpage>6, discussion 426&#x02013;7</lpage>. <pub-id pub-id-type="doi">10.1016/j.athoracsur.2011.04.066</pub-id>
+<pub-id pub-id-type="pmid">21801903</pub-id></mixed-citation></ref><ref id="R31"><label>31. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Attia</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Pearce</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>The use, misuse and abuse of dabigatran.</article-title>
+<source>Med J Aust</source>
+<year>2013</year>;<volume>198</volume>(<issue>7</issue>):<fpage>356</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.5694/mja12.10729</pub-id>
+<pub-id pub-id-type="pmid">23581945</pub-id></mixed-citation></ref></ref-list></back></article>

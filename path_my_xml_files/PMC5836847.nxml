@@ -1,0 +1,562 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Pharmacol Ther</journal-id><journal-id journal-id-type="iso-abbrev">Clin. Pharmacol. Ther</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1532-6535</journal-id><journal-id journal-id-type="publisher-id">CPT</journal-id><journal-title-group><journal-title>Clinical Pharmacology and Therapeutics</journal-title></journal-title-group><issn pub-type="ppub">0009-9236</issn><issn pub-type="epub">1532-6535</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28599060</article-id><article-id pub-id-type="pmc">5836847</article-id><article-id pub-id-type="doi">10.1002/cpt.759</article-id><article-id pub-id-type="publisher-id">CPT759</article-id><article-categories><subj-group subj-group-type="overline"><subject>Articles</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Evaluation of Pharmacokinetic and Pharmacodynamic Drug&#x02013;Drug Interaction of Sacubitril/Valsartan (LCZ696) and Sildenafil in Patients With Mild&#x02010;to&#x02010;Moderate Hypertension</article-title></title-group><contrib-group><contrib id="cpt759-cr-0001" contrib-type="author" corresp="yes"><name><surname>Hsiao</surname><given-names>H&#x02010;L</given-names></name><address><email>hsiu-ling.hsiao@novartis.com</email></address><xref ref-type="aff" rid="cpt759-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cpt759-cr-0002" contrib-type="author"><name><surname>Langenickel</surname><given-names>TH</given-names></name><xref ref-type="aff" rid="cpt759-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt759-cr-0003" contrib-type="author"><name><surname>Petruck</surname><given-names>J</given-names></name><xref ref-type="aff" rid="cpt759-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cpt759-cr-0004" contrib-type="author"><name><surname>Kode</surname><given-names>K</given-names></name><xref ref-type="aff" rid="cpt759-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cpt759-cr-0005" contrib-type="author"><name><surname>Ayalasomayajula</surname><given-names>S</given-names></name><xref ref-type="aff" rid="cpt759-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cpt759-cr-0006" contrib-type="author"><name><surname>Schuehly</surname><given-names>U</given-names></name><xref ref-type="aff" rid="cpt759-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt759-cr-0007" contrib-type="author"><name><surname>Greeley</surname><given-names>M</given-names></name><xref ref-type="aff" rid="cpt759-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cpt759-cr-0008" contrib-type="author"><name><surname>Pal</surname><given-names>P</given-names></name><xref ref-type="aff" rid="cpt759-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cpt759-cr-0009" contrib-type="author"><name><surname>Zhou</surname><given-names>W</given-names></name><xref ref-type="aff" rid="cpt759-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cpt759-cr-0010" contrib-type="author"><name><surname>Prescott</surname><given-names>MF</given-names></name><xref ref-type="aff" rid="cpt759-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cpt759-cr-0011" contrib-type="author"><name><surname>Sunkara</surname><given-names>G</given-names></name><xref ref-type="aff" rid="cpt759-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cpt759-cr-0012" contrib-type="author"><name><surname>Rajman</surname><given-names>I</given-names></name><xref ref-type="aff" rid="cpt759-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="cpt759-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Translational Medicine, Drug Metabolism and Pharmacokinetics</named-content>
+<institution>Novartis Institutes for BioMedical Research (NIBR)</institution>
+<named-content content-type="city">East Hanover</named-content>
+<named-content content-type="country-part">New Jersey</named-content>
+<country country="US">USA</country>
+</aff><aff id="cpt759-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Translational Medicine, Clinical Pharmacology and Profiling</named-content>
+<institution>Novartis Institutes for BioMedical Research (NIBR)</institution>
+<named-content content-type="city">Basel</named-content>
+<country country="CH">Switzerland</country>
+</aff><aff id="cpt759-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Translational Medicine, Clinical Sciences and Innovation</named-content>
+<institution>Novartis Institutes for BioMedical Research (NIBR)</institution>
+<named-content content-type="city">Cambridge</named-content>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="cpt759-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Biostatistical Sciences</named-content>
+<institution>Novartis Healthcare Pvt. Ltd.</institution>
+<named-content content-type="city">Hyderabad</named-content>
+<country country="IN">India</country>
+</aff><aff id="cpt759-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">GlobalClinical Development</named-content>
+<institution>Novartis Pharmaceuticals Corp.</institution>
+<named-content content-type="city">East Hanover</named-content>
+<named-content content-type="country-part">New Jersey</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence: H&#x02010;Ling Hsiao (<email>hsiu-ling.hsiao@novartis.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>11</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>03</day><month>11</month><year>2017</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>103</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/cpt.v103.3</issue-id><issue-title>Breaking Down Barriers to Effective Patient Care</issue-title><fpage>468</fpage><lpage>476</lpage><history><date date-type="received"><day>11</day><month>8</month><year>2016</year></date><date date-type="rev-recd"><day>19</day><month>5</month><year>2017</year></date><date date-type="accepted"><day>31</day><month>5</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 American Society for Clinical Pharmacology and Therapeutics <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors Clinical Pharmacology &#x00026; Therapeutics published by Wiley Periodicals, Inc. on behalf of American Society for Clinical Pharmacology and Therapeutics</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:CPT-103-468.pdf"/><abstract><p>Sacubitril/valsartan (LCZ696) is indicated for the treatment of patients with heart failure and reduced ejection fraction (HFrEF). Since patients with HFrEF may receive sacubitril/valsartan and sildenafil, both increasing cyclic guanosine monophosphate, the present study evaluated the pharmacokinetic and pharmacodynamic drug interaction potential between sacubitril/valsartan and sildenafil. In this open&#x02010;label, three&#x02010;period, single sequence study, patients with mild&#x02010;to&#x02010;moderate hypertension (153.8 &#x000b1; 8.2 mmHg mean systolic blood pressure (SBP)) received a single dose of sildenafil 50 mg, sacubitril/valsartan 400 mg once daily for 5 days, and sacubitril/valsartan and sildenafil coadministration. When coadministered with sildenafil, the AUC and C<sub>max</sub> of valsartan decreased by 29% and 39%, respectively. Coadministration of sacubitril/valsartan and sildenafil resulted in a greater decrease in BP (&#x02013;5/&#x02013;4/&#x02013;4 mmHg mean ambulatory SBP/DBP/MAP (mean arterial pressure)) than with sacubitril/valsartan alone. Both treatments were generally safe and well tolerated in this study; however, the additional BP reduction suggests that sildenafil should be administered cautiously in patients receiving sacubitril/valsartan. Unique identifier: NCT01601470.</p></abstract><funding-group><award-group><funding-source>Novartis Pharma AG, Basel, Switzerland
+</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="9"/><word-count count="5702"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cpt759</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.2.2 mode:remove_FC converted:05.03.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>
+<boxed-text position="anchor" content-type="box" orientation="portrait"><caption><title>Study Highlights</title></caption><sec id="cpt759-sec-0016"><p>
+<bold>WHAT IS THE CURRENT KNOWLEDGE ON THE TOPIC?</bold>
+</p><p>&#x02611; Sacubitril/valsartan is an angiotensin receptor neprilysin inhibitor approved for treatment of heart failure with reduced ejection fraction. Neprilysin inhibition by sacubitril/valsartan increased levels of neprilysin substrates such as natriuretic peptides, and their second&#x02010;messenger cGMP. Sildenafil, a selective phosphodiesetarse&#x02010;5 inhibitor indicated for treatment of erectile dysfunction, inhibits degradation of cGMP generated by stimulation of soluble guanylyl cyclase.</p><p>
+<bold>WHAT QUESTION DID THIS STUDY ADDRESS?</bold>
+</p><p>&#x02611; Given the prevalence of erectile dysfunction in patients with heart failure, sacubitril/valsartan and sildenafil may be coadministered. Sildenafil has the potential to enhance cGMP&#x02010;related effects driven by activation of natriuretic peptide receptors. This study therefore evaluated the potential for a pharmacokinetic/pharmacodynamic drug interaction between both drugs.</p><p>
+<bold>WHAT THIS STUDY ADDS TO OUR KNOWLEDGE</bold>
+</p><p>&#x02611; Coadministration of sacubitril/valsartan with sildenafil decreased the drug exposure to valsartan but did not impact the pharmacokinetics of sacubitril or sildenafil. Administration of sildenafil in patients receiving sacubitril/valsartan resulted in an additive BP reduction.</p><p>
+<bold>HOW THIS MIGHT CHANGE CLINICAL PHARMACOLOGY OR TRANSLATIONAL SCIENCE</bold>
+</p><p>&#x02611; Sildenafil administration to patients receiving sacubitril/valsartan should occur cautiously.</p></sec></boxed-text>
+</p><sec id="cpt759-sec-0001"><p>Sacubitril/valsartan (also known as LCZ696) is a first&#x02010;in&#x02010;class angiotensin receptor neprilysin inhibitor (ARNI) approved in many countries worldwide, including the USA and European Union, for the treatment of patients with heart failure and reduced ejection fraction (HFrEF). Sacubitril/valsartan is indicated to reduce the risk of cardiovascular death and hospitalization for heart failure in patients with heart failure (NYHA Class II&#x02013;IV) and reduced ejection fraction.<xref rid="cpt759-bib-0001" ref-type="ref">1</xref> Following oral administration, sacubitril/valsartan provides exposure to sacubitril, a prodrug which is further metabolized to the active neprilysin inhibitor sacubitrilat (LBQ657), and valsartan, an angiotensin receptor blocker (ARB).<xref rid="cpt759-bib-0002" ref-type="ref">2</xref>, <xref rid="cpt759-bib-0003" ref-type="ref">3</xref> Neprilysin inhibition by sacubitrilat increases natriuretic peptide (NP) levels, thereby promoting natriuresis, diuresis, vasodilation, and inhibition of maladaptive fibrotic remodeling via their second&#x02010;messenger cyclic guanosine monophosphate (cGMP).<xref rid="cpt759-bib-0003" ref-type="ref">3</xref>, <xref rid="cpt759-bib-0004" ref-type="ref">4</xref> Along with neprilysin inhibition, simultaneous blockade of the renin&#x02010;angiotensin&#x02010;aldosterone system (RAAS) by valsartan inhibits the deleterious cardiovascular and renal effects of sustained activation of angiotensin II and its effectors.<xref rid="cpt759-bib-0005" ref-type="ref">5</xref>, <xref rid="cpt759-bib-0006" ref-type="ref">6</xref>
+</p><p>Sildenafil, a potent and selective inhibitor of the cGMP&#x02010;degrading enzyme phosphodiesterase type 5 (PDE5), increases the concentration of cGMP.<xref rid="cpt759-bib-0007" ref-type="ref">7</xref> Sildenafil augments nitric oxide (NO)&#x02010;induced cGMP&#x02010;dependent vasodilation in the corpus cavernosum and is indicated for the treatment of erectile dysfunction (ED).<xref rid="cpt759-bib-0008" ref-type="ref">8</xref> Given the high prevalence of ED (&#x0223c;62%) in patients with heart failure, there is a possibility for coadministration of sildenafil and sacubitril/valsartan.<xref rid="cpt759-bib-0009" ref-type="ref">9</xref>
+</p><p>Sacubitril/valsartan analytes do not interact with drugs metabolized by liver cytochrome P450 (CYP) enzymes that constitute the major metabolic pathway for sildenafil.<xref rid="cpt759-bib-0010" ref-type="ref">10</xref>, <xref rid="cpt759-bib-0011" ref-type="ref">11</xref>, <xref rid="cpt759-bib-0012" ref-type="ref">12</xref> Although sacubitrilat is a weak inhibitor of CYP2C9 (IC<sub>50</sub>: 40 &#x003bc;M), no impact on the pharmacokinetics of the CYP2C9 substrate warfarin was observed when sacubitril/valsartan and warfarin were coadministered.<xref rid="cpt759-bib-0013" ref-type="ref">13</xref> Thus, a CYP&#x02010;mediated pharmacokinetic drug&#x02013;drug interaction between sacubitril/valsartan and sildenafil is not expected. However, both sacubitril/valsartan and sildenafil increase levels of the second&#x02010;messenger cGMP, which lowers blood pressure (BP) through its effects on basal vascular tone, indicating a potential for a pharmacodynamic interaction between sacubitril/valsartan and sildenafil with respect to the magnitude of BP reduction (<bold>Supplemental Figure S1</bold>).<xref rid="cpt759-bib-0004" ref-type="ref">4</xref>, <xref rid="cpt759-bib-0007" ref-type="ref">7</xref> Therefore, the present study was conducted to investigate the potential for pharmacokinetic and pharmacodynamic drug&#x02013;drug interactions between sacubitril/valsartan and sildenafil. The study was conducted in patients with mild&#x02010;to&#x02010;moderate hypertension to account for a potentially greater BP reduction following coadministration of sacubitril/valsartan and sildenafil compared with administration of sacubitril/valsartan or sildenafil alone.</p></sec><sec id="cpt759-sec-0002"><title>RESULTS</title><p>A total of 28 Caucasian male patients with a mean (&#x000b1;standard deviation) age of 51.8 (&#x000b1;8.5) years, a mean weight of 92.9 (&#x000b1;13.1) kg, and a mean body mass index of 28.5 (&#x000b1;4.0) kg/m<sup>2</sup> were enrolled in the study and included in the safety, pharmacokinetic, and pharmacodynamic analysis sets. One patient received concomitant medication for the treatment of hypertension starting at Day 2, which was not considered an adverse event (AE). The patient was discontinued from the study due to elevated SBP (175 mmHg) on Day 3, in accordance with protocol predefined discontinuation criteria, without receiving any dose of sacubitril/valsartan. In all, 54% of patients (<italic>n/N</italic> = 15/28) were receiving pretreatment with antihypertensive drugs at the time of enrollment in the study.</p><sec id="cpt759-sec-0003"><title>Effect of sacubitril/valsartan on pharmacokinetics of sildenafil and N&#x02010;desmethyl&#x02010;sildenafil</title><p>Plasma concentration&#x02013;time profiles of sildenafil and its primary active metabolite N&#x02010;desmethyl&#x02010;sildenafil following administration of sildenafil alone and coadministration of sildenafil and sacubitril/valsartan are shown in <bold>Figure</bold>
+<xref rid="cpt759-fig-0001" ref-type="fig">1</xref>
+<bold>a,b</bold>, respectively. Following single&#x02010;dose oral administration, plasma concentrations of sildenafil and N&#x02010;desmethyl&#x02010;sildenafil increased rapidly with a median time of 0.5 and 1 h, respectively, to reach maximum concentration (T<sub>max</sub>), which was not impacted by the coadministration of sacubitril/valsartan. The mean peak concentrations (C<sub>max</sub>) of sildenafil and N&#x02010;desmethyl&#x02010;sildenafil were 185 ng/mL and 95.1 ng/mL, respectively, when sildenafil was administered alone. Upon coadministration of sildenafil and sacubitril/valsartan, C<sub>max</sub> of sildenafil was unchanged, while that of N&#x02010;desmethyl&#x02010;sildenafil was decreased (84.6 ng/mL; <bold>Table</bold>
+<xref rid="cpt759-tbl-0001" ref-type="table-wrap">1</xref>). The total exposures (AUCs) of sildenafil and N&#x02010;desmethyl&#x02010;sildenafil were similar when sildenafil was administered alone or coadministered with sacubitril/valsartan. The terminal half&#x02010;life (T<sub>1/2</sub>) of sildenafil and N&#x02010;desmethyl&#x02010;sildenafil were also comparable when sildenafil was administered alone (3.7 &#x000b1; 1.0 and 5.3 &#x000b1; 1.6 h, respectively) or coadministered with sacubitril/valsartan(3.8 &#x000b1; 1.1 and 6.2 &#x000b1; 1.9 h, respectively). Statistical analysis of pharmacokinetic data suggested no significant impact of sacubitril/valsartan on C<sub>max</sub> and total exposure (AUC<sub>last</sub>) of sildenafil, and total exposure of N&#x02010;desmethyl&#x02010;sildenafil (<bold>Table</bold>
+<xref rid="cpt759-tbl-0001" ref-type="table-wrap">1</xref>). A decrease of 14% was observed for C<sub>max</sub> of N&#x02010;desmethyl&#x02010;sildenafil. The intrasubject variability (CV%) of AUC<sub>last</sub> and C<sub>max</sub> for sildenafil was 23.4% and 35.5%, respectively, and for N&#x02010;desmethyl&#x02010;sildenafil was 16.4% and 26.7%, respectively.</p><fig fig-type="Figure" xml:lang="en" id="cpt759-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Mean plasma concentration profile of sildenafil (<bold>a</bold>) and N&#x02010;desmethyl&#x02010;sildenafil (<bold>b</bold>) following administration of sildenafil alone and coadministration of sildenafil and sacubitril/valsartan.</p></caption><graphic id="nlm-graphic-1" xlink:href="CPT-103-468-g001"/></fig><table-wrap id="cpt759-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Summary of primary pharmacokinetic parameters for sildenafil analytes</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Analyte</th><th align="center" valign="bottom" rowspan="1" colspan="1">PK parameter</th><th align="center" valign="bottom" rowspan="1" colspan="1">Treatment</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean &#x000b1; SD</th><th align="center" valign="bottom" rowspan="1" colspan="1">CV (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Adjusted geometric mean<sup>b</sup>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">GMR<sup>b</sup> (90% CI)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Intrasubject CV (%)</th></tr></thead><tbody valign="top"><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="6" align="left" valign="top" colspan="1">Sildenafil</td><td rowspan="2" align="left" valign="top" colspan="1">
+AUC<sub>inf</sub>
+<break/>
+(h*ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">629 &#x000b1; 303</td><td align="char" char="." valign="top" rowspan="1" colspan="1">48.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">576</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">1.06 (0.96, 1.19)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">23.4</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sildenafil alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">601 &#x000b1; 271</td><td align="char" char="." valign="top" rowspan="1" colspan="1">45.0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">541</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="2" align="left" valign="top" colspan="1">
+AUC<sub>last</sub>
+<break/>
+(h*ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">612 &#x000b1; 297</td><td align="char" char="." valign="top" rowspan="1" colspan="1">48.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">559</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">1.06 (0.95, 1.18)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">23.4</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sildenafil alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">587 &#x000b1; 270</td><td align="char" char="." valign="top" rowspan="1" colspan="1">46.0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">526</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="2" align="left" valign="top" colspan="1">
+C<sub>max</sub>
+<break/>
+(ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">189 &#x000b1; 99.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">52.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">168</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">1.02 (0.87, 1.19)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">35.5</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sildenafil alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">185 &#x000b1; 88.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">47.8</td><td align="char" char="." valign="top" rowspan="1" colspan="1">165</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="6" align="left" valign="top" colspan="1">N&#x02010;desmethyl&#x02010;sildenafil</td><td rowspan="2" align="left" valign="top" colspan="1">
+AUC<sub>inf</sub>
+<break/>
+(h*ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil<sup>a</sup>
+</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">325 &#x000b1; 143</td><td align="char" char="." valign="top" rowspan="1" colspan="1">43.9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">305</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">0.93 (0.86, 1.00)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">15.9</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sildenafil alone<sup>a</sup>
+</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">359 &#x000b1; 157</td><td align="char" char="." valign="top" rowspan="1" colspan="1">43.9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">327</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="2" align="left" valign="top" colspan="1">
+AUC<sub>last</sub>
+<break/>
+(h*ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">305 &#x000b1; 133</td><td align="char" char="." valign="top" rowspan="1" colspan="1">43.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">278</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">0.94 (0.87, 1.01)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">16.4</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sildenafil alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">331 &#x000b1; 152</td><td align="char" char="." valign="top" rowspan="1" colspan="1">46.0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">297</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="2" align="left" valign="top" colspan="1">
+C<sub>max</sub>
+<break/>
+(ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">84.6 &#x000b1; 39.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">46.5</td><td align="center" valign="top" rowspan="1" colspan="1">75.9</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">0.86 (0.76, 0.97)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">26.7</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sildenafil alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">95.1 &#x000b1; 32.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">34.2</td><td align="center" valign="top" rowspan="1" colspan="1">88.4</td></tr></tbody></table><table-wrap-foot><fn id="cpt759-note-0001"><p>
+<italic>N</italic> = 27, unless otherwise mentioned.</p></fn><fn id="cpt759-note-0002"><p>AUCinf, area under plasma concentration&#x02010;time curve from time zero to infinity; AUClast, area under plasma concentration&#x02010;time curve from time zero to the last quantifiable concentration; CI, confidence interval; Cmax, maximum plasma concentration; CV%, coefficient of variation (%); GMR, geometric mean ratio; PK, pharmacokinetic; SD, standard deviation.</p></fn><fn id="cpt759-note-1001"><p>
+<italic>N</italic> = 26; <sup>b</sup>Back&#x02010;transformed from log scale. Log&#x02010;transformed pharmacokinetic parameter data were analyzed using a fixed effect model with subject and treatment (sacubitril/valsartan + sildenafil vs. sildenafil alone) as fixed effects.</p></fn></table-wrap-foot></table-wrap></sec><sec id="cpt759-sec-0004"><title>Effect of sildenafil on pharmacokinetics of sacubitril/valsartan analytes</title><p>Steady&#x02010;state plasma concentration&#x02013;time profiles of sacubitril/valsartan analytes (sacubitril, sacubitrilat, and valsartan) following oral administration of sacubitril/valsartan either alone or with sildenafil are presented in <bold>Figure</bold>
+<xref rid="cpt759-fig-0002" ref-type="fig">2</xref>
+<bold>a&#x02013;c</bold>, respectively. Following oral administration of sacubitril/valsartan, plasma concentrations of sacubitril, sacubitrilat, and valsartan increased rapidly and reached peak concentrations (T<sub>max</sub>) at 0.5, 2.0, and 2.0 h, respectively. The T<sub>max</sub> of sacubitril/valsartan analytes remained unchanged when sacubitril/valsartan was coadministered with sildenafil. Compared with sacubitril/valsartan alone, coadministration with sildenafil decreased the mean C<sub>max</sub> for sacubitril, sacubitrilat, and valsartan, with the greatest decrease observed for valsartan (<bold>Table</bold>
+<xref rid="cpt759-tbl-0002" ref-type="table-wrap">2</xref>). Following coadministration of sacubitril/valsartan and sildenafil, mean total exposure (AUC) increased for sacubitril and sacubitrilat, and decreased for valsartan (<bold>Table</bold>
+<xref rid="cpt759-tbl-0002" ref-type="table-wrap">2</xref>). As shown in <bold>Table</bold>
+<xref rid="cpt759-tbl-0002" ref-type="table-wrap">2</xref>, statistical analysis of the pharmacokinetic data indicated that coadministration of sacubitril/valsartan and sildenafil decreased the C<sub>max</sub> of sacubitril by 10%, and the AUC and C<sub>max</sub> of valsartan by 29% and 39%, respectively. The AUC of sacubitril and the pharmacokinetic exposure of sacubitrilat were unchanged. The intrasubject variability of AUC<sub>tau,ss</sub> and C<sub>max,ss</sub> was 12.2% and 45.3% for sacubitril, 3.75% and 13% for sacubitrilat, and 28% and 32.6% for valsartan, respectively.</p><fig fig-type="Figure" xml:lang="en" id="cpt759-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Mean plasma concentration profile of sacubitril/valsartan analytes sacubitril (<bold>a</bold>), sacubitrilat (<bold>b</bold>), and valsartan (<bold>c</bold>) following administration of sildenafil alone and coadministration of sildenafil and sacubitril/valsartan.</p></caption><graphic id="nlm-graphic-3" xlink:href="CPT-103-468-g002"/></fig><table-wrap id="cpt759-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Summary of primary pharmacokinetic parameters for sacubitril/valsartan analytes</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Analyte</th><th align="center" valign="bottom" rowspan="1" colspan="1">PK parameter</th><th align="center" valign="bottom" rowspan="1" colspan="1">Treatment</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean &#x000b1; SD</th><th align="center" valign="bottom" rowspan="1" colspan="1">CV (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Adjusted geometric mean<sup>a</sup>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">GMR<sup>a</sup> (90% CI)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Intrasubject CV (%)</th></tr></thead><tbody valign="top"><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" rowspan="4" valign="top" colspan="1">Sacubitril</td><td rowspan="2" align="left" valign="top" colspan="1">AUC<sub>tau,ss</sub> (h*ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">3700 &#x000b1; 912</td><td align="char" char="." valign="top" rowspan="1" colspan="1">24.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3592</td><td align="char" char="(" rowspan="2" valign="top" colspan="1">1.10 (1.04, 1.17)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">12.2</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">3400 &#x000b1; 1000</td><td align="char" char="." valign="top" rowspan="1" colspan="1">29.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3259</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="2" align="left" valign="top" colspan="1">
+C<sub>max,ss</sub>
+<break/>
+(ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">2310 &#x000b1; 1020</td><td align="char" char="." valign="top" rowspan="1" colspan="1">44.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2084</td><td align="char" char="(" rowspan="2" valign="top" colspan="1">0.90 (0.74, 1.10)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">45.3</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">2470 &#x000b1; 865</td><td align="char" char="." valign="top" rowspan="1" colspan="1">35.0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2314</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="4" align="left" valign="top" colspan="1">Sacubitrilat</td><td rowspan="2" align="left" valign="top" colspan="1">AUC<sub>tau,ss</sub> (h*ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">147000 &#x000b1; 31000</td><td align="char" char="." valign="top" rowspan="1" colspan="1">21.0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">144058</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">1.02 (1.01, 1.04)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">3.7</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">143000 &#x000b1; 26300</td><td align="char" char="." valign="top" rowspan="1" colspan="1">18.4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">140803</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="2" align="left" valign="top" colspan="1">
+C<sub>max,ss</sub>
+<break/>
+(ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">14000 &#x000b1; 2420</td><td align="char" char="." valign="top" rowspan="1" colspan="1">17.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">13812</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">0.94 (0.88, 0.99)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">13.0</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">14900 &#x000b1; 2250</td><td align="char" char="." valign="top" rowspan="1" colspan="1">15.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">14762</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="4" align="left" valign="top" colspan="1">Valsartan</td><td rowspan="2" align="left" valign="top" colspan="1">AUC<sub>tau,ss</sub> (h*ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">23600 &#x000b1; 9500</td><td align="char" char="." valign="top" rowspan="1" colspan="1">40.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">21692</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">0.71 (0.62, 0.80)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">28.0</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">33000 &#x000b1; 12400</td><td align="char" char="." valign="top" rowspan="1" colspan="1">37.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">30758</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="2" align="left" valign="top" colspan="1">
+C<sub>max,ss</sub>
+<break/>
+(ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan + Sildenafil</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">3350 &#x000b1; 1480</td><td align="char" char="." valign="top" rowspan="1" colspan="1">44.0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3044</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">0.61 (0.53, 0.71)</td><td align="char" char="." rowspan="2" valign="top" colspan="1">32.6</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Sacubitril/valsartan alone</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">5300 &#x000b1; 1750</td><td align="char" char="." valign="top" rowspan="1" colspan="1">33.0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">4994</td></tr></tbody></table><table-wrap-foot><fn id="cpt759-note-0003"><p>
+<italic>N</italic> = 27, unless otherwise mentioned. AUCtau,ss, area under plasma concentration&#x02010;time curve from time zero to the end of dosing interval &#x003c4; (tau) at steady state; CI, confidence interval; Cmax, maximum plasma concentration; Cmax,ss, maximum plasma concentration following drug administration at steady state; CV%, coefficient of variation (%); GMR, geometric mean ratio; PK, pharmacokinetic; SD, standard deviation.</p></fn><fn id="cpt759-note-1003"><p>Back&#x02010;transformed from log scale. Log&#x02010;transformed pharmacokinetic parameter data were analyzed using a fixed effect model with subject and treatment (sacubitril/valsartan + sildenafil vs. sildenafil alone) as fixed effects.</p></fn></table-wrap-foot></table-wrap></sec><sec id="cpt759-sec-0005"><title>Effect on ambulatory blood pressure measurements (ABPM)</title><p>The effects of sacubitril/valsartan, sildenafil, and their coadministration on BP were measured through monitoring of 24&#x02010;h ABPM at baseline, Day 1 (sildenafil single dose), Day 7 (sacubitril/valsartan steady state), and Day 8 (sacubitril/valsartan and sildenafil coadministration).</p><p>Single&#x02010;dose administration of 50 mg sildenafil resulted in a reduction from baseline of mean ABPM including ambulatory diastolic blood pressure (aDBP), ambulatory systolic blood pressure (aSBP), and ambulatory mean arterial pressure (aMAP) during the daytime, night time, and over a 24&#x02010;h period (<bold>Figure</bold>
+<xref rid="cpt759-fig-0003" ref-type="fig">3</xref>
+<bold>a&#x02013;c</bold>). Administration of sacubitril/valsartan for 5 days also resulted in reduction from baseline of mean aSBP/aDBP/aMAP during daytime, night time, and over a 24&#x02010;h period (<bold>Figure</bold>
+<xref rid="cpt759-fig-0003" ref-type="fig">3</xref>
+<bold>a&#x02013;c</bold>). The BP&#x02010;lowering effect of sildenafil was smaller than the BP reduction observed with sacubitril/valsartan.</p><fig fig-type="Figure" xml:lang="en" id="cpt759-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Change in mean ambulatory blood pressure measurements from baseline over treatment period. (<bold>a</bold>) Change in mean aSBP, (<bold>b</bold>) mean aDBP, and (<bold>c</bold>) mean aMAP measurements during sildenafil single dose treatment, sacubitril/valsartan steady state treatment, and coadministration of sacubitril/valsartan with sildenafil. aDBP, ambulatory diastolic blood pressure; aMAP, ambulatory mean arterial pressure; aSBP, ambulatory systolic blood pressure.</p></caption><graphic id="nlm-graphic-5" xlink:href="CPT-103-468-g003"/></fig><p>Coadministration of sacubitril/valsartan and sildenafil resulted in further reduction from baseline of mean aSBP/aDBP/aMAP during daytime, night time, and over a 24&#x02010;h period (<bold>Figure</bold>
+<xref rid="cpt759-fig-0003" ref-type="fig">3</xref>
+<bold>a&#x02013;c</bold>). Therefore, coadministration of sacubitril/valsartan and sildenafil was associated with a greater reduction in mean aSBP/aDBP/aMAP by approximately &#x02013;5.4/&#x02013;3.8/&#x02013;4.4 mmHg (24&#x02010;h ABPM) compared with administration of sacubitril/valsartan alone (<bold>Table</bold>
+<xref rid="cpt759-tbl-0003" ref-type="table-wrap">3</xref>). This additional BP reduction was more pronounced during daytime, but not statistically significant for night time measurements (<bold>Table</bold>
+<xref rid="cpt759-tbl-0003" ref-type="table-wrap">3</xref>).</p><table-wrap id="cpt759-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Statistical analysis of change in mean aSBP, aDBP, and aMAP from baseline over daytime, night time, and 24 h</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th rowspan="2" align="center" valign="bottom" colspan="1">Time after dose</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+Sildenafil vs.<break/>
+sacubitril/valsartan + sildenafil</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+Sacubitril/valsartan vs.<break/>
+sacubitril/valsartan + sildenafil</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Mean difference (95% CI)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> value</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+Mean difference<break/>
+(95% CI)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> value</th></tr></thead><tbody valign="top"><tr valign="top" style="border-bottom:solid 1px #000000"><td colspan="5" align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Mean aSBP (mm Hg)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">0&#x02010;24 h</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;17.0 (&#x02212;20.72, &#x02212;13.32)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;5.4 (&#x02212;9.08, &#x02212;1.68)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.005</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Day time</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;18.3 (&#x02212;21.96, &#x02212;14.56)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;6.4 (&#x02212;10.07, &#x02212;2.67)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Night time</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;16.9 (&#x02212;20.58, &#x02212;13.18)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;2.4 (&#x02212;6.06, 1.34)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.210</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td colspan="5" align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Mean aDBP (mm Hg)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">0&#x02010;24 h</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;9.8 (&#x02212;12.22, &#x02212;7.36)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;3.8 (&#x02212;6.19, &#x02212;1.34)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.003</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Day time</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;10.3 (&#x02212;12.72, &#x02212;7.86)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;4.3 (&#x02212;6.69, &#x02212;1.84)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Night time</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;10.5 (&#x02212;12.90, &#x02212;8.04)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;2.8 (&#x02212;5.24, &#x02212;0.38)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.024</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td colspan="5" align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Mean aMAP (mm Hg)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">0&#x02010;24 h</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;11.9 (&#x02212;14.63, &#x02212;9.20)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;4.4 (&#x02212;7.10, &#x02212;1.67)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.002</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Day time</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;12. 6 (&#x02212;15.28, &#x02212;9.84)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;5.1 (&#x02212;7.85, &#x02212;2.41)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Night time</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;12.6 (&#x02212;15.27, &#x02212;9.83)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">&#x02212;2.5 (&#x02212;5.25, 0.19)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.068</td></tr></tbody></table><table-wrap-foot><fn id="cpt759-note-0004"><p>The 24&#x02010;h ABPM data were analyzed using repeated measures analysis&#x02010;of&#x02010;covariance model with treatment, hours postdose, and treatment by hours postdose interaction as fixed factors, patients as random factor, and time&#x02010;matched baseline as covariate.</p></fn><fn id="cpt759-note-0005"><p>aSBP, ambulatory systolic blood pressure; aDBP, ambulatory diastolic blood pressure; aMAP, ambulatory mean arterial pressure; CI, confidence interval.</p></fn></table-wrap-foot></table-wrap></sec><sec id="cpt759-sec-0006"><title>Effect on urine biomarkers</title><p>Urine ANP (atrial natriuretic peptide) and cGMP excretion was measured to evaluate potential additive effects on biomarkers related to the mechanism of action of sacubitril/valsartan and sildenafil and are presented as geometric mean values obtained over a 24&#x02010;h urine collection period and normalized to the amount of creatinine excreted during the same urine collection period.</p><p>Compared with baseline, sildenafil administration did not result in increased urinary cGMP excretion (<bold>Figure</bold>
+<xref rid="cpt759-fig-0004" ref-type="fig">4</xref>
+<bold>a</bold>). However, administration of sacubitril/valsartan resulted in increased urinary cGMP excretion compared with baseline following its first dose and at steady state (<bold>Figure</bold>
+<xref rid="cpt759-fig-0004" ref-type="fig">4</xref>
+<bold>a</bold>). Coadministration of sacubitril/valsartan and sildenafil did not result in any further increase in urinary cGMP excretion compared with cGMP excretion following administration of sacubitril/valsartan at steady state (<bold>Figure</bold>
+<xref rid="cpt759-fig-0004" ref-type="fig">4</xref>
+<bold>a</bold>).</p><fig fig-type="Figure" xml:lang="en" id="cpt759-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Change in geometric mean (95% CI) of biomarkers over various treatment periods. Change in creatinine&#x02010;indexed urine cGMP (<bold>a</bold>) and urine ANP (<bold>b</bold>) over 24&#x02010;h time period during sildenafil single dose, sacubitril/valsartan steady state treatment, and coadministration of sacubitril/valsartan and sildenafil. ANP, atrial natriuretic peptide; cGMP, cyclic guanosine monophosphate; CI, confidence interval.</p></caption><graphic id="nlm-graphic-7" xlink:href="CPT-103-468-g004"/></fig><p>No relevant increase in urinary ANP excretion was observed following administration of sildenafil compared with baseline (<bold>Figure</bold>
+<xref rid="cpt759-fig-0004" ref-type="fig">4</xref>
+<bold>b</bold>). Following administration of the first dose of sacubitril/valsartan and at steady state of sacubitril/valsartan, there were notable increases in urine ANP compared with baseline (<bold>Figure</bold>
+<xref rid="cpt759-fig-0004" ref-type="fig">4</xref>
+<bold>b</bold>). Coadministration of sildenafil and sacubitril/valsartan did not result in any further increase in urinary ANP excretion compared with administration of sacubitril/valsartan alone (<bold>Figure</bold>
+<xref rid="cpt759-fig-0004" ref-type="fig">4</xref>
+<bold>b</bold>).</p></sec><sec id="cpt759-sec-0007"><title>Safety results</title><p>Administration of single&#x02010;dose sildenafil 50 mg, sacubitril/valsartan 400 mg once daily (q.d.), and coadministration of sacubitril/valsartan and sildenafil was generally safe and well&#x02010;tolerated in this study. There were no deaths, serious adverse events (SAEs), or AEs leading to study discontinuation. A total of 33 AEs were reported in 17 (60.7%) patients during the study. The number of AEs was comparable across treatment periods. The most commonly reported AEs were headache, dizziness, and diarrhea. Most of the AEs reported during the study were of mild intensity, while eight AEs reported in three patients were of moderate intensity. Overall, 11 patients reported AEs that were suspected to be related to the study drug. Most of these AEs were of mild intensity, with the exception of three that were of moderate intensity (somnolence, dizziness, and headache). The suspected treatment&#x02010;related AEs of moderate intensity were reported in the sildenafil single dose (1 AE), and sacubitril/valsartan and sildenafil coadministration (2 AEs) study periods. All AEs potentially related to the study drug were resolved by the end of the study, and no action was taken with respect to study conduct. The pattern of AEs was similar when sacubitril/valsartan was administered alone or coadministered with sildenafil. No clinically significant abnormalities in vital signs and electrocardiograms of patients were observed during the study. Routine clinical laboratory tests were performed during the study and found to be within the normal range in all patients (renal parameters are provided in <bold>Supplemental Table S1</bold>).</p></sec></sec><sec id="cpt759-sec-0008"><title>DISCUSSION</title><p>Sacubitril/valsartan has been recently approved for the treatment of patients with HFrEF. Sacubitril/valsartan exerts its effects by inhibiting neprilysin and blocking the angiotensin II receptor 1.<xref rid="cpt759-bib-0002" ref-type="ref">2</xref>, <xref rid="cpt759-bib-0003" ref-type="ref">3</xref> Neprilysin inhibition results in increased cGMP, the second&#x02010;messenger involved in mediating natriuresis, diuresis, vasodilation, and multiple other beneficial effects of the neprilysin substrates ANP, B&#x02010;type natriuretic peptide (BNP), and C&#x02010;type natriuretic peptide (CNP).<xref rid="cpt759-bib-0003" ref-type="ref">3</xref> Sildenafil is a widely prescribed medicine for the treatment of ED and pulmonary hypertension, and exerts its effects by increasing cGMP levels through inhibition of its degradation by PDE5.<xref rid="cpt759-bib-0007" ref-type="ref">7</xref>, <xref rid="cpt759-bib-0014" ref-type="ref">14</xref> The recommended dose of sildenafil for treatment of ED is 50 mg once daily but may be increased to 100 mg for improved efficacy, if tolerated.<xref rid="cpt759-bib-0015" ref-type="ref">15</xref> Since there is an overlap in the incidence of heart failure and ED, sildenafil may be coadministered with sacubitril/valsartan. Due to involvement of a second&#x02010;messenger, cGMP, common to the mechanism of action of both medicines, this study investigated the potential for pharmacokinetic and pharmacodynamic drug&#x02013;drug interaction when sacubitril/valsartan and sildenafil are coadministered. Since sacubitril/valsartan is administered daily but sildenafil is likely to be taken intermittently, the study was designed to investigate the potential for a pharmacokinetic and pharmacodynamic interaction between sildenafil single dose and steady&#x02010;state sacubitril/valsartan.</p><p>When coadministered with sacubitril/valsartan, the C<sub>max</sub> and AUC of sildenafil, and the AUC of N&#x02010;desmethyl&#x02010;sildenafil, were not significantly changed. However, the C<sub>max</sub> of N&#x02010;desmethyl&#x02010;sildenafil decreased by 14%. N&#x02010;desmethyl&#x02010;sildenafil is a pharmacologically active metabolite of sildenafil with similar terminal half&#x02010;life, has &#x0223c;50% potency and &#x0223c;40% plasma concentration of its parent compound, and accounts for 20% of its pharmacological effects. Given the high degree of observed variability (46%), the marginal decrease in C<sub>max</sub> of N&#x02010;desmethyl&#x02010;sildenafil is not considered clinically relevant.<xref rid="cpt759-bib-0016" ref-type="ref">16</xref>, <xref rid="cpt759-bib-0017" ref-type="ref">17</xref>
+</p><p>Coadministration with sildenafil had no significant impact on either C<sub>max</sub> or AUC of sacubitril and sacubitrilat, while a decrease in C<sub>max</sub> and AUC of valsartan by 39% and 29%, respectively, were observed. Valsartan exhibits a high degree of intersubject variability (44%) in pharmacokinetic parameters.<xref rid="cpt759-bib-0018" ref-type="ref">18</xref>, <xref rid="cpt759-bib-0019" ref-type="ref">19</xref>
+</p><p>Consistent with the mechanism of action, multiple dose administration of sacubitril/valsartan lowered ABPM compared with baseline. A similar effect on ABPM reduction, albeit to a lower extent, was observed with single&#x02010;dose administration of sildenafil. When sildenafil was coadministered with sacubitril/valsartan, there was an additional reduction in BP of approximately &#x02013;5/&#x02013;4/&#x02013;4 mmHg in 24&#x02010;h mean aSBP, aDBP, and aMAP, respectively, compared with administration of sacubitril/valsartan alone. This effect was limited to daytime measurements, which is consistent with the observed higher plasma concentrations of sacubitril/valsartan analytes following oral administration in the morning. It should be noted that peak concentrations of sacubitril/valsartan analytes as well as sildenafil and its metabolite were observed almost at the same time (T<sub>max</sub> range: 0.5&#x02013;4 h).</p><p>In healthy subjects and patients with hypertension, sildenafil's effect on ABPM reduction did not differ significantly between waking and sleeping hours, suggesting that daytime effects observed following a morning dose in the present study may be extrapolated to night time.<xref rid="cpt759-bib-0020" ref-type="ref">20</xref> The ABPM reduction following evening dosing of 100 mg sildenafil in the pooled population of healthy and hypertensive subjects, &#x02013;5.8/&#x02013;4.5/&#x02013;5.3 mmHg SBP/DPB/MAP, is consistent with the daytime ABPM reduction observed in the present study (&#x02013;6.4/&#x02013;4.3/&#x02013;5.1 mmHg) with coadministration of sildenafil and sacubitril/valsartan.<xref rid="cpt759-bib-0020" ref-type="ref">20</xref> Further, in clinical use, the plasma concentrations of sacubitril/valsartan are expected to be 2&#x02010;fold lower (morning or evening) than the concentrations observed in the current study due to use of twice the prescribed dose of sacubitril/valsartan (200 mg b.i.d.). Therefore, the evening dosing of sildenafil in patients treated with sacubitril/valsartan does not pose a relevant additional risk to patients beyond the risk identified in this study.</p><p>Consistent with its mechanism of action, sacubitril/valsartan administration increased urine cGMP levels following single and multiple&#x02010;dose administration, as reported in earlier studies.<xref rid="cpt759-bib-0002" ref-type="ref">2</xref>, <xref rid="cpt759-bib-0021" ref-type="ref">21</xref> However, urinary cGMP levels remained unchanged following sildenafil single&#x02010;dose administration. Regardless, administration of sildenafil was associated with the expected reduction in blood pressure. Urine concentrations of cGMP and ANP were comparable following coadministration of sacubitril/valsartan and sildenafil compared with sacubitril/valsartan alone. This was expected for ANP, as it is not impacted by the mechanism of action of sildenafil. The lack of a greater increase in cGMP following coadministration of sacubitril/valsartan and sildenafil is consistent with the lack of cGMP increase following administration of sildenafil alone. A potential explanation for this observation could be the different subcellular compartmentalization of cGMP. Following administration of sacubitril/valsartan, cGMP generated through stimulation of membrane&#x02010;bound natriuretic peptide receptors segregated at the plasma membrane as opposed to global cytosolic distribution of cGMP generated through inhibition of phosphodiesterase by sildenafil or stimulation of soluble guanylyl cyclase by NO.<xref rid="cpt759-bib-0022" ref-type="ref">22</xref>, <xref rid="cpt759-bib-0023" ref-type="ref">23</xref> Furthermore, the intracellular cGMP concentrations differ in different cell types relevant to vascular relaxation and cardiac function.<xref rid="cpt759-bib-0023" ref-type="ref">23</xref>, <xref rid="cpt759-bib-0024" ref-type="ref">24</xref> Natriuretic peptides activate different downstream signaling pathways, resulting in decreased intracellular calcium by regulating the activity of L&#x02010;type calcium channels and phospholamban, compared with NO, which decreases calcium sensitivity of myofilaments.<xref rid="cpt759-bib-0023" ref-type="ref">23</xref>, <xref rid="cpt759-bib-0025" ref-type="ref">25</xref>, <xref rid="cpt759-bib-0026" ref-type="ref">26</xref>, <xref rid="cpt759-bib-0027" ref-type="ref">27</xref> Thus, cGMP originating from natriuretic peptides and NO play distinct roles in the control of vascular relaxation, which is further modulated by the differential activity of PDE&#x02010;5 inhibitors in different vascular beds.<xref rid="cpt759-bib-0028" ref-type="ref">28</xref>, <xref rid="cpt759-bib-0029" ref-type="ref">29</xref> A common mechanistic basis for a pharmacodynamic drug interaction with respect to BP reduction observed in this study between sacubitril/valsartan and sildenafil is not likely to be observed with nitrates. This hypothesis may require further investigation.</p><p>Sacubitril/valsartan and sildenafil were well tolerated in this study when administered alone and in combination. Most AEs were of mild to moderate intensity and similarly distributed between the different treatment groups. The additional BP reduction observed when sacubitril/valsartan and sildenafil were coadministered did not lead to any clinically relevant safety findings. Safety results from this study are therefore consistent with the overall safety and tolerability profile of sacubitril/valsartan reported in previous studies.<xref rid="cpt759-bib-0005" ref-type="ref">5</xref>, <xref rid="cpt759-bib-0006" ref-type="ref">6</xref>
+</p><p>Thus, this study reports that coadministration of sildenafil and sacubitril/valsartan did not impact the pharmacokinetics of sacubitril or sildenafil, and decreased the exposure to valsartan. A greater decrease in ambulatory BP was observed in patients with mild&#x02010;to&#x02010;moderate hypertension when sacubitril/valsartan was coadministered with sildenafil compared with the administration of sacubitril/valsartan alone.</p><p>The interaction between sacubitril/valsartan and sildenafil was not investigated in patients with HFrEF, as the washout of other proven life&#x02010;saving concomitant medications was not justifiable. However, a two&#x02010;way crossover study with 50 mg sildenafil administered to patients with HFrEF resulted in increased cardiac output resulting from a decrease in peripheral vascular resistance, aortic stiffness, and peripheral wave.<xref rid="cpt759-bib-0030" ref-type="ref">30</xref> Sildenafil administered to patients with HFrEF was safe and well tolerated, and observed BP reductions comparable to those observed in the present study.<xref rid="cpt759-bib-0030" ref-type="ref">30</xref> These results, consistent with previous studies, suggest that sildenafil is a suitable treatment for ED also in patients with HFrEF.<xref rid="cpt759-bib-0031" ref-type="ref">31</xref>, <xref rid="cpt759-bib-0032" ref-type="ref">32</xref> However, as indicated in the product label, initiation of sildenafil treatment or dose increase in patients with heart failure receiving treatment with sacubitril/valsartan should occur cautiously.</p></sec><sec id="cpt759-sec-0009"><title>METHODS</title><sec id="cpt759-sec-0010"><title>Study design and patients</title><p>The study was performed in accordance with Good Clinical Practice (GCP) guidelines and adhered to the principles of the Declaration of Helsinki. This single&#x02010;center study was conducted at Parexel International (Berlin, Germany) and approved by the local independent Ethics Committee (State Office of Health and Social Affairs, Berlin, Germany). All patients provided written informed consent prior to study participation.</p><p>This was an open&#x02010;label, three&#x02010;period, single sequence study in male patients with mild&#x02010;to&#x02010;moderate hypertension aged 18&#x02013;65 years. Patients received a single dose of sildenafil 50 mg on Day 1, sacubitril/valsartan 400 mg q.d. for 5 days on Days 3 to 7, and sacubitril/valsartan 400 mg coadministered with a single dose of sildenafil (50 mg) on Day 8 (<bold>Supplemental Figure S2</bold>). The effect of sildenafil on BP are transient and not clinically significant in both hypertensive and normotensive patients.<xref rid="cpt759-bib-0020" ref-type="ref">20</xref>, <xref rid="cpt759-bib-0033" ref-type="ref">33</xref> The BP&#x02010;lowering effect of sildenafil (at 40 mg and 80 mg doses) in healthy subjects lasted 5 h postdosing.<xref rid="cpt759-bib-0034" ref-type="ref">34</xref> Therefore, a 1&#x02010;day washout between periods 1 and 2 does allow for a 48&#x02010;h separation between first dose of sildenafil and sacubitril/valsartan, which is adequate to avoid a carryover effect with regard to BP reduction. Steady&#x02010;state levels of sacubitril/valsartan are achieved in 3 days with twice daily administration of sacubitril/valsartan 200 mg or 400 mg q.d. in healthy individuals.<xref rid="cpt759-bib-0013" ref-type="ref">13</xref>, <xref rid="cpt759-bib-0035" ref-type="ref">35</xref>
+</p><p>Untreated patients (either newly diagnosed or with a history of hypertension but not receiving any antihypertensive treatment for &#x02265;8 weeks prior to screening) with a mean SBP &#x02265;140 mmHg and &#x0003c;170 mmHg, or pretreated patients (receiving stable treatment with not more than two antihypertensive agents for &#x02265;8 weeks prior to screening) with a mean SBP &#x02264;160 mmHg at screening were enrolled.</p><p>The key exclusion criteria were use of antihypertensive prescription drugs, herbal supplements, and/or over&#x02010;the&#x02010;counter (OTC) medications and dietary supplements (including vitamins) within 2 weeks prior to initial dosing, severe hypertension (mean supine diastolic blood pressure (sDBP) &#x02265;100 mmHg and/or mean supine systolic blood pressure (sSBP) &#x02265;170 mmHg), or hypotension (mean sDBP &#x0003c;50 mmHg and/or mean sSBP &#x0003c;90 mmHg) at screening or at baseline. A 14&#x02010;day washout period was sufficient to eliminate the potential for additional drug interactions, other than those under investigation in this study, as it is longer than five half&#x02010;lives of all antihypertensive drugs used prior to screening.</p></sec><sec id="cpt759-sec-0011"><title>Pharmacokinetic assessments</title><p>Plasma concentrations of sildenafil and its metabolite N&#x02010;desmethyl&#x02010;sildenafil were measured following a single dose of sildenafil (Day 1) and coadministration of sildenafil and sacubitril/valsartan (Day 8). Plasma concentrations of sacubitril/valsartan analytes (sacubitril, sacubitrilat, and valsartan) were measured at steady state of sacubitril/valsartan (Day 7) and following coadministration of sacubitril/valsartan and sildenafil (Day 8). Additional predose samples were collected during sacubitril/valsartan administration (Days 3, 4, 5, and 6). A validated liquid chromatography, tandem mass spectroscopy (LC&#x02010;MS/MS) method was used for quantification of sildenafil, N&#x02010;desmethyl&#x02010;sildenafil, and sacubitril/valsartan analytes in plasma.<xref rid="cpt759-bib-0001" ref-type="ref">1</xref>, <xref rid="cpt759-bib-0036" ref-type="ref">36</xref> The lower limit of quantification values were 1.00 ng/mL for sildenafil, N&#x02010;desmethyl&#x02010;sildenafil, and sacubitril; 20.0 ng/mL for sacubitrilat; and 10.0 ng/mL for valsartan.<xref rid="cpt759-bib-0002" ref-type="ref">2</xref>, <xref rid="cpt759-bib-0016" ref-type="ref">16</xref>
+</p><p>The following pharmacokinetic parameters were determined using Phoenix (Build 6.2.0.495)/WinNonlin (6.2): area under plasma concentration&#x02013;time curve (AUC) from time zero to infinity (AUC<sub>inf</sub>) and to the last quantifiable concentration (AUC<sub>last</sub>), terminal half&#x02010;life (T<sub>1/2</sub>), observed maximum plasma concentration (C<sub>max</sub>), and time to reach maximum concentration (T<sub>max</sub>) for sildenafil and N&#x02010;desmethyl&#x02010;sildenafil. The pharmacokinetic parameters for sacubitril/valsartan analytes (sacubitril, sacubitrilat, and valsartan) were area under plasma concentration&#x02013;time curve from time zero to the end of dosing interval &#x003c4; (tau) at steady state (AUC<sub>tau,ss</sub>), observed maximum plasma concentration following drug administration at steady state (C<sub>max,ss</sub>), and time to reach C<sub>max,ss</sub> after drug administration in the dosing interval (T<sub>max,ss</sub>)</p></sec><sec id="cpt759-sec-0012"><title>Pharmacodynamic and biomarker assessments</title><p>Pharmacodynamic assessments, which comprised 24&#x02010;h ABPMs, including mean ambulatory diastolic blood pressure (aDBP), mean ambulatory systolic blood pressure (aSBP), and ambulatory mean arterial pressure (aMAP) were obtained every 30 min during daytime (6 <sc>am</sc> to 10 <sc>pm</sc>) and every 2 h during night time (10 <sc>pm</sc> to 6 <sc>am</sc>) prior to any drug treatment (baseline, Day &#x02013;1), following single dose of sildenafil administration (Day 1), steady state of sacubitril/valsartan (Day 7), and coadministration of sacubitril/valsartan and sildenafil (Day 8). Change in night time and daytime ABPM from baseline were calculated using respective baseline night time and daytime ABPM values during the three treatment periods. BP measurements were performed on the nondominant arm using a validated portable recording device and an appropriate cuff size.</p><p>For biomarkers (cGMP and ANP) and creatinine measurements, 24&#x02010;h urine samples were collected in two intervals (0 to 6 h and 6 to 24 h) prior to drug treatment (baseline, Day &#x02013;1), following single dose of sildenafil treatment (Day 1), single dose and steady state sacubitril/valsartan (Days 3 and 7), and following coadministration of sacubitril/valsartan and sildenafil (Day 8). cGMP and ANP were measured at SGS Cephac (Saint&#x02010;Benoit, France) by radioimmunoassay using commercial kits from Amersham International (Amerhsam, UK) and Izotop (Budapest, Hungary), respectively.<xref rid="cpt759-bib-0002" ref-type="ref">2</xref> Urine creatinine was analyzed at Clinical Reference Laboratory (CRL, Cambridgeshire, UK). Urinary cGMP and ANP levels were normalized to creatinine levels, and reported as creatinine&#x02010;indexed urine cGMP and creatinine&#x02010;indexed urine ANP. The lower and upper limit of quantification values were 17.4 and 926.0 nmol/L, respectively, for urine cGMP, and 36.1 and 231.2 pg/mL, respectively, for urine ANP measurements.</p></sec><sec id="cpt759-sec-0013"><title>Safety assessments</title><p>Safety assessments consisted of recording all AEs and SAEs with respect to their severity and relationship to the study drug, assessments of vital signs, physical examinations, hematology, blood chemistry, and urine laboratory assessments.</p></sec><sec id="cpt759-sec-0014"><title>Statistical analyses</title><p>Log&#x02010;transformed pharmacokinetic parameters of sildenafil, N&#x02010;desmethyl&#x02010;sildenafil, and sacubitril/valsartan analytes were analyzed using a fixed effects model with treatment and patient as fixed factors to study the pharmacokinetic interactions between sacubitril/valsartan analytes and sildenafil. The pharmacokinetic parameters derived following combination treatment were considered as test and those following monotherapy were considered as reference treatments for statistical evaluations. The estimated geometric mean (sacubitril/valsartan and sildenafil coadministration/single drug treatment) and corresponding 90% confidence interval (CI) of treatment difference were back&#x02010;transformed to obtain the geometric mean ratio (GMR) and 90% CI.</p><p>Descriptive statistics were provided for BP measurements, including ABPM (daytime, night time, and 24&#x02010;h mean), and urine biomarkers (cGMP and ANP). The 24&#x02010;h ABPM data were analyzed using repeated measures analysis&#x02010;of&#x02010;covariance model with treatment, hours postdose, and treatment by hours postdose interaction as fixed factors, patients as random factor, and time&#x02010;matched baseline as covariate. The area under the effect vs. time curve (AUC<sub>0&#x02010;24h</sub>) was calculated for cGMP. Test to reference (or baseline) ratios and CIs were calculated for cGMP, ANP, and ABPM.</p><p>Summary statistics were provided for all safety assessments of AEs by treatment and visit/time. The number and percentage of subjects with AEs were categorized by body system and treatment. Deviations from normal ranges were classified as abnormalities.</p></sec></sec><sec id="cpt759-sec-0021"><title>CONFLICT OF INTEREST</title><p>All authors are employees of Novartis and eligible to receive Novartis stocks or stock options.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supporting Information 1</p></caption><media xlink:href="CPT-103-468-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supporting Information 2</p></caption><media xlink:href="CPT-103-468-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supporting Information 3</p></caption><media xlink:href="CPT-103-468-s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cpt759-sec-0020"><title>ACKNOWLEDGMENTS</title><p>This study was funded by Novartis Pharma AG, Basel, Switzerland. The authors thank Dr. Sara Armani, MD, (Parexel International, Early Phase Unit, Berlin, Germany) for conducting the clinical trial. The authors thank Kaveri Sidhu and Sreedevi Boggarapu (Product Lifecycle Services, Novartis Healthcare, Hyderabad, India) for providing medical writing and editorial support.</p></ack><ack id="cpt759-sec-0022"><title>AUTHOR CONTRIBUTIONS</title><p>H.H., T.H.L., J.P., K.K., S.P.A., U.S., M.G., P.P., W.Z., M.F.P., G.S., and I.R. wrote the article H.H., T.H.L., J.P., K.K., S.P.A., U.S., M.G., P.P., W.Z., M.F.P., G.S., and I.R. designed the research; H.H., T.H.L., J.P., K.K., M.G., W.Z., and M.F.P. performed the research; K.K. and P.P. analyzed the data.</p></ack><ref-list content-type="cited-references"><ref id="cpt759-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cpt759-cit-0001">
+<string-name>
+<surname>McMurray</surname>, <given-names>J.J.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Angiotensin&#x02010;neprilysin inhibition versus enalapril in heart failure</article-title>. <source>N. Engl. J. Med.</source>
+<volume>371</volume>, <fpage>993</fpage>&#x02013;<lpage>1004</lpage> (<year>2014</year>).
+<pub-id pub-id-type="pmid">25176015</pub-id></mixed-citation></ref><ref id="cpt759-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cpt759-cit-0002">
+<string-name>
+<surname>Gu</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Pharmacokinetics and pharmacodynamics of LCZ696, a novel dual&#x02010;acting angiotensin receptor&#x02010;neprilysin inhibitor (ARNi)</article-title>. <source>J. Clin. Pharmacol.</source>
+<volume>50</volume>, <fpage>401</fpage>&#x02013;<lpage>414</lpage> (<year>2010</year>).
+<pub-id pub-id-type="pmid">19934029</pub-id></mixed-citation></ref><ref id="cpt759-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cpt759-cit-0003">
+<string-name>
+<surname>Mangiafico</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Costello&#x02010;Boerrigter</surname>, <given-names>L.C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Andersen</surname>, <given-names>I.A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Cataliotti</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Burnett</surname>, <given-names>J.C.</given-names>
+</string-name>
+<article-title>Neutral endopeptidase inhibition and the natriuretic peptide system: an evolving strategy in cardiovascular therapeutics</article-title>. <source>Eur. Heart J.</source>
+<volume>34</volume>, <fpage>886</fpage>&#x02013;<lpage>893</lpage> (<year>2013</year>).
+<pub-id pub-id-type="pmid">22942338</pub-id></mixed-citation></ref><ref id="cpt759-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cpt759-cit-0004">
+<string-name>
+<surname>von Lueder</surname>, <given-names>T.G.</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Angiotensin receptor neprilysin inhibitor LCZ696 attenuates cardiac remodelling and dysfunction after myocardial infarction by reducing cardiac fibrosis and hypertrophy</article-title>. <source>Circ. Heart Fail.</source>
+<volume>8</volume>, <fpage>71</fpage>&#x02013;<lpage>78</lpage> (<year>2015</year>).
+<pub-id pub-id-type="pmid">25362207</pub-id></mixed-citation></ref><ref id="cpt759-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cpt759-cit-0005">
+<string-name>
+<surname>Solomon</surname>, <given-names>S.D.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Prospective comparison of ARNI with ARB on Management Of heart failUre with preserved ejectioN fracTion (PARAMOUNT) Investigators. The angiotensin receptor neprilysin inhibitor LCZ696 in heart failure with preserved ejection fraction: a phase 2 double&#x02010;blind randomised controlled trial</article-title>. <source>Lancet</source>
+<volume>380</volume>, <fpage>1387</fpage>&#x02013;<lpage>1395</lpage> (<year>2012</year>).
+<pub-id pub-id-type="pmid">22932717</pub-id></mixed-citation></ref><ref id="cpt759-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cpt759-cit-0006">
+<string-name>
+<surname>Segura</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Salazar</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Ruilope</surname>, <given-names>L.M.</given-names>
+</string-name>
+<article-title>Dual neurohormonal intervention in CV disease: angiotensin receptor and neprilysin inhibition</article-title>. <source>Expert Opin. Investig. Drugs</source>
+<volume>22</volume>, <fpage>915</fpage>&#x02013;<lpage>925</lpage> (<year>2013</year>).
+</mixed-citation></ref><ref id="cpt759-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cpt759-cit-0007">
+<string-name>
+<surname>Boolell</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Sildenafil: an orally active type 5 cyclic GMP&#x02010;specific phosphodiesterase inhibitor for the treatment of penile erectile dysfunction</article-title>. <source>Int. J. Impot. Res.</source>
+<volume>8</volume>, <fpage>47</fpage>&#x02013;<lpage>52</lpage> (<year>1996</year>).
+<pub-id pub-id-type="pmid">8858389</pub-id></mixed-citation></ref><ref id="cpt759-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cpt759-cit-0008">
+<string-name>
+<surname>Ballard</surname>, <given-names>S.A.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>In vitro profile of UK&#x02010;92,480, an inhibitor of cyclic GMP specific phosphodiesterase 5 for the treatment of male erectile dysfunction</article-title>. <source>J. Urol.</source>
+<volume>155</volume>, <fpage>676A</fpage> (<year>1996</year>).
+</mixed-citation></ref><ref id="cpt759-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cpt759-cit-0009">
+<string-name>
+<surname>Hebert</surname>, <given-names>K.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Prevalence of erectile dysfunction in systolic heart failure patients in a developing country: Tbilisi, Georgia, Eastern Europe</article-title>. <source>J. Sex. Med.</source>
+<volume>7</volume>, <fpage>3991</fpage>&#x02013;<lpage>3996</lpage> (<year>2010</year>).
+<pub-id pub-id-type="pmid">20701678</pub-id></mixed-citation></ref><ref id="cpt759-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cpt759-cit-0010">
+<string-name>
+<surname>Nakashima</surname>, <given-names>A.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Identification of cytochrome P450 forms involved in the 4&#x02010;hydroxylation of valsartan, a potent and specific angiotensin II receptor antagonist, in human liver microsomes</article-title>. <source>Xenobiotica</source>
+<volume>35</volume>, <fpage>589</fpage>&#x02013;<lpage>602</lpage> (<year>2005</year>).
+<pub-id pub-id-type="pmid">16192110</pub-id></mixed-citation></ref><ref id="cpt759-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cpt759-cit-0011">
+<string-name>
+<surname>Taavitsainen</surname>, <given-names>P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Kiukaanniemi</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Pelkonen</surname>, <given-names>O.</given-names>
+</string-name>
+<article-title>In vitro inhibition screening of human epatic P450 enzymes by five angiotensin II receptor antagonists</article-title>. <source>Eur. J. Clin. Pharmacol.</source>
+<volume>56</volume>, <fpage>135</fpage>&#x02013;<lpage>140</lpage> (<year>2000</year>).
+<pub-id pub-id-type="pmid">10877007</pub-id></mixed-citation></ref><ref id="cpt759-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cpt759-cit-0012">
+<string-name>
+<surname>Hyland</surname>, <given-names>R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Roe</surname>, <given-names>E.G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Jones</surname>, <given-names>B.C.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Smith</surname>, <given-names>D.A.</given-names>
+</string-name>
+<article-title>Identification of the cytochrome P450 enzymes involved in the N&#x02010;demethylation of sildenafil</article-title>. <source>Br. J. Clin. Pharmacol.</source>
+<volume>51</volume>, <fpage>239</fpage>&#x02013;<lpage>248</lpage> (<year>2001</year>).
+<pub-id pub-id-type="pmid">11298070</pub-id></mixed-citation></ref><ref id="cpt759-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cpt759-cit-0013">
+<string-name>
+<surname>Ayalasomayajula</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Assessment of drug interaction potential between LCZ696, an angiotensin receptor neprilysin inhibitor, and digoxin or warfarin</article-title>. <source>Clin. Pharmacol. Biopharm.</source>
+<volume>4</volume>, <fpage>147</fpage> (<year>2015</year>).
+</mixed-citation></ref><ref id="cpt759-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cpt759-cit-0014">
+<string-name>
+<surname>Gali&#x000e8;</surname>, <given-names>N.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Sildenafil Use in Pulmonary Arterial Hypertension (SUPER) Study Group. Sildenafil citrate therapy for pulmonary arterial hypertension</article-title>. <source>N. Engl. J. Med.</source>
+<volume>353</volume>, <fpage>2148</fpage>&#x02013;<lpage>2157</lpage> (<year>2005</year>). Erratum in: <italic>N. Engl. J. Med</italic>. 354, 2400&#x02013;2401 (2006).
+<pub-id pub-id-type="pmid">16291984</pub-id></mixed-citation></ref><ref id="cpt759-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cpt759-cit-0015">
+<string-name>
+<surname>Loran</surname>, <given-names>O.B.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Sildenafil citrate 100 mg starting dose in men with erectile dysfunction in an international, double&#x02010;blind, placebo&#x02010;controlled study: effect on the sexual experience and reducing feelings of anxiety about the next intercourse attempt</article-title>. <source>J. Sex. Med.</source>
+<volume>6</volume>, <fpage>2826</fpage>&#x02013;<lpage>2835</lpage> (<year>2009</year>).
+<pub-id pub-id-type="pmid">19817982</pub-id></mixed-citation></ref><ref id="cpt759-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cpt759-cit-0016">
+<string-name>
+<surname>Nichols</surname>, <given-names>D.J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Muirhead</surname>, <given-names>G.J.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Harness</surname>, <given-names>J.A.</given-names>
+</string-name>
+<article-title>Pharmacokinetics of sildenafil after single oral doses in healthy male subjects: absolute bioavailability, food effects and dose proportionality</article-title>. <source>Br. J. Clin. Pharmacol.</source>
+<volume>53</volume>, <fpage>5S</fpage>&#x02013;<lpage>12S</lpage> (<year>2002</year>).
+<pub-id pub-id-type="pmid">11879254</pub-id></mixed-citation></ref><ref id="cpt759-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cpt759-cit-0017">
+<string-name>
+<surname>Padma&#x02010;Nathan</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Giuliano</surname>, <given-names>F.</given-names>
+</string-name>
+<article-title>Oral drug therapy for erectile dysfunction</article-title>. <source>Urol. Clin. North Am.</source>
+<volume>28</volume>, <fpage>321</fpage>&#x02013;<lpage>334</lpage> (<year>2001</year>).
+<pub-id pub-id-type="pmid">11402584</pub-id></mixed-citation></ref><ref id="cpt759-bib-0018"><label>18</label><mixed-citation publication-type="miscellaneous" id="cpt759-cit-0018">
+<article-title>Diovan Prescribing Information</article-title>. &#x0003c;<ext-link ext-link-type="uri" xlink:href="https://www.pharma.us.novartis.com/product/pi/pdf/diovan.pdf">https://www.pharma.us.novartis.com/product/pi/pdf/diovan.pdf</ext-link>&#x0003e;. Accessed on 21 Jan <year>2016</year>.
+</mixed-citation></ref><ref id="cpt759-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cpt759-cit-0019">
+<string-name>
+<surname>Sunkara</surname>, <given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Reynolds</surname>, <given-names>C.V.</given-names>
+</string-name>, 
+<string-name>
+<surname>Pommier</surname>, <given-names>F.</given-names>
+</string-name>, 
+<string-name>
+<surname>Humbert</surname>, <given-names>H.</given-names>
+</string-name>, 
+<string-name>
+<surname>Yeh</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Prasad</surname>, <given-names>P.</given-names>
+</string-name>
+<article-title>Evaluation of a pharmacokinetic interaction between valsartan and simvastatin in healthy subjects</article-title>. <source>Curr. Med. Res. Opin.</source>
+<volume>23</volume>, <fpage>631</fpage>&#x02013;<lpage>640</lpage> (<year>2007</year>).
+<pub-id pub-id-type="pmid">17355744</pub-id></mixed-citation></ref><ref id="cpt759-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cpt759-cit-0020">
+<string-name>
+<surname>Vardi</surname>, <given-names>Y.</given-names>
+</string-name>, 
+<string-name>
+<surname>Klein</surname>, <given-names>L.</given-names>
+</string-name>, 
+<string-name>
+<surname>Nassar</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Sprecher</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Gruenwald</surname>, <given-names>I.</given-names>
+</string-name>
+<article-title>Effects of sildenafil citrate (viagra) on blood pressure in normotensive and hypertensive men</article-title>. <source>Urology</source>
+<volume>59</volume>, <fpage>747</fpage>&#x02013;<lpage>752</lpage> (<year>2002</year>).
+<pub-id pub-id-type="pmid">11992853</pub-id></mixed-citation></ref><ref id="cpt759-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cpt759-cit-0021">
+<string-name>
+<surname>Kobalava</surname>, <given-names>Z.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Pharmacodynamic and pharmacokinetic profiles of sacubitril/valsartan (LCZ696) in patients with heart failure and reduced ejection fraction</article-title>. <source>Cardiovasc. Ther.</source>
+<volume>34</volume>, <fpage>191</fpage>&#x02013;<lpage>198</lpage> (<year>2016</year>).
+<pub-id pub-id-type="pmid">26990595</pub-id></mixed-citation></ref><ref id="cpt759-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cpt759-cit-0022">
+<string-name>
+<surname>Nausch</surname>, <given-names>L.W.</given-names>
+</string-name>, 
+<string-name>
+<surname>Ledoux</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Bonev</surname>, <given-names>A.D.</given-names>
+</string-name>, 
+<string-name>
+<surname>Nelson</surname>, <given-names>M.T.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Dostmann</surname>, <given-names>W.R.</given-names>
+</string-name>
+<article-title>Differential patterning of cGMP in vascular smooth muscle cells revealed by single GFP&#x02010;linked biosensors</article-title>. <source>Proc. Natl. Acad. Sci. USA.</source>
+<volume>105</volume>, <fpage>365</fpage>&#x02013;<lpage>370</lpage> (<year>2008</year>).
+<pub-id pub-id-type="pmid">18165313</pub-id></mixed-citation></ref><ref id="cpt759-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cpt759-cit-0023">
+<string-name>
+<surname>Su</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Scholz</surname>, <given-names>P.M.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Weiss</surname>, <given-names>H.R.</given-names>
+</string-name>
+<article-title>Differential effects of cGMP produced by soluble and particulate guanylyl cyclase on mouse ventricular myocytes</article-title>. <source>Exp. Biol. Med. (Maywood)</source>
+<volume>230</volume>, <fpage>242</fpage>&#x02013;<lpage>250</lpage> (<year>2005</year>).
+<pub-id pub-id-type="pmid">15792945</pub-id></mixed-citation></ref><ref id="cpt759-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cpt759-cit-0024">
+<string-name>
+<surname>Rivero&#x02010;Vilches</surname>, <given-names>F.J.</given-names>
+</string-name>, 
+<string-name>
+<surname>de Frutos</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Saura</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Rodriguez&#x02010;Puyol</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Rodriguez&#x02010;Puyol</surname>, <given-names>M.</given-names>
+</string-name>
+<article-title>Differential relaxing responses to particulate or soluble guanylyl cyclase activation on endothelial cells: a mechanism dependent on PKG&#x02010;I alpha activation by NO/cGMP</article-title>. <source>Am. J. Physiol. Cell. Physiol.</source>
+<volume>285</volume>, <fpage>C891</fpage>&#x02013;<lpage>898</lpage> (<year>2003</year>).
+<pub-id pub-id-type="pmid">12814915</pub-id></mixed-citation></ref><ref id="cpt759-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cpt759-cit-0025">
+<string-name>
+<surname>Rho</surname>, <given-names>E.H.</given-names>
+</string-name>, 
+<string-name>
+<surname>Perkins</surname>, <given-names>W.J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Lorenz</surname>, <given-names>R.R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Warner</surname>, <given-names>D.O.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Jones</surname>, <given-names>K.A.</given-names>
+</string-name>
+<article-title>Differential effects of soluble and particulate guanylyl cyclase on Ca(2+) sensitivity in airway smooth muscle</article-title>. <source>J. Appl. Physiol. (1985)</source>
+<volume>92</volume>, <fpage>257</fpage>&#x02013;<lpage>263</lpage> (<year>2002</year>).
+<pub-id pub-id-type="pmid">11744668</pub-id></mixed-citation></ref><ref id="cpt759-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cpt759-cit-0026">
+<string-name>
+<surname>Hart</surname>, <given-names>C.Y.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hahn</surname>, <given-names>E.L.</given-names>
+</string-name>, 
+<string-name>
+<surname>Meyer</surname>, <given-names>D.M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Burnett</surname>, <given-names>J.C.</given-names>
+<suffix>Jr.</suffix>
+</string-name> &#x00026; 
+<string-name>
+<surname>Redfield</surname>, <given-names>M.M.</given-names>
+</string-name>
+<article-title>Differential effects of natriuretic peptides and NO on LV function in heart failure and normal dogs</article-title>. <source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<volume>281</volume>, <fpage>H146</fpage>&#x02013;<lpage>154</lpage> (<year>2001</year>).
+<pub-id pub-id-type="pmid">11406479</pub-id></mixed-citation></ref><ref id="cpt759-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cpt759-cit-0027">
+<string-name>
+<surname>Zolle</surname>, <given-names>O.</given-names>
+</string-name>, 
+<string-name>
+<surname>Lawrie</surname>, <given-names>A.M.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Simpson</surname>, <given-names>A.W.</given-names>
+</string-name>
+<article-title>Activation of the particulate and not the soluble guanylate cyclase leads to the inhibition of Ca2+ extrusion through localized elevation of cGMP</article-title>. <source>J. Biol. Chem.</source>
+<volume>275</volume>, <fpage>25892</fpage>&#x02013;<lpage>25899</lpage> (<year>2000</year>).
+<pub-id pub-id-type="pmid">10851228</pub-id></mixed-citation></ref><ref id="cpt759-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cpt759-cit-0028">
+<string-name>
+<surname>Patel</surname>, <given-names>M.D.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Katz</surname>, <given-names>S.D.</given-names>
+</string-name>
+<article-title>Phosphodiesterase 5 inhibition in chronic heart failure and pulmonary hypertension</article-title>. <source>Am. J. Cardiol.</source>
+<volume>96</volume>, <fpage>47M</fpage>&#x02013;<lpage>51M</lpage> (<year>2005</year>).
+</mixed-citation></ref><ref id="cpt759-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cpt759-cit-0029">
+<string-name>
+<surname>Michelakis</surname>, <given-names>E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Tymchak</surname>, <given-names>W.</given-names>
+</string-name>, 
+<string-name>
+<surname>Lien</surname>, <given-names>D.</given-names>
+</string-name>, 
+<string-name>
+<surname>Webster</surname>, <given-names>L.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hashimoto</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Archer</surname>, <given-names>S.</given-names>
+</string-name>
+<article-title>Oral sildenafil is an effective and specific pulmonary vasodilator in patients with pulmonary arterial hypertension: comparison with inhaled nitric oxide</article-title>. <source>Circulation</source>
+<volume>105</volume>, <fpage>2398</fpage>&#x02013;<lpage>2403</lpage> (<year>2002</year>).
+<pub-id pub-id-type="pmid">12021227</pub-id></mixed-citation></ref><ref id="cpt759-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cpt759-cit-0030">
+<string-name>
+<surname>Hirata</surname>, <given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Adji</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Vlachopoulos</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>O'Rourke</surname>, <given-names>M.F.</given-names>
+</string-name>
+<article-title>Effect of sildenafil on cardiac performance in patients with heart failure</article-title>. <source>Am. J. Cardiol.</source>
+<volume>96</volume>, <fpage>1436</fpage>&#x02013;<lpage>1440</lpage> (<year>2005</year>).
+<pub-id pub-id-type="pmid">16275194</pub-id></mixed-citation></ref><ref id="cpt759-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cpt759-cit-0031">
+<string-name>
+<surname>Webster</surname>, <given-names>L.J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Michelakis</surname>, <given-names>E.D.</given-names>
+</string-name>, 
+<string-name>
+<surname>Davis</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Archer</surname>, <given-names>S.L.</given-names>
+</string-name>
+<article-title>Use of sildenafil for safe improvement of erectile function and quality of life in men with New York Heart Association classes II and III congestive heart failure: a prospective, placebo&#x02010;controlled, double&#x02010;blind crossover trial</article-title>. <source>Arch. Intern. Med.</source>
+<volume>164</volume>, <fpage>514</fpage>&#x02013;<lpage>520</lpage> (<year>2004</year>).
+<pub-id pub-id-type="pmid">15006828</pub-id></mixed-citation></ref><ref id="cpt759-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cpt759-cit-0032">
+<string-name>
+<surname>Katz</surname>, <given-names>S.D.</given-names>
+</string-name>
+<article-title>Potential role of type 5 phosphodiesterase inhibition in the treatment of congestive heart failure</article-title>. <source>Congest. Heart Fail.</source>
+<volume>9</volume>, <fpage>9</fpage>&#x02013;<lpage>15</lpage> (<year>2003</year>).
+<pub-id pub-id-type="pmid">12556672</pub-id></mixed-citation></ref><ref id="cpt759-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cpt759-cit-0033">
+<string-name>
+<surname>Zusman</surname>, <given-names>R.M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Prisant</surname>, <given-names>L.M.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Brown</surname>, <given-names>M.J.</given-names>
+</string-name>
+<article-title>Effect of sildenafil citrate on blood pressure and heart rate in men with erectile dysfunction taking concomitant antihypertensive medication. Sildenafil Study Group</article-title>. <source>J. Hypertens.</source>
+<volume>18</volume>, <fpage>1865</fpage>&#x02013;<lpage>1869</lpage> (<year>2000</year>).
+<pub-id pub-id-type="pmid">11132612</pub-id></mixed-citation></ref><ref id="cpt759-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cpt759-cit-0034">
+<string-name>
+<surname>Jackson</surname>, <given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Benjamin</surname>, <given-names>N.</given-names>
+</string-name>, 
+<string-name>
+<surname>Jackson</surname>, <given-names>N.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Allen</surname>, <given-names>M.J.</given-names>
+</string-name>
+<article-title>Effects of sildenafil citrate on human hemodynamics</article-title>. <source>Am. J. Cardiol.</source>
+<volume>83</volume>, <fpage>13C</fpage>&#x02013;<lpage>20C</lpage> (<year>1999</year>).
+</mixed-citation></ref><ref id="cpt759-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cpt759-cit-0035">
+<string-name>
+<surname>Gan</surname>, <given-names>L.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Pharmacokinetic drug&#x02010;drug interaction assessment of LCZ696 (an angiotensin receptor neprilysin inhibitor) with omeprazole, metformin or levonorgestrel&#x02010;ethinyl estradiol in healthy subjects</article-title>. <source>Clin. Pharmacol. Drug Dev.</source>
+<volume>5</volume>, <fpage>27</fpage>&#x02013;<lpage>39</lpage> (<year>2016</year>).
+<pub-id pub-id-type="pmid">27119576</pub-id></mixed-citation></ref><ref id="cpt759-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cpt759-cit-0036">
+<string-name>
+<surname>Cooper</surname>, <given-names>J.D.</given-names>
+</string-name>, 
+<string-name>
+<surname>Muirhead</surname>, <given-names>D.C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Taylor</surname>, <given-names>J.E.</given-names>
+</string-name> &#x00026; 
+<string-name>
+<surname>Baker</surname>, <given-names>P.R.</given-names>
+</string-name>
+<article-title>Development of an assay for the simultaneous determination of sildenafil (Viagra) and its metabolite (UK&#x02010;103,320) using automated sequential trace enrichment of dialysates and high&#x02010;performance liquid chromatography</article-title>. <source>J. Chromatogr. B. Biomed. Sci. Appl.</source>
+<volume>701</volume>, <fpage>87</fpage>&#x02013;<lpage>95</lpage> (<year>1997</year>).
+<pub-id pub-id-type="pmid">9389342</pub-id></mixed-citation></ref></ref-list></back></article>

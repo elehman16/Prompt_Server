@@ -1,0 +1,761 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?properties manuscript?><front><journal-meta><journal-id journal-id-type="nlm-journal-id">9607835</journal-id><journal-id journal-id-type="pubmed-jr-id">20545</journal-id><journal-id journal-id-type="nlm-ta">Mol Psychiatry</journal-id><journal-id journal-id-type="iso-abbrev">Mol. Psychiatry</journal-id><journal-title-group><journal-title>Molecular psychiatry</journal-title></journal-title-group><issn pub-type="ppub">1359-4184</issn><issn pub-type="epub">1476-5578</issn></journal-meta><article-meta><article-id pub-id-type="pmid">27021821</article-id><article-id pub-id-type="pmc">5138152</article-id><article-id pub-id-type="doi">10.1038/mp.2016.25</article-id><article-id pub-id-type="manuscript">NIHMS758069</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Alcohol Affects Brain Functional Connectivity and its Coupling with
+Behavior: Greater Effects in Male Heavy Drinkers</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Shokri-Kojori</surname><given-names>Ehsan</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="A1">1</xref><xref rid="FN1" ref-type="author-notes">*</xref></contrib><contrib contrib-type="author"><name><surname>Tomasi</surname><given-names>Dardo</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Wiers</surname><given-names>Corinde E.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Gene-Jack</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Volkow</surname><given-names>Nora D.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref></contrib></contrib-group><aff id="A1">
+<label>1</label>National Institute on Alcohol Abuse and Alcoholism, National
+Institutes of Health, Bethesda, MD, USA</aff><aff id="A2">
+<label>2</label>National Institute on Drug Abuse, National Institutes of Health,
+Bethesda, MD, USA</aff><author-notes><corresp id="FN1"><label>*</label>To whom correspondence should be addressed: Ehsan Shokri
+Kojori, PhD, Laboratory of Neuroimaging, National Institute on Alcohol Abuse and
+Alcoholism, National Institutes of Health, 10 CENTER DR, RM B2L124, MSC 1013,
+BETHESDA, MD 20892-1013, Phone: 301-451-3020, Fax: 301-496-5568,
+<email>ehsan.shokrikojori@nih.gov</email></corresp></author-notes><pub-date pub-type="nihms-submitted"><day>25</day><month>2</month><year>2016</year></pub-date><pub-date pub-type="epub"><day>29</day><month>3</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2017</year></pub-date><pub-date pub-type="pmc-release"><day>24</day><month>7</month><year>2017</year></pub-date><volume>22</volume><issue>8</issue><fpage>1185</fpage><lpage>1195</lpage><!--elocation-id from pubmed: 10.1038/mp.2016.25--><permissions><license><license-p>Users may view, print, copy, and download text and data-mine the
+content in such documents, for the purposes of academic research, subject
+always to the full Conditions of use: <uri xlink:type="simple" xlink:href="http://www.nature.com/authors/editorial_policies/license.html#terms">http://www.nature.com/authors/editorial_policies/license.html#terms</uri></license-p></license></permissions><abstract><p id="P1">Acute and chronic alcohol exposure significantly affect behavior but the
+underlying neurobiological mechanisms are still poorly understood. Here we used
+functional connectivity density (FCD) mapping to study alcohol-related changes
+in resting brain activity and their association with behavior. Heavy drinkers
+(HD; N=16; 16 males) and normal controls (NM; N=24; 14 males)
+were tested after placebo and after acute alcohol administration. Group
+comparisons showed that NM had higher FCD in visual and prefrontal cortices,
+default-mode network regions, and thalamus, while HD had higher FCD in
+cerebellum. Acute alcohol significantly increased FCD within the thalamus,
+impaired cognitive and motor functions, and affected self-reports of mood/drug
+effects in both groups. Partial least squares regression showed alcohol-induced
+changes in mood/drug effects were associated with changes in thalamic FCD in
+both groups. Disruptions in motor function were associated with increases in
+cerebellar FCD in NM and thalamus FCD in HD. Alcohol-induced declines in
+cognitive performance were associated with connectivity increases in visual
+cortex and thalamus in NM, but in HD, increases in precuneus FCD were associated
+with improved cognitive performance. Acute alcohol reduced
+&#x0201c;neurocognitive coupling&#x0201d;, the association between behavioral
+performance and FCD (indexing brain activity), an effect that was accentuated in
+HD compared to NM. Findings suggest that reduced cortical connectivity in HD
+contribute to decline in cognitive abilities associated with heavy alcohol
+consumption, whereas increased cerebellar connectivity in HD may have
+compensatory effects on behavioral performance. The results reveal how drinking
+history alters the association between brain functional connectivity density and
+individual differences in behavioral performance.</p></abstract></article-meta></front><body><sec sec-type="intro" id="S1"><title>Introduction</title><p id="P2">Alcohol is the most widely used addictive substance worldwide. While it is
+debatable whether moderate drinking offers any health benefits,<sup><xref rid="R1" ref-type="bibr">1</xref></sup> the deleterious effects of excessive alcohol
+use on the brain and behavior are well recognized.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> There has been a challenge to characterize
+the effects of acute and chronic alcohol exposure on the association between resting
+brain activity and behavior. Studies measuring resting cerebral blood flow (CBF)
+during alcohol intoxication have shown CBF increases particularly within the frontal
+and temporal cortices, which in part reflect ethanol-induced
+vasodilatation.<sup><xref rid="R3" ref-type="bibr">3</xref>&#x02013;<xref rid="R10" ref-type="bibr">10</xref></sup> In contrast, studies measuring
+cerebral metabolic rate of glucose (CMRglc) during alcohol intoxication have shown
+reductions in glucose metabolism throughout the brain that were most pronounced in
+the visual cortex and cerebellum.<sup><xref rid="R11" ref-type="bibr">11</xref>&#x02013;<xref rid="R14" ref-type="bibr">14</xref></sup> The
+opposite effects of acute alcohol on CBF and CMRglc, on one hand reflect
+alcohol&#x02019;s vasoactive effects<sup><xref rid="R15" ref-type="bibr">15</xref></sup>, and on the other hand reflect the use of alternative energy
+sources for brain metabolism (e.g., alcohol&#x02019;s metabolite acetate).<sup><xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref></sup> Specifically, recent work has suggested that biphasic
+vasoactive properties of alcohol<sup><xref rid="R15" ref-type="bibr">15</xref></sup>
+may disrupt the coupling between neuronal activity and CBF.<sup><xref rid="R16" ref-type="bibr">16</xref></sup> In relation to the association between
+CMRglc and brain activity during intoxication, our work has suggested that
+alcohol-induced decreases in glucose metabolism are concurrent with brain-wide
+increases in acetate metabolism.<sup><xref rid="R17" ref-type="bibr">17</xref></sup>
+The acetate content in plasma increases during alcohol intoxication. Thus, we have
+interpreted alcohol-induced decreases in glucose metabolism to reflect the
+preference of glial cells for acetate as an energy source.<sup><xref rid="R18" ref-type="bibr">18</xref></sup> This effect appears to be accentuated in
+heavy alcohol drinkers and in alcoholics.<sup><xref rid="R11" ref-type="bibr">11</xref>, <xref rid="R13" ref-type="bibr">13</xref></sup> CBF and CMRglc
+measures seem to reveal a more consistent pattern for the effect of chronic drinking
+on the resting brain. Relative to light drinkers, heavy drinkers show lower resting
+CBF,<sup><xref rid="R19" ref-type="bibr">19</xref></sup> particularly within
+the frontal lobe,<sup><xref rid="R20" ref-type="bibr">20</xref></sup> and lower
+resting CMRglc, possibly due to higher acetate metabolism.<sup><xref rid="R13" ref-type="bibr">13</xref>, <xref rid="R21" ref-type="bibr">21</xref>, <xref rid="R22" ref-type="bibr">22</xref></sup> In summary, it is difficult to
+determine the extent to which effects of acute and chronic alcohol exposure on CBF
+and CMRglc reflect exclusive changes in neuronal activity.</p><p id="P3">Alternative measures of resting brain activity include fMRI resting-state
+functional connectivity, which estimates synchronous changes in blood oxygenation
+level between and within brain regions at rest.<sup><xref rid="R23" ref-type="bibr">23</xref></sup> Inter- and intra-regional resting-state fMRI connectivity
+reflect synchronous oscillations in neuronal activity<sup><xref rid="R24" ref-type="bibr">24</xref>&#x02013;<xref rid="R26" ref-type="bibr">26</xref></sup> that are largely insensitive to vasodilation,<sup><xref rid="R26" ref-type="bibr">26</xref></sup> and are also unlikely to be
+affected by brain-wide changes in metabolic supply. Moreover, prior research has
+shown that measures of resting state functional connectivity are sensitive to
+effects of acute and chronic alcohol exposure on the brain. Specifically, alcohol
+intoxication has been associated with increases in connectivity between the
+brainstem and somatosensory network, and within the visual network,<sup><xref rid="R27" ref-type="bibr">27</xref></sup> as well as time-varying changes in
+connectivity within the default mode network (DMN).<sup><xref rid="R28" ref-type="bibr">28</xref></sup> As for chronic exposures, the frequency of
+alcohol use has been associated with connectivity in the dorsal DMN,<sup><xref rid="R29" ref-type="bibr">29</xref></sup> and alcoholics show weaker within-
+(including the DMN) and between-network connectivity.<sup><xref rid="R30" ref-type="bibr">30</xref>, <xref rid="R31" ref-type="bibr">31</xref></sup></p><p id="P4">Up to now, fMRI resting-state research in alcohol and alcoholism has been
+mostly limited to pre-defined resting state networks or seed-voxel correlations.
+Recently, functional connectivity density (FCD) mapping has been proposed as a
+voxel-wise measure of resting state functional connectivity.<sup><xref rid="R32" ref-type="bibr">32</xref></sup> Specifically, this approach provides
+measures of local functional connectivity density (lFCD; size of the local cluster
+of correlated voxels) and global functional connectivity density (gFCD; the total
+number of correlated voxels) for each voxel. Studies in healthy controls have
+suggested that lFCD and gFCD account for up to 70% of glucose demand in the
+resting brain indicating that they serve as an index of brain activity at
+rest.<sup><xref rid="R33" ref-type="bibr">33</xref>, <xref rid="R34" ref-type="bibr">34</xref></sup> To mitigate confounds from CBF and CMRglc
+measures, our goal here was to use lFCD and gFCD as alternative measures to assess
+the effects of acute and chronic alcohol consumption on activity of the brain at
+rest. Specifically, lFCD and gFCD indices were compared in heavy drinkers and light
+drinkers in placebo and alcohol intoxication conditions.</p><p id="P5">We hypothesized that voxel-wise FCD analysis will show effects in regions
+that are most sensitive to acute or chronic alcohol effects such as the
+cerebellum,<sup><xref rid="R3" ref-type="bibr">3</xref>, <xref rid="R35" ref-type="bibr">35</xref></sup> thalamus,<sup><xref rid="R36" ref-type="bibr">36</xref></sup> frontal cortex,<sup><xref rid="R37" ref-type="bibr">37</xref></sup> and limbic system.<sup><xref rid="R38" ref-type="bibr">38</xref>, <xref rid="R39" ref-type="bibr">39</xref></sup>
+Since alcohol intoxication is associated with multiple behavioral domains,<sup><xref rid="R40" ref-type="bibr">40</xref>, <xref rid="R41" ref-type="bibr">41</xref></sup> here we investigated the association between brain regions
+showing significant alcohol-related changes in FCD and behavioral measures in three
+categories: mood/drug effects, motor, and cognitive functions. Specifically, we
+predicted that alcohol-induced changes in mood/drug effects would be concurrent with
+connectivity changes in thalamus and limbic brain regions showing FCD effects
+.<sup><xref rid="R42" ref-type="bibr">42</xref>, <xref rid="R43" ref-type="bibr">43</xref></sup> We predicted that alcohol-related motor
+effects (e.g., balance and coordination) would be concurrent with connectivity
+changes in cerebellar regions showing alcohol-related FCD effects.<sup><xref rid="R44" ref-type="bibr">44</xref>, <xref rid="R45" ref-type="bibr">45</xref></sup> For cognitive effects of alcohol, a recent meta-analysis
+reported that multiple cognitive domains<sup><xref rid="R46" ref-type="bibr">46</xref></sup> are affected in alcoholics including, executive functions
+which rely on prefrontal cortex (PFC),<sup><xref rid="R47" ref-type="bibr">47</xref></sup> and visuospatial abilities which rely on occipital and parietal
+regions.<sup><xref rid="R45" ref-type="bibr">45</xref></sup> Hence, we
+hypothesized that alcohol effects on cognitive performance would be associated with
+FCD effects in PFC<sup><xref rid="R48" ref-type="bibr">48</xref></sup> and occipital
+and parietal regions.<sup><xref rid="R49" ref-type="bibr">49</xref></sup> It has
+been increasingly recognized that the cerebellum also contributes to cognitive
+functions and that cerebellar damage contributes to cognitive deficits in
+alcoholics.<sup><xref rid="R50" ref-type="bibr">50</xref></sup> Accordingly,
+we hypothesized an association between FCD effects in cerebellum and alcohol effects
+on cognitive performance. Finally, we assessed the effects of alcohol administration
+on the overall neurocognitive coupling: the association between behavioral
+performance and FCD in regions with significant voxel-wise alcohol-related effects.
+We hypothesized that acute alcohol would reduce neurocognitive coupling if FCD
+changes predominantly reflect alcohol-induced effects on the balance between
+excitatory and inhibitory neurotransmitters.<sup><xref rid="R51" ref-type="bibr">51</xref>, <xref rid="R52" ref-type="bibr">52</xref></sup></p></sec><sec sec-type="methods" id="S2"><title>Methods</title><sec id="S3" sec-type="subjects"><title>Participants</title><p id="P6">We studied two groups of participants: 16 heavy drinkers (HD; age:
+<italic>M</italic> = 34.6 years; <italic>SD</italic> = 9.70
+years; 16 males) and 24 normal controls (NM; age: <italic>M</italic> =
+32.5 years; <italic>SD</italic> = 6.39 years; 14 males). Out of 48
+planned participants for both groups, these subjects completed required MRI
+sessions. We predicted at <italic>&#x003b1;</italic> = 0.05 and
+80% power, this sample size would allow to detect large group and
+condition effects on FCD (Cohen&#x02019;s <italic>d</italic> = 0.9;
+<italic>r</italic> = 0.5). The inclusion criterion for HD was 5 or
+more drinks a day on 3 or more occasions per week. The HD reported their last
+use of alcohol within 3 days of the MRI scans. In order to maximize group
+differences, for NM group we included participants with light drinking history
+of no more than one drink a day. Because we did not want to give alcohol for the
+first time to an individual without any alcohol experience, NM also had to have
+prior experience with alcohol. Exclusion criteria were: 1) urine positive for
+psychotropic drugs; 2) present or past history of dependence on alcohol or other
+drugs of abuse (except nicotine and allowed diagnosis of alcohol abuse though
+not dependence for HD); 3) present or past history of neurological or
+psychiatric disorder; 4) use of psychoactive medications in the past month
+(i.e., opiate analgesics, stimulants, sedatives); 5) use of prescription
+(non-psychiatric) medication(s), i.e., antihistamines; 6) medical conditions
+that may alter cerebral function; 7) cardiovascular and metabolic diseases and
+8) history of head trauma with loss of consciousness of more than 30 min. Signed
+informed consents were obtained from the subjects prior to participation,
+approved by the Committee on Research in Human Subjects at Stony Brook
+University (IRBNet ID: 137462, CORIHS ID: 20090792).</p></sec><sec id="S4"><title>Alcohol and placebo administration</title><p id="P7">Each participant was tested on separate days (maximum 3 days apart) to
+assess the effects of alcohol (ALC) and placebo (PLC). The order of ALC and PLC
+conditions was randomly assigned across subjects (single blinded). Subjects
+drank alcohol (0.75 g/kg mixed in a caffeine-free diet soda) or placebo
+(caffeine-free diet soda) beverages within a 20 min period under blind
+conditions. For this purpose, we used a specialized drinking container with an
+alcohol-containing lid that provided the smell of alcohol and delivered the same
+volume of liquid in both conditions. The MRI scan started between 90 and 120 min
+of ALC or PLC administration. The alcohol dose (0.75 g/kg) was approximately
+equivalent to three drinks for a 50 kg person and was within the range consumed
+by social drinkers.<sup><xref rid="R53" ref-type="bibr">53</xref></sup> Blood
+alcohol concentration levels were measured prior to the fMRI scan, using a
+standard enzymatic assay.<sup><xref rid="R54" ref-type="bibr">54</xref></sup>
+The average blood alcohol concentration (BAC) across participants was 0.62 mg/ml
+(<italic>SD</italic> = 0.27 mg/ml) at the beginning of the MRI
+scanning session.</p></sec><sec id="S5"><title>Behavioral measures</title><p id="P8">Self-reports of mood and drug effects, motor evaluations, and cognitive
+tests were performed to assess the effects of alcohol or placebo on behavior in
+NM and HD. Measures were obtained prior to each MRI session, approximately 90
+min after placebo or alcohol administration (30 min prior to MRI session).
+Self-report mood/drug effects were scored by the subject from 0 (not at all) to
+10 (extremely) for feelings of <italic>stimulated</italic>,
+<italic>sedated</italic>, <italic>self-confident</italic>,
+<italic>social</italic>, <italic>irritable</italic>, <italic>dizzy</italic>,
+<italic>high</italic>, <italic>anxious</italic>, <italic>pleasant</italic>,
+<italic>alcohol desire</italic>, <italic>control</italic>,
+<italic>intoxicated</italic>, and <italic>restless</italic>. Motor function
+evaluated <italic>gait</italic> (time and errors), <italic>standing on one
+leg</italic> (errors), <italic>Romberg</italic> (time and errors), and
+<italic>rhythm</italic> (time and errors) tasks.<sup><xref rid="R55" ref-type="bibr">55</xref></sup> Cognitive evaluation was made by staff
+credentialed to perform psychological assessments and included the
+<italic>Stroop</italic> (<italic>neutral</italic>,
+<italic>congruent</italic>, and <italic>incongruent</italic>),
+<italic>Symbol Digit Modalities test</italic> (SDMT), and <italic>Word
+Association</italic> tasks.<sup><xref rid="R55" ref-type="bibr">55</xref></sup> Behavioral data on two subjects (one NM and one HD) were
+not available. The between-subject factor of Groups and within-subject factor of
+Alcohol were modelled in MATLAB (The MathWorks Inc., Natick, MA) while using
+smoking history and gender as covariates. We minimized multiplicity of
+comparisons by grouping the behavioral measures into three categories: mood and
+drug effects, motor, and cognitive performance (see partial least squares
+regression for further information).</p></sec><sec id="S6"><title>MRI data acquisition</title><p id="P9">Subjects underwent fMRI in a 4-tesla Varian/Siemens MRI scanner (Siemens
+Medical Solutions, Erlangen, Germany) using a T2*-weighted single-shot
+gradient-echo planar imaging sequence (echo time/repetition time, 20/1600 ms;
+4-mm slice thickness; 1-mm gap; 33 coronal slices; 3.1 &#x000d7; 3.1 mm in-plane
+resolution). Participants were instructed to remain silent, motionless, and
+awake with eyes open during the 5-min resting-state scan with presentation of a
+fixation cross.</p></sec><sec id="S7"><title>fMRI data preprocessing</title><p id="P10">All fMRI time series were realigned and normalized to the Montreal
+Neurological Institute (MNI) space with 3-mm isotropic voxels in SPM8 (Wellcome
+Trust Centre for Neuroimaging, London).<sup><xref rid="R56" ref-type="bibr">56</xref></sup> There were no significant main effects of Group or
+Alcohol, or a significant interaction effect on estimates of subjects&#x02019;
+motion (<italic>p</italic> &#x0003e; 0.05) for mean frame-wise displacement
+calculated from 6 translation and rotation parameters obtained from the
+realignment process. FMRI time points that were severely affected by motion were
+removed using a &#x0201c;scrubbing&#x0201d; approach.<sup><xref rid="R57" ref-type="bibr">57</xref></sup> Specifically, in each subject/session,
+less than 4% of time-points were removed with a root mean square signal
+change (that is, DVARs) threshold of 5% and a framewise displacement
+(that is, FD) threshold of 0.5 mm. Remaining motion effects on fMRI time series
+were regressed out using the 6 translation and rotation regressors. Voxels with
+poor temporal signal-to-noise (tSNR &#x0003c; 50) were eliminated, and band-pass
+temporal filtering (0.01&#x02013;0.10 Hz) was used to remove magnetic field
+drifts of the scanner and to minimize the effects of physiologic noise on the
+high-frequency components. The effects of unwanted fluctuations within the white
+matter and cerebrospinal fluid (CSF) were excluded from the analysis by using a
+gray matter mask (<italic>N</italic> = 57,713).</p></sec><sec id="S8"><title>Local functional connectivity density (lFCD)</title><p id="P11">The Pearson correlation was used to assess the strength of functional
+connectivity, C<italic><sub>ij</sub></italic>, between voxels <italic>i</italic>
+and <italic>j</italic>. Consistent with prior FCD studies, <sup><xref rid="R32" ref-type="bibr">32</xref>, <xref rid="R46" ref-type="bibr">46</xref></sup> a positive correlation threshold of <italic>r</italic>
+= 0.6 (sufficient to Bonferroni correct for the number of correlations
+performed in the whole brain, <italic>p</italic> &#x0003c; 0.05) was used to compute
+the binary connectivity coefficients, a<italic><sub>ij</sub></italic> =
+1 (if C<italic><sub>ij</sub></italic> &#x0003e; 0.6) or
+a<italic><sub>ij</sub></italic> = 0 (if
+C<italic><sub>ij</sub></italic> &#x02264; 0.6). The local functional
+connectivity density (or &#x0201c;local degree&#x0201d;) for voxel
+<italic>i</italic> was computed as the size of a continuous cluster of
+voxels with a<italic><sub>ij</sub></italic> = 1, that are connected by
+surface. A &#x0201c;growing&#x0201d; algorithm was used for time efficient
+estimation of lFCD.<sup><xref rid="R32" ref-type="bibr">32</xref></sup></p></sec><sec id="S9"><title>Global functional connectivity density (gFCD)</title><p id="P12">The gFCD, also called &#x0201c;degree&#x0201d;<sup><xref rid="R58" ref-type="bibr">58</xref>, <xref rid="R59" ref-type="bibr">59</xref></sup> was calculated as the total number of edges for voxel
+<italic>i</italic>, i.e., significant correlations (at
+C<italic><sub>ij</sub></italic> &#x0003e; 0.6) between voxel
+<italic>i</italic> and all voxels:<sup><xref rid="R60" ref-type="bibr">60</xref></sup></p><disp-formula id="FD1"><mml:math id="M1" display="block" overflow="scroll"><mml:mrow><mml:msub><mml:mi mathvariant="italic">gFCD</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:munderover><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover><mml:msub><mml:mi>a</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>.</mml:mo></mml:mrow></mml:math></disp-formula></sec><sec id="S10"><title>Statistical parametric mapping (SPM)</title><p id="P13">SPM8 was used to perform voxel-wise analyses on FCD indices. Gender and
+smoking status were entered as covariates to control for differences between the
+groups in these variables. A flexible factorial design was used to model the
+between-subject factor of Group (NM vs. HD) and the within-subject factor of
+Alcohol (PLC and ALC). Regions of interest (ROIs) were identified after family
+wise error (FWE) correction for multiple comparisons at the cluster level
+correction approach (<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05) with a minimum
+cluster size of k = 75 and a cluster forming threshold of
+<italic>p</italic> &#x0003c; 0.005.</p></sec><sec id="S11"><title>Neurocognitive coupling analysis</title><p id="P14">We define &#x02018;neurocognitive coupling&#x02019; as the overall
+association between individual differences in regional resting activity
+(indexed here by ROI FCD) and individual differences in behavioral performance.
+Specifically, a two-way repeated measures ANOVA was performed in MATLAB to
+assess effects of Group and Alcohol on the distribution mean of Fisher&#x02019;s
+<italic>z</italic>-transformed correlations between functional ROIs that
+showed Group or Alcohol effects and behavioral measures that showed Group or
+Alcohol effects. This analysis was also repeated for a set of a priori
+anatomical ROIs (<xref rid="SD1" ref-type="supplementary-material">Supp. Fig.
+3</xref>).</p></sec><sec id="S12"><title>Partial least squares regression</title><p id="P15">A partial least squares (PLS) regression analysis was performed in
+MATLAB to reduce the dimensionality of data and consequently the number of
+comparisons.<sup><xref rid="R61" ref-type="bibr">61</xref>, <xref rid="R62" ref-type="bibr">62</xref></sup> Whereas, other approaches such
+as principal component analysis (PCA) find components that maximize the variance
+within a set of variables, PLS regression finds components in the independent
+variables based on the criteria of maximizing the amount of variance accounted
+for in both dependent and independent variables. For each behavioral category
+(i.e., mood/drug effects, motor, and cognitive performance), the goal of the PLS
+regression analysis was to find a linear combination of ROI FCDs (component
+scores) that maximizes the amount of variance accounted for in the included
+behavioral tests as well as ROI FCDs. The number of components selected from ROI
+FCDs was limited to 1 for each behavioral category. For significance testing of
+the contribution of each ROI FCD to component scores, a permutation approach was
+used (<italic>N</italic> = 100000) to extract the null distribution of
+component loadings. All the <italic>p</italic>-values for PLS regression
+analysis are reported for a two-tailed test (i.e., considering positive and
+negative loadings).</p></sec></sec><sec sec-type="results" id="S13"><title>Results</title><sec id="S14"><title>Behavioral</title><p id="P16">There was a main effect of Group (<xref rid="SD1" ref-type="supplementary-material">Supp. Table 1</xref>, <italic>p
+&#x0003c;</italic> 0.05, Bonferroni) for self-reports of irritability (HD &#x0003e;
+NM), restlessness (HD &#x0003e; NM), and alcohol desire (HD &#x0003e; NM). There were also
+main effects of Group (<xref rid="SD1" ref-type="supplementary-material">Supp.
+Table 1</xref>, <italic>p &#x0003c;</italic> 0.05, Bonferroni) in all cognitive
+measures, with HD showing lower performance relative to NM on Stroop, Symbol
+Digit Modalities test and Word Association tests. There was a main effect of
+Alcohol (<xref rid="SD1" ref-type="supplementary-material">Supp. Table 2</xref>,
+<italic>p &#x0003c;</italic> 0.05, Bonferroni) for self-reports of sedated (ALC
+&#x0003e; PLC), dizzy (ALC &#x0003e; PLC), high (ALC &#x0003e; PLC), pleasant (ALC &#x0003e; PLC),
+and intoxication (ALC &#x0003e; PLC). Alcohol also reduced performance on tests of
+motor coordination and balance (<xref rid="SD1" ref-type="supplementary-material">Supp. Table 2</xref>, <italic>p
+&#x0003c;</italic> 0.05, Bonferroni). In addition, acute alcohol affected
+cognitive performance, decreasing scores on Stroop, Symbol Digit Modalities test
+and Word Association tests. No behavioral measure showed a significant
+interaction between Group and Alcohol factors (<xref rid="SD1" ref-type="supplementary-material">Supp. Table 3</xref>, <italic>p
+&#x0003e;</italic> 0.05).</p></sec><sec id="S15"><title>lFCD</title><p id="P17">Consistent with our prior findings,<sup><xref rid="R32" ref-type="bibr">32</xref></sup> the spatial distribution of average lFCD across all
+subjects for PLC revealed main hubs within the posterior cingulate, ventral
+precuneus, inferior parietal cortex, cuneus, anterior PFC, and cerebellum (<xref rid="SD1" ref-type="supplementary-material">Supp. Fig. 1</xref>). The
+flexible factorial analysis revealed a main effect of Group (HD vs. NM) showing
+decreased connectivity in HD within the PFC, calcarine, posterior cingulate,
+precuneus, and thalamus, and increased connectivity in cerebellum, (<xref rid="F1" ref-type="fig">Fig. 1a&#x02013;b</xref>;
+<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05, <xref rid="T1" ref-type="table">Table 1</xref>). The thalamus cluster included the medial dorsal nucleus
+(MDN) and ventral lateral nucleus (VLN) with the statistical peak located at the
+MDN (<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05). There was a main effect of
+Alcohol within the thalamus (<xref rid="T1" ref-type="table">Table 1</xref>;
+<xref rid="F1" ref-type="fig">Fig. 1c</xref>;
+<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05), wherein alcohol intoxication
+increased thalamus lFCD relative to PLC (<italic>p</italic><sub>FWE</sub> &#x0003c;
+0.05). Similar to the effect of Group, the thalamic nuclei included MDN and VLN,
+and the statistical peak was located at the VLN. Average lFCD for each group and
+condition for the ROIs, showing significant Group and Alcohol effects
+(<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05), are summarized in <xref rid="F2" ref-type="fig">Fig. 2</xref>. For whole brain lFCD, there were no
+significant main effects of Group (<italic>p</italic> = 0.593) or
+Alcohol (<italic>p</italic> = 0.183), or a significant interaction
+effect (<italic>p</italic> = 0.183) (<xref rid="SD1" ref-type="supplementary-material">Supp. Table 4</xref>). The Thalamus (MDN)
+ROI corroborated a significant effect of Alcohol (ALC &#x0003e; PLC, <xref rid="SD1" ref-type="supplementary-material">Supp. Table 4</xref><italic>p</italic>
+&#x0003c; 0.0001), and Thalamus (VLN) ROI corroborated a significant effect of Group
+(HD &#x0003c; NM, <xref rid="SD1" ref-type="supplementary-material">Supp. Table
+4</xref><italic>p</italic> &#x0003c; 0.0001).</p></sec><sec id="S16"><title>gFCD</title><p id="P18">Consistent with our prior findings<sup><xref rid="R60" ref-type="bibr">60</xref></sup> the spatial distribution of average lFCD across all
+subjects for PLC revealed main hubs within visual cortex, postcentral gyrus,
+precuneus, inferior parietal cortex, temporal lobe, and cerebellum (<xref rid="SD1" ref-type="supplementary-material">Supp. Fig. 2</xref>). For gFCD,
+the effects of Group overlapped with those of lFCD but were limited to a smaller
+set of regions (<xref rid="T2" ref-type="table">Table 2</xref>; <xref rid="F3" ref-type="fig">Fig. 3</xref>). Specifically, gFCD was lower within calcarine
+and thalamus and higher within cerebellum in HD relative to NM
+(<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05). Similar to lFCD, there was a
+main effect of Alcohol for gFCD within thalamus (<xref rid="T2" ref-type="table">Table 2</xref>; <xref rid="F3" ref-type="fig">Fig. 3</xref>;
+<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05), including MDN and VLN nuclei,
+and midbrain with a statistical peak located at VLN, showing increased gFCD
+during alcohol intoxication. Average gFCD for each group and condition for ROIs
+showing significant Group and Alcohol effects are summarized in <xref rid="F4" ref-type="fig">Fig. 4</xref>. For whole brain gFCD there were no significant
+main effects of Group (<italic>p</italic> = 0.760) or Alcohol
+(<italic>p</italic> = 0.334), or a significant interaction effect
+(<italic>p</italic> = 0.102) (<xref rid="SD1" ref-type="supplementary-material">Supp. Table 4</xref>). The 10 FCD ROIs
+showing significant Group or Alcohol effects (<italic>p</italic><sub>FWE</sub>
+&#x0003c; 0.05; 7 from the lFCD and 3 from gFCD results) were used for the analyses
+of associations between behavior and brain connectivity (see <xref rid="T3" ref-type="table">Table 3</xref> for the list of FCD ROIs).</p></sec><sec id="S17"><title>Between-Subject Correlations in FCD</title><p id="P19">We ran an additional analysis to examine the correlation structure
+across subjects between the 10 FCD ROIs with significant main effects of Group
+or Alcohol for lFCD or gFCD indices (see <xref rid="T3" ref-type="table">Table
+3</xref>). The results are summarized for each group and condition in <xref rid="F5" ref-type="fig">Fig. 5</xref>. Below diagonal elements show pairwise
+correlations between ROIs while controlling for gender and smoking. Above
+diagonal elements show pairwise partial correlations between ROIs while
+controlling for effect of other ROIs as well as gender and smoking. Overall
+alcohol reduced the association between ROI FCDs in both groups (see <xref rid="SD1" ref-type="supplementary-material">Supp. Results</xref>). We
+performed a two-way repeated measures ANOVA to assess effects of Group and
+Alcohol on the distribution mean of 45 Fisher&#x02019;s
+<italic>z</italic>-transformed below-diagonal correlations (that is, pairwise
+correlations between 10 ROI FCDs; <xref rid="F6" ref-type="fig">Figures
+6a&#x02013;d</xref>). There was a significant main effect of Alcohol
+(<italic>M</italic><sub>PLC</sub> = 0.38;
+<italic>SD</italic><sub>PLC</sub> = 0.36;
+<italic>M</italic><sub>ALC</sub> = 0.28,
+<italic>SD</italic><sub>ALC</sub> = 0.45; <italic>F</italic>(1, 44)
+= 19.76, <italic>p</italic> = 0.03) but no significant effect of
+Group or interaction between Alcohol and Group factors (<italic>p</italic> &#x0003e;
+0.05). A similar analysis on the above diagonal elements (partial correlations,
+<xref rid="F6" ref-type="fig">Fig. 6a&#x02013;d</xref>) did not show any
+significant Group, Alcohol, or interaction effects (<italic>p</italic> &#x0003e;
+0.05). We also assessed the significance of changes in specific correlation
+coefficients between PLC and ALC conditions for each group (<xref rid="F5" ref-type="fig">Fig. 5e&#x02013;f</xref>). In HD, the most pronounced changes
+were increases and decreases of correlations between Thalamus (VLN) gFCD and the
+rest of ROIs (Cerebellum, Precuneus, Thalamus (MDN) and Thalamus (VLN) lFCDs,
+<italic>p</italic> &#x0003c; 0.005; <xref rid="F5" ref-type="fig">Fig.
+5f</xref>), whereas in NM Calcarine gFCD correlations underwent most changes
+between PLC and ALC conditions (Cerebellum lFCD and Thalamus (VLN) gFCD,
+<italic>p</italic> &#x0003c; 0.005; <xref rid="F5" ref-type="fig">Fig. 5e</xref>
+and <xref rid="SD1" ref-type="supplementary-material">Supp. Results</xref>).</p></sec><sec id="S18"><title>Neurocognitive Coupling</title><p id="P20">We estimated Pearson&#x02019;s correlation coefficients between
+performance on the 18 behavioral tasks with significant Group or Alcohol effects
+(<xref rid="T3" ref-type="table">Table 3</xref>) and FCD of the 10 ROIs with
+significant Group or Alcohol effects (<xref rid="T3" ref-type="table">Table
+3</xref>), for each group and condition (<xref rid="SD1" ref-type="supplementary-material">Supp. Tables 5&#x02013;8</xref>), as well
+as correlations between alcohol-induced changes in ROI FCDs and changes in
+behavioral performance in each group (<xref rid="SD1" ref-type="supplementary-material">Supp. Tables 9&#x02013;10</xref>). A
+two-way repeated measures ANOVA on the Fisher&#x02019;s
+<italic>z</italic>-transformed correlations presented in <xref rid="SD1" ref-type="supplementary-material">Supp. Tables 5&#x02013;8</xref>, showed
+(<xref rid="F6" ref-type="fig">Fig. 6a&#x02013;b</xref>) a significant main
+effect of Alcohol (<italic>F</italic>(1, 179) = 19.76;
+<italic>p</italic> &#x0003c; 0.0001) and a significant interaction between
+Alcohol and Group on the neurocognitive coupling (<italic>F</italic>(1, 179)
+= 5.32; <italic>p</italic> = 0.022). However, the effect of
+Group was not significant (<italic>F</italic>(1, 179) = 0.68;
+<italic>p</italic> = 0.41). The results indicated that ALC relative
+to PLC reduced the neurocognitive coupling in both groups
+(<italic>M</italic><sub>PLC</sub> = 0.09,
+<italic>SD</italic><sub>PLC</sub> = 0.31;
+<italic>M</italic><sub>ALC</sub> = 0.01,
+<italic>SD</italic><sub>ALC</sub> = 0.28). The interaction effect
+indicated that relative to PLC, the reduction in neurocognitive coupling after
+alcohol was more pronounced in HD (<italic>M</italic><sub>PLC</sub> =
+0.12, <italic>SD</italic><sub>PLC</sub> = 0.36,
+<italic>M</italic><sub>ALC</sub> = &#x02212;0.01,
+<italic>SD</italic><sub>ALC</sub> = 0.23; <xref rid="F6" ref-type="fig">Fig. 6b</xref>) than in NM (<italic>M</italic><sub>PLC</sub>
+= 0.06, <italic>SD</italic><sub>PLC</sub> = 0.26,
+<italic>M</italic><sub>ALC</sub> = 0.01,
+<italic>SD</italic><sub>ALC</sub> = 0.22; <xref rid="F6" ref-type="fig">Fig. 6a</xref>). Similar neurocognitive coupling results with
+a significant effect of Alcohol and a significant Group and Alcohol interaction
+were obtained (see <xref rid="SD1" ref-type="supplementary-material">Supp. Fig.
+3</xref>), when we used 4 a priori ROIs with known sensitivity to acute or
+chronic alcohol effects.<sup><xref rid="R3" ref-type="bibr">3</xref>, <xref rid="R35" ref-type="bibr">35</xref>&#x02013;<xref rid="R39" ref-type="bibr">39</xref></sup></p></sec><sec id="S19"><title>Associations between Behavior and FCD</title><p id="P21">PLS regressions (see Methods) showed that in NM in PLC condition (<xref rid="F6" ref-type="fig">Fig. 6c</xref>), ROI FCDs accounted for 7%,
+23%, and 5% of variance in mood/drug effects, motor, and
+cognitive tasks, respectively. For the mood/drug factor, Calcarine lFCD
+(<italic>p</italic> = 0.04), Cerebellum lFCD (<italic>p</italic>
+= 0.02), and Cerebellum gFCD (<italic>p</italic> = 0.03); for
+the motor factor, Cerebellum lFCD (<italic>p</italic> = 0.005),
+Cerebellum gFCD (<italic>p</italic> = 0.01), and Thalamus (MDN) lFCD
+(<italic>p</italic> = 0.04); and for the cognitive factor, Posterior
+Cingulate lFCD (<italic>p</italic> = 0.03) and Thalamus (MDN) lFCD
+(<italic>p</italic> = 0.02) significantly contributed to predicting
+individual differences.</p><p id="P22">In NM in ALC condition (<xref rid="F6" ref-type="fig">Fig. 6e</xref>),
+ROI FCDs accounted for 10%, 11%, and 17% of variance in
+mood/drug effects, motor, and cognitive tasks, respectively. For the mood/drug
+factor, Calcarine lFCD (<italic>p</italic> = 0.02), Posterior Cingulate
+lFCD (<italic>p</italic> = 0.002), and Thalamus (MDN) lFCD
+(<italic>p</italic> = 0.06); for the motor factor, Thalamus (MDN)
+lFCD (<italic>p</italic> = 0.002) and Thalamus (VLN) lFCD
+(<italic>p</italic> = 0.02); and for the cognitive factor, Calcarine
+gFCD (<italic>p</italic> = 0.05) significantly contributed to predicting
+individual differences.</p><p id="P23">In HD in PLC condition (<xref rid="F6" ref-type="fig">Fig. 6d</xref>),
+ROIs FCDs accounted for 13%, 25%, and 26% of variance in
+mood/drug effects, motor, and cognitive tasks, respectively. For the mood/drug
+factor, Thalamus (MDN) lFCD (<italic>p</italic> = 0.03); for the motor
+factor, Cerebellum lFCD (<italic>p</italic> = 0.002) and Cerebellum gFCD
+(<italic>p</italic> = 0.005); and for the cognitive factor, PFC lFCD
+(<italic>p</italic> = 0.05), Calcarine gFCD (<italic>p</italic>
+= 0.05), Cerebellum gFCD (<italic>p</italic> = 0.02), and
+Thalamus (VLN) gFCD (<italic>p</italic> = 0.04) significantly
+contributed to predicting individual differences.</p><p id="P24">In HD in ALC condition (<xref rid="F6" ref-type="fig">Fig. 6f</xref>),
+ROIs FCDs accounted for 16%, 22%, and 32% of variance in
+mood/drug effects, motor, and cognitive tasks, respectively. For the mood/drug
+factor, Calcarine lFCD (<italic>p</italic> = 0.05); for the motor
+factor, Cerebellum lFCD (<italic>p</italic> = 0.05) and PFC lFCD
+(<italic>p</italic> = 0.03); and for the cognitive factor Cerebellum
+gFCD (<italic>p</italic> = 0.05) significantly contributed to predicting
+individual differences.</p><p id="P25">In NM, PLS regression of alcohol-induced changes (i.e., ALC-PLC) in
+behavioral scores on changes in ROI FCDs showed that changes in ROI FCDs
+accounted for 9%, 15%, and 10% of variance in mood/drug
+effects, motor, and cognitive score changes, respectively (<xref rid="F6" ref-type="fig">Fig. 6g</xref>). Alcohol-induced changes in the mood/drug
+factor were associated with changes in Thalamus (VLN) lFCD (<italic>p</italic>
+= 0.04) and Thalamus (VLN) gFCD (<italic>p</italic> = 0.06);
+changes in motor factor were associated with changes in Cerebellum gFCD
+(<italic>p</italic> = 0.03); and changes in cognitive factor were
+associated with changes in Calcarine gFCD (<italic>p</italic> &#x0003c; 0.001) and
+Thalamus (VLN) gFCD (<italic>p</italic> = 0.03). In HD (<xref rid="F6" ref-type="fig">Fig. 6h</xref>), changes in ROI FCDs accounted for
+9%, 14%, and 36% of variance in mood/drug effects,
+motor, and cognitive score changes, respectively. Changes in the mood/drug
+factor were associated with changes in Thalamus (VLN) lFCD (<italic>p</italic>
+= 0.04) and Thalamus (VLN) gFCD (<italic>p</italic> = 0.01);
+changes in motor factor were associated with changes in Thalamus (MDN) lFCD
+(<italic>p</italic> = 0.06); and changes in cognitive factor were
+associate with changes in Precuneus lFCD (<italic>p</italic> =
+0.02).</p></sec></sec><sec sec-type="discussion" id="S20"><title>Discussion</title><p id="P26">Here we document significant regional effects of acute and chronic alcohol
+use on FCD indices that were associated with changes in mood/drug effects, motor,
+and cognitive measures. We found effects of both Group and Alcohol on the thalamus
+(see <xref rid="T1" ref-type="table">Tables 1</xref>&#x02013;<xref rid="T2" ref-type="table">2</xref>), which included the ventral lateral (VLN) and medial
+dorsal (MDN) nuclei. The VLN receives inputs from cerebellum and interacts with
+motor-related cortical areas,<sup><xref rid="R63" ref-type="bibr">63</xref></sup>
+whereas the MDN is mostly associated with the prefrontal cortex and has been
+implicated in memory, attention, mood, and reward.<sup><xref rid="R64" ref-type="bibr">64</xref>, <xref rid="R65" ref-type="bibr">65</xref></sup>
+In both groups, alcohol-induced changes in thalamus FCDs were associated with
+changes in mood/drug effects (<xref rid="F6" ref-type="fig">Fig.
+6g&#x02013;h</xref>), which is consistent with the known functional role of MDN. The
+thalamus lFCDs also contributed to predicting motor performance in both PLC and ALC
+conditions in NM (<italic>p</italic> &#x0003c; 0.05, <xref rid="F6" ref-type="fig">Fig.
+6c&#x02013;d</xref>). In HD, it was the changes in motor performance from PLC to
+ALC that were associated with changes in Thalamus (MDN) lFCD (<italic>p</italic>
+= 0.06, <xref rid="F6" ref-type="fig">Fig. 6h</xref>). The effect of
+thalamus connectivity on motor function in NM (both PLC and ALC conditions) is
+consistent with the contribution of VLN (the thalamus nuclei relaying motor
+information to the cortex) in motor performance, but in HD, the association between
+alcohol-induced decline in motor performance and changes in thalamus connectivity
+(particularly VLN) might reflect unsuccessful compensatory activity in the thalamus
+(<xref rid="F6" ref-type="fig">Fig. 6e</xref>). In contrast, in NM, decline in
+motor performance from PLC to ALC was associated with changes in cerebellum
+connectivity (<italic>p</italic> = 0.03; <xref rid="F6" ref-type="fig">Fig.
+6e</xref>). These findings indicate that different parts of the
+cerebellar-thalamic circuit contribute to alcohol-induced changes in motor
+performance in NM versus HD.</p><p id="P27">Findings of increased connectivity in thalamus during intoxication could
+explain why the thalamus is one of the least sensitive regions to the decreases in
+glucose metabolism triggered by acute alcohol,<sup><xref rid="R13" ref-type="bibr">13</xref>, <xref rid="R17" ref-type="bibr">17</xref></sup> wherein
+alcohol-induced increases in thalamic connectivity lead to increases in metabolic
+needs. The sensitivity of the thalamus to acute alcohol is also consistent with
+prior findings showing high uptake of alcohol in the thalamus of non-human
+primates.<sup><xref rid="R66" ref-type="bibr">66</xref></sup> The thalamic
+nuclei that were affected by alcohol namely the VLN and MDN are nuclei that receive
+direct projection from DA neurons in VTA<sup><xref rid="R67" ref-type="bibr">67</xref>, <xref rid="R68" ref-type="bibr">68</xref></sup> and hence their
+activation might reflect alcohol induced dopaminergic signaling. In fact we had
+previously shown that DA increases triggered by methylphenidate (MP) were associated
+with metabolic changes in the thalamus, which were significantly increased in
+controls but not in alcoholics.<sup><xref rid="R69" ref-type="bibr">69</xref></sup>
+Our findings also showed that acute alcohol significantly increased global
+connectivity in the midbrain as a part of a gFCD cluster centered at the thalamus
+(<xref rid="T2" ref-type="table">Table 2</xref>), which is where DA neurons are
+located.<sup><xref rid="R70" ref-type="bibr">70</xref></sup> This effect is
+consistent with the influence of alcohol on DA signaling.<sup><xref rid="R71" ref-type="bibr">71</xref></sup> Though the extent of influence of
+alcohol-induced vasodilation on resting connectivity is not understood, we did not
+find significant voxel-wise effects of acute alcohol in regions with pronounced
+alcohol-induced vasodilation such as frontal and temporal cortices.<sup><xref rid="R3" ref-type="bibr">3</xref>, <xref rid="R6" ref-type="bibr">6</xref>&#x02013;<xref rid="R9" ref-type="bibr">9</xref></sup></p><p id="P28">We also found significant effects of chronic alcohol on the thalamus (<xref rid="T1" ref-type="table">Table 1</xref>, <xref rid="F2" ref-type="fig">Fig.
+2</xref>), which showed significantly higher connectivity in NM than HD.
+Additionally, NM had higher connectivity in calcarine (visual cortex), PFC,
+posterior cingulate, and precuneus, whereas HD had higher connectivity in cerebellum
+than NM. Both groups in PLC showed a positive association between cognitive
+performance and higher thalamic connectivity (<xref rid="F6" ref-type="fig">Fig.
+6</xref>, <xref rid="SD1" ref-type="supplementary-material">Supp. Table
+5&#x00026;7</xref>). However, in NM, alcohol-induced declines in cognitive
+performance (which included tests of inhibitory control, executive function, and
+visuospatial attention) were associated with increases in connectivity in Thalamus
+(VLN) gFCD and Calcarine gFCD (<xref rid="F6" ref-type="fig">Fig. 6g</xref>, <xref rid="SD1" ref-type="supplementary-material">Supp. Table 9</xref>). In contrast,
+alcohol-induced increases in precuneus connectivity (<xref rid="SD1" ref-type="supplementary-material">Supp. Table 4</xref>) were associated with
+changes in cognitive performance in HD, suggesting that connectivity increases in
+precuneus might play a compensatory role for higher cognitive abilities (<xref rid="SD1" ref-type="supplementary-material">Supp. Table 10</xref>).</p><p id="P29">The cerebellum is one of the most sensitive brain regions to the deleterious
+effects of chronic alcohol.<sup><xref rid="R72" ref-type="bibr">72</xref></sup> Thus
+higher FCD in cerebellum in HD might reflect compensation to overcome impairments
+associated with repeated alcohol use. In fact, PLS regression showed that in both
+groups Cerebellum FCDs were the most significant predictors of motor function
+(<italic>p</italic> &#x0003c; 0.01; <xref rid="F6" ref-type="fig">Fig.
+6c&#x02013;d</xref>) in the PLC condition. However, only in HD higher cerebellum
+FCD predicted better cognitive performance in both PLC and ALC conditions (<xref rid="F6" ref-type="fig">Fig. 6d&#x00026;f</xref>, <xref rid="SD1" ref-type="supplementary-material">Supp. Table 8</xref>). Yet, higher cerebellum
+FCDs in both groups were associated with more motor errors but faster time on task,
+indicating a speed-accuracy trade-off (<xref rid="SD1" ref-type="supplementary-material">Supp. Tables 5&#x00026;7</xref>). The results
+suggest that higher cerebellum FCD might be a compensatory response, but only for
+cognitive performance (e.g., conflict resolution and inhibition) in HD.</p><p id="P30">In HD we identified two categories of changes in FCD: decreases in cortical
+and thalamic FCD and increases in cerebellar FCD. This group also showed markedly
+lower performance in a range of cognitive tasks. PLS regression showed that a large
+range of ROI FCDs contribute to cognitive performance in this group in PLC (<xref rid="F6" ref-type="fig">Fig. 6c</xref>). Furthermore, higher connectivity in
+these regions was positively correlated with task performance (<xref rid="SD1" ref-type="supplementary-material">Supp. Table 7</xref>), leading to the
+conclusion that the lower the connectivity in these ROIs, the lower the cognitive
+performance in HD. Though there was no group difference in motor function between HD
+and NM, PLS regression showed significant cerebellar contribution in motor
+performance in HD (<xref rid="F6" ref-type="fig">Fig. 6c</xref>), suggesting a
+compensatory role of increased cerebellar FCD in HD.</p><p id="P31">Acute and chronic alcohol exposure provide unique opportunities and
+challenges to study the association between human behavior and brain function. Acute
+and chronic alcohol consumption affect a wide range of mood, motor, and cognitive
+measures.<sup><xref rid="R2" ref-type="bibr">2</xref>, <xref rid="R73" ref-type="bibr">73</xref>&#x02013;<xref rid="R75" ref-type="bibr">75</xref></sup> Alcohol affects neuronal activity,<sup><xref rid="R51" ref-type="bibr">51</xref></sup> but also indirect measures of neuronal
+activity. Increases in CBF through vasodilation and deceases in glucose metabolism
+through metabolizing acetate are of examples of effects of alcohol on indirect
+measures of brain activity.<sup><xref rid="R13" ref-type="bibr">13</xref>, <xref rid="R17" ref-type="bibr">17</xref>, <xref rid="R19" ref-type="bibr">19</xref>, <xref rid="R76" ref-type="bibr">76</xref>, <xref rid="R77" ref-type="bibr">77</xref></sup> Because of the high sensitivity of CBF and
+CMRglc to non-neuronal alcohol-induced effects, here we used an alternative index of
+resting brain activity, i.e., resting functional connectivity density (FCD), to
+index slow-rate synchronous neuronal rhythms within (lFCD) and between (gFCD) brain
+regions. Prior research has shown that that FCD accounts for a large proportion of
+glucose demand of resting brain activity.<sup><xref rid="R33" ref-type="bibr">33</xref>, <xref rid="R34" ref-type="bibr">34</xref></sup> Furthermore,
+there is evidence that resting-state connectivity is more sensitive to the effects
+of alcohol intoxication on neuronal activity relative to CBF measures.<sup><xref rid="R26" ref-type="bibr">26</xref>, <xref rid="R78" ref-type="bibr">78</xref></sup> Our results show that neither acute nor chronic alcohol
+affect FCD indices in the whole brain (<xref rid="SD1" ref-type="supplementary-material">Supp. Table 4</xref>). This is in contrast to
+CMRglc<sup><xref rid="R11" ref-type="bibr">11</xref>, <xref rid="R13" ref-type="bibr">13</xref></sup> and CBF<sup><xref rid="R6" ref-type="bibr">6</xref>, <xref rid="R79" ref-type="bibr">79</xref>&#x02013;<xref rid="R81" ref-type="bibr">81</xref></sup> findings that show significant brain-wide
+changes with acute alcohol and in alcoholics. Our results support the position that
+FCD indices are not primarily affected by alcohol-induced vasodilation nor by
+alterations in energy substrates of brain metabolism.</p><p id="P32">Overall, alcohol reduced the association between individual differences in
+ROI FCDs in both groups (<italic>p</italic> = 0.03). It also reduced the
+neurocognitive coupling between behavior and ROI FCDs in both groups
+(<italic>p</italic> &#x0003c; 0.0001) but more so in HD (<italic>p</italic> =
+0.02). Similar effects were found when using a priori ROIs (<xref rid="SD1" ref-type="supplementary-material">Supp. Fig. 3</xref>). This indicates that
+aspects of changes in brain connectivity (indexing brain activity) due to alcohol
+exposure may be mediated by alcohol&#x02019;s effect on the balance between
+excitatory and inhibitory neurotransmitters,<sup><xref rid="R51" ref-type="bibr">51</xref>, <xref rid="R52" ref-type="bibr">52</xref></sup> and in part
+reflect the brain&#x02019;s effort (regional reductions or increases in activity) to
+restore this balance independently from the function of the affected regions.
+Further delineation of this phenomenon will have to await future research.</p><p id="P33">Future studies will be needed to assess the reproducibility of our current
+findings. Particularly, on the basis of our limited sample size, we cannot make
+strong inferences about the significance of the associations between FCD indices and
+behavioral measures. Nonetheless, our findings show the promise of resting state
+metrics as biomarkers of alcohol-related behavioral changes. Another limitation of
+this study is gender imbalance between the two groups. Though we used a gender
+covariate, it does not effectively account for gender imbalance (that is, there were
+no females in HD) in the group contrasts, and only accounts for within group gender
+differences (i.e., for NM). To alleviate the concern that the group differences
+might be driven by gender imbalance<sup><xref rid="R82" ref-type="bibr">82</xref>,
+<xref rid="R83" ref-type="bibr">83</xref></sup> between NM and HD, we
+performed group comparisons after excluding the female participants from the NM
+group. We found similar patterns of differences in lFCD (except for the posterior
+cingulate cluster) and gFCD between the two groups (<xref rid="SD1" ref-type="supplementary-material">Supp. Fig. 4</xref> and <xref rid="SD1" ref-type="supplementary-material">Supp. Fig. 5</xref>;
+<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05, corrected for cluster size) to when
+females were included (<xref rid="F1" ref-type="fig">Fig. 1</xref> and <xref rid="F3" ref-type="fig">Fig. 3</xref>; <italic>p</italic><sub>FWE</sub> &#x0003c;
+0.05, corrected for cluster size). These findings support that gender-bias did not
+primarily contribute to group differences in FCD. Though recent research suggest
+that there is greater between subject variability than between gender
+variability,<sup><xref rid="R84" ref-type="bibr">84</xref></sup> we cannot
+ascertain the extent to which group differences are affected by gender imbalance.
+This limits the generalizability of findings in relation to group differences.</p><p id="P34">In summary we have shown that FCD indices are sensitive to regional changes
+due to acute or chronic alcohol effects. We found that the MDN and VLN in the
+thalamus were highly sensitive to both acute and chronic alcohol effects of alcohol,
+while calcarine, cerebellum, posterior cingulate, prefrontal cortex, and precuneus
+were sensitive to chronic effects of alcohol. Alcohol-induced changes in mood in
+both groups were predicted by changes in thalamic connectivity, whereas changes in
+motor performance were associated with the cerebellothalamic network (i.e.,
+cerebellar FCD in NM and thalamic FCD in HD). A range of ROIs contributed to
+predicting cognitive performance in HD, who also performed worse on a range of
+cognitive tasks relative to NM. Findings indicate that lower cortical and thalamic
+connectivity in HD contribute to decline in cognitive performance, presumably driven
+by heavy alcohol use. In conclusion, we presented a novel attempt to link neural and
+behavioral changes mediated by acute and chronic alcohol exposure that may be used
+as biomarkers of transitioning from light to heavy drinking.</p></sec><sec sec-type="supplementary-material" id="S21"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="SD1"><label>1</label><media xlink:href="NIHMS758069-supplement-1.pdf" orientation="portrait" xlink:type="simple" id="d36e1460" position="anchor"/></supplementary-material></sec></body><back><ack id="S22"><p>We thank Ruiliang Wang for MRI data collection and Chris Wong for help and support
+with data management. This study was supported by NIH/NIAAA intramural research
+program (Y1AA3009).</p></ack><fn-group><fn fn-type="COI-statement" id="FN2"><p><bold>Conflict of Interest</bold></p><p>The authors declare no conflict of interest.</p></fn></fn-group><ref-list><ref id="R1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gunzerath</surname><given-names>L</given-names></name><name><surname>Faden</surname><given-names>V</given-names></name><name><surname>Zakhari</surname><given-names>S</given-names></name><name><surname>Warren</surname><given-names>K</given-names></name></person-group><article-title>National Institute on Alcohol Abuse and Alcoholism report on
+moderate drinking</article-title><source>Alcoholism, clinical and experimental research</source><year>2004</year><volume>28</volume><issue>6</issue><fpage>829</fpage><lpage>847</lpage></element-citation></ref><ref id="R2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oscar-Berman</surname><given-names>M</given-names></name><name><surname>Marinkovic</surname><given-names>K</given-names></name></person-group><article-title>Alcohol: effects on neurobehavioral functions and the
+brain</article-title><source>Neuropsychology review</source><year>2007</year><volume>17</volume><issue>3</issue><fpage>239</fpage><lpage>257</lpage><pub-id pub-id-type="pmid">17874302</pub-id></element-citation></ref><ref id="R3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Mullani</surname><given-names>N</given-names></name><name><surname>Gould</surname><given-names>L</given-names></name><name><surname>Adler</surname><given-names>SS</given-names></name><name><surname>Guynn</surname><given-names>RW</given-names></name><name><surname>Overall</surname><given-names>JE</given-names></name><etal/></person-group><article-title>Effects of acute alcohol intoxication on cerebral blood flow
+measured with PET</article-title><source>Psychiatry research</source><year>1988</year><volume>24</volume><issue>2</issue><fpage>201</fpage><lpage>209</lpage><pub-id pub-id-type="pmid">3261427</pub-id></element-citation></ref><ref id="R4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ingvar</surname><given-names>M</given-names></name><name><surname>Ghatan</surname><given-names>PH</given-names></name><name><surname>Wirsen-Meurling</surname><given-names>A</given-names></name><name><surname>Risberg</surname><given-names>J</given-names></name><name><surname>Von Heijne</surname><given-names>G</given-names></name><name><surname>Stone-Elander</surname><given-names>S</given-names></name><etal/></person-group><article-title>Alcohol activates the cerebral reward system in
+man</article-title><source>Journal of studies on alcohol</source><year>1998</year><volume>59</volume><issue>3</issue><fpage>258</fpage><lpage>269</lpage><pub-id pub-id-type="pmid">9598706</pub-id></element-citation></ref><ref id="R5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blaha</surname><given-names>M</given-names></name><name><surname>Aaslid</surname><given-names>R</given-names></name><name><surname>Douville</surname><given-names>CM</given-names></name><name><surname>Correra</surname><given-names>R</given-names></name><name><surname>Newell</surname><given-names>DW</given-names></name></person-group><article-title>Cerebral blood flow and dynamic cerebral autoregulation during
+ethanol intoxication and hypercapnia</article-title><source>Journal of clinical neuroscience : official journal of the Neurosurgical
+Society of Australasia</source><year>2003</year><volume>10</volume><issue>2</issue><fpage>195</fpage><lpage>198</lpage><pub-id pub-id-type="pmid">12637048</pub-id></element-citation></ref><ref id="R6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marxen</surname><given-names>M</given-names></name><name><surname>Gan</surname><given-names>G</given-names></name><name><surname>Schwarz</surname><given-names>D</given-names></name><name><surname>Mennigen</surname><given-names>E</given-names></name><name><surname>Pilhatsch</surname><given-names>M</given-names></name><name><surname>Zimmermann</surname><given-names>US</given-names></name><etal/></person-group><article-title>Acute effects of alcohol on brain perfusion monitored with
+arterial spin labeling magnetic resonance imaging in young
+adults</article-title><source>Journal of cerebral blood flow and metabolism : official journal of the
+International Society of Cerebral Blood Flow and Metabolism</source><year>2014</year><volume>34</volume><issue>3</issue><fpage>472</fpage><lpage>479</lpage></element-citation></ref><ref id="R7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sano</surname><given-names>M</given-names></name><name><surname>Wendt</surname><given-names>PE</given-names></name><name><surname>Wirsen</surname><given-names>A</given-names></name><name><surname>Stenberg</surname><given-names>G</given-names></name><name><surname>Risberg</surname><given-names>J</given-names></name><name><surname>Ingvar</surname><given-names>DH</given-names></name></person-group><article-title>Acute effects of alcohol on regional cerebral blood flow in
+man</article-title><source>Journal of studies on alcohol</source><year>1993</year><volume>54</volume><issue>3</issue><fpage>369</fpage><lpage>376</lpage><pub-id pub-id-type="pmid">8487546</pub-id></element-citation></ref><ref id="R8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mathew</surname><given-names>RJ</given-names></name><name><surname>Wilson</surname><given-names>WH</given-names></name><name><surname>Tant</surname><given-names>SR</given-names></name></person-group><article-title>Determinants of resting regional cerebral blood flow in normal
+subjects</article-title><source>Biological psychiatry</source><year>1986</year><volume>21</volume><issue>10</issue><fpage>907</fpage><lpage>914</lpage><pub-id pub-id-type="pmid">3091096</pub-id></element-citation></ref><ref id="R9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Newlin</surname><given-names>DB</given-names></name><name><surname>Golden</surname><given-names>CJ</given-names></name><name><surname>Quaife</surname><given-names>M</given-names></name><name><surname>Graber</surname><given-names>B</given-names></name></person-group><article-title>Effect of alcohol ingestion on regional cerebral blood
+flow</article-title><source>The International journal of neuroscience</source><year>1982</year><volume>17</volume><issue>3</issue><fpage>145</fpage><lpage>150</lpage><pub-id pub-id-type="pmid">7169288</pub-id></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tolentino</surname><given-names>NJ</given-names></name><name><surname>Wierenga</surname><given-names>CE</given-names></name><name><surname>Hall</surname><given-names>S</given-names></name><name><surname>Tapert</surname><given-names>SF</given-names></name><name><surname>Paulus</surname><given-names>MP</given-names></name><name><surname>Liu</surname><given-names>TT</given-names></name><etal/></person-group><article-title>Alcohol effects on cerebral blood flow in subjects with low and
+high responses to alcohol</article-title><source>Alcoholism, clinical and experimental research</source><year>2011</year><volume>35</volume><issue>6</issue><fpage>1034</fpage><lpage>1040</lpage></element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Hitzemann</surname><given-names>R</given-names></name><name><surname>Wolf</surname><given-names>AP</given-names></name><name><surname>Logan</surname><given-names>J</given-names></name><name><surname>Fowler</surname><given-names>JS</given-names></name><name><surname>Christman</surname><given-names>D</given-names></name><etal/></person-group><article-title>Acute effects of ethanol on regional brain glucose metabolism and
+transport</article-title><source>Psychiatry research</source><year>1990</year><volume>35</volume><issue>1</issue><fpage>39</fpage><lpage>48</lpage><pub-id pub-id-type="pmid">2164230</pub-id></element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Wang</surname><given-names>GJ</given-names></name><name><surname>Franceschi</surname><given-names>D</given-names></name><name><surname>Fowler</surname><given-names>JS</given-names></name><name><surname>Thanos</surname><given-names>PP</given-names></name><name><surname>Maynard</surname><given-names>L</given-names></name><etal/></person-group><article-title>Low doses of alcohol substantially decrease glucose metabolism in
+the human brain</article-title><source>NeuroImage</source><year>2006</year><volume>29</volume><issue>1</issue><fpage>295</fpage><lpage>301</lpage><pub-id pub-id-type="pmid">16085426</pub-id></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Wang</surname><given-names>GJ</given-names></name><name><surname>Shokri Kojori</surname><given-names>E</given-names></name><name><surname>Fowler</surname><given-names>JS</given-names></name><name><surname>Benveniste</surname><given-names>H</given-names></name><name><surname>Tomasi</surname><given-names>D</given-names></name></person-group><article-title>Alcohol decreases baseline brain glucose metabolism more in heavy
+drinkers than controls but has no effect on stimulation-induced metabolic
+increases</article-title><source>The Journal of neuroscience : the official journal of the Society for
+Neuroscience</source><year>2015</year><volume>35</volume><issue>7</issue><fpage>3248</fpage><lpage>3255</lpage><pub-id pub-id-type="pmid">25698759</pub-id></element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>GJ</given-names></name><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Franceschi</surname><given-names>D</given-names></name><name><surname>Fowler</surname><given-names>JS</given-names></name><name><surname>Thanos</surname><given-names>PK</given-names></name><name><surname>Scherbaum</surname><given-names>N</given-names></name><etal/></person-group><article-title>Regional brain metabolism during alcohol
+intoxication</article-title><source>Alcoholism, clinical and experimental research</source><year>2000</year><volume>24</volume><issue>6</issue><fpage>822</fpage><lpage>829</lpage></element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kawano</surname><given-names>Y</given-names></name></person-group><article-title>Physio-pathological effects of alcohol on the cardiovascular
+system: its role in hypertension and cardiovascular disease</article-title><source>Hypertension research : official journal of the Japanese Society of
+Hypertension</source><year>2010</year><volume>33</volume><issue>3</issue><fpage>181</fpage><lpage>191</lpage><pub-id pub-id-type="pmid">20075936</pub-id></element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Luchtmann</surname><given-names>M</given-names></name><name><surname>Jachau</surname><given-names>K</given-names></name><name><surname>Tempelmann</surname><given-names>C</given-names></name><name><surname>Bernarding</surname><given-names>J</given-names></name></person-group><article-title>Alcohol induced region-dependent alterations of hemodynamic
+response: implications for the statistical interpretation of pharmacological
+fMRI studies</article-title><source>Experimental Brain Research Experimentelle Hirnforschung Experimentation
+Cerebrale</source><year>2010</year><volume>204</volume><issue>1</issue><fpage>1</fpage><lpage>10</lpage><pub-id pub-id-type="pmid">20502888</pub-id></element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Kim</surname><given-names>SW</given-names></name><name><surname>Wang</surname><given-names>GJ</given-names></name><name><surname>Alexoff</surname><given-names>D</given-names></name><name><surname>Logan</surname><given-names>J</given-names></name><name><surname>Muench</surname><given-names>L</given-names></name><etal/></person-group><article-title>Acute alcohol intoxication decreases glucose metabolism but
+increases acetate uptake in the human brain</article-title><source>NeuroImage</source><year>2013</year><volume>64</volume><fpage>277</fpage><lpage>283</lpage><pub-id pub-id-type="pmid">22947541</pub-id></element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brand</surname><given-names>A</given-names></name><name><surname>Richter-Landsberg</surname><given-names>C</given-names></name><name><surname>Leibfritz</surname><given-names>D</given-names></name></person-group><article-title>Metabolism of acetate in rat brain neurons, astrocytes and
+cocultures: metabolic interactions between neurons and glia cells, monitored
+by NMR spectroscopy</article-title><source>Cellular and molecular biology (Noisy-le-Grand, France)</source><year>1997</year><volume>43</volume><issue>5</issue><fpage>645</fpage><lpage>657</lpage></element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lotfi</surname><given-names>J</given-names></name><name><surname>Meyer</surname><given-names>JS</given-names></name></person-group><article-title>Cerebral hemodynamic and metabolic effects of chronic
+alcoholism</article-title><source>Cerebrovascular and brain metabolism reviews</source><year>1989</year><volume>1</volume><issue>1</issue><fpage>2</fpage><lpage>25</lpage><pub-id pub-id-type="pmid">2701368</pub-id></element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nicolas</surname><given-names>JM</given-names></name><name><surname>Catafau</surname><given-names>AM</given-names></name><name><surname>Estruch</surname><given-names>R</given-names></name><name><surname>Lomena</surname><given-names>FJ</given-names></name><name><surname>Salamero</surname><given-names>M</given-names></name><name><surname>Herranz</surname><given-names>R</given-names></name><etal/></person-group><article-title>Regional cerebral blood flow-SPECT in chronic alcoholism:
+relation to neuropsychological testing</article-title><source>Journal of nuclear medicine : official publication, Society of Nuclear
+Medicine</source><year>1993</year><volume>34</volume><issue>9</issue><fpage>1452</fpage><lpage>1459</lpage></element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>J</given-names></name><name><surname>Du</surname><given-names>H</given-names></name><name><surname>Jiang</surname><given-names>L</given-names></name><name><surname>Ma</surname><given-names>X</given-names></name><name><surname>de Graaf</surname><given-names>RA</given-names></name><name><surname>Behar</surname><given-names>KL</given-names></name><etal/></person-group><article-title>Oxidation of ethanol in the rat brain and effects associated with
+chronic ethanol exposure</article-title><source>Proceedings of the National Academy of Sciences of the United States of
+America</source><year>2013</year><volume>110</volume><issue>35</issue><fpage>14444</fpage><lpage>14449</lpage><pub-id pub-id-type="pmid">23940368</pub-id></element-citation></ref><ref id="R22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jiang</surname><given-names>L</given-names></name><name><surname>Gulanski</surname><given-names>BI</given-names></name><name><surname>De Feyter</surname><given-names>HM</given-names></name><name><surname>Weinzimer</surname><given-names>SA</given-names></name><name><surname>Pittman</surname><given-names>B</given-names></name><name><surname>Guidone</surname><given-names>E</given-names></name><etal/></person-group><article-title>Increased brain uptake and oxidation of acetate in heavy
+drinkers</article-title><source>The Journal of clinical investigation</source><year>2013</year><volume>123</volume><issue>4</issue><fpage>1605</fpage><lpage>1614</lpage><pub-id pub-id-type="pmid">23478412</pub-id></element-citation></ref><ref id="R23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gusnard</surname><given-names>DA</given-names></name><name><surname>Raichle</surname><given-names>ME</given-names></name><name><surname>Raichle</surname><given-names>ME</given-names></name></person-group><article-title>Searching for a baseline: functional imaging and the resting
+human brain</article-title><source>Nature reviews Neuroscience</source><year>2001</year><volume>2</volume><issue>10</issue><fpage>685</fpage><lpage>694</lpage><pub-id pub-id-type="pmid">11584306</pub-id></element-citation></ref><ref id="R24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Luca</surname><given-names>M</given-names></name><name><surname>Beckmann</surname><given-names>CF</given-names></name><name><surname>De Stefano</surname><given-names>N</given-names></name><name><surname>Matthews</surname><given-names>PM</given-names></name><name><surname>Smith</surname><given-names>SM</given-names></name></person-group><article-title>fMRI resting state networks define distinct modes of
+long-distance interactions in the human brain</article-title><source>NeuroImage</source><year>2006</year><volume>29</volume><issue>4</issue><fpage>1359</fpage><lpage>1367</lpage><pub-id pub-id-type="pmid">16260155</pub-id></element-citation></ref><ref id="R25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cordes</surname><given-names>D</given-names></name><name><surname>Haughton</surname><given-names>VM</given-names></name><name><surname>Arfanakis</surname><given-names>K</given-names></name><name><surname>Carew</surname><given-names>JD</given-names></name><name><surname>Turski</surname><given-names>PA</given-names></name><name><surname>Moritz</surname><given-names>CH</given-names></name><etal/></person-group><article-title>Frequencies contributing to functional connectivity in the
+cerebral cortex in &#x0201c;resting-state&#x0201d; data</article-title><source>AJNR American journal of neuroradiology</source><year>2001</year><volume>22</volume><issue>7</issue><fpage>1326</fpage><lpage>1333</lpage><pub-id pub-id-type="pmid">11498421</pub-id></element-citation></ref><ref id="R26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Du</surname><given-names>C</given-names></name><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Koretsky</surname><given-names>AP</given-names></name><name><surname>Pan</surname><given-names>Y</given-names></name></person-group><article-title>Low-frequency calcium oscillations accompany deoxyhemoglobin
+oscillations in rat somatosensory cortex</article-title><source>Proceedings of the National Academy of Sciences of the United States of
+America</source><year>2014</year><volume>111</volume><issue>43</issue><fpage>E4677</fpage><lpage>4686</lpage><pub-id pub-id-type="pmid">25313035</pub-id></element-citation></ref><ref id="R27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khalili-Mahani</surname><given-names>N</given-names></name><name><surname>Zoethout</surname><given-names>RM</given-names></name><name><surname>Beckmann</surname><given-names>CF</given-names></name><name><surname>Baerends</surname><given-names>E</given-names></name><name><surname>de Kam</surname><given-names>ML</given-names></name><name><surname>Soeter</surname><given-names>RP</given-names></name><etal/></person-group><article-title>Effects of morphine and alcohol on functional brain connectivity
+during &#x0201c;resting state&#x0201d;: a placebo-controlled crossover study
+in healthy young men</article-title><source>Human brain mapping</source><year>2012</year><volume>33</volume><issue>5</issue><fpage>1003</fpage><lpage>1018</lpage><pub-id pub-id-type="pmid">21391283</pub-id></element-citation></ref><ref id="R28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Weber</surname><given-names>AM</given-names></name><name><surname>Soreni</surname><given-names>N</given-names></name><name><surname>Noseworthy</surname><given-names>MD</given-names></name></person-group><article-title>A preliminary study on the effects of acute ethanol ingestion on
+default mode network and temporal fractal properties of the
+brain</article-title><source>Magma (New York, NY)</source><year>2014</year><volume>27</volume><issue>4</issue><fpage>291</fpage><lpage>301</lpage></element-citation></ref><ref id="R29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thayer</surname><given-names>RE</given-names></name><name><surname>Montanaro</surname><given-names>E</given-names></name><name><surname>Weiland</surname><given-names>BJ</given-names></name><name><surname>Callahan</surname><given-names>TJ</given-names></name><name><surname>Bryan</surname><given-names>AD</given-names></name></person-group><article-title>Exploring the relationship of functional network connectivity to
+latent trajectories of alcohol use and risky sex</article-title><source>Current HIV research</source><year>2014</year><volume>12</volume><issue>4</issue><fpage>293</fpage><lpage>300</lpage><pub-id pub-id-type="pmid">25053362</pub-id></element-citation></ref><ref id="R30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muller-Oehring</surname><given-names>EM</given-names></name><name><surname>Jung</surname><given-names>YC</given-names></name><name><surname>Pfefferbaum</surname><given-names>A</given-names></name><name><surname>Sullivan</surname><given-names>EV</given-names></name><name><surname>Schulte</surname><given-names>T</given-names></name></person-group><article-title>The Resting Brain of Alcoholics</article-title><source>Cerebral cortex (New York, NY : 1991)</source><year>2014</year></element-citation></ref><ref id="R31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhu</surname><given-names>X</given-names></name><name><surname>Cortes</surname><given-names>CR</given-names></name><name><surname>Mathur</surname><given-names>K</given-names></name><name><surname>Tomasi</surname><given-names>D</given-names></name><name><surname>Momenan</surname><given-names>R</given-names></name></person-group><article-title>Model-free functional connectivity and impulsivity correlates of
+alcohol dependence: a resting-state study</article-title><source>Addiction biology</source><year>2015</year></element-citation></ref><ref id="R32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomasi</surname><given-names>D</given-names></name><name><surname>Volkow</surname><given-names>ND</given-names></name></person-group><article-title>Functional connectivity density mapping</article-title><source>Proceedings of the National Academy of Sciences of the United States of
+America</source><year>2010</year><volume>107</volume><issue>21</issue><fpage>9885</fpage><lpage>9890</lpage><pub-id pub-id-type="pmid">20457896</pub-id></element-citation></ref><ref id="R33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomasi</surname><given-names>D</given-names></name><name><surname>Wang</surname><given-names>GJ</given-names></name><name><surname>Volkow</surname><given-names>ND</given-names></name></person-group><article-title>Energetic cost of brain functional connectivity</article-title><source>Proceedings of the National Academy of Sciences of the United States of
+America</source><year>2013</year><volume>110</volume><issue>33</issue><fpage>13642</fpage><lpage>13647</lpage><pub-id pub-id-type="pmid">23898179</pub-id></element-citation></ref><ref id="R34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sengupta</surname><given-names>B</given-names></name><name><surname>Stemmler</surname><given-names>M</given-names></name><name><surname>Laughlin</surname><given-names>SB</given-names></name><name><surname>Niven</surname><given-names>JE</given-names></name></person-group><article-title>Action potential energy efficiency varies among neuron types in
+vertebrates and invertebrates</article-title><source>PLoS computational biology</source><year>2010</year><volume>6</volume><fpage>e1000840</fpage><pub-id pub-id-type="pmid">20617202</pub-id></element-citation></ref><ref id="R35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harris</surname><given-names>GJ</given-names></name><name><surname>Oscar-Berman</surname><given-names>M</given-names></name><name><surname>Gansler</surname><given-names>A</given-names></name><name><surname>Streeter</surname><given-names>C</given-names></name><name><surname>Lewis</surname><given-names>RF</given-names></name><name><surname>Ahmed</surname><given-names>I</given-names></name><etal/></person-group><article-title>Hypoperfusion of the cerebellum and aging effects on cerebral
+cortex blood flow in abstinent alcoholics: a SPECT study</article-title><source>Alcoholism: Clinical and Experimental Research</source><year>1999</year><volume>23</volume><issue>7</issue><fpage>1219</fpage><lpage>1227</lpage></element-citation></ref><ref id="R36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Qin</surname><given-names>L</given-names></name><name><surname>Crews</surname><given-names>FT</given-names></name></person-group><article-title>Focal thalamic degeneration from ethanol and thiamine deficiency
+is associated with neuroimmune gene induction, microglial activation, and
+lack of monocarboxylic acid transporters</article-title><source>Alcoholism: Clinical and Experimental Research</source><year>2014</year><volume>38</volume><issue>3</issue><fpage>657</fpage><lpage>671</lpage></element-citation></ref><ref id="R37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abernathy</surname><given-names>K</given-names></name><name><surname>Chandler</surname><given-names>LJ</given-names></name><name><surname>Woodward</surname><given-names>JJ</given-names></name></person-group><article-title>Alcohol and the prefrontal cortex</article-title><source>International review of neurobiology</source><year>2010</year><volume>91</volume><fpage>289</fpage><lpage>320</lpage><pub-id pub-id-type="pmid">20813246</pub-id></element-citation></ref><ref id="R38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oscar-Berman</surname><given-names>M</given-names></name><name><surname>Marinkovic</surname><given-names>K</given-names></name></person-group><article-title>Alcoholism and the brain: an overview</article-title><source>Alcohol research &#x00026; health: the journal of the National Institute on
+Alcohol Abuse and Alcoholism</source><year>2003</year><volume>27</volume><issue>2</issue><fpage>125</fpage><pub-id pub-id-type="pmid">15303622</pub-id></element-citation></ref><ref id="R39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kong</surname><given-names>L</given-names></name><name><surname>Zheng</surname><given-names>W</given-names></name><name><surname>Lian</surname><given-names>G</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name></person-group><article-title>Acute effects of alcohol on the human brain: diffusion tensor
+imaging study</article-title><source>American Journal of Neuroradiology</source><year>2012</year><volume>33</volume><issue>5</issue><fpage>928</fpage><lpage>934</lpage><pub-id pub-id-type="pmid">22241391</pub-id></element-citation></ref><ref id="R40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Montgomery</surname><given-names>C</given-names></name><name><surname>Ashmore</surname><given-names>KV</given-names></name><name><surname>Jansari</surname><given-names>A</given-names></name></person-group><article-title>The effects of a modest dose of alcohol on executive functioning
+and prospective memory</article-title><source>Human Psychopharmacology: Clinical and Experimental</source><year>2011</year><volume>26</volume><issue>3</issue><fpage>208</fpage><lpage>215</lpage><pub-id pub-id-type="pmid">21542026</pub-id></element-citation></ref><ref id="R41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gilman</surname><given-names>JM</given-names></name><name><surname>Ramchandani</surname><given-names>VA</given-names></name><name><surname>Davis</surname><given-names>MB</given-names></name><name><surname>Bjork</surname><given-names>JM</given-names></name><name><surname>Hommer</surname><given-names>DW</given-names></name></person-group><article-title>Why we like to drink: a functional magnetic resonance imaging
+study of the rewarding and anxiolytic effects of alcohol</article-title><source>The Journal of Neuroscience</source><year>2008</year><volume>28</volume><issue>18</issue><fpage>4583</fpage><lpage>4591</lpage><pub-id pub-id-type="pmid">18448634</pub-id></element-citation></ref><ref id="R42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomasi</surname><given-names>D</given-names></name><name><surname>Wang</surname><given-names>R</given-names></name><name><surname>Telang</surname><given-names>F</given-names></name><name><surname>Boronikolas</surname><given-names>V</given-names></name><name><surname>Jayne</surname><given-names>M</given-names></name><name><surname>Wang</surname><given-names>G-J</given-names></name><etal/></person-group><article-title>Impairment of attentional networks after 1 night of sleep
+deprivation</article-title><source>Cerebral cortex</source><year>2009</year><volume>19</volume><issue>1</issue><fpage>233</fpage><lpage>240</lpage><pub-id pub-id-type="pmid">18483003</pub-id></element-citation></ref><ref id="R43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Wang</surname><given-names>G-J</given-names></name><name><surname>Hitzemann</surname><given-names>R</given-names></name><name><surname>Fowler</surname><given-names>JS</given-names></name><name><surname>Pappas</surname><given-names>N</given-names></name><name><surname>Lowrimore</surname><given-names>P</given-names></name><etal/></person-group><article-title>Depression of thalamic metabolism by lorazepam is associated with
+sleepiness</article-title><source>Neuropsychopharmacology</source><year>1995</year><volume>12</volume><issue>2</issue><fpage>123</fpage><lpage>132</lpage><pub-id pub-id-type="pmid">7779240</pub-id></element-citation></ref><ref id="R44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhu</surname><given-names>W</given-names></name><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Ma</surname><given-names>Y</given-names></name><name><surname>Fowler</surname><given-names>JS</given-names></name><name><surname>Wang</surname><given-names>G-J</given-names></name></person-group><article-title>Relationship between ethanol-induced changes in brain regional
+metabolism and its motor, behavioural and cognitive effects</article-title><source>Alcohol and Alcoholism</source><year>2004</year><volume>39</volume><issue>1</issue><fpage>53</fpage><lpage>58</lpage><pub-id pub-id-type="pmid">14691075</pub-id></element-citation></ref><ref id="R45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sullivan</surname><given-names>E</given-names></name><name><surname>Rosenbloom</surname><given-names>M</given-names></name><name><surname>Pfefferbaum</surname><given-names>A</given-names></name></person-group><article-title>Pattern of motor and cognitive deficits in detoxified alcoholic
+men</article-title><source>Alcoholism: clinical and experimental research</source><year>2000</year><volume>24</volume><issue>5</issue><fpage>611</fpage><lpage>621</lpage></element-citation></ref><ref id="R46"><label>46</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stavro</surname><given-names>K</given-names></name><name><surname>Pelletier</surname><given-names>J</given-names></name><name><surname>Potvin</surname><given-names>S</given-names></name></person-group><article-title>Widespread and sustained cognitive deficits in alcoholism: a
+meta-analysis</article-title><source>Addiction biology</source><year>2013</year><volume>18</volume><issue>2</issue><fpage>203</fpage><lpage>213</lpage><pub-id pub-id-type="pmid">22264351</pub-id></element-citation></ref><ref id="R47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fein</surname><given-names>G</given-names></name><name><surname>Di Sclafani</surname><given-names>V</given-names></name></person-group><article-title>Cerebral reserve capacity: implications for alcohol and drug
+abuse</article-title><source>Alcohol (Fayetteville, NY)</source><year>2004</year><volume>32</volume><issue>1</issue><fpage>63</fpage><lpage>67</lpage></element-citation></ref><ref id="R48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>No&#x000eb;l</surname><given-names>X</given-names></name><name><surname>Paternot</surname><given-names>J</given-names></name><name><surname>Van der Linden</surname><given-names>M</given-names></name><name><surname>Sferrazza</surname><given-names>R</given-names></name><name><surname>Verhas</surname><given-names>M</given-names></name><name><surname>Hanak</surname><given-names>C</given-names></name><etal/></person-group><article-title>Correlation between inhibition, working memory and delimited
+frontal area blood flow measured by 99MTC&#x02013;bicisate spect in
+alcohol&#x02013;dependent patients</article-title><source>Alcohol and Alcoholism</source><year>2001</year><volume>36</volume><issue>6</issue><fpage>556</fpage><lpage>563</lpage><pub-id pub-id-type="pmid">11704622</pub-id></element-citation></ref><ref id="R49"><label>49</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spadone</surname><given-names>S</given-names></name><name><surname>Della Penna</surname><given-names>S</given-names></name><name><surname>Sestieri</surname><given-names>C</given-names></name><name><surname>Betti</surname><given-names>V</given-names></name><name><surname>Tosoni</surname><given-names>A</given-names></name><name><surname>Perrucci</surname><given-names>MG</given-names></name><etal/></person-group><article-title>Dynamic reorganization of human resting-state networks during
+visuospatial attention</article-title><source>Proceedings of the National Academy of Sciences</source><year>2015</year><volume>112</volume><issue>26</issue><fpage>8112</fpage><lpage>8117</lpage></element-citation></ref><ref id="R50"><label>50</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fitzpatrick</surname><given-names>LE</given-names></name><name><surname>Crowe</surname><given-names>SF</given-names></name></person-group><article-title>Cognitive and emotional deficits in chronic alcoholics: a role
+for the cerebellum?</article-title><source>The Cerebellum</source><year>2013</year><volume>12</volume><issue>4</issue><fpage>520</fpage><lpage>533</lpage><pub-id pub-id-type="pmid">23436003</pub-id></element-citation></ref><ref id="R51"><label>51</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Valenzuela</surname><given-names>CF</given-names></name></person-group><article-title>Alcohol and neurotransmitter interactions</article-title><source>Alcohol health and research world</source><year>1997</year><volume>21</volume><issue>2</issue><fpage>144</fpage><lpage>148</lpage><pub-id pub-id-type="pmid">15704351</pub-id></element-citation></ref><ref id="R52"><label>52</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chastain</surname><given-names>G</given-names></name></person-group><article-title>Alcohol, neurotransmitter systems, and behavior</article-title><source>The Journal of general psychology</source><year>2006</year><volume>133</volume><issue>4</issue><fpage>329</fpage><lpage>335</lpage><pub-id pub-id-type="pmid">17128954</pub-id></element-citation></ref><ref id="R53"><label>53</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Begleiter</surname><given-names>H</given-names></name><name><surname>Kissin</surname><given-names>B</given-names></name></person-group><source>The Pharmacology of Alcohol and Alcohol Dependence</source><publisher-name>Oxford University Press</publisher-name><publisher-loc>New York, NY, USA</publisher-loc><year>1996</year></element-citation></ref><ref id="R54"><label>54</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lloyd</surname><given-names>B</given-names></name><name><surname>Burrin</surname><given-names>J</given-names></name><name><surname>Smythe</surname><given-names>P</given-names></name><name><surname>Alberti</surname><given-names>KG</given-names></name></person-group><article-title>Enzymic fluorometric continuous-flow assays for blood glucose,
+lactate, pyruvate, alanine, glycerol, and 3-hydroxybutyrate</article-title><source>Clinical chemistry</source><year>1978</year><volume>24</volume><issue>10</issue><fpage>1724</fpage><lpage>1729</lpage><pub-id pub-id-type="pmid">699277</pub-id></element-citation></ref><ref id="R55"><label>55</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hersen</surname><given-names>M</given-names></name></person-group><source>Comprehensive Handbook of Psychological Assessment, Intellectual and
+Neuropsychological Assessment</source><publisher-name>Wiley</publisher-name><publisher-loc>Hoboken, NJ, USA</publisher-loc><year>2004</year></element-citation></ref><ref id="R56"><label>56</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Friston</surname><given-names>KJ</given-names></name><name><surname>Holmes</surname><given-names>AP</given-names></name><name><surname>Poline</surname><given-names>JB</given-names></name><name><surname>Grasby</surname><given-names>PJ</given-names></name><name><surname>Williams</surname><given-names>SC</given-names></name><name><surname>Frackowiak</surname><given-names>RS</given-names></name><etal/></person-group><article-title>Analysis of fMRI time-series revisited</article-title><source>NeuroImage</source><year>1995</year><volume>2</volume><issue>1</issue><fpage>45</fpage><lpage>53</lpage><pub-id pub-id-type="pmid">9343589</pub-id></element-citation></ref><ref id="R57"><label>57</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Power</surname><given-names>JD</given-names></name><name><surname>Barnes</surname><given-names>KA</given-names></name><name><surname>Snyder</surname><given-names>AZ</given-names></name><name><surname>Schlaggar</surname><given-names>BL</given-names></name><name><surname>Petersen</surname><given-names>SE</given-names></name></person-group><article-title>Spurious but systematic correlations in functional connectivity
+MRI networks arise from subject motion</article-title><source>NeuroImage</source><year>2012</year><volume>59</volume><issue>3</issue><fpage>2142</fpage><lpage>2154</lpage><pub-id pub-id-type="pmid">22019881</pub-id></element-citation></ref><ref id="R58"><label>58</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rubinov</surname><given-names>M</given-names></name><name><surname>Sporns</surname><given-names>O</given-names></name></person-group><article-title>Complex network measures of brain connectivity: uses and
+interpretations</article-title><source>NeuroImage</source><year>2010</year><volume>52</volume><issue>3</issue><fpage>1059</fpage><lpage>1069</lpage><pub-id pub-id-type="pmid">19819337</pub-id></element-citation></ref><ref id="R59"><label>59</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van den Heuvel</surname><given-names>MP</given-names></name><name><surname>Stam</surname><given-names>CJ</given-names></name><name><surname>Boersma</surname><given-names>M</given-names></name><name><surname>Hulshoff Pol</surname><given-names>HE</given-names></name></person-group><article-title>Small-world and scale-free organization of voxel-based
+resting-state functional connectivity in the human brain</article-title><source>NeuroImage</source><year>2008</year><volume>43</volume><issue>3</issue><fpage>528</fpage><lpage>539</lpage><pub-id pub-id-type="pmid">18786642</pub-id></element-citation></ref><ref id="R60"><label>60</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomasi</surname><given-names>D</given-names></name><name><surname>Volkow</surname><given-names>ND</given-names></name></person-group><article-title>Functional connectivity hubs in the human brain</article-title><source>NeuroImage</source><year>2011</year><volume>57</volume><issue>3</issue><fpage>908</fpage><lpage>917</lpage><pub-id pub-id-type="pmid">21609769</pub-id></element-citation></ref><ref id="R61"><label>61</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>de Jong</surname><given-names>S</given-names></name></person-group><article-title>SIMPLS: An alternative approach to partial least squares
+regression</article-title><source>Chemometrics and Intelligent Laboratory Systems</source><year>1993</year><volume>18</volume><issue>3</issue><fpage>251</fpage><lpage>263</lpage></element-citation></ref><ref id="R62"><label>62</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Abdi</surname><given-names>H</given-names></name></person-group><article-title>Partial least square regression (PLS regression)</article-title><source>Encyclopedia for research methods for the social sciences</source><publisher-name>Sage</publisher-name><publisher-loc>Thousand Oaks, CA, USA</publisher-loc><year>2003</year><fpage>792</fpage><lpage>795</lpage></element-citation></ref><ref id="R63"><label>63</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McFarland</surname><given-names>NR</given-names></name><name><surname>Haber</surname><given-names>SN</given-names></name></person-group><article-title>Convergent inputs from thalamic motor nuclei and frontal cortical
+areas to the dorsal striatum in the primate</article-title><source>The Journal of neuroscience : the official journal of the Society for
+Neuroscience</source><year>2000</year><volume>20</volume><issue>10</issue><fpage>3798</fpage><lpage>3813</lpage><pub-id pub-id-type="pmid">10804220</pub-id></element-citation></ref><ref id="R64"><label>64</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alelu-Paz</surname><given-names>R</given-names></name><name><surname>Gimenez-Amaya</surname><given-names>JM</given-names></name></person-group><article-title>The mediodorsal thalamic nucleus and
+schizophrenia</article-title><source>Journal of psychiatry &#x00026; neuroscience : JPN</source><year>2008</year><volume>33</volume><issue>6</issue><fpage>489</fpage><lpage>498</lpage><pub-id pub-id-type="pmid">18982171</pub-id></element-citation></ref><ref id="R65"><label>65</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chudasama</surname><given-names>Y</given-names></name><name><surname>Muir</surname><given-names>JL</given-names></name></person-group><article-title>Visual attention in the rat: a role for the prelimbic cortex and
+thalamic nuclei?</article-title><source>Behavioral neuroscience</source><year>2001</year><volume>115</volume><issue>2</issue><fpage>417</fpage><lpage>428</lpage><pub-id pub-id-type="pmid">11345966</pub-id></element-citation></ref><ref id="R66"><label>66</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>Z</given-names></name><name><surname>Xu</surname><given-names>Y</given-names></name><name><surname>Warner</surname><given-names>D</given-names></name><name><surname>Volkow</surname><given-names>ND</given-names></name></person-group><article-title>Alcohol ADME in Primates Studied with Positron Emission
+Tomography</article-title><source>PLoS ONE</source><year>2012</year><volume>7</volume><issue>10</issue></element-citation></ref><ref id="R67"><label>67</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garcia-Cabezas</surname><given-names>MA</given-names></name><name><surname>Martinez-Sanchez</surname><given-names>P</given-names></name><name><surname>Sanchez-Gonzalez</surname><given-names>MA</given-names></name><name><surname>Garzon</surname><given-names>M</given-names></name><name><surname>Cavada</surname><given-names>C</given-names></name></person-group><article-title>Dopamine innervation in the thalamus: monkey versus
+rat</article-title><source>Cerebral cortex (New York, NY : 1991)</source><year>2009</year><volume>19</volume><issue>2</issue><fpage>424</fpage><lpage>434</lpage></element-citation></ref><ref id="R68"><label>68</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Melchitzky</surname><given-names>DS</given-names></name><name><surname>Erickson</surname><given-names>SL</given-names></name><name><surname>Lewis</surname><given-names>DA</given-names></name></person-group><article-title>Dopamine innervation of the monkey mediodorsal thalamus: Location
+of projection neurons and ultrastructural characteristics of axon
+terminals</article-title><source>Neuroscience</source><year>2006</year><volume>143</volume><issue>4</issue><fpage>1021</fpage><lpage>1030</lpage><pub-id pub-id-type="pmid">17029800</pub-id></element-citation></ref><ref id="R69"><label>69</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Tomasi</surname><given-names>D</given-names></name><name><surname>Wang</surname><given-names>GJ</given-names></name><name><surname>Telang</surname><given-names>F</given-names></name><name><surname>Fowler</surname><given-names>JS</given-names></name><name><surname>Logan</surname><given-names>J</given-names></name><etal/></person-group><article-title>Predominance of D2 Receptors in Mediating Dopamine&#x02019;s
+Effects in Brain Metabolism: Effects of Alcoholism</article-title><source>The Journal of neuroscience : the official journal of the Society for
+Neuroscience</source><year>2013</year><volume>33</volume><issue>10</issue><fpage>4527</fpage><lpage>4535</lpage><pub-id pub-id-type="pmid">23467368</pub-id></element-citation></ref><ref id="R70"><label>70</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abeliovich</surname><given-names>A</given-names></name><name><surname>Hammond</surname><given-names>R</given-names></name></person-group><article-title>Midbrain dopamine neuron differentiation: factors and
+fates</article-title><source>Developmental biology</source><year>2007</year><volume>304</volume><issue>2</issue><fpage>447</fpage><lpage>454</lpage><pub-id pub-id-type="pmid">17331494</pub-id></element-citation></ref><ref id="R71"><label>71</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okamoto</surname><given-names>T</given-names></name><name><surname>Harnett</surname><given-names>MT</given-names></name><name><surname>Morikawa</surname><given-names>H</given-names></name></person-group><article-title>Hyperpolarization-activated cation current (Ih) is an ethanol
+target in midbrain dopamine neurons of mice</article-title><source>Journal of neurophysiology</source><year>2006</year><volume>95</volume><issue>2</issue><fpage>619</fpage><lpage>626</lpage><pub-id pub-id-type="pmid">16148268</pub-id></element-citation></ref><ref id="R72"><label>72</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baker</surname><given-names>KG</given-names></name><name><surname>Harding</surname><given-names>AJ</given-names></name><name><surname>Halliday</surname><given-names>GM</given-names></name><name><surname>Kril</surname><given-names>JJ</given-names></name><name><surname>Harper</surname><given-names>CG</given-names></name></person-group><article-title>Neuronal loss in functional zones of the cerebellum of chronic
+alcoholics with and without Wernicke&#x02019;s
+encephalopathy</article-title><source>Neuroscience</source><year>1999</year><volume>91</volume><issue>2</issue><fpage>429</fpage><lpage>438</lpage><pub-id pub-id-type="pmid">10366000</pub-id></element-citation></ref><ref id="R73"><label>73</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Steele</surname><given-names>CM</given-names></name><name><surname>Southwick</surname><given-names>L</given-names></name></person-group><article-title>Alcohol and social behavior I: The psychology of drunken
+excess</article-title><source>Journal of personality and social psychology</source><year>1985</year><volume>48</volume><issue>1</issue><fpage>18</fpage><lpage>34</lpage><pub-id pub-id-type="pmid">3981386</pub-id></element-citation></ref><ref id="R74"><label>74</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fillmore</surname><given-names>MT</given-names></name><name><surname>Vogel-Sprott</surname><given-names>M</given-names></name></person-group><article-title>Response inhibition under alcohol: effects of cognitive and
+motivational conflict</article-title><source>Journal of studies on alcohol</source><year>2000</year><volume>61</volume><issue>2</issue><fpage>239</fpage><lpage>246</lpage><pub-id pub-id-type="pmid">10757134</pub-id></element-citation></ref><ref id="R75"><label>75</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brumback</surname><given-names>T</given-names></name><name><surname>Cao</surname><given-names>D</given-names></name><name><surname>King</surname><given-names>A</given-names></name></person-group><article-title>Effects of alcohol on psychomotor performance and perceived
+impairment in heavy binge social drinkers</article-title><source>Drug and alcohol dependence</source><year>2007</year><volume>91</volume><issue>1</issue><fpage>10</fpage><lpage>17</lpage><pub-id pub-id-type="pmid">17560739</pub-id></element-citation></ref><ref id="R76"><label>76</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bjork</surname><given-names>JM</given-names></name><name><surname>Gilman</surname><given-names>JM</given-names></name></person-group><article-title>The effects of acute alcohol administration on the human brain:
+insights from neuroimaging</article-title><source>Neuropharmacology</source><year>2014</year><volume>84</volume><fpage>101</fpage><lpage>110</lpage><pub-id pub-id-type="pmid">23978384</pub-id></element-citation></ref><ref id="R77"><label>77</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Volkow</surname><given-names>ND</given-names></name><name><surname>Hitzemann</surname><given-names>R</given-names></name><name><surname>Wang</surname><given-names>GJ</given-names></name><name><surname>Fowler</surname><given-names>JS</given-names></name><name><surname>Burr</surname><given-names>G</given-names></name><name><surname>Pascani</surname><given-names>K</given-names></name><etal/></person-group><article-title>Decreased brain metabolism in neurologically intact healthy
+alcoholics</article-title><source>The American journal of psychiatry</source><year>1992</year><volume>149</volume><issue>8</issue><fpage>1016</fpage><lpage>1022</lpage><pub-id pub-id-type="pmid">1636801</pub-id></element-citation></ref><ref id="R78"><label>78</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khalili-Mahani</surname><given-names>N</given-names></name><name><surname>van Osch</surname><given-names>MJ</given-names></name><name><surname>de Rooij</surname><given-names>M</given-names></name><name><surname>Beckmann</surname><given-names>CF</given-names></name><name><surname>van Buchem</surname><given-names>MA</given-names></name><name><surname>Dahan</surname><given-names>A</given-names></name><etal/></person-group><article-title>Spatial heterogeneity of the relation between resting-state
+connectivity and blood flow: an important consideration for pharmacological
+studies</article-title><source>Human brain mapping</source><year>2014</year><volume>35</volume><issue>3</issue><fpage>929</fpage><lpage>942</lpage><pub-id pub-id-type="pmid">23281174</pub-id></element-citation></ref><ref id="R79"><label>79</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gundersen</surname><given-names>H</given-names></name><name><surname>van Wageningen</surname><given-names>H</given-names></name><name><surname>Gruner</surname><given-names>R</given-names></name></person-group><article-title>Alcohol-induced changes in cerebral blood flow and cerebral blood
+volume in social drinkers</article-title><source>Alcohol and alcoholism (Oxford, Oxfordshire)</source><year>2013</year><volume>48</volume><issue>2</issue><fpage>160</fpage><lpage>165</lpage></element-citation></ref><ref id="R80"><label>80</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Christie</surname><given-names>IC</given-names></name><name><surname>Price</surname><given-names>J</given-names></name><name><surname>Edwards</surname><given-names>L</given-names></name><name><surname>Muldoon</surname><given-names>M</given-names></name><name><surname>Meltzer</surname><given-names>CC</given-names></name><name><surname>Jennings</surname><given-names>JR</given-names></name></person-group><article-title>Alcohol consumption and cerebral blood flow among older
+adults</article-title><source>Alcohol (Fayetteville, NY)</source><year>2008</year><volume>42</volume><issue>4</issue><fpage>269</fpage><lpage>275</lpage></element-citation></ref><ref id="R81"><label>81</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hata</surname><given-names>T</given-names></name><name><surname>Meyer</surname><given-names>JS</given-names></name><name><surname>Tanahashi</surname><given-names>N</given-names></name><name><surname>Ishikawa</surname><given-names>Y</given-names></name><name><surname>Imai</surname><given-names>A</given-names></name><name><surname>Shinohara</surname><given-names>T</given-names></name><etal/></person-group><article-title>Three-dimensional mapping of local cerebral perfusion in
+alcoholic encephalopathy with and without Wernicke-Korsakoff
+syndrome</article-title><source>Journal of cerebral blood flow and metabolism : official journal of the
+International Society of Cerebral Blood Flow and Metabolism</source><year>1987</year><volume>7</volume><issue>1</issue><fpage>35</fpage><lpage>44</lpage></element-citation></ref><ref id="R82"><label>82</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cahill</surname><given-names>L</given-names></name></person-group><article-title>Fundamental sex difference in human brain
+architecture</article-title><source>Proc Natl Acad Sci USA</source><year>2014</year><volume>111</volume><fpage>577</fpage><lpage>578</lpage><pub-id pub-id-type="pmid">24381154</pub-id></element-citation></ref><ref id="R83"><label>83</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomasi</surname><given-names>D</given-names></name><name><surname>Volkow</surname><given-names>ND</given-names></name></person-group><article-title>Gender differences in brain functional connectivity
+density</article-title><source>Human brain mapping</source><year>2012</year><volume>33</volume><issue>4</issue><fpage>849</fpage><lpage>860</lpage><pub-id pub-id-type="pmid">21425398</pub-id></element-citation></ref><ref id="R84"><label>84</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Joel</surname><given-names>D</given-names></name><name><surname>Berman</surname><given-names>Z</given-names></name><name><surname>Tavor</surname><given-names>I</given-names></name><name><surname>Wexler</surname><given-names>N</given-names></name><name><surname>Gaber</surname><given-names>O</given-names></name><name><surname>Stein</surname><given-names>Y</given-names></name><etal/></person-group><article-title>Sex beyond the genitalia: The human brain mosaic</article-title><source>Proceedings of the National Academy of Sciences</source><year>2015</year><volume>112</volume><issue>50</issue><fpage>15468</fpage><lpage>15473</lpage></element-citation></ref></ref-list></back><floats-group><fig id="F1" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Main effects of Group and Alcohol for local functional connectivity density
+(lFCD). a) Left (L) and right (R) views of the effect of Group (Heavy Drinkers
+(HD) &#x0003c; Normal Controls (NM); <italic>p</italic><sub>FWE</sub> &#x0003c; 0.05)
+superimposed on lateral and medial views of the cerebral surface. b) Posterior
+(P) and anterior (A) views of the effect of Group (HD &#x0003e; NM;
+<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05) only in the cerebellum. c) Main
+effect of Alcohol for lFCD. Left (L) and right (R) views of the effect of
+Alcohol within the Thalamus ventral lateral nucleus (VLN) cluster (Alcohol (ALC)
+&#x0003e; Placebo (PLC); <italic>p</italic><sub>FWE</sub> &#x0003c; 0.05).</p></caption><graphic xlink:href="nihms758069f1"/></fig><fig id="F2" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Effects of Group and Alcohol on local functional connectivity density (lFCD)
+ROIs. Group average lFCD of the voxels showing main effects of Group
+(a&#x02013;e, g) and Alcohol (f) as well as the whole brain (h). The error bars
+show group standard deviations.</p></caption><graphic xlink:href="nihms758069f2"/></fig><fig id="F3" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Main effect of Group and Alcohol for global functional connectivity density
+(gFCD). a) Left (L) and right (R) views of the effect of Group in Calcarine (HD
+&#x0003c; NM; <italic>p</italic><sub>FWE</sub> &#x0003c; 0.05) superimposed on lateral and
+medial views of the cerebral surface. b) Posterior (P) and anterior (A) views of
+the effect of group (HD &#x0003e; NM; <italic>p</italic><sub>FWE</sub> &#x0003c; 0.05)
+only in the cerebellum. c) Main effect of alcohol for gFCD. Left (L) and right
+(R) views of the effect of Alcohol within the thalamus (ALC &#x0003e; PLC;
+<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05).</p></caption><graphic xlink:href="nihms758069f3"/></fig><fig id="F4" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Effects of Group and Alcohol on global functional connectivity density (gFCD)
+ROIs. Group average gFCD of the voxels showing main effects of Group (a, c) and
+Alcohol (b) as well as the whole brain (d). The error bars show group standard
+deviation.</p></caption><graphic xlink:href="nihms758069f4"/></fig><fig id="F5" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Between-subject correlation matrix (10 &#x000d7; 10) between 7 local functional
+connectivity density (lFCD) and 3 global functional connectivity density (gFCD)
+ROIs across subjects in (a) normal controls (NM) in placebo (PLC) condition, (b)
+heavy drinkers (HD) in PLC condition, (c) NM in alcohol (ALC) condition and (d)
+HD in ALC condition. Full correlations (controlling for gender and smoking) are
+shown below diagonal (black line) and partial correlations (removing effect of
+other ROIs and controlling for gender and smoking) are shown above diagonal..
+The colorbars in (a&#x02013;d) indicate that positive correlations are shown in
+red-yellow and negative correlations are shown in blue-green. The
+<italic>z</italic>-score of the change in correlation are depicted in (e)
+for NM and (f) for HD. The colorbars in (e&#x02013;f) indicate that positive
+changes (indexed by <italic>z</italic>-scores) are shown in red-yellow and
+negative correlations are shown in blue-green.</p></caption><graphic xlink:href="nihms758069f5"/></fig><fig id="F6" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Neurocognitive coupling analysis on local functional connectivity density (lFCD)
+and global functional connectivity density (gFCD) ROIs. (a&#x02013;b) 10-bin
+histogram of <italic>z</italic>-transformed correlations between the 18
+behavioral measures showing main effects of Group or Alcohol and the 10 ROI FCDs
+showing main effects of Group or Alcohol in normal controls (NM) (a) and heavy
+drinkers (HD) (b) in placebo (PLC) condition (blue) and alcohol (ALC) condition
+(red) as well as normal fits to the corresponding histograms in dark red and
+dark blue. (c&#x02013;h) Matrices of <italic>p</italic>-values estimated from a
+permutation test on the PLS regression component loadings, showing the strength
+of association between each ROI FCD and a behavioral category for NM in PLC (c),
+HD in PLC (d), NM in ALC (e), HD in ALC (f), NM for changes from ALC to PLC (g),
+and HD for changes from ALC to PLC (h). Gray-scale bars indicate the range of
+<italic>p</italic>-values (range: 0&#x02013;0.1) shown in (c&#x02013;h).</p></caption><graphic xlink:href="nihms758069f6"/></fig><table-wrap id="T1" position="float" orientation="landscape"><label>Table 1</label><caption><p>Main effects of Group and Alcohol for lFCD (cluster size corrected,
+<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05). All coordinates are in MNI
+space (voxel size = 3 mm isotropic).</p></caption><table frame="hsides" rules="groups"><thead><tr><th valign="middle" align="left" rowspan="1" colspan="1">ROI name and additional region(s)</th><th valign="middle" align="center" rowspan="1" colspan="1">Direction</th><th valign="middle" align="center" rowspan="1" colspan="1">Brodmann area(s)</th><th valign="middle" align="center" rowspan="1" colspan="1">Cluster size</th><th colspan="3" valign="middle" align="center" rowspan="1">Peak coordinates (x, y,
+z)<sub>mm</sub></th><th valign="middle" align="center" rowspan="1" colspan="1">Peak <italic>t</italic>-value</th></tr></thead><tbody><tr><td colspan="8" align="left" valign="middle" rowspan="1"><bold>Calcarine</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Middle Occipital
+Gyrus</italic></bold></td><td align="center" valign="middle" rowspan="3" colspan="1">HD &#x0003c; NM</td><td align="center" valign="middle" rowspan="3" colspan="1">18, 19, 30, 39</td><td align="center" valign="middle" rowspan="3" colspan="1">377</td><td align="center" valign="middle" rowspan="3" colspan="1">&#x02212;15</td><td align="center" valign="middle" rowspan="3" colspan="1">&#x02212;63</td><td align="center" valign="middle" rowspan="3" colspan="1">3</td><td align="center" valign="middle" rowspan="3" colspan="1"><bold>5.42</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Middle Temporal
+Gyrus (left)</italic></bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Posterior
+Cingulate</italic></bold></td></tr><tr><td colspan="8" valign="bottom" align="left" rowspan="1">
+<hr/></td></tr><tr><td colspan="8" align="left" valign="middle" rowspan="1"><bold>Cerebellum</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Crus I &#x00026;
+II</italic></bold></td><td align="center" valign="middle" rowspan="2" colspan="1">HD &#x0003e; NM</td><td align="center" valign="middle" rowspan="2" colspan="1">-</td><td align="center" valign="middle" rowspan="2" colspan="1">1574</td><td align="center" valign="middle" rowspan="2" colspan="1">39</td><td align="center" valign="middle" rowspan="2" colspan="1">&#x02212;57</td><td align="center" valign="middle" rowspan="2" colspan="1">&#x02212;39</td><td align="center" valign="middle" rowspan="2" colspan="1"><bold>19.32</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Tonsil</italic></bold></td></tr><tr><td colspan="8" valign="bottom" align="left" rowspan="1">
+<hr/></td></tr><tr><td colspan="8" align="left" valign="middle" rowspan="1"><bold>PFC</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Middle Frontal
+Gyrus</italic></bold></td><td align="center" valign="middle" rowspan="2" colspan="1">HD &#x0003c; NM</td><td align="center" valign="middle" rowspan="2" colspan="1">10</td><td align="center" valign="middle" rowspan="2" colspan="1">87</td><td align="center" valign="middle" rowspan="2" colspan="1">&#x02212;18</td><td align="center" valign="middle" rowspan="2" colspan="1">66</td><td align="center" valign="middle" rowspan="2" colspan="1">6</td><td align="center" valign="middle" rowspan="2" colspan="1"><bold>3.77</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Superior Frontal
+Gyrus</italic></bold></td></tr><tr><td colspan="8" valign="bottom" align="left" rowspan="1">
+<hr/></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1"><bold>Posterior Cingulate</bold></td><td align="center" valign="middle" rowspan="1" colspan="1">HD &#x0003c; NM</td><td align="center" valign="middle" rowspan="1" colspan="1">23</td><td align="center" valign="middle" rowspan="1" colspan="1">124</td><td align="center" valign="middle" rowspan="1" colspan="1">0</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;15</td><td align="center" valign="middle" rowspan="1" colspan="1">24</td><td align="center" valign="middle" rowspan="1" colspan="1"><bold>6.93</bold></td></tr><tr><td colspan="8" valign="bottom" align="left" rowspan="1">
+<hr/></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1"><bold>Precuneus</bold></td><td align="center" valign="middle" rowspan="1" colspan="1">HD &#x0003c; NM</td><td align="center" valign="middle" rowspan="1" colspan="1">7, 31</td><td align="center" valign="middle" rowspan="1" colspan="1">103</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;3</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;39</td><td align="center" valign="middle" rowspan="1" colspan="1">45</td><td align="center" valign="middle" rowspan="1" colspan="1"><bold>6.57</bold></td></tr><tr><td colspan="8" valign="bottom" align="left" rowspan="1">
+<hr/></td></tr><tr><td colspan="8" align="left" valign="middle" rowspan="1"><bold>Thalamus
+(MDN)</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Medial Dorsal
+Nucleus</italic></bold></td><td align="center" valign="middle" rowspan="3" colspan="1">HD &#x0003c; NM</td><td align="center" valign="middle" rowspan="3" colspan="1">-</td><td align="center" valign="middle" rowspan="3" colspan="1">295</td><td align="center" valign="middle" rowspan="3" colspan="1">6</td><td align="center" valign="middle" rowspan="3" colspan="1">&#x02212;15</td><td align="center" valign="middle" rowspan="3" colspan="1">3</td><td align="center" valign="middle" rowspan="3" colspan="1"><bold>6.07</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Midbrain</italic></bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Ventral Lateral
+Nucleus</italic></bold></td></tr><tr><td colspan="8" valign="bottom" align="left" rowspan="1">
+<hr/></td></tr><tr><td colspan="8" align="left" valign="middle" rowspan="1"><bold>Thalamus
+(VLN)</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Medial Dorsal
+Nucleus (MDN)</italic></bold></td><td align="center" valign="middle" rowspan="3" colspan="1">ALC &#x0003e; PLC</td><td align="center" valign="middle" rowspan="3" colspan="1">-</td><td align="center" valign="middle" rowspan="3" colspan="1">113</td><td align="center" valign="middle" rowspan="3" colspan="1">12</td><td align="center" valign="middle" rowspan="3" colspan="1">&#x02212;12</td><td align="center" valign="middle" rowspan="3" colspan="1">9</td><td align="center" valign="middle" rowspan="3" colspan="1"><bold>4.58</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Lentiform
+Nucleus</italic></bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Ventral Lateral
+Nucleus (VLN)</italic></bold></td></tr></tbody></table></table-wrap><table-wrap id="T2" position="float" orientation="landscape"><label>Table 2</label><caption><p>Main effects of Group and Alcohol for gFCD (cluster size corrected,
+<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05). All coordinates are in MNI
+space (voxel size = 3 mm isotropic).</p></caption><table frame="hsides" rules="groups"><thead><tr><th valign="middle" align="left" rowspan="1" colspan="1">ROI name and additional region(s)</th><th valign="middle" align="center" rowspan="1" colspan="1">Direction</th><th valign="middle" align="center" rowspan="1" colspan="1">Brodmann area(s)</th><th valign="middle" align="center" rowspan="1" colspan="1">Cluster size</th><th colspan="3" valign="middle" align="center" rowspan="1">Peak coordinates (x, y,
+z)<sub>mm</sub></th><th valign="middle" align="center" rowspan="1" colspan="1">Peak <italic>t</italic>-value</th></tr></thead><tbody><tr><td colspan="8" align="left" valign="middle" rowspan="1"><bold>Calcarine</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Cuneus</italic></bold></td><td align="center" valign="middle" rowspan="3" colspan="1">HD &#x0003c; NM</td><td align="center" valign="middle" rowspan="3" colspan="1">30, 18</td><td align="center" valign="middle" rowspan="3" colspan="1">107</td><td align="center" valign="middle" rowspan="3" colspan="1">6</td><td align="center" valign="middle" rowspan="3" colspan="1">&#x02212;60</td><td align="center" valign="middle" rowspan="3" colspan="1">3</td><td align="center" valign="middle" rowspan="3" colspan="1"><bold>5.44</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Lingual
+Gyrus</italic></bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Posterior
+Cingulate</italic></bold></td></tr><tr><td colspan="8" valign="bottom" align="left" rowspan="1">
+<hr/></td></tr><tr><td colspan="8" align="left" valign="middle" rowspan="1"><bold>Cerebellum</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Crus I &#x00026;
+II</italic></bold></td><td align="center" valign="middle" rowspan="2" colspan="1">HD &#x0003e; NM</td><td align="center" valign="middle" rowspan="2" colspan="1">-</td><td align="center" valign="middle" rowspan="2" colspan="1">998</td><td align="center" valign="middle" rowspan="2" colspan="1">45</td><td align="center" valign="middle" rowspan="2" colspan="1">&#x02212;63</td><td align="center" valign="middle" rowspan="2" colspan="1">36</td><td align="center" valign="middle" rowspan="2" colspan="1"><bold>7.11</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Declive</italic></bold></td></tr><tr><td colspan="8" valign="bottom" align="left" rowspan="1">
+<hr/></td></tr><tr><td colspan="8" align="left" valign="middle" rowspan="1"><bold>Thalamus
+(VLN)</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Medial Dorsal
+Nucleus (MDN)</italic></bold></td><td align="center" valign="middle" rowspan="3" colspan="1">ALC &#x0003e; PLC</td><td align="center" valign="middle" rowspan="3" colspan="1">-</td><td align="center" valign="middle" rowspan="3" colspan="1">141</td><td align="center" valign="middle" rowspan="3" colspan="1">9</td><td align="center" valign="middle" rowspan="3" colspan="1">&#x02212;9</td><td align="center" valign="middle" rowspan="3" colspan="1">3</td><td align="center" valign="middle" rowspan="3" colspan="1"><bold>4.27</bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Midbrain</italic></bold></td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;<bold><italic>Ventral Lateral
+Nucleus (VLN)</italic></bold></td></tr></tbody></table></table-wrap><table-wrap id="T3" position="float" orientation="portrait"><label>Table 3</label><caption><p>List of 10 functional ROIs showing significant effects of Group and Alcohol for
+lFCD or gFCD (cluster size corrected, <italic>p</italic><sub>FWE</sub> &#x0003c;
+0.05), as well as 18 behavioral tasks showing significant effects of Group or
+Alcohol (<italic>p</italic><sub>FWE</sub> &#x0003c; 0.05, Bonferroni).</p></caption><table frame="below" rules="cols"><thead><tr><th colspan="2" valign="top" align="center" rowspan="1">Functional ROIs</th><th colspan="3" valign="top" align="center" rowspan="1">Significant Behavioral
+Tasks</th></tr><tr><th colspan="5" valign="bottom" align="left" rowspan="1">
+<hr/></th></tr><tr><th valign="top" align="left" rowspan="1" colspan="1">lFCD</th><th valign="top" align="left" rowspan="1" colspan="1">gFCD</th><th valign="top" align="left" rowspan="1" colspan="1">Mood/Drug Effects</th><th valign="top" align="left" rowspan="1" colspan="1">Motor</th><th valign="top" align="left" rowspan="1" colspan="1">Cognitive</th></tr><tr><th colspan="5" valign="bottom" align="left" rowspan="1">
+<hr/></th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Calcarine</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Calcarine</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Sedated</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Gait
+(errors)</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Stroop
+(Neutral)</italic></bold></td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Cerebellum</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Cerebellum</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Irritable</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>One Leg
+(errors)</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Stroop
+(Congruent)</italic></bold></td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>PFC</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Thalamus
+(VLN)</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Dizzy</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Romberg
+(time)</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Stroop
+(Incongruent)</italic></bold></td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Posterior
+Cingulate</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>High</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Romberg
+(errors)</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>SDMT</italic></bold></td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Precuneus</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Pleasant</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Rhythm
+(errors)</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Word
+Association</italic></bold></td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Thalamus
+(MDN)</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Alcohol
+Desire</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Thalamus
+(VLN)</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Intoxicated</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"><bold><italic>Restless</italic></bold></td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table></table-wrap></floats-group></article>

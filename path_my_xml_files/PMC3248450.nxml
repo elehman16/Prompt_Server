@@ -1,0 +1,616 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22242129</article-id><article-id pub-id-type="pmc">3248450</article-id><article-id pub-id-type="publisher-id">PONE-D-11-17161</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0029503</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immunity</subject><subj-group><subject>Inflammation</subject></subj-group></subj-group></subj-group><subj-group><subject>Model Organisms</subject><subj-group><subject>Animal Models</subject></subj-group></subj-group><subj-group><subject>Neuroscience</subject><subj-group><subject>Developmental Neuroscience</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Clinical Immunology</subject><subj-group><subject>Immunity</subject><subj-group><subject>Inflammation</subject></subj-group></subj-group></subj-group><subj-group><subject>Clinical Research Design</subject><subj-group><subject>Animal Models of Disease</subject></subj-group></subj-group><subj-group><subject>Diagnostic Medicine</subject><subj-group><subject>Pathology</subject><subj-group><subject>Anatomical Pathology</subject><subj-group><subject>Histopathology</subject></subj-group></subj-group><subj-group><subject>General Pathology</subject><subj-group><subject>Biomarkers</subject></subj-group></subj-group></subj-group></subj-group><subj-group><subject>Neurology</subject><subj-group><subject>Cerebral Palsy</subject><subject>Developmental and Pediatric Neurology</subject></subj-group></subj-group><subj-group><subject>Obstetrics and Gynecology</subject><subj-group><subject>Pregnancy</subject><subj-group><subject>Pregnancy Complications</subject></subj-group></subj-group></subj-group><subj-group><subject>Pediatrics</subject><subj-group><subject>Developmental and Pediatric Neurology</subject><subject>Neonatology</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Inflammatory-Induced Hibernation in the Fetus: Priming of Fetal Sheep Metabolism Correlates with Developmental Brain Injury</article-title><alt-title alt-title-type="running-head">Fetal Inflammation Primes Fetal Metabolism</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Keller</surname><given-names>Matthias</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Enot</surname><given-names>David P.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hodson</surname><given-names>Mark P.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Igwe</surname><given-names>Emeka I.</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Deigner</surname><given-names>Hans-Peter</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Dean</surname><given-names>Justin</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Bolouri</surname><given-names>Hayde</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hagberg</surname><given-names>Henrik</given-names></name><xref ref-type="aff" rid="aff6">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Mallard</surname><given-names>Carina</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Neonatology, Department of Pediatrics I, Essen University Hospital, Essen, Germany</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Australian Institute for Bioengineering and Nanotechnology, University of Queensland, St Lucia, Australia</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Biocrates Life Sciences AG, Innsbruck, Austria</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Fraunhofer IZI EXIM Rostock and Department of Nephrology, Rostock University, Rostock, Germany</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Department of Neuroscience and Physiology, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden</addr-line>
+</aff><aff id="aff6">
+<label>6</label>
+<addr-line>Institute of Reproductive and Developmental Biology, Department of Surgery and Cancer, Imperial College, London, United Kingdom</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Hsieh</surname><given-names>Patrick Ching-Ho</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Institute of Clinical Medicine, National Cheng Kung University, Taiwan</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>matthias.keller@uk-essen.de</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: MK DPE JD CM. Performed the experiments: JD MPH HB HH CM. Analyzed the data: MK DPE EII HPD JD CM HB. Contributed reagents/materials/analysis tools: MK DPE MPH HPD HH CM. Wrote the paper: MK DPE EII HPD JD HH CM.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>29</day><month>12</month><year>2011</year></pub-date><volume>6</volume><issue>12</issue><elocation-id>e29503</elocation-id><history><date date-type="received"><day>2</day><month>9</month><year>2011</year></date><date date-type="accepted"><day>29</day><month>11</month><year>2011</year></date></history><permissions><copyright-statement>Keller et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><p>Prenatal inflammation is considered an important factor contributing to preterm birth and neonatal mortality and morbidity. The impact of prenatal inflammation on fetal bioenergetic status and the correlation of specific metabolites to inflammatory-induced developmental brain injury are unknown. We used a global metabolomics approach to examine plasma metabolites differentially regulated by intrauterine inflammation. Preterm-equivalent sheep fetuses were randomized to i.v. bolus infusion of either saline-vehicle or LPS. Blood samples were collected at baseline 2 h, 6 h and daily up to 10 days for metabolite quantification. Animals were killed at 10 days after LPS injection, and brain injury was assessed by histopathology. We detected both acute and delayed effects of LPS on fetal metabolism, with a long-term down-regulation of fetal energy metabolism. Within the first 3 days after LPS, 121 metabolites were up-regulated or down-regulated. A transient phase (4&#x02013;6 days), in which metabolite levels recovered to baseline, was followed by a second phase marked by an opposing down-regulation of energy metabolites, increased pO<sub>2</sub> and increased markers of inflammation and ADMA. The characteristics of the metabolite response to LPS in these two phases, defined as 2 h to 2 days and at 6&#x02013;9 days, respectively, were strongly correlated with white and grey matter volumes at 10 days recovery. Based on these results we propose a novel concept of inflammatory-induced hibernation of the fetus. Inflammatory priming of fetal metabolism correlated with measures of brain injury, suggesting potential for future biomarker research and the identification of therapeutic targets.</p></abstract><counts><page-count count="10"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>The annual rate of neonatal mortality is approximately four million neonatal deaths worldwide, with the majority resulting from asphyxia (23&#x00025;), infections (36&#x00025;), and prematurity (28&#x00025;) <xref rid="pone.0029503-Beck1" ref-type="bibr">[1]</xref>. Preterm birth (delivery before 37 completed weeks of gestation) is the single major risk factor for perinatal mortality and morbidity in both high- and low-income countries. The global annual prematurity rate is 9.6&#x00025;, representing 12.9 million births <xref rid="pone.0029503-Beck1" ref-type="bibr">[1]</xref>. Surviving preterm infants also have high rates of long-term health complications including cerebral palsy, visual or hearing impairment, respiratory illnesses, learning difficulties and behavioral disorders <xref rid="pone.0029503-Marlow1" ref-type="bibr">[2]</xref>.</p><p>Prenatal infection or inflammation is a major cause of preterm birth, and can also contribute to poor postnatal growth, pulmonary and neurological morbidity, and mortality <xref rid="pone.0029503-Mestan1" ref-type="bibr">[3]</xref>&#x02013;<xref rid="pone.0029503-Jobe1" ref-type="bibr">[5]</xref>. A causative role for infection <italic>per se</italic> in white matter injury is supported from animal experiments <xref rid="pone.0029503-Wang1" ref-type="bibr">[6]</xref>. Further, we recently demonstrated that fetal infection is associated with delayed impairment of both white matter and cortical development <xref rid="pone.0029503-Dean1" ref-type="bibr">[7]</xref>.</p><p>In adult septic patients, sepsis has been shown to be associated with mitochondrial dysfunction in muscle <xref rid="pone.0029503-Brealey1" ref-type="bibr">[8]</xref>. This condition is considered an important factor regulating multisystem organ failure, morbidity and mortality in septic patients. However, despite the strong support for a key role of prenatal inflammation in neonatal morbidity, the impact of prenatal inflammation on fetal metabolism and bioenergetic failure is unknown. Furthermore, no specific metabolites have previously been shown to correlate with inflammatory-induced developmental brain injury.</p><p>Metabolomics can bridge this information gap by elucidating functional information, since metabolite differences in biological fluids and tissues provide the closest link to various phenotypic responses <xref rid="pone.0029503-Illig1" ref-type="bibr">[9]</xref>. Metabolomics relies on extensive characterization of the largest possible number of metabolites from relevant or potentially impacted metabolic pathways, and is a promising approach for the clinical investigation of prenatal inflammation. In recent years, electrospray ionization (ESI) tandem mass spectrometry (MS/MS), often applied in concert with an initial chromatography purification/separation step, has been used in a number of clinical metabolomic studies <xref rid="pone.0029503-Rhee1" ref-type="bibr">[10]</xref>, <xref rid="pone.0029503-Wikoff1" ref-type="bibr">[11]</xref>. Generally, metabolomics can be performed in a non-targeted (or &#x0201c;open&#x0201d; profiling) mode using all the information from the spectrometer providing an holistic view of the metabolome with minimal chemical bias, or in so-called &#x0201c;targeted&#x0201d; mode, which relies on analytical protocols optimized to measure specific groups/classes of compounds <xref rid="pone.0029503-Enot1" ref-type="bibr">[12]</xref>. Quantitative targeted metabolomics using multiplexed tandem mass spectrometry has matured to the point where it can now be applied in a high-throughput manner <xref rid="pone.0029503-Suhre1" ref-type="bibr">[13]</xref> and such a targeted approach was applied to this study.</p><p>The aim of this study was to examine the effect of inflammation on the plasma metabolome in a model of preterm brain injury in fetal sheep in order to: a) obtain novel descriptive information on dynamic metabolic changes after LPS-induced inflammation, b) investigate the predictive ability of the blood metabolome for brain injury, which could theoretically be useful for development of clinical predictive markers, and c) form the basis for potential individualized therapies in preterm fetuses/babies in the future.</p><p>We examined the effect of lipopolysaccharide (LPS) exposure on metabolism in 0.7 gestation fetal sheep, an age equivalent to 28&#x02013;32 weeks gestation in humans and prior to the onset of cortical myelination <xref rid="pone.0029503-McIntosh1" ref-type="bibr">[14]</xref>, <xref rid="pone.0029503-Barlow1" ref-type="bibr">[15]</xref>. Our data demonstrate that inflammation causes hibernation of fetal metabolism, and that the metabolite response to LPS was strongly associated with cerebral white and grey matter volumes at post mortem. Since metabolic pathways are largely conserved across species and are therefore species-independent, these metabolic fingerprints may translate as potential biomarkers in the clinical setting.</p></sec><sec id="s2"><title>Results</title><sec id="s2a"><title>Impact of LPS exposure on vital parameters and arterial blood gas analyses</title><p>The two cohorts had comparable blood gas readings at baseline (p&#x0003e;0.2, <xref ref-type="table" rid="pone-0029503-t001">Table 1</xref>), and no differences in bodyweight, gestational age at LPS injection and post mortem fetal weight (<xref ref-type="table" rid="pone-0029503-t001">Table 1</xref>). Partial pressure of oxygen (pO<sub>2</sub>) and lactate concentration over the course of the experiment are shown in <xref ref-type="fig" rid="pone-0029503-g001">Figure 1</xref>. For both parameters, the main time and treatment effects and their interaction were significant. Within the first 6 hours post injection, LPS exposure caused an initial fall in pO<sub>2</sub> and pH (<xref ref-type="supplementary-material" rid="pone.0029503.s001">Figure S1</xref>), while lactate was increased 5&#x02013;fold, compared to the controls. These parameters largely resolved to control group levels by 1 day recovery. In LPS treated animals, lactate was lower from days 8&#x02013;10 (q&#x0003c;0.05, <xref ref-type="fig" rid="pone-0029503-g001">Figure 1</xref>), while pO<sub>2</sub> was elevated from days 5&#x02013;9 (q&#x0003c;0.05, <xref ref-type="fig" rid="pone-0029503-g001">Figure 1</xref>), when compared to the sham group. Mean arterial blood pressure (MABP) was not significantly different between the groups at any time point <xref rid="pone.0029503-Dean1" ref-type="bibr">[7]</xref>.</p><fig id="pone-0029503-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0029503.g001</object-id><label>Figure 1</label><caption><title>Blood gas parameters.</title><p>Lactate concentrations (A) and partial pressure of oxygen (B) over the whole course of the experiment. Mean and 95&#x00025; confidence intervals are given for the LPS (thick line) and the control (dashed line) groups (n&#x0200a;=&#x0200a;7 (control)/9 (LPS) &#x0002b;q<inline-formula><inline-graphic xlink:href="pone.0029503.e001.jpg" mimetype="image"/></inline-formula>0.2; &#x0002a;, q<inline-formula><inline-graphic xlink:href="pone.0029503.e002.jpg" mimetype="image"/></inline-formula>0.05; &#x0002a;&#x0002a;, q<inline-formula><inline-graphic xlink:href="pone.0029503.e003.jpg" mimetype="image"/></inline-formula>0.001).</p></caption><graphic xlink:href="pone.0029503.g001"/></fig><table-wrap id="pone-0029503-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0029503.t001</object-id><label>Table 1</label><caption><title>Description of the cohort.</title></caption><alternatives><graphic id="pone-0029503-t001-1" xlink:href="pone.0029503.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Sham (n&#x0200a;=&#x0200a;7)</td><td align="left" rowspan="1" colspan="1">LPS (n&#x0200a;=&#x0200a;9)</td><td align="left" rowspan="1" colspan="1">p-value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">pH</td><td align="left" rowspan="1" colspan="1">7.39 (0.0331)</td><td align="left" rowspan="1" colspan="1">7.38 (0.029)</td><td align="left" rowspan="1" colspan="1">0.44</td></tr><tr><td align="left" rowspan="1" colspan="1">PO2 [mmHg]</td><td align="left" rowspan="1" colspan="1">22.7 (1.47)</td><td align="left" rowspan="1" colspan="1">23.8 (3.63)</td><td align="left" rowspan="1" colspan="1">0.41</td></tr><tr><td align="left" rowspan="1" colspan="1">sO2</td><td align="left" rowspan="1" colspan="1">56.2 (6.41)</td><td align="left" rowspan="1" colspan="1">59.6 (9.52)</td><td align="left" rowspan="1" colspan="1">0.40</td></tr><tr><td align="left" rowspan="1" colspan="1">Glucose [mmol/L]</td><td align="left" rowspan="1" colspan="1">0.771 (0.138)</td><td align="left" rowspan="1" colspan="1">0.844 (0.142)</td><td align="left" rowspan="1" colspan="1">0.32</td></tr><tr><td align="left" rowspan="1" colspan="1">Lactate [mmol/L]</td><td align="left" rowspan="1" colspan="1">1.2 (0.283)</td><td align="left" rowspan="1" colspan="1">1.06 (0.324)</td><td align="left" rowspan="1" colspan="1">0.36</td></tr><tr><td align="left" rowspan="1" colspan="1">cBase.Ecf [mmol/L]</td><td align="left" rowspan="1" colspan="1">&#x02212;1.29 (2.19)</td><td align="left" rowspan="1" colspan="1">&#x02212;1.28 (1.82)</td><td align="left" rowspan="1" colspan="1">0.99</td></tr><tr><td align="left" rowspan="1" colspan="1">SBC [mmol/L]</td><td align="left" rowspan="1" colspan="1">22.7 (1.83)</td><td align="left" rowspan="1" colspan="1">22.8 (1.47)</td><td align="left" rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" rowspan="1" colspan="1">Grey matter volume [cm3]</td><td align="left" rowspan="1" colspan="1">2.79 (0.201)</td><td align="left" rowspan="1" colspan="1">2.35 (0.284)</td><td align="left" rowspan="1" colspan="1">0.0037</td></tr><tr><td align="left" rowspan="1" colspan="1">White matter volume [cm3]</td><td align="left" rowspan="1" colspan="1">1.47 (0.185)</td><td align="left" rowspan="1" colspan="1">1.19 (0.121)</td><td align="left" rowspan="1" colspan="1">0.011</td></tr><tr><td align="left" rowspan="1" colspan="1">Total brain weight [g]</td><td align="left" rowspan="1" colspan="1">24.8 (3.65)</td><td align="left" rowspan="1" colspan="1">22.7 (1.76)</td><td align="left" rowspan="1" colspan="1">0.20</td></tr><tr><td align="left" rowspan="1" colspan="1">Fetus weight [g]</td><td align="left" rowspan="1" colspan="1">1440 (285)</td><td align="left" rowspan="1" colspan="1">1470 (291)</td><td align="left" rowspan="1" colspan="1">0.82</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>Blood gas parameters are measured at baseline and histopathology findings and fetus and brain weights at sacrifice. Statistics given as mean (standard deviation) and p values computed by two sided Welch t-test.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s2b"><title>Acute effects of intrauterine LPS exposure on fetal metabolism</title><p>The impact of fetal LPS exposure on the plasma metabolome was first assessed independently in the control cohort (n&#x0200a;=&#x0200a;7). However, there were no common regulation patterns, and only very few metabolites exhibited significant trends over the entire experimental course. For example, arachidonic acid, PC aa C36:6, PC ae C36:4, desmosterol and spermidine were the most pronounced down-regulated metabolites over the 10 days recovery (data not shown, FDR&#x0003c;0.01). By contrast, in the LPS group (n&#x0200a;=&#x0200a;9), 113 out of 168 metabolites were significantly regulated within the first 3 days (FDR&#x0003c;0.01). <xref ref-type="supplementary-material" rid="pone.0029503.s002">Figure S2</xref> shows histograms of the 168 raw p values obtained by time course modelling in the LPS-treated and sham-operated animal cohorts. The patterns of the altered phosphatidylcholines (56 compounds) and the remaining metabolites (57 compounds) are shown in <xref ref-type="supplementary-material" rid="pone.0029503.s003">Figure S3</xref> and <xref ref-type="fig" rid="pone-0029503-g002">Figure 2</xref>, respectively. Oxysterols, energy metabolism intermediates and other relevant metabolites (<xref ref-type="fig" rid="pone-0029503-g002">Figure 2</xref>, left) have been extracted from the rest of the metabolites (<xref ref-type="fig" rid="pone-0029503-g002">Figure 2</xref>, right) for ease of interpretation. Clusters comprised a mixture of up- and down-regulated metabolites, with the most extreme variation attaining a more than a 10-fold change in measured plasma concentration. Within the first 3 days, LPS exposure caused a significant increase of the Krebs cycle intermediates, as well as alanine and lactate, and a subsequent slight decrease in hexoses (upper panel, <xref ref-type="fig" rid="pone-0029503-g002">Figure 2</xref>, left). Similarly 24-hydroxycholesterol (24OHC) and 25-hydroxycholesterol (25OHC), 12S-HETE and spermidine (lower panel) increased after LPS, peaking at 6 hours. Polyamines, sphingomyelins, amino acids and acylcarnitines also showed specific and distinct patterns after LPS exposure (<xref ref-type="fig" rid="pone-0029503-g002">Figure 2</xref>).</p><fig id="pone-0029503-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0029503.g002</object-id><label>Figure 2</label><caption><title>Metabolite response to LPS in the acute phase.</title><p>Cluster analysis of the time courses for the metabolites altered in the LPS cohort within the first 3 days. Left: display of the time courses for 3 groups of metabolites altered in the LPS cohort within the first 3 days. Middle: dendrogram from the hierachical clustering (HCA), based on the absolute value of the correlation between coefficients of the linear model. Right: explicit display of each metabolite time course for each cluster identified by HCA. The average time course is plotted as a dashed line.</p></caption><graphic xlink:href="pone.0029503.g002"/></fig></sec><sec id="s2c"><title>Delayed effects of LPS on plasma metabolome</title><p>We also tested the effects of LPS exposure on plasma metabolites over 3&#x02013;10 days recovery from LPS. The interaction term denoting differences in concentration between treatment and sampling time identified several metabolites of different classes. <xref ref-type="fig" rid="pone-0029503-g003">Figure 3</xref> (upper left panel) summarizes the number of metabolites that differed between the LPS and control group on at least one time point between days 3&#x02013;10 in each class at various FDR (solid lines). For example, three energy metabolism intermediates, 10 amino acids, four biogenic amines, two oxysterols, 10 PC's and one prostanoid differed significantly at FDR&#x0003c;0.001. The fold changes of metabolites altered by LPS treatment at day 4 to day 10 is shown in <xref ref-type="fig" rid="pone-0029503-g003">Figure 3</xref> (upper right and lower panel). In LPS exposed animals, <inline-formula><inline-graphic xlink:href="pone.0029503.e004.jpg" mimetype="image"/></inline-formula>-ketoglutarate, lactate and C5:1 were decreased by up to 50&#x00025;, while hexose and C18:1-OH concentration were increased by up to 80&#x00025;, compared to the sham animals. The polyamines ADMA, SDMA, the sum of ADMA and SDMA, 3-hydroxykynurenine, kynurenine and spermidine as well as several amino acids were also elevated during the secondary phase in the LPS group compared to the control group, whereas 25OHC was decreased.</p><fig id="pone-0029503-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0029503.g003</object-id><label>Figure 3</label><caption><title>Metabolites altered by LPS after the acute phase.</title><p>Fold changes (log basis 2) for the metabolites altered at FDR<inline-formula><inline-graphic xlink:href="pone.0029503.e005.jpg" mimetype="image"/></inline-formula>0.1 at any time point after 4 days. Abbreviations: ADMA/SDMA, Asymmetric/symmetric dimethylarginine; Total DMA, sum of ADMA and SDMA; DHA, Docosahexaenoic acid. Significance: &#x0002b;&#x0200a;=&#x0200a;q<inline-formula><inline-graphic xlink:href="pone.0029503.e006.jpg" mimetype="image"/></inline-formula>0.2, &#x0002a;&#x0200a;=&#x0200a;q<inline-formula><inline-graphic xlink:href="pone.0029503.e007.jpg" mimetype="image"/></inline-formula>0.05, &#x0002a;&#x0002a;&#x0200a;=&#x0200a;q<inline-formula><inline-graphic xlink:href="pone.0029503.e008.jpg" mimetype="image"/></inline-formula>0.001.</p></caption><graphic xlink:href="pone.0029503.g003"/></fig></sec><sec id="s2d"><title>Correlation of plasma metabolites with brain injury</title><p>We recently demonstrated in this cohort that fetal LPS exposure causes delayed impairment of both WM and cortical development <xref rid="pone.0029503-Dean1" ref-type="bibr">[7]</xref>. Here, we examined correlations of metabolite concentrations with cortical gray (GM) and white matter (WM) volumes at post mortem, as surrogate measures of brain injury. Multivariate analysis using partial least squares regression revealed significant associations (cross validated r&#x0200a;=&#x0200a;0.50&#x02212;0.77, <xref ref-type="supplementary-material" rid="pone.0029503.s004">Figure S4</xref>) between cortical WM and GM volumes and metabolites levels at 6 h, and 1, 2, 6&#x02013;9 days, but not at any other time points. We therefore focused on metabolite correlations over an acute phase (6 h&#x02013;2 d) and a delayed phase (6&#x02013;9 d). For both periods, we tested the time of sampling and WM and cortical GM volumes as the main effects, as well as their interactions. Density histograms of the raw p values obtained for the correlation analyses of metabolites with (a) GM and (b) WM volumes in the acute (6&#x02013;48 h) and late phases (6&#x02013;9 d) are shown in <xref ref-type="supplementary-material" rid="pone.0029503.s005">Figure S5</xref>.</p><p>Metabolites that exhibited a significant association in at least one sampling window/covariate combination are presented in the form of a heat map of their original correlations to WM/GM (FDR&#x0003c;0.1, <xref ref-type="fig" rid="pone-0029503-g004">Figure 4</xref> and <xref ref-type="supplementary-material" rid="pone.0029503.s006">Figure S6</xref> for phosphatidylcholines). In the acute period (6 h&#x02013;2 d), the associations between metabolites level and cortical GM/WM volumes were largely time dependant. Correlation patterns during this period formed brain region specific clusters (2, 6 and 9 for WM, 5 and 7 for GM). After 6 days, metabolite concentrations correlated with either GM injury (cluster 4) or WM injury (clusters 2,3,6 and 8), or were common to both (cluster 1). Dependent associations could also be detected within the phosphatidylcholines in this period (<xref ref-type="supplementary-material" rid="pone.0029503.s006">Figure S6</xref>).</p><fig id="pone-0029503-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0029503.g004</object-id><label>Figure 4</label><caption><title>Correlation between metabolites and brain damage.</title><p>Heatmap depicting metabolite association with white matter and grey matter volumes during the acute phase (6&#x02013;48 h) and late phase (6&#x02013;9 days). Color coding follows the key (top right): blue (resp. red) correspond to positive (resp. negative) correlation with the white and gray matter volume (red: increase in metabolite concentration correlates with maldevelopment, blue: decrease in metabolite concentration correlates with maldevelopment, the darker the stronger the correlation). Light grey corresponds to metabolites that were not found to be significant at FDR<inline-formula><inline-graphic xlink:href="pone.0029503.e009.jpg" mimetype="image"/></inline-formula>0.1.</p></caption><graphic xlink:href="pone.0029503.g004"/></fig></sec></sec><sec id="s3"><title>Discussion</title><p>Prenatal infection and inflammation are risk factors for preterm birth and increased neonatal morbidity. The role of prenatal inflammation on fetal metabolism and the correlations of fetal metabolism with brain injury are unknown. In this first analysis of a large number of metabolites measured in fetal plasma obtained <italic>in utero</italic>, we established that a single exposure to LPS, a component of gram-negative bacteria, causes long-term metabolic down-regulation and time-specific modulation of endogenous metabolic intermediates correlating with cerebral histopathology in both grey matter and white matter structures.</p><p>To ensure that observed changes closely reflect fetal metabolism rather than a maternal response to LPS and/or placenta transfer mechanisms, our model involves direct injection of LPS into a fetal vein and at a much lower dose (some 50 to 500 fold less) than previously reported <xref rid="pone.0029503-Kohmura1" ref-type="bibr">[16]</xref>&#x02013;<xref rid="pone.0029503-Duncan1" ref-type="bibr">[18]</xref>. Exposure to this higher and repetitive dosage of LPS resulted in a reduction of placentome in the cross-sectional area and contained areas of injury that could be attributed to placental hypoperfusion and tissue hypoxia. The higher dosing regime was also associated with cardiovascular compromise of the fetus as indicated by acidemia, hypotension and tachycardia <xref rid="pone.0029503-Garnier1" ref-type="bibr">[17]</xref>, <xref rid="pone.0029503-Duncan2" ref-type="bibr">[19]</xref>. Direct injection of a low dose of LPS into the umbilical fetal vein minimizes the risks of an induced maternal response. However placental effects (and subsequent maternal responses to them) cannot be completely excluded, and neither can any modification of placental metabolite transfer capabilities <xref rid="pone.0029503-Kim1" ref-type="bibr">[20]</xref>, <xref rid="pone.0029503-Beijar1" ref-type="bibr">[21]</xref>. Contrary to the transport of respiratory gases that diffuse freely through the placental membranes and whose rate is mainly dependent on concentration gradients and both uterine and umbilical blood flow rates, the transport of nutrients and small molecules is complex <xref rid="pone.0029503-denAkker1" ref-type="bibr">[22]</xref> and is unlikely to be explained solely by simplistic mechanisms such as passive diffusion <xref rid="pone.0029503-Hay1" ref-type="bibr">[23]</xref>. To our knowledge, examples of such processes, particularly for the metabolites discussed here, are scarce. It has been reported that approximately 75&#x00025; of glucose taken up by the ewe placenta is not transported further to the fetus <xref rid="pone.0029503-Bell1" ref-type="bibr">[24]</xref>, <xref rid="pone.0029503-Carver1" ref-type="bibr">[25]</xref>. Recently, <italic>in vitro</italic> studies demonstrated the placental release of kynurenine into the fetal circulation after LPS exposure, yet at a much higher dose <xref rid="pone.0029503-Ligam1" ref-type="bibr">[26]</xref>. Altogether, and with the absence of cardiovascular compromise in the fetus <xref rid="pone.0029503-Dean1" ref-type="bibr">[7]</xref>, the lack of evidence of maternal effects and the fact that arterial blood samples were collected <italic>in utero</italic>, observed metabolite changes are most likely to be indicative of fetal metabolism perturbations <xref rid="pone.0029503-denAkker1" ref-type="bibr">[22]</xref>. The known functions of some of these metabolites are further discussed here in relation to their potential cause-effect mechanisms.</p><sec id="s3a"><title>Acute LPS effects</title><p>LPS exposure was associated with a significant and pronounced change in plasma metabolite levels within hours of administration. The most notable findings are summarized in <xref ref-type="table" rid="pone-0029503-t002">Table 2</xref>. There was an alteration of energy metabolites associated with an acute and transient decrease in arterial oxygen content, with an increase of <inline-formula><inline-graphic xlink:href="pone.0029503.e010.jpg" mimetype="image"/></inline-formula>-ketoglutarate, an intermediate of the Krebs cycle, alanine, pyruvate, oxaloacetate and lactate, that rapidly resolved to baseline values within 48 hours. Although LPS caused an acute, but transient, decrease in arterial oxygen content, there were no significant changes in heart rate or mean arterial pressure at any time, suggesting that cardiovascular changes were unlikely the major cause of these metabolite changes. This is in accordance with data in septic patients showing an increase in cellular oxygen demand due to LPS treatment, rather than hypoxia due to hypoperfusion <xref rid="pone.0029503-Kreymann1" ref-type="bibr">[27]</xref>. A possible explanation for elevated lactate levels is the increased production of pyruvate as a result of altered pyruvate dehydrogenase (PDH) activity, as described in skeletal muscle tissue during chronic sepsis in rats. Because the inactivation of PDH limits the flux of the substrate through the Krebs cycle, excess pyruvate accumulates in cells and leads to increased production of lactate <xref rid="pone.0029503-Vary1" ref-type="bibr">[28]</xref>. Therefore, hyperlactataemia in sepsis is not necessarily evidence of impaired oxygen delivery, but rather reflects the combined effects of pyruvate dehydrogenase inhibition and accelerated glucose transport into cells <xref rid="pone.0029503-Vary1" ref-type="bibr">[28]</xref>. Acute changes in mitochondrial respiration (within six hours) have also been demonstrated in laboratory models of sepsis, which were hypothesized to result from nitric oxide and free radical formation due to the inflammatory response <xref rid="pone.0029503-Singer1" ref-type="bibr">[29]</xref>. Overall, these data support that inflammation triggers mitochondrial dysregulation in the acute phase of LPS-induced inflammatory response.</p><table-wrap id="pone-0029503-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0029503.t002</object-id><label>Table 2</label><caption><title>Roles and functions of a selection of altered metabolites.</title></caption><alternatives><graphic id="pone-0029503-t002-2" xlink:href="pone.0029503.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td colspan="4" align="left" rowspan="1">Acute phase</td></tr><tr><td align="left" rowspan="1" colspan="1">Metabolite/parameter</td><td align="left" rowspan="1" colspan="1">Regulation</td><td align="left" rowspan="1" colspan="1">Known functions and roles</td><td align="left" rowspan="1" colspan="1">Relation to LPS exposure</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">pO<sub>2</sub>
+</td><td align="left" rowspan="1" colspan="1">Down</td><td align="left" rowspan="1" colspan="1">Increased demand in O<sub>2</sub> in the early stage of sepsis <xref rid="pone.0029503-Kreymann1" ref-type="bibr">[27]</xref>
+</td><td align="left" rowspan="1" colspan="1">Increased demand in O<sub>2</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Lactate, <inline-formula><inline-graphic xlink:href="pone.0029503.e011.jpg" mimetype="image"/></inline-formula>-ketoglutarate pyruvate, oxalo-acetate</td><td align="left" rowspan="1" colspan="1">Up</td><td align="left" rowspan="1" colspan="1">Alteration of energy metabolites in sepsis and inflammation, role of mitochondria in the inflammatory response <xref rid="pone.0029503-Singer1" ref-type="bibr">[29]</xref>, <xref rid="pone.0029503-Bulua1" ref-type="bibr">[31]</xref>
+</td><td align="left" rowspan="1" colspan="1">Increased mitochondrial activity and dysfunction</td></tr><tr><td align="left" rowspan="1" colspan="1">3-hydroxykynurenine</td><td align="left" rowspan="1" colspan="1">Down</td><td align="left" rowspan="1" colspan="1">Production of neuronal damage via the generation ofreactive oxygen species <xref rid="pone.0029503-Giles1" ref-type="bibr">[37]</xref>
+</td><td align="left" rowspan="1" colspan="1">Increased oxidative stress potentially contributing to brain injury</td></tr><tr><td align="left" rowspan="1" colspan="1">Kynurenine</td><td align="left" rowspan="1" colspan="1">Up</td><td align="left" rowspan="1" colspan="1">Regulator in the innate and adaptive immune response <xref rid="pone.0029503-Gonzlez1" ref-type="bibr">[32]</xref>Known excitotoxins in the kynurenine pathway <xref rid="pone.0029503-Stone1" ref-type="bibr">[34]</xref>&#x02013;<xref rid="pone.0029503-Schwarcz1" ref-type="bibr">[36]</xref>
+</td><td align="left" rowspan="1" colspan="1">Expression of immune response potentially contributing to brain injury</td></tr><tr><td align="left" rowspan="1" colspan="1">Spermidine, putrescine</td><td align="left" rowspan="1" colspan="1">Up</td><td align="left" rowspan="1" colspan="1">Cell growth, proliferation, regeneration and differentiation, regulatory mechanisms of apoptosis <xref rid="pone.0029503-Tabor1" ref-type="bibr">[63]</xref>&#x02013;<xref rid="pone.0029503-Jensen1" ref-type="bibr">[65]</xref>Blood-brain barrier dysfunction in ischemic events <xref rid="pone.0029503-Koenig1" ref-type="bibr">[66]</xref>, <xref rid="pone.0029503-Paschen1" ref-type="bibr">[67]</xref>HI increases ODC and activates SAT1 <xref rid="pone.0029503-Rao1" ref-type="bibr">[68]</xref>&#x02013;<xref rid="pone.0029503-Babu2" ref-type="bibr">[70]</xref>Modification of polyamine levels may be neuroprotective <xref rid="pone.0029503-Clarkson1" ref-type="bibr">[71]</xref>
+</td><td align="left" rowspan="1" colspan="1">Increased ornithine decarboxylase (ODC) and SAT1 activities contributing to neuronal injury</td></tr><tr><td align="left" rowspan="1" colspan="1">25-hydroxycholesterol</td><td align="left" rowspan="1" colspan="1">Up</td><td align="left" rowspan="1" colspan="1">Inhibitor of cholesterol biosynthesis, oligodendrocyte cell line morphology and triggered apoptosis <xref rid="pone.0029503-Trousson1" ref-type="bibr">[45]</xref>, <xref rid="pone.0029503-Schroepfer1" ref-type="bibr">[47]</xref>
+</td><td align="left" rowspan="1" colspan="1">Alterated cholesterol biosynthesis, contributing to oligodendroglial cell death</td></tr><tr><td align="left" rowspan="1" colspan="1">24-hydroxycholesterol</td><td align="left" rowspan="1" colspan="1">Up</td><td align="left" rowspan="1" colspan="1">Crosses blood-brain barrier <xref rid="pone.0029503-Bjrkhem2" ref-type="bibr">[39]</xref>Marker of brain cholesterol balance, CNS neuronal mass,Alzheimer's disease and multiple sclerosis <xref rid="pone.0029503-Schnknecht1" ref-type="bibr">[40]</xref>&#x02013;<xref rid="pone.0029503-Papassotiropoulos1" ref-type="bibr">[44]</xref>Induces inflammatory genes (COX-2, PLA<sub>2</sub>) in neural cells <xref rid="pone.0029503-Trousson1" ref-type="bibr">[45]</xref>, <xref rid="pone.0029503-Alexandrov1" ref-type="bibr">[46]</xref>
+</td><td align="left" rowspan="1" colspan="1">Altered brain cholesterol biosynthesisInflammatory response</td></tr><tr><td align="left" rowspan="1" colspan="1">Asymetricdimethylarginine</td><td align="left" rowspan="1" colspan="1">Down</td><td align="left" rowspan="1" colspan="1">Endogenous inhibitor of nitric oxide synthase <xref rid="pone.0029503-Nijveldt1" ref-type="bibr">[50]</xref>Decreased in the acute phase of sepsis <xref rid="pone.0029503-Blackwell1" ref-type="bibr">[51]</xref>
+</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Sphingomyelins</td><td align="left" rowspan="1" colspan="1">Up</td><td align="left" rowspan="1" colspan="1">Increased sphingomyelinase activity in sepsis <xref rid="pone.0029503-Claus1" ref-type="bibr">[30]</xref>
+</td><td align="left" rowspan="1" colspan="1">Inflammatory response</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Late phase</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">pO<sub>2</sub>Lactate, <inline-formula><inline-graphic xlink:href="pone.0029503.e012.jpg" mimetype="image"/></inline-formula>-ketoglutarate,pyruvate, oxalo-acetateHexoses</td><td align="left" rowspan="1" colspan="1">UpDownUp</td><td align="left" rowspan="1" colspan="1">Increased demand in O<sub>2</sub> in sepsis <xref rid="pone.0029503-Singer1" ref-type="bibr">[29]</xref>Metabolic down-regulation after inflammation and HI,LPS-induced reduction in mitochondrial biogenesis <xref rid="pone.0029503-Fink1" ref-type="bibr">[52]</xref>, <xref rid="pone.0029503-Zhang1" ref-type="bibr">[53]</xref>
+</td><td align="left" rowspan="1" colspan="1">LPS-induced hibernation in the fetus as protective adaption to harsh environmental conditions.Potential impact on cortical development</td></tr><tr><td align="left" rowspan="1" colspan="1">3-hydroxykynurenine</td><td align="left" rowspan="1" colspan="1">Up</td><td align="left" rowspan="1" colspan="1">Production of neuronal damage via the generation ofreactive oxygen species <xref rid="pone.0029503-Giles1" ref-type="bibr">[37]</xref>
+</td><td align="left" rowspan="1" colspan="1">Ongoing inflammatory responsePotential contributor to brain injury</td></tr><tr><td align="left" rowspan="1" colspan="1">25-hydroxycholesterol</td><td align="left" rowspan="1" colspan="1">Down</td><td align="left" rowspan="1" colspan="1">Marker of CNS neuronal mass <xref rid="pone.0029503-Schnknecht1" ref-type="bibr">[40]</xref>, <xref rid="pone.0029503-Leoni1" ref-type="bibr">[41]</xref>
+</td><td align="left" rowspan="1" colspan="1">Alterated brain cholesterol metabolism</td></tr><tr><td align="left" rowspan="1" colspan="1">Asymetricdimethylarginine</td><td align="left" rowspan="1" colspan="1">Up</td><td align="left" rowspan="1" colspan="1">Increased in chronic vascular disease, augments cardiovascular risk and endothelial dysfunction, biomarker for stroke <xref rid="pone.0029503-Valkonen1" ref-type="bibr">[48]</xref>, <xref rid="pone.0029503-Nishiyama1" ref-type="bibr">[49]</xref>
+</td><td align="left" rowspan="1" colspan="1">Endothelial dysfunction, potentialalteration in blood flow</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt102"><label/><p>For each metabolite, known roles and functions are summarized in relation to LPS exposure in the acute and late phases. HI: Hypoxia-ischemia, SAT1: Spermidine/spermine N1-acetyltransferase 1.</p></fn></table-wrap-foot></table-wrap><p>These acute alterations in Krebs cycle intermediates were followed by acute phase elevation of sphingomyelins, kynurenine, 3-hydroxykynurenine and putrescine. These metabolites are known to be response markers and mediators of inflammation. The increase in sphingomyelins may reflect sphingomyelinase activity. In fact, sphingomyelinase activity is elevated in septic patients and subjects with organ failure due to activation of the circulating acidic isoform. In animal experiments, increased sphingomyelinase activity is associated with increased apoptosis of liver cells, which can be significantly reduced along with mortality by treatment with sphingomyelinase inhibitors <xref rid="pone.0029503-Claus1" ref-type="bibr">[30]</xref>. The pattern of acute phase elevation of inflammatory markers may be explained by the well-established role of mitochondrial reactive oxygen species (ROS) formation in driving pro-inflammatory cytokine production. For example, ROS generated by mitochondrial respiration are important for normal lipopolysaccharide-driven production of several pro-inflammatory cytokines, while pharmacological blockade of mitochondrial ROS efficiently reduces inflammatory cytokine production after LPS stimulation in healthy controls <xref rid="pone.0029503-Bulua1" ref-type="bibr">[31]</xref>.</p><p>We also found acute elevation of two members of the kynurenine pathway, kynurenine and 3-hydroxyky-nurenine. This pathway is an important regulator in both innate and adaptive immune responses <xref rid="pone.0029503-Gonzlez1" ref-type="bibr">[32]</xref>, and increased plasma kynurenine has been suggested to be indicative of immune dysregulation. The kynurenine pathway also has a significant impact on neuronal activity <xref rid="pone.0029503-OweYoung1" ref-type="bibr">[33]</xref>. For example, quinolinic acid can activate a subpopulation of neuronal glutamate receptors specifically sensitive to N-methyl-D-aspartate (NMDA), resulting in neuronal depolarization and excitotoxicity <xref rid="pone.0029503-Stone1" ref-type="bibr">[34]</xref>&#x02013;<xref rid="pone.0029503-Schwarcz1" ref-type="bibr">[36]</xref>. 3-hydroxykynurenine, which is redox active, can also cause neuronal damage via the generation of reactive oxygen species <xref rid="pone.0029503-Giles1" ref-type="bibr">[37]</xref>.</p><p>Oxysterols are hydroxylated derivatives of cholesterol that play important functions in lipid metabolism <xref rid="pone.0029503-Bjrkhem1" ref-type="bibr">[38]</xref>, and have been implicated as biomarkers of acute brain damage. In particular, 24-hydroxycholesterol (24OHC) can cross the blood-brain barrier <xref rid="pone.0029503-Bjrkhem2" ref-type="bibr">[39]</xref>, and has been proposed as a biomarker of brain cholesterol balance and as a marker of CNS neuronal mass <xref rid="pone.0029503-Schnknecht1" ref-type="bibr">[40]</xref>&#x02013;<xref rid="pone.0029503-Bretillon1" ref-type="bibr">[42]</xref>. Altered plasma 24OHC has been observed in Alzheimer's disease and Multiple Sclerosis <xref rid="pone.0029503-Teunissen1" ref-type="bibr">[43]</xref>, <xref rid="pone.0029503-Papassotiropoulos1" ref-type="bibr">[44]</xref>. In addition, 24OHC and 25-hydroxycholesterol (25OHC) play an important role in inflammation and inducing oligodendroglial cell death <xref rid="pone.0029503-Trousson1" ref-type="bibr">[45]</xref>. 24OHC induces the expression of inflammatory genes such as cyclooxygenase-2 and phospholipase A2 in neural cells <xref rid="pone.0029503-Alexandrov1" ref-type="bibr">[46]</xref>. 25OHC, which is synthesized from cholesterol by a specific hydroxylase <xref rid="pone.0029503-Schroepfer1" ref-type="bibr">[47]</xref>, acts as a potent inhibitor of cholesterol biosynthesis in different cell types. In addition, 25OHC can alter oligodendrocyte morphology and trigger oligodendrocyte apoptosis <xref rid="pone.0029503-Trousson1" ref-type="bibr">[45]</xref>. Therefore, the increase of 24OHC and 25OHC in the LPS-exposed animals in the acute phase reflects disturbance in cholesterol metabolism and might indicate the onset of neurological injury.</p><p>LPS exposure also altered plasma levels of asymmetric dimethyl arginine (ADMA), an endogenous inhibitor of nitric oxide synthase and also associated metabolites of symmetric dimethyl arginine (SDMA). ADMA is elevated in patients with chronic vascular disease, causing increased cardiovascular risk and endothelial dysfunction <xref rid="pone.0029503-Valkonen1" ref-type="bibr">[48]</xref> and are considered potential biomarkers of stroke <xref rid="pone.0029503-Nishiyama1" ref-type="bibr">[49]</xref>. The role of ADMA in acute inflammatory states, however, is less well defined, particularly in the fetus and preterm neonate. We found that intrauterine LPS exposure caused a marked and transient decrease in ADMA plasma concentrations during the acute phase, as observed in endotoxaemic rats <xref rid="pone.0029503-Nijveldt1" ref-type="bibr">[50]</xref> and in post-operative patients with sepsis without shock <xref rid="pone.0029503-Blackwell1" ref-type="bibr">[51]</xref>. In adult animal models of endotoxaemia, the changes in ADMA over time were suggested to have functional consequences for regulation of microvascular tone <xref rid="pone.0029503-Nijveldt1" ref-type="bibr">[50]</xref>. However, in our study there were no changes in mean arterial blood pressure or heart rate during the period of low plasma ADMA levels, and the functional relevance of reduced AMDA in the fetus remains to be elucidated as we did not measure blood flow.</p></sec><sec id="s3b"><title>LPS exposure causes long-term metabolic down-regulation</title><p>As well as acute effects, LPS exposure had an impact on long-term fetal metabolism. The key results are summarized in <xref ref-type="table" rid="pone-0029503-t002">Table 2</xref>. During this phase, pO<sub>2</sub> was significantly increased in the LPS group compared to controls, which was associated with significantly decreased concentrations of lactate (in blood gas analyses and metabolomics), <inline-formula><inline-graphic xlink:href="pone.0029503.e013.jpg" mimetype="image"/></inline-formula>-ketoglutarate, and pyruvate/oxaloacetate, and an increase in hexose. These data (hyperglycemia, high pO<sub>2</sub>, low lactate, <inline-formula><inline-graphic xlink:href="pone.0029503.e014.jpg" mimetype="image"/></inline-formula>-ketoglutarate and pyruvate/oxaloacetate) show that one single LPS exposure alters the bioenergetic status of the fetus towards a hypometabolic condition. This condition has been termed hibernation or metabolic down-regulation in adult septic patients <xref rid="pone.0029503-Singer1" ref-type="bibr">[29]</xref>. Hibernation is a suspended animation-like state of reduced metabolic rate and reduced core body temperature. For many animals, this hypometabolic state is a protective adaption to harsh environmental conditions and is a regulated seasonal response. Hibernation has also been described at the cellular level in response to low oxygen tension, ischemic insults and sepsis. In rodent models of sepsis the rate of oxygen consumption by certain tissues was impaired when animals were injected with LPS, and the fall in the rate of oxygen consumption was not due to a change in oxygen delivery (e.g. on the basis of diminished microvascular perfusion), but rather to an acquired intrinsic defect in cellular respiration. A number of different biochemical mechanisms have been postulated including reversible inhibition of cytochrome a,a3 by nitric oxide, irreversible inhibition of one or more mitochondrial respiratory complexes by peroxynitrite <xref rid="pone.0029503-Fink1" ref-type="bibr">[52]</xref> and more recently, reduction in mitochondrial biogenesis <xref rid="pone.0029503-Zhang1" ref-type="bibr">[53]</xref>. Hibernating cells maintain viability by down-regulating oxygen consumption, ceasing cellular function and reducing ATP demand <xref rid="pone.0029503-Levy1" ref-type="bibr">[54]</xref>. The metabolic down-regulation in fetuses in our study persisted ten days after LPS exposure, which is more prolonged than the recovery and increased mitochondrial biogenesis reported within 24 hours after LPS exposure in animal models <xref rid="pone.0029503-Zhang1" ref-type="bibr">[53]</xref>. To the best of our knowledge this is the first time that inflammatory-induced hibernation in the fetus has been described. Future studies are required to examine how long this metabolic down regulation persists.</p><p>Our findings have central implications for the treatment of preterm infants previously exposed to intrauterine inflammation. For example, glucose intolerance and postnatal growth retardation are commonly seen in low-gestation newborns, which were often exposed to intrauterine inflammation <xref rid="pone.0029503-Mestan1" ref-type="bibr">[3]</xref>. Our data might partially elucidate this phenomenon. Secondly, determination of the optimum oxygenation protocols in preterm remains an open question. In cases of metabolic down-regulation the offered oxygen would unlikely be used and might result in an increase in oxidative stress. Current clinical treatment practice and clinical trials assume preterm infants of a given gestational age as one metabolic phenotype/identity. However our data indicate that within a cohort of premature infants, there might be major differences in the metabolic status and availability to use substrates provided, requiring individualized therapy to provide appropriate patient care and treatment.</p></sec><sec id="s3c"><title>Correlation of plasma metabolite levels with brain injury</title><p>We previously reported that LPS exposure in this cohort of animals causes maldevelopment of the cortical grey and white matter. In this study, we detected a biphasic pattern of acute and delayed changes in correlating metabolites common to both WM and GM injury, while several groups of metabolites were associated to a specific brain region. Although correlation does not necessarily entail causality, our findings have three implications. First, since the different phases of inflammation could be discriminated, this time-dependent pattern after intrauterine inflammation may enable determination of the current phase of inflammation in an individual preterm infant. These results provide insights into mechanisms and the identification of potential therapeutic targets. Although our analysis was only performed in plasma, the known CNS functions of some of these metabolites indicate cause-effect relationships. For example, novel therapeutic strategies might include inhibition of sphingomyelinases, use of kynurenic acid, an antagonist at several subtypes of glutamate receptors <xref rid="pone.0029503-Perkins1" ref-type="bibr">[55]</xref>&#x02013;<xref rid="pone.0029503-Andin1" ref-type="bibr">[57]</xref>, to counteract the toxicity of quinolinic acid. One limitation of our study in this respect is that we did not measure endogenous levels kynurenic acid, which we previously showed to be neuroprotective in neonatal hypoxic-ischemic brain injury <xref rid="pone.0029503-Andin1" ref-type="bibr">[57]</xref>. The modification of oxysterol signaling might be another potential target, since white matter injury in particular, was strongly associated with 24OHC and 25OHC, which can activate pro-apoptotic pathways. Finally, these metabolites might serve as potential biomarkers of developmental brain injury and of treatment effects. Our experiment was not primarily designed for these outcomes, as it would have required tighter control of the false positive discovery rate, a larger animal experiment with pre-defined endpoints, and a verification phase on a human cohort. Nevertheless, we have demonstrated the use of endogenous biochemical intermediates as potential biomarkers, and their relative species-independence suggests appropriate candidates for detecting and monitoring developmental brain injury in a translational scenario.</p></sec></sec><sec sec-type="materials|methods" id="s4"><title>Materials and Methods</title><sec id="s4a"><title>Ethics Statement</title><p>The experimentation was approved by the Animal Ethical Committee of Gothenburg, Sweden (#307-2006) and conformed to international guidelines on the ethical use of animals. All efforts were made to minimize the number of animals used and their suffering.</p></sec><sec id="s4b"><title>Experimental Protocol</title><p>Sheep fetuses were randomly assigned to receive an i.v. bolus infusion of either saline vehicle (Control group; n&#x0200a;=&#x0200a;7) or Escherichia coli LPS (055:B4; Sigma-Aldrich, St. Louis, MO; LPS group; n&#x0200a;=&#x0200a;9) at 102.5 <inline-formula><inline-graphic xlink:href="pone.0029503.e015.jpg" mimetype="image"/></inline-formula> 0.5 days of gestation (term&#x0200a;=&#x0200a;147 days). The LPS dose was 200 ng/kg Escherichia coli based on a fetal weight of 1 kg at the time of administration. In the first animal models of exposure of the fetus to LPS <xref rid="pone.0029503-Duncan1" ref-type="bibr">[18]</xref>, <xref rid="pone.0029503-Duncan2" ref-type="bibr">[19]</xref>, it was shown that repeated (3&#x02013;5 times) intravenous injections of high doses of LPS (1 <inline-formula><inline-graphic xlink:href="pone.0029503.e016.jpg" mimetype="image"/></inline-formula>) into a fetal vein not only induced hypoxia, acidemia and hypotension of the fetal sheep but also impaired placental function. In our study, the dosage of LPS was lowered to 200 ng/kg in order to mimic subtle chorioamnionitis and to induce brain damage without compromising the fetal cardiovascular system <xref rid="pone.0029503-Dean1" ref-type="bibr">[7]</xref>. The fetal sheep were catheterized at 97&#x02013;99 days of gestation under general anaesthesia (1.5&#x00025; isoflurane in pO<sub>2</sub>) using sterile techniques. Polyvinyl catheters were placed in both axillary arteries and one axillary vein. The fetal scalp overlying the parasagittal cortex was exposed and two pairs of bilateral holes drilled through the skull (5 and 15 mm anterior of bregma and 0.5 mm lateral of midline). After surgery ewes were housed in individual cages with free access to food and water. Animals were allowed to recover from surgery for at least three days before experimentation, during which time i.v. antibiotics (5 mg/kg gentamycin) were administered to the ewe once daily.</p></sec><sec id="s4c"><title>Tissue and plasma collection</title><p>Fetal blood samples were collected for blood gas and metabolomic analyses pre-dose at baseline (BL) and post-dose at 2 hours (2 h), 6 hours (6 h) and every day up to 10 days (1&#x02013;10 d) after LPS/saline injection. At 10 d post-LPS the ewe and fetus were sacrificed by an i.v. overdose of sodium pentobarbitone. Fetal brains were perfusion-fixed <italic>in situ</italic> with 0.9&#x00025; NaCl solution then 4&#x00025; paraformaldehyde in 0.1 M phosphate buffer (Histofix, Histolab, Gothenburg).</p></sec><sec id="s4d"><title>Histology and quantitative analysis of cortical grey and white matter volume</title><p>For each animal a series of evenly spaced paraffin embedded coronal sections (10 <inline-formula><inline-graphic xlink:href="pone.0029503.e017.jpg" mimetype="image"/></inline-formula>, section interval&#x0200a;=&#x0200a;150) were collected throughout the forebrain. Between 10&#x02013;12 brain levels were collected per brain. Sections were stained with acid fuchsin/thionin (AF/T) for quantitative analysis of grey and white matter volume as previously described <xref rid="pone.0029503-Dean1" ref-type="bibr">[7]</xref>. In brief, AF/T stained sections were examined for volume changes by light microscopy using StereoInvestigator Software V.7 (Microbrightfield, Inc., Williston, VT). Volumetric changes in cerebral WM (excluding CC) and cerebral cortex were determined using the Cavalieri Principle.</p></sec><sec id="s4e"><title>Metabolomic Analyses</title><p>Sample preparation and metabolomic analyses were performed at Biocrates Life Sciences AG, Innsbruck, Austria. Protocols are published elsewhere <xref rid="pone.0029503-Urban1" ref-type="bibr">[58]</xref>, <xref rid="pone.0029503-Solberg1" ref-type="bibr">[59]</xref>. In short, multiple reaction monitoring (MRM) transitions specific to 232 endogenous metabolites were monitored using a combination of flow injection and liquid chromatography mass-spectrometry platforms. Quantification was performed using structurally identical or similar labeled compounds that were spiked-in during sample preparation. Samples were randomized within batches and across analytical batches. In addition, several sample aliquots were replicated in all batches to assess batch-to-batch variation. Metabolites that did not meet quality control standards and/or exhibited insufficient abundances were excluded from subsequent interpretation. The final panel comprised 168 unique compounds: 27 acylcarnitines, 15 sphingomyelins, 76 glycerophosphatidylcholines, 22 amino acids, 10 biogenic amines, four prostaglandins, 10 oxysterols and four small organic acids. A detailed list of all metabolites considered in the final analysis is provided in <xref ref-type="supplementary-material" rid="pone.0029503.s007">Table S1</xref>. All pre-/post-analytical procedures were performed by co-workers blinded to the experimental groups. All methods are validated for human plasma following guidelines documented in the FDA Guidance for Industry-Bioanalytical Method Validation <xref rid="pone.0029503-Food1" ref-type="bibr">[60]</xref>.</p></sec><sec id="s4f"><title>Statistical analyses</title><p>Data analyses and representations were performed within the statistical environment R. For metabolite measurements, all statistical analyses were performed on pre-processed, log-basis 2 transformed data and reported as such without back-transformation. Estimation of the LPS injection and time effects were computed by generalized least squares regression. Several specifications of the error term were allowed to include the longitudinal structure (i.e. order 1 autocorrelation, Gaussian and exponential spatial correlation structures with time as a continuous covariate) and to deal with potential time-dependent heteroscedasticity. Model selection followed the protocol of Zuur et al. <xref rid="pone.0029503-Zuur1" ref-type="bibr">[61]</xref>. Fixed effects under consideration were tested with Wald tests with the levels of significance (given as p in the text) adjusted according to Benjamini and Hochberg <xref rid="pone.0029503-Benjamini1" ref-type="bibr">[62]</xref> to control the false discovery rate (FDR). By definition, FDR gives an estimate of proportion of wrongly rejected hypotheses among all significant hypotheses/metabolites selected for interpretation. For each question, distribution of the raw p-values is given in the supplementary materials. Metabolites below the FDR threshold stated in the text are selected for downstream reporting and post hoc testing where p-values are adjusted according to the Holm-Bonferroni method (expressed as q in the text). Unless stated, 95&#x00025; confidence intervals for the statistic of interest are reported and graphed. Clinical parameters at baseline and the outcome of histology are reported as mean &#x0002b;/&#x02212; standard deviation, and potential bias in the experimental design was assessed by means of two-sample t tests. Time-dependent changes for altered metabolites are described by the coefficients of the linear model and further grouped by hierarchical clustering using the absolute value of the Pearson correlation between coefficients as the similarity metric. This allows a compact and direct visualization of individual metabolite behavior without losing information about the magnitude of the changes and potential anti-correlation.</p></sec></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0029503.s001"><label>Figure S1</label><caption><p>Base deficit and pH over the course of the experiment. Mean and 95&#x00025; confidence intervals are given for the LPS (thick line) and control (dashed line) groups. Significance summarized as: &#x0002b;&#x0200a;=&#x0200a;q<inline-formula><inline-graphic xlink:href="pone.0029503.e018.jpg" mimetype="image"/></inline-formula>0.2; &#x0002a;&#x0200a;=&#x0200a;q<inline-formula><inline-graphic xlink:href="pone.0029503.e019.jpg" mimetype="image"/></inline-formula>0.05; &#x0002a;&#x0002a;&#x0200a;=&#x0200a;q<inline-formula><inline-graphic xlink:href="pone.0029503.e020.jpg" mimetype="image"/></inline-formula>0.001.</p><p>(TIFF)</p></caption><media xlink:href="pone.0029503.s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0029503.s002"><label>Figure S2</label><caption><p>Histograms of the 168 raw p values obtained by time course modelling in the LPS-treated and sham-operated animal cohorts. Solid line plotted at y&#x0200a;=&#x0200a;8.4 (&#x0200a;=&#x0200a;168&#x0002a;0.05) corresponds to the density to be expected should all metabolites not change over the first 3 days (null hypothesis).</p><p>(TIFF)</p></caption><media xlink:href="pone.0029503.s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0029503.s003"><label>Figure S3</label><caption><p>Time courses of the glycerophospholipids altered in the LPS cohort within the first 3 days post-injection. Left: dendrogram from the hierachical clustering (HCA) based on the absolute value of the correlation between coefficients of the linear model. Right: explicit display of each metabolite time course in the clusters identified by HCA. The average time course is graphed as a dashed line.</p><p>(TIFF)</p></caption><media xlink:href="pone.0029503.s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0029503.s004"><label>Figure S4</label><caption><p>Multivariate correlation between the full metabolite profile (i.e. 168 metabolites) with the white and grey matter volumes analysis by partial least square regression (PLS) at each time point. Y-axis: correlation coefficient (in &#x00025;) between predicted WM/GM volumes by leave-one-out and actual WM/GM volumes. Negative correlation coefficients are set to 0 for visualisation purposes.</p><p>(TIFF)</p></caption><media xlink:href="pone.0029503.s004.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0029503.s005"><label>Figure S5</label><caption><p>Density histograms of the raw p values obtained for the correlation analyses on (a) the grey and (b) the white matter volumes at the acute (6&#x02013;24 h) and late phases (6&#x02013;9 d). The main effect corresponds to the grey/white matter volume term and interaction to the interaction term between grey/white matter volume and time. The solid line corresponds to the density to be expected should all metabolites are not correlated with the parameter of interest during the given period (null hypothesis).</p><p>(TIFF)</p></caption><media xlink:href="pone.0029503.s005.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0029503.s006"><label>Figure S6</label><caption><p>Heatmap depicting glycerophosphatidylcholines and their association with white matter (left) and grey matter histology (right) over the two periods 6&#x02013;48 h and 6&#x02013;9 days.</p><p>(TIFF)</p></caption><media xlink:href="pone.0029503.s006.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0029503.s007"><label>Table S1</label><caption><p>Metabolite panel. List of metabolites used in the study.</p><p>(PDF)</p></caption><media xlink:href="pone.0029503.s007.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We thank our colleagues at Biocrates Life Sciences AG for the meticulous analysis of the biological samples, Dr. Gerald Schlager for his support in preparing the manuscript and the anonymous reviewers for their helpful comments that greatly improved the article.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have read the journal's policy and have the following conflicts: A patent about biomarkers of developmental brain injury in preterm infants has been submitted to the European Patent Office (pending). Emeka Igwe is currently employed by Biocrates Life Sciences AG. This does not alter the authors' adherence to all the PLoS ONE policies on sharing data and materials.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This study was supported by the European Commission (Sixth Framework Program, LSHM-CT-2006-036534) and by research grants from the Osterreichische Nationalbank Fonds (1275, MK); Swedish Research Council (2009-2630, CM and 2009-2642, HH); Ahlens stiftelsen (CM); Frimurare barnhusfonden (CM, HH); Lundgrenska Stiftelserna (CM); Medical Research Council (UK) strategic award (P19381, HH); Wellcome Trust (WT094823MA, HH); Governmental Grants to University Hospitals in Sweden (ALFGBG2863, HH and ALFGBG142881, CM) and Action Medical Research and The Henry Smith Charity (SP4506, HH). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0029503-Beck1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beck</surname><given-names>S</given-names></name><name><surname>Wojdyla</surname><given-names>D</given-names></name><name><surname>Say</surname><given-names>L</given-names></name><name><surname>Betran</surname><given-names>AP</given-names></name><name><surname>Merialdi</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>The worldwide incidence of preterm birth: a systematic review of maternal mortality and morbidity.</article-title>
+<source>Bull World Health Organ</source>
+<volume>88</volume>
+<fpage>31</fpage>
+<lpage>38</lpage>
+<pub-id pub-id-type="pmid">20428351</pub-id></element-citation></ref><ref id="pone.0029503-Marlow1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marlow</surname><given-names>N</given-names></name><name><surname>Wolke</surname><given-names>D</given-names></name><name><surname>Bracewell</surname><given-names>MA</given-names></name><name><surname>Samara</surname><given-names>M</given-names></name></person-group>
+<collab>Group EPICS</collab>
+<year>2005</year>
+<article-title>Neurologic and developmental disability at six years of age after extremely preterm birth.</article-title>
+<source>N Engl J Med</source>
+<volume>352</volume>
+<fpage>9</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="pmid">15635108</pub-id></element-citation></ref><ref id="pone.0029503-Mestan1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mestan</surname><given-names>K</given-names></name><name><surname>Yu</surname><given-names>Y</given-names></name><name><surname>Matoba</surname><given-names>N</given-names></name><name><surname>Cerda</surname><given-names>S</given-names></name><name><surname>Demmin</surname><given-names>B</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Placental inflammatory response is associated with poor neonatal growth: preterm birth cohort study.</article-title>
+<source>Pediatrics</source>
+<volume>125</volume>
+<fpage>e891</fpage>
+<lpage>e898</lpage>
+<pub-id pub-id-type="pmid">20308216</pub-id></element-citation></ref><ref id="pone.0029503-Malaeb1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malaeb</surname><given-names>S</given-names></name><name><surname>Dammann</surname><given-names>O</given-names></name></person-group>
+<year>2009</year>
+<article-title>Fetal inflammatory response and brain injury in the preterm newborn.</article-title>
+<source>J Child Neurol</source>
+<volume>24</volume>
+<fpage>1119</fpage>
+<lpage>1126</lpage>
+<pub-id pub-id-type="pmid">19605775</pub-id></element-citation></ref><ref id="pone.0029503-Jobe1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jobe</surname><given-names>AH</given-names></name></person-group>
+<year>2011</year>
+<article-title>The new bronchopulmonary dysplasia.</article-title>
+<source>Curr Opin Pediatr</source>
+<volume>23</volume>
+<fpage>167</fpage>
+<lpage>172</lpage>
+<pub-id pub-id-type="pmid">21169836</pub-id></element-citation></ref><ref id="pone.0029503-Wang1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>X</given-names></name><name><surname>Hellgren</surname><given-names>G</given-names></name><name><surname>L&#x000f6;fqvist</surname><given-names>C</given-names></name><name><surname>Li</surname><given-names>W</given-names></name><name><surname>Hellstr&#x000f6;m</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>White matter damage after chronic subclinical inflammation in newborn mice.</article-title>
+<source>J Child Neurol</source>
+<volume>24</volume>
+<fpage>1171</fpage>
+<lpage>1178</lpage>
+<pub-id pub-id-type="pmid">19745089</pub-id></element-citation></ref><ref id="pone.0029503-Dean1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dean</surname><given-names>JM</given-names></name><name><surname>van de Looij</surname><given-names>Y</given-names></name><name><surname>Sizonenko</surname><given-names>SV</given-names></name><name><surname>Lodygensky</surname><given-names>GA</given-names></name><name><surname>Lazeyras</surname><given-names>F</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Delayed cortical impairment following lipopolysaccharide exposure in preterm fetal sheep.</article-title>
+<source>Ann Neurol</source>
+<fpage>n/a</fpage>
+<lpage>n/a</lpage>
+</element-citation></ref><ref id="pone.0029503-Brealey1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brealey</surname><given-names>D</given-names></name><name><surname>Brand</surname><given-names>M</given-names></name><name><surname>Hargreaves</surname><given-names>I</given-names></name><name><surname>Heales</surname><given-names>S</given-names></name><name><surname>Land</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Association between mitochondrial dysfunction and severity and outcome of septic shock.</article-title>
+<source>Lancet</source>
+<volume>360</volume>
+<fpage>219</fpage>
+<lpage>223</lpage>
+<pub-id pub-id-type="pmid">12133657</pub-id></element-citation></ref><ref id="pone.0029503-Illig1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Illig</surname><given-names>T</given-names></name><name><surname>Gieger</surname><given-names>C</given-names></name><name><surname>Zhai</surname><given-names>G</given-names></name><name><surname>R&#x000f6;misch-Margl</surname><given-names>W</given-names></name><name><surname>Wang-Sattler</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>A genome-wide perspective of genetic variation in human metabolism.</article-title>
+<source>Nat Genet</source>
+<volume>42</volume>
+<fpage>137</fpage>
+<lpage>141</lpage>
+<pub-id pub-id-type="pmid">20037589</pub-id></element-citation></ref><ref id="pone.0029503-Rhee1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rhee</surname><given-names>EP</given-names></name><name><surname>Cheng</surname><given-names>S</given-names></name><name><surname>Larson</surname><given-names>MG</given-names></name><name><surname>Walford</surname><given-names>GA</given-names></name><name><surname>Lewis</surname><given-names>GD</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Lipid profiling identifies a triacylglycerol signature of insulin resistance and improves diabetes prediction in humans.</article-title>
+<source>J Clin Invest</source>
+<volume>121</volume>
+<fpage>1402</fpage>
+<lpage>1411</lpage>
+<pub-id pub-id-type="pmid">21403394</pub-id></element-citation></ref><ref id="pone.0029503-Wikoff1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wikoff</surname><given-names>WR</given-names></name><name><surname>Pendyala</surname><given-names>G</given-names></name><name><surname>Siuzdak</surname><given-names>G</given-names></name><name><surname>Fox</surname><given-names>HS</given-names></name></person-group>
+<year>2008</year>
+<article-title>Metabolomic analysis of the cerebrospinal fluid reveals changes in phospholipase expression in the cns of siv-infected macaques.</article-title>
+<source>J Clin Invest</source>
+<volume>118</volume>
+<fpage>2661</fpage>
+<lpage>2669</lpage>
+<pub-id pub-id-type="pmid">18521184</pub-id></element-citation></ref><ref id="pone.0029503-Enot1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Enot</surname><given-names>DP</given-names></name><name><surname>Haas</surname><given-names>B</given-names></name><name><surname>Weinberger</surname><given-names>KM</given-names></name></person-group>
+<year>2011</year>
+<article-title>Bioinformatics for mass spectrometry-based metabolomics.</article-title>
+<source>Methods Mol Biol</source>
+<volume>719</volume>
+<fpage>351</fpage>
+<lpage>375</lpage>
+<pub-id pub-id-type="pmid">21370092</pub-id></element-citation></ref><ref id="pone.0029503-Suhre1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Suhre</surname><given-names>K</given-names></name><name><surname>Meisinger</surname><given-names>C</given-names></name><name><surname>D&#x000f6;ring</surname><given-names>A</given-names></name><name><surname>Altmaier</surname><given-names>E</given-names></name><name><surname>Belcredi</surname><given-names>P</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Metabolic footprint of diabetes: a multiplatform metabolomics study in an epidemiological setting.</article-title>
+<source>PLoS One</source>
+<volume>5</volume>
+<fpage>e13953</fpage>
+<pub-id pub-id-type="pmid">21085649</pub-id></element-citation></ref><ref id="pone.0029503-McIntosh1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McIntosh</surname><given-names>GH</given-names></name><name><surname>Baghurst</surname><given-names>KI</given-names></name><name><surname>Potter</surname><given-names>BJ</given-names></name><name><surname>Hetzel</surname><given-names>BS</given-names></name></person-group>
+<year>1979</year>
+<article-title>Foetal brain development in the sheep.</article-title>
+<source>Neuropathol Appl Neurobiol</source>
+<volume>5</volume>
+<fpage>103</fpage>
+<lpage>114</lpage>
+<pub-id pub-id-type="pmid">471183</pub-id></element-citation></ref><ref id="pone.0029503-Barlow1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barlow</surname><given-names>RM</given-names></name></person-group>
+<year>1969</year>
+<article-title>The foetal sheep: morphogenesis of the nervous system and histochemical aspects of myelination.</article-title>
+<source>J Comp Neurol</source>
+<volume>135</volume>
+<fpage>249</fpage>
+<lpage>262</lpage>
+<pub-id pub-id-type="pmid">4306038</pub-id></element-citation></ref><ref id="pone.0029503-Kohmura1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kohmura</surname><given-names>Y</given-names></name><name><surname>Kirikae</surname><given-names>T</given-names></name><name><surname>Kirikae</surname><given-names>F</given-names></name><name><surname>Nakano</surname><given-names>M</given-names></name><name><surname>Sato</surname><given-names>I</given-names></name></person-group>
+<year>2000</year>
+<article-title>Lipopolysaccharide (lps)-induced intrauterine fetal death (iufd) in mice is principally due to maternal cause but not fetal sensitivity to lps.</article-title>
+<source>Microbiol Immunol</source>
+<volume>44</volume>
+<fpage>897</fpage>
+<lpage>904</lpage>
+<pub-id pub-id-type="pmid">11145270</pub-id></element-citation></ref><ref id="pone.0029503-Garnier1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garnier</surname><given-names>Y</given-names></name><name><surname>Frigiola</surname><given-names>A</given-names></name><name><surname>Volti</surname><given-names>GL</given-names></name><name><surname>Florio</surname><given-names>P</given-names></name><name><surname>Frulio</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Increased maternal/fetal blood s100 b levels following systemic endotoxin administration and periventricular white matter injury in preterm fetal sheep.</article-title>
+<source>Reprod Sci</source>
+<volume>16</volume>
+<fpage>758</fpage>
+<lpage>766</lpage>
+<pub-id pub-id-type="pmid">19525402</pub-id></element-citation></ref><ref id="pone.0029503-Duncan1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duncan</surname><given-names>JR</given-names></name><name><surname>Cock</surname><given-names>ML</given-names></name><name><surname>Scheerlinck</surname><given-names>JPY</given-names></name><name><surname>Westcott</surname><given-names>KT</given-names></name><name><surname>McLean</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>White matter injury after repeated endotoxin exposure in the preterm ovine fetus.</article-title>
+<source>Pediatr Res</source>
+<volume>52</volume>
+<fpage>941</fpage>
+<lpage>949</lpage>
+<pub-id pub-id-type="pmid">12438674</pub-id></element-citation></ref><ref id="pone.0029503-Duncan2"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duncan</surname><given-names>JR</given-names></name><name><surname>Cock</surname><given-names>ML</given-names></name><name><surname>Rees</surname><given-names>S</given-names></name><name><surname>Harding</surname><given-names>R</given-names></name></person-group>
+<year>2003</year>
+<article-title>The effects of repeated endotoxin exposure on placental structure in sheep.</article-title>
+<source>Placenta</source>
+<volume>24</volume>
+<fpage>786</fpage>
+<lpage>789</lpage>
+<pub-id pub-id-type="pmid">12852870</pub-id></element-citation></ref><ref id="pone.0029503-Kim1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>YM</given-names></name><name><surname>Romero</surname><given-names>R</given-names></name><name><surname>Chaiworapongsa</surname><given-names>T</given-names></name><name><surname>Kim</surname><given-names>GJ</given-names></name><name><surname>Kim</surname><given-names>MR</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Toll-like receptor-2 and -4 in the chorioamniotic membranes in spontaneous labor at term and in preterm parturition that are associated with chorioamnionitis.</article-title>
+<source>Am J Obstet Gynecol</source>
+<volume>191</volume>
+<fpage>1346</fpage>
+<lpage>1355</lpage>
+<pub-id pub-id-type="pmid">15507964</pub-id></element-citation></ref><ref id="pone.0029503-Beijar1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beijar</surname><given-names>ECE</given-names></name><name><surname>Mallard</surname><given-names>C</given-names></name><name><surname>Powell</surname><given-names>TL</given-names></name></person-group>
+<year>2006</year>
+<article-title>Expression and subcellular localization of tlr-4 in term and first trimester human placenta.</article-title>
+<source>Placenta</source>
+<volume>27</volume>
+<fpage>322</fpage>
+<lpage>326</lpage>
+<pub-id pub-id-type="pmid">16338476</pub-id></element-citation></ref><ref id="pone.0029503-denAkker1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>den Akker</surname><given-names>CHV</given-names></name><name><surname>Goudoever</surname><given-names>JBV</given-names></name></person-group>
+<year>2010</year>
+<article-title>Recent advances in our understanding of protein and amino acid metabolism in the human fetus.</article-title>
+<source>Curr Opin Clin Nutr Metab Care</source>
+<volume>13</volume>
+<fpage>75</fpage>
+<lpage>80</lpage>
+<pub-id pub-id-type="pmid">19904202</pub-id></element-citation></ref><ref id="pone.0029503-Hay1"><label>23</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hay</surname><given-names>WW</given-names></name><name><surname>Regnault</surname><given-names>TRH</given-names></name></person-group>
+<year>2007</year>
+<article-title>Fetal requirements and placental transfer of nitrogenous compounds.</article-title>
+<person-group person-group-type="editor"><name><surname>Polin</surname><given-names>RA</given-names></name><name><surname>Fox</surname><given-names>ASWW</given-names></name></person-group>
+<source>Fetal and neonatal physiology</source>
+<publisher-loc>Philedelphia</publisher-loc>
+<publisher-name>Saunders</publisher-name>
+<fpage>509</fpage>
+<lpage>526</lpage>
+</element-citation></ref><ref id="pone.0029503-Bell1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bell</surname><given-names>AW</given-names></name><name><surname>Kennaugh</surname><given-names>JM</given-names></name><name><surname>Battaglia</surname><given-names>FC</given-names></name><name><surname>Makowski</surname><given-names>EL</given-names></name><name><surname>Meschia</surname><given-names>G</given-names></name></person-group>
+<year>1986</year>
+<article-title>Metabolic and circulatory studies of fetal lamb at midgestation.</article-title>
+<source>Am J Physiol</source>
+<volume>250</volume>
+<fpage>E538</fpage>
+<lpage>E544</lpage>
+<pub-id pub-id-type="pmid">3706520</pub-id></element-citation></ref><ref id="pone.0029503-Carver1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carver</surname><given-names>TD</given-names></name><name><surname>Hay</surname><given-names>WW</given-names></name></person-group>
+<year>1995</year>
+<article-title>Uteroplacental carbon substrate metabolism and o2 consumption after long-term hypoglycemia in pregnant sheep.</article-title>
+<source>Am J Physiol</source>
+<volume>269</volume>
+<fpage>E299</fpage>
+<lpage>E308</lpage>
+<pub-id pub-id-type="pmid">7653547</pub-id></element-citation></ref><ref id="pone.0029503-Ligam1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ligam</surname><given-names>PDN</given-names></name><name><surname>Manuelpillai</surname><given-names>U</given-names></name><name><surname>Wallace</surname><given-names>E</given-names></name><name><surname>Walker</surname><given-names>DW</given-names></name></person-group>
+<year>2010</year>
+<article-title>Nf<italic>&#x003ba;</italic>b-dependent increase of kynurenine pathway activity in human placenta: inhibition by sulfasalazine.</article-title>
+<source>Placenta</source>
+<volume>31</volume>
+<fpage>997</fpage>
+<lpage>1002</lpage>
+<pub-id pub-id-type="pmid">20884048</pub-id></element-citation></ref><ref id="pone.0029503-Kreymann1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kreymann</surname><given-names>G</given-names></name><name><surname>Grosser</surname><given-names>S</given-names></name><name><surname>Buggisch</surname><given-names>P</given-names></name><name><surname>Gottschall</surname><given-names>C</given-names></name><name><surname>Matthaei</surname><given-names>S</given-names></name><etal/></person-group>
+<year>1993</year>
+<article-title>Oxygen consumption and resting metabolic rate in sepsis, sepsis syndrome, and septic shock.</article-title>
+<source>Crit Care Med</source>
+<volume>21</volume>
+<fpage>1012</fpage>
+<lpage>1019</lpage>
+<pub-id pub-id-type="pmid">8319458</pub-id></element-citation></ref><ref id="pone.0029503-Vary1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vary</surname><given-names>TC</given-names></name></person-group>
+<year>1996</year>
+<article-title>Sepsis-induced alterations in pyruvate dehydrogenase complex activity in rat skeletal muscle: effects on plasma lactate.</article-title>
+<source>Shock</source>
+<volume>6</volume>
+<fpage>89</fpage>
+<lpage>94</lpage>
+<pub-id pub-id-type="pmid">8856841</pub-id></element-citation></ref><ref id="pone.0029503-Singer1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Singer</surname><given-names>M</given-names></name></person-group>
+<year>2007</year>
+<article-title>Mitochondrial function in sepsis: acute phase versus multiple organ failure.</article-title>
+<source>Crit Care Med</source>
+<volume>35</volume>
+<fpage>S441</fpage>
+<lpage>S448</lpage>
+<pub-id pub-id-type="pmid">17713391</pub-id></element-citation></ref><ref id="pone.0029503-Claus1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Claus</surname><given-names>RA</given-names></name><name><surname>Bunck</surname><given-names>AC</given-names></name><name><surname>Bockmeyer</surname><given-names>CL</given-names></name><name><surname>Brunkhorst</surname><given-names>FM</given-names></name><name><surname>L&#x000f6;sche</surname><given-names>W</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Role of increased sphingomyelinase activity in apoptosis and organ failure of patients with severe sepsis.</article-title>
+<source>FASEB J</source>
+<volume>19</volume>
+<fpage>1719</fpage>
+<lpage>1721</lpage>
+<pub-id pub-id-type="pmid">16051685</pub-id></element-citation></ref><ref id="pone.0029503-Bulua1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bulua</surname><given-names>AC</given-names></name><name><surname>Simon</surname><given-names>A</given-names></name><name><surname>Maddipati</surname><given-names>R</given-names></name><name><surname>Pelletier</surname><given-names>M</given-names></name><name><surname>Park</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Mitochondrial reactive oxygen species promote production of proinflammatory cytokines and are elevated in tnfr1-associated periodic syndrome (traps).</article-title>
+<source>J Exp Med</source>
+<volume>208</volume>
+<fpage>519</fpage>
+<lpage>533</lpage>
+<pub-id pub-id-type="pmid">21282379</pub-id></element-citation></ref><ref id="pone.0029503-Gonzlez1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gonz&#x000e1;lez</surname><given-names>A</given-names></name><name><surname>Varo</surname><given-names>N</given-names></name><name><surname>Alegre</surname><given-names>E</given-names></name><name><surname>D&#x000ed;az</surname><given-names>A</given-names></name><name><surname>Melero</surname><given-names>I</given-names></name></person-group>
+<year>2008</year>
+<article-title>Immunosuppression routed via the kynurenine pathway: a biochemical and pathophysiologic approach.</article-title>
+<source>Adv Clin Chem</source>
+<volume>45</volume>
+<fpage>155</fpage>
+<lpage>197</lpage>
+<pub-id pub-id-type="pmid">18429497</pub-id></element-citation></ref><ref id="pone.0029503-OweYoung1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Owe-Young</surname><given-names>R</given-names></name><name><surname>Webster</surname><given-names>NL</given-names></name><name><surname>Mukhtar</surname><given-names>M</given-names></name><name><surname>Pomerantz</surname><given-names>RJ</given-names></name><name><surname>Smythe</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Kynurenine pathway metabolism in human blood-brain-barrier cells: implications for immune tolerance and neurotoxicity.</article-title>
+<source>J Neurochem</source>
+<volume>105</volume>
+<fpage>1346</fpage>
+<lpage>1357</lpage>
+<pub-id pub-id-type="pmid">18221377</pub-id></element-citation></ref><ref id="pone.0029503-Stone1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stone</surname><given-names>TW</given-names></name><name><surname>Perkins</surname><given-names>MN</given-names></name></person-group>
+<year>1981</year>
+<article-title>Quinolinic acid: a potent endogenous excitant at amino acid receptors in cns.</article-title>
+<source>Eur J Pharmacol</source>
+<volume>72</volume>
+<fpage>411</fpage>
+<lpage>412</lpage>
+<pub-id pub-id-type="pmid">6268428</pub-id></element-citation></ref><ref id="pone.0029503-Stone2"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stone</surname><given-names>TW</given-names></name></person-group>
+<year>2001</year>
+<article-title>Kynurenines in the cns: from endogenous obscurity to therapeutic importance.</article-title>
+<source>Prog Neurobiol</source>
+<volume>64</volume>
+<fpage>185</fpage>
+<lpage>218</lpage>
+<pub-id pub-id-type="pmid">11240212</pub-id></element-citation></ref><ref id="pone.0029503-Schwarcz1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwarcz</surname><given-names>R</given-names></name><name><surname>Whetsell</surname><given-names>WO</given-names></name><name><surname>Mangano</surname><given-names>RM</given-names></name></person-group>
+<year>1983</year>
+<article-title>Quinolinic acid: an endogenous metabolite that produces axon-sparing lesions in rat brain.</article-title>
+<source>Science</source>
+<volume>219</volume>
+<fpage>316</fpage>
+<lpage>318</lpage>
+<pub-id pub-id-type="pmid">6849138</pub-id></element-citation></ref><ref id="pone.0029503-Giles1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Giles</surname><given-names>GI</given-names></name><name><surname>Collins</surname><given-names>CA</given-names></name><name><surname>Stone</surname><given-names>TW</given-names></name><name><surname>Jacob</surname><given-names>C</given-names></name></person-group>
+<year>2003</year>
+<article-title>Electrochemical and in vitro evaluation of the redox-properties of kynurenine species.</article-title>
+<source>Biochem Biophys Res Commun</source>
+<volume>300</volume>
+<fpage>719</fpage>
+<lpage>724</lpage>
+<pub-id pub-id-type="pmid">12507509</pub-id></element-citation></ref><ref id="pone.0029503-Bjrkhem1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bj&#x000f6;rkhem</surname><given-names>I</given-names></name><name><surname>Diczfalusy</surname><given-names>U</given-names></name></person-group>
+<year>2002</year>
+<article-title>Oxysterols: friends, foes, or just fellow passengers?</article-title>
+<source>Arterioscler Thromb Vasc Biol</source>
+<volume>22</volume>
+<fpage>734</fpage>
+<lpage>742</lpage>
+<pub-id pub-id-type="pmid">12006384</pub-id></element-citation></ref><ref id="pone.0029503-Bjrkhem2"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bj&#x000f6;rkhem</surname><given-names>I</given-names></name><name><surname>L&#x000fc;tjohann</surname><given-names>D</given-names></name><name><surname>Breuer</surname><given-names>O</given-names></name><name><surname>Sakinis</surname><given-names>A</given-names></name><name><surname>Wennmalm</surname><given-names>A</given-names></name></person-group>
+<year>1997</year>
+<article-title>Importance of a novel oxidative mechanism for elimination of brain cholesterol. turnover of cholesterol and 24(s)- hydroxycholesterol in rat brain as measured with 18o2 techniques in vivo and in vitro.</article-title>
+<source>J Biol Chem</source>
+<volume>272</volume>
+<fpage>30178</fpage>
+<lpage>30184</lpage>
+<pub-id pub-id-type="pmid">9374499</pub-id></element-citation></ref><ref id="pone.0029503-Schnknecht1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sch&#x000f6;nknecht</surname><given-names>P</given-names></name><name><surname>L&#x000fc;tjohann</surname><given-names>D</given-names></name><name><surname>Pantel</surname><given-names>J</given-names></name><name><surname>Bardenheuer</surname><given-names>H</given-names></name><name><surname>Hartmann</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Cerebrospinal fluid 24 s-hydroxycholesterol is increased in patients with alzheimer's disease compared to healthy controls.</article-title>
+<source>Neurosci Lett</source>
+<volume>324</volume>
+<fpage>83</fpage>
+<lpage>85</lpage>
+<pub-id pub-id-type="pmid">11983301</pub-id></element-citation></ref><ref id="pone.0029503-Leoni1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leoni</surname><given-names>V</given-names></name><name><surname>Masterman</surname><given-names>T</given-names></name><name><surname>Mousavi</surname><given-names>FS</given-names></name><name><surname>Wretlind</surname><given-names>B</given-names></name><name><surname>Wahlund</surname><given-names>LO</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Diagnostic use of cerebral and extracerebral oxysterols.</article-title>
+<source>Clin Chem Lab Med</source>
+<volume>42</volume>
+<fpage>186</fpage>
+<lpage>191</lpage>
+<pub-id pub-id-type="pmid">15061359</pub-id></element-citation></ref><ref id="pone.0029503-Bretillon1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bretillon</surname><given-names>L</given-names></name><name><surname>Sid&#x000e9;n</surname><given-names>A</given-names></name><name><surname>Wahlund</surname><given-names>LO</given-names></name><name><surname>L&#x000fc;tjohann</surname><given-names>D</given-names></name><name><surname>Minthon</surname><given-names>L</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Plasma levels of 24shydroxycholesterol in patients with neurological diseases.</article-title>
+<source>Neurosci Lett</source>
+<volume>293</volume>
+<fpage>87</fpage>
+<lpage>90</lpage>
+<pub-id pub-id-type="pmid">11027840</pub-id></element-citation></ref><ref id="pone.0029503-Teunissen1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Teunissen</surname><given-names>CE</given-names></name><name><surname>Dijkstra</surname><given-names>CD</given-names></name><name><surname>Polman</surname><given-names>CH</given-names></name><name><surname>Hoogervorst</surname><given-names>ELJ</given-names></name><name><surname>von Bergmann</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Decreased levels of the brain specific 24 s-hydroxycholesterol and cholesterol precursors in serum of multiple sclerosis patients.</article-title>
+<source>Neurosci Lett</source>
+<volume>347</volume>
+<fpage>159</fpage>
+<lpage>162</lpage>
+<pub-id pub-id-type="pmid">12875910</pub-id></element-citation></ref><ref id="pone.0029503-Papassotiropoulos1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Papassotiropoulos</surname><given-names>A</given-names></name><name><surname>L&#x000fc;tjohann</surname><given-names>D</given-names></name><name><surname>Bagli</surname><given-names>M</given-names></name><name><surname>Locatelli</surname><given-names>S</given-names></name><name><surname>Jessen</surname><given-names>F</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Plasma 24shydroxycholesterol: a peripheral indicator of neuronal degeneration and potential state marker for alzheimer's disease.</article-title>
+<source>Neuroreport</source>
+<volume>11</volume>
+<fpage>1959</fpage>
+<lpage>1962</lpage>
+<pub-id pub-id-type="pmid">10884051</pub-id></element-citation></ref><ref id="pone.0029503-Trousson1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Trousson</surname><given-names>A</given-names></name><name><surname>Bernard</surname><given-names>S</given-names></name><name><surname>Petit</surname><given-names>PX</given-names></name><name><surname>Liere</surname><given-names>P</given-names></name><name><surname>Pianos</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>25-hydroxycholesterol provokes oligodendrocyte cell line apoptosis and stimulates the secreted phospholipase a2 type iia via lxr beta and pxr.</article-title>
+<source>J Neurochem</source>
+<volume>109</volume>
+<fpage>945</fpage>
+<lpage>958</lpage>
+<pub-id pub-id-type="pmid">19250336</pub-id></element-citation></ref><ref id="pone.0029503-Alexandrov1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alexandrov</surname><given-names>P</given-names></name><name><surname>Cui</surname><given-names>JG</given-names></name><name><surname>Zhao</surname><given-names>Y</given-names></name><name><surname>Lukiw</surname><given-names>WJ</given-names></name></person-group>
+<year>2005</year>
+<article-title>24 s-hydroxycholesterol induces inflammatory gene expression in primary human neural cells.</article-title>
+<source>Neuroreport</source>
+<volume>16</volume>
+<fpage>909</fpage>
+<lpage>913</lpage>
+<pub-id pub-id-type="pmid">15931060</pub-id></element-citation></ref><ref id="pone.0029503-Schroepfer1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schroepfer</surname><given-names>GJ</given-names></name></person-group>
+<year>2000</year>
+<article-title>Oxysterols: modulators of cholesterol metabolism and other processes.</article-title>
+<source>Physiol Rev</source>
+<volume>80</volume>
+<fpage>361</fpage>
+<lpage>554</lpage>
+<pub-id pub-id-type="pmid">10617772</pub-id></element-citation></ref><ref id="pone.0029503-Valkonen1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Valkonen</surname><given-names>VP</given-names></name><name><surname>P&#x000e4;iv&#x000e4;</surname><given-names>H</given-names></name><name><surname>Salonen</surname><given-names>JT</given-names></name><name><surname>Lakka</surname><given-names>TA</given-names></name><name><surname>Lehtim&#x000e4;ki</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Risk of acute coronary events and serum concentration of asymmetrical dimethylarginine.</article-title>
+<source>Lancet</source>
+<volume>358</volume>
+<fpage>2127</fpage>
+<lpage>2128</lpage>
+<pub-id pub-id-type="pmid">11784629</pub-id></element-citation></ref><ref id="pone.0029503-Nishiyama1"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nishiyama</surname><given-names>Y</given-names></name><name><surname>Ueda</surname><given-names>M</given-names></name><name><surname>Katsura</surname><given-names>KI</given-names></name><name><surname>Otsuka</surname><given-names>T</given-names></name><name><surname>Abe</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Asymmetric dimethylarginine (adma) as a possible risk marker for ischemic stroke.</article-title>
+<source>J Neurol Sci</source>
+<volume>290</volume>
+<fpage>12</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="pmid">20060545</pub-id></element-citation></ref><ref id="pone.0029503-Nijveldt1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nijveldt</surname><given-names>RJ</given-names></name><name><surname>Teerlink</surname><given-names>T</given-names></name><name><surname>van Guldener</surname><given-names>C</given-names></name><name><surname>Prins</surname><given-names>HA</given-names></name><name><surname>van Lambalgen</surname><given-names>AA</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Handling of asymmetrical dimethylarginine and symmetrical dimethylarginine by the rat kidney under basal conditions and during endotoxaemia.</article-title>
+<source>Nephrol Dial Transplant</source>
+<volume>18</volume>
+<fpage>2542</fpage>
+<lpage>2550</lpage>
+<pub-id pub-id-type="pmid">14605276</pub-id></element-citation></ref><ref id="pone.0029503-Blackwell1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blackwell</surname><given-names>S</given-names></name><name><surname>O'Reilly</surname><given-names>DSJ</given-names></name><name><surname>Reid</surname><given-names>D</given-names></name><name><surname>Talwar</surname><given-names>D</given-names></name></person-group>
+<year>2010</year>
+<article-title>Plasma dimethylarginines during the acute inflammatory response.</article-title>
+<source>Eur J Clin Invest</source>
+</element-citation></ref><ref id="pone.0029503-Fink1"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fink</surname><given-names>MP</given-names></name></person-group>
+<year>2002</year>
+<article-title>Bench-to-bedside review: Cytopathic hypoxia.</article-title>
+<source>Crit Care</source>
+<volume>6</volume>
+<fpage>491</fpage>
+<lpage>499</lpage>
+<pub-id pub-id-type="pmid">12493070</pub-id></element-citation></ref><ref id="pone.0029503-Zhang1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Z</given-names></name><name><surname>Lowry</surname><given-names>SF</given-names></name><name><surname>Guarente</surname><given-names>L</given-names></name><name><surname>Haimovich</surname><given-names>B</given-names></name></person-group>
+<year>2010</year>
+<article-title>Roles of sirt1 in the acute and restorative phases following induction of inflammation.</article-title>
+<source>J Biol Chem</source>
+<volume>285</volume>
+<fpage>41391</fpage>
+<lpage>41401</lpage>
+<pub-id pub-id-type="pmid">20966076</pub-id></element-citation></ref><ref id="pone.0029503-Levy1"><label>54</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Levy</surname><given-names>RJ</given-names></name></person-group>
+<year>2007</year>
+<article-title>Mitochondrial dysfunction, bioenergetic impairment, and metabolic downregulation in sepsis.</article-title>
+<source>Shock</source>
+<volume>28</volume>
+<fpage>24</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="pmid">17483747</pub-id></element-citation></ref><ref id="pone.0029503-Perkins1"><label>55</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perkins</surname><given-names>MN</given-names></name><name><surname>Stone</surname><given-names>TW</given-names></name></person-group>
+<year>1982</year>
+<article-title>An iontophoretic investigation of the actions of convulsant kynurenines and their interaction with the endogenous excitant quinolinic acid.</article-title>
+<source>Brain Res</source>
+<volume>247</volume>
+<fpage>184</fpage>
+<lpage>187</lpage>
+<pub-id pub-id-type="pmid">6215086</pub-id></element-citation></ref><ref id="pone.0029503-Stone3"><label>56</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stone</surname><given-names>TW</given-names></name><name><surname>Darlington</surname><given-names>LG</given-names></name></person-group>
+<year>2002</year>
+<article-title>Endogenous kynurenines as targets for drug discovery and development.</article-title>
+<source>Nat Rev Drug Discov</source>
+<volume>1</volume>
+<fpage>609</fpage>
+<lpage>620</lpage>
+<pub-id pub-id-type="pmid">12402501</pub-id></element-citation></ref><ref id="pone.0029503-Andin1"><label>57</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Andin&#x000e9;</surname><given-names>P</given-names></name><name><surname>Lehmann</surname><given-names>A</given-names></name><name><surname>Ellr&#x000e9;n</surname><given-names>K</given-names></name><name><surname>Wennberg</surname><given-names>E</given-names></name><name><surname>Kjellmer</surname><given-names>I</given-names></name><etal/></person-group>
+<year>1988</year>
+<article-title>The excitatory amino acid antagonist kynurenic acid administered after hypoxic-ischemia in neonatal rats offers neuroprotection.</article-title>
+<source>Neurosci Lett</source>
+<volume>90</volume>
+<fpage>208</fpage>
+<lpage>212</lpage>
+<pub-id pub-id-type="pmid">3412643</pub-id></element-citation></ref><ref id="pone.0029503-Urban1"><label>58</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Urban</surname><given-names>M</given-names></name><name><surname>Enot</surname><given-names>DP</given-names></name><name><surname>Dallmann</surname><given-names>G</given-names></name><name><surname>K&#x000f6;rner</surname><given-names>L</given-names></name><name><surname>Forcher</surname><given-names>V</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Complexity and pitfalls of mass spectrometry-based targeted metabolomics in brain research.</article-title>
+<source>Anal Biochem</source>
+<volume>406</volume>
+<fpage>124</fpage>
+<lpage>131</lpage>
+<pub-id pub-id-type="pmid">20619249</pub-id></element-citation></ref><ref id="pone.0029503-Solberg1"><label>59</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Solberg</surname><given-names>R</given-names></name><name><surname>Enot</surname><given-names>D</given-names></name><name><surname>Deigner</surname><given-names>HP</given-names></name><name><surname>Koal</surname><given-names>T</given-names></name><name><surname>Scholl-B&#x000fc;rgi</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Metabolomic analyses of plasma reveals new insights into asphyxia and resuscitation in pigs.</article-title>
+<source>PLoS One</source>
+<volume>5</volume>
+<fpage>e9606</fpage>
+<pub-id pub-id-type="pmid">20231903</pub-id></element-citation></ref><ref id="pone.0029503-Food1"><label>60</label><element-citation publication-type="other">
+<collab>Food and Drug Administration</collab>
+<year>2001</year>
+<article-title>Fda guidance for industry: Bioanalytical method validation.</article-title>
+<comment>Technical report, Food and Drug Administration, Center for Drug Evaluation and Research</comment>
+</element-citation></ref><ref id="pone.0029503-Zuur1"><label>61</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Zuur</surname><given-names>A</given-names></name><name><surname>Ieno</surname><given-names>E</given-names></name><name><surname>Walker</surname><given-names>N</given-names></name><name><surname>Saveliev</surname><given-names>A</given-names></name><name><surname>Smith</surname><given-names>G</given-names></name></person-group>
+<year>2009</year>
+<article-title>Mixed Effects Models and Extensions in Ecology with R.</article-title>
+<comment>Springer, 1st edition</comment>
+</element-citation></ref><ref id="pone.0029503-Benjamini1"><label>62</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Benjamini</surname><given-names>Y</given-names></name><name><surname>Hochberg</surname><given-names>Y</given-names></name></person-group>
+<year>1995</year>
+<article-title>Controlling the false discovery rate: a practical and powerful approach to multiple testing.</article-title>
+<source>Journal of the Royal Statistical Society Series B</source>
+<volume>57</volume>
+<fpage>289</fpage>
+<lpage>300</lpage>
+</element-citation></ref><ref id="pone.0029503-Tabor1"><label>63</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tabor</surname><given-names>CW</given-names></name><name><surname>Tabor</surname><given-names>H</given-names></name></person-group>
+<year>1984</year>
+<article-title>Polyamines.</article-title>
+<source>Annu Rev Biochem</source>
+<volume>53</volume>
+<fpage>749</fpage>
+<lpage>790</lpage>
+<pub-id pub-id-type="pmid">6206782</pub-id></element-citation></ref><ref id="pone.0029503-Ha1"><label>64</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ha</surname><given-names>HC</given-names></name><name><surname>Woster</surname><given-names>PM</given-names></name><name><surname>Yager</surname><given-names>JD</given-names></name><name><surname>Casero</surname><given-names>RA</given-names></name></person-group>
+<year>1997</year>
+<article-title>The role of polyamine catabolism in polyamine analogue-induced programmed cell death.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>94</volume>
+<fpage>11557</fpage>
+<lpage>11562</lpage>
+<pub-id pub-id-type="pmid">9326648</pub-id></element-citation></ref><ref id="pone.0029503-Jensen1"><label>65</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jensen</surname><given-names>JR</given-names></name><name><surname>Lynch</surname><given-names>G</given-names></name><name><surname>Baudry</surname><given-names>M</given-names></name></person-group>
+<year>1987</year>
+<article-title>Polyamines stimulate mitochondrial calcium transport in rat brain.</article-title>
+<source>J Neurochem</source>
+<volume>48</volume>
+<fpage>765</fpage>
+<lpage>772</lpage>
+<pub-id pub-id-type="pmid">3806104</pub-id></element-citation></ref><ref id="pone.0029503-Koenig1"><label>66</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koenig</surname><given-names>H</given-names></name><name><surname>Goldstone</surname><given-names>AD</given-names></name><name><surname>Lu</surname><given-names>CY</given-names></name><name><surname>Trout</surname><given-names>JJ</given-names></name></person-group>
+<year>1990</year>
+<article-title>Brain polyamines are controlled by n-methyld- aspartate receptors during ischemia and recirculation.</article-title>
+<source>Stroke</source>
+<volume>21</volume>
+<fpage>III98</fpage>
+<lpage>II102</lpage>
+<pub-id pub-id-type="pmid">2146783</pub-id></element-citation></ref><ref id="pone.0029503-Paschen1"><label>67</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paschen</surname><given-names>W</given-names></name></person-group>
+<year>1992</year>
+<article-title>Polyamine metabolism in different pathological states of the brain.</article-title>
+<source>Mol Chem Neuropathol</source>
+<volume>16</volume>
+<fpage>241</fpage>
+<lpage>271</lpage>
+<pub-id pub-id-type="pmid">1358085</pub-id></element-citation></ref><ref id="pone.0029503-Rao1"><label>68</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rao</surname><given-names>AM</given-names></name><name><surname>Hatcher</surname><given-names>JF</given-names></name><name><surname>Do&#x0011f;an</surname><given-names>A</given-names></name><name><surname>Dempsey</surname><given-names>RJ</given-names></name></person-group>
+<year>2000</year>
+<article-title>Elevated n1-acetylspermidine levels in gerbil and rat brains after cns injury.</article-title>
+<source>J Neurochem</source>
+<volume>74</volume>
+<fpage>1106</fpage>
+<lpage>1111</lpage>
+<pub-id pub-id-type="pmid">10693942</pub-id></element-citation></ref><ref id="pone.0029503-Babu1"><label>69</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Babu</surname><given-names>GN</given-names></name><name><surname>Sailor</surname><given-names>KA</given-names></name><name><surname>Beck</surname><given-names>J</given-names></name><name><surname>Sun</surname><given-names>D</given-names></name><name><surname>Dempsey</surname><given-names>RJ</given-names></name></person-group>
+<year>2003</year>
+<article-title>Ornithine decarboxylase activity in in vivo and in vitro models of cerebral ischemia.</article-title>
+<source>Neurochem Res</source>
+<volume>28</volume>
+<fpage>1851</fpage>
+<lpage>1857</lpage>
+<pub-id pub-id-type="pmid">14649727</pub-id></element-citation></ref><ref id="pone.0029503-Babu2"><label>70</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Babu</surname><given-names>GN</given-names></name><name><surname>Sailor</surname><given-names>KA</given-names></name><name><surname>Sun</surname><given-names>D</given-names></name><name><surname>Dempsey</surname><given-names>RJ</given-names></name></person-group>
+<year>2001</year>
+<article-title>Spermidine/spermine n1-acetyl transferase activity in rat brain following transient focal cerebral ischemia and reperfusion.</article-title>
+<source>Neurosci Lett</source>
+<volume>300</volume>
+<fpage>17</fpage>
+<lpage>20</lpage>
+<pub-id pub-id-type="pmid">11172929</pub-id></element-citation></ref><ref id="pone.0029503-Clarkson1"><label>71</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clarkson</surname><given-names>AN</given-names></name><name><surname>Liu</surname><given-names>H</given-names></name><name><surname>Pearson</surname><given-names>L</given-names></name><name><surname>Kapoor</surname><given-names>M</given-names></name><name><surname>Harrison</surname><given-names>JC</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Neuroprotective effects of spermine following hypoxic-ischemic-induced brain damage: a mechanistic study.</article-title>
+<source>FASEB J</source>
+<volume>18</volume>
+<fpage>1114</fpage>
+<lpage>1116</lpage>
+<pub-id pub-id-type="pmid">15132986</pub-id></element-citation></ref></ref-list></back></article>

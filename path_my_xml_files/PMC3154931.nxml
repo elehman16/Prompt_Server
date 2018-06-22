@@ -1,0 +1,498 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">21853071</article-id><article-id pub-id-type="pmc">3154931</article-id><article-id pub-id-type="publisher-id">PONE-D-11-05931</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0023077</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Diagnostic Medicine</subject></subj-group><subj-group><subject>Gastroenterology and hepatology</subject><subj-group><subject>Liver diseases</subject><subj-group><subject>Infectious hepatitis</subject><subj-group><subject>Hepatitis B</subject></subj-group></subj-group></subj-group></subj-group><subj-group><subject>Infectious diseases</subject><subj-group><subject>Viral diseases</subject><subj-group><subject>Hepatitis</subject><subj-group><subject>Hepatitis B</subject></subj-group></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>A New Model Using Routinely Available Clinical Parameters to Predict Significant Liver Fibrosis in Chronic Hepatitis B</article-title><alt-title alt-title-type="running-head">Predicting Fibrosis in Chronic Hepatitis B</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Seto</surname><given-names>Wai-Kay</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Chun-Fan</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lai</surname><given-names>Ching-Lung</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ip</surname><given-names>Philip P. C.</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Fong</surname><given-names>Daniel Yee-Tak</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Fung</surname><given-names>James</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wong</surname><given-names>Danny Ka-Ho</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Yuen</surname><given-names>Man-Fung</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Medicine, the University of Hong Kong, Queen Mary Hospital, Hong Kong</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Department of Biostatistics, Singapore Clinical Research Institute, Singapore</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Center for Quantitative Medicine, Duke-NUS Graduate Medical School, Singapore</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Department of Pathology, the University of Hong Kong, Queen Mary Hospital, Hong Kong</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Department of Nursing Studies, the University of Hong Kong, Queen Mary Hospital, Hong Kong</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Tavis</surname><given-names>John E.</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Saint Louis University, United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>mfyuen@hkucc.hku.hk</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: W-KS M-FY. Performed the experiments: PPCI JF DK-HW. Analyzed the data: C-FL DY-TF. Wrote the paper: W-KS C-FL C-LL M-FY.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>11</day><month>8</month><year>2011</year></pub-date><volume>6</volume><issue>8</issue><elocation-id>e23077</elocation-id><history><date date-type="received"><day>30</day><month>3</month><year>2011</year></date><date date-type="accepted"><day>5</day><month>7</month><year>2011</year></date></history><permissions><copyright-statement>Seto et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Objective</title><p>We developed a predictive model for significant fibrosis in chronic hepatitis B (CHB) based on routinely available clinical parameters.</p></sec><sec><title>Methods</title><p>237 treatment-na&#x000ef;ve CHB patients [58.4&#x00025; hepatitis B e antigen (HBeAg)-positive] who had undergone liver biopsy were randomly divided into two cohorts: training group (n&#x0200a;=&#x0200a;108) and validation group (n&#x0200a;=&#x0200a;129). Liver histology was assessed for fibrosis. All common demographics, viral serology, viral load and liver biochemistry were analyzed.</p></sec><sec><title>Results</title><p>Based on 12 available clinical parameters (age, sex, HBeAg status, HBV DNA, platelet, albumin, bilirubin, ALT, AST, ALP, GGT and AFP), a model to predict significant liver fibrosis (Ishak fibrosis score &#x02265;3) was derived using the five best parameters (age, ALP, AST, AFP and platelet). Using the formula log(index&#x0002b;1)&#x0200a;=&#x0200a;0.025&#x0002b;0.0031(age)&#x0002b;0.1483 log(ALP)&#x0002b;0.004 log(AST)&#x0002b;0.0908 log(AFP&#x0002b;1)&#x02212;0.028 log(platelet), the PAPAS (<underline>P</underline>latelet/<underline>A</underline>ge/<underline>P</underline>hosphatase/<underline>A</underline>FP/A<underline>S</underline>T) index predicts significant fibrosis with an area under the receiving operating characteristics (AUROC) curve of 0.776 [0.797 for patients with ALT &#x0003c;2&#x000d7;upper limit of normal (ULN)] The negative predictive value to exclude significant fibrosis was 88.4&#x00025;. This predictive power is superior to other non-invasive models using common parameters, including the AST/platelet/GGT/AFP (APGA) index, AST/platelet ratio index (APRI), and the FIB-4 index (AUROC of 0.757, 0.708 and 0.723 respectively). Using the PAPAS index, 67.5&#x00025; of liver biopsies for patients being considered for treatment with ALT &#x0003c;2&#x000d7;ULN could be avoided.</p></sec><sec><title>Conclusion</title><p>The PAPAS index can predict and exclude significant fibrosis, and may reduce the need for liver biopsy in CHB patients.</p></sec></abstract><counts><page-count count="7"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Up to 40&#x00025; of patients with chronic hepatitis B (CHB) would develop cirrhotic complications or hepatocellular carcinoma (HCC) during their lifetime <xref rid="pone.0023077-Lai1" ref-type="bibr">[1]</xref>. While several clinical parameters, including male gender, older age, higher levels of alanine aminotransferase (ALT) and serum HBV DNA have been identified as risk factors for severe liver disease <xref rid="pone.0023077-Chen1" ref-type="bibr">[2]</xref>, <xref rid="pone.0023077-Yuen1" ref-type="bibr">[3]</xref>, <xref rid="pone.0023077-Iloeje1" ref-type="bibr">[4]</xref>, the golden standard in assessing disease severity remains to be liver biopsy. Liver biopsy is still recommended for certain CHB patients, especially those with an ALT level of &#x0003c;2&#x000d7;upper limit of normal (ULN) <xref rid="pone.0023077-Lok1" ref-type="bibr">[5]</xref>, <xref rid="pone.0023077-Liaw1" ref-type="bibr">[6]</xref>. However, up to 2&#x00025; of patients develop complications from liver biopsy <xref rid="pone.0023077-Piccinino1" ref-type="bibr">[7]</xref>, <xref rid="pone.0023077-Rockey1" ref-type="bibr">[8]</xref>. Others problems like intra-observer variation and sampling error are also unavoidable <xref rid="pone.0023077-Abdi1" ref-type="bibr">[9]</xref>, <xref rid="pone.0023077-terBorg1" ref-type="bibr">[10]</xref>, <xref rid="pone.0023077-Regev1" ref-type="bibr">[11]</xref>. There is thus an increasing demand for developing predictive models of fibrosis based on non-invasive markers.</p><p>Many predictive models of fibrosis, including the AST/platelet radio index (APRI) and FIB-4 index, were based on patients with chronic hepatitis C <xref rid="pone.0023077-Wai1" ref-type="bibr">[12]</xref>, <xref rid="pone.0023077-Sterling1" ref-type="bibr">[13]</xref>, <xref rid="pone.0023077-ImbertBismut1" ref-type="bibr">[14]</xref>, <xref rid="pone.0023077-Forns1" ref-type="bibr">[15]</xref>, <xref rid="pone.0023077-Adams1" ref-type="bibr">[16]</xref>, <xref rid="pone.0023077-Koda1" ref-type="bibr">[17]</xref>. Using such models to predict liver fibrosis in CHB patients had produced conflicting results <xref rid="pone.0023077-Myers1" ref-type="bibr">[18]</xref>, <xref rid="pone.0023077-Wai2" ref-type="bibr">[19]</xref>. Only a minority of models were based on CHB patients <xref rid="pone.0023077-Zeng1" ref-type="bibr">[20]</xref>, <xref rid="pone.0023077-Hui1" ref-type="bibr">[21]</xref>, <xref rid="pone.0023077-Mohamadnejad1" ref-type="bibr">[22]</xref>, <xref rid="pone.0023077-Kim1" ref-type="bibr">[23]</xref>, and these models were limited by a disproportionate percentage of either hepatitis B e antigen (HBeAg)-positive or &#x02013;negative patients. Some of these studies also lack patients with normal serum ALT <xref rid="pone.0023077-Zeng1" ref-type="bibr">[20]</xref>, <xref rid="pone.0023077-Hui1" ref-type="bibr">[21]</xref>. A recently-derived model is the aspartate aminotransferase (AST)/platelet/gamma-glutamyl transpeptidase (GGT)/&#x003b1;-fetoprotein (AFP) (APGA) index, but this is limited by its correlation with transient elastography and not actual liver histology <xref rid="pone.0023077-Fung1" ref-type="bibr">[24]</xref>. Another factor limiting the use of other non-invasive models is that markers used in prediction may not be routinely available in non-research laboratories <xref rid="pone.0023077-Myers1" ref-type="bibr">[18]</xref>, <xref rid="pone.0023077-Zeng1" ref-type="bibr">[20]</xref>, <xref rid="pone.0023077-Cales1" ref-type="bibr">[25]</xref>, <xref rid="pone.0023077-Montazeri1" ref-type="bibr">[26]</xref>.</p><p>The aim of this study is to create a predictive model based on routinely-available clinical parameters to accurately predict significant fibrosis in both HBeAg-positive and -negative CHB.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><sec id="s2a"><title>Patients</title><p>The current study included treatment-na&#x000ef;ve patients who were enrolled into therapeutic drug trials between 1994 and 2008 in the Department of Medicine, the University of Hong Kong, Queen Mary Hospital. All patients were positive for hepatitis B surface antigen (HBsAg) for at least 6 months, with a HBV DNA level of more than 2,000 IU/mL, and a serum ALT of less than 10 times the ULN prior to recruitment. Patients with decompensated cirrhosis or concomitant liver disease, including chronic hepatitis C or D virus infection, primary biliary cirrhosis, autoimmune hepatitis, Wilson's disease, and significant intake of alcohol (20 grams per day for female, 30 grams per day for male) were excluded. Written consent was obtained prior to liver biopsy, and all trials had been approved by the Institutional Review Board of the University of Hong Kong.</p><p>Patient demographics and laboratory parameters (altogether 12 variables) were recorded at the time of liver biopsy. These include age, gender, HBeAg status, HBV DNA levels, albumin, bilirubin, ALT, AST, alkaline phosphatase (ALP), GGT, AFP and platelet count. The ULN of ALT was based on the respective drug trial, ranging from 45 to 53 U/L in men and 31 to 43 U/L in women. Serum HBV DNA levels were measured by three different assays, as follow: a branched DNA assay (Versant HBV DNA 3.0 assay, Bayer Health-Care Diagnostic Division, Tarrytown, NY), with a lower limit of quantification of 400 IU/mL in 33 patients, Cobas Amplicor HBV Monitor Test (Roche Diagnostic, Branchburg, NJ) with a lower limit of quantification of 60 IU/mL in 88 patients, and Cobas Taqman assay (Roche Diagnostic, Branchburg, NJ) with a lower limit of quantification of 12 IU/mL in 116 patients.</p></sec><sec id="s2b"><title>Liver Biopsy</title><p>An 18G sheathed cutting needle (Temno Evolution, Cardinal Health, McGaw Park, IL) was used for liver biopsy for 33 patients, with a minimum length of 1.5 cm obtained. For the remainder of the cohort, a 17G core aspiration needle (Hepafix, B. Braun Melsungen AG, Germany) was used, with a minimum length of 2 cm obtained. Histologic grading of necroinflammation and staging of liver fibrosis were performed using the Knodell histologic activity index <xref rid="pone.0023077-Knodell1" ref-type="bibr">[27]</xref> and Ishak fibrosis score <xref rid="pone.0023077-Ishak1" ref-type="bibr">[28]</xref> respectively, by a single histopathologist blinded to the patients' laboratory data. Significant fibrosis was defined as an Ishak score of 3 or more, meaning the presence of at least bridging fibrosis.</p></sec><sec id="s2c"><title>Statistical analysis</title><p>The primary endpoint of the present study was to determine whether there were associations between significant fibrosis which were present in 77 patients (32.4&#x00025;) in the entire cohort, and the 12 routinely-available clinical parameters mentioned above. Data was randomly divided into a training cohort and a validation cohort. Concerning the optimal sample size of this study, with 32.4&#x00025; of our patient cohort having significant fibrosis and allowing a 10&#x00025; error for a 95&#x00025; confidence interval, 84 patients were needed in each cohort for the study to be adequately powered. A training cohort consisting of 108 patients (45.6&#x00025;) was used to develop the model. The remaining 129 patients (54.4&#x00025;) formed the validation cohort. All statistical analyses were performed using SPSS version 16.0 (SPSS Inc., Chicago, IL), SAS system version 9.1, R version 2.81 and STATA/SE 9.2.</p><p>To create a new predictive model, all variables were subjected to a logarithmic transformation for a better model fit. The sequence of variables in order of their associations with significant liver fibrosis (co-efficient path) was determined by L1 regularized regression. The area under the receiving operating characteristics (AUROC) curve was determined for each number of variables used for the prediction of significant fibrosis. The number of variables used was decided when the addition of extra variables failed to give a relatively better accuracy. A new predictive model was then created with the optimal cut-off value determined as the value with the highest sensitivity and specificity. Using the new regression model, the AUROC, sensitivity, specificity, positive and negative predictive values and likelihood ratios were calculated.</p><p>This new predictive model was compared to three pre-existing non-invasive indexes using routinely-available clinical parameters: the APRI, the FIB-4 index and the APGA index. The APRI was calculated using [AST (U/L)/(ULN of AST)/platelet count (&#x000d7;10<sup>9</sup>/L)]&#x000d7;100 <xref rid="pone.0023077-Wai1" ref-type="bibr">[12]</xref>. The FIB-4 index was calculated using [age (years)&#x000d7;AST (U/L)]/{[PLT (10<sup>9</sup>/L)]&#x000d7;(ALT(U/L)]<sup>1/2</sup>}f <xref rid="pone.0023077-Sterling1" ref-type="bibr">[13]</xref>. The APGA index was calculated using log(index)&#x0200a;=&#x0200a;1.44&#x0002b;0.1490log[GGT (U/L)]&#x0002b;0.3308log [AST (U/L)]&#x02212;0.5846log [platelet count (&#x000d7;10<sup>9</sup>/L)]&#x0002b;0.1148log [AFP (ng/mL)&#x0002b;1] <xref rid="pone.0023077-Fung1" ref-type="bibr">[24]</xref>.</p><p>The Mann-Whitney U test was used for continuous variables with a skewed distribution; the chi-squared test was used for categorical variables. Correlation between different predictive models with significant fibrosis was performed using Spearman correlation co-efficient. A two-sided <italic>p</italic> value of &#x0003c;0.05 was considered statistically significant.</p></sec></sec><sec id="s3"><title>Results</title><p>A total of 237 patients with all 12 clinical parameters available were recruited. The characteristics of all 237 patients at the time of liver biopsy, including a comparison between the training and validation cohorts, are shown in <xref ref-type="table" rid="pone-0023077-t001">Table 1</xref>. The median age was 38.2 years and 98 patients (41.3&#x00025;) were HBeAg-positive. Twenty-five patients (10.5&#x00025;) had a normal ALT level. Significant fibrosis and cirrhosis were present in 77 patients (32.4&#x00025;) and 5 patients (2.1&#x00025;) respectively. The percentage of patients with significant fibrosis in patients with ALT &#x02265;2&#x000d7;ULN and &#x0003c;2&#x000d7;ULN were 39.6&#x00025; (44 out of 111 patients) and 26.2&#x00025; (33 out of 126 patients) respectively.</p><table-wrap id="pone-0023077-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0023077.t001</object-id><label>Table 1</label><caption><title>Characteristics of 237 patients included in model.</title></caption><alternatives><graphic id="pone-0023077-t001-1" xlink:href="pone.0023077.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">Training</td><td align="left" rowspan="1" colspan="1">Validation</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic> value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Number of patients</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>237</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>108</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>129</bold>
+</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age (years)</bold>
+</td><td align="left" rowspan="1" colspan="1">38.2 (18&#x02013;63)</td><td align="left" rowspan="1" colspan="1">36.4 (18&#x02013;63)</td><td align="left" rowspan="1" colspan="1">40.0 (18&#x02013;61)</td><td align="left" rowspan="1" colspan="1">0.695</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Number of male patients</bold>
+</td><td align="left" rowspan="1" colspan="1">160 (67.2&#x00025;)</td><td align="left" rowspan="1" colspan="1">73 (67.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">87 (67.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.980</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Number of HBeAg-positive patients</bold>
+</td><td align="left" rowspan="1" colspan="1">98 (41.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">42 (38.9&#x00025;)</td><td align="left" rowspan="1" colspan="1">56 (43.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.481</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Albumin (g/L)</bold>
+</td><td align="left" rowspan="1" colspan="1">46 (36&#x02013;54)</td><td align="left" rowspan="1" colspan="1">46 (37&#x02013;54)</td><td align="left" rowspan="1" colspan="1">45 (36&#x02013;53)</td><td align="left" rowspan="1" colspan="1">0.156</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Bilirubin (umol/L)</bold>
+</td><td align="left" rowspan="1" colspan="1">12 (3&#x02013;96)</td><td align="left" rowspan="1" colspan="1">12 (3&#x02013;96)</td><td align="left" rowspan="1" colspan="1">12 (3&#x02013;31)</td><td align="left" rowspan="1" colspan="1">0.348</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>ALP (U/L)</bold>
+</td><td align="left" rowspan="1" colspan="1">76 (20&#x02013;242)</td><td align="left" rowspan="1" colspan="1">73.5 (33&#x02013;145)</td><td align="left" rowspan="1" colspan="1">76 (20&#x02013;242)</td><td align="left" rowspan="1" colspan="1">0.283</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>AST (U/L)</bold>
+</td><td align="left" rowspan="1" colspan="1">54 (16&#x02013;304)</td><td align="left" rowspan="1" colspan="1">52 (16&#x02013;304)</td><td align="left" rowspan="1" colspan="1">55 (18&#x02013;304)</td><td align="left" rowspan="1" colspan="1">0.490</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>ALT (U/L)</bold>
+</td><td align="left" rowspan="1" colspan="1">87 (14&#x02013;507)</td><td align="left" rowspan="1" colspan="1">80.5 (15&#x02013;469)</td><td align="left" rowspan="1" colspan="1">95 (14&#x02013;507)</td><td align="left" rowspan="1" colspan="1">0.334</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Number of patients with</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>&#x02022;&#x02003;Normal ALT</bold>
+</td><td align="left" rowspan="1" colspan="1">25 (10.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">10 (9.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">15 (11.6&#x00025;)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>&#x02022;&#x02003;ALT 1&#x02013;2&#x000d7;ULN</bold>
+</td><td align="left" rowspan="1" colspan="1">101 (42.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">46 (42.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">55 (42.6&#x00025;)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>&#x02022;&#x02003;ALT &#x0003e;2&#x000d7;ULN</bold>
+</td><td align="left" rowspan="1" colspan="1">111 (46.8&#x00025;)</td><td align="left" rowspan="1" colspan="1">52 (48.1&#x00025;)</td><td align="left" rowspan="1" colspan="1">59 (45.7&#x00025;)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>GGT (U/L)</bold>
+</td><td align="left" rowspan="1" colspan="1">33 (5&#x02013;160)</td><td align="left" rowspan="1" colspan="1">30.5 (6&#x02013;134)</td><td align="left" rowspan="1" colspan="1">35 (5&#x02013;160)</td><td align="left" rowspan="1" colspan="1">0.999</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>AFP (ng/mL)</bold>
+</td><td align="left" rowspan="1" colspan="1">4 (1&#x02013;178)</td><td align="left" rowspan="1" colspan="1">4 (1&#x02013;178)</td><td align="left" rowspan="1" colspan="1">4 (1&#x02013;86)</td><td align="left" rowspan="1" colspan="1">0.420</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Platelet (&#x000d7;10<sup>9</sup>/L)</bold>
+</td><td align="left" rowspan="1" colspan="1">201 (93&#x02013;334)</td><td align="left" rowspan="1" colspan="1">206.5 (95&#x02013;331)</td><td align="left" rowspan="1" colspan="1">198 (93&#x02013;334)</td><td align="left" rowspan="1" colspan="1">0.571</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>HBV DNA (log IU/mL)</bold>
+</td><td align="left" rowspan="1" colspan="1">6.77 (2.70&#x02013;14.0)</td><td align="left" rowspan="1" colspan="1">6.99 (3.50&#x02013;11.8)</td><td align="left" rowspan="1" colspan="1">6.76 (2.70&#x02013;14.0)</td><td align="left" rowspan="1" colspan="1">0.148</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Number of patients with significant necroinflammation (NI&#x02265;7)</bold>
+</td><td align="left" rowspan="1" colspan="1">120 (50.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">47 (43.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">73 (56.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.339</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Number of patients with significant fibrosis (F&#x02265;3)</bold>
+</td><td align="left" rowspan="1" colspan="1">77 (32.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">30 (27.8&#x00025;)</td><td align="left" rowspan="1" colspan="1">47 (36.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.091</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>&#x02022;&#x02003;F6</bold>
+</td><td align="left" rowspan="1" colspan="1">5 (2.1&#x00025;)</td><td align="left" rowspan="1" colspan="1">3 (2.8&#x00025;)</td><td align="left" rowspan="1" colspan="1">2 (1.6&#x00025;)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>&#x02022;&#x02003;F5</bold>
+</td><td align="left" rowspan="1" colspan="1">15 (6.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">7 (6.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">8 (6.2&#x00025;)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>&#x02022;&#x02003;F4</bold>
+</td><td align="left" rowspan="1" colspan="1">25 (10.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">13 (12.0&#x00025;)</td><td align="left" rowspan="1" colspan="1">12 (9.3&#x00025;)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>&#x02022;&#x02003;F3</bold>
+</td><td align="left" rowspan="1" colspan="1">32 (13.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">7 (6.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">25 (19.4&#x00025;)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>&#x02022;&#x02003;F2</bold>
+</td><td align="left" rowspan="1" colspan="1">59 (24.8&#x00025;)</td><td align="left" rowspan="1" colspan="1">28 (25.9&#x00025;)</td><td align="left" rowspan="1" colspan="1">31 (24.0&#x00025;)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>&#x02022;&#x02003;F1</bold>
+</td><td align="left" rowspan="1" colspan="1">71 (29.8&#x00025;)</td><td align="left" rowspan="1" colspan="1">32 (29.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">39 (30.2&#x00025;)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>&#x02022;&#x02003;F0</bold>
+</td><td align="left" rowspan="1" colspan="1">30 (12.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">18 (16.7&#x00025;)</td><td align="left" rowspan="1" colspan="1">12 (9.3&#x00025;)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>Continuous variables expressed in median (range) F&#x0200a;=&#x0200a;Ishak Fibrosis Score.</p></fn></table-wrap-foot></table-wrap><p>The sequence of variables added at each step under the AUROC curve is shown in <xref ref-type="fig" rid="pone-0023077-g001">Figure 1</xref>. The addition of the first 5 variables (AFP, ALP, age, AST, platelet count) achieved a best fit in the regression model. The further addition of variables only increases the complexity of the formula without achieving a marked improvement in prediction accuracy. Using L1 regularized regression, a new predictive model for significant fibrosis, named the PAPAS index (<underline>P</underline>latelet/<underline>A</underline>ge/<underline>P</underline>hosphatase/<underline>A</underline>FP/A<underline>S</underline>T), was derived as follows:<disp-formula><graphic xlink:href="pone.0023077.e001.jpg" mimetype="image" position="float"/></disp-formula>
+</p><fig id="pone-0023077-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0023077.g001</object-id><label>Figure 1</label><caption><title>Area under the receiver operating characteristics (AUROC) curve at each step.</title><p>Steps 1&#x02013;12 as listed in their order: AFP, ALP, age, AST, platelet count, albumin, HBV DNA, GGT, gender, bilirubin, HBeAg status, ALT.</p></caption><graphic xlink:href="pone.0023077.g001"/></fig><p>The AUROC for predicting significant fibrosis was 0.701 for the training cohort and 0.776 for the validation cohort (<xref ref-type="fig" rid="pone-0023077-g002">Figure 2</xref>). There was no significant difference in the AUCs of both training and validation groups (p&#x0200a;=&#x0200a;0.270). The PAPAS index was then compared with three previously published non-invasive indices i.e. the APRI, the FIB-4 index and the APGA index. The boxplots of the four indices in predicting significant fibrosis are shown in <xref ref-type="fig" rid="pone-0023077-g003">Figure 3</xref>. APRI, the FIB-4 index, the APGA index and the PAPAS index all correlated well with significant fibrosis [<italic>r</italic>&#x0200a;=&#x0200a;0.337, 0.338, 0.418 and 0.426 respectively (all p&#x0003c;0.001)]. The AUROC for predicting significant fibrosis in the validation cohort for all four models is shown in <xref ref-type="fig" rid="pone-0023077-g004">Figure 4a</xref>. The AUC of the PAPAS index, APGA index, FIB-4 index and APRI were 0.776, 0.758, 0.723 and 0.708 respectively (<xref ref-type="table" rid="pone-0023077-t002">Table 2</xref>). The AUC of the PAPAS index was significantly better than APRI (p&#x0200a;=&#x0200a;0.009). There were no significant differences between the AUCs of PAPAS index, APGA index and FIB-4 index. For patients with ALT &#x0003c;2&#x000d7;ULN, the AUROC for all for indices is shown in <xref ref-type="fig" rid="pone-0023077-g004">Figure 4b</xref>. The AUC of the PAPAS index improved to 0.797 (<xref ref-type="table" rid="pone-0023077-t003">Table 3</xref>). The accuracy and correlation coefficients of the PAPAS index are the best among the 4 models.</p><fig id="pone-0023077-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0023077.g002</object-id><label>Figure 2</label><caption><title>Comparison of receiver operating characteristics (ROC) curves of training and validation cohorts in predicting significant fibrosis for the PAPAS index.</title></caption><graphic xlink:href="pone.0023077.g002"/></fig><fig id="pone-0023077-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0023077.g003</object-id><label>Figure 3</label><caption><title>Model values based on Ishak fibrosis score.</title><p>The top and bottom of each box represents the 25<sup>th</sup> and 75<sup>th</sup> percentile interval, the line through the box in the median and the error bars are the 5<sup>th</sup> and 95<sup>th</sup> percentile intervals.</p></caption><graphic xlink:href="pone.0023077.g003"/></fig><fig id="pone-0023077-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0023077.g004</object-id><label>Figure 4</label><caption><title>Comparison of ROC curves of different predictive models in predicting significant fibrosis for (a) all patients and (b) patients with ALT &#x0003c;&#x000d7;2 ULN.</title></caption><graphic xlink:href="pone.0023077.g004"/></fig><table-wrap id="pone-0023077-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0023077.t002</object-id><label>Table 2</label><caption><title>Area under curve (AUC) of the validation cohort using the PAPAS index, APGA index, FIB-4 index and APRI for significant fibrosis in all patients.</title></caption><alternatives><graphic id="pone-0023077-t002-2" xlink:href="pone.0023077.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">AUC for significant fibrosis</td><td align="left" rowspan="1" colspan="1">95&#x00025; confidence intervals</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>PAPAS</bold>
+</td><td align="left" rowspan="1" colspan="1">0.776</td><td align="left" rowspan="1" colspan="1">0.694&#x02013;0.854</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>APGA</bold>
+</td><td align="left" rowspan="1" colspan="1">0.757</td><td align="left" rowspan="1" colspan="1">0.674&#x02013;0.840</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>FIB-4</bold>
+</td><td align="left" rowspan="1" colspan="1">0.723</td><td align="left" rowspan="1" colspan="1">0.635&#x02013;0.810</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>APRI</bold>
+</td><td align="left" rowspan="1" colspan="1">0.708</td><td align="left" rowspan="1" colspan="1">0.625&#x02013;0.800</td></tr></tbody></table></alternatives></table-wrap><table-wrap id="pone-0023077-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0023077.t003</object-id><label>Table 3</label><caption><title>Area under curve (AUC) of the validation cohort using the PAPAS index, APGA index, FIB-4 index and APRI for significant fibrosis in patients with ALT &#x0003c;2&#x000d7;ULN.</title></caption><alternatives><graphic id="pone-0023077-t003-3" xlink:href="pone.0023077.t003"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">AUC for significant fibrosis</td><td align="left" rowspan="1" colspan="1">95&#x00025; confidence intervals</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>PAPAS</bold>
+</td><td align="left" rowspan="1" colspan="1">0.797</td><td align="left" rowspan="1" colspan="1">0.706&#x02013;0.888</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>APGA</bold>
+</td><td align="left" rowspan="1" colspan="1">0.784</td><td align="left" rowspan="1" colspan="1">0.693&#x02013;0.875</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>FIB-4</bold>
+</td><td align="left" rowspan="1" colspan="1">0.726</td><td align="left" rowspan="1" colspan="1">0.629&#x02013;0.823</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>APRI</bold>
+</td><td align="left" rowspan="1" colspan="1">0.727</td><td align="left" rowspan="1" colspan="1">0.636&#x02013;0.818</td></tr></tbody></table></alternatives></table-wrap><p>The sensitivity, specificity, predictive values and likelihood ratios of all four indices are shown in <xref ref-type="table" rid="pone-0023077-t004">Table 4</xref>, using the various cut-offs suggested for each model. Using an optimal cut-off of 1.662, the PAPAS index had a sensitivity of 73.3&#x00025; and a specificity of 78.2&#x00025; in predicting significant fibrosis. The negative predictive value was 88.4&#x00025;.</p><table-wrap id="pone-0023077-t004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0023077.t004</object-id><label>Table 4</label><caption><title>Sensitivity, specificity, predictive values and likelihood ratios of scores according to different cut-offs for predicting significant fibrosis.</title></caption><alternatives><graphic id="pone-0023077-t004-4" xlink:href="pone.0023077.t004"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Optimal cut-off</td><td align="left" rowspan="1" colspan="1">Sensitivity</td><td align="left" rowspan="1" colspan="1">Specificity</td><td align="left" rowspan="1" colspan="1">PPV</td><td align="left" rowspan="1" colspan="1">NPV</td><td align="left" rowspan="1" colspan="1">LR&#x0002b;</td><td align="left" rowspan="1" colspan="1">LR&#x02212;</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>PAPAS</bold>
+</td><td align="left" rowspan="1" colspan="1">1.662</td><td align="left" rowspan="1" colspan="1">73.3&#x00025;</td><td align="left" rowspan="1" colspan="1">78.2&#x00025;</td><td align="left" rowspan="1" colspan="1">56.4&#x00025;</td><td align="left" rowspan="1" colspan="1">88.4&#x00025;</td><td align="left" rowspan="1" colspan="1">3.365</td><td align="left" rowspan="1" colspan="1">0.341</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>APGA</bold>
+</td><td align="left" rowspan="1" colspan="1">6.687</td><td align="left" rowspan="1" colspan="1">16.9&#x00025;</td><td align="left" rowspan="1" colspan="1">98.1&#x00025;</td><td align="left" rowspan="1" colspan="1">81.3&#x00025;</td><td align="left" rowspan="1" colspan="1">71.0&#x00025;</td><td align="left" rowspan="1" colspan="1">9.027</td><td align="left" rowspan="1" colspan="1">0.847</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>FIB-4</bold>
+</td><td align="left" rowspan="1" colspan="1">1.45</td><td align="left" rowspan="1" colspan="1">51.9&#x00025;</td><td align="left" rowspan="1" colspan="1">74.4&#x00025;</td><td align="left" rowspan="1" colspan="1">49.4&#x00025;</td><td align="left" rowspan="1" colspan="1">76.3&#x00025;</td><td align="left" rowspan="1" colspan="1">2.028</td><td align="left" rowspan="1" colspan="1">0.646</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">3.25</td><td align="left" rowspan="1" colspan="1">9.09&#x00025;</td><td align="left" rowspan="1" colspan="1">99.4&#x00025;</td><td align="left" rowspan="1" colspan="1">87.5&#x00025;</td><td align="left" rowspan="1" colspan="1">69.4&#x00025;</td><td align="left" rowspan="1" colspan="1">14.670</td><td align="left" rowspan="1" colspan="1">0.915</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>APRI</bold>
+</td><td align="left" rowspan="1" colspan="1">0.5</td><td align="left" rowspan="1" colspan="1">89.6&#x00025;</td><td align="left" rowspan="1" colspan="1">40.6&#x00025;</td><td align="left" rowspan="1" colspan="1">42.1&#x00025;</td><td align="left" rowspan="1" colspan="1">89.0&#x00025;</td><td align="left" rowspan="1" colspan="1">1.509</td><td align="left" rowspan="1" colspan="1">0.256</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1.5</td><td align="left" rowspan="1" colspan="1">29.9&#x00025;</td><td align="left" rowspan="1" colspan="1">88.1&#x00025;</td><td align="left" rowspan="1" colspan="1">54.8&#x00025;</td><td align="left" rowspan="1" colspan="1">72.3&#x00025;</td><td align="left" rowspan="1" colspan="1">2.516</td><td align="left" rowspan="1" colspan="1">0.796</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt102"><label/><p>PPV&#x0200a;=&#x0200a;positive predictive value.</p></fn><fn id="nt103"><label/><p>NPV&#x0200a;=&#x0200a;negative predictive value.</p></fn><fn id="nt104"><label/><p>LR&#x0002b;&#x0200a;=&#x0200a;positive likelihood ratio.</p></fn><fn id="nt105"><label/><p>LR&#x02212;&#x0200a;=&#x0200a;negative likelihood ratio.</p></fn></table-wrap-foot></table-wrap><p>One hundred and twenty-six patients (53.2&#x00025;) among our total patient cohort had an ALT level of &#x0003c;2&#x000d7;ULN, a patient group in whom liver biopsies are recommended before considering treatment. Among this group, 85 patients (67.5&#x00025;) had a score less than the optimal cut-off of 1.662, suggesting that these patients do not have significant fibrosis and liver biopsies could be avoided. Seventy-five out of these 85 patients (88.2&#x00025;) had insignificant fibrosis (Ishak stage 0 to 2) on actual histology. For the remaining 10 patients (11.2&#x00025;), 5 had stage 3 fibrosis and 5 had stage 4 fibrosis. If the revised ULN of ALT as suggested by Prati et al (30 U/L for men, 19 U/L for women) <xref rid="pone.0023077-Prati1" ref-type="bibr">[29]</xref> was used, 39 patients would have an ALT level of &#x0003c;2&#x000d7;ULN, of which 30 patients (76.9&#x00025;) could avoid liver biopsy by having a score of less than 1.662. Twenty-eight out of these 30 patients (93.3&#x00025;) had insignificant fibrosis. For the remaining 2 patients (6.7&#x00025;), one had stage 3 fibrosis and another had stage 4 fibrosis.</p></sec><sec id="s4"><title>Discussion</title><p>Given the invasiveness of liver biopsy, the development of non-invasive markers for liver fibrosis has always been an attractive option, especially since non-invasive markers for fibrosis in CHB are not well-established. Liver biopsy itself also has its limitations, thus using the AUROC in evaluating non-invasive markers of fibrosis could never reach the perfect value of 1.0. In fact, it had been shown previously that a perfect marker for significant fibrosis would not even reach an AUROC of 0.90 <xref rid="pone.0023077-Mehta1" ref-type="bibr">[30]</xref>, <xref rid="pone.0023077-Castera1" ref-type="bibr">[31]</xref>, which is the reason for many previous studies can only obtain an AUROC range of 0.76&#x02013;0.88 <xref rid="pone.0023077-Mehta1" ref-type="bibr">[30]</xref>.</p><p>The PAPAS index obtained an AUROC of 0.776 for the prediction of significant fibrosis. The AUROC improves to 0.797 for patients with ALT &#x0003c;2&#x000d7;ULN, the group of patients with liver biopsy recommended before considering treatment. The sensitivity and specificity of our model were both equally high at 73.3&#x00025; and 78.2&#x00025; respectively, and a high negative predictive value of 88.4&#x00025; was achieved at the optimal cut-off value. The AUROC obtained was superior to other models of fibrosis based on commonly-available clinical parameters used in our cohort. Two such models, the FIB-4 index and APRI, were initially created based on patients with chronic hepatitis C, and therefore might not be suitable for CHB patients. According to one study, the AUROC of APRI in 218 CHB patients in predicting fibrosis was only 0.63 <xref rid="pone.0023077-Wai2" ref-type="bibr">[19]</xref>. Two other such models based on chronic hepatitis C patients, Fibrotest and Actitest, achieved satisfactory results in CHB patients, but were limited by the requirement of using special and non-routinely available biomarkers. In addition, the majority of the study population was HBeAg-negative <xref rid="pone.0023077-Myers1" ref-type="bibr">[18]</xref>. The disproportionate representation of either HBeAg-positive or HBeAg-negative patients was also seen in other non-invasive models for CHB <xref rid="pone.0023077-Zeng1" ref-type="bibr">[20]</xref>, <xref rid="pone.0023077-Hui1" ref-type="bibr">[21]</xref>, <xref rid="pone.0023077-Mohamadnejad1" ref-type="bibr">[22]</xref>. Our study had a good mixture of both HBeAg-positive (41.3&#x00025;) and -negative patients, making it more representative of the whole spectrum of CHB population. Our study also had patients with different ALT ranges, including a proportion of patients with normal ALT.</p><p>A high negative predictive value meant the predictive model would excel in excluding CHB patients with significant fibrosis. For patients with an ALT level of &#x0003c;2&#x000d7;ULN, 67.5&#x00025; of our cohort would be able to avoid the invasiveness of a liver biopsy. Among this subgroup of patients, 88.2&#x00025; actually had insignificant fibrosis from histology. While 11.8&#x00025; (10 out of 85) of patients had a discordance between the predictive model score and actual histology, this figure is lower than other studies validating non-invasive models of liver fibrosis <xref rid="pone.0023077-Castera2" ref-type="bibr">[32]</xref>, <xref rid="pone.0023077-Castera3" ref-type="bibr">[33]</xref>. If the revised ULN of ALT as suggested by Prati et al <xref rid="pone.0023077-Prati1" ref-type="bibr">[29]</xref> was used, the percentage of patients able to avoid liver biopsy would further increase to 76.9&#x00025;.</p><p>The PAPAS index was based on five common clinical parameters: age, ALP, AST, AFP and platelet count. All 5 parameters had been shown in previous studies to be associated with significant fibrosis in CHB <xref rid="pone.0023077-Zeng1" ref-type="bibr">[20]</xref>, <xref rid="pone.0023077-Hui1" ref-type="bibr">[21]</xref>, <xref rid="pone.0023077-Fung1" ref-type="bibr">[24]</xref>. Age is a valuable predictor since progression of fibrosis in CHB is time-dependent <xref rid="pone.0023077-Poynard1" ref-type="bibr">[34]</xref>, <xref rid="pone.0023077-Fung2" ref-type="bibr">[35]</xref>. Increased fibrosis results in a reduced clearance of AST and hence an elevated serum level <xref rid="pone.0023077-Kamimoto1" ref-type="bibr">[36]</xref>. A low platelet count has also been associated with advanced liver fibrosis through the altered production of thrombopoietin <xref rid="pone.0023077-Adinolfi1" ref-type="bibr">[37]</xref>. The addition of extra variables other than these five parameters did not further improve the accuracy of the current predictive model. Both ALT and HBV DNA levels, known to fluctuate during the natural history of CHB <xref rid="pone.0023077-Chu1" ref-type="bibr">[38]</xref>, were not included in the PAPAS index. While previous studies had shown several markers, including hyaluronic acid, &#x003b1;-2 macroglobulin and apolipoprotein A<sub>1</sub>, to have a predictive value in CHB, these markers may not be available in the routine evaluation of chronic liver diseases. Using them in predictive models might hinder their widespread use <xref rid="pone.0023077-Myers1" ref-type="bibr">[18]</xref>, <xref rid="pone.0023077-Zeng1" ref-type="bibr">[20]</xref>, <xref rid="pone.0023077-Cales1" ref-type="bibr">[25]</xref>, <xref rid="pone.0023077-Montazeri1" ref-type="bibr">[26]</xref>.</p><p>Many predictive models in previous studies <xref rid="pone.0023077-Forns1" ref-type="bibr">[15]</xref>, <xref rid="pone.0023077-Hui1" ref-type="bibr">[21]</xref>, <xref rid="pone.0023077-Mohamadnejad1" ref-type="bibr">[22]</xref>, <xref rid="pone.0023077-Cales1" ref-type="bibr">[25]</xref> were created using stepwise regression, a prediction method based on identified independent variables to achieve a best-fit model <xref rid="pone.0023077-Freed1" ref-type="bibr">[39]</xref>. While commonly used, stepwise regression had been shown to be prone to errors of sampling, measurement and specification <xref rid="pone.0023077-Edirisooriya1" ref-type="bibr">[40]</xref>. Moreover, a rigid setup in computer programming and a misreading in the order of importance of various predictor variables could result in serious misinterpretation of results <xref rid="pone.0023077-Welge1" ref-type="bibr">[41]</xref>. L1 regularized regression adopted in the present study identifies the order in which variables enter or leave the created model, allowing more flexibility in finding a regularized fit with any given number of parameters <xref rid="pone.0023077-Park1" ref-type="bibr">[42]</xref>, and has been increasingly used in the design of predictive models in different clinical studies <xref rid="pone.0023077-Fung1" ref-type="bibr">[24]</xref>, <xref rid="pone.0023077-Fleisher1" ref-type="bibr">[43]</xref>, <xref rid="pone.0023077-Guo1" ref-type="bibr">[44]</xref>, <xref rid="pone.0023077-Parkman1" ref-type="bibr">[45]</xref>.</p><p>The current study has certain limitations. Our study only had Chinese CHB patients. Given that 67.6&#x00025; of patients in our study cohort had limited fibrosis, the study would be biased towards having a high negative predictive value. The PAPAS index was not statistically superior to both the APGA index and FIB-4 index, probably due to the limited number of patients in our present study. Hence, external validation of the PAPAS index with an independent validation cohort would be important before considering widespread use. Body mass index and cholesterol levels were not available in our study, thus we were unable to compare our model with other predictive indices, including the Forns index <xref rid="pone.0023077-Forns1" ref-type="bibr">[15]</xref>, <xref rid="pone.0023077-Hui1" ref-type="bibr">[21]</xref>. Given that the current patient cohort consists of patients with potential to be recruited into drug trials, there would be fewer patients with an inactive disease and low viral load. Our predictive model might not be applicable to this group of patients. However, our cohort included patients with HBV DNA &#x02265;2000 IU/mL, which is the threshold level suggested by CHB guidelines in commencing treatment. Due to the small number of patients with histologic cirrhosis, we were unable to create a predictive model for cirrhosis, which would have less measurement and observer error in detection if possible <xref rid="pone.0023077-Regev1" ref-type="bibr">[11]</xref>. Similar to previous models based on CHB patients <xref rid="pone.0023077-Zeng1" ref-type="bibr">[20]</xref>, <xref rid="pone.0023077-Hui1" ref-type="bibr">[21]</xref>, the PAPAS index did not achieve a high positive predictive value. Therefore, the PAPAS index will be best applicable in excluding patients with insignificant fibrosis in whom treatment may not be necessary at the time of measurement. For patients with the score above the optimal cut-off level of 1.662, the decision of treatment should be considered in conjunction with other disease parameters or viral markers.</p><p>A possible method to improve the diagnostic accuracy of predictive models is to combine the available clinical parameters with imaging or transient elastography. The former had been attempted by including the spleen size on imaging, with a high positive predictive value for cirrhosis obtained <xref rid="pone.0023077-Kim1" ref-type="bibr">[23]</xref>. The accuracy of transient elastography in CHB is hindered whenever the ALT levels are elevated <xref rid="pone.0023077-Fung3" ref-type="bibr">[46]</xref>, but this could be improved by combining transient elastography with a non-invasive predictive model like the Forns index <xref rid="pone.0023077-Wong1" ref-type="bibr">[47]</xref>. The sequential use of non-invasive markers is also another option <xref rid="pone.0023077-Sebastiani1" ref-type="bibr">[48]</xref>, although such studies are lacking in CHB patients.</p><p>In conclusion, the PAPAS index, a newly-designed predictive model using routinely-available clinical parameters, can accurately predict significant liver fibrosis in CHB patients, and potentially reduce the need for liver biopsies. Further studies would be needed to validate this model and compare it with other non-invasive models of fibrosis in CHB.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>Man-Fung Yuen is an academic editor of PLoS ONE. This does not alter our adherence to all the PLoS ONE policies on sharing data and materials. No competing interests exist for the remaining authors.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>These authors have no support or funding to report.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0023077-Lai1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lai</surname><given-names>CL</given-names></name><name><surname>Yuen</surname><given-names>MF</given-names></name></person-group>
+<year>2007</year>
+<article-title>The natural history and treatment of chronic hepatitis B: a critical evaluation of standard treatment criteria and end points.</article-title>
+<source>Ann Intern Med</source>
+<volume>147</volume>
+<fpage>58</fpage>
+<lpage>61</lpage>
+<pub-id pub-id-type="pmid">17606962</pub-id></element-citation></ref><ref id="pone.0023077-Chen1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>CJ</given-names></name><name><surname>Yang</surname><given-names>HI</given-names></name><name><surname>Su</surname><given-names>J</given-names></name><name><surname>Jen</surname><given-names>CL</given-names></name><name><surname>You</surname><given-names>SL</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Risk of hepatocellular carcinoma across a biological gradient of serum hepatitis B virus DNA level.</article-title>
+<source>JAMA</source>
+<volume>295</volume>
+<fpage>65</fpage>
+<lpage>73</lpage>
+<pub-id pub-id-type="pmid">16391218</pub-id></element-citation></ref><ref id="pone.0023077-Yuen1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yuen</surname><given-names>MF</given-names></name><name><surname>Yuan</surname><given-names>HJ</given-names></name><name><surname>Wong</surname><given-names>DK</given-names></name><name><surname>Yuen</surname><given-names>JC</given-names></name><name><surname>Wong</surname><given-names>WM</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Prognostic determinants for chronic hepatitis B in Asians: therapeutic implications.</article-title>
+<source>Gut</source>
+<volume>54</volume>
+<fpage>1610</fpage>
+<lpage>1614</lpage>
+<pub-id pub-id-type="pmid">15871997</pub-id></element-citation></ref><ref id="pone.0023077-Iloeje1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iloeje</surname><given-names>UH</given-names></name><name><surname>Yang</surname><given-names>HI</given-names></name><name><surname>Su</surname><given-names>J</given-names></name><name><surname>Jen</surname><given-names>CL</given-names></name><name><surname>You</surname><given-names>SL</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Predicting cirrhosis risk based on the level of circulating hepatitis B viral load.</article-title>
+<source>Gastroenterology</source>
+<volume>130</volume>
+<fpage>678</fpage>
+<lpage>686</lpage>
+<pub-id pub-id-type="pmid">16530509</pub-id></element-citation></ref><ref id="pone.0023077-Lok1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lok</surname><given-names>AS</given-names></name><name><surname>McMahon</surname><given-names>BJ</given-names></name></person-group>
+<year>2009</year>
+<article-title>Chronic hepatitis B: update 2009.</article-title>
+<source>Hepatology</source>
+<volume>50</volume>
+<fpage>661</fpage>
+<lpage>662</lpage>
+<pub-id pub-id-type="pmid">19714720</pub-id></element-citation></ref><ref id="pone.0023077-Liaw1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liaw</surname><given-names>YF</given-names></name><name><surname>Leung</surname><given-names>N</given-names></name><name><surname>Kao</surname><given-names>JH</given-names></name><name><surname>Piratvisuth</surname><given-names>T</given-names></name><name><surname>Gane</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Asian-Pacific consensus statement on the management of chronic hepatitis B: a 2008 update.</article-title>
+<source>Hepatol Int</source>
+<volume>2</volume>
+<fpage>263</fpage>
+<lpage>283</lpage>
+<pub-id pub-id-type="pmid">19669255</pub-id></element-citation></ref><ref id="pone.0023077-Piccinino1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Piccinino</surname><given-names>F</given-names></name><name><surname>Sagnelli</surname><given-names>E</given-names></name><name><surname>Pasquale</surname><given-names>G</given-names></name><name><surname>Giusti</surname><given-names>G</given-names></name></person-group>
+<year>1986</year>
+<article-title>Complications following percutaneous liver biopsy. A multicentre retrospective study on 68,276 biopsies.</article-title>
+<source>J Hepatol</source>
+<volume>2</volume>
+<fpage>165</fpage>
+<lpage>173</lpage>
+<pub-id pub-id-type="pmid">3958472</pub-id></element-citation></ref><ref id="pone.0023077-Rockey1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rockey</surname><given-names>DC</given-names></name><name><surname>Caldwell</surname><given-names>SH</given-names></name><name><surname>Goodman</surname><given-names>ZD</given-names></name><name><surname>Nelson</surname><given-names>RC</given-names></name><name><surname>Smith</surname><given-names>AD</given-names></name></person-group>
+<year>2009</year>
+<article-title>Liver biopsy.</article-title>
+<source>Hepatology</source>
+<volume>49</volume>
+<fpage>1017</fpage>
+<lpage>1044</lpage>
+<pub-id pub-id-type="pmid">19243014</pub-id></element-citation></ref><ref id="pone.0023077-Abdi1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abdi</surname><given-names>W</given-names></name><name><surname>Millan</surname><given-names>JC</given-names></name><name><surname>Mezey</surname><given-names>E</given-names></name></person-group>
+<year>1979</year>
+<article-title>Sampling variability on percutaneous liver biopsy.</article-title>
+<source>Arch Intern Med</source>
+<volume>139</volume>
+<fpage>667</fpage>
+<lpage>669</lpage>
+<pub-id pub-id-type="pmid">443970</pub-id></element-citation></ref><ref id="pone.0023077-terBorg1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>ter Borg</surname><given-names>F</given-names></name><name><surname>ten Kate</surname><given-names>FJ</given-names></name><name><surname>Cuypers</surname><given-names>HT</given-names></name><name><surname>Leentvaar-Kuijpers</surname><given-names>A</given-names></name><name><surname>Oosting</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>A survey of liver pathology in needle biopsies from HBsAg and anti-HBe positive individuals.</article-title>
+<source>J Clin Pathol</source>
+<volume>53</volume>
+<fpage>541</fpage>
+<lpage>548</lpage>
+<pub-id pub-id-type="pmid">10961179</pub-id></element-citation></ref><ref id="pone.0023077-Regev1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Regev</surname><given-names>A</given-names></name><name><surname>Berho</surname><given-names>M</given-names></name><name><surname>Jeffers</surname><given-names>LJ</given-names></name><name><surname>Milikowski</surname><given-names>C</given-names></name><name><surname>Molina</surname><given-names>EG</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Sampling error and intraobserver variation in liver biopsy in patients with chronic HCV infection.</article-title>
+<source>Am J Gastroenterol</source>
+<volume>97</volume>
+<fpage>2614</fpage>
+<lpage>2618</lpage>
+<pub-id pub-id-type="pmid">12385448</pub-id></element-citation></ref><ref id="pone.0023077-Wai1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wai</surname><given-names>CT</given-names></name><name><surname>Greenson</surname><given-names>JK</given-names></name><name><surname>Fontana</surname><given-names>RJ</given-names></name><name><surname>Kalbfleisch</surname><given-names>JD</given-names></name><name><surname>Marrero</surname><given-names>JA</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>A simple noninvasive index can predict both significant fibrosis and cirrhosis in patients with chronic hepatitis C.</article-title>
+<source>Hepatology</source>
+<volume>38</volume>
+<fpage>518</fpage>
+<lpage>526</lpage>
+<pub-id pub-id-type="pmid">12883497</pub-id></element-citation></ref><ref id="pone.0023077-Sterling1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sterling</surname><given-names>RK</given-names></name><name><surname>Lissen</surname><given-names>E</given-names></name><name><surname>Clumeck</surname><given-names>N</given-names></name><name><surname>Sola</surname><given-names>R</given-names></name><name><surname>Correa</surname><given-names>MC</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Development of a simple noninvasive index to predict significant fibrosis in patients with HIV/HCV coinfection.</article-title>
+<source>Hepatology</source>
+<volume>43</volume>
+<fpage>1317</fpage>
+<lpage>1325</lpage>
+<pub-id pub-id-type="pmid">16729309</pub-id></element-citation></ref><ref id="pone.0023077-ImbertBismut1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Imbert-Bismut</surname><given-names>F</given-names></name><name><surname>Ratziu</surname><given-names>V</given-names></name><name><surname>Pieroni</surname><given-names>L</given-names></name><name><surname>Charlotte</surname><given-names>F</given-names></name><name><surname>Benhamou</surname><given-names>Y</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Biochemical markers of liver fibrosis in patients with hepatitis C virus infection: a prospective study.</article-title>
+<source>Lancet</source>
+<volume>357</volume>
+<fpage>1069</fpage>
+<lpage>1075</lpage>
+<pub-id pub-id-type="pmid">11297957</pub-id></element-citation></ref><ref id="pone.0023077-Forns1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Forns</surname><given-names>X</given-names></name><name><surname>Ampurdanes</surname><given-names>S</given-names></name><name><surname>Llovet</surname><given-names>JM</given-names></name><name><surname>Aponte</surname><given-names>J</given-names></name><name><surname>Quinto</surname><given-names>L</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Identification of chronic hepatitis C patients without hepatic fibrosis by a simple predictive model.</article-title>
+<source>Hepatology</source>
+<volume>36</volume>
+<fpage>986</fpage>
+<lpage>992</lpage>
+<pub-id pub-id-type="pmid">12297848</pub-id></element-citation></ref><ref id="pone.0023077-Adams1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adams</surname><given-names>LA</given-names></name><name><surname>Bulsara</surname><given-names>M</given-names></name><name><surname>Rossi</surname><given-names>E</given-names></name><name><surname>DeBoer</surname><given-names>B</given-names></name><name><surname>Speers</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Hepascore: an accurate validated predictor of liver fibrosis in chronic hepatitis C infection.</article-title>
+<source>Clin Chem</source>
+<volume>51</volume>
+<fpage>1867</fpage>
+<lpage>1873</lpage>
+<pub-id pub-id-type="pmid">16055434</pub-id></element-citation></ref><ref id="pone.0023077-Koda1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koda</surname><given-names>M</given-names></name><name><surname>Matunaga</surname><given-names>Y</given-names></name><name><surname>Kawakami</surname><given-names>M</given-names></name><name><surname>Kishimoto</surname><given-names>Y</given-names></name><name><surname>Suou</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>FibroIndex, a practical index for predicting significant fibrosis in patients with chronic hepatitis C.</article-title>
+<source>Hepatology</source>
+<volume>45</volume>
+<fpage>297</fpage>
+<lpage>306</lpage>
+<pub-id pub-id-type="pmid">17256741</pub-id></element-citation></ref><ref id="pone.0023077-Myers1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Myers</surname><given-names>RP</given-names></name><name><surname>Tainturier</surname><given-names>MH</given-names></name><name><surname>Ratziu</surname><given-names>V</given-names></name><name><surname>Piton</surname><given-names>A</given-names></name><name><surname>Thibault</surname><given-names>V</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Prediction of liver histological lesions with biochemical markers in patients with chronic hepatitis B.</article-title>
+<source>J Hepatol</source>
+<volume>39</volume>
+<fpage>222</fpage>
+<lpage>230</lpage>
+<pub-id pub-id-type="pmid">12873819</pub-id></element-citation></ref><ref id="pone.0023077-Wai2"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wai</surname><given-names>CT</given-names></name><name><surname>Cheng</surname><given-names>CL</given-names></name><name><surname>Wee</surname><given-names>A</given-names></name><name><surname>Dan</surname><given-names>YY</given-names></name><name><surname>Chan</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Non-invasive models for predicting histology in patients with chronic hepatitis B.</article-title>
+<source>Liver Int</source>
+<volume>26</volume>
+<fpage>666</fpage>
+<lpage>672</lpage>
+<pub-id pub-id-type="pmid">16842322</pub-id></element-citation></ref><ref id="pone.0023077-Zeng1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeng</surname><given-names>MD</given-names></name><name><surname>Lu</surname><given-names>LG</given-names></name><name><surname>Mao</surname><given-names>YM</given-names></name><name><surname>Qiu</surname><given-names>DK</given-names></name><name><surname>Li</surname><given-names>JQ</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Prediction of significant fibrosis in HBeAg-positive patients with chronic hepatitis B by a noninvasive model.</article-title>
+<source>Hepatology</source>
+<volume>42</volume>
+<fpage>1437</fpage>
+<lpage>1445</lpage>
+<pub-id pub-id-type="pmid">16317674</pub-id></element-citation></ref><ref id="pone.0023077-Hui1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hui</surname><given-names>AY</given-names></name><name><surname>Chan</surname><given-names>HL</given-names></name><name><surname>Wong</surname><given-names>VW</given-names></name><name><surname>Liew</surname><given-names>CT</given-names></name><name><surname>Chim</surname><given-names>AM</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Identification of chronic hepatitis B patients without significant liver fibrosis by a simple noninvasive predictive model.</article-title>
+<source>Am J Gastroenterol</source>
+<volume>100</volume>
+<fpage>616</fpage>
+<lpage>623</lpage>
+<pub-id pub-id-type="pmid">15743360</pub-id></element-citation></ref><ref id="pone.0023077-Mohamadnejad1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mohamadnejad</surname><given-names>M</given-names></name><name><surname>Montazeri</surname><given-names>G</given-names></name><name><surname>Fazlollahi</surname><given-names>A</given-names></name><name><surname>Zamani</surname><given-names>F</given-names></name><name><surname>Nasiri</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Noninvasive markers of liver fibrosis and inflammation in chronic hepatitis B-virus related liver disease.</article-title>
+<source>Am J Gastroenterol</source>
+<volume>101</volume>
+<fpage>2537</fpage>
+<lpage>2545</lpage>
+<pub-id pub-id-type="pmid">17029616</pub-id></element-citation></ref><ref id="pone.0023077-Kim1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>BK</given-names></name><name><surname>Kim</surname><given-names>SA</given-names></name><name><surname>Park</surname><given-names>YN</given-names></name><name><surname>Cheong</surname><given-names>JY</given-names></name><name><surname>Kim</surname><given-names>HS</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Noninvasive models to predict liver cirrhosis in patients with chronic hepatitis B.</article-title>
+<source>Liver Int</source>
+<volume>27</volume>
+<fpage>969</fpage>
+<lpage>976</lpage>
+<pub-id pub-id-type="pmid">17696936</pub-id></element-citation></ref><ref id="pone.0023077-Fung1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fung</surname><given-names>J</given-names></name><name><surname>Lai</surname><given-names>CL</given-names></name><name><surname>Fong</surname><given-names>DY</given-names></name><name><surname>Yuen</surname><given-names>JC</given-names></name><name><surname>Wong</surname><given-names>DK</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Correlation of liver biochemistry with liver stiffness in chronic hepatitis B and development of a predictive model for liver fibrosis.</article-title>
+<source>Liver Int</source>
+<volume>28</volume>
+<fpage>1408</fpage>
+<lpage>1416</lpage>
+<pub-id pub-id-type="pmid">18482268</pub-id></element-citation></ref><ref id="pone.0023077-Cales1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cales</surname><given-names>P</given-names></name><name><surname>Oberti</surname><given-names>F</given-names></name><name><surname>Michalak</surname><given-names>S</given-names></name><name><surname>Hubert-Fouchard</surname><given-names>I</given-names></name><name><surname>Rousselet</surname><given-names>MC</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>A novel panel of blood markers to assess the degree of liver fibrosis.</article-title>
+<source>Hepatology</source>
+<volume>42</volume>
+<fpage>1373</fpage>
+<lpage>1381</lpage>
+<pub-id pub-id-type="pmid">16317693</pub-id></element-citation></ref><ref id="pone.0023077-Montazeri1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Montazeri</surname><given-names>G</given-names></name><name><surname>Estakhri</surname><given-names>A</given-names></name><name><surname>Mohamadnejad</surname><given-names>M</given-names></name><name><surname>Nouri</surname><given-names>N</given-names></name><name><surname>Montazeri</surname><given-names>F</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Serum hyaluronate as a non-invasive marker of hepatic fibrosis and inflammation in HBeAg-negative chronic hepatitis B.</article-title>
+<source>BMC Gastroenterol</source>
+<volume>5</volume>
+<fpage>32</fpage>
+<pub-id pub-id-type="pmid">16221307</pub-id></element-citation></ref><ref id="pone.0023077-Knodell1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Knodell</surname><given-names>RG</given-names></name><name><surname>Ishak</surname><given-names>KG</given-names></name><name><surname>Black</surname><given-names>WC</given-names></name><name><surname>Chen</surname><given-names>TS</given-names></name><name><surname>Craig</surname><given-names>R</given-names></name><etal/></person-group>
+<year>1981</year>
+<article-title>Formulation and application of a numerical scoring system for assessing histological activity in asymptomatic chronic active hepatitis.</article-title>
+<source>Hepatology</source>
+<volume>1</volume>
+<fpage>431</fpage>
+<lpage>435</lpage>
+<pub-id pub-id-type="pmid">7308988</pub-id></element-citation></ref><ref id="pone.0023077-Ishak1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ishak</surname><given-names>K</given-names></name><name><surname>Baptista</surname><given-names>A</given-names></name><name><surname>Bianchi</surname><given-names>L</given-names></name><name><surname>Callea</surname><given-names>F</given-names></name><name><surname>De Groote</surname><given-names>J</given-names></name><etal/></person-group>
+<year>1995</year>
+<article-title>Histological grading and staging of chronic hepatitis.</article-title>
+<source>J Hepatol</source>
+<volume>22</volume>
+<fpage>696</fpage>
+<lpage>699</lpage>
+<pub-id pub-id-type="pmid">7560864</pub-id></element-citation></ref><ref id="pone.0023077-Prati1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Prati</surname><given-names>D</given-names></name><name><surname>Taioli</surname><given-names>E</given-names></name><name><surname>Zanella</surname><given-names>A</given-names></name><name><surname>Della Torre</surname><given-names>E</given-names></name><name><surname>Butelli</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Updated definitions of healthy ranges for serum alanine aminotransferase levels.</article-title>
+<source>Ann Intern Med</source>
+<volume>137</volume>
+<fpage>1</fpage>
+<lpage>10</lpage>
+<pub-id pub-id-type="pmid">12093239</pub-id></element-citation></ref><ref id="pone.0023077-Mehta1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mehta</surname><given-names>SH</given-names></name><name><surname>Lau</surname><given-names>B</given-names></name><name><surname>Afdhal</surname><given-names>NH</given-names></name><name><surname>Thomas</surname><given-names>DL</given-names></name></person-group>
+<year>2009</year>
+<article-title>Exceeding the limits of liver histology markers.</article-title>
+<source>J Hepatol</source>
+<volume>50</volume>
+<fpage>36</fpage>
+<lpage>41</lpage>
+<pub-id pub-id-type="pmid">19012989</pub-id></element-citation></ref><ref id="pone.0023077-Castera1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Castera</surname><given-names>L</given-names></name><name><surname>Pinzani</surname><given-names>M</given-names></name></person-group>
+<year>2010</year>
+<article-title>Biopsy and non-invasive methods for the diagnosis of liver fibrosis: does it take two to tango?</article-title>
+<source>Gut</source>
+<volume>59</volume>
+<fpage>861</fpage>
+<lpage>866</lpage>
+<pub-id pub-id-type="pmid">20581229</pub-id></element-citation></ref><ref id="pone.0023077-Castera2"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Castera</surname><given-names>L</given-names></name><name><surname>Vergniol</surname><given-names>J</given-names></name><name><surname>Foucher</surname><given-names>J</given-names></name><name><surname>Le Bail</surname><given-names>B</given-names></name><name><surname>Chanteloup</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Prospective comparison of transient elastography, Fibrotest, APRI, and liver biopsy for the assessment of fibrosis in chronic hepatitis C.</article-title>
+<source>Gastroenterology</source>
+<volume>128</volume>
+<fpage>343</fpage>
+<lpage>350</lpage>
+<pub-id pub-id-type="pmid">15685546</pub-id></element-citation></ref><ref id="pone.0023077-Castera3"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Castera</surname><given-names>L</given-names></name><name><surname>Sebastiani</surname><given-names>G</given-names></name><name><surname>Le Bail</surname><given-names>B</given-names></name><name><surname>de Ledinghen</surname><given-names>V</given-names></name><name><surname>Couzigou</surname><given-names>P</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Prospective comparison of two algorithms combining non-invasive methods for staging liver fibrosis in chronic hepatitis C.</article-title>
+<source>J Hepatol</source>
+<volume>52</volume>
+<fpage>191</fpage>
+<lpage>198</lpage>
+<pub-id pub-id-type="pmid">20006397</pub-id></element-citation></ref><ref id="pone.0023077-Poynard1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Poynard</surname><given-names>T</given-names></name><name><surname>Mathurin</surname><given-names>P</given-names></name><name><surname>Lai</surname><given-names>CL</given-names></name><name><surname>Guyader</surname><given-names>D</given-names></name><name><surname>Poupon</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>A comparison of fibrosis progression in chronic liver diseases.</article-title>
+<source>J Hepatol</source>
+<volume>38</volume>
+<fpage>257</fpage>
+<lpage>265</lpage>
+<pub-id pub-id-type="pmid">12586290</pub-id></element-citation></ref><ref id="pone.0023077-Fung2"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fung</surname><given-names>J</given-names></name><name><surname>Lai</surname><given-names>CL</given-names></name><name><surname>But</surname><given-names>D</given-names></name><name><surname>Wong</surname><given-names>D</given-names></name><name><surname>Cheung</surname><given-names>TK</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Prevalence of fibrosis and cirrhosis in chronic hepatitis B: implications for treatment and management.</article-title>
+<source>Am J Gastroenterol</source>
+<volume>103</volume>
+<fpage>1421</fpage>
+<lpage>1426</lpage>
+<pub-id pub-id-type="pmid">18422821</pub-id></element-citation></ref><ref id="pone.0023077-Kamimoto1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kamimoto</surname><given-names>Y</given-names></name><name><surname>Horiuchi</surname><given-names>S</given-names></name><name><surname>Tanase</surname><given-names>S</given-names></name><name><surname>Morino</surname><given-names>Y</given-names></name></person-group>
+<year>1985</year>
+<article-title>Plasma clearance of intravenously injected aspartate aminotransferase isozymes: evidence for preferential uptake by sinusoidal liver cells.</article-title>
+<source>Hepatology</source>
+<volume>5</volume>
+<fpage>367</fpage>
+<lpage>375</lpage>
+<pub-id pub-id-type="pmid">3997068</pub-id></element-citation></ref><ref id="pone.0023077-Adinolfi1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adinolfi</surname><given-names>LE</given-names></name><name><surname>Giordano</surname><given-names>MG</given-names></name><name><surname>Andreana</surname><given-names>A</given-names></name><name><surname>Tripodi</surname><given-names>MF</given-names></name><name><surname>Utili</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Hepatic fibrosis plays a central role in the pathogenesis of thrombocytopenia in patients with chronic viral hepatitis.</article-title>
+<source>Br J Haematol</source>
+<volume>113</volume>
+<fpage>590</fpage>
+<lpage>595</lpage>
+<pub-id pub-id-type="pmid">11380442</pub-id></element-citation></ref><ref id="pone.0023077-Chu1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chu</surname><given-names>CJ</given-names></name><name><surname>Hussain</surname><given-names>M</given-names></name><name><surname>Lok</surname><given-names>AS</given-names></name></person-group>
+<year>2002</year>
+<article-title>Quantitative serum HBV DNA levels during different stages of chronic hepatitis B infection.</article-title>
+<source>Hepatology</source>
+<volume>36</volume>
+<fpage>1408</fpage>
+<lpage>1415</lpage>
+<pub-id pub-id-type="pmid">12447866</pub-id></element-citation></ref><ref id="pone.0023077-Freed1"><label>39</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Freed</surname><given-names>MN</given-names></name><name><surname>Ryan</surname><given-names>JM</given-names></name><name><surname>Hess</surname><given-names>RK</given-names></name></person-group>
+<year>1991</year>
+<source>Handbook of Statistical Procedures and Their Computer Applications to Education and the Behavioral Sciences</source>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>American Council on Education and Macmillan Publishing Company</publisher-name>
+</element-citation></ref><ref id="pone.0023077-Edirisooriya1"><label>40</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Edirisooriya</surname><given-names>G</given-names></name></person-group>
+<year>1995</year>
+<article-title>Stepwise Regression Is a Problem, Not a Solution.</article-title>
+<comment>Education Resources Information Center (ERIC; <ext-link ext-link-type="uri" xlink:href="http://www.eric.ed.gov">http://www.eric.ed.gov</ext-link>): ED393890</comment>
+<size units="page">16</size>
+</element-citation></ref><ref id="pone.0023077-Welge1"><label>41</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Welge</surname><given-names>P</given-names></name></person-group>
+<year>1990</year>
+<article-title>Three Reasons Why Stepwise Regression Methods Should Not Be Used by Researchers.</article-title>
+<comment>Education Resources Information Center (ERIC; <ext-link ext-link-type="uri" xlink:href="http://www.eric.ed.gov">http://www.eric.ed.gov</ext-link>): ED316583</comment>
+<size units="page">22</size>
+</element-citation></ref><ref id="pone.0023077-Park1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>MY</given-names></name><name><surname>Hastie</surname><given-names>T</given-names></name></person-group>
+<year>2007</year>
+<article-title>L1-regularization path algorithm for generalized linear models.</article-title>
+<source>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</source>
+<volume>69</volume>
+<fpage>659</fpage>
+<lpage>677</lpage>
+</element-citation></ref><ref id="pone.0023077-Fleisher1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fleisher</surname><given-names>AS</given-names></name><name><surname>Sun</surname><given-names>S</given-names></name><name><surname>Taylor</surname><given-names>C</given-names></name><name><surname>Ward</surname><given-names>CP</given-names></name><name><surname>Gamst</surname><given-names>AC</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Volumetric MRI vs clinical predictors of Alzheimer disease in mild cognitive impairment.</article-title>
+<source>Neurology</source>
+<volume>70</volume>
+<fpage>191</fpage>
+<lpage>199</lpage>
+<pub-id pub-id-type="pmid">18195264</pub-id></element-citation></ref><ref id="pone.0023077-Guo1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>W</given-names></name><name><surname>Lin</surname><given-names>S</given-names></name></person-group>
+<year>2009</year>
+<article-title>Generalized linear modeling with regularization for detecting common disease rare haplotype association.</article-title>
+<source>Genetic Epidemiology</source>
+<volume>33</volume>
+<fpage>308</fpage>
+<lpage>316</lpage>
+<pub-id pub-id-type="pmid">19025789</pub-id></element-citation></ref><ref id="pone.0023077-Parkman1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Parkman</surname><given-names>HP</given-names></name><name><surname>Jacobs</surname><given-names>M</given-names></name><name><surname>Mishra</surname><given-names>AK</given-names></name><name><surname>Kramarczyk</surname><given-names>J</given-names></name><name><surname>Gaughan</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>W1392 DNA Microarray SNP Analysis of Domperidone Efficacy in Patients With Gastroparesis.</article-title>
+<source>Gastroenterology</source>
+<volume>138</volume>
+<fpage>S-714</fpage>
+</element-citation></ref><ref id="pone.0023077-Fung3"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fung</surname><given-names>J</given-names></name><name><surname>Lai</surname><given-names>CL</given-names></name><name><surname>Cheng</surname><given-names>C</given-names></name><name><surname>Wu</surname><given-names>R</given-names></name><name><surname>Wong</surname><given-names>DK</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Mild-to-Moderate Elevation of Alanine Aminotransferase Increases Liver Stiffness Measurement by Transient Elastography in Patients With Chronic Hepatitis B.</article-title>
+<source>Am J Gastroenterol</source>
+<volume>106</volume>
+<issue>3</issue>
+<fpage>492</fpage>
+<lpage>496</lpage>
+<pub-id pub-id-type="pmid">21157442</pub-id></element-citation></ref><ref id="pone.0023077-Wong1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wong</surname><given-names>GLH</given-names></name><name><surname>Wong</surname><given-names>VWS</given-names></name><name><surname>Choi</surname><given-names>PCL</given-names></name><name><surname>Chan</surname><given-names>AWH</given-names></name><name><surname>Chan</surname><given-names>HLY</given-names></name></person-group>
+<year>2010</year>
+<article-title>Development of a non-invasive algorithm with transient elastography (Fibroscan) and serum test formula for advanced liver fibrosis in chronic hepatitis B.</article-title>
+<source>Alimentary Pharmacology &#x00026; Therapeutics</source>
+<volume>31</volume>
+<fpage>1095</fpage>
+<lpage>1103</lpage>
+<pub-id pub-id-type="pmid">20180785</pub-id></element-citation></ref><ref id="pone.0023077-Sebastiani1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sebastiani</surname><given-names>G</given-names></name><name><surname>Halfon</surname><given-names>P</given-names></name><name><surname>Castera</surname><given-names>L</given-names></name><name><surname>Pol</surname><given-names>S</given-names></name><name><surname>Thomas</surname><given-names>DL</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>SAFE biopsy: a validated method for large-scale staging of liver fibrosis in chronic hepatitis C.</article-title>
+<source>Hepatology</source>
+<volume>49</volume>
+<fpage>1821</fpage>
+<lpage>1827</lpage>
+<pub-id pub-id-type="pmid">19291784</pub-id></element-citation></ref></ref-list></back></article>

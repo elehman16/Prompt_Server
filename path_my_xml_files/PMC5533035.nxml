@@ -1,0 +1,517 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28438739</article-id><article-id pub-id-type="pmc">5533035</article-id><article-id pub-id-type="doi">10.1161/JAHA.117.005490</article-id><article-id pub-id-type="publisher-id">JAH32141</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Coronary Heart Disease</subject></subj-group></subj-group></article-categories><title-group><article-title>Reporting Clinical End Points and Safety Events in an Acute Coronary Syndrome Trial: Results With Integrated Collection</article-title><alt-title alt-title-type="left-running-head">Guimar&#x000e3;es et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah32141-cr-0001" contrib-type="author"><name><surname>Guimar&#x000e3;es</surname><given-names>Patr&#x000ed;cia O.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah32141-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah32141-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32141-cr-0002" contrib-type="author" corresp="yes"><name><surname>Lopes</surname><given-names>Renato D.</given-names></name><degrees>MD, PhD</degrees><address><email>renato.lopes@duke.edu</email></address><xref ref-type="aff" rid="jah32141-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32141-cr-0003" contrib-type="author"><name><surname>Stevens</surname><given-names>Susanna R.</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="jah32141-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32141-cr-0004" contrib-type="author"><name><surname>Zimerman</surname><given-names>Andr&#x000e9;</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah32141-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="jah32141-note-1002">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="jah32141-cr-0005" contrib-type="author"><name><surname>Wruck</surname><given-names>Lisa</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah32141-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32141-cr-0006" contrib-type="author"><name><surname>James</surname><given-names>Stefan K.</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32141-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah32141-cr-0007" contrib-type="author"><name><surname>Haque</surname><given-names>Ghazala</given-names></name><degrees>MBBS, MHS</degrees><xref ref-type="aff" rid="jah32141-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32141-cr-0008" contrib-type="author"><name><surname>Giraldez</surname><given-names>Roberto Rocha C. V.</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32141-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32141-cr-0009" contrib-type="author"><name><surname>Alexander</surname><given-names>John H.</given-names></name><degrees>MD, MHS</degrees><xref ref-type="aff" rid="jah32141-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32141-cr-0010" contrib-type="author"><name><surname>Alexander</surname><given-names>Karen P.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah32141-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jah32141-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Duke Clinical Research Institute</named-content>
+<institution>Duke University School of Medicine</institution>
+<named-content content-type="city">Durham</named-content>
+<named-content content-type="country-part">NC</named-content>
+</aff><aff id="jah32141-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Instituto do
+Cora&#x000e7;&#x000e3;o (InCor)</named-content>
+<institution>Hospital das Cl&#x000ed;nicas</institution>
+<institution>Faculdade de Medicina da Universidade de S&#x000e3;o Paulo</institution>
+<named-content content-type="city">S&#x000e3;o Paulo</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="jah32141-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Uppsala Clinical Research Center</named-content>
+<institution>Uppsala University</institution>
+<named-content content-type="city">Uppsala</named-content>
+<country country="SE">Sweden</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Renato D. Lopes, MD, PhD, Duke Clinical Research Institute, Box&#x000a0;3850, 2400 Pratt Street, Room 0311 Terrace Level, Durham, NC 27705. E&#x02010;mail: <email>renato.lopes@duke.edu</email></corresp><fn id="jah32141-note-1002"><label>&#x02020;</label><p>Dr Andr&#x000e9; Zimerman is currently located at Universidade Federal do Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil.</p></fn></author-notes><pub-date pub-type="epub"><day>24</day><month>4</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2017</year></pub-date><volume>6</volume><issue>4</issue><issue-id pub-id-type="doi">10.1002/jah3.2017.6.issue-4</issue-id><elocation-id>e005490</elocation-id><history><date date-type="received"><day>05</day><month>1</month><year>2017</year></date><date date-type="accepted"><day>24</day><month>2</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-6-e005490.pdf"/><abstract id="jah32141-abs-0001"><sec id="jah32141-sec-0001"><title>Background</title><p>End points and adverse events (<styled-content style="fixed-case">AE</styled-content>s) are collected separately in clinical trials, yet regulatory requirements for serious <styled-content style="fixed-case">AE</styled-content> reporting vary across regions, so classifying end points according to seriousness criteria can be useful in global trials.</p></sec><sec id="jah32141-sec-0002"><title>Methods and Results</title><p>In the Apixaban for Prevention of Acute Ischemic Events 2 (APPRAISE&#x02010;2) trial, patients with a recent acute coronary syndrome were randomized to apixaban or placebo for the prevention of recurrent ischemic events. Suspected end points (myocardial infarction, stroke, or bleeding) were adjudicated by an independent clinical events classification committee. Safety criteria were collected for suspected end points and <styled-content style="fixed-case">AE</styled-content>s. Patient&#x02010;level event rates per 100&#x000a0;patient&#x02010;days of follow&#x02010;up, modeled using Poisson regression, explored the influence of region and patient characteristics on event reporting. Overall, 13&#x000a0;909 events were reported by 858 sites in 39 countries; 8.4% (n=1166) were suspected end points, and 91.6% (n=12&#x000a0;743) were <styled-content style="fixed-case">AE</styled-content>s. Overall, 66.0% of suspected end points were confirmed by the clinical events classification committee. Most clinical events classification committee&#x02010;confirmed end points met criteria to be classified as serious (94.0%); many clinical events classification committee&#x02010;negated end points also did (63.2%), but fewer <styled-content style="fixed-case">AE</styled-content>s met seriousness criteria (17.9%). The most common seriousness criterion was hospitalization (79.9%, n=2594). Region explained 28.7% of end point&#x02010; and 26.4% of serious <styled-content style="fixed-case">AE</styled-content>&#x02010;reporting variation, and patient characteristics explained an additional 25.4% of end point and 13.4% of serious <styled-content style="fixed-case">AE</styled-content> variation. Nonserious <styled-content style="fixed-case">AE</styled-content>&#x02010;reporting variation was not explained by adjustment.</p></sec><sec id="jah32141-sec-0003"><title>Conclusions</title><p>An integrated collection of end points and serious <styled-content style="fixed-case">AE</styled-content>s is feasible in a multinational trial and illustrates the shared characteristics of events. Tailoring event collection to fit the phase and purpose of the trial is achievable and informative.</p></sec><sec id="jah32141-sec-0004"><title>Clinical Trial Registration</title><p>
+<styled-content style="fixed-case">URL</styled-content>: <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">http://www.clinicaltrials.gov</ext-link>. Unique identifier: <styled-content style="fixed-case">NCT</styled-content>00831441.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah32141-kwd-0001">acute coronary syndrome</kwd><kwd id="jah32141-kwd-0002">clinical end points</kwd><kwd id="jah32141-kwd-0003">clinical events classification</kwd><kwd id="jah32141-kwd-0004">safety</kwd><kwd id="jah32141-kwd-0005">serious adverse events</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Clinical Studies</kwd><kwd>Cardiovascular Disease</kwd><kwd>Acute Coronary Syndromes</kwd><kwd>Myocardial Infarction</kwd></kwd-group><funding-group><award-group><funding-source>Duke Clinical Research Institute</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="8"/><word-count count="4950"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah32141</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.3 mode:remove_FC converted:11.07.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah32141-cit-1001">(<source>J Am Heart Assoc</source>. <year>2017</year>;<volume>6</volume>:<elocation-id>e005490</elocation-id> DOI: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.117.005490">10.1161/JAHA.117.005490</ext-link>.)<pub-id pub-id-type="pmid">28438739</pub-id></mixed-citation>
+</p></notes></front><body><sec id="jah32141-sec-0005"><title>Introduction</title><p>Collection of trial end point and adverse event (AE) data in clinical trials is vital to determine both the efficacy and safety of the study treatment. Trial end points are established early during the trial design with specific definitions and form the basis for event&#x02010;driven trial completion and regulatory approval.<xref rid="jah32141-bib-0001" ref-type="ref">1</xref> AEs, commonly reported by study participants during trial follow&#x02010;up, follow a regulatory path if they meet criteria for seriousness and represent a key element of the product label.<xref rid="jah32141-bib-0002" ref-type="ref">2</xref>, <xref rid="jah32141-bib-0003" ref-type="ref">3</xref> Traditionally, these events are captured with unique data elements and criteria, but overlap exists. It may be particularly relevant to understand which end point events also meet serious AE criteria to meet regulatory reporting requirements in a global trial. The regulatory environment varies in different countries. For example, some countries do not require end points to be reported as serious AEs, but others require all serious AEs to be reported. In the Apixaban for Prevention of Acute Ischemic Events 2 (APPRAISE&#x02010;2) trial,<xref rid="jah32141-bib-0004" ref-type="ref">4</xref> data collection was designed to capture safety criteria for trial end points, which provides a unique opportunity to describe events by seriousness criteria regardless of reporting criteria or adjudication outcome. Limited data are available to reflect on overall event collection, variation across sites, and shared aspects of end points and AEs in multinational trials. The generalizability of study results from international clinical trials may be influenced by regional differences in health care and event reporting. A better understanding of site reporting variation may provide insights into optimizing event collection to suit the study phase and objectives. Therefore, we describe both trial end points and AEs by seriousness, explore site variation in reporting by event type, and discuss observations from a trial with integrated collection of end point and safety events.</p></sec><sec id="jah32141-sec-0006"><title>Methods</title><sec id="jah32141-sec-0007"><title>Participants and Study Design</title><p>APPRAISE&#x02010;2 was a double&#x02010;blind randomized controlled trial that enrolled high&#x02010;risk acute coronary syndrome patients and included 7392 participants at 858 sites in 39 countries. The design and main results of APPRAISE&#x02010;2 have been previously published.<xref rid="jah32141-bib-0004" ref-type="ref">4</xref> Study participants were randomized in a 1:1 fashion to receive either apixaban (5&#x000a0;mg twice daily) or placebo on top of standard antiplatelet therapy. A reduced dose of apixaban (2.5&#x000a0;mg twice daily) was given to participants with a creatinine clearance lower than 40&#x000a0;mL/min. Key exclusion criteria were severe renal impairment (creatinine clearance &#x0003c;20&#x000a0;mL/min), advanced heart failure, high risk of bleeding, previous intracranial hemorrhage, ischemic stroke within the last 7&#x000a0;days, and current use of anticoagulants. The trial was stopped early after the enrollment of 7392 participants due to an increased rate of bleeding events with apixaban not accompanied by a reduction in ischemic end points (cardiovascular death, myocardial infarction [MI], or ischemic stroke). The period between the first dose of study drug and 2&#x000a0;days after the last dose was used for safety analyses. Institutional review board approval was obtained at all sites. All participating patients gave written informed consent.</p></sec><sec id="jah32141-sec-0008"><title>Clinical Events</title><p>All events reported by site investigators were collected on case report forms as either suspected trial end points or AEs. Suspected trial end points were collected on the dedicated pages for MI or unstable angina, cerebrovascular event, or bleeding. The definitions of end points in the APPRAISE&#x02010;2 trial are shown in Table&#x000a0;<xref rid="jah32141-sup-0001" ref-type="supplementary-material">S1</xref>. A clinical events classification committee (CEC) blinded to study drug assignment adjudicated the suspected end points according to trial definitions. When the suspected trial end point was negatively adjudicated, no further action was taken. All suspected end points were sent to the CEC with the exception of site&#x02010;reported bleeding classified as Thrombolysis in Myocardial Infarction (TIMI) minimal, which was sent to be reviewed by a coordinator. For this analysis, TIMI minimal bleeds sent to coordinator review are grouped with AEs. Prespecified AEs were listed and included heart failure, pneumonia, urinary tract infection, atrial fibrillation, hepatotoxicity, hypertension, headache, dizziness, dyspnea, chest pain, and syncope. Other AEs were reported as free text.</p><p>Suspected trial end points and AEs were assessed by a site investigator for seriousness based on regulatory criteria. This included those that resulted in death or were life threatening, led to hospitalization (or prolonged current hospitalization), caused persistent or significant disability or a congenital anomaly, or were thought to be an important medical event, based on clinical judgment. All clinical data from APPRAISE&#x02010;2 were collected centrally in a database at the Duke Clinical Research Institute.</p></sec><sec id="jah32141-sec-0009"><title>Statistical Analysis</title><p>Clinical events are presented overall and by event type (suspected trial end points or AEs). Events reported as both suspected trial end points and AEs (n=185) were classified as suspected trial end points if they represented the same event. Continuous variables are presented as median (25th, 75th percentiles), and categorical variables as number (percentage). Continuous variables were compared using Wilcoxon rank&#x02010;sum tests, and categorical variables were compared using chi&#x02010;square tests.</p><p>Site&#x02010;level analyses excluded 371 sites that enrolled fewer than 5 patients and 246 sites that enrolled 5 to 9 patients, leaving the 241 sites that enrolled 10 or more patients. Sites were divided into tertiles of event reporting volume per 100&#x000a0;patient&#x02010;days of follow&#x02010;up (high, middle, and low). Patient&#x02010;level event rates per 100&#x000a0;patient&#x02010;days of follow&#x02010;up were modeled using Poisson regression with site as a random intercept to explore the influence of region and patient characteristics on reporting variation. Models were separately fit for trial end points, serious AEs, and nonserious AEs. The random effect variance was estimated for each model interpreted as the variation in log event rate attributable to between&#x02010;site differences. Proportional change in variance was calculated for pairs of nested models: proportional change in variance =(V<sub>0</sub>&#x02212;V<sub>1</sub>)/V<sub>0</sub>, where V<sub>0</sub> was variance of the initial model and V<sub>1</sub> was variance of the model with additional covariates. The log event rate was assumed to be normally distributed with mean equal to the intercept parameter of the model and variance equal to the random effect variance. Region (Asia Pacific, North America, South America, Western Europe, and Eastern Europe) and patient characteristics (age, sex, and comorbidities [hypertension, diabetes mellitus, depression, heart failure, peripheral vascular disease, cardiovascular disease, atrial fibrillation, renal dysfunction]) were added as independent variables to an intercept&#x02010;only model. Parameter estimates from the models were used to estimate the parameters of the normal distribution. The relative reduction in variability of site reporting was plotted as a probability density function of event rates on a log scale, separately for each event type, overlaying the intercept&#x02010;only model, the model adding region, and the full model. The same models were used to explore the association of geographic region and patient characteristic with event reporting for each type of event (reported as relative risk with 95% confidence intervals and F values).</p><p>Event rates for end points, serious AEs, and nonserious AEs were plotted by site with smoothing splines where sites were sorted according to the rate of any type of event. Data were analyzed using SAS Version 9.4 (SAS Institute Inc, Cary, NC). <italic>P</italic>&#x0003c;0.05 are considered statistically significant.</p></sec></sec><sec id="jah32141-sec-0010"><title>Results</title><sec id="jah32141-sec-0011"><title>Clinical Events Distribution</title><p>A total of 13&#x000a0;909 events were reported by 858 sites, of which 8.4% (n=1166) were suspected trial end points and 91.6% (n=12&#x000a0;743) were AEs (Figure&#x000a0;<xref rid="jah32141-fig-0001" ref-type="fig">1</xref>). Among all AEs, 33.6% were prespecified (n=4278). The most common prespecified AEs were minimal bleeding, chest pain, heart failure, and hypertension.</p><fig fig-type="Figure" xml:lang="en" id="jah32141-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Site&#x02010;reported clinical events distribution. <styled-content style="fixed-case">CEC</styled-content> indicates clinical events classification committee; <styled-content style="fixed-case">MI</styled-content>, myocardial infarction; <styled-content style="fixed-case">TIMI</styled-content>, Thrombolysis in Myocardial Infarction; <styled-content style="fixed-case">UA</styled-content>, unstable angina.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-6-e005490-g001"/></fig><p>Among suspected end points forwarded to the CEC, 66.0% (n=769) were confirmed: 70.5% (n=600) MI or unstable angina, 68.6% (n=83) stroke, and 44.3% (n=86) bleeding. Among bleeding events, 13.1% (n=194) were sent for CEC review. The other 86.9% (n=1292) were TIMI minimal bleeding events reviewed by a coordinator and grouped with AEs.</p></sec><sec id="jah32141-sec-0012"><title>Seriousness of Clinical Events</title><p>Seriousness criteria were met for 17.9% (2276/12&#x000a0;743) of reported AEs and 83.6% (974/1166) of all suspected clinical end points. Of CEC&#x02010;confirmed end points, 94.0% (723/769) met seriousness criteria: 98% of MIs, 95% of unstable anginas, 94% of strokes, and 73% of bleedings. Of CEC&#x02010;negated events, 63.2% (251/397) met seriousness criteria: 72.4% of negated MIs or unstable anginas, 81.6% of negated strokes, and 36.1% of negated bleeding. Hospitalization or prolongation of hospitalization was the most common seriousness criterion for end points and AEs (79.9%, 2594/3250), followed by death&#x000a0;(9.9%, 321/3250) (Table&#x000a0;<xref rid="jah32141-tbl-0001" ref-type="table-wrap">1</xref>). Rates of serious events by prespecified AEs and end points are also shown in Table&#x000a0;<xref rid="jah32141-sup-0001" ref-type="supplementary-material">S2</xref>.</p><table-wrap id="jah32141-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Seriousness Criteria of Clinical Events</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Clinical Event</th><th align="left" valign="top" rowspan="1" colspan="1">Overall, n</th><th align="left" valign="top" rowspan="1" colspan="1">Serious, n (% of Overall)</th><th align="left" valign="top" rowspan="1" colspan="1">Hospitalization/Prolongation, n (% of Serious Events)</th><th align="left" valign="top" rowspan="1" colspan="1">Death, n (% of Serious Events)</th><th align="left" valign="top" rowspan="1" colspan="1">Life Threatening, n (% of Serious Events)</th><th align="left" valign="top" rowspan="1" colspan="1">Important Medical Event, n (% of Serious Events)</th><th align="left" valign="top" rowspan="1" colspan="1">Disability, n (% of Serious Events)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Overall</td><td align="left" rowspan="1" colspan="1">13&#x000a0;909</td><td align="left" rowspan="1" colspan="1">3250 (23.4)</td><td align="left" rowspan="1" colspan="1">2594 (79.9)</td><td align="left" rowspan="1" colspan="1">321 (9.9)</td><td align="left" rowspan="1" colspan="1">173 (5.3)</td><td align="left" rowspan="1" colspan="1">93 (2.9)</td><td align="left" rowspan="1" colspan="1">38 (1.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">AEs<xref ref-type="fn" rid="jah32141-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">12&#x000a0;743</td><td align="left" rowspan="1" colspan="1">2276 (17.9)</td><td align="left" rowspan="1" colspan="1">1839 (80.9)</td><td align="left" rowspan="1" colspan="1">221 (9.7)</td><td align="left" rowspan="1" colspan="1">89 (3.9)</td><td align="left" rowspan="1" colspan="1">78 (3.4)</td><td align="left" rowspan="1" colspan="1">19 (0.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Suspected clinical end points</td><td align="left" rowspan="1" colspan="1">1166</td><td align="left" rowspan="1" colspan="1">974 (83.6)</td><td align="left" rowspan="1" colspan="1">755 (77.6)</td><td align="left" rowspan="1" colspan="1">100 (10.3)</td><td align="left" rowspan="1" colspan="1">84 (8.6)</td><td align="left" rowspan="1" colspan="1">15 (1.5)</td><td align="left" rowspan="1" colspan="1">19 (2.0)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">CEC&#x02010;confirmed</td><td align="left" rowspan="1" colspan="1">769</td><td align="left" rowspan="1" colspan="1">723 (94.0)</td><td align="left" rowspan="1" colspan="1">563 (78.0)</td><td align="left" rowspan="1" colspan="1">69 (9.6)</td><td align="left" rowspan="1" colspan="1">70 (9.7)</td><td align="left" rowspan="1" colspan="1">5 (0.7)</td><td align="left" rowspan="1" colspan="1">15 (2.1)</td></tr><tr><td align="left" style="padding-left:20%" rowspan="1" colspan="1">MI</td><td align="left" rowspan="1" colspan="1">416</td><td align="left" rowspan="1" colspan="1">407 (97.8)</td><td align="left" rowspan="1" colspan="1">309 (76.1)</td><td align="left" rowspan="1" colspan="1">46 (11.3)</td><td align="left" rowspan="1" colspan="1">42 (10.3)</td><td align="left" rowspan="1" colspan="1">1 (0.2)</td><td align="left" rowspan="1" colspan="1">8 (2.0)</td></tr><tr><td align="left" style="padding-left:20%" rowspan="1" colspan="1">UA</td><td align="left" rowspan="1" colspan="1">184</td><td align="left" rowspan="1" colspan="1">175 (95.1)</td><td align="left" rowspan="1" colspan="1">160 (91.4)</td><td align="left" rowspan="1" colspan="1">2 (1.1)</td><td align="left" rowspan="1" colspan="1">9 (5.1)</td><td align="left" rowspan="1" colspan="1">1 (0.6)</td><td align="left" rowspan="1" colspan="1">3 (1.7)</td></tr><tr><td align="left" style="padding-left:20%" rowspan="1" colspan="1">Stroke</td><td align="left" rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">78 (94.0)</td><td align="left" rowspan="1" colspan="1">49 (62.8)</td><td align="left" rowspan="1" colspan="1">16 (20.5)</td><td align="left" rowspan="1" colspan="1">8 (10.3)</td><td align="left" rowspan="1" colspan="1">1 (1.3)</td><td align="left" rowspan="1" colspan="1">4 (5.1)</td></tr><tr><td align="left" style="padding-left:20%" rowspan="1" colspan="1">TIMI bleeding, major or minor</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">63 (73.3)</td><td align="left" rowspan="1" colspan="1">45 (71.4)</td><td align="left" rowspan="1" colspan="1">5 (7.9)</td><td align="left" rowspan="1" colspan="1">11 (17.5)</td><td align="left" rowspan="1" colspan="1">2 (3.2)</td><td align="left" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">CEC&#x02010;negated</td><td align="left" rowspan="1" colspan="1">397</td><td align="left" rowspan="1" colspan="1">251 (63.2)</td><td align="left" rowspan="1" colspan="1">192 (76.5)</td><td align="left" rowspan="1" colspan="1">31 (12.4)</td><td align="left" rowspan="1" colspan="1">14 (5.6)</td><td align="left" rowspan="1" colspan="1">10 (4.0)</td><td align="left" rowspan="1" colspan="1">4 (1.6)</td></tr><tr><td align="left" style="padding-left:20%" rowspan="1" colspan="1">MI or UA</td><td align="left" rowspan="1" colspan="1">251</td><td align="left" rowspan="1" colspan="1">181 (72.4)</td><td align="left" rowspan="1" colspan="1">143 (79.0)</td><td align="left" rowspan="1" colspan="1">25 (13.8)</td><td align="left" rowspan="1" colspan="1">7 (3.9)</td><td align="left" rowspan="1" colspan="1">4 (2.2)</td><td align="left" rowspan="1" colspan="1">2 (1.1)</td></tr><tr><td align="left" style="padding-left:20%" rowspan="1" colspan="1">Stroke</td><td align="left" rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">31 (81.6)</td><td align="left" rowspan="1" colspan="1">18 (58.1)</td><td align="left" rowspan="1" colspan="1">4 (12.9)</td><td align="left" rowspan="1" colspan="1">4 (12.9)</td><td align="left" rowspan="1" colspan="1">3 (9.7)</td><td align="left" rowspan="1" colspan="1">2 (6.5)</td></tr><tr><td align="left" style="padding-left:20%" rowspan="1" colspan="1">TIMI bleeding, major or minor</td><td align="left" rowspan="1" colspan="1">108</td><td align="left" rowspan="1" colspan="1">39 (36.1)</td><td align="left" rowspan="1" colspan="1">31 (79.5)</td><td align="left" rowspan="1" colspan="1">2 (5.1)</td><td align="left" rowspan="1" colspan="1">3 (7.7)</td><td align="left" rowspan="1" colspan="1">3 (7.7)</td><td align="left" rowspan="1" colspan="1">0 (0)</td></tr></tbody></table><table-wrap-foot><fn id="jah32141-note-0003"><p>AE indicates adverse event; CEC, clinical events classification committee; MI, myocardial infarction; TIMI, Thrombolysis in Myocardial Infarction; UA, unstable angina.</p></fn><fn id="jah32141-note-0004"><label>a</label><p>Includes the bleeds that were sent only for coordinator&#x02010;level review. Three serious AEs and 1 serious end point did not provide a cause. Twenty&#x02010;two serious AEs were cancer.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="jah32141-sec-0013"><title>Site&#x02010;Level Patterns of Clinical Event Reporting</title><p>Of the 858 sites, the 371 sites (43%) that enrolled fewer than 5 patients as well as the 246 sites (29%) that enrolled between 5 and 9 patients were excluded from site&#x02010;level analysis. This left 241 sites (28%) that enrolled &#x02265;10 patients. The rates of event&#x02010;reporting per 100&#x000a0;patient&#x02010;days of follow&#x02010;up in these 241 sites are presented in Figure&#x000a0;<xref rid="jah32141-sup-0001" ref-type="supplementary-material">S1</xref>. Median rates for nonserious AEs were 1.15 events per 100&#x000a0;patient&#x02010;days in the highest&#x02010;reporting tertile, 0.52 events per 100&#x000a0;patient&#x02010;days in the middle tertile, and 0.14 events per 100&#x000a0;patient&#x02010;days in the lowest&#x02010;reporting tertile; median rates for serious AEs were 0.20 events per 100&#x000a0;patient&#x02010;days in the highest&#x02010;reporting tertile, 0.13 events per 100&#x000a0;patient&#x02010;days in the middle tertile, and 0.04 events per 100&#x000a0;patient&#x02010;days in the lowest&#x02010;reporting tertile. Finally, median rates for suspected trial end points were 0.09 events per 100&#x000a0;patient&#x02010;days in the highest&#x02010;reporting tertile, 0.06 events per 100&#x000a0;patient&#x02010;days in the middle tertile, and 0.04 events per 100&#x000a0;patient&#x02010;days in the lowest&#x02010;reporting tertile.</p><p>Patient characteristics across tertiles of reporting (patient n=4831) are shown in Table&#x000a0;<xref rid="jah32141-tbl-0002" ref-type="table-wrap">2</xref>. Participants were older in the high&#x02010; and middle&#x02010;reporting sites than in low&#x02010;reporting sites. Hypertension, diabetes mellitus, impaired renal function, depression, and cerebrovascular disease were more prevalent in high&#x02010;reporting sites. North American sites were more often in the high&#x02010;reporting tertile, whereas sites in Asia and Eastern Europe were more often in the low&#x02010;reporting tertile.</p><table-wrap id="jah32141-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Region and Patient Characteristics by Site&#x02010;Tertile of Reporting Clinical Events for Sites With &#x02265;10 Patients</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="top" rowspan="1" colspan="1">High&#x02010;Reporting Tertile (80 Sites, 1320 Patients)</th><th align="left" valign="top" rowspan="1" colspan="1">Middle&#x02010;Reporting Tertile (81 Sites, 1608 Patients)</th><th align="left" valign="top" rowspan="1" colspan="1">Low&#x02010;Reporting Tertile 80 Sites, 1903 Patients)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, y, median (25th, 75th percentile)</td><td align="left" rowspan="1" colspan="1">67.0 (58.4, 73.4)</td><td align="left" rowspan="1" colspan="1">67.4 (59.6, 73.2)</td><td align="left" rowspan="1" colspan="1">63.5 (55.0, 71.3)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, women</td><td align="left" rowspan="1" colspan="1">460 (34.8)</td><td align="left" rowspan="1" colspan="1">526 (32.7)</td><td align="left" rowspan="1" colspan="1">605 (31.8)</td><td align="left" rowspan="1" colspan="1">0.1873</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypertension</td><td align="left" rowspan="1" colspan="1">1088 (82.5)</td><td align="left" rowspan="1" colspan="1">1259 (78.3)</td><td align="left" rowspan="1" colspan="1">1401 (73.6)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes mellitus</td><td align="left" rowspan="1" colspan="1">645 (48.9)</td><td align="left" rowspan="1" colspan="1">701 (43.6)</td><td align="left" rowspan="1" colspan="1">779 (40.9)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression before index ACS event</td><td align="left" rowspan="1" colspan="1">127 (9.6)</td><td align="left" rowspan="1" colspan="1">41 (2.5)</td><td align="left" rowspan="1" colspan="1">37 (1.9)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Peripheral vascular disease</td><td align="left" rowspan="1" colspan="1">264 (20.0)</td><td align="left" rowspan="1" colspan="1">256 (15.9)</td><td align="left" rowspan="1" colspan="1">367 (19.3)</td><td align="left" rowspan="1" colspan="1">0.0070</td></tr><tr><td align="left" rowspan="1" colspan="1">Heart failure or LVEF &#x0003c;40%</td><td align="left" rowspan="1" colspan="1">559 (42.4)</td><td align="left" rowspan="1" colspan="1">709 (44.1)</td><td align="left" rowspan="1" colspan="1">798 (41.9)</td><td align="left" rowspan="1" colspan="1">0.4120</td></tr><tr><td align="left" rowspan="1" colspan="1">Impaired renal function</td><td align="left" rowspan="1" colspan="1">403 (32.0)</td><td align="left" rowspan="1" colspan="1">506 (33.0)</td><td align="left" rowspan="1" colspan="1">464 (26.0)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Atrial fibrillation</td><td align="left" rowspan="1" colspan="1">76 (5.8)</td><td align="left" rowspan="1" colspan="1">80 (5.0)</td><td align="left" rowspan="1" colspan="1">96 (5.0)</td><td align="left" rowspan="1" colspan="1">0.5779</td></tr><tr><td align="left" rowspan="1" colspan="1">Cerebrovascular disease</td><td align="left" rowspan="1" colspan="1">146 (11.1)</td><td align="left" rowspan="1" colspan="1">154 (9.6)</td><td align="left" rowspan="1" colspan="1">132 (6.9)</td><td align="left" rowspan="1" colspan="1">0.0002</td></tr><tr><td align="left" rowspan="1" colspan="1">2 or more chronic conditions other than hypertension</td><td align="left" rowspan="1" colspan="1">570 (43.2)</td><td align="left" rowspan="1" colspan="1">562 (35.0)</td><td align="left" rowspan="1" colspan="1">602 (31.6)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">3 or more chronic conditions other than hypertension</td><td align="left" rowspan="1" colspan="1">159 (12.0)</td><td align="left" rowspan="1" colspan="1">119 (7.4)</td><td align="left" rowspan="1" colspan="1">129 (6.8)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Region</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Asia Pacific</td><td align="left" rowspan="1" colspan="1">109 (8.3)</td><td align="left" rowspan="1" colspan="1">361 (22.5)</td><td align="left" rowspan="1" colspan="1">441 (23.2)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Eastern Europe</td><td align="left" rowspan="1" colspan="1">349 (26.4)</td><td align="left" rowspan="1" colspan="1">738 (45.9)</td><td align="left" rowspan="1" colspan="1">811 (42.6)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">North America</td><td align="left" rowspan="1" colspan="1">418 (31.7)</td><td align="left" rowspan="1" colspan="1">129 (8.0)</td><td align="left" rowspan="1" colspan="1">233 (12.2)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">South America</td><td align="left" rowspan="1" colspan="1">169 (12.8)</td><td align="left" rowspan="1" colspan="1">69 (4.3)</td><td align="left" rowspan="1" colspan="1">180 (9.5)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Western Europe</td><td align="left" rowspan="1" colspan="1">275 (20.8)</td><td align="left" rowspan="1" colspan="1">311 (19.3)</td><td align="left" rowspan="1" colspan="1">238 (12.5)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="jah32141-note-0005"><p>ACS indicates acute coronary syndrome; LVEF, left ventricular ejection fraction.</p></fn><fn id="jah32141-note-0015"><p>Categorical variables are expressed as n (%). Data on renal function were missing for 5% of patients.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The rate of CEC confirmation of site&#x02010;reported trial end points was similar across the tertiles (Table&#x000a0;<xref rid="jah32141-tbl-0003" ref-type="table-wrap">3</xref>). The exception was less CEC confirmation of stroke in the highest&#x02010;reporting tertile compared with the middle and low&#x02010;reporting tertiles (52.2%, 80.0%, and 81.8%, respectively).</p><table-wrap id="jah32141-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Ratio of CEC&#x02010;Confirmed End Points to Suspected End Points Across Tertiles by Type of End Points</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">End Points</th><th align="left" valign="top" rowspan="1" colspan="1">High&#x02010;Reporting Tertile (80 Sites, 1320 Patients)</th><th align="left" valign="top" rowspan="1" colspan="1">Middle&#x02010;Reporting Tertile (81 Sites, 1608 Patients)</th><th align="left" valign="top" rowspan="1" colspan="1">Low&#x02010;Reporting Tertile 80 Sites, 1903 Patients)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Overall</td><td align="left" rowspan="1" colspan="1">179/286 (62.6)</td><td align="left" rowspan="1" colspan="1">183/264 (69.3)</td><td align="left" rowspan="1" colspan="1">117/164 (71.3)</td><td align="left" rowspan="1" colspan="1">0.102</td></tr><tr><td align="left" rowspan="1" colspan="1">MI/UA</td><td align="left" rowspan="1" colspan="1">148/220 (67.3)</td><td align="left" rowspan="1" colspan="1">132/179 (73.7)</td><td align="left" rowspan="1" colspan="1">88/117 (75.2)</td><td align="left" rowspan="1" colspan="1">0.208</td></tr><tr><td align="left" rowspan="1" colspan="1">Stroke</td><td align="left" rowspan="1" colspan="1">12/23 (52.2)</td><td align="left" rowspan="1" colspan="1">28/35 (80.0)</td><td align="left" rowspan="1" colspan="1">18/22 (81.8)</td><td align="left" rowspan="1" colspan="1">0.035</td></tr><tr><td align="left" rowspan="1" colspan="1">TIMI bleeding</td><td align="left" rowspan="1" colspan="1">19/43 (44.2)</td><td align="left" rowspan="1" colspan="1">23/50 (46.0)</td><td align="left" rowspan="1" colspan="1">11/25 (44.0)</td><td align="left" rowspan="1" colspan="1">0.979</td></tr></tbody></table><table-wrap-foot><fn id="jah32141-note-0006"><p>CEC indicates clinical events classification committee; MI, myocardial infarction; TIMI, Thrombolysis in Myocardial Infarction; UA, unstable angina.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="jah32141-sec-0014"><title>Influence of Geographic Region and Patient Characteristics in Between&#x02010;Site Variation in Event Reporting</title><p>Geographic region explained 28.7% of site variation in trial end point reporting and 26.4% of site variation for serious AE reporting but had little impact on nonserious AE reporting (6.7%) (Figure&#x000a0;<xref rid="jah32141-fig-0002" ref-type="fig">2</xref>). In the model, geographic regions (specifically Eastern Europe and Asia Pacific) were less likely to report clinical end point and serious AE events (Table&#x000a0;<xref rid="jah32141-sup-0001" ref-type="supplementary-material">S3</xref>). Patient characteristics further reduced site variation in end point (25.4%) and serious AE (13.4%) reporting but also had virtually no impact on nonserious AE (2.2%) reporting. Older age, diabetes mellitus, and heart failure were associated with more reported end points, and diabetes mellitus, heart failure, depression, atrial fibrillation, renal dysfunction, and peripheral vascular disease were associated with more reported serious AEs. Female sex and depression were more strongly associated with more reported nonserious AEs.</p><fig fig-type="Figure" xml:lang="en" id="jah32141-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Impact of geographic region and patient characteristics on site variation in event reporting (A, clinical end points; B, serious adverse events; C, nonserious adverse events) per 100&#x000a0;patient&#x02010;days of follow&#x02010;up. Blue represents the unadjusted model. Red represents the adjustment for geographic region. Green represents the adjustment for geographic region and patient characteristics. *Incremental to the previous model.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-6-e005490-g002"/></fig></sec></sec><sec id="jah32141-sec-0015"><title>Discussion</title><p>In this multinational acute coronary syndrome trial including 7392 participants, &#x00026;approx;14&#x000a0;000 clinical events were reported by site investigators, the majority of which were nonserious AEs. Although most CEC&#x02010;confirmed trial end points and two thirds of CEC&#x02010;negated trial end points met seriousness criteria, only 18% of site&#x02010;reported AEs did. Serious AEs are collected with specific regulatory guidelines, and the exemption of trial end points from regulatory reporting is an important step in simplifying trial burden. However, gathering seriousness criteria for study end points may be warranted in some cases to enable analysis of all serious events, including end points, for global reporting needs. There is also site variation in the reporting of suspected trial end points and serious AEs, which was partly explained by region and participant characteristics. Importantly, the rate of CEC&#x02010;confirmed end points did not vary by reporting tertile, suggesting that sites reported similar types of events, just different rates of them. This study demonstrates that collection of trial end points and safety events can be tailored to suit the purpose of the trial and that end points and serious AEs share site variation patterns.</p><p>Site reporting variation for end points and serious AEs was influenced by geographic region and patient characteristics but persisted after adjustment. Patient characteristics such as age, comorbidities, and renal function have been shown to be independently associated with serious AE reporting in acute coronary syndrome trials.<xref rid="jah32141-bib-0005" ref-type="ref">5</xref> In this analysis we confirmed that baseline characteristics such as heart failure, diabetes mellitus, peripheral vascular disease, atrial fibrillation, depression, and renal dysfunction were associated with serious AE reporting. Furthermore, female sex and depression were most strongly associated with nonserious AE reporting. Moreover, trial end points and serious AEs were influenced by geographic region, whereas nonserious AEs were not. Nonserious AE reporting, of unclear relevance in later&#x02010;phase studies and the majority of events reported in this phase 3 trial, was weakly associated with patient characteristics or region. This suggests a more random nature to the reporting of nonserious AEs in clinical trials driven by factors other than patient characteristics or site.</p><p>The CEC process provides independent, blinded, and systematic adjudication of events which determines trial results.<xref rid="jah32141-bib-0006" ref-type="ref">6</xref>, <xref rid="jah32141-bib-0007" ref-type="ref">7</xref>, <xref rid="jah32141-bib-0008" ref-type="ref">8</xref> Approximately two thirds of the suspected trial end points met definitions and were confirmed by CEC. A similar rate of site&#x02010;reported to confirmed trial end points was seen in the Platelet Inhibition and Patient Outcomes trial.<xref rid="jah32141-bib-0009" ref-type="ref">9</xref> In our study the proportion of CEC&#x02010;confirmed to site&#x02010;reported trial end points was similar across tertiles, with the exception of stroke. This suggests that sites in low&#x02010;reporting regions are reporting the same types of events, just fewer of them. Differences in population or health care across regions, such as hospital access and use of troponin, may contribute to variability in event reporting.<xref rid="jah32141-bib-0010" ref-type="ref">10</xref> This variability is not unexpected, but notable geographic variation is worth further exploration.</p><p>Seriousness criteria were collected for AEs and suspected trial end points by design. As expected, almost all (94.0%) suspected trial end points confirmed by the CEC process met seriousness criteria. Over 60% of CEC&#x02010;negated end points also met seriousness criteria. The most common seriousness criterion for these events was hospitalization (76.5%) followed by death (12.4%) and life&#x02010;threatening condition (5.6%). There have been recent concerns expressed by regulatory agencies that CEC&#x02010;negated trial end points are a potential source for missed serious AEs.<xref rid="jah32141-bib-0011" ref-type="ref">11</xref>, <xref rid="jah32141-bib-0012" ref-type="ref">12</xref> AEs are required to be reported to regulatory agencies if serious, unexpected, and potentially caused by the investigational drug. Although end points are exempt from serious AE reporting, negatively adjudicated trial end points have been a topic of concern. Often these events are similar in causality and pathophysiology to the suspected trial end point event, but with insufficient elements to meet trial definitions. In this case, leaving them as negatively adjudicated end points exempt from reporting as serious AEs makes sense. However, among CEC&#x02010;negated end points that also meet seriousness criteria, review for missed serious AEs is important. Therefore, classification of the seriousness status of end points may also focus attention on those events most likely to contain other serious AEs. There is no single way to collect event data, but integrating the CEC and safety processes provides support for sorting and filtering all clinical events without limitations of standard classification schemes.</p><p>Our results should be interpreted in light of some limitations. For the site&#x02010;level analysis, we included only sites with &#x02265;10 patients, thus excluding two thirds of the sites. However, including sites with only a few patients enrolled would add more uncertainty to observations. Additionally, stratification of sites in tertiles of reporting is driven by the rates of nonserious AEs because these events were more prevalent. Our results were derived from a single acute coronary syndrome trial, which may impair generalizability to other scenarios. Nevertheless, the unique way that seriousness of clinical events was collected in this study allowed us to demonstrate the importance of an integrated process when assessing clinical and safety end points.</p></sec><sec id="jah32141-sec-0016"><title>Conclusion</title><p>An integrated collection of trial end points and serious AEs demonstrates how these clinical events share similar characteristics and reporting trends. Tailoring event collection to fit the phase and purpose of the trial is both feasible and informative.</p></sec><sec id="jah32141-sec-0017"><title>Author Contributions</title><p>Dr Guimar&#x000e3;es, Dr Lopes, and Dr K. Alexander had full access to all data in the study and take responsibility for the integrity of the data and the accuracy of the data analyses.</p></sec><sec id="jah32141-sec-0019"><title>Sources of Funding</title><p>This analysis was funded internally by the Duke Clinical Research Institute, Durham, NC.</p></sec><sec id="jah32141-sec-0020"><title>Disclosures</title><p>Dr Lopes reported receiving research support from Bristol&#x02010;Myers Squibb and GlaxoSmithKline and personal fees from Bayer, Boehringer Ingelheim, Bristol&#x02010;Myers Squibb, GlaxoSmithKline, Pfizer, and Portola. Dr J. Alexander reported receiving research support from Boehringer Ingelheim, Bristol&#x02010;Myers Squibb, CSL Behring, Pfizer, and Tenax and personal fees from Bristol&#x02010;Myers Squibb, CSL Behring, Pfizer, and Portola. No other disclosures were reported.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jah32141-sup-0001"><caption><p>
+<bold>Table&#x000a0;S1.</bold> APPRAISE&#x02010;2 Clinical Endpoint Definitions</p><p>
+<bold>Table&#x000a0;S2.</bold> Rates of Serious and Nonserious Clinical Events</p><p>
+<bold>Table&#x000a0;S3.</bold> Associations Between Region and Patient Characteristics and Event Reporting</p><p>
+<bold>Figure&#x000a0;S1.</bold> Rates of site&#x02010;reported clinical endpoints, serious adverse events, and nonserious adverse events per 100&#x000a0;patient&#x02010;days of follow&#x02010;up at site level (sites with 10 or more patients, n=241).</p></caption><media xlink:href="JAH3-6-e005490-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jah32141-sec-0018"><title>Acknowledgments</title><p>Dr Guimar&#x000e3;es thanks CNPq&#x02013;Conselho Nacional de Desenvolvimento Cientifico e Tecnologico, of Ministry of Science, Technology and Innovation of Brazil for her fellowship funding.</p></ack><ref-list content-type="cited-references" id="jah32141-bibl-0001"><title>References</title><ref id="jah32141-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah32141-cit-0001">
+<string-name>
+<surname>Pocock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Clayton</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Stone</surname>
+<given-names>GW</given-names>
+</string-name>. <article-title>Design of major randomized trials: part 3 of a 4&#x02010;part series on statistics for clinical trials</article-title>. <source>J Am Coll Cardiol</source>. <year>2015</year>;<volume>66</volume>:<fpage>2757</fpage>&#x02013;<lpage>2766</lpage>.<pub-id pub-id-type="pmid">26700838</pub-id></mixed-citation></ref><ref id="jah32141-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah32141-cit-0002">
+<string-name>
+<surname>Sherman</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Woodcock</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Norden</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Grandinetti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Temple</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>New FDA regulation to improve safety reporting in clinical trials</article-title>. <source>N Engl J Med</source>. <year>2011</year>;<volume>365</volume>:<fpage>3</fpage>&#x02013;<lpage>5</lpage>.<pub-id pub-id-type="pmid">21651388</pub-id></mixed-citation></ref><ref id="jah32141-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah32141-cit-0003">
+<collab collab-type="authors">Food and Drug Administration, Department of Health and Human Services</collab>
+. <article-title>Investigational new drug safety reporting requirements for human drug and biological products and safety reporting requirements for bioavailability and bioequivalence studies in humans. Final rule</article-title>. <source>Fed Regist</source>. <year>2010</year>;<volume>75</volume>:<fpage>59935</fpage>&#x02013;<lpage>59963</lpage>.<pub-id pub-id-type="pmid">20879180</pub-id></mixed-citation></ref><ref id="jah32141-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah32141-cit-0004">
+<string-name>
+<surname>Alexander</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Lopes</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>James</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kilaru</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mohan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Goodman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Verheugt</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Flather</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Liaw</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Husted</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Sendon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>De Caterina</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jansky</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Darius</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Vinereanu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cornel</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Cools</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Atar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Leiva&#x02010;Pons</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Keltai</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ogawa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Pais</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Parkhomenko</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ruzyllo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Diaz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ruda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Geraldes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lawrence</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Harrington</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Wallentin</surname>
+<given-names>L</given-names>
+</string-name>; <collab collab-type="authors">APPRAISE&#x02010;2 Investigators</collab>
+. <article-title>Apixaban with antiplatelet therapy after acute coronary syndrome</article-title>. <source>N Engl J Med</source>. <year>2011</year>;<volume>365</volume>:<fpage>699</fpage>&#x02013;<lpage>708</lpage>.<pub-id pub-id-type="pmid">21780946</pub-id></mixed-citation></ref><ref id="jah32141-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah32141-cit-0005">
+<string-name>
+<surname>Zimerman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lopes</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Stebbins</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Guimar&#x000e3;es</surname>
+<given-names>PO</given-names>
+</string-name>, <string-name>
+<surname>Haque</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Melloni</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Trollinger</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>James</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Tricoci</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Roe</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Ohman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Mahaffey</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Held</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tinga</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Pieper</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>
+<given-names>KP</given-names>
+</string-name>. <article-title>Pooled analysis of adverse event collection from 4 acute coronary syndrome trials</article-title>. <source>Am Heart J</source>. <year>2016</year>;<volume>174</volume>:<fpage>60</fpage>&#x02013;<lpage>67</lpage>.<pub-id pub-id-type="pmid">26995371</pub-id></mixed-citation></ref><ref id="jah32141-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah32141-cit-0006">
+<string-name>
+<surname>Mahaffey</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Harrington</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Akkerhuis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kleiman</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Berdan</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Crenshaw</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Tardiff</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>DeJong</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Bhapkar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Widimsky</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Corbalon</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Deckers</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Simoons</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Topol</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Califf</surname>
+<given-names>RM</given-names>
+</string-name>; <collab collab-type="authors">for the PURSUIT Investigators</collab>
+. <article-title>Systematic adjudication of myocardial infarction end&#x02010;points in an international clinical trial</article-title>. <source>Curr Control Trials Cardiovasc Med</source>. <year>2001</year>;<volume>2</volume>:<fpage>180</fpage>&#x02013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">11806793</pub-id></mixed-citation></ref><ref id="jah32141-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah32141-cit-0007">
+<string-name>
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Vogel</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Cummings</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Held</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Fiedorek</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lawrence</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Neal</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Reidies</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Santarelli</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Schroyer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Stockbridge</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Do we need to adjudicate major clinical events?</article-title>
+<source>Clin Trials</source>. <year>2008</year>;<volume>5</volume>:<fpage>56</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">18283081</pub-id></mixed-citation></ref><ref id="jah32141-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah32141-cit-0008">
+<string-name>
+<surname>Dechartres</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Boutron</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ravaud</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Inadequate planning and reporting of adjudication committees in clinical trials: recommendation proposal</article-title>. <source>J Clin Epidemiol</source>. <year>2009</year>;<volume>62</volume>:<fpage>695</fpage>&#x02013;<lpage>702</lpage>.<pub-id pub-id-type="pmid">19135860</pub-id></mixed-citation></ref><ref id="jah32141-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah32141-cit-0009">
+<string-name>
+<surname>Mahaffey</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Held</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wojdyla</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>James</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Katus</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Husted</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Storey</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Khurmi</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Nicolau</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Ardissino</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Budaj</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Morais</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Montgomery</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Himmelmann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Harrington</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Wallentin</surname>
+<given-names>L</given-names>
+</string-name>; <collab collab-type="authors">PLATO Investigators</collab>
+. <article-title>Ticagrelor effects on myocardial infarction and the impact of event adjudication in the PLATO (Platelet Inhibition and Patient Outcomes) trial</article-title>. <source>J Am Coll Cardiol</source>. <year>2014</year>;<volume>63</volume>:<fpage>1493</fpage>&#x02013;<lpage>1499</lpage>.<pub-id pub-id-type="pmid">24561148</pub-id></mixed-citation></ref><ref id="jah32141-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah32141-cit-0010">
+<string-name>
+<surname>Akkerhuis</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Deckers</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Boersma</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Harrington</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Stepinska</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mahaffey</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Wilcox</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Lincoff</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Keltai</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Topol</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Califf</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Simoons</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Geographic variability in outcomes within an international trial of glycoprotein IIb/IIIa inhibition in patients with acute coronary syndromes. Results from PURSUIT</article-title>. <source>Eur Heart J</source>. <year>2000</year>;<volume>21</volume>:<fpage>371</fpage>&#x02013;<lpage>381</lpage>.<pub-id pub-id-type="pmid">10666351</pub-id></mixed-citation></ref><ref id="jah32141-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah32141-cit-0011">
+<string-name>
+<surname>Lopes</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Dickerson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hafley</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Burns</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tourt&#x02010;Uhlig</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Newby</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name>
+<surname>Komajda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McMurray</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bigelow</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Home</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Mahaffey</surname>
+<given-names>KW</given-names>
+</string-name>. <article-title>Methodology of a reevaluation of cardiovascular outcomes in the RECORD trial: study design and conduct</article-title>. <source>Am Heart J</source>. <year>2013</year>;<volume>166</volume>:<fpage>208</fpage>&#x02013;<lpage>216</lpage>.e228.<pub-id pub-id-type="pmid">23895802</pub-id></mixed-citation></ref><ref id="jah32141-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah32141-cit-0012">
+<string-name>
+<surname>Mahaffey</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Hafley</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Dickerson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Burns</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tourt&#x02010;Uhlig</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Newby</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name>
+<surname>Komajda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McMurray</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bigelow</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Home</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Lopes</surname>
+<given-names>RD</given-names>
+</string-name>. <article-title>Results of a reevaluation of cardiovascular outcomes in the RECORD trial</article-title>. <source>Am Heart J</source>. <year>2013</year>;<volume>166</volume>:<fpage>240</fpage>&#x02013;<lpage>249</lpage>.e241.<pub-id pub-id-type="pmid">23895806</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,668 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Internet Res</journal-id><journal-id journal-id-type="iso-abbrev">J. Med. Internet Res</journal-id><journal-id journal-id-type="publisher-id">JMIR</journal-id><journal-title-group><journal-title>Journal of Medical Internet Research</journal-title></journal-title-group><issn pub-type="ppub">1439-4456</issn><issn pub-type="epub">1438-8871</issn><publisher><publisher-name>JMIR Publications Inc.</publisher-name><publisher-loc>Toronto, Canada</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25057119</article-id><article-id pub-id-type="pmc">4129131</article-id><article-id pub-id-type="publisher-id">v16i7e177</article-id><article-id pub-id-type="doi">10.2196/jmir.3434</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Paper</subject></subj-group><subj-group subj-group-type="article-type"><subject>Original Paper</subject></subj-group></article-categories><title-group><article-title>A Web-Based Peer-Modeling Intervention Aimed at Lifestyle Changes in Patients With Coronary Heart Disease and Chronic Back Pain: Sequential Controlled Trial</article-title></title-group><contrib-group><contrib contrib-type="editor"><name><surname>Eysenbach</surname><given-names>Gunther</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="reviewer"><name><surname>Schulz</surname><given-names>Daniela</given-names></name></contrib></contrib-group><contrib-group><contrib id="contrib1" contrib-type="author" corresp="yes"><name><surname>Schweier</surname><given-names>Rebecca</given-names></name><degrees>MA</degrees><xref ref-type="aff" rid="aff1">1</xref><address><institution>Faculty of Architecture and Social Sciences</institution><institution>University of Applied Sciences Leipzig (HTWK Leipzig)</institution><addr-line>PF 301166</addr-line><addr-line>Leipzig, 04251</addr-line><country>Germany</country><phone>49 341 3076 3203</phone><fax>49 341 3076 853203</fax><email>schweier@sug.htwk-leipzig.de</email></address><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2059-5633</contrib-id></contrib><contrib id="contrib2" contrib-type="author"><name><surname>Romppel</surname><given-names>Matthias</given-names></name><degrees>Dr rer med</degrees><xref ref-type="aff" rid="aff2">2</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0420-7941</contrib-id></contrib><contrib id="contrib3" contrib-type="author"><name><surname>Richter</surname><given-names>Cynthia</given-names></name><degrees>Dipl-Soz</degrees><xref ref-type="aff" rid="aff1">1</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4620-4407</contrib-id></contrib><contrib id="contrib4" contrib-type="author"><name><surname>Hoberg</surname><given-names>Eike</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="aff3">3</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8012-1173</contrib-id></contrib><contrib id="contrib5" contrib-type="author"><name><surname>Hahmann</surname><given-names>Harry</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="aff4">4</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8538-9788</contrib-id></contrib><contrib id="contrib6" contrib-type="author"><name><surname>Scherwinski</surname><given-names>Inge</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="aff5">5</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1863-8443</contrib-id></contrib><contrib id="contrib7" contrib-type="author"><name><surname>Kosm&#x000fc;tzky</surname><given-names>Gregor</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="aff6">6</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2944-4134</contrib-id></contrib><contrib id="contrib8" contrib-type="author"><name><surname>Grande</surname><given-names>Gesine</given-names></name><degrees>Dr PH</degrees><xref ref-type="aff" rid="aff2">2</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1820-8347</contrib-id></contrib></contrib-group><aff id="aff1"><sup>1</sup><institution>Faculty of Architecture and Social Sciences</institution><institution>University of Applied Sciences Leipzig (HTWK Leipzig)</institution><addr-line>Leipzig</addr-line><country>Germany</country></aff><aff id="aff2"><sup>2</sup><institution>Institute for Public Health and Nursing Research, Department Prevention and Health Promotion</institution><institution>Faculty 11: Human and Health Sciences</institution><institution>University of Bremen</institution><addr-line>Bremen</addr-line><country>Germany</country></aff><aff id="aff3"><sup>3</sup><institution>M&#x000fc;hlenbergklinik Holsteinische Schweiz</institution><addr-line>Bad Malente-Gremsm&#x000fc;hlen</addr-line><country>Germany</country></aff><aff id="aff4"><sup>4</sup><institution>Klinik Schwabenland</institution><addr-line>Isny-Neutrauchburg</addr-line><country>Germany</country></aff><aff id="aff5"><sup>5</sup><institution>MEDIAN Klinik Bad Lausick</institution><addr-line>Bad Lausick</addr-line><country>Germany</country></aff><aff id="aff6"><sup>6</sup><institution>Reha-Zentrum Bad Driburg &#x02013; Klinik Berlin</institution><addr-line>Bad Driburg</addr-line><country>Germany</country></aff><author-notes><corresp>Corresponding Author: Rebecca Schweier <email>schweier@sug.htwk-leipzig.de</email></corresp></author-notes><pub-date pub-type="collection"><month>7</month><year>2014</year></pub-date><pub-date pub-type="epub"><day>23</day><month>7</month><year>2014</year></pub-date><volume>16</volume><issue>7</issue><elocation-id>e177</elocation-id><history><date date-type="received"><day>31</day><month>3</month><year>2014</year></date><date date-type="rev-request"><day>28</day><month>4</month><year>2014</year></date><date date-type="rev-recd"><day>22</day><month>5</month><year>2014</year></date><date date-type="accepted"><day>10</day><month>7</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9;Rebecca Schweier, Matthias Romppel, Cynthia Richter, Eike Hoberg, Harry Hahmann, Inge Scherwinski, Gregor Kosm&#x000fc;tzky, Gesine Grande. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 23.07.2014. </copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/"><license-p><!--CREATIVE COMMONS-->This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0/">http://creativecommons.org/licenses/by/2.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/,">http://www.jmir.org/,</ext-link> as well as this copyright and license information must be included.</license-p></license></permissions><self-uri xlink:type="simple" xlink:href="http://www.jmir.org/2014/7/e177/"/><abstract><sec sec-type="background"><title>Background</title><p>Traditional secondary prevention programs often fail to produce sustainable behavioral changes in everyday life. Peer-modeling interventions and integration of peer experiences in health education are a promising way to improve long-term effects in behavior modification. However, effects of peer support modeling on behavioral change have not been evaluated yet. Therefore, we implemented and evaluated a website featuring patient narratives about successful lifestyle changes.</p></sec><sec sec-type="objective"><title>Objective</title><p>Our aim is to examine the effects of using Web-based patient narratives about successful lifestyle change on improvements in physical activity and eating behavior for patients with coronary heart disease and chronic back pain 3 months after participation in a rehabilitation program.</p></sec><sec sec-type="methods"><title>Methods</title><p>The lebensstil-aendern (&#x0201c;lifestyle-change&#x0201d;) website is a nonrestricted, no-cost, German language website that provides more than 1000 video, audio, and text clips from interviews with people with coronary heart disease and chronic back pain. To test efficacy, we conducted a sequential controlled trial and recruited patients with coronary heart disease and chronic back pain from 7 inpatient rehabilitation centers in Germany. The intervention group attended a presentation on the website; the control group did not. Physical activity and eating behavior were assessed by questionnaire during the rehabilitation program and 12 weeks later. Analyses were conducted based on an intention-to-treat and an as-treated protocol.</p></sec><sec sec-type="results"><title>Results</title><p>A total of 699 patients were enrolled and 571 cases were included in the analyses (control: n=313, intervention: n=258; female: 51.1%, 292/571; age: mean 53.2, SD 8.6 years; chronic back pain: 62.5%, 357/571). Website usage in the intervention group was 46.1% (119/258). In total, 141 trial participants used the website. Independent <italic>t</italic> tests based on the intention-to-treat protocol only demonstrated nonsignificant trends in behavioral change related to physical activity and eating behavior. Multivariate regression analyses confirmed belonging to the intervention group was an independent predictor of self-reported improvements in physical activity regularity (&#x003b2;=.09, <italic>P</italic>=.03) and using less fat for cooking (&#x003b2;=.09, <italic>P</italic>=.04). In independent <italic>t</italic> tests based on the as-treated protocol, website use was associated with higher self-reported improvements in integrating physical activity into daily routine (<italic>d</italic>=0.22, <italic>P</italic>=.02), in physical activity regularity (<italic>d</italic>=0.23, <italic>P</italic>=.02), and in using less fat for cooking (<italic>d</italic>=0.21, <italic>P</italic>=.03). Multivariate regression analyses revealed that using the website at least 3 times was the only factor associated with improved lifestyle behaviors.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>Usage of the lebensstil-aendern website corresponds to more positive lifestyle changes. However, as-treated analyses do not allow for differentiating between causal effects and selection bias. Despite these limitations, the trial indicates that more than occasional website usage is necessary to reach dose-response efficacy. Therefore, future studies should concentrate on strategies to improve adherence to Web-based interventions and to encourage more frequent usage of these programs.</p></sec></abstract><kwd-group><kwd>coronary artery disease</kwd><kwd>lifestyle</kwd><kwd>health behavior</kwd><kwd>back pain</kwd><kwd>personal narratives as topic</kwd><kwd>Internet</kwd><kwd>diet</kwd><kwd>exercise</kwd><kwd>Web-based intervention</kwd></kwd-group></article-meta></front><body><sec><title> Introduction</title><p>Noncommunicable and chronic diseases, such as coronary heart disease or chronic back pain, create a substantial personal and public burden globally. Diseases of the circulatory system account for 35% of deaths in Europe [<xref rid="ref1" ref-type="bibr">1</xref>]. Chronic back pain is one of the most frequently occurring diseases of modern civilization; estimated 1-month prevalence is more than 20% globally [<xref rid="ref2" ref-type="bibr">2</xref>]. Lifestyle-related risk factors, such as physical inactivity and unhealthy eating, are associated with a higher risk for these chronic diseases [<xref rid="ref3" ref-type="bibr">3</xref>-<xref rid="ref7" ref-type="bibr">7</xref>]. Thus, lifestyle change is a central aim in secondary prevention. Traditional secondary prevention programs, such as inpatient rehabilitation programs or back therapy training, have proved to be successful in the short term, but they often fail to generate sustainable behavioral changes in everyday life [<xref rid="ref8" ref-type="bibr">8</xref>,<xref rid="ref9" ref-type="bibr">9</xref>].</p><p>Peer-modeling interventions and integration of peer support and peer experiences in health education are a promising way to improve long-term effects in disease management [<xref rid="ref10" ref-type="bibr">10</xref>-<xref rid="ref13" ref-type="bibr">13</xref>]. According to social cognitive theory [<xref rid="ref14" ref-type="bibr">14</xref>], complex behavioral patterns can be learned by watching others. In research concerning patients&#x02019; expectations and information-seeking behavior, patients often report a special interest in patient narratives and peer support [<xref rid="ref15" ref-type="bibr">15</xref>-<xref rid="ref17" ref-type="bibr">17</xref>]. Peer support is shown to be effective in improving self-efficacy and recovery from surgery in patients with heart diseases [<xref rid="ref18" ref-type="bibr">18</xref>,<xref rid="ref19" ref-type="bibr">19</xref>] as well as reducing disability and pain in chronic pain patients [<xref rid="ref20" ref-type="bibr">20</xref>]. Interventions featuring patient narratives have a positive effect on cancer screening decisions [<xref rid="ref21" ref-type="bibr">21</xref>] and self-care in diabetes patients [<xref rid="ref22" ref-type="bibr">22</xref>,<xref rid="ref23" ref-type="bibr">23</xref>].</p><p>Patient narratives about illness experiences can be found on various Web forums, such as video and social networking websites (eg, YouTube and Facebook), and on publicly funded websites such as the healthtalkonline website (formerly DIPEx) [<xref rid="ref24" ref-type="bibr">24</xref>]. However, empirical data on the impact of patient narratives and peer modeling on lifestyle behavior modification are still lacking. Therefore, we implemented and subsequently evaluated a website featuring patient narratives about successful lifestyle changes. Our objective was to examine whether the use of this website [<xref rid="ref25" ref-type="bibr">25</xref>] contributes to improvements in physical activity and eating behavior in chronically ill coronary heart disease and back pain patients.</p></sec><sec sec-type="methods"><title>Methods</title><sec><title>The Website</title><sec><title>Overview</title><p>The website lebensstil-aendern (&#x0201c;lifestyle-change&#x0201d;) is a nonrestricted, no-cost, German language website that provides more than 1000 video, audio, and text clips from interviews with patients living with coronary heart disease and chronic back pain. The website has been online since November 2011 and is certified with the Health on the Net Foundation Code of Conduct (HONcode), a certificate addressing reliability and trustworthiness of medical information on the Internet [<xref rid="ref26" ref-type="bibr">26</xref>]. Details on implementation, usability evaluation, and usage statistics are reported elsewhere [<xref rid="ref27" ref-type="bibr">27</xref>].</p></sec><sec><title>The Patient Narratives</title><p>We interviewed 39 people with coronary heart disease and 27 with chronic back pain who reported that they had successfully modified their behavior in at least 1 lifestyle domain for more than 6 months. These problem-centered interviews [<xref rid="ref28" ref-type="bibr">28</xref>] focused on strategies and barriers in maintaining a healthy lifestyle. Interviewees were recruited across Germany through media coverage, information events, flyers, word-of-mouth recommendations, and social media.</p><p>The interviews lasted between 1 to 3 hours. We extracted short clips addressing different aspects of lifestyle modification. All clips are provided with text and may also contain a video or audio clip depending on the interviewees&#x02019; preferences. Before publication, patients were contacted again to decide which clips should be published, whether statements should be removed, and if they wanted to use a pseudonym or their real name. For quality assessment and to avoid potentially harmful suggestions, experienced cardiologists and orthopedists reviewed all patient statements before publication.</p></sec><sec><title>Website Structure and Content</title><p>The website is structured using a horizontal menu with links to the home page, a news page, the patient narratives, a forum, background information, and a contact form (see <xref ref-type="fig" rid="figure1">Figure 1</xref>).</p><p>The news page is updated several times a month by the project team and provides news about recent research results and announcements of new patient narratives, recipes, and project-related updates. The patient narratives are divided into 2 indication-specific modules and structured using a vertical menu with the following categories: overcoming your &#x0201c;weaker self&#x0201d;, getting active, eating healthier, reducing stress, getting support, dealing with the disease, quitting smoking (only in the coronary heart disease module), and keeping the spine in mind (only in the chronic back pain module). In addition to the menu, suitable clips can be found via a filter for age and sex, a tag cloud, searching for keywords, or through overview pages for each patient. Users can comment on single clips and evaluate them (see <xref ref-type="fig" rid="figure2">Figure 2</xref>).</p><p>The forum contains the same categories as the patient narratives. Posts are accessible for everyone, but users must be registered and logged in to post to the forum.</p><fig id="figure1" position="float"><label>Figure 1</label><caption><p>Screenshot of the lebensstil-aendern home page.</p></caption><graphic xlink:href="jmir_v16i7e177_fig1"/></fig><fig id="figure2" position="float"><label>Figure 2</label><caption><p>Screenshot of a video subpage from the coronary heart disease module. On the left side is the vertical menu with the tag cloud beneath. Below the video player are buttons for evaluation and short information text about the patient&#x02019;s health condition.</p></caption><graphic xlink:href="jmir_v16i7e177_fig2"/></fig></sec></sec><sec><title>Recruitment</title><p>We recruited patients in 7 inpatient rehabilitation centers from September 2012 to August 2013. Patients had to be diagnosed with coronary heart disease (International Statistical Classification of Diseases and Related Health Problems, ICD-10 I20-25) or chronic back pain (ICD-10 M50-54), have sufficient German language skills, and have no disabling cognitive deficits. All patients meeting the inclusion criteria were enrolled and sequentially assigned to the control group and intervention group, respectively (see <xref ref-type="fig" rid="figure3">Figure 3</xref>). Sequential allocation was chosen to avoid contamination between groups. The study protocol was approved by the Ethics Committee of the Faculty of Medicine, Leipzig University (reference number: 301-10-04102010).</p><fig id="figure3" position="float"><label>Figure 3</label><caption><p>Flowchart of study participants.</p></caption><graphic xlink:href="jmir_v16i7e177_fig3"/></fig></sec><sec><title>Intervention</title><p>Patients in the intervention group were invited to join a presentation about the website. During the 1-hour presentation, the project team introduced the aims and scopes of the project and provided information on how to find suitable content on the website. They also discussed how to register and post on the forum, and addressed issues of data protection, including anonymity. To give the participants an idea of the website content, 1 to 3 patient narrative videos were shown. To further reduce barriers to using the website, the intervention group received a detailed printed manual and was encouraged to contact the project team in case of problems or questions. Those participants who provided an email address received an email reminder with the link to the website 4 weeks after the presentation. Patients in the control group received no intervention.</p></sec><sec><title>Measures</title><p>Both the intervention and control groups completed a questionnaire at some point during participation in a rehabilitation program. Questions addressed sociodemographic characteristics (eg, age, sex, education, and income), diagnosis, body mass index (BMI), and baseline behavior for physical activity and eating routine. The latter 2 were measured on a numerical scale of 0 to 10 asking about the frequency of exercise and the attention paid to a healthy diet. The follow-up questionnaire also included 2 questions about exercise frequency and attention paid to healthy diet. Additionally, patients were asked to rate, on a 5-point Likert scale ranging from slightly deteriorated (&#x02013;1) to improved substantially (3), their improvements in physical activity (frequency, regularity, integration in daily routine) and eating behavior (eating more healthy foods, avoiding unhealthy foods, eating smaller portions, using less fat for cooking). Lastly, usage of and satisfaction with the website were assessed.</p></sec><sec><title>Statistical Analysis</title><p>Statistical analysis was conducted using SPSS Statistics version 21 (IBM Corp, Armonk, NY, USA). Uncertainties during data entry (eg, the participants&#x02019; handwriting was difficult to decipher or more than 1 box marked as an answer) were discussed by the team and resolved by consensus. Seven participants were excluded for not matching the ICD-10 diagnoses I20-25 or M50-54 and all 118 dropout cases and 3 other cases were excluded for having more than 30% missing data. Missing data in the remaining sample were estimated using multiple imputations under a fully conditional specification and 10 iterations. Because 41.3% (236/571) cases had missing values in any of the variables to be imputed, we imputed 60 datasets [<xref rid="ref29" ref-type="bibr">29</xref>]. For evaluation, we compared groups by using independent <italic>t</italic> tests and chi-square tests and calculated Cohen&#x02019;s <italic>d</italic>, <italic>P</italic> values, and 95% confidence intervals for the mean difference between groups (&#x00394;). For regression analyses, regression weights (B) plus their 95% confidence intervals and beta values (standardized regression weights) are reported.</p><p>For estimating improvements in exercise frequency and attention paid to a healthy diet, we calculated mean differences (&#x00394;) between the 2 measure points and compared these mean differences in independent <italic>t</italic> tests. Results are reported both for an intention-to-treat analysis (intervention group vs control group) as well as for an as-treated analysis (website users vs website nonusers). For the regression analyses on the various outcomes in the intention-to-treat analysis, we included intervention group, indication of coronary heart disease, male sex, age per decade, more than 10 years of education, income per &#x020ac;200, BMI, and baseline behavior (exercise frequency for physical activity items and attention toward a healthy diet for eating behavior items). For the regression analyses on the various outcomes in the as-treated analysis, we replaced the intervention group variable with frequent website usage (at least 3 times) and occasional website usage (once or twice).</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Dropout Analysis</title><p>A total of 699 participants filled out the first questionnaire during rehabilitation. During follow-up, 118 patients (16.8%) dropped out. Dropout was higher among patients with coronary heart disease (21.5% vs 14.1%, &#x003c7;<sup>2</sup>
+<sub>1</sub>=6.3, <italic>P</italic>=.01) and in the intervention group (23.2% vs 11.1%, &#x003c7;<sup>2</sup>
+<sub>1</sub>=18.1, <italic>P</italic>&#x0003c;.001). On average, those who dropped out were 1.9 years younger (<italic>t</italic>
+<sub>685</sub>=2.11, <italic>P</italic>=.04) and had a &#x020ac;189 lower income (<italic>t</italic>
+<sub>623</sub>=2.74, <italic>P</italic>=.006).</p></sec><sec><title>Website Usage</title><p>In total, 24 of 313 control group participants (7.7%) and 164 of 258 intervention group participants (63.6%) claimed to know the website. Nevertheless, approximately one-quarter of these patients (46/188, 24.5%) never visited the website. Overall, 119 of 258 in the intervention group (46.1%) and 22 of 313 in the control group (7.0%) visited the website; 1 participant (0.7%) stated he used the website 3 to 4 times a week, 6 participants (4.3%) stated they used it once or twice a week, 60 (42.6%) used it once or twice a month, and 74 (52.5%) accessed the website at least once.</p></sec><sec><title>Intention-to-Treat Analysis</title><p>Participants had a mean age of 53.2 years (SD 8.6), 51.1% (292/571) were women, and 62.5% (357/571) had been diagnosed with chronic back pain (<xref ref-type="table" rid="table1">Table 1</xref>). Intervention group participants had higher levels of education than control group participants. Income was distributed equally in both samples, but it was slightly lower than the average German net equivalent income of &#x020ac;1835 per month in 2012 [<xref rid="ref30" ref-type="bibr">30</xref>]. Participants had a preobese BMI of 28.1 kg/m<sup>2</sup> (SD 5.2), much higher than the German average (25.7 kg/m<sup>2</sup> in 2009 [<xref rid="ref31" ref-type="bibr">31</xref>]).</p><p>There were no significant differences in outcome variables between the groups (see <xref ref-type="table" rid="table2">Table 2</xref>). The intervention group showed a tendency to improve the regularity of their physical activity more than the control group but this did not meet statistical significance in <italic>t</italic> tests. In the regression analysis, belonging to the intervention group emerged as an independent predictor for more recognizable improvements in regularity of physical activity, including younger age, higher income, lower baseline exercise frequency, and prevalence of coronary heart disease compared to chronic back pain (see <xref ref-type="table" rid="table3">Table 3</xref>). In addition to this, we found a trend in <italic>t</italic> tests in favor of the intervention group for using less fat for cooking. In the regression analysis, belonging to the intervention group also emerged as an independent predictor, accompanied by independent effects of prevalence of coronary heart disease compared to chronic back pain, lower education, and higher BMI.</p><table-wrap id="table1" position="float"><label>Table 1</label><caption><p>Baseline characteristics&#x02014;intention-to-treat analysis.</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="154" span="1"/><col width="88" span="1"/><col width="88" span="1"/><col width="76" span="1"/><col width="40" span="1"/><col width="28" span="1"/><col width="28" span="1"/><thead><tr valign="top"><td colspan="2" rowspan="1">Variable</td><td rowspan="1" colspan="1">Control group <break/>(n=313)</td><td rowspan="1" colspan="1">Intervention group <break/>(n=258)</td><td rowspan="1" colspan="1">Total <break/>(n=571)</td><td rowspan="1" colspan="1">
+<italic>t</italic>
+<sub>569</sub>
+</td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup>
+<sub>1</sub>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">Age (years), mean (SD)</td><td rowspan="1" colspan="1">52.7 (8.1)</td><td rowspan="1" colspan="1">53.8 (9.2)</td><td rowspan="1" colspan="1">53.2 (8.6)</td><td rowspan="1" colspan="1">&#x02013;1.52</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.13</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Sex, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">170 (54.3)</td><td rowspan="1" colspan="1">122 (47.3)</td><td rowspan="1" colspan="1">292 (51.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">143 (45.7)</td><td rowspan="1" colspan="1">136 (52.7)</td><td rowspan="1" colspan="1">279 (48.9)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">0.2</td><td rowspan="1" colspan="1">.69</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Indication, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Coronary heart disease</td><td rowspan="1" colspan="1">115 (36.7)</td><td rowspan="1" colspan="1">99 (38.4)</td><td rowspan="1" colspan="1">214 (37.5)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Chronic back pain</td><td rowspan="1" colspan="1">198 (63.3)</td><td rowspan="1" colspan="1">159 (61.6)</td><td rowspan="1" colspan="1">357 (62.5)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">2.8</td><td rowspan="1" colspan="1">.10</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Education, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02264;10 years of school</td><td rowspan="1" colspan="1">236 (75.5)</td><td rowspan="1" colspan="1">172 (66.8)</td><td rowspan="1" colspan="1">408 (71.5)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003e;10 years of school</td><td rowspan="1" colspan="1">77 (24.5)</td><td rowspan="1" colspan="1">86 (33.2)</td><td rowspan="1" colspan="1">163 (28.5)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">4.9</td><td rowspan="1" colspan="1">.03</td></tr><tr valign="top"><td colspan="2" rowspan="1">Net equivalent income per month (&#x020ac;), mean (SD)</td><td rowspan="1" colspan="1">1679 (621)</td><td rowspan="1" colspan="1">1713 (633)</td><td rowspan="1" colspan="1">1695 (627)</td><td rowspan="1" colspan="1">&#x02013;0.62</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.56</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">BMI (kg/m<sup>2</sup>), mean (SD)</td><td rowspan="1" colspan="1">28.3 (5.3)</td><td rowspan="1" colspan="1">27.9 (5.2)</td><td rowspan="1" colspan="1">28.1 (5.2)</td><td rowspan="1" colspan="1">0.82</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.41</td></tr><tr valign="top"><td colspan="2" rowspan="1">Exercise frequency (scale 0-10), mean (SD)</td><td rowspan="1" colspan="1">3.89 (2.88)</td><td rowspan="1" colspan="1">4.27 (2.81)</td><td rowspan="1" colspan="1">4.06 (2.85)</td><td rowspan="1" colspan="1">&#x02013;1.61</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.11</td></tr><tr valign="top"><td colspan="2" rowspan="1">Attention paid to a healthy diet (scale 0-10), mean (SD)</td><td rowspan="1" colspan="1">5.61 (2.37)</td><td rowspan="1" colspan="1">5.59 (2.60)</td><td rowspan="1" colspan="1">5.60 (2.47)</td><td rowspan="1" colspan="1">0.10</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.92</td></tr></tbody></table></table-wrap><table-wrap id="table2" position="float"><label>Table 2</label><caption><p>Independent <italic>t</italic> tests&#x02014;intention-to-treat analysis.</p></caption><table frame="hsides" rules="groups" width="1000" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="233" span="1"/><col width="55" span="1"/><col width="65" span="1"/><col width="77" span="1"/><col width="28" span="1"/><col width="70" span="1"/><col width="52" span="1"/><thead><tr valign="top"><td colspan="2" rowspan="1">Dependent variable</td><td rowspan="1" colspan="1">Control group <break/>
+(n=313)</td><td rowspan="1" colspan="1">Intervention group <break/>
+(n=258)</td><td rowspan="1" colspan="1">Mean difference</td><td rowspan="1" colspan="1">
+<italic>t</italic>
+<sub>569</sub>
+</td><td rowspan="1" colspan="1">95% CI</td><td rowspan="1" colspan="1">Cohen&#x02019;s <italic>d</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Physical activity</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Frequency of doing exercise, &#x00394; (t2&#x02013;t1)</td><td rowspan="1" colspan="1">0.77</td><td rowspan="1" colspan="1">0.51</td><td rowspan="1" colspan="1">&#x02013;0.26</td><td rowspan="1" colspan="1">3.17</td><td rowspan="1" colspan="1">&#x02013;0.79, 0.27</td><td rowspan="1" colspan="1">&#x02013;0.08</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity frequency, mean</td><td rowspan="1" colspan="1">1.26</td><td rowspan="1" colspan="1">1.33</td><td rowspan="1" colspan="1">0.07</td><td rowspan="1" colspan="1">0.92</td><td rowspan="1" colspan="1">&#x02013;0.09, 0.23</td><td rowspan="1" colspan="1">0.08</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity regularity, mean</td><td rowspan="1" colspan="1">1.19</td><td rowspan="1" colspan="1">1.33</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">0.98</td><td rowspan="1" colspan="1">&#x02013;0.03, 0.30</td><td rowspan="1" colspan="1">0.14</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity in daily routine, mean</td><td rowspan="1" colspan="1">1.23</td><td rowspan="1" colspan="1">1.31</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.97</td><td rowspan="1" colspan="1">&#x02013;0.08, 0.24</td><td rowspan="1" colspan="1">0.08</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Eating behavior</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Attention paid to a healthy diet, &#x00394; (t2&#x02013;t1)</td><td rowspan="1" colspan="1">1.10</td><td rowspan="1" colspan="1">1.20</td><td rowspan="1" colspan="1">0.11</td><td rowspan="1" colspan="1">2.34</td><td rowspan="1" colspan="1">&#x02013;0.29, 0.51</td><td rowspan="1" colspan="1">0.04</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating more healthy foods , mean</td><td rowspan="1" colspan="1">1.31</td><td rowspan="1" colspan="1">1.32</td><td rowspan="1" colspan="1">0.01</td><td rowspan="1" colspan="1">0.88</td><td rowspan="1" colspan="1">&#x02013;0.14, 0.17</td><td rowspan="1" colspan="1">0.01</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating less unhealthy foods, mean</td><td rowspan="1" colspan="1">1.32</td><td rowspan="1" colspan="1">1.39</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.95</td><td rowspan="1" colspan="1">&#x02013;0.09, 0.24</td><td rowspan="1" colspan="1">0.08</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating smaller portions, mean</td><td rowspan="1" colspan="1">1.08</td><td rowspan="1" colspan="1">1.10</td><td rowspan="1" colspan="1">0.03</td><td rowspan="1" colspan="1">0.89</td><td rowspan="1" colspan="1">&#x02013;0.13, 0.18</td><td rowspan="1" colspan="1">0.03</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in using less fat for cooking, mean</td><td rowspan="1" colspan="1">1.17</td><td rowspan="1" colspan="1">1.30</td><td rowspan="1" colspan="1">0.13</td><td rowspan="1" colspan="1">0.88</td><td rowspan="1" colspan="1">&#x02013;0.03, 0.30</td><td rowspan="1" colspan="1">0.14</td></tr></tbody></table></table-wrap><table-wrap id="table3" position="float"><label>Table 3</label><caption><p>Multivariate linear regression&#x02014;intention-to-treat analysis. Each line starting with a dependent variable contains information from one regression analysis (N=571) and provides model fit (<italic>R</italic>
+<sup>2</sup>), results for the variable group (regardless of significance), and those variables which were demonstrated to be significant independent predictors in the model.</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="152" span="1"/><col width="24" span="1"/><col width="106" span="1"/><col width="35" span="1"/><col width="75" span="1"/><col width="130" span="1"/><col width="38" span="1"/><thead><tr valign="bottom"><td colspan="2" rowspan="1">Dependent variable</td><td rowspan="1" colspan="1">
+<italic>R</italic>
+<sup><italic>2</italic></sup>
+</td><td colspan="2" rowspan="1">Group</td><td colspan="3" rowspan="1">Further independent predictors</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">B (95% CI)</td><td rowspan="1" colspan="1">&#x003b2;</td><td rowspan="1" colspan="1">Variable</td><td rowspan="1" colspan="1">B (95% CI)</td><td rowspan="1" colspan="1">&#x003b2;</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Physical activity</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Frequency of doing exercise, &#x00394; (t2&#x02013;t1)</td><td rowspan="1" colspan="1">.42</td><td rowspan="1" colspan="1">0.01 (&#x02013;0.40, 0.42)</td><td rowspan="1" colspan="1">.001</td><td rowspan="1" colspan="1">Indication</td><td rowspan="1" colspan="1">0.63 (0.12, 1.13)</td><td rowspan="1" colspan="1">.10</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">&#x02013;0.40 (&#x02013;0.65, &#x02013;0.14)</td><td rowspan="1" colspan="1">&#x02013;.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline behavior</td><td rowspan="1" colspan="1">&#x02013;0.70 (&#x02013;0.78, &#x02013;0.63)</td><td rowspan="1" colspan="1">&#x02013;.63</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity frequency</td><td rowspan="1" colspan="1">.06</td><td rowspan="1" colspan="1">0.10 (&#x02013;0.06, 0.26)</td><td rowspan="1" colspan="1">.05</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">&#x02013;0.18 (&#x02013;0.28, &#x02013;0.09)</td><td rowspan="1" colspan="1">&#x02013;.17</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Income</td><td rowspan="1" colspan="1">0.04 (0.01, 0.07)</td><td rowspan="1" colspan="1">.13</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline behavior</td><td rowspan="1" colspan="1">&#x02013;0.03 (&#x02013;0.06, 0.00)</td><td rowspan="1" colspan="1">&#x02013;.09</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity regularity</td><td rowspan="1" colspan="1">.06</td><td rowspan="1" colspan="1">0.18 (0.02, 0.34)</td><td rowspan="1" colspan="1">.09</td><td rowspan="1" colspan="1">Indication</td><td rowspan="1" colspan="1">0.21 (0.01, 0.42)</td><td rowspan="1" colspan="1">.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">&#x02013;0.18 (&#x02013;0.28, &#x02013;0.08)</td><td rowspan="1" colspan="1">&#x02013;.16</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline behavior</td><td rowspan="1" colspan="1">&#x02013;0.03 (&#x02013;0.06, 0.00)</td><td rowspan="1" colspan="1">&#x02013;.10</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity in daily routine</td><td rowspan="1" colspan="1">.06</td><td rowspan="1" colspan="1">0.11 (&#x02013;0.05, 0.27)</td><td rowspan="1" colspan="1">.08</td><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">&#x02013;0.13 (&#x02013;0.23, &#x02013;0.03)</td><td rowspan="1" colspan="1">&#x02013;.12</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Education</td><td rowspan="1" colspan="1">&#x02013;0.28 (&#x02013;0.46, &#x02013;0.09)</td><td rowspan="1" colspan="1">&#x02013;.13</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Eating behavior</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Attention paid to a healthy diet, &#x00394; (t2&#x02013;t1)</td><td rowspan="1" colspan="1">.44</td><td rowspan="1" colspan="1">0.12 (&#x02013;0.19, 0.42)</td><td rowspan="1" colspan="1">.02</td><td rowspan="1" colspan="1">Baseline behavior</td><td rowspan="1" colspan="1">&#x02013;0.63 (&#x02013;0.70, &#x02013;0.57)</td><td rowspan="1" colspan="1">&#x02013;.65</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating more healthy foods</td><td rowspan="1" colspan="1">.08</td><td rowspan="1" colspan="1">0.03 (&#x02013;0.12, 0.18}</td><td rowspan="1" colspan="1">.02</td><td rowspan="1" colspan="1">BMI</td><td rowspan="1" colspan="1">0.04 (0.02, 0.05)</td><td rowspan="1" colspan="1">.20</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating less unhealthy foods</td><td rowspan="1" colspan="1">.09</td><td rowspan="1" colspan="1">0.08 (&#x02013;0.08, 0.23)</td><td rowspan="1" colspan="1">.04</td><td rowspan="1" colspan="1">Indication</td><td rowspan="1" colspan="1">0.29 (0.09, 0.48)</td><td rowspan="1" colspan="1">.15</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BMI</td><td rowspan="1" colspan="1">0.03 (0.02, 0.05)</td><td rowspan="1" colspan="1">.18</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating smaller portions</td><td rowspan="1" colspan="1">.09</td><td rowspan="1" colspan="1">0.05 (&#x02013;0.10, 0.20)</td><td rowspan="1" colspan="1">.03</td><td rowspan="1" colspan="1">BMI</td><td rowspan="1" colspan="1">0.05 (0.04, 0.07)</td><td rowspan="1" colspan="1">.29</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in using less fat for cooking</td><td rowspan="1" colspan="1">.07</td><td rowspan="1" colspan="1">0.16 (0.01, 0.31)</td><td rowspan="1" colspan="1">.09</td><td rowspan="1" colspan="1">Indication</td><td rowspan="1" colspan="1">0.20 (0.01, 0.39)</td><td rowspan="1" colspan="1">0.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Education</td><td rowspan="1" colspan="1">&#x02013;0.22 (&#x02013;0.40, &#x02013;0.05)</td><td rowspan="1" colspan="1">&#x02013;.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BMI</td><td rowspan="1" colspan="1">0.03 (0.02, 0.04)</td><td rowspan="1" colspan="1">.19</td></tr></tbody></table></table-wrap></sec><sec><title>As-Treated Analysis</title><p>Users had higher levels of education than nonusers. We did not find any significant differences in baseline variables between nonusers and users in the as-treated analysis (see <xref ref-type="table" rid="table4">Table 4</xref>).</p><table-wrap id="table4" position="float"><label>Table 4</label><caption><p>Baseline characteristics&#x02014;as-treated analysis.</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="166" span="1"/><col width="94" span="1"/><col width="76" span="1"/><col width="40" span="1"/><col width="28" span="1"/><col width="34" span="1"/><thead><tr valign="top"><td colspan="2" rowspan="1">Variable</td><td rowspan="1" colspan="1">Nonusers <break/>
+(n=430)</td><td rowspan="1" colspan="1">Users <break/>
+(n=141)</td><td rowspan="1" colspan="1">
+<italic>t</italic>
+<sub>569</sub>
+</td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup>
+<sub>1</sub>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">Age (years), mean (SD)</td><td rowspan="1" colspan="1">53.5 (8.6)</td><td rowspan="1" colspan="1">52.2 (8.4)</td><td rowspan="1" colspan="1">&#x02013;1.56</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.12</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Sex, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">217 (50.5)</td><td rowspan="1" colspan="1">75 (53.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">213 (49.5)</td><td rowspan="1" colspan="1">66 (46.8)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">0.3</td><td rowspan="1" colspan="1">.57</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Indication, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Coronary heart disease</td><td rowspan="1" colspan="1">165 (38.4)</td><td rowspan="1" colspan="1">49 (34.8)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Chronic back pain</td><td rowspan="1" colspan="1">265 (61.6)</td><td rowspan="1" colspan="1">92 (65.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">0.6</td><td rowspan="1" colspan="1">.44</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Education, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02264;10 years of school</td><td rowspan="1" colspan="1">317 (73.7)</td><td rowspan="1" colspan="1">92 (65.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003e;10 years of school</td><td rowspan="1" colspan="1">113 (26.3)</td><td rowspan="1" colspan="1">49 (34.8)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">3.9</td><td rowspan="1" colspan="1">.049</td></tr><tr valign="top"><td colspan="2" rowspan="1">Net equivalent income per month (&#x020ac;), mean (SD)</td><td rowspan="1" colspan="1">1667 (626)</td><td rowspan="1" colspan="1">1780 (622)</td><td rowspan="1" colspan="1">&#x02013;1.81</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.07</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">BMI (kg/m<sup>2</sup>), mean (SD)</td><td rowspan="1" colspan="1">27.9 (5.1)</td><td rowspan="1" colspan="1">28.8 (5.5)</td><td rowspan="1" colspan="1">1.72</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.09</td></tr><tr valign="top"><td colspan="2" rowspan="1">Frequency of doing exercise, (scale 0-10), mean (SD)</td><td rowspan="1" colspan="1">4.09 (2.89)</td><td rowspan="1" colspan="1">3.98 (2.74)</td><td rowspan="1" colspan="1">&#x02013;0.38</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.71</td></tr><tr valign="top"><td colspan="2" rowspan="1">Attention paid to a healthy diet (scale 0-10), mean (SD)</td><td rowspan="1" colspan="1">5.59 (2.45)</td><td rowspan="1" colspan="1">5.62 (2.54)</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.89</td></tr></tbody></table></table-wrap><p>Website use was associated with larger increases in physical activity: users were more successful in integrating physical activity into their daily routine and in improving their physical activity regularity. We did not find a significantly higher mean difference in the frequency of doing exercise between baseline and follow-up 12 weeks later.</p><p>Website use was not associated with higher mean differences in the attention paid to a healthy diet, but it was with more success in dietary behaviors (ie, using less fat for cooking) (<xref ref-type="table" rid="table5">Table 5</xref>).</p><table-wrap id="table5" position="float"><label>Table 5</label><caption><p>Independent <italic>t</italic> tests&#x02014;as-treated analysis.</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="241" span="1"/><col width="53" span="1"/><col width="50" span="1"/><col width="77" span="1"/><col width="34" span="1"/><col width="65" span="1"/><col width="60" span="1"/><thead><tr valign="top"><td colspan="2" rowspan="1">Dependent variable</td><td rowspan="1" colspan="1">Nonusers <break/>
+(n=430)</td><td rowspan="1" colspan="1">Users <break/>
+(n=141)</td><td rowspan="1" colspan="1">Mean difference</td><td rowspan="1" colspan="1">
+<italic>t</italic>
+<sub>569</sub>
+</td><td rowspan="1" colspan="1">95% CI</td><td rowspan="1" colspan="1">Cohen&#x02019;s <italic>d</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Physical activity</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Frequency of doing exercise, &#x00394; (t2&#x02013;t1)</td><td rowspan="1" colspan="1">0.60</td><td rowspan="1" colspan="1">0.81</td><td rowspan="1" colspan="1">0.21</td><td rowspan="1" colspan="1">0.67</td><td rowspan="1" colspan="1">&#x02013;0.40, 0.82</td><td rowspan="1" colspan="1">0.07</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity frequency, mean</td><td rowspan="1" colspan="1">1.26</td><td rowspan="1" colspan="1">1.40</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">1.56</td><td rowspan="1" colspan="1">&#x02013;0.04, 0.32</td><td rowspan="1" colspan="1">0.15</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity regularity, mean</td><td rowspan="1" colspan="1">1.20</td><td rowspan="1" colspan="1">1.42</td><td rowspan="1" colspan="1">0.22</td><td rowspan="1" colspan="1">2.33</td><td rowspan="1" colspan="1">0.04, 0.41</td><td rowspan="1" colspan="1">0.23</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity in daily routine, mean</td><td rowspan="1" colspan="1">1.21</td><td rowspan="1" colspan="1">1.43</td><td rowspan="1" colspan="1">0.21</td><td rowspan="1" colspan="1">2.24</td><td rowspan="1" colspan="1">0.03, 0.40</td><td rowspan="1" colspan="1">0.22</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Eating behavior</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Attention paid to a healthy diet, &#x00394; (t2&#x02013;t1)</td><td rowspan="1" colspan="1">1.09</td><td rowspan="1" colspan="1">1.32</td><td rowspan="1" colspan="1">0.23</td><td rowspan="1" colspan="1">0.99</td><td rowspan="1" colspan="1">&#x02013;0.23, 0.69</td><td rowspan="1" colspan="1">0.10</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating more healthy foods, mean</td><td rowspan="1" colspan="1">1.28</td><td rowspan="1" colspan="1">1.43</td><td rowspan="1" colspan="1">0.15</td><td rowspan="1" colspan="1">1.64</td><td rowspan="1" colspan="1">&#x02013;0.03, 0.33</td><td rowspan="1" colspan="1">0.16</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating less unhealthy foods, mean</td><td rowspan="1" colspan="1">1.31</td><td rowspan="1" colspan="1">1.47</td><td rowspan="1" colspan="1">0.16</td><td rowspan="1" colspan="1">1.65</td><td rowspan="1" colspan="1">&#x02013;0.03, 0.34</td><td rowspan="1" colspan="1">0.16</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating smaller portions, mean</td><td rowspan="1" colspan="1">1.04</td><td rowspan="1" colspan="1">1.22</td><td rowspan="1" colspan="1">0.17</td><td rowspan="1" colspan="1">1.91</td><td rowspan="1" colspan="1">&#x02013;0.05, 0.35</td><td rowspan="1" colspan="1">0.19</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in using less fat for cooking, mean</td><td rowspan="1" colspan="1">1.18</td><td rowspan="1" colspan="1">1.38</td><td rowspan="1" colspan="1">0.20</td><td rowspan="1" colspan="1">2.17</td><td rowspan="1" colspan="1">0.02, 0.38</td><td rowspan="1" colspan="1">0.21</td></tr></tbody></table></table-wrap><p>In the multivariate regression analyses (<xref ref-type="table" rid="table6">Table 6</xref>), we found small independent effects of frequent website use on improvements in physical activity regularity and improvements in integration of physical activity into daily routine. We also found small effects of frequent website use on all 5 variables measuring eating behavior&#x02014;frequent website use was an independent predictor for increased attention paid to a healthy diet, improved use of healthy and avoidance of unhealthy foods, improvements in eating smaller portions, and reduced use of fat for cooking.</p><table-wrap id="table6" position="float"><label>Table 6</label><caption><p>Multivariate linear regression&#x02014;as-treated analysis. Each line starting with a dependent variable contains information from one regression analysis (N=571) and provides model fit (<italic>R</italic>
+<sup>2</sup>), results for the variables occasional website usage and frequent website usage (regardless of significance), and those variables which were demonstrated to be significant independent predictors in the model.</p></caption><table frame="hsides" rules="groups" width="1200" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="114" span="1"/><col width="22" span="1"/><col width="81" span="1"/><col width="34" span="1"/><col width="76" span="1"/><col width="28" span="1"/><col width="58" span="1"/><col width="76" span="1"/><col width="28" span="1"/><thead><tr valign="bottom"><td colspan="2" rowspan="1">Dependent variable</td><td rowspan="1" colspan="1">
+<italic>R</italic>
+<sup><italic>2</italic></sup>
+</td><td colspan="2" rowspan="1">Occasional website usage</td><td colspan="2" rowspan="1">Frequent website usage</td><td colspan="3" rowspan="1">Further independent predictors</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">B (95% CI)</td><td rowspan="1" colspan="1">&#x003b2;</td><td rowspan="1" colspan="1">B (95% CI)</td><td rowspan="1" colspan="1">&#x003b2;</td><td rowspan="1" colspan="1">Variable</td><td rowspan="1" colspan="1">B (95% CI)</td><td rowspan="1" colspan="1">&#x003b2;</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Physical activity</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Frequency of doing exercise, &#x00394; (t2&#x02013;t1)</td><td rowspan="1" colspan="1">.42</td><td rowspan="1" colspan="1">&#x02013;0.13 (&#x02013;0.74, 0.49)</td><td rowspan="1" colspan="1">&#x02013;.01</td><td rowspan="1" colspan="1">0.28 (&#x02013;0.36, 0.92)</td><td rowspan="1" colspan="1">.03</td><td rowspan="1" colspan="1">Indication</td><td rowspan="1" colspan="1">0.63 (0.13, 1.14)</td><td rowspan="1" colspan="1">.10</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">&#x02013;0.41 (&#x02013;0.66, &#x02013;0.15)</td><td rowspan="1" colspan="1">&#x02013;.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline behavior</td><td rowspan="1" colspan="1">&#x02013;0.70 (&#x02013;0.77, &#x02013;0.62)</td><td rowspan="1" colspan="1">&#x02013;.63</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity frequency</td><td rowspan="1" colspan="1">.06</td><td rowspan="1" colspan="1">&#x02013;0.005 (&#x02013;0.23, 0.22)</td><td rowspan="1" colspan="1">&#x02013;.002</td><td rowspan="1" colspan="1">0.21 (&#x02013;0.03, 0.45)</td><td rowspan="1" colspan="1">.07</td><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">&#x02013;0.18 (0.28, 0.09)</td><td rowspan="1" colspan="1">&#x02013;.17</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Income</td><td rowspan="1" colspan="1">0.04 (0.01, 0.07)</td><td rowspan="1" colspan="1">.13</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity regularity</td><td rowspan="1" colspan="1">.06</td><td rowspan="1" colspan="1">0.12 (&#x02013;0.12, 0.36)</td><td rowspan="1" colspan="1">.04</td><td rowspan="1" colspan="1">0.27 (0.02, 0.51)</td><td rowspan="1" colspan="1">.09</td><td rowspan="1" colspan="1">Indication</td><td rowspan="1" colspan="1">0.21 (0.01, 0.41)</td><td rowspan="1" colspan="1">.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">&#x02013;0.18 (&#x02013;0.28, &#x02013;0.08)</td><td rowspan="1" colspan="1">&#x02013;.16</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline behavior</td><td rowspan="1" colspan="1">&#x02013;0.03 (&#x02013;0.06, 0.00)</td><td rowspan="1" colspan="1">&#x02013;.09</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in physical activity in daily routine</td><td rowspan="1" colspan="1">.07</td><td rowspan="1" colspan="1">0.06 (&#x02013;0.17, 0.30)</td><td rowspan="1" colspan="1">.02</td><td rowspan="1" colspan="1">0.39 (0.14, 0.63)</td><td rowspan="1" colspan="1">.13</td><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">&#x02013;0.13 (&#x02013;0.23, &#x02013;0.03)</td><td rowspan="1" colspan="1">&#x02013;.12</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Education</td><td rowspan="1" colspan="1">&#x02013;0.27 (&#x02013;0.46, &#x02013;0.09)</td><td rowspan="1" colspan="1">&#x02013;.13</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Eating behavior</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Attention paid, a healthy diet, &#x00394; (t2&#x02013;t1)</td><td rowspan="1" colspan="1">.43</td><td rowspan="1" colspan="1">&#x02013;0.14 (&#x02013;0.59, 0.31)</td><td rowspan="1" colspan="1">&#x02013;.02</td><td rowspan="1" colspan="1">0.73 (0.26, 1.21)</td><td rowspan="1" colspan="1">.10</td><td rowspan="1" colspan="1">Baseline behavior</td><td rowspan="1" colspan="1">&#x02013;0.64 (&#x02013;0.71, &#x02013;0.58)</td><td rowspan="1" colspan="1">&#x02013;.66</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating more healthy foods</td><td rowspan="1" colspan="1">.09</td><td rowspan="1" colspan="1">&#x02013;0.06 (&#x02013;0.28, 0.17)</td><td rowspan="1" colspan="1">&#x02013;.02</td><td rowspan="1" colspan="1">0.36 (0.12, 0.59)</td><td rowspan="1" colspan="1">.12</td><td rowspan="1" colspan="1">BMI</td><td rowspan="1" colspan="1">0.03 (0.02, 0.05)</td><td rowspan="1" colspan="1">.19</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline behavior</td><td rowspan="1" colspan="1">&#x02013;0.04 (&#x02013;0.07, 0.00)</td><td rowspan="1" colspan="1">&#x02013;.10</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating less unhealthy foods</td><td rowspan="1" colspan="1">.10</td><td rowspan="1" colspan="1">0.04 (&#x02013;0.20, 0.27)</td><td rowspan="1" colspan="1">.01</td><td rowspan="1" colspan="1">0.32 (0.08, 0.56)</td><td rowspan="1" colspan="1">.11</td><td rowspan="1" colspan="1">Indication</td><td rowspan="1" colspan="1">0.29 (0.10, 0.48)</td><td rowspan="1" colspan="1">.15</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BMI</td><td rowspan="1" colspan="1">0.03 (0.02, 0.05)</td><td rowspan="1" colspan="1">.17</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in eating smaller portions</td><td rowspan="1" colspan="1">.10</td><td rowspan="1" colspan="1">0.03 (&#x02013;0.20, 0.25)</td><td rowspan="1" colspan="1">.01</td><td rowspan="1" colspan="1">0.28 (0.05, 0.51)</td><td rowspan="1" colspan="1">.10</td><td rowspan="1" colspan="1">BMI</td><td rowspan="1" colspan="1">0.05 (0.03, 0.06)</td><td rowspan="1" colspan="1">.28</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Improvements in using less fat for cooking</td><td rowspan="1" colspan="1">.08</td><td rowspan="1" colspan="1">0.02 (&#x02013;0.21, 0.25)</td><td rowspan="1" colspan="1">.01</td><td rowspan="1" colspan="1">0.40 (0.17, 0.64)</td><td rowspan="1" colspan="1">.14</td><td rowspan="1" colspan="1">Indication</td><td rowspan="1" colspan="1">0.20 (0.01, 0.39)</td><td rowspan="1" colspan="1">.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Education</td><td rowspan="1" colspan="1">&#x02013;0.21 (&#x02013;0.39, &#x02013;0.03)</td><td rowspan="1" colspan="1">&#x02013;.10</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BMI</td><td rowspan="1" colspan="1">0.03 (0.02, 0.05)</td><td rowspan="1" colspan="1">.18</td></tr></tbody></table></table-wrap></sec></sec><sec sec-type="discussion"><title>Discussion</title><sec><title>Principal Results</title><p>The aim of this study was to examine the effects of a Web-based intervention featuring patient narratives about successful lifestyle changes on physical activity and eating behavior for chronically ill coronary heart disease and back pain patients. We conducted a sequential controlled trial in which the intervention group participated in a presentation about the website during rehabilitation.</p><p>In the intention-to-treat analysis, there were no significant effects of the intervention in the bivariate analyses and only small interventional effects on physical activity regularity and on using less fat for cooking in the multivariate analyses. However, all but 1 (frequency of doing exercise) of the measured outcome variables showed positive tendencies in the expected direction. Comparing website users to nonusers in the as-treated analysis, we found an association between website usage and improvements in most physical activity and dietary behavior outcome variables. Multivariate regression analyses revealed that this association persists only in conjunction with frequent website usage (defined as having visited the website at least 3 times) not with occasional website usage.</p></sec><sec><title>Implications and Future Research</title><p>A larger sample size, associated with a sufficiently large power, may have ensured the detection of even small intervention effects. In any case, effect sizes were consistently small and demand a closer look at possible reasons. First, the small intervention effects in the intention-to-treat analysis can be explained in part by the low usage of the website because less than half of the intervention group visited the website. The problem of low usage rates is well known and an often cited problem in trials on Web-based interventions [<xref rid="ref32" ref-type="bibr">32</xref>-<xref rid="ref35" ref-type="bibr">35</xref>]. Some personal factors, such as young age, male gender, low income, and low levels of education, are associated with lower rates of preventive service utilization in general [<xref rid="ref36" ref-type="bibr">36</xref>], further increasing the socially determined health-related disadvantages. In our study, only a lower educational level was related to lower rates of website usage. Thus, other groups who are often difficult to reach seem to benefit from the website.</p><p>In addition to the low utilization rates, the intervention dose was probably too low to result in behavioral modifications for most participants. The results of the as-treated analysis indicate that more than occasional website usage is necessary to reach dose-response efficacy. This finding is consistent with results from other studies [<xref rid="ref37" ref-type="bibr">37</xref>-<xref rid="ref39" ref-type="bibr">39</xref>] that also found a positive relation between the number of log-ins and outcomes. In these studies, the necessary number of log-ins also was not reached among all users.</p><p>Finally, although the integration of peer experiences is seen as promising in health education and disease management and meets the interest of patients with a chronic condition, the additional inclusion of further behavior modification strategies (eg, individual tailoring or providing feedback) may be required in a peer-modeling approach to show satisfactorily large effects on lifestyle behavior [<xref rid="ref40" ref-type="bibr">40</xref>].</p><p>Future studies should concentrate on strategies to improve adherence to Web-based interventions and especially to induce more frequent usage of these programs. Individually tailored interventions may be a promising approach because these interventions, besides being more efficacious, have also been shown to stimulate more frequent use of Web-based interventions and to increase adherence [<xref rid="ref21" ref-type="bibr">21</xref>,<xref rid="ref41" ref-type="bibr">41</xref>].</p></sec><sec><title>Limitations</title><p>We were able to assess behavioral change through self-reported nonvalidated measures only, which are subject to response bias. One important aim of rehabilitation programs is to increase awareness for unhealthy lifestyle behavior. Thus, recruiting the participants at this point of time might have led to an overestimation of the 2 baseline variables, which then would have a flattening effect on the mean difference between t2 and t1. Due to time restrictions in the research project, we could only observe the effects of the intervention 3 months after participation in the rehabilitation program. The long-term effects of the intervention remain unclear. Furthermore, we did not control for Internet literacy or Internet usage patterns, which might explain differences in website usage rates and website efficacy.</p><p>The as-treated analysis implicates positive results, but does not allow for a causal interpretation because nonmeasured variables associated with more frequent use of the website could account for the improved health behavior or successful patients might tend to more actively seek support and information and use a website such as the lebensstil-aendern website.</p><p>For the multivariate regression analyses, model fit was very low. This could either be due to variables accounting for behavioral change but not being included in the model or, considering that all outcome variables were single item variables, unreliable measurements contributing to the large error variances.</p></sec><sec><title>Conclusions</title><p>To our knowledge, our study is the first trial to test the efficacy of Web-based patient narratives on behavioral outcomes in coronary heart disease and chronic back pain patients. In our study, patients that use the website more frequently report more favorable health-related behavior and more marked improvements in physical activity and diet. Even if more motivated patients seek support and information more actively, for this patient group in particular, a website such as the lebensstil-aendern website appears to be a helpful tool.</p></sec></sec></body><back><ack><p>The project &#x0201c;lebensstil-aendern.de&#x02014;Videogest&#x000fc;tzte Internetplattform zur Unterst&#x000fc;tzung einer nachhaltigen Lebensstilmodifikation im Alltag&#x0201d; was funded by the German Pension Fund (Deutsche Rentenversicherung Bund) from September 2010 to March 2014 (funding code: 0422/00-40-65-50-22).</p></ack><fn-group><fn fn-type="con"><p>Authors' Contributions: Rebecca Schweier wrote the manuscript. Cynthia Richter and Rebecca Schweier implemented the website and planned and conducted the trial together. Matthias Romppel helped in planning the trial and performed the statistical analysis with Rebecca Schweier. Eike Hoberg, Harry Hahmann, Inge Scherwinski, Gregor Kosm&#x000fc;tzky, and their teams did the screening in the rehabilitation centers, recruited the control group, and helped in conducting the trial. Gesine Grande managed the research project and supervised during each of its respective stages.</p></fn><fn fn-type="conflict"><p>Conflicts of Interest: None declared.</p></fn></fn-group><glossary><title>Abbreviations</title><def-list><def-item><term id="abb1">BMI</term><def><p>Body mass index</p></def></def-item><def-item><term id="abb2">ICD</term><def><p>International Statistical Classification of Diseases and Related Health Problems</p></def></def-item></def-list></glossary><ref-list><ref id="ref1"><label>1</label><element-citation publication-type="book"><person-group person-group-type="author"><collab>World Health Organization</collab></person-group><source>European Health Report 2012: Charting the Way to Well-Being</source><year>2013</year><publisher-loc>Copenhagen</publisher-loc><publisher-name>World Health Organization Regional Office for Europe</publisher-name><comment><ext-link ext-link-type="uri" xlink:href="http://www.euro.who.int/__data/assets/pdf_file/0003/184161/The-European-Health-Report-2012,-FULL-REPORT-w-cover.pdf">http://www.euro.who.int/__data/assets/pdf_file/0003/184161/The-European-Health-Report-2012,-FULL-REPORT-w-cover.pdf</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6RGEzMOkO"/></element-citation></ref><ref id="ref2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoy</surname><given-names>D</given-names></name><name><surname>Bain</surname><given-names>C</given-names></name><name><surname>Williams</surname><given-names>G</given-names></name><name><surname>March</surname><given-names>L</given-names></name><name><surname>Brooks</surname><given-names>P</given-names></name><name><surname>Blyth</surname><given-names>F</given-names></name><name><surname>Woolf</surname><given-names>A</given-names></name><name><surname>Vos</surname><given-names>T</given-names></name><name><surname>Buchbinder</surname><given-names>R</given-names></name></person-group><article-title>A systematic review of the global prevalence of low back pain</article-title><source>Arthritis Rheum</source><year>2012</year><month>6</month><volume>64</volume><issue>6</issue><fpage>2028</fpage><lpage>37</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/art.34347"/></comment><pub-id pub-id-type="doi">10.1002/art.34347</pub-id><pub-id pub-id-type="medline">22231424</pub-id><pub-id pub-id-type="pmid">22231424</pub-id></element-citation></ref><ref id="ref3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Bacquer</surname><given-names>D</given-names></name><name><surname>Dallongeville</surname><given-names>J</given-names></name><name><surname>Kotseva</surname><given-names>K</given-names></name><name><surname>Cooney</surname><given-names>MT</given-names></name><name><surname>Pajak</surname><given-names>A</given-names></name><name><surname>Deckers</surname><given-names>JW</given-names></name><name><surname>Mayer</surname><given-names>O</given-names></name><name><surname>Vanuzzo</surname><given-names>D</given-names></name><name><surname>Lehto</surname><given-names>S</given-names></name><name><surname>Fras</surname><given-names>Z</given-names></name><name><surname>&#x000d6;stor</surname><given-names>E</given-names></name><name><surname>Ambrosio</surname><given-names>GB</given-names></name><name><surname>De Backer</surname><given-names>G</given-names></name><name><surname>Wood</surname><given-names>D</given-names></name><name><surname>Keil</surname><given-names>U</given-names></name><name><surname>Sans</surname><given-names>S</given-names></name><name><surname>Graham</surname><given-names>I</given-names></name><name><surname>Py&#x000f6;r&#x000e4;l&#x000e4;</surname><given-names>K</given-names></name></person-group><article-title>Residual risk of cardiovascular mortality in patients with coronary heart disease: the EUROASPIRE risk categories</article-title><source>Int J Cardiol</source><year>2013</year><month>9</month><day>30</day><volume>168</volume><issue>2</issue><fpage>910</fpage><lpage>4</lpage><pub-id pub-id-type="doi">10.1016/j.ijcard.2012.10.051</pub-id><pub-id pub-id-type="medline">23157810</pub-id><!--<pub-id pub-id-type="pii">S0167-5273(12)01426-X</pub-id>--><pub-id pub-id-type="pmid">23157810</pub-id></element-citation></ref><ref id="ref4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carlsson</surname><given-names>AC</given-names></name><name><surname>W&#x000e4;ndell</surname><given-names>PE</given-names></name><name><surname>Gigante</surname><given-names>B</given-names></name><name><surname>Leander</surname><given-names>K</given-names></name><name><surname>Hellenius</surname><given-names>ML</given-names></name><name><surname>de Faire</surname><given-names>U</given-names></name></person-group><article-title>Seven modifiable lifestyle factors predict reduced risk for ischemic cardiovascular disease and all-cause mortality regardless of body mass index: a cohort study</article-title><source>Int J Cardiol</source><year>2013</year><month>9</month><day>30</day><volume>168</volume><issue>2</issue><fpage>946</fpage><lpage>52</lpage><pub-id pub-id-type="doi">10.1016/j.ijcard.2012.10.045</pub-id><pub-id pub-id-type="medline">23181992</pub-id><!--<pub-id pub-id-type="pii">S0167-5273(12)01420-9</pub-id>--><pub-id pub-id-type="pmid">23181992</pub-id></element-citation></ref><ref id="ref5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chow</surname><given-names>CK</given-names></name><name><surname>Jolly</surname><given-names>S</given-names></name><name><surname>Rao-Melacini</surname><given-names>P</given-names></name><name><surname>Fox</surname><given-names>KA</given-names></name><name><surname>Anand</surname><given-names>SS</given-names></name><name><surname>Yusuf</surname><given-names>S</given-names></name></person-group><article-title>Association of diet, exercise, and smoking modification with risk of early cardiovascular events after acute coronary syndromes</article-title><source>Circulation</source><year>2010</year><month>2</month><day>16</day><volume>121</volume><issue>6</issue><fpage>750</fpage><lpage>8</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://circ.ahajournals.org/cgi/pmidlookup?view=long&#x00026;pmid=20124123"/></comment><pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.109.891523</pub-id><pub-id pub-id-type="medline">20124123</pub-id><!--<pub-id pub-id-type="pii">CIRCULATIONAHA.109.891523</pub-id>--><pub-id pub-id-type="pmid">20124123</pub-id></element-citation></ref><ref id="ref6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smuck</surname><given-names>M</given-names></name><name><surname>Kao</surname><given-names>MC</given-names></name><name><surname>Brar</surname><given-names>N</given-names></name><name><surname>Martinez-Ith</surname><given-names>A</given-names></name><name><surname>Choi</surname><given-names>J</given-names></name><name><surname>Tomkins-Lane</surname><given-names>CC</given-names></name></person-group><article-title>Does physical activity influence the relationship between low back pain and obesity?</article-title><source>Spine J</source><year>2014</year><month>2</month><day>1</day><volume>14</volume><issue>2</issue><fpage>209</fpage><lpage>16</lpage><pub-id pub-id-type="doi">10.1016/j.spinee.2013.11.010</pub-id><pub-id pub-id-type="medline">24239800</pub-id><!--<pub-id pub-id-type="pii">S1529-9430(13)01649-5</pub-id>--><pub-id pub-id-type="pmid">24239800</pub-id></element-citation></ref><ref id="ref7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Neuhauser</surname><given-names>H</given-names></name><name><surname>Ellert</surname><given-names>U</given-names></name><name><surname>Ziese</surname><given-names>T</given-names></name></person-group><article-title>Chronische R&#x000fc;ckenschmerzen in der Allgemeinbev&#x000f6;lkerung in Deutschland 2002/2003: Pr&#x000e4;valenz und besonders betroffene Bev&#x000f6;lkerungsgruppen [Chronic Back Pain in the General Population in Germany 2002/2003: Prevalence and Highly Affected Population Groups]</article-title><source>Gesundheitswesen</source><year>2005</year><volume>67</volume><issue>10</issue><fpage>685</fpage><lpage>693</lpage><pub-id pub-id-type="doi">10.1055/s-2005-858701</pub-id><pub-id pub-id-type="pmid">16235136</pub-id></element-citation></ref><ref id="ref8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kotseva</surname><given-names>K</given-names></name><name><surname>Wood</surname><given-names>D</given-names></name><name><surname>De Backer</surname><given-names>G</given-names></name><name><surname>De Bacquer</surname><given-names>D</given-names></name><name><surname>Py&#x000f6;r&#x000e4;l&#x000e4;</surname><given-names>K</given-names></name><name><surname>Keil</surname><given-names>U</given-names></name><collab>EUROASPIRE Study Group</collab></person-group><article-title>EUROASPIRE III: a survey on the lifestyle, risk factors and use of cardioprotective drug therapies in coronary patients from 22 European countries</article-title><source>Eur J Cardiovasc Prev Rehabil</source><year>2009</year><month>4</month><volume>16</volume><issue>2</issue><fpage>121</fpage><lpage>37</lpage><pub-id pub-id-type="doi">10.1097/HJR.0b013e3283294b1d</pub-id><pub-id pub-id-type="medline">19287307</pub-id><pub-id pub-id-type="pmid">19287307</pub-id></element-citation></ref><ref id="ref9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Tulder</surname><given-names>MW</given-names></name><name><surname>Koes</surname><given-names>B</given-names></name><name><surname>Malmivaara</surname><given-names>A</given-names></name></person-group><article-title>Outcome of non-invasive treatment modalities on back pain: an evidence-based review</article-title><source>Eur Spine J</source><year>2006</year><month>1</month><volume>15 Suppl 1</volume><fpage>S64</fpage><lpage>81</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/16320031"/></comment><pub-id pub-id-type="doi">10.1007/s00586-005-1048-6</pub-id><pub-id pub-id-type="medline">16320031</pub-id><!--<pub-id pub-id-type="pmcid">PMC3454555</pub-id>--><pub-id pub-id-type="pmid">16320031</pub-id></element-citation></ref><ref id="ref10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Turner</surname><given-names>G</given-names></name><name><surname>Shepherd</surname><given-names>J</given-names></name></person-group><article-title>A method in search of a theory: peer education and health promotion</article-title><source>Health Educ Res</source><year>1999</year><month>4</month><volume>14</volume><issue>2</issue><fpage>235</fpage><lpage>47</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://her.oxfordjournals.org/cgi/pmidlookup?view=long&#x00026;pmid=10387503"/></comment><pub-id pub-id-type="medline">10387503</pub-id><pub-id pub-id-type="pmid">10387503</pub-id></element-citation></ref><ref id="ref11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gallant</surname><given-names>MP</given-names></name></person-group><article-title>The influence of social support on chronic illness self-management: a review and directions for research</article-title><source>Health Educ Behav</source><year>2003</year><month>4</month><volume>30</volume><issue>2</issue><fpage>170</fpage><lpage>95</lpage><pub-id pub-id-type="medline">12693522</pub-id><pub-id pub-id-type="pmid">12693522</pub-id></element-citation></ref><ref id="ref12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Heisler</surname><given-names>M</given-names></name></person-group><article-title>Different models to mobilize peer support to improve diabetes self-management and clinical outcomes: evidence, logistics, evaluation considerations and needs for future research</article-title><source>Fam Pract</source><year>2010</year><month>6</month><volume>27 Suppl 1</volume><fpage>i23</fpage><lpage>32</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://fampra.oxfordjournals.org/cgi/pmidlookup?view=long&#x00026;pmid=19293400"/></comment><pub-id pub-id-type="doi">10.1093/fampra/cmp003</pub-id><pub-id pub-id-type="medline">19293400</pub-id><!--<pub-id pub-id-type="pii">cmp003</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2902359</pub-id>--><pub-id pub-id-type="pmid">19293400</pub-id></element-citation></ref><ref id="ref13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Solomon</surname><given-names>P</given-names></name></person-group><article-title>Peer support/peer provided services underlying processes, benefits, and critical ingredients</article-title><source>Psychiatr Rehabil J</source><year>2004</year><volume>27</volume><issue>4</issue><fpage>392</fpage><lpage>401</lpage><pub-id pub-id-type="medline">15222150</pub-id><pub-id pub-id-type="pmid">15222150</pub-id></element-citation></ref><ref id="ref14"><label>14</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bandura</surname><given-names>A</given-names></name></person-group><source>Sozial-kognitive Lerntheorie. 1st ed</source><year>1979</year><publisher-loc>Stuttgart</publisher-loc><publisher-name>Klett-Cotta</publisher-name></element-citation></ref><ref id="ref15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sillence</surname><given-names>E</given-names></name><name><surname>Briggs</surname><given-names>P</given-names></name><name><surname>Herxheimer</surname><given-names>A</given-names></name></person-group><article-title>Personal experiences matter: what patients think about hypertension information online</article-title><source>He@lth Information on the Internet</source><year>2004</year><volume>42</volume><issue>1</issue><fpage>3</fpage><lpage>5</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.esrc.ac.uk/my-esrc/grants/RES-335-25-0019/outputs/Download/1ba2a4c5-b6b0-4339-9ce1-aad11c3acadf"/></comment></element-citation></ref><ref id="ref16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rozmovits</surname><given-names>L</given-names></name><name><surname>Ziebland</surname><given-names>S</given-names></name></person-group><article-title>What do patients with prostate or breast cancer want from an Internet site? A qualitative study of information needs</article-title><source>Patient Educ Couns</source><year>2004</year><month>4</month><volume>53</volume><issue>1</issue><fpage>57</fpage><lpage>64</lpage><pub-id pub-id-type="doi">10.1016/S0738-3991(03)00116-2</pub-id><pub-id pub-id-type="medline">15062905</pub-id><!--<pub-id pub-id-type="pii">S0738399103001162</pub-id>--><pub-id pub-id-type="pmid">15062905</pub-id></element-citation></ref><ref id="ref17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Newman</surname><given-names>MA</given-names></name><name><surname>Ziebland</surname><given-names>S</given-names></name><name><surname>Barker</surname><given-names>KL</given-names></name></person-group><article-title>Patients' views of a multimedia resource featuring experiences of rheumatoid arthritis: pilot evaluation of www.healthtalkonline.org</article-title><source>Health Informatics J</source><year>2009</year><month>6</month><volume>15</volume><issue>2</issue><fpage>147</fpage><lpage>59</lpage><pub-id pub-id-type="doi">10.1177/1460458209102974</pub-id><pub-id pub-id-type="medline">19474226</pub-id><!--<pub-id pub-id-type="pii">15/2/147</pub-id>--><pub-id pub-id-type="pmid">19474226</pub-id></element-citation></ref><ref id="ref18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Colella</surname><given-names>TJ</given-names></name><name><surname>King</surname><given-names>KM</given-names></name></person-group><article-title>Peer support. An under-recognized resource in cardiac recovery</article-title><source>Eur J Cardiovasc Nurs</source><year>2004</year><month>9</month><volume>3</volume><issue>3</issue><fpage>211</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1016/j.ejcnurse.2004.04.001</pub-id><pub-id pub-id-type="medline">15350230</pub-id><!--<pub-id pub-id-type="pii">S1474515104000325</pub-id>--><pub-id pub-id-type="pmid">15350230</pub-id></element-citation></ref><ref id="ref19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Parry</surname><given-names>M</given-names></name><name><surname>Watt-Watson</surname><given-names>J</given-names></name></person-group><article-title>Peer support intervention trials for individuals with heart disease: a systematic review</article-title><source>Eur J Cardiovasc Nurs</source><year>2010</year><month>3</month><volume>9</volume><issue>1</issue><fpage>57</fpage><lpage>67</lpage><pub-id pub-id-type="doi">10.1016/j.ejcnurse.2009.10.002</pub-id><pub-id pub-id-type="medline">19926339</pub-id><!--<pub-id pub-id-type="pii">S1474-5151(09)00123-6</pub-id>--><pub-id pub-id-type="pmid">19926339</pub-id></element-citation></ref><ref id="ref20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bender</surname><given-names>JL</given-names></name><name><surname>Radhakrishnan</surname><given-names>A</given-names></name><name><surname>Diorio</surname><given-names>C</given-names></name><name><surname>Englesakis</surname><given-names>M</given-names></name><name><surname>Jadad</surname><given-names>AR</given-names></name></person-group><article-title>Can pain be managed through the Internet? A systematic review of randomized controlled trials</article-title><source>Pain</source><year>2011</year><month>8</month><volume>152</volume><issue>8</issue><fpage>1740</fpage><lpage>50</lpage><pub-id pub-id-type="doi">10.1016/j.pain.2011.02.012</pub-id><pub-id pub-id-type="medline">21565446</pub-id><!--<pub-id pub-id-type="pii">S0304-3959(11)00118-7</pub-id>--><pub-id pub-id-type="pmid">21565446</pub-id></element-citation></ref><ref id="ref21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jensen</surname><given-names>JD</given-names></name><name><surname>King</surname><given-names>AJ</given-names></name><name><surname>Carcioppolo</surname><given-names>N</given-names></name><name><surname>Krakow</surname><given-names>M</given-names></name><name><surname>Samadder</surname><given-names>NJ</given-names></name><name><surname>Morgan</surname><given-names>S</given-names></name></person-group><article-title>Comparing tailored and narrative worksite interventions at increasing colonoscopy adherence in adults 50-75: a randomized controlled trial</article-title><source>Soc Sci Med</source><year>2014</year><month>3</month><volume>104</volume><fpage>31</fpage><lpage>40</lpage><pub-id pub-id-type="doi">10.1016/j.socscimed.2013.12.003</pub-id><pub-id pub-id-type="medline">24581059</pub-id><!--<pub-id pub-id-type="pii">S0277-9536(13)00677-1</pub-id>--><pub-id pub-id-type="pmid">24581059</pub-id></element-citation></ref><ref id="ref22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brownson</surname><given-names>CA</given-names></name><name><surname>Heisler</surname><given-names>M</given-names></name></person-group><article-title>The role of peer support in diabetes care and self-management</article-title><source>Patient</source><year>2009</year><month>3</month><day>1</day><volume>2</volume><issue>1</issue><fpage>5</fpage><lpage>17</lpage><pub-id pub-id-type="doi">10.2165/01312067-200902010-00002</pub-id><pub-id pub-id-type="medline">22273055</pub-id><!--<pub-id pub-id-type="pii">01312067-200902010-00002</pub-id>--><pub-id pub-id-type="pmid">22273055</pub-id></element-citation></ref><ref id="ref23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Campbell</surname><given-names>T</given-names></name><name><surname>Dunt</surname><given-names>D</given-names></name><name><surname>Fitzgerald</surname><given-names>JL</given-names></name><name><surname>Gordon</surname><given-names>I</given-names></name></person-group><article-title>The impact of patient narratives on self-efficacy and self-care in Australians with type 2 diabetes: stage 1 results of a randomized trial</article-title><source>Health Promot Int</source><year>2013</year><month>8</month><day>28</day><pub-id pub-id-type="doi">10.1093/heapro/dat058</pub-id><pub-id pub-id-type="medline">23985247</pub-id><!--<pub-id pub-id-type="pii">dat058</pub-id>--></element-citation></ref><ref id="ref24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ryan</surname><given-names>K</given-names></name><name><surname>Herxheimer</surname><given-names>A</given-names></name></person-group><article-title>Personal Experiences of Health and Illness on the Web: A Resource for Patients, Carers and Health Professionals</article-title><source>Journal of the Malta College of Pharmacy Practice</source><year>2007</year><issue>13</issue><fpage>27</fpage><lpage>30</lpage></element-citation></ref><ref id="ref25"><label>25</label><element-citation publication-type="webpage"><source>lebensstil-aendern.de [lifestyle-change.de]</source><date-in-citation>2014-07-17</date-in-citation><comment><ext-link ext-link-type="uri" xlink:href="http://lebensstil-aendern.de/">http://lebensstil-aendern.de/</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6R8OQutou"/></element-citation></ref><ref id="ref26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boyer</surname><given-names>C</given-names></name><name><surname>Selby</surname><given-names>M</given-names></name><name><surname>Scherrer</surname><given-names>JR</given-names></name><name><surname>Appel</surname><given-names>RD</given-names></name></person-group><article-title>The Health On the Net Code of Conduct for medical and health Websites</article-title><source>Comput Biol Med</source><year>1998</year><month>9</month><volume>28</volume><issue>5</issue><fpage>603</fpage><lpage>10</lpage><pub-id pub-id-type="medline">9861515</pub-id><!--<pub-id pub-id-type="pii">S0010-4825(98)00037-7</pub-id>--><pub-id pub-id-type="pmid">9861515</pub-id></element-citation></ref><ref id="ref27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Richter</surname><given-names>C</given-names></name><name><surname>Schweier</surname><given-names>R</given-names></name><name><surname>Romppel</surname><given-names>M</given-names></name><name><surname>Grande</surname><given-names>G</given-names></name></person-group><article-title>Erfolgreiche Peers als Modell. Ein internetbasiertes Unterst&#x000fc;tzungsangebot zur nachhaltigen Lebensstilmodifikation</article-title><source>Phys Rehab Kur Med</source><year>2013</year><month>10</month><day>15</day><volume>23</volume><issue>05</issue><fpage>283</fpage><lpage>291</lpage><pub-id pub-id-type="doi">10.1055/s-0033-1355347</pub-id></element-citation></ref><ref id="ref28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Witzel</surname><given-names>A</given-names></name></person-group><article-title>The problem-centered interview</article-title><source>Forum Qualitative Sozialforschung [Forum: Qualitative Social Research]</source><year>2000</year><volume>1</volume><issue>1</issue><fpage>22</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.qualitative-research.net/index.php/fqs/article/view/1132/2521"/></comment></element-citation></ref><ref id="ref29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bodner</surname><given-names>TE</given-names></name></person-group><article-title>What improves with increased missing data imputations?</article-title><source>Structural Equation Modeling: A Multidisciplinary Journal</source><year>2008</year><month>10</month><day>22</day><volume>15</volume><issue>4</issue><fpage>651</fpage><lpage>675</lpage><pub-id pub-id-type="doi">10.1080/10705510802339072</pub-id></element-citation></ref><ref id="ref30"><label>30</label><element-citation publication-type="webpage"><person-group person-group-type="author"><collab>Statistisches Bundesamt</collab></person-group><source>Leben in&#x000a0;Europa (EU-SILC): Einkommen und Lebensbedingungen in Deutschland und der Europ&#x000e4;ischen Union [Living in Europe (EU-SILC) &#x02013; Income and Living Conditions in Germany and the European Union 2012]</source><year>2014</year><date-in-citation>2014-05-22</date-in-citation><comment><ext-link ext-link-type="uri" xlink:href="https://www.destatis.de/DE/Publikationen/Thematisch/EinkommenKonsumLebensbedingungen/LebeninEuropa/EinkommenLebensbedingungen2150300127004.pdf?__blob=publicationFile">https://www.destatis.de/DE/Publikationen/Thematisch/EinkommenKonsumLebensbedingungen/LebeninEuropa/EinkommenLebensbedingungen2150300127004.pdf?__blob=publicationFile</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6PkrM14Ee"/></element-citation></ref><ref id="ref31"><label>31</label><element-citation publication-type="webpage"><source>Federal Statistical Office</source><year>2009</year><date-in-citation>2014-03-26</date-in-citation><comment>Behavioural and Risk Aspects of Health: Height, Weight and Body Mass Index of the Population by Sex and Age-Groups &#x02013; Results of Microcensus 2009<ext-link ext-link-type="uri" xlink:href="https://www.destatis.de/EN/FactsFigures/SocietyState/Health/HealthStatusBehaviourRelevantHealth/Tables/BodyMassIndex.html">https://www.destatis.de/EN/FactsFigures/SocietyState/Health/HealthStatusBehaviourRelevantHealth/Tables/BodyMassIndex.html</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6OMVmMAs6"/></element-citation></ref><ref id="ref32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eysenbach</surname><given-names>G</given-names></name></person-group><article-title>The law of attrition</article-title><source>J Med Internet Res</source><year>2005</year><volume>7</volume><issue>1</issue><fpage>e11</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2005/1/e11/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.7.1.e11</pub-id><pub-id pub-id-type="medline">15829473</pub-id><!--<pub-id pub-id-type="pii">v7e11</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC1550631</pub-id>--><pub-id pub-id-type="pmid">15829473</pub-id></element-citation></ref><ref id="ref33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kelders</surname><given-names>SM</given-names></name><name><surname>Van Gemert-Pijnen</surname><given-names>JE</given-names></name><name><surname>Werkman</surname><given-names>A</given-names></name><name><surname>Nijland</surname><given-names>N</given-names></name><name><surname>Seydel</surname><given-names>ER</given-names></name></person-group><article-title>Effectiveness of a Web-based intervention aimed at healthy dietary and physical activity behavior: a randomized controlled trial about users and usage</article-title><source>J Med Internet Res</source><year>2011</year><volume>13</volume><issue>2</issue><fpage>e32</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2011/2/e32/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.1624</pub-id><pub-id pub-id-type="medline">21493191</pub-id><!--<pub-id pub-id-type="pii">v13i2e32</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3221377</pub-id>--><pub-id pub-id-type="pmid">21493191</pub-id></element-citation></ref><ref id="ref34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wangberg</surname><given-names>SC</given-names></name><name><surname>Bergmo</surname><given-names>TS</given-names></name><name><surname>Johnsen</surname><given-names>JA</given-names></name></person-group><article-title>Adherence in Internet-based interventions</article-title><source>Patient Prefer Adherence</source><year>2008</year><volume>2</volume><fpage>57</fpage><lpage>65</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.dovepress.com/articles.php?article_id=2062"/></comment><pub-id pub-id-type="medline">19920945</pub-id><!--<pub-id pub-id-type="pmcid">PMC2770402</pub-id>--><pub-id pub-id-type="pmid">19920945</pub-id></element-citation></ref><ref id="ref35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brouwer</surname><given-names>W</given-names></name><name><surname>Oenema</surname><given-names>A</given-names></name><name><surname>Raat</surname><given-names>H</given-names></name><name><surname>Crutzen</surname><given-names>R</given-names></name><name><surname>de Nooijer</surname><given-names>J</given-names></name><name><surname>de Vries</surname><given-names>NK</given-names></name><name><surname>Brug</surname><given-names>J</given-names></name></person-group><article-title>Characteristics of visitors and revisitors to an Internet-delivered computer-tailored lifestyle intervention implemented for use by the general public</article-title><source>Health Educ Res</source><year>2010</year><month>8</month><volume>25</volume><issue>4</issue><fpage>585</fpage><lpage>95</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://her.oxfordjournals.org/cgi/pmidlookup?view=long&#x00026;pmid=19897515"/></comment><pub-id pub-id-type="doi">10.1093/her/cyp063</pub-id><pub-id pub-id-type="medline">19897515</pub-id><!--<pub-id pub-id-type="pii">cyp063</pub-id>--><pub-id pub-id-type="pmid">19897515</pub-id></element-citation></ref><ref id="ref36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dryden</surname><given-names>R</given-names></name><name><surname>Williams</surname><given-names>B</given-names></name><name><surname>McCowan</surname><given-names>C</given-names></name><name><surname>Themessl-Huber</surname><given-names>M</given-names></name></person-group><article-title>What do we know about who does and does not attend general health checks? Findings from a narrative scoping review</article-title><source>BMC Public Health</source><year>2012</year><volume>12</volume><fpage>723</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2458/12/723"/></comment><pub-id pub-id-type="doi">10.1186/1471-2458-12-723</pub-id><pub-id pub-id-type="medline">22938046</pub-id><!--<pub-id pub-id-type="pii">1471-2458-12-723</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3491052</pub-id>--><pub-id pub-id-type="pmid">22938046</pub-id></element-citation></ref><ref id="ref37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Donkin</surname><given-names>L</given-names></name><name><surname>Christensen</surname><given-names>H</given-names></name><name><surname>Naismith</surname><given-names>SL</given-names></name><name><surname>Neal</surname><given-names>B</given-names></name><name><surname>Hickie</surname><given-names>IB</given-names></name><name><surname>Glozier</surname><given-names>N</given-names></name></person-group><article-title>A systematic review of the impact of adherence on the effectiveness of e-therapies</article-title><source>J Med Internet Res</source><year>2011</year><volume>13</volume><issue>3</issue><fpage>e52</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2011/3/e52/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.1772</pub-id><pub-id pub-id-type="medline">21821503</pub-id><!--<pub-id pub-id-type="pii">v13i3e52</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3222162</pub-id>--><pub-id pub-id-type="pmid">21821503</pub-id></element-citation></ref><ref id="ref38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lewis</surname><given-names>B</given-names></name><name><surname>Williams</surname><given-names>D</given-names></name><name><surname>Dunsiger</surname><given-names>S</given-names></name><name><surname>Sciamanna</surname><given-names>C</given-names></name><name><surname>Whiteley</surname><given-names>J</given-names></name><name><surname>Napolitano</surname><given-names>M</given-names></name><name><surname>Bock</surname><given-names>B</given-names></name><name><surname>Jakicic</surname><given-names>J</given-names></name><name><surname>Getz</surname><given-names>M</given-names></name><name><surname>Marcus</surname><given-names>B</given-names></name></person-group><article-title>User attitudes towards physical activity websites in a randomized controlled trial</article-title><source>Prev Med</source><year>2008</year><month>11</month><volume>47</volume><issue>5</issue><fpage>508</fpage><lpage>13</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/18773915"/></comment><pub-id pub-id-type="doi">10.1016/j.ypmed.2008.07.020</pub-id><pub-id pub-id-type="medline">18773915</pub-id><!--<pub-id pub-id-type="pii">S0091-7435(08)00400-3</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2614822</pub-id>--><pub-id pub-id-type="pmid">18773915</pub-id></element-citation></ref><ref id="ref39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schulz</surname><given-names>DN</given-names></name><name><surname>Kremers</surname><given-names>SP</given-names></name><name><surname>Vandelanotte</surname><given-names>C</given-names></name><name><surname>van Adrichem</surname><given-names>MJ</given-names></name><name><surname>Schneider</surname><given-names>F</given-names></name><name><surname>Candel</surname><given-names>MJ</given-names></name><name><surname>de Vries</surname><given-names>H</given-names></name></person-group><article-title>Effects of a web-based tailored multiple-lifestyle intervention for adults: a two-year randomized controlled trial comparing sequential and simultaneous delivery modes</article-title><source>J Med Internet Res</source><year>2014</year><volume>16</volume><issue>1</issue><fpage>e26</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2014/1/e26/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.3094</pub-id><pub-id pub-id-type="medline">24472854</pub-id><!--<pub-id pub-id-type="pii">v16i1e26</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3936298</pub-id>--><pub-id pub-id-type="pmid">24472854</pub-id></element-citation></ref><ref id="ref40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Webb</surname><given-names>TL</given-names></name><name><surname>Joseph</surname><given-names>J</given-names></name><name><surname>Yardley</surname><given-names>L</given-names></name><name><surname>Michie</surname><given-names>S</given-names></name></person-group><article-title>Using the internet to promote health behavior change: a systematic review and meta-analysis of the impact of theoretical basis, use of behavior change techniques, and mode of delivery on efficacy</article-title><source>J Med Internet Res</source><year>2010</year><volume>12</volume><issue>1</issue><fpage>e4</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2010/1/e4/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.1376</pub-id><pub-id pub-id-type="medline">20164043</pub-id><!--<pub-id pub-id-type="pii">v12i1e4</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2836773</pub-id>--><pub-id pub-id-type="pmid">20164043</pub-id></element-citation></ref><ref id="ref41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aalbers</surname><given-names>T</given-names></name><name><surname>Baars</surname><given-names>MA</given-names></name><name><surname>Rikkert</surname><given-names>MG</given-names></name></person-group><article-title>Characteristics of effective Internet-mediated interventions to change lifestyle in people aged 50 and older: a systematic review</article-title><source>Ageing Res Rev</source><year>2011</year><month>9</month><volume>10</volume><issue>4</issue><fpage>487</fpage><lpage>97</lpage><pub-id pub-id-type="doi">10.1016/j.arr.2011.05.001</pub-id><pub-id pub-id-type="medline">21628005</pub-id><!--<pub-id pub-id-type="pii">S1568-1637(11)00045-6</pub-id>--><pub-id pub-id-type="pmid">21628005</pub-id></element-citation></ref></ref-list></back></article>

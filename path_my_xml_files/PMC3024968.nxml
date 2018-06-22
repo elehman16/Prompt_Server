@@ -1,0 +1,766 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">21283736</article-id><article-id pub-id-type="pmc">3024968</article-id><article-id pub-id-type="publisher-id">10-PONE-CT-18678R2</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0014515</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline"><subject>Infectious Diseases</subject><subject>Infectious Diseases/Epidemiology and Control of Infectious Diseases</subject><subject>Infectious Diseases/HIV Infection and AIDS</subject><subject>Infectious Diseases/Viral Infections</subject></subj-group></article-categories><title-group><article-title>A New Multidisciplinary Home Care Telemedicine System to Monitor Stable Chronic Human Immunodeficiency Virus-Infected Patients: A Randomized Study</article-title><alt-title alt-title-type="running-head">Online HIV Care</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Le&#x000f3;n</surname><given-names>Agathe</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>C&#x000e1;ceres</surname><given-names>C&#x000e9;sar</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Fern&#x000e1;ndez</surname><given-names>Emma</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Chausa</surname><given-names>Paloma</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Martin</surname><given-names>Maite</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Codina</surname><given-names>Carles</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Rousaud</surname><given-names>Araceli</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Blanch</surname><given-names>Jordi</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Mallolas</surname><given-names>Josep</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Martinez</surname><given-names>Esteban</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Blanco</surname><given-names>Jose L.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Laguno</surname><given-names>Montserrat</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Larrousse</surname><given-names>Maria</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Milinkovic</surname><given-names>Ana</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Zamora</surname><given-names>Laura</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Canal</surname><given-names>Neus</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Mir&#x000f3;</surname><given-names>Josep M.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Gatell</surname><given-names>Josep M.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>G&#x000f3;mez</surname><given-names>Enrique J.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Garc&#x000ed;a</surname><given-names>Felipe</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Infectious Diseases Unit, Hospital Clinic, Institut d'Investigacions Biom&#x000e8;diques August Pi I Sunyer, University of Barcelona, Barcelona, Spain</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Bioengineering and Telemedicine Unit, Technical University of Madrid, Madrid, Spain</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Pharmacy Service, Hospital Clinic, Institut d'Investigacions Biom&#x000e8;diques August Pi I Sunyer, University of Barcelona, Barcelona, Spain</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Clinical Institute of Psychiatry and Psychology, Hospital Clinic, Institut d'Investigacions Biom&#x000e8;diques August Pi i Sunyer, University of Barcelona, Barcelona, Spain</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Health Economics and Outcomes Research, IMS Health, Inc., Barcelona, Spain</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Kaul</surname><given-names>Rupert</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">University of Toronto, Canada</aff><author-notes><corresp id="cor1">* E-mail: <email>aleon@clinic.ub.es</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: AL C Caceres PC C Codina AR JB NC JMM JMG EJG FG. Performed the experiments: AL C Caceres EF PC MM C Codina AR JB JM EM JLB M Laguno M Larrouse AM LZ JMM EJG FG. Analyzed the data: AL PC C Codina AR JB LZ JMG EJG FG. Contributed reagents/materials/analysis tools: AL EF MM C Codina AR JB NC JMG EJG FG. Wrote the paper: AL C Codina AR JB JMM JMG FG.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>21</day><month>1</month><year>2011</year></pub-date><pub-date pub-type="ecorrected"><day>02
+</day><month>2</month><year>2011</year></pub-date><volume>6</volume><issue>1</issue><elocation-id>e14515</elocation-id><history><date date-type="received"><day>7</day><month>5</month><year>2010</year></date><date date-type="accepted"><day>1</day><month>12</month><year>2010</year></date></history><permissions><copyright-statement>Le&#x000f3;n et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Background</title><p>Antiretroviral therapy has changed the natural history of human immunodeficiency virus (HIV) infection in developed countries, where it has become a chronic disease. This clinical scenario requires a new approach to simplify follow-up appointments and facilitate access to healthcare professionals.</p></sec><sec><title>Methodology</title><p>We developed a new internet-based home care model covering the entire management of chronic HIV-infected patients. This was called Virtual Hospital. We report the results of a prospective randomised study performed over two years, comparing standard care received by HIV-infected patients with Virtual Hospital care. HIV-infected patients with access to a computer and broadband were randomised to be monitored either through Virtual Hospital (Arm I) or through standard care at the day hospital (Arm II). After one year of follow up, patients switched their care to the other arm. Virtual Hospital offered four main services: Virtual Consultations, Telepharmacy, Virtual Library and Virtual Community. A technical and clinical evaluation of Virtual Hospital was carried out.</p></sec><sec><title>Findings</title><p>Of the 83 randomised patients, 42 were monitored during the first year through Virtual Hospital (Arm I) and 41 through standard care (Arm II). Baseline characteristics of patients were similar in the two arms. The level of technical satisfaction with the virtual system was high: 85% of patients considered that Virtual Hospital improved their access to clinical data and they felt comfortable with the videoconference system. Neither clinical parameters [level of CD4+ T lymphocytes, proportion of patients with an undetectable level of viral load (p&#x0200a;=&#x0200a;0.21) and compliance levels &#x0003e;90% (p&#x0200a;=&#x0200a;0.58)] nor the evaluation of quality of life or psychological questionnaires changed significantly between the two types of care.</p></sec><sec><title>Conclusions</title><p>Virtual Hospital is a feasible and safe tool for the multidisciplinary home care of chronic HIV patients. Telemedicine should be considered as an appropriate support service for the management of chronic HIV infection.</p></sec><sec><title>Trial Registration</title><p>Clinical-Trials.gov: <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov/ct2/show/NCT01117675">NCT01117675</ext-link>.</p></sec></abstract><counts><page-count count="12"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Since the appearance of highly active antiretroviral treatments (HAART) the process of HIV/AIDS becoming a chronic disease in the industrialised world has led to a dramatic change in the illness paradigm <xref rid="pone.0014515-Martin1" ref-type="bibr">[1]</xref>. Patients who would previously have been terminally ill are now chronically ill, and palliative care has become chronic care <xref rid="pone.0014515-Palella1" ref-type="bibr">[2]</xref>, <xref rid="pone.0014515-Reiter1" ref-type="bibr">[3]</xref>. This situation requires a completely new approach to care of the HIV/AIDS patient.</p><p>For patients, a chronic disease course means visiting their hospital every three months, first to perform a blood test, second for the follow-up appointment and, finally, to collect their medication from the hospital pharmacy. This clinical routine can interfere with patients' attempts to return to normality in their daily lives, and may create problems with employers due to work absences <xref rid="pone.0014515-Panel1" ref-type="bibr">[4]</xref>, <xref rid="pone.0014515-Martin2" ref-type="bibr">[5]</xref>. In addition, patients need to be closely monitored in order to maximise their adherence to medication, and therefore prevent the development of resistance.</p><p>For the infectious diseases physician the follow-up of a chronic HIV patient has become easier, because these patients are relatively young, show few comorbidities and do not require complex monitoring, simply a blood test and routine appointments every three months to check on results.</p><p>However, there is still no cure for the infection and the number of chronic HIV-infected patients is increasing year by year, thereby placing greater demands on healthcare systems. As a result there is a need to optimise health resources, both in terms of infrastructure and staffing levels.</p><p>In this regard, ideas about how to approach this situation may be gained by looking at other chronic diseases such as diabetes <xref rid="pone.0014515-Balas1" ref-type="bibr">[6]</xref>&#x02013;<xref rid="pone.0014515-Farmer1" ref-type="bibr">[9]</xref>, chronic obstructive pulmonary disease <xref rid="pone.0014515-Young1" ref-type="bibr">[10]</xref>&#x02013;<xref rid="pone.0014515-Cooper1" ref-type="bibr">[12]</xref> or congestive heart failure <xref rid="pone.0014515-Clark1" ref-type="bibr">[13]</xref>&#x02013;<xref rid="pone.0014515-Polisena1" ref-type="bibr">[15]</xref>, which have made use of telemedicine for several years now. Research has shown that a multidisciplinary management programme and home-based intervention can reduce hospital readmission rates and length of hospital stay in patients with chronic cardiac disease <xref rid="pone.0014515-Shah1" ref-type="bibr">[16]</xref>&#x02013;<xref rid="pone.0014515-Giordano1" ref-type="bibr">[18]</xref>, as well as improving their quality of life <xref rid="pone.0014515-Eaton1" ref-type="bibr">[19]</xref>&#x02013;<xref rid="pone.0014515-Whitten1" ref-type="bibr">[21]</xref>. In the case of diabetes, telemedicine allows the frequent transmission of blood glucose values to healthcare providers, thereby enabling them to modify the medical regime and/or diet so as to improve metabolic control <xref rid="pone.0014515-Montori1" ref-type="bibr">[22]</xref>&#x02013;<xref rid="pone.0014515-Larsen1" ref-type="bibr">[25]</xref>.</p><p>Telecare involves the delivery of health and social care to individuals within the home or wider community, with the support of systems enabled by information technology <xref rid="pone.0014515-Barlow1" ref-type="bibr">[26]</xref>. It introduces new forms of assessment designed to improve the quality and variety of information which clinicians have about a patient's health status. Measures of functional status and quality of life, in addition to physiological monitoring, can be translated into accurate predictors of health risk, and they can be combined with electronic alarm systems to initiate an appropriate course of action. This information is invaluable in identifying and treating problems, sometimes at an earlier stage <xref rid="pone.0014515-Celler1" ref-type="bibr">[27]</xref>.</p><p>A further aspect is that the coordination of the care team and the involvement of patients in their own care <xref rid="pone.0014515-Holman1" ref-type="bibr">[28]</xref> seem to be factors of great importance for good chronic disease management <xref rid="pone.0014515-Cretin1" ref-type="bibr">[29]</xref>. A multidisciplinary care team is also desirable in a disease such as HIV/AIDS, where psychological and social factors have an increasing influence on a patient's health status. Indeed, chronic care requires a holistic model that integrates doctors, psychologists, nurses, social workers and pharmacists into the same team, of which the patient should also be seen as a member <xref rid="pone.0014515-Wiecha1" ref-type="bibr">[30]</xref>.</p><p>Telemedicine is attractive to physicians because it offers them the possibility of reaching all those patients who need their advice regardless of distance, while the appeal to patients is that it gives them a greater access to health care. Naturally, both groups prefer the face-to-face consultation whenever possible, but consultations can sometimes be offered through a form of telemedicine, which is more convenient, cheaper, less time-consuming and may be equally satisfactory for both parties. Furthermore, telemedicine may reduce the patient's travelling time and absence from work, thereby decreasing the overall societal costs.</p><p>Given the current situation facing patients and health providers, and the enormous possibilities offered by the internet, we developed a telemedicine service to complement standard care. Specifically, this involved a telecare follow-up for stable HIV-infected patients in the chronic phase of their disease. The present study evaluate the home care provided by this telemedicine system called Virtual Hospital, comparing standard care received by HIV-infected patients with Virtual Hospital care. The objective of the study is to demonstrate that Virtual Hospital could improve and facilitate the access of the patients to the health system without any deleterious effect on their care. The technical structure of the system has already been published in several telemedicine journals <xref rid="pone.0014515-Caceres1" ref-type="bibr">[31]</xref>, <xref rid="pone.0014515-Caceres2" ref-type="bibr">[32]</xref>.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><p>An open-label, two-arm, prospective randomised study was performed between January 2005 and December 2007 in a university hospital in Barcelona. Participants were 3500 HIV outpatients. The protocol for this trial and supporting CONSORT checklist are available as supporting information; see <xref ref-type="supplementary-material" rid="pone.0014515.s002">Checklist S1</xref> and Trial <xref ref-type="supplementary-material" rid="pone.0014515.s001">Protocol S1</xref>.</p><p>The main goals were the definition, development, clinical routine installation and evaluation of a telemedicine service that compares standard care with telecare follow-up for stable HIV-infected patients in the chronic phase of their disease. The study was approved by the local Human Research Ethics Committee. Patients signed written informed consent and were randomised (with balanced randomization [1&#x02236;1] through a computer generated randomization list without any restriction) to either: Arm I, where they were monitored virtually via the internet during the first year of follow-up; or arm II, where they were monitored in the day hospital via standard care. After one year of follow up, patients switched their care to the other arm.</p><p>Standard Care in a stable HIV infected adult consists firstly in to perform a blood test (to assess biochemical parameters, CD4 T cells, HIV-1 viral load) 15 days before the day of consultation in the Infectious Diseases Day Care Hospital (laboratory needs 2 weeks to have all the results of the blood test performed). Secondly, the infectious disease physician during consultation, checks the analysis, asks about any clinical change and expends antiretroviral prescriptions if the patient is treated. Thirdly, patient goes with the antiretroviral prescription to the hospital Pharmacy to perform a visit with the pharmacist to check antiretroviral compliance and finally to collect the drugs. The patient repeats this clinical routine every 3&#x02013;4 months.</p><p>The telecare system, Virtual Hospital, offered integrated online patient monitoring by a multidisciplinary care team (nine infectious diseases specialists, three nurses, one psychologist, one psychiatrist, three pharmacists and one social worker), allowing the patient to be remotely followed-up by these professionals and have access to their own clinical and pharmaceutical files. See test web <ext-link ext-link-type="uri" xlink:href="http://web.gbt.tfo.upm.es/clinic/login.asp">http://web.gbt.tfo.upm.es/clinic/login.asp</ext-link>.</p><p>Inclusion criteria were stable patients (CD4 &#x0003e;250 cells/mm<sup>3</sup> during at least the three months prior to inclusion to the study) who had access to a computer and to broadband. No other specific demographics (risk groups, educational level and nationality) or clinical characteristics (hepatitis B or C coinfection) were considered selection criteria. Exclusion criteria were HIV-infected adults with current therapeutic failure (defined by detectable viral load on treatment or CD4 cell count &#x0003c;250 cells/ml), tumours, opportunistic infections, or pregnant women.</p><p>The architecture of this web-based system had two parts. The first was the hospital infrastructure, where we added our server to the existing demilitarised zone (DMZ) of the hospital, which was protected by a firewall and integrated into the hospital's information system network. Health professionals accessed this server via the hospital's intranet. The second part was the home infrastructure, where the patient accessed the server via a basic broadband connection and, for security reasons, through a virtual private network (VPN) (<xref ref-type="fig" rid="pone-0014515-g001">Figure 1</xref>). Of critical importance in the system was the connection of the server with three databases. The Virtual database was the new database created for the telemedicine system, where the data of patients involved in the trial were stored. This database was filled and synchronised with the HIV/AIDS database, which the Infectious Diseases Service of the Hospital Clinic has been using over the last twenty years; this database includes the records of over 5,000 HIV/AIDS patients. Finally, the server was also connected to the pharmacy database, where all the available drugs and data related to antiretroviral compliance were recorded.</p><fig id="pone-0014515-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014515.g001</object-id><label>Figure 1</label><caption><title>Architecture of the Virtual Hospital.</title><p>The architecture of this web-based system has two parts. The first was the hospital infrastructure, where we added our server to the existing demilitarised zone (DMZ) of the hospital, which was protected by a firewall and integrated into the hospital's information system network. Health professionals accessed this server via the hospital's intranet. The second part was the home infrastructure, where the patient accessed the server via a basic broadband connection and, for security reasons, through a virtual private network (VPN).</p></caption><graphic xlink:href="pone.0014515.g001"/></fig><p>The graphical interface was carefully designed in order to make it user friendly for both professionals and patients. Another main goal was to develop a low-cost system so as to enable an increased number of patients to be offered such care in the future. This is why low-cost, home web cams and broadband were some of the chosen technologies for the implementation. Security was one of the most carefully designed aspects of the project, mainly because of its experimental nature and due to the characteristics of the disease in question. As well as securing the communications, via VPN tunnelling, patient data were also encrypted and all personal identification data were removed. A completely separate tool was developed outside the web system, so that only the system administrator would have access to it. All access to the system was monitored, and the system automatically sent an alert e-mail to the technical manager in the event of recurrent access. More technical information about Virtual Hospital has been previously reported <xref rid="pone.0014515-Caceres1" ref-type="bibr">[31]</xref>, <xref rid="pone.0014515-Caceres2" ref-type="bibr">[32]</xref>.</p><p>Virtual Hospital offered four main services<italic>:</italic> Virtual Consultations, Telepharmacy, Virtual Library and Virtual Community.</p><p>
+<italic>Virtual consultations</italic> had two levels: first, appointments/consultations conducted via videoconferencing; and second, chat sessions or message exchanges for emergency or off-schedule consultations. During any of these sessions the Electronic Health Record was available to both professionals and patients (see <xref ref-type="fig" rid="pone-0014515-g002">Figure 2</xref>). However, whenever patients wish it, in addition to the virtual consultations they might have an in-person consultation with the health professionals. It should be noted that psychological and social data were also integrated into the patients' records. An electronic diary was also available so that at the end of the appointment, the patient and the professional could set a time for the next one.</p><fig id="pone-0014515-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014515.g002</object-id><label>Figure 2</label><caption><title>Electronic Health Record.</title><p>A. This figure shows the Virtual Consultation menu, where users select appointments conducted via standard care, videoconferencing, chat sessions or message exchanges. An electronic diary is also available so that at the end of the appointment, the patient and the professional could set a time for the next one. B. Here it shows an example of a teleconference appointment. Electronic Health Record contains demographic, epidemiological and clinical data (Hepatitis B or C coinfections; CD4 cell count and HIV-1 plasma viral load evolution; HAART-compliance and tolerance; comments of the infectious diseases physician) and is available to both professionals and patients during any of the sessions.</p></caption><graphic xlink:href="pone.0014515.g002"/></fig><p>
+<italic>Telepharmacy</italic> allowed the pharmacist to receive electronic prescriptions, to perform virtual consultations about compliance, adverse events or interactions, and to send the antiretroviral medication to the patient's home by courier. The standard care in our centre is that patients take their antiretroviral prescriptions to the hospital pharmacy, where the pharmacist sees the patient, checks whether he/she is having any problems with treatment, and dispatches the drugs (in Spain antiretroviral drugs are given out exclusively in hospital pharmacies). The telepharmacy system enabled patients to track the evolution of their treatment on charts and consult basic information regarding the available antiretroviral drugs. The new process and the telepharmacy system are shown in <xref ref-type="fig" rid="pone-0014515-g003">Figure 3</xref>.</p><fig id="pone-0014515-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014515.g003</object-id><label>Figure 3</label><caption><title>Telepharmacy.</title><p>A. Telepharmacy allows the pharmacist to receive electronic prescriptions, to perform virtual consultations about compliance, adverse events or interactions, and to send the antiretroviral medication to the patient's home by courier. B. This figure shows how professionals track patient's HAART-history. C. In this section, the patients can also visualise the evolution of their own treatments on charts and consult basic information on the antiretroviral drugs available.</p></caption><graphic xlink:href="pone.0014515.g003"/></fig><p>
+<italic>Virtual library</italic> stored validated information about HIV as links to other web pages, for both patients and professionals. All links were categorised by their type of source and were included in different groups according to the subject they referred to.</p><p>
+<italic>Virtual community</italic> provided space to exchange information about the disease and the project, as well as to share opinions or comment on articles and news items. The information offered by this tool differed according to the user (i.e. healthcare professional or patient). Exclusive to professionals was the clinical session option, where they could share opinions about the cases they were responsible for at the time.</p><p>A brief twenty-minute introduction to the system's functioning was offered to both professionals and patients prior to starting the study. An external company was hired to help patients with any technical problems involving hardware or software (patients had a telephone number to call in such cases). This company resolved most of the problems by telephone, but when necessary a technician went to the patient's house.</p><p>The technical performance of Virtual Hospital was evaluated by both professionals and patients. Validated questionnaires were used to assess different aspects of the system, with items being rated on a five-point scale, from 1 for the most negative appraisal (&#x0201c;Not appropriate/Totally disagree&#x0201d;) to 5 for the most positive one (&#x0201c;Very appropriate/Totally agree&#x0201d;). Parameters regarding access, organisation of the system, the need for training, reliability, usability, acceptance, usefulness and satisfaction were also evaluated.</p><p>The Virtual Hospital was also evaluated in terms of its clinical performance, assessing the impact on HIV clinical parameters [CD4 cell count, viral load (VL), opportunistic infections, death], the need to start combined AntiRetroviral Treatment (cART) and cART-compliance throughout the study follow-up. Adherence was evaluated at each clinical consultation by monitoring pharmacy refills and through self-reports and was considered high if the patients take more than 90% of the scheduled medication <xref rid="pone.0014515-Lima1" ref-type="bibr">[33]</xref>.</p><p>Quality of life was evaluated through a questionnaire that has been validated in HIV patients, the Mini International Neuropsychiatric Interview (MINI) <xref rid="pone.0014515-Sheehan1" ref-type="bibr">[34]</xref>, <xref rid="pone.0014515-Trepanier1" ref-type="bibr">[35]</xref>. This assessed various aspects including mental and physical health, cognitive and social functioning, energy levels and vitality, perceived social support, sleep and sexuality. Scores were standardised on a scale from 0 to 100, where 0 corresponds to better quality of life and 100 to a worse one.</p><p>Psychological and emotional Impact was evaluated using several validated screening questionnaires: the Hospital Anxiety and Depression (HAD) Scale <xref rid="pone.0014515-Zigmond1" ref-type="bibr">[36]</xref>, <xref rid="pone.0014515-Herrero1" ref-type="bibr">[37]</xref> to measure anxiety and depression, Goldberg's General Health Questionnaire (GHQ-28) <xref rid="pone.0014515-Goldberg1" ref-type="bibr">[38]</xref>, <xref rid="pone.0014515-Lobo1" ref-type="bibr">[39]</xref> to screen for symptoms of psychopathology, and the Psychosocial Adjustment to Illness Scale (PAIS) <xref rid="pone.0014515-Derogatis1" ref-type="bibr">[40]</xref> to measure the impact of a medical condition on general psychosocial functioning.</p><p>A qualitative statement about health services utilization in the study population, was registered in one of the questionnaires that patients field. There were two questions (question 7 and 9) addressing this issue. Question 7 was: How many times per year, do you consult the following health care providers? (7.1&#x02013;7.3 Infectious Diseases Unit, 7.4 Pharmacy, 7.5 Social Work, 7.6 Psychiatry, 7.7 Primary Care, 7.8 Others). The answers were: never, one or two per year, each three or four months, each two months, each month, more than once per month. Question 9 was: How often has consulted to the following health care providers in the last three months? (Excluding Virtual Consultations) (9.1&#x02013;9.3 Infectious Diseases Unit, 9.4 Pharmacy, 9.5 Social Work, 9.6 Psychiatry, 9.7 Primary Care, 9.8 Others). The answers were: never, ever, several times, once a month, more than once a month.</p><p>Quantitative characteristics were described as medians and the interquartile range (IQR), while qualitative data were given as frequencies and percentages. Laboratory parameters were compared using a Wilcoxon signed-rank test. Intra-individual changes in these parameters were compared for the period monitored by Virtual Hospital versus the period involving standard care (intra-arm or intra-individual variations), and variability between arms at the end of the two-year follow-up was also compared (inter-individual variations). All statistical analyses were performed using SPSS version 15.0.1. Patients were analyzed in the groups to which they were randomly assigned and a per-protocol analysis was conducted.</p><p>Sample size calculations (using McNemar's test of paired proportions with a significance level of 5%) showed that 77 patients would have 80% power in detecting differences of 25% when the expected proportion of discordant pairs was 35%. The selection of this difference is consistent with other studies that found that non-adherence was associated with poorer virological outcomes <xref rid="pone.0014515-Duong1" ref-type="bibr">[41]</xref>&#x02013;<xref rid="pone.0014515-Maggiolo1" ref-type="bibr">[44]</xref>. With an estimated lost-to-follow-up rate of 10%, the total sample size required would be 90 patients.</p></sec><sec id="s3"><title>Results</title><p>Initially, 91 patients were assessed for eligibility, but four were excluded due to a lack of broadband, while a further four declined to participate. Of the remaining 83 randomised patients, 42 were monitored during the first year through Virtual Hospital (Arm I) and 41 through standard care (Arm II). Patients switched their care arm in year two of the study. Baseline characteristics of the patients were well-balanced between the arms (see <xref ref-type="table" rid="pone-0014515-t001">Table 1</xref>). Overall, 93% (n&#x0200a;=&#x0200a;77) of the cohort had an active working life and 38% (n&#x0200a;=&#x0200a;32) had a university degree. A similar number of patients (n&#x0200a;=&#x0200a;46, 55% of the overall cohort) were receiving antiretroviral therapy at baseline (see <xref ref-type="table" rid="pone-0014515-t001">Table 1</xref>). Over the two years of follow-up, seven patients (8%) discontinued the study: two were lost to follow-up (one left the country and one was whereabouts unknown), two left the Virtual Hospital because they disapproved of the system, two developed tumours (one non-Hodgkin lymphoma and one hepatocellular carcinoma), and one patient was killed in a traffic accident (see patient availability in <xref ref-type="fig" rid="pone-0014515-g004">Figure 4</xref>). Overall, therefore, 76 patients (92%) completed the study.</p><fig id="pone-0014515-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014515.g004</object-id><label>Figure 4</label><caption><title>Patient availability.</title><p>91 patients were assessed for eligibility, but four were excluded due to a lack of broadband, while a further four declined to participate. Of the remaining 83 randomised patients, 42 were monitored during the first year through Virtual Hospital (Arm I) and 41 through standard care (Arm II). Patients switched their care arm in year two of the study. Over the two years of follow-up, seven patients (8%) discontinued the study: two were lost to follow-up (one left the country and one was whereabouts unknown), two left the Virtual Hospital because they disapproved of the system, two developed tumours (one non-Hodgkin lymphoma and one hepatocellular carcinoma), and one patient was killed in a traffic accident. Overall, 76 patients (92%) completed the study.</p></caption><graphic xlink:href="pone.0014515.g004"/></fig><table-wrap id="pone-0014515-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014515.t001</object-id><label>Table 1</label><caption><title>Baseline characteristics of the patients.</title></caption><alternatives><graphic id="pone-0014515-t001-1" xlink:href="pone.0014515.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">CATEGORY</td><td align="left" rowspan="1" colspan="1">SUBCATEGORY</td><td align="left" rowspan="1" colspan="1">Cohort</td><td align="left" rowspan="1" colspan="1">Arm I</td><td align="left" rowspan="1" colspan="1">Arm II</td><td align="left" rowspan="1" colspan="1">P</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>N</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">42</td><td align="left" rowspan="1" colspan="1">41</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age* (years)</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">37 (34&#x02013;43)</td><td align="left" rowspan="1" colspan="1">37 (34&#x02013;43)</td><td align="left" rowspan="1" colspan="1">37 (34&#x02013;43)</td><td align="left" rowspan="1" colspan="1">0.9</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Gender</bold>
+<xref ref-type="table-fn" rid="nt102">**</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Male</bold>
+</td><td align="left" rowspan="1" colspan="1">72 (87)</td><td align="left" rowspan="1" colspan="1">36 (86)</td><td align="left" rowspan="1" colspan="1">36 (88)</td><td align="left" rowspan="1" colspan="1">0.56</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Female</bold>
+</td><td align="left" rowspan="1" colspan="1">11 (13)</td><td align="left" rowspan="1" colspan="1">6 (14)</td><td align="left" rowspan="1" colspan="1">5 (12)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Risk Group</bold>
+<xref ref-type="table-fn" rid="nt102">**</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>HMS</bold>
+</td><td align="left" rowspan="1" colspan="1">56 (68)</td><td align="left" rowspan="1" colspan="1">25 (60)</td><td align="left" rowspan="1" colspan="1">31 (76)</td><td align="left" rowspan="1" colspan="1">0.36</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>HTS</bold>
+</td><td align="left" rowspan="1" colspan="1">20 (24)</td><td align="left" rowspan="1" colspan="1">13 (31)</td><td align="left" rowspan="1" colspan="1">7 (17)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>DU</bold>
+</td><td align="left" rowspan="1" colspan="1">7 (8)</td><td align="left" rowspan="1" colspan="1">4 (9)</td><td align="left" rowspan="1" colspan="1">3 (7)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Nationality</bold>
+<xref ref-type="table-fn" rid="nt102">**</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Spanish</bold>
+</td><td align="left" rowspan="1" colspan="1">66 (79)</td><td align="left" rowspan="1" colspan="1">31 (74)</td><td align="left" rowspan="1" colspan="1">35 (86)</td><td align="left" rowspan="1" colspan="1">0.20</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Other</bold>
+</td><td align="left" rowspan="1" colspan="1">17 (21)</td><td align="left" rowspan="1" colspan="1">11 (26)</td><td align="left" rowspan="1" colspan="1">6 (14)</td><td align="left" rowspan="1" colspan="1">0.20</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Educational level</bold>
+<xref ref-type="table-fn" rid="nt102">**</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Primary school</bold>
+</td><td align="left" rowspan="1" colspan="1">10 (12)</td><td align="left" rowspan="1" colspan="1">5 (12)</td><td align="left" rowspan="1" colspan="1">5 (12)</td><td align="left" rowspan="1" colspan="1">0.97</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Secondary school</bold>
+</td><td align="left" rowspan="1" colspan="1">41 (49)</td><td align="left" rowspan="1" colspan="1">20 (48)</td><td align="left" rowspan="1" colspan="1">21 (51)</td><td align="left" rowspan="1" colspan="1">0.12</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>University</bold>
+</td><td align="left" rowspan="1" colspan="1">32 (38)</td><td align="left" rowspan="1" colspan="1">17 (40)</td><td align="left" rowspan="1" colspan="1">15 (37)</td><td align="left" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Employment status</bold>
+<xref ref-type="table-fn" rid="nt102">**</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Unemployed</bold>
+</td><td align="left" rowspan="1" colspan="1">6 (7)</td><td align="left" rowspan="1" colspan="1">3 (7)</td><td align="left" rowspan="1" colspan="1">3 (7)</td><td align="left" rowspan="1" colspan="1">0.97</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Working</bold>
+</td><td align="left" rowspan="1" colspan="1">77 (93)</td><td align="left" rowspan="1" colspan="1">39 (93)</td><td align="left" rowspan="1" colspan="1">38 (93)</td><td align="left" rowspan="1" colspan="1">0.12</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Disabled</bold>
+</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Hepatitis C</bold>
+<xref ref-type="table-fn" rid="nt102">**</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">10 (12)</td><td align="left" rowspan="1" colspan="1">5 (12)</td><td align="left" rowspan="1" colspan="1">5 (12)</td><td align="left" rowspan="1" colspan="1">0.72</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Hepatitis B</bold>
+<xref ref-type="table-fn" rid="nt102">**</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">9 (11)</td><td align="left" rowspan="1" colspan="1">3 (7)</td><td align="left" rowspan="1" colspan="1">6(15)</td><td align="left" rowspan="1" colspan="1">0.17</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>CD4+ T cells (cells/mm3)*</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">602 (471&#x02013;726)</td><td align="left" rowspan="1" colspan="1">585 (461&#x02013;738)</td><td align="left" rowspan="1" colspan="1">636 (511&#x02013;718)</td><td align="left" rowspan="1" colspan="1">0.66</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Log<sub>10</sub>VL (copies/ml)</bold>
+<xref ref-type="table-fn" rid="nt104">****</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">2.79 (0.14)</td><td align="left" rowspan="1" colspan="1">2.79 (0.22)</td><td align="left" rowspan="1" colspan="1">2.90 (0.20)</td><td align="left" rowspan="1" colspan="1">0.40</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Treatment</bold>
+<xref ref-type="table-fn" rid="nt102">**</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">46 (55)</td><td align="left" rowspan="1" colspan="1">24 (57)</td><td align="left" rowspan="1" colspan="1">22 (54)</td><td align="left" rowspan="1" colspan="1">0.52</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>P for comparison between arm I and II. *Median (IQR),</p></fn><fn id="nt102"><label/><p>**(n, %),</p></fn><fn id="nt103"><label/><p>***(n, % of patients on treatment),</p></fn><fn id="nt104"><label/><p>****Mean (SE). HMS: Homosexual. HTS: Heterosexual. DU: Drug users.</p></fn></table-wrap-foot></table-wrap><sec id="s3a"><title>Technical evaluation</title><p>Questionnaires submitted by patients (n&#x0200a;=&#x0200a;76) revealed a high level of technical satisfaction with the system after one year of Virtual Hospital care (<xref ref-type="table" rid="pone-0014515-t002">Table 2</xref>). Overall, 85% of patients (n&#x0200a;=&#x0200a;65) considered that Virtual Hospital improved their access to clinical data, as compared with standard care, and they felt comfortable with the videoconference system. The system was rated by 82% (n&#x0200a;=&#x0200a;62) of patients as an easy way to communicate among users. The same questionnaires were also completed by professionals (n&#x0200a;=&#x0200a;18), with similar results (data not shown).</p><table-wrap id="pone-0014515-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014515.t002</object-id><label>Table 2</label><caption><title>Technical evaluation by patients of the Virtual Hospital.</title></caption><alternatives><graphic id="pone-0014515-t002-2" xlink:href="pone.0014515.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">CATEGORY</td><td align="left" rowspan="1" colspan="1">SUBCATEGORY</td><td align="left" rowspan="1" colspan="1">Patients<xref ref-type="table-fn" rid="nt106">*</xref>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>N</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">76</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Access</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>The system meets my needs</italic>
+</td><td align="left" rowspan="1" colspan="1">84</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>The data are easy to manage</italic>
+</td><td align="left" rowspan="1" colspan="1">88</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>It is easy to input data</italic>
+</td><td align="left" rowspan="1" colspan="1">78</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>The data are presented in a good way</italic>
+</td><td align="left" rowspan="1" colspan="1">82</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>It is easy to correct the data</italic>
+</td><td align="left" rowspan="1" colspan="1">65</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Managing the data is quick</italic>
+</td><td align="left" rowspan="1" colspan="1">65</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>The system improves access to clinical data</italic>
+</td><td align="left" rowspan="1" colspan="1">85</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Organisation</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>The appointments process works well</italic>
+</td><td align="left" rowspan="1" colspan="1">82</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>The system for dispatching medication works well</italic>
+</td><td align="left" rowspan="1" colspan="1">64</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>The virtual library is useful</italic>
+</td><td align="left" rowspan="1" colspan="1">67</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>The virtual community is useful and easy to use</italic>
+</td><td align="left" rowspan="1" colspan="1">50</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>I feel comfortable with the videoconference system</italic>
+</td><td align="left" rowspan="1" colspan="1">85</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>The system improves communication between users</italic>
+</td><td align="left" rowspan="1" colspan="1">82</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Training</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>The period and type of training has been useful</italic>
+</td><td align="left" rowspan="1" colspan="1">80</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>I have needed to consult additional documentation about the system</italic>
+</td><td align="left" rowspan="1" colspan="1">17</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>I learned easily to use the system</italic>
+</td><td align="left" rowspan="1" colspan="1">81</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Reliability</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Virtual Hospital is secure and stable</italic>
+</td><td align="left" rowspan="1" colspan="1">83</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>I have needed technical support</italic>
+</td><td align="left" rowspan="1" colspan="1">15</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Technical problems were resolved quickly</italic>
+</td><td align="left" rowspan="1" colspan="1">73</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>I have lost data due to system errors</italic>
+</td><td align="left" rowspan="1" colspan="1">5</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Usability</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Navigating around the system is quick</italic>
+</td><td align="left" rowspan="1" colspan="1">93</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Collaboration between health workers has changed</italic>
+</td><td align="left" rowspan="1" colspan="1">50</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Acceptance</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>The system is acceptable</italic>
+</td><td align="left" rowspan="1" colspan="1">81</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Usefulness</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>The system is useful</italic>
+</td><td align="left" rowspan="1" colspan="1">84.6</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Satisfaction</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>I am satisfied with Virtual Hospital</italic>
+</td><td align="left" rowspan="1" colspan="1">69</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>I feel comfortable with the system</italic>
+</td><td align="left" rowspan="1" colspan="1">90</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>I like Virtual Hospital</italic>
+</td><td align="left" rowspan="1" colspan="1">86</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Virtual Hospital improves my daily life</italic>
+</td><td align="left" rowspan="1" colspan="1">74</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>I would like to use the system in the future</italic>
+</td><td align="left" rowspan="1" colspan="1">85</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>The relationship with healthcare professionals is easier</italic>
+</td><td align="left" rowspan="1" colspan="1">68</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Virtual Hospital enables me to save time and money</italic>
+</td><td align="left" rowspan="1" colspan="1">85</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt105"><label/><p>Questionnaire items were rated from 1 (most negative) to 5 (most positive).</p></fn><fn id="nt106"><label/><p>*Proportion of patients who gave the two highest ratings (4&#x0200a;=&#x0200a; &#x0201c;appropriate/agree&#x0201d;, or 5&#x0200a;=&#x0200a; &#x0201c;Very appropriate/Totally agree&#x0201d;).</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3b"><title>Clinical evaluation</title><p>No opportunistic infections were reported. Regarding the immunologic evaluation there were no intra-individual (data not shown) or inter-individual differences over time in CD4 cell counts as monitored through Virtual Hospital versus standard care (See <xref ref-type="table" rid="pone-0014515-t003">Table 3</xref>).</p><table-wrap id="pone-0014515-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014515.t003</object-id><label>Table 3</label><caption><title>Study findings.</title></caption><alternatives><graphic id="pone-0014515-t003-3" xlink:href="pone.0014515.t003"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">CATEGORY</td><td align="left" rowspan="1" colspan="1">SUBCATEGORY</td><td align="left" rowspan="1" colspan="1">Cohort</td><td align="left" rowspan="1" colspan="1">Arm I</td><td align="left" rowspan="1" colspan="1">Arm II</td><td align="left" rowspan="1" colspan="1">P</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>N</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">42</td><td align="left" rowspan="1" colspan="1">41</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">CLINICAL EVALUATION</td><td align="left" rowspan="1" colspan="1">SUBCATEGORY</td><td align="left" rowspan="1" colspan="1">Cohort</td><td align="left" rowspan="1" colspan="1">Arm I</td><td align="left" rowspan="1" colspan="1">Arm II</td><td align="left" rowspan="1" colspan="1">P</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>CD4+ T cells (cells/mm3)</bold>
+<xref ref-type="table-fn" rid="nt108">*</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">712 (32)</td><td align="left" rowspan="1" colspan="1">738 (46)</td><td align="left" rowspan="1" colspan="1">796 (50)</td><td align="left" rowspan="1" colspan="1">0.4</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">751 (38)</td><td align="left" rowspan="1" colspan="1">688 (43)</td><td align="left" rowspan="1" colspan="1">706 (58)</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Log<sub>10</sub>VL (copies/ml)</bold>
+<xref ref-type="table-fn" rid="nt108">*</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">2.76 (0.13)</td><td align="left" rowspan="1" colspan="1">2.58 (0.19)</td><td align="left" rowspan="1" colspan="1">2.40 (0.19)</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">2.57 (0.14)</td><td align="left" rowspan="1" colspan="1">2.92 (0.20)</td><td align="left" rowspan="1" colspan="1">2.74 (0.21)</td><td align="left" rowspan="1" colspan="1">0.4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Need to start HAART</bold>
+<xref ref-type="table-fn" rid="nt109">**</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">3 (4)</td><td align="left" rowspan="1" colspan="1">1 (1)</td><td align="left" rowspan="1" colspan="1">2 (2)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">3 (4)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">3 (4)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>cART switching</bold>
+<xref ref-type="table-fn" rid="nt109">**</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">16 (19)</td><td align="left" rowspan="1" colspan="1">8 (10)</td><td align="left" rowspan="1" colspan="1">8 (10)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">7 (8)</td><td align="left" rowspan="1" colspan="1">4 (5)</td><td align="left" rowspan="1" colspan="1">3 (4)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>cART compliance</bold>
+<xref ref-type="table-fn" rid="nt108">*</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">93.4 (1.2)</td><td align="left" rowspan="1" colspan="1">94.5 (1.5)</td><td align="left" rowspan="1" colspan="1">95.1 (1.2)</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">94.5 (0.9)</td><td align="left" rowspan="1" colspan="1">91.9 (1.9)</td><td align="left" rowspan="1" colspan="1">93.6 (.3)</td><td align="left" rowspan="1" colspan="1">0.4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Tumors</bold>
+<xref ref-type="table-fn" rid="nt109">**</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">2 (2)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">2 (2)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Deaths</bold>
+<xref ref-type="table-fn" rid="nt109">**</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">1 (1)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Quality of life assessment</bold>
+<xref ref-type="table-fn" rid="nt109">**</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">29.0 (2.3)</td><td align="left" rowspan="1" colspan="1">30.4 (3.4)</td><td align="left" rowspan="1" colspan="1">32.0 (3.8)</td><td align="left" rowspan="1" colspan="1">0.5</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">32.1 (2.6)</td><td align="left" rowspan="1" colspan="1">27.2 (2.6)</td><td align="left" rowspan="1" colspan="1">32.1 (3.7)</td><td align="left" rowspan="1" colspan="1">0.9</td></tr></tbody></table><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">PSYCHOLOGICAL EVALUATION</td><td align="left" rowspan="1" colspan="1">SUBCATEGORY</td><td align="left" rowspan="1" colspan="1">Cohort</td><td align="left" rowspan="1" colspan="1">Arm I</td><td align="left" rowspan="1" colspan="1">Arm II</td><td align="left" rowspan="1" colspan="1">P</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>HAD scale</bold>
+<xref ref-type="table-fn" rid="nt110">***</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">17.2 (0.4)</td><td align="left" rowspan="1" colspan="1">18.1 (0.6)</td><td align="left" rowspan="1" colspan="1">16.0 (0.5)</td><td align="left" rowspan="1" colspan="1">0.1</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">17.5(0.6)</td><td align="left" rowspan="1" colspan="1">16.9 (1.0)</td><td align="left" rowspan="1" colspan="1">18.3 (0.8)</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Goldberg Questionnaire</bold>
+<xref ref-type="table-fn" rid="nt110">***</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">4.9 (0.9)</td><td align="left" rowspan="1" colspan="1">5.9 (1.6)</td><td align="left" rowspan="1" colspan="1">3.6 (1.0)</td><td align="left" rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">5.6 (1.3)</td><td align="left" rowspan="1" colspan="1">5.9 (1.8)</td><td align="left" rowspan="1" colspan="1">5.4 (1.8)</td><td align="left" rowspan="1" colspan="1">0.6</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>PAIS scale</bold>
+<xref ref-type="table-fn" rid="nt110">***</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12</bold>
+</td><td align="left" rowspan="1" colspan="1">66.5 (0.7)</td><td align="left" rowspan="1" colspan="1">67.3 (0.9)</td><td align="left" rowspan="1" colspan="1">66.7 (0.9)</td><td align="left" rowspan="1" colspan="1">0.5</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24</bold>
+</td><td align="left" rowspan="1" colspan="1">66.4 (1.1)</td><td align="left" rowspan="1" colspan="1">67.0 (0.9)</td><td align="left" rowspan="1" colspan="1">65.8 (2.0)</td><td align="left" rowspan="1" colspan="1">0.8</td></tr></tbody></table><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">HEALTH SERVICES UTILIZATION</td><td align="left" rowspan="1" colspan="1">SUBCATEGORY</td><td align="left" rowspan="1" colspan="1">Cohort</td><td align="left" rowspan="1" colspan="1">Arm I</td><td align="left" rowspan="1" colspan="1">Arm II</td><td align="left" rowspan="1" colspan="1">P</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Infectious Diseases Unit</bold>
+<xref ref-type="table-fn" rid="nt110">***</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12 (4M/6M)</bold>
+</td><td align="left" rowspan="1" colspan="1">78%/19%</td><td align="left" rowspan="1" colspan="1">78%/17%</td><td align="left" rowspan="1" colspan="1">70%/20%</td><td align="left" rowspan="1" colspan="1">0.6</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24(4M/6M)</bold>
+</td><td align="left" rowspan="1" colspan="1">79%/18%</td><td align="left" rowspan="1" colspan="1">79%/18%</td><td align="left" rowspan="1" colspan="1">67%/29%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Pharmacy</bold>
+<xref ref-type="table-fn" rid="nt110">***</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12 (4M/0)</bold>
+</td><td align="left" rowspan="1" colspan="1">60%/33%</td><td align="left" rowspan="1" colspan="1">49%/32%</td><td align="left" rowspan="1" colspan="1">59%/34%</td><td align="left" rowspan="1" colspan="1">0.1</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24 (4M/0)</bold>
+</td><td align="left" rowspan="1" colspan="1">59%/34%</td><td align="left" rowspan="1" colspan="1">48%/33%</td><td align="left" rowspan="1" colspan="1">58%/37%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Primary Care</bold>
+<xref ref-type="table-fn" rid="nt110">***</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12 (0/1&#x02013;4)</bold>
+</td><td align="left" rowspan="1" colspan="1">45%/43%</td><td align="left" rowspan="1" colspan="1">45%/42%</td><td align="left" rowspan="1" colspan="1">43%/46%</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24 (0/1&#x02013;4)</bold>
+</td><td align="left" rowspan="1" colspan="1">45%/44%</td><td align="left" rowspan="1" colspan="1">45%/42%</td><td align="left" rowspan="1" colspan="1">42%/46%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Other health providers</bold>
+<xref ref-type="table-fn" rid="nt110">***</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Month 12 (0/1&#x02013;2)</bold>
+</td><td align="left" rowspan="1" colspan="1">65%/24%</td><td align="left" rowspan="1" colspan="1">51%/32%</td><td align="left" rowspan="1" colspan="1">73%/20%</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Month 24 (0/1&#x02013;2)</bold>
+</td><td align="left" rowspan="1" colspan="1">64%/24%</td><td align="left" rowspan="1" colspan="1">51%/33%</td><td align="left" rowspan="1" colspan="1">75%/17%</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt107"><label/><p>P for comparison between arm I and II.</p></fn><fn id="nt108"><label/><p>*Mean (SE).</p></fn><fn id="nt109"><label/><p>**(n, %). cART compliance: 93.4 means that patients took the 93.4% of the scheduled medication.</p></fn><fn id="nt110"><label/><p>***(%). 4M: every 4 months. 6M: twice a year. 0: Never used. 1&#x02013;4: Used from 1 to 4 times a year. 1&#x02013;2: Used from 1 to 2 times a year.</p></fn></table-wrap-foot></table-wrap><p>Changes in viral load were also similar within individuals (data not shown) and between arms when comparing the periods for Virtual Hospital and standard care (See <xref ref-type="table" rid="pone-0014515-t003">Table 3</xref>). Patients on treatment continued to have an undetectable viral load throughout the study period in both arms except 1 patient in arm II.</p><p>Twenty-three patients (28%) switched antiretroviral therapy during the study follow-up. Therapeutic changes were due to: simplification (in 15 patients); because of side events related to medication (in 6 patients); virologic failure (in 1 patient) and in 1 patient because of interrupted manufacture of the antiretroviral being taken.</p><p>6 patients (7%) started cART throughout the study. cART switching and the need to start cART was similar between arms (<xref ref-type="table" rid="pone-0014515-t003">Table 3</xref>).</p><p>cART-compliance was high (more than 90%) and was similar within individuals (data not shown) and between arms during the two years of follow-up (<xref ref-type="table" rid="pone-0014515-t003">Table 3</xref>).</p></sec><sec id="s3c"><title>Quality of life and Psychological and emotional evaluation</title><p>Quality of life assessment did not shown any difference between arms during the two years of the study (<xref ref-type="table" rid="pone-0014515-t003">Table 3</xref>). In addition, none of the psychological tests performed (HAD scale, Goldberg Health Questionnaire, Psychosocial Adjustment to Illness Scale) observed differences between arms during follow-up (<xref ref-type="table" rid="pone-0014515-t003">Table 3</xref>)</p></sec><sec id="s3d"><title>Health services assessment</title><p>Regarding the consultation to the health care providers (n&#x0200a;=&#x0200a;76), most of the patients (78%, n&#x0200a;=&#x0200a;59) performed a consultation every four months to the Infectious Disease Unit and most of the remaining patients twice a year. About sixty percent of patients (n&#x0200a;=&#x0200a;46) consulted Pharmacy every 4 months and 33% (n&#x0200a;=&#x0200a;25) of the patients never did it (those who are untreated). 76% (n&#x0200a;=&#x0200a;58) of the patients never used Psychiatry services. The utilization of these stable patients to the Social Work services was very low. Primary care physicians and other health care providers were never consulted by 45% (n&#x0200a;=&#x0200a;34) and 64% (n&#x0200a;=&#x0200a;49) of the patients, respectively (See <xref ref-type="table" rid="pone-0014515-t003">Table 3</xref>). There were no differences in health services utilization between study arms during study follow-up. Excluding Primary care, all the consultations performed not only infectious diseases specialists, but pharmacists, social worker and psychiatrists are integrated in the multidisciplinary care team of Virtual Hospital, allowing the patient to be remotely followed-up by these professionals too.</p><p>On the other hand, analyzing the health services utilization <italic>out of</italic> Virtual Consultations 69% (n&#x0200a;=&#x0200a;52), 74% (n&#x0200a;=&#x0200a;56) and 86% (n&#x0200a;=&#x0200a;65) of the patients always consulted the Infectious diseases Unit, Pharmacy and Psychiatry services, respectively, using the virtual system. Again, similar results were observed between study groups.</p></sec><sec id="s3e"><title>Costs Evaluation</title><p>Regarding budget to develop this telemedicine system, there were costs related to equipment in the hospital infrastructure. Hardware and software Virtual Hospital development cost was 50.000 euros. An external company was hired to help patients with any technical problems involving hardware or software installation, training or maintenance of the system with a cost of 70 euros per patient/year. Posting service cost, used eventually for medication delivery to patient home, was about 50 euros per patient/year. Home infrastructure (computer and broadband connection) was supported by patients.</p></sec></sec><sec id="s4"><title>Discussion</title><p>We report the results of a prospective randomised study using a new model of multidisciplinary home care for chronic and stable HIV patients. The approach is based on a telemedicine platform, the Virtual Hospital, which covers the entire process of patient care (consultations, medical care, psychological and social support, medication, quality of life) via the internet and allows patients access to their own file. The study shows that Virtual Hospital constitutes a feasible, fairly satisfactory and safe tool for the clinical care of stable HIV-infected patients, and it has no deleterious effect on HIV clinical parameters, antiretroviral compliance, quality of life, or psychological and emotional status.</p><p>Patients were very satisfied with the system, as it has been showed by the satisfaction questionnaire and the low rate of withdrawal [76 from the 91 patients randomized ended the study (83%)]. In addition, when this study ended (december 2007), patients involved in it express their willingness to continue on Virtual Hospital and from then until now Virtual Hospital is being used as a routine work tool of the Infectious Disease Unit of the Hospital. Nowadays, there are round 200 patients cared of their HIV infection with such internet service. Otherwise being cared via Virtual hospital has not increased health resources utilization because of most of patients (69%, n&#x0200a;=&#x0200a;52), out of Virtual consultations has never consulted to the Infectious diseases Unit even though almost a thirty percent of the study population (23 patients, 28%) has switched their antiretroviral medication, certainly one of the more difficult points in HIV management.</p><p>Telemedicine in HIV has been assessed in low-resource settings, both as an additional tool to help in the routine care of HIV-infected patients and for the training and education of healthcare providers <xref rid="pone.0014515-Kiviat1" ref-type="bibr">[45]</xref>. Teleconferences, calls by mobile phones and e-health systems have all been used to support comprehensive HIV treatment programmes. In developed countries, telemedicine has been used as a tool to solve communication problems, as a prevention strategy for gay men <xref rid="pone.0014515-McKee1" ref-type="bibr">[46]</xref> or special populations such as Latinos <xref rid="pone.0014515-Mahoney1" ref-type="bibr">[47]</xref> or African-Americans <xref rid="pone.0014515-Goldschmidt1" ref-type="bibr">[48]</xref>, and to improve health outcomes including antiretroviral adherence <xref rid="pone.0014515-Dunbar1" ref-type="bibr">[49]</xref>, access to care for HIV-infected prisoners <xref rid="pone.0014515-Besch1" ref-type="bibr">[50]</xref>, clinical monitoring of highly treatment-experienced HIV-infected patients <xref rid="pone.0014515-LLibre1" ref-type="bibr">[51]</xref>, cardiovascular risk assessment electrocardiograms at distance <xref rid="pone.0014515-Malacarne1" ref-type="bibr">[52]</xref>, and smoking cessation interventions <xref rid="pone.0014515-Vidrine1" ref-type="bibr">[53]</xref>. The main innovation of our web-based system is that, to our knowledge, this is the first time that a telemedicine approach has enabled the whole range of HIV care to be offered to stable and chronic patients.</p><p>New procedures and improvements in telemedical patient education could support self-management and self-care of this disease through tools such as access to electronic medical records, availability of constant information updates, and the development of a custom online community of patients. The system is also scalable for future functionality and enables the integration of both information and services, which could facilitate cooperation between different professionals (primary and specialist care), creating units to improve the care of HIV infection.</p><p>Our platform provides a technical infrastructure that can simultaneously support telemedicine programmes for different chronic diseases and patients with different risk levels. Indeed, platforms like the Virtual Hospital are destined to play a major role in facilitating new strategies for chronic care management, for example, by means of out-of-hospital follow-up, patient empowerment and care coordination, thereby improving patient care without an associated rise in costs. Several chronic diseases such as diabetes, congestive heart failure or chronic obstructive pulmonary disease have all used telemedicine with similar findings <xref rid="pone.0014515-Balas1" ref-type="bibr">[6]</xref>&#x02013;<xref rid="pone.0014515-Larsen1" ref-type="bibr">[25]</xref>.</p><p>The world's population is aging. As we age, the incidence and prevalence of chronic illness continue to rise, and elderly patients typically have multiple chronic diseases. The HIV-infected population follows this same trend, but the fact that the rate of new HIV infections has remained stable since 1995 <xref rid="pone.0014515-Status1" ref-type="bibr">[54]</xref> means the effect is worsened by the growing number of HIV-infected patients. The Hospital Clinic in Barcelona receives about 250 new HIV-infected patients each year. This increase, coupled with the drastic decrease in mortality due to current antiretroviral treatments, produces a significant annual increase in the care burden (around 10%, with an annual increase of 1000 new appointments in the Day Hospital). Given the current situation facing not only patients (who are likely to remain clinically stable for years) but also health providers, it is important to consider the enormous potential of the internet. Here the Virtual Hospital has been shown to be a feasible and safe tool for providing multidisciplinary home care to chronic HIV patients.</p><p>Although our study did not set out to measure the economics of study arms, to assist the reader's understanding of the importance of the work to health care providers and to society as a whole in implementing the new system, we have made a qualitative statement about whether, for example, cost savings could be expected with the new system. The population of this study for clinical monitoring of their infection, regardless of belonging to a study arm or another, required to perform a blood test, a medical visit and eventually, antiretroviral treatment.</p><p>Regarding costs of blood tests, both direct costs (unitary price of a standard blood analysis, a CD4 test and an HIV-1 RNA test) and indirect costs (transport costs and time invested to reach the laboratory, productivity cost, absenteeism, quality of life and psychosocial status) should be the same for both study arms, because this study contemplated to perform the blood tests on the same site.</p><p>Costs of medical consultations for the health system, as the estimated unit cost for an outpatient visit with an HIV specialist care provider would not be modified in both types of cares. However, indirect costs regarding the time that professionals spend on each visit, the resources on space, infrastructure and personnel needed for a consultation presumably would be lower in the telemedicine arm and higher the communication effectiveness between patients and professionals. For example, the median time of a consultation via telemedicine is usually 5 minutes, compared with 20 minutes of standard visits; virtual consultation can be made at any office with a computer connected to the Internet (it is not necessary a day care hospital unit investing large areas, technical infrastructure and staffing complex), the median time to response to a consultation in the virtual branch is usually 24 hours, thus minimizing possible deleterious effects that any delay in communication could cause on clinical management. In parallel the costs of medical visits for patients, both direct costs (transportation to hospital) and indirect costs would be diminished in the telematic care among others by reducing travel time or waiting time for visits and medications (the median Hvirtual waiting time consultation is about 10 minutes compared with 60&#x02013;90 minutes of waiting time at standard care).</p><p>The direct costs of antiretroviral medicaments should also be the same in both cares, although indirect costs to obtain antiretrovirals in the virtual arm should be lower than in the standard care. In the standard care arm, the patient must go to the hospital pharmacy to pick up the medication, which would include additional costs in transportation and working-time losses as previously mentioned. In the virtual arm, either because the medication arrives directly to patient's home by courier or because it is the patient who chooses the best time to pick up medication when receives virtual antiretroviral prescription, indirect costs would be lower.</p><p>Then to summarize, out an initial software development investment, the Virtual Hospital cost per patient/year was 120 euros (or 70 euros without posting service cost medication delivery to patient home). Taking into account, the mentioned advantages that implementing this new model would provide in terms of direct and indirect costs of medical consultations and antiretroviral prescriptions for the health system and for patients, we believe that Virtual Hospital could be moreover cost-effective.</p><p>The study shows that Virtual Hospital constitutes a feasible, fairly satisfactory, safe and a low cost tool for the clinical care of stable HIV-infected patients and it has no deleterious effect on HIV clinical parameters and health services utilization.</p><p>Telemedicine should be considered an appropriate support service for the entire management of chronic HIV infection, is likely to prove extremely useful in settings with poor access to the health system.</p></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0014515.s001"><label>Protocol S1.</label><caption><p>Trial Protocol.</p><p>(0.69 MB DOC)</p></caption><media xlink:href="pone.0014515.s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0014515.s002"><label>Checklist S1.</label><caption><p>Consort Checklist.</p><p>(0.24 MB DOC)</p></caption><media xlink:href="pone.0014515.s002.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>This article was presented in part (abstract 11032) at the XVII International AIDS Conference, held in Mexico City in August 2008.</p><p>We are indebted to the participants in the study.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>A Le&#x000f3;n, C C&#x000e1;ceres, E Fern&#x000e1;ndez, P Chausa, M Martin, C Codina, A Rousaud, A Milinkovic, M Laguno, M Larrousse, L Zamora, and EJ G&#x000f3;mez have no potential conflicts of interests. Neus Canal is employed by a commercial company, Health Economics and Outcomes Research IMS Health. E Martinez, F Garc&#x000ed;a, J Blanch and JL Blanco have received research grants from Abbott, Bristol-Myers Squibb, and Gilead Sciences. J Mallolas and JM Miro have received research grants from Abbott, Boehringer-Ingelheim, Bristol-Myers Squibb, Gilead Sciences and Roche. JM Gatell has received honoraria or research grants from Bristol-Myers Squibb, MSD, GlaxoSmithKline, Gilead Sciences, Tibotec, Roche, Boehringerngelheim, Abbott and Pfizer. This does not alter our adherence to all the PLoS ONE policies on sharing data and materials."</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>Dr. Le&#x000f3;n is supported by Contract CM06/00170 from the Institut de Investigacions Biom&#x000e8;diques August Pi I Sunyer and Fundaci&#x000f3; Cl&#x000ed;nic in collaboration with the Spanish Health Department. The role of Health Economics and Outcomes Research IMS Health in the study had been only to analyze the patients' quality of life data. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0014515-Martin1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>DK</given-names></name><name><surname>Thiel</surname><given-names>EC</given-names></name><name><surname>Singer</surname><given-names>PA</given-names></name></person-group>
+<year>1999</year>
+<article-title>A new model of advance care planning: observations from people with HIV.</article-title>
+<source>Arch Intern Med</source>
+<volume>159</volume>
+<fpage>86</fpage>
+<lpage>92</lpage>
+<pub-id pub-id-type="pmid">9892336</pub-id></element-citation></ref><ref id="pone.0014515-Palella1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Palella</surname><given-names>FJ</given-names><suffix>Jr</suffix></name><name><surname>Delaney</surname><given-names>KM</given-names></name><name><surname>Moorman</surname><given-names>AC</given-names></name><name><surname>Loveless</surname><given-names>MO</given-names></name><name><surname>Fuhrer</surname><given-names>J</given-names></name><etal/></person-group>
+<year>1998</year>
+<article-title>Declining morbidity and mortality among patients with advanced human immunodeficiency virus infection.</article-title>
+<source>N Engl J Med</source>
+<volume>338</volume>
+<fpage>853</fpage>
+<lpage>60</lpage>
+<pub-id pub-id-type="pmid">9516219</pub-id></element-citation></ref><ref id="pone.0014515-Reiter1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reiter</surname><given-names>GS</given-names></name></person-group>
+<year>2000</year>
+<article-title>Comprehensive clinical care: Managing HIV as a chronic illness.</article-title>
+<source>AIDS Clinical Car</source>
+<volume>12</volume>
+<issue>2</issue>
+<fpage>13</fpage>
+<lpage>9</lpage>
+</element-citation></ref><ref id="pone.0014515-Panel1"><label>4</label><element-citation publication-type="journal">
+<article-title>Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Department of Health and Human Services. November 3, 2008; 1-139.</article-title>
+<comment>Available: <ext-link ext-link-type="uri" xlink:href="http://www.aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf">http://www.aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf</ext-link>. Accessed 2009 Jul 23</comment>
+</element-citation></ref><ref id="pone.0014515-Martin2"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>DJ</given-names></name><name><surname>Brooks</surname><given-names>RA</given-names></name><name><surname>Ortiz</surname><given-names>DJ</given-names></name><name><surname>Veniegas</surname><given-names>RC</given-names></name></person-group>
+<year>2003</year>
+<article-title>Perceived employment barriers and their relation to workforce-entry intent among people with HIV/AIDS.</article-title>
+<source>J Occup Health Psychol</source>
+<volume>8</volume>
+<fpage>181</fpage>
+<lpage>194</lpage>
+<pub-id pub-id-type="pmid">12872956</pub-id></element-citation></ref><ref id="pone.0014515-Balas1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Balas</surname><given-names>EA</given-names></name><name><surname>Jaffrey</surname><given-names>F</given-names></name><name><surname>Kuperman</surname><given-names>GJ</given-names></name><name><surname>Boren</surname><given-names>SA</given-names></name><name><surname>Brown</surname><given-names>GD</given-names></name><etal/></person-group>
+<year>1997</year>
+<article-title>Electronic communication with patients. Evaluation of distance medicine technology.</article-title>
+<source>JAMA</source>
+<volume>278</volume>
+<issue>2</issue>
+<fpage>152</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="pmid">9214532</pub-id></element-citation></ref><ref id="pone.0014515-Pitte1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pitte</surname><given-names>JD</given-names></name><name><surname>Weinberger</surname><given-names>M</given-names></name><name><surname>McPhee</surname><given-names>SJ</given-names></name><name><surname>Mah</surname><given-names>CA</given-names></name><name><surname>Kraemer</surname><given-names>FB</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Do automated calls with nurse follow-up improve self-care and glycemic control among vulnerable patients with diabetes.</article-title>
+<source>Am J Med</source>
+<volume>108</volume>
+<issue>1</issue>
+<fpage>20</fpage>
+<lpage>7</lpage>
+<pub-id pub-id-type="pmid">11059437</pub-id></element-citation></ref><ref id="pone.0014515-Lahtela1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lahtela</surname><given-names>JT</given-names></name><name><surname>Lamminen</surname><given-names>H</given-names></name></person-group>
+<year>2002</year>
+<article-title>Telemedical devices in diabetes management.</article-title>
+<source>Ann Med</source>
+<volume>34</volume>
+<issue>4</issue>
+<fpage>241</fpage>
+<lpage>7</lpage>
+<pub-id pub-id-type="pmid">12371708</pub-id></element-citation></ref><ref id="pone.0014515-Farmer1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Farmer</surname><given-names>A</given-names></name><name><surname>Gibson</surname><given-names>OJ</given-names></name><name><surname>Tarassenko</surname><given-names>L</given-names></name><name><surname>Neal</surname><given-names>A</given-names></name></person-group>
+<year>2005</year>
+<article-title>A systematic review of telemedicine interventions to support blood glucose self-monitoring in diabetes.</article-title>
+<source>Diabet Med</source>
+<volume>22</volume>
+<issue>10</issue>
+<fpage>1372</fpage>
+<lpage>8</lpage>
+<pub-id pub-id-type="pmid">16176199</pub-id></element-citation></ref><ref id="pone.0014515-Young1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Young</surname><given-names>M</given-names></name><name><surname>Sparrow</surname><given-names>D</given-names></name><name><surname>Gottlieb</surname><given-names>D</given-names></name><name><surname>Selim</surname><given-names>A</given-names></name><name><surname>Friedman</surname><given-names>R</given-names></name></person-group>
+<year>2001</year>
+<article-title>A telephone-linked computer system for COPD care.</article-title>
+<source>Chest</source>
+<volume>119</volume>
+<issue>5</issue>
+<fpage>1565</fpage>
+<lpage>75</lpage>
+<pub-id pub-id-type="pmid">11348968</pub-id></element-citation></ref><ref id="pone.0014515-Bourbeau1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bourbeau</surname><given-names>J</given-names></name><name><surname>Julien</surname><given-names>M</given-names></name><name><surname>Maltais</surname><given-names>F</given-names></name><name><surname>Rouleau</surname><given-names>M</given-names></name><name><surname>Beaupr&#x000e9;</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Reduction of hospital utilization in patients with chronic obstructive pulmonary disease: a disease-specific self management intervention.</article-title>
+<source>Arch Intern Med</source>
+<volume>163</volume>
+<fpage>585</fpage>
+<lpage>91</lpage>
+<pub-id pub-id-type="pmid">12622605</pub-id></element-citation></ref><ref id="pone.0014515-Cooper1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cooper</surname><given-names>CB</given-names></name></person-group>
+<year>2009</year>
+<article-title>Respiratory applications of telemedicine.</article-title>
+<source>Thorax</source>
+<volume>64</volume>
+<issue>3</issue>
+<fpage>189</fpage>
+<lpage>91</lpage>
+<pub-id pub-id-type="pmid">19252017</pub-id></element-citation></ref><ref id="pone.0014515-Clark1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clark</surname><given-names>RA</given-names></name><name><surname>Inglis</surname><given-names>SC</given-names></name><name><surname>McAlister</surname><given-names>FA</given-names></name><name><surname>Cleland</surname><given-names>JG</given-names></name><name><surname>Stewart</surname><given-names>S</given-names></name></person-group>
+<year>2007</year>
+<article-title>Telemonitoring or structured telephone support programmes for patients with chronic heart failure: systematic review and meta-analysis.</article-title>
+<source>BMJ</source>
+<volume>334</volume>
+<issue>7600</issue>
+<fpage>942</fpage>
+<pub-id pub-id-type="pmid">17426062</pub-id></element-citation></ref><ref id="pone.0014515-Lobodzinski1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lobodzinski</surname><given-names>SS</given-names></name><name><surname>Jadalla</surname><given-names>AA</given-names></name></person-group>
+<year>2010</year>
+<article-title>Integrated heart failure telemonitoring system for homecare.</article-title>
+<source>Cardiolo J</source>
+<volume>17</volume>
+<issue>2</issue>
+<fpage>200</fpage>
+<lpage>204</lpage>
+</element-citation></ref><ref id="pone.0014515-Polisena1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Polisena</surname><given-names>J</given-names></name><name><surname>Tran</surname><given-names>K</given-names></name><name><surname>Cimon</surname><given-names>K</given-names></name><name><surname>Hutton</surname><given-names>B</given-names></name><name><surname>McGill</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Home telemonitoring for congestive heart failure: a systematic review and meta-analysis.</article-title>
+<source>J Telemed Telecare</source>
+<volume>16</volume>
+<issue>2</issue>
+<fpage>68</fpage>
+<lpage>76</lpage>
+<pub-id pub-id-type="pmid">20008054</pub-id></element-citation></ref><ref id="pone.0014515-Shah1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shah</surname><given-names>NB</given-names></name><name><surname>Der</surname><given-names>E</given-names></name><name><surname>Ruggerio</surname><given-names>C</given-names></name><name><surname>Heidenreich</surname><given-names>PA</given-names></name><name><surname>Massie</surname><given-names>BM</given-names></name></person-group>
+<year>1998</year>
+<article-title>Prevention of hospitalizations for heart failure with an interactive home monitoring program.</article-title>
+<source>Am Heart J</source>
+<volume>135</volume>
+<fpage>373</fpage>
+<lpage>378</lpage>
+<pub-id pub-id-type="pmid">9506321</pub-id></element-citation></ref><ref id="pone.0014515-Jerant1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jerant</surname><given-names>AF</given-names></name><name><surname>Azari</surname><given-names>R</given-names></name><name><surname>Nesbitt</surname><given-names>TS</given-names></name></person-group>
+<year>2001</year>
+<article-title>Reducing the cost of frequent hospital admissions for congestive heart failure: a randomized trial of a home telecare intervention.</article-title>
+<source>Med Care</source>
+<volume>39</volume>
+<issue>11</issue>
+<fpage>1234</fpage>
+<lpage>45</lpage>
+<pub-id pub-id-type="pmid">11606877</pub-id></element-citation></ref><ref id="pone.0014515-Giordano1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Giordano</surname><given-names>A</given-names></name><name><surname>Scalvini</surname><given-names>S</given-names></name><name><surname>Zanelli</surname><given-names>E</given-names></name><name><surname>Corr&#x000e0;</surname><given-names>U</given-names></name><name><surname>Longobardi</surname><given-names>GL</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Multicenter randomised trial on home-based telemanagement to prevent hospital readmission of patients with chronic heart failure.</article-title>
+<source>Int J Cardiol</source>
+<volume>131</volume>
+<issue>2</issue>
+<fpage>192</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="pmid">18222552</pub-id></element-citation></ref><ref id="pone.0014515-Eaton1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eaton</surname><given-names>T</given-names></name><name><surname>Withy</surname><given-names>S</given-names></name><name><surname>Garrett</surname><given-names>JE</given-names></name><name><surname>Mercer</surname><given-names>J</given-names></name><name><surname>Whitlock</surname><given-names>RM</given-names></name><etal/></person-group>
+<year>1999</year>
+<article-title>Spirometry in primary care practice: the importance of quality assurance and the impact of spirometry workshops.</article-title>
+<source>Chest</source>
+<volume>116</volume>
+<fpage>416</fpage>
+<lpage>23</lpage>
+<pub-id pub-id-type="pmid">10453871</pub-id></element-citation></ref><ref id="pone.0014515-Benatar1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Benatar</surname><given-names>D</given-names></name><name><surname>Bondmass</surname><given-names>M</given-names></name><name><surname>Ghitelman</surname><given-names>J</given-names></name><name><surname>Abitall</surname><given-names>B</given-names></name></person-group>
+<year>2003</year>
+<article-title>Outcomes of chronic heart failure.</article-title>
+<source>Arch Intern Med</source>
+<volume>163</volume>
+<fpage>347</fpage>
+<lpage>52</lpage>
+<pub-id pub-id-type="pmid">12578516</pub-id></element-citation></ref><ref id="pone.0014515-Whitten1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whitten</surname><given-names>P</given-names></name><name><surname>Love</surname><given-names>B</given-names></name></person-group>
+<year>2005</year>
+<article-title>Patient and provider satisfaction with the use of telemedicine: overview and rationale for cautious enthusiasm.</article-title>
+<source>J Postgrad Med</source>
+<volume>51</volume>
+<fpage>294</fpage>
+<lpage>300</lpage>
+<pub-id pub-id-type="pmid">16388172</pub-id></element-citation></ref><ref id="pone.0014515-Montori1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Montori</surname><given-names>VM</given-names></name><name><surname>Hellgemoe</surname><given-names>PK</given-names></name><name><surname>Guyatt</surname><given-names>GH</given-names></name><name><surname>Dean</surname><given-names>DS</given-names></name><name><surname>Leung</surname><given-names>TW</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Telecare for patients with type 1 diabetes and inadequate glycemic control: a randomized controlled trial and meta-analysis.</article-title>
+<source>Diabetes Care</source>
+<volume>27</volume>
+<fpage>1088</fpage>
+<lpage>94</lpage>
+<pub-id pub-id-type="pmid">15111526</pub-id></element-citation></ref><ref id="pone.0014515-Polisena2"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Polisena</surname><given-names>J</given-names></name><name><surname>Tran</surname><given-names>K</given-names></name><name><surname>Cimon</surname><given-names>K</given-names></name><name><surname>Hutton</surname><given-names>B</given-names></name><name><surname>McGill</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Home telehealth for diabetes management: a systematic review and meta-analysis.</article-title>
+<source>Diabetes Obes Metab</source>
+<volume>11</volume>
+<issue>10</issue>
+<fpage>913</fpage>
+<lpage>30</lpage>
+<pub-id pub-id-type="pmid">19531058</pub-id></element-citation></ref><ref id="pone.0014515-Stone1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stone</surname><given-names>RA</given-names></name><name><surname>Rao</surname><given-names>RH</given-names></name><name><surname>Sevick</surname><given-names>MA</given-names></name><name><surname>Cheng</surname><given-names>C</given-names></name><name><surname>Hough</surname><given-names>LJ</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Active care management supported by home telemonitoring in veterans with type 2 diabetes: the DiaTel randomized controlled trial.</article-title>
+<source>Diabetes Care</source>
+<volume>33</volume>
+<issue>3</issue>
+<fpage>478</fpage>
+<lpage>94</lpage>
+<pub-id pub-id-type="pmid">20009091</pub-id></element-citation></ref><ref id="pone.0014515-Larsen1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Larsen</surname><given-names>ME</given-names></name><name><surname>Turner</surname><given-names>J</given-names></name><name><surname>Farmer</surname><given-names>A</given-names></name><name><surname>Neil</surname><given-names>A</given-names></name><name><surname>Tarassenko</surname><given-names>L</given-names></name></person-group>
+<year>2010</year>
+<article-title>Telemedicine-supported insulin optimisation in primary care.</article-title>
+<source>J Telemed Telecare</source>
+<volume>16</volume>
+<issue>8</issue>
+<fpage>433</fpage>
+<lpage>40</lpage>
+<pub-id pub-id-type="pmid">20841384</pub-id></element-citation></ref><ref id="pone.0014515-Barlow1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barlow</surname><given-names>J</given-names></name><name><surname>Bayer</surname><given-names>S</given-names></name><name><surname>Curry</surname><given-names>R</given-names></name></person-group>
+<year>2003</year>
+<article-title>The design of pilot telecare projects and their integration into mainstream service delivery.</article-title>
+<source>J Telemed Telecare</source>
+<volume>9</volume>
+<issue>suppl. 1</issue>
+<fpage>1</fpage>
+<lpage>3</lpage>
+<pub-id pub-id-type="pmid">12641885</pub-id></element-citation></ref><ref id="pone.0014515-Celler1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Celler</surname><given-names>BG</given-names></name><name><surname>Lovell</surname><given-names>NH</given-names></name><name><surname>Basilakis</surname><given-names>J</given-names></name></person-group>
+<year>2003</year>
+<article-title>Using information technology to improve the management of chronic disease.</article-title>
+<source>Med J Aust</source>
+<volume>179</volume>
+<issue>5</issue>
+<fpage>242</fpage>
+<lpage>246</lpage>
+<pub-id pub-id-type="pmid">12924970</pub-id></element-citation></ref><ref id="pone.0014515-Holman1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holman</surname><given-names>HR</given-names></name><name><surname>Lorig</surname><given-names>KR</given-names></name></person-group>
+<year>2000</year>
+<article-title>Patients as partners in managing chronic disease. Partnership is a prerequisite for effective and efficient health care.</article-title>
+<source>BMJ</source>
+<volume>320</volume>
+<fpage>526</fpage>
+<lpage>527</lpage>
+<pub-id pub-id-type="pmid">10688539</pub-id></element-citation></ref><ref id="pone.0014515-Cretin1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cretin</surname><given-names>S</given-names></name><name><surname>Shortell</surname><given-names>SM</given-names></name><name><surname>Keeler</surname><given-names>EB</given-names></name></person-group>
+<year>2004</year>
+<article-title>An evaluation of collaborative interventions to improve chronic illness care. Framework and study design.</article-title>
+<source>Eval Rev</source>
+<volume>28</volume>
+<fpage>28</fpage>
+<lpage>51</lpage>
+<pub-id pub-id-type="pmid">14750290</pub-id></element-citation></ref><ref id="pone.0014515-Wiecha1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wiecha</surname><given-names>J</given-names></name><name><surname>Pollard</surname><given-names>T</given-names></name></person-group>
+<year>2004</year>
+<article-title>The interdisciplinary eHealth team: chronic care for the future.</article-title>
+<source>J Med Internet Res</source>
+<volume>6</volume>
+<issue>3</issue>
+<fpage>e22</fpage>
+<pub-id pub-id-type="pmid">15471748</pub-id></element-citation></ref><ref id="pone.0014515-Caceres1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Caceres</surname><given-names>C</given-names></name><name><surname>Gomez</surname><given-names>EJ</given-names></name><name><surname>Garcia</surname><given-names>F</given-names></name><name><surname>Chausa</surname><given-names>P</given-names></name><name><surname>Guzman</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>A Home Integral Telecare System for HIV/AIDS Patients. Stud Health Technol Inform.</article-title>
+<volume>2005 114</volume>
+<fpage>23</fpage>
+<lpage>29</lpage>
+</element-citation></ref><ref id="pone.0014515-Caceres2"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Caceres</surname><given-names>C</given-names></name><name><surname>Gomez</surname><given-names>EJ</given-names></name><name><surname>Garcia</surname><given-names>F</given-names></name><name><surname>Gatell</surname><given-names>JM</given-names></name><name><surname>del Pozo</surname><given-names>F</given-names></name></person-group>
+<year>2006</year>
+<article-title>An integral care telemedicine system for HIV/AIDS patients.</article-title>
+<source>Int J Med Inform</source>
+<volume>75</volume>
+<fpage>638</fpage>
+<lpage>642</lpage>
+<pub-id pub-id-type="pmid">16759900</pub-id></element-citation></ref><ref id="pone.0014515-Lima1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lima</surname><given-names>VD</given-names></name><name><surname>Harrigan</surname><given-names>R</given-names></name><name><surname>Murraya</surname><given-names>M</given-names></name><name><surname>Moore</surname><given-names>DM</given-names></name><name><surname>Wood</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Differential impact of adherence on long-term treatment response among na&#x000ef;ve HIV-infected individuals.</article-title>
+<source>AIDS</source>
+<volume>22</volume>
+<issue>17</issue>
+<fpage>2371</fpage>
+<lpage>2380</lpage>
+<pub-id pub-id-type="pmid">18981777</pub-id></element-citation></ref><ref id="pone.0014515-Sheehan1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sheehan</surname><given-names>DV</given-names></name><name><surname>Lecrubier</surname><given-names>Y</given-names></name><name><surname>Sheehan</surname><given-names>KH</given-names></name><name><surname>Amorim</surname><given-names>P</given-names></name><name><surname>Janavs</surname><given-names>J</given-names></name><etal/></person-group>
+<year>1998</year>
+<article-title>The MINI international Neuropsychiatric Interview (M.I.N.I.): The development and validation of a structured diagnostic psychiatric interview.</article-title>
+<source>J Clin Psychiatry</source>
+<volume>59</volume>
+<issue>Supl 20</issue>
+<fpage>22</fpage>
+<lpage>33</lpage>
+</element-citation></ref><ref id="pone.0014515-Trepanier1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Trepanier</surname><given-names>LL</given-names></name><name><surname>Rourke</surname><given-names>SB</given-names></name><name><surname>Bayoumi</surname><given-names>AM</given-names></name><name><surname>Halman</surname><given-names>MH</given-names></name><name><surname>Krzyzanowski</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>The impact of neuropsychological impairment and depression on health-related quality of life in HIV-infection.</article-title>
+<source>J Clin Exp Neuropsychol</source>
+<volume>27</volume>
+<fpage>1</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="pmid">15814439</pub-id></element-citation></ref><ref id="pone.0014515-Zigmond1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zigmond</surname><given-names>AS</given-names></name><name><surname>Snaith</surname><given-names>RP</given-names></name></person-group>
+<year>1983</year>
+<article-title>The Hospital Anxiety and Depression Scale.</article-title>
+<source>Acta Psychiatr Scand</source>
+<volume>67</volume>
+<issue>6</issue>
+<fpage>361</fpage>
+<lpage>370</lpage>
+<pub-id pub-id-type="pmid">6880820</pub-id></element-citation></ref><ref id="pone.0014515-Herrero1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Herrero</surname><given-names>MJ</given-names></name><name><surname>Blanch</surname><given-names>J</given-names></name><name><surname>Peri</surname><given-names>JM</given-names></name><name><surname>De Pablo</surname><given-names>J</given-names></name><name><surname>Pintor</surname><given-names>L</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>A validation study of the hospital anxiety and depression scale (HADS) in a Spanish population.</article-title>
+<source>Gen Hosp Psychiatry</source>
+<volume>25</volume>
+<issue>4</issue>
+<fpage>277</fpage>
+<lpage>283</lpage>
+<pub-id pub-id-type="pmid">12850660</pub-id></element-citation></ref><ref id="pone.0014515-Goldberg1"><label>38</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Goldberg</surname><given-names>DP</given-names></name></person-group>
+<year>1973</year>
+<article-title>The detection of psychiatric illness by questionnaire.</article-title>
+<source>Psychological Medicine</source>
+<volume>3</volume>
+<publisher-loc>London</publisher-loc>
+<publisher-name>Oxford University Press</publisher-name>
+<fpage>257</fpage>
+<lpage>257</lpage>
+<comment>1972</comment>
+</element-citation></ref><ref id="pone.0014515-Lobo1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lobo</surname><given-names>A</given-names></name><name><surname>P&#x000e9;rez- Echevarr&#x000ed;a</surname><given-names>MJ</given-names></name><name><surname>Jim&#x000e9;nez- Azn&#x000e1;rez</surname><given-names>A</given-names></name><name><surname>Sancho</surname><given-names>MA</given-names></name><etal/></person-group>
+<year>1988</year>
+<article-title>Emotional disturbances in endocrine patients. Validity of the scaled version of the General Health Questionnaire (GHQ-28).</article-title>
+<source>J Psych</source>
+<volume>152</volume>
+<fpage>807</fpage>
+<lpage>812</lpage>
+</element-citation></ref><ref id="pone.0014515-Derogatis1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Derogatis</surname><given-names>LR</given-names></name></person-group>
+<year>1986</year>
+<article-title>The psychosocial adjustment to illness.</article-title>
+<source>Journal of Psychosomatic Research</source>
+<volume>30</volume>
+<issue>1</issue>
+<fpage>77</fpage>
+<lpage>91</lpage>
+<pub-id pub-id-type="pmid">3701670</pub-id></element-citation></ref><ref id="pone.0014515-Duong1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duong</surname><given-names>M</given-names></name><name><surname>Piroth</surname><given-names>L</given-names></name><name><surname>Peytavin</surname><given-names>G</given-names></name><name><surname>Forte</surname><given-names>F</given-names></name><name><surname>Kohli</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Value of patient self-report and plasma human immunodeficiency virus protease inhibitor level as markers of adherence to antiretroviral therapy: relationship to virologic response.</article-title>
+<source>Clin Infect Dis</source>
+<volume>33</volume>
+<fpage>386</fpage>
+<lpage>392</lpage>
+<pub-id pub-id-type="pmid">11438909</pub-id></element-citation></ref><ref id="pone.0014515-Martin3"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>M</given-names></name><name><surname>Del Cacho</surname><given-names>E</given-names></name><name><surname>Codina</surname><given-names>C</given-names></name><name><surname>Tuset</surname><given-names>M</given-names></name><name><surname>De Lazzari</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Relationship between Adherence Level, Type of the Antiretroviral Regimen, and Plasma HIV Type 1 RNA Viral Load: A Prospective Cohort Study.</article-title>
+<source>AIDS Research and Human Retroviruses</source>
+<volume>24</volume>
+<issue>10</issue>
+<fpage>1263</fpage>
+<lpage>1268</lpage>
+<pub-id pub-id-type="pmid">18834323</pub-id></element-citation></ref><ref id="pone.0014515-Lima2"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lima</surname><given-names>VD</given-names></name><name><surname>Harrigan</surname><given-names>R</given-names></name><name><surname>Murraya</surname><given-names>M</given-names></name><name><surname>Moore</surname><given-names>DM</given-names></name><name><surname>Wood</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Differential impact of adherence on long-term treatment response among na&#x000ef;ve HIV-infected individuals.</article-title>
+<source>AIDS</source>
+<volume>22</volume>
+<fpage>2371</fpage>
+<lpage>2380</lpage>
+<pub-id pub-id-type="pmid">18981777</pub-id></element-citation></ref><ref id="pone.0014515-Maggiolo1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maggiolo</surname><given-names>F</given-names></name><name><surname>Ravasio</surname><given-names>L</given-names></name><name><surname>Ripamonti</surname><given-names>D</given-names></name><name><surname>Gregis</surname><given-names>G</given-names></name><name><surname>Quinzan</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Similar Adherence Rates Favor Different Virologic Outcomes for Patients Treated with Nonnucleoside Analogues or Protease Inhibitors.</article-title>
+<source>Clinical Infectious Diseases</source>
+<volume>40</volume>
+<fpage>158</fpage>
+<lpage>63</lpage>
+<pub-id pub-id-type="pmid">15614706</pub-id></element-citation></ref><ref id="pone.0014515-Kiviat1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kiviat</surname><given-names>AD</given-names></name><name><surname>Geary</surname><given-names>MC</given-names></name><name><surname>Sunpath</surname><given-names>H</given-names></name><name><surname>Moosa</surname><given-names>MY</given-names></name><name><surname>Wilson</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>HIV Online Provider Education (HOPE): the internet as a tool for training in HIV medicine.</article-title>
+<source>J Infect Dis</source>
+<volume>196</volume>
+<issue>Suppl 3</issue>
+<fpage>S512</fpage>
+<lpage>5</lpage>
+<pub-id pub-id-type="pmid">18181703</pub-id></element-citation></ref><ref id="pone.0014515-McKee1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McKee</surname><given-names>MB</given-names></name><name><surname>Picciano</surname><given-names>JF</given-names></name><name><surname>Roffman</surname><given-names>RA</given-names></name><name><surname>Swanson</surname><given-names>F</given-names></name><name><surname>Kalichman</surname><given-names>SC</given-names></name></person-group>
+<year>2006</year>
+<article-title>Marketing the &#x0201c;Sex Check&#x0201d;: evaluating recruitment strategies for a telephone-based HIV prevention project for gay and bisexual men.</article-title>
+<source>AIDS Educ Prev</source>
+<volume>18</volume>
+<issue>2</issue>
+<fpage>116</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="pmid">16649957</pub-id></element-citation></ref><ref id="pone.0014515-Mahoney1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mahoney</surname><given-names>MR</given-names></name><name><surname>Khamarko</surname><given-names>K</given-names></name><name><surname>Goldschmidt</surname><given-names>RH</given-names></name></person-group>
+<year>2008</year>
+<article-title>Care of HIV-infected Latinos in the United States: a description of calls to the national HIV/AIDS Clinicians' Consultation Center.</article-title>
+<source>J Assoc Nurses AIDS Care</source>
+<volume>19</volume>
+<issue>4</issue>
+<fpage>302</fpage>
+<lpage>10</lpage>
+<pub-id pub-id-type="pmid">18598905</pub-id></element-citation></ref><ref id="pone.0014515-Goldschmidt1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goldschmidt</surname><given-names>RH</given-names></name><name><surname>Graves</surname><given-names>DW</given-names></name></person-group>
+<year>2003</year>
+<article-title>The National HIV Telephone Consultation Service (Warmline): a clinical resource for physicians caring for African-Americans.</article-title>
+<source>J Natl Med Assoc</source>
+<volume>95</volume>
+<issue>2 Suppl 2</issue>
+<fpage>8S</fpage>
+<lpage>11S</lpage>
+<pub-id pub-id-type="pmid">12656427</pub-id></element-citation></ref><ref id="pone.0014515-Dunbar1"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dunbar</surname><given-names>PJ</given-names></name><name><surname>Madigan</surname><given-names>D</given-names></name><name><surname>Grohskopf</surname><given-names>LA</given-names></name><name><surname>Revere</surname><given-names>D</given-names></name><name><surname>Woodward</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>A two-way messaging system to enhance antiretroviral adherence.</article-title>
+<source>J Am Med Inform Assoc</source>
+<volume>10</volume>
+<issue>1</issue>
+<fpage>11</fpage>
+<lpage>5</lpage>
+<pub-id pub-id-type="pmid">12509353</pub-id></element-citation></ref><ref id="pone.0014515-Besch1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Besch</surname><given-names>Cl</given-names></name></person-group>
+<year>2007</year>
+<article-title>Telemedicine improves access to care for HIV-infected prisoners.</article-title>
+<source>HIV Clin</source>
+<volume>19</volume>
+<issue>1</issue>
+<fpage>4</fpage>
+<lpage>5</lpage>
+</element-citation></ref><ref id="pone.0014515-LLibre1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>LLibre</surname><given-names>JM</given-names></name><name><surname>Domingo</surname><given-names>P</given-names></name><name><surname>Del Pozo</surname><given-names>MA</given-names></name><name><surname>Miralles</surname><given-names>C</given-names></name><name><surname>Galindo</surname><given-names>MJ</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Long-distance interactive expert advice in highly treatment-experienced HIV-infected patients.</article-title>
+<source>J Antimicrob Chemother</source>
+<volume>61</volume>
+<issue>1</issue>
+<fpage>206</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="pmid">17999972</pub-id></element-citation></ref><ref id="pone.0014515-Malacarne1"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malacarne</surname><given-names>M</given-names></name><name><surname>Cargnel</surname><given-names>A</given-names></name><name><surname>Lucici</surname><given-names>D</given-names></name><name><surname>Pizzinelli</surname><given-names>P</given-names></name><name><surname>Porta</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Feasibility of assessing autonomic dysregulation at a distance: the case of the HIV-positive patient.</article-title>
+<source>Telemed J E Health</source>
+<volume>13</volume>
+<issue>5</issue>
+<fpage>557</fpage>
+<lpage>563</lpage>
+<pub-id pub-id-type="pmid">17999617</pub-id></element-citation></ref><ref id="pone.0014515-Vidrine1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vidrine</surname><given-names>DJ</given-names></name><name><surname>Arduino</surname><given-names>RC</given-names></name><name><surname>Lazev</surname><given-names>AB</given-names></name><name><surname>Gritz</surname><given-names>ER</given-names></name></person-group>
+<year>2006</year>
+<article-title>A randomized trial of a proactive cellular telephone intervention for smokers living with HIV/AIDS.</article-title>
+<source>AIDS</source>
+<volume>20</volume>
+<issue>2</issue>
+<fpage>253</fpage>
+<lpage>60</lpage>
+<pub-id pub-id-type="pmid">16511419</pub-id></element-citation></ref><ref id="pone.0014515-Status1"><label>54</label><element-citation publication-type="other">
+<article-title>Status of the global HIV epidemic 2008 UNAIDS Global AIDS Epidemic Report.</article-title>
+<comment>Available: <ext-link ext-link-type="uri" xlink:href="http://www.unaids.org/globalreport/default.htm">http://www.unaids.org/globalreport/default.htm</ext-link>.</comment>
+</element-citation></ref></ref-list></back></article>

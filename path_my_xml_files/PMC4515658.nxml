@@ -1,0 +1,602 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Environ Res Public Health</journal-id><journal-id journal-id-type="iso-abbrev">Int J Environ Res Public Health</journal-id><journal-id journal-id-type="publisher-id">ijerph</journal-id><journal-title-group><journal-title>International Journal of Environmental Research and Public Health</journal-title></journal-title-group><issn pub-type="ppub">1661-7827</issn><issn pub-type="epub">1660-4601</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26133125</article-id><article-id pub-id-type="pmc">4515658</article-id><article-id pub-id-type="doi">10.3390/ijerph120707321</article-id><article-id pub-id-type="publisher-id">ijerph-12-07321</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Effects of the Visual Exercise Environments on Cognitive Directed Attention, Energy Expenditure and Perceived Exertion</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Rogerson</surname><given-names>Mike</given-names></name><xref ref-type="author-notes" rid="fn1-ijerph-12-07321">&#x02020;</xref><xref rid="c1-ijerph-12-07321" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Barton</surname><given-names>Jo</given-names></name><xref ref-type="author-notes" rid="fn1-ijerph-12-07321">&#x02020;</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Tchounwou</surname><given-names>Paul B.</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-ijerph-12-07321">Centre for Sports and Exercise Science, School of Biological Sciences, University of Essex, Wivenhoe Park, Colchester, Essex, CO4 3SQ, UK</aff><author-notes><fn id="fn1-ijerph-12-07321"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn><corresp id="c1-ijerph-12-07321"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>mrogerp@essex.ac.uk</email>; Tel.: +44-750-6716-770.</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2015</year></pub-date><volume>12</volume><issue>7</issue><fpage>7321</fpage><lpage>7336</lpage><history><date date-type="received"><day>31</day><month>5</month><year>2015</year></date><date date-type="accepted"><day>25</day><month>6</month><year>2015</year></date></history><permissions><copyright-statement>&#x000a9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2015</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Green exercise research often reports psychological health outcomes without rigorously controlling exercise. This study examines effects of visual exercise environments on directed attention, perceived exertion and time to exhaustion, whilst measuring and controlling the exercise component. Participants completed three experimental conditions in a randomized counterbalanced order. Conditions varied by video content viewed (nature; built; control) during two consistently-ordered exercise bouts (Exercise 1: 60% VO2peakInt for 15-mins; Exercise 2: 85% VO2peakInt to voluntary exhaustion). In each condition, participants completed modified Backwards Digit Span tests (a measure of directed attention) pre- and post-Exercise 1. Energy expenditure, respiratory exchange ratio and perceived exertion were measured during both exercise bouts. Time to exhaustion in Exercise 2 was also recorded. There was a significant time by condition interaction for Backwards Digit Span scores (F<sub>2,22</sub> = 6.267, <italic>p</italic> = 0.007). Scores significantly improved in the nature condition (<italic>p</italic> &#x0003c; 0.001) but did not in the built or control conditions. There were no significant differences between conditions for either perceived exertion or physiological measures during either Exercise 1 or Exercise 2, or for time to exhaustion in Exercise 2. This was the first study to demonstrate effects of controlled exercise conducted in different visual environments on post-exercise directed attention. Via psychological mechanisms alone, visual nature facilitates attention restoration during moderate-intensity exercise.</p></abstract><kwd-group><kwd>green exercise</kwd><kwd>cognitive functioning</kwd><kwd>wellbeing</kwd><kwd>directed attention</kwd><kwd>exercise environments</kwd><kwd>perceived exertion</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>Green exercise is defined as engaging in &#x02018;physical activities whilst being directly exposed to nature&#x02019; [<xref rid="B1-ijerph-12-07321" ref-type="bibr">1</xref>]. Green exercise research has adopted three different approaches for comparing both physiological and psychological exercise outcomes. Some research compares outcomes of built- <italic>vs.</italic> nature-based outdoor exercise [<xref rid="B2-ijerph-12-07321" ref-type="bibr">2</xref>,<xref rid="B3-ijerph-12-07321" ref-type="bibr">3</xref>,<xref rid="B4-ijerph-12-07321" ref-type="bibr">4</xref>,<xref rid="B5-ijerph-12-07321" ref-type="bibr">5</xref>,<xref rid="B6-ijerph-12-07321" ref-type="bibr">6</xref>]. Other research compares outcomes of indoor exercise to those of outdoor exercise [<xref rid="B7-ijerph-12-07321" ref-type="bibr">7</xref>,<xref rid="B8-ijerph-12-07321" ref-type="bibr">8</xref>,<xref rid="B9-ijerph-12-07321" ref-type="bibr">9</xref>]. A third approach uses ergometers within laboratory settings to control the exercise performed and examine the importance of the visual exercise-environment [<xref rid="B1-ijerph-12-07321" ref-type="bibr">1</xref>,<xref rid="B10-ijerph-12-07321" ref-type="bibr">10</xref>,<xref rid="B11-ijerph-12-07321" ref-type="bibr">11</xref>]. Collectively, compared to non-green exercise, green exercise improves psychological measures such as mood, self-esteem and vitality [<xref rid="B7-ijerph-12-07321" ref-type="bibr">7</xref>,<xref rid="B8-ijerph-12-07321" ref-type="bibr">8</xref>,<xref rid="B9-ijerph-12-07321" ref-type="bibr">9</xref>,<xref rid="B10-ijerph-12-07321" ref-type="bibr">10</xref>,<xref rid="B11-ijerph-12-07321" ref-type="bibr">11</xref>,<xref rid="B12-ijerph-12-07321" ref-type="bibr">12</xref>], and physiological markers such as blood pressure and heart rate variability (HRV) [<xref rid="B1-ijerph-12-07321" ref-type="bibr">1</xref>,<xref rid="B2-ijerph-12-07321" ref-type="bibr">2</xref>,<xref rid="B3-ijerph-12-07321" ref-type="bibr">3</xref>,<xref rid="B4-ijerph-12-07321" ref-type="bibr">4</xref>]. However, some conflicting findings suggest that influences of exercise-environments on psychological outcomes may be overstated [<xref rid="B13-ijerph-12-07321" ref-type="bibr">13</xref>], and findings in adult samples have not been mirrored in adolescent samples [<xref rid="B11-ijerph-12-07321" ref-type="bibr">11</xref>]. Additionally, often convenience methodologies used do not decipher relative contributions of the respective exercise and environment components [<xref rid="B14-ijerph-12-07321" ref-type="bibr">14</xref>,<xref rid="B15-ijerph-12-07321" ref-type="bibr">15</xref>].</p><p>&#x0201c;Directed attention&#x0201d; is another psychological outcome that can be influenced by exercise-environment selection [<xref rid="B5-ijerph-12-07321" ref-type="bibr">5</xref>,<xref rid="B6-ijerph-12-07321" ref-type="bibr">6</xref>]. Directed attention is the effortful cognitive ability to avoid being distracted by competing stimuli [<xref rid="B16-ijerph-12-07321" ref-type="bibr">16</xref>,<xref rid="B17-ijerph-12-07321" ref-type="bibr">17</xref>]. Brain regions associated with processes of mental effort, attention and mediation of cognitive control can fatigue over time [<xref rid="B16-ijerph-12-07321" ref-type="bibr">16</xref>]. This depletion of directed attention is termed directed attention fatigue. Using involuntary attention&#x02014;that which does not involve mental effort [<xref rid="B5-ijerph-12-07321" ref-type="bibr">5</xref>,<xref rid="B18-ijerph-12-07321" ref-type="bibr">18</xref>], decreases use of directed attention. This provides opportunity for restoration of depleted attentional resources [<xref rid="B16-ijerph-12-07321" ref-type="bibr">16</xref>].</p><p>Transient hypofrontality [<xref rid="B19-ijerph-12-07321" ref-type="bibr">19</xref>,<xref rid="B20-ijerph-12-07321" ref-type="bibr">20</xref>,<xref rid="B21-ijerph-12-07321" ref-type="bibr">21</xref>] posits a pathway linking exercise with attention restoration. Prefrontal cortex activation is associated with processes of directed attention [<xref rid="B22-ijerph-12-07321" ref-type="bibr">22</xref>,<xref rid="B23-ijerph-12-07321" ref-type="bibr">23</xref>,<xref rid="B24-ijerph-12-07321" ref-type="bibr">24</xref>,<xref rid="B25-ijerph-12-07321" ref-type="bibr">25</xref>]. Exercise facilitates prefrontal cortex restoration via transient hypofrontality [<xref rid="B19-ijerph-12-07321" ref-type="bibr">19</xref>,<xref rid="B20-ijerph-12-07321" ref-type="bibr">20</xref>,<xref rid="B21-ijerph-12-07321" ref-type="bibr">21</xref>], that is, decreases in prefrontal cortex activity that occur in conjunction with increased motor cortex activity. <italic>During</italic> exercise, this decreased prefrontal cortex activity may be detrimental to cognitive performance [<xref rid="B20-ijerph-12-07321" ref-type="bibr">20</xref>,<xref rid="B26-ijerph-12-07321" ref-type="bibr">26</xref>]. However, <italic>following</italic> prolonged opportunity for prefrontal cortex restoration, transient hypofrontality improves post-exercise executive functioning and cognitive performance [<xref rid="B27-ijerph-12-07321" ref-type="bibr">27</xref>,<xref rid="B28-ijerph-12-07321" ref-type="bibr">28</xref>]. </p><p>Disparate to exercise-related mechanisms, attention restoration theory proposes that visual characteristics of natural environments promote involuntary attention and facilitate restoration of directed attention capacity and affective states [<xref rid="B18-ijerph-12-07321" ref-type="bibr">18</xref>,<xref rid="B29-ijerph-12-07321" ref-type="bibr">29</xref>,<xref rid="B30-ijerph-12-07321" ref-type="bibr">30</xref>]. Spending an hour at rest in an outdoor garden facilitates directed attention improvements in elderly individuals, compared to equivalent rest in a favorite indoor room [<xref rid="B31-ijerph-12-07321" ref-type="bibr">31</xref>]. Viewing photographs of nature environments improves directed attention-related task performance, whereas viewing urban environments does not [<xref rid="B32-ijerph-12-07321" ref-type="bibr">32</xref>]. Within workplace settings, &#x0201c;micro-restorative experiences&#x0201d; provided by views of nature through a window or the presence of plants indoors can reduce directed attention fatigue [<xref rid="B33-ijerph-12-07321" ref-type="bibr">33</xref>,<xref rid="B34-ijerph-12-07321" ref-type="bibr">34</xref>].</p><p>Green exercise promotes a greater psychological engagement with nature than does viewing nature [<xref rid="B35-ijerph-12-07321" ref-type="bibr">35</xref>]. Greater immersion may elicit a fuller experience and greater responses to nature environments [<xref rid="B36-ijerph-12-07321" ref-type="bibr">36</xref>]. Such a role of immersion suggests that green exercise might provide greater scope for attention restoration than either micro-restorative experiences or time spent at rest in nature environments. Additionally, the disparate influences of exercise and of nature environments may positively interact in a manner that further promotes attention restoration. Directed attention improves following a walk in nature environments but not after an equivalent walk around more built routes [<xref rid="B5-ijerph-12-07321" ref-type="bibr">5</xref>,<xref rid="B6-ijerph-12-07321" ref-type="bibr">6</xref>]. However, the variable of social presence of others was not controlled in this research. Additionally, although Hartig <italic>et al.</italic> [<xref rid="B6-ijerph-12-07321" ref-type="bibr">6</xref>] attempted to control exercise intensity via researchers leading participants in order to maintain a slow walking pace with stops at specified locations on route, exercise intensity (defined as the total or rate of energy expenditure during exercise [<xref rid="B37-ijerph-12-07321" ref-type="bibr">37</xref>,<xref rid="B38-ijerph-12-07321" ref-type="bibr">38</xref>]) was not rigorously controlled in these studies. This is important because intensity influences psychological outcomes of exercise including cognitive performance [<xref rid="B39-ijerph-12-07321" ref-type="bibr">39</xref>,<xref rid="B40-ijerph-12-07321" ref-type="bibr">40</xref>,<xref rid="B41-ijerph-12-07321" ref-type="bibr">41</xref>,<xref rid="B42-ijerph-12-07321" ref-type="bibr">42</xref>].</p><p>Exercise environment also influences perceived exertion (how hard one feels that they are physically working during activity; measured by Rated Perceived Exertion scale [<xref rid="B43-ijerph-12-07321" ref-type="bibr">43</xref>,<xref rid="B44-ijerph-12-07321" ref-type="bibr">44</xref>,<xref rid="B45-ijerph-12-07321" ref-type="bibr">45</xref>]). This is one possible pathway via which a lack of control of the exercise component can promote problematic differences in exercise intensity between experimental conditions. When exercising at an instructed perceived exertion, individuals work harder (measured by speed, heart rate and blood lactate concentration) during outdoor exercise than during indoor treadmill exercise [<xref rid="B46-ijerph-12-07321" ref-type="bibr">46</xref>]. Concurrently, during self-paced exercise individuals walk faster and work harder (measured by heart rate) yet report lower perceived exertion during outdoor walking compared to indoor treadmill walking [<xref rid="B7-ijerph-12-07321" ref-type="bibr">7</xref>]. These findings are concurrent with the notion that synthetic environments demand greater directed attention processing [<xref rid="B18-ijerph-12-07321" ref-type="bibr">18</xref>,<xref rid="B29-ijerph-12-07321" ref-type="bibr">29</xref>,<xref rid="B30-ijerph-12-07321" ref-type="bibr">30</xref>,<xref rid="B47-ijerph-12-07321" ref-type="bibr">47</xref>], as cognitive fatigue promotes greater perceived exertion and impairs performance of exhaustive exercise [<xref rid="B48-ijerph-12-07321" ref-type="bibr">48</xref>]. However, biomechanical and climatic differences between indoor and outdoor exercise are not controlled within these research designs, therefore origins of reported effects are unclear [<xref rid="B7-ijerph-12-07321" ref-type="bibr">7</xref>,<xref rid="B46-ijerph-12-07321" ref-type="bibr">46</xref>]. The color of visual environment is important to perceived exertion during exercise. Individuals report significantly lower perceived exertion during cycling exercise whilst viewing a nature-scene video, compared to cycling whilst viewing either achromatic or red-filter versions of the same video [<xref rid="B10-ijerph-12-07321" ref-type="bibr">10</xref>]. However, it is not known how perceived exertion varies with different visual exercise-environment <italic>types</italic> during controlled exercise. </p><p>Lacking control of the exercise component in these studies is also problematic for understanding the origins of reported influences on <italic>physiological</italic> outcomes. It is reported that walking in nature environments promotes lower post-exercise heart rate, greater HRV, lower blood pressure and lower sympathetic nerve activity than equivalent walks in built environments [<xref rid="B4-ijerph-12-07321" ref-type="bibr">4</xref>,<xref rid="B49-ijerph-12-07321" ref-type="bibr">49</xref>,<xref rid="B50-ijerph-12-07321" ref-type="bibr">50</xref>]. Environment-associated differences in physiology as measured during exposure have also been reported [<xref rid="B4-ijerph-12-07321" ref-type="bibr">4</xref>]. However, uncontrolled exercise intensity means that findings from these studies cannot be confidently attributed to environment alone. Physiological effects of environment are yet to be demonstrated during controlled exercise. Heart rate, VO<sub>2</sub> and respiratory exchange ratio are not significantly influenced by color properties of visual exercise environment during controlled cycling exercise [<xref rid="B10-ijerph-12-07321" ref-type="bibr">10</xref>]. However, influences of holistic visual exercise-environments on directed attention have not been examined during controlled exercise. </p><p>The design of the current study enables examination of the reported influence of exercise-environment on perceived exertion [<xref rid="B7-ijerph-12-07321" ref-type="bibr">7</xref>,<xref rid="B10-ijerph-12-07321" ref-type="bibr">10</xref>,<xref rid="B46-ijerph-12-07321" ref-type="bibr">46</xref>]. Biological links between subjective sensations of effort and exercise-related physiology comprise a mechanism by which perceived exertion contributes to limiting of exercise performance [<xref rid="B51-ijerph-12-07321" ref-type="bibr">51</xref>,<xref rid="B52-ijerph-12-07321" ref-type="bibr">52</xref>]. Perceived exertion is strongly related to individuals&#x02019; time to exhaustion during high-intensity exercise [<xref rid="B53-ijerph-12-07321" ref-type="bibr">53</xref>]. The current study examines whether visual exercise-environment influences perceived exertion and time to voluntary exhaustion during high-intensity exercise.</p><p>The current study measured pre- to post-exercise changes in directed attention in three conditions: a nature condition, a built condition and a control condition. Energy expenditure, respiratory exchange ratio and heart rate were measured to ensure: (i) comparability of the exercise component between conditions; (ii) identification of physiological effects of visual environments <italic>during</italic> exercise, and (iii) impacts of physiological differences on changes in cognitive function. The primary hypothesis is that (i) directed attention will improve more after a 15-mins exercise bout whilst viewing video footage of a nature environment, compared to footage of a built environment or viewing a blank screen (control). Secondary hypotheses include (ii) during a steady-state 15-mins exercise bout there will be no significant differences in participants&#x02019; energy expenditure, respiratory exchange ratio and heart rate between conditions; (iii) perceived exertion will be lower and time to exhaustion will be longer in the nature condition than in a built condition or control condition.</p></sec><sec><title>2. Methods </title><sec sec-type="subjects"><title>2.1. Participants</title><p>Twelve healthy adult participants (6 male, 6 female; age 27.8 &#x000b1; 5.5 years; stature 173.4 &#x000b1; 11.9 cm; mass 65.4 &#x000b1; 10.5 kg) were recruited via oral and written advertisements, from student and staff populations at the University of Essex. Participants were instructed to avoid alcohol, caffeine and strenuous exercise within 24-hours prior to each test occasion, and to maintain usual lifestyle and exercise routines throughout their participation. Participants provided written informed consent. Ethical approval for this study was obtained from the School Ethics Committee.</p></sec><sec><title>2.2. Design </title><p>A within-subjects design was used. Participants completed a Bruce treadmill protocol [<xref rid="B54-ijerph-12-07321" ref-type="bibr">54</xref>,<xref rid="B55-ijerph-12-07321" ref-type="bibr">55</xref>] on the first of four test occasions. Participants then completed three experimental test occasions in a randomized, counter-balanced order. Time of day was consistent between occasions (within 2-hours) and occasions were a minimum of 7-days apart, to avoid fatigue effects. Average time between conditions was 13-days. Maximum time between conditions was 25-days.</p><p>Experimental test occasions differed only by the video-footage displayed on a screen during exercise. In the nature condition, the video consisted of scenes extracted from &#x0201c;Evening Run through Endless Forest&#x0201d;. In the built condition, the video consisted of scenes extracted from the &#x0201c;Boston Marathon Route&#x0201d; (this footage follows the marathon route but is not filmed in the context of the Boston marathon; both videos produced by Outside Interactive, Hopkinton, MA, USA). The speed of movement was consistent (9.62 km/h) between videos, to avoid confounding variations in pacing-deception and optical flow. To ensure that participants&#x02019; semantic associations with the city of Boston or the Boston marathon were not a confounding influence; participants were asked whether they recognized the place in the footage. No participants recognized the place. In order to reduce potential social influences, footage was edited to minimize presence of others. For the video footage of the built condition, scenes from the &#x0201c;Boston Marathon Route&#x0201d; video during which the route moves through areas outside of the city center, which are of greater greenery, were not included in the footage used. However, some elements of greenery were present in the footage used; for example, trees lining pavements in the city area. The footage used both provided contrast between built and nature conditions and avoided potential confounding influences of large quantities of greenery in both the built condition and the nature condition. The presence of some but little greenery is typical of modern urbanized city areas, thus maintaining the ecological validity of the current study. In the control condition, no video footage was displayed on the screen. That is, participants viewed a blank white screen. The video footage did not include auditory sound, so to isolate the independent variable of visual environmental stimuli.</p></sec><sec sec-type="methods"><title>2.3. Procedures </title><sec><title>2.3.1. First Test Occasion</title><p>Participants completed Physical Activity Readiness Questionnaire and Informed Consent documents and were briefed on the session&#x02019;s content. Resting blood pressure was then measured in the seated position (using an automatic blood pressure unit; MX3 Plus; Omron, Illinois, USA). Participants were then familiarized and fitted with a heart rate monitor (FR-70 Garmin, Olathe, USA) and portable gas analyzer (K4b<sup>2</sup>: Cosmed, Rome, Italy).</p><p>Participants completed a 5-min warm-up which consisted of a 2:30-mins treadmill walk (JW200 Power jog, Sport Engineering Ltd, Birmingham, UK) at a self-selected speed to reflect 50% of perceived maximum effort; followed by a set of stretching exercises as directed by computer presentation (participants were instructed to stretch to an extent that they felt to be at &#x0201c;8 out of 10&#x0201d; in relation to their maximum).</p><p>Participants then performed a Bruce treadmill protocol to exhaustion. This was to identify an intensity (speed and gradient) that elicited participants&#x02019; VO<sub>2</sub>peak (VO<sub>2</sub>peakInt), for application in the experimental protocols. The treadmill&#x02019;s display screen was covered throughout the study, in order to prevent subjects from viewing intensity, distance and time information.</p></sec><sec><title>2.3.2. Experimental Conditions</title><p>Participants&#x02019; blood pressure was measured; they were briefed regarding the session&#x02019;s content, and fitted with heart rate and portable gas analysis equipment. Next, participants performed a set 5-min warm-up consisting of a 2:30-mins treadmill exercise&#x02014;at 50% VO<sub>2</sub>peakInt, followed by the same set of stretching routine as in the first test occasion. </p><p>Participants sat at a desk and completed a directed attention-reducing battery in order to utilise and thereby reduce their remaining directed attentional capacity, followed by a Backwards Digit Span test. During both the directed attention-reducing battery and the Backwards Digit Span test, the mask of the portable gas analyser was worn loosely around the neck.</p><p>Participants then completed a 15-min bout of exercise on the treadmill, at 60% VO<sub>2</sub>peakInt (Exercise 1). Participants were instructed to engage with the content of the videos during the exercise. Perceived exertion was measured at 4:30-, 9:30-, and 14:30-mins. </p><p>Participants then completed a second Backwards Digit Span test. The warm-up was completed before the directed attention-reducing battery in order to enable the pre- and post-Exercise 1 Backwards Digit Span tests to occur directly before and after the main manipulation of the study&#x02014;viewing different environmental scenes during a 15-min exercise bout. This was to ensure that differences between conditions in participants&#x02019; lived experiences of the warm-up did not influence performance on post-Exercise 1 Backwards Digit Span tests. </p><p>Participants then returned to the treadmill to complete a second exercise bout (Exercise 2). Intensity of Exercise 2 was 85% VO<sub>2</sub>peakInt and participants were instructed to run to voluntary exhaustion. Perceived exertion was measured at 2-min intervals. Time to exhaustion for Exercise 2 was also recorded. As variation in participants&#x02019; time to exhaustion may have served as a confounding influence between conditions, no Backwards Digit Span tests were completed following Exercise 2.</p></sec></sec><sec><title>2.4. Measures </title><sec><title>2.4.1. Directed Attention-Reducing Battery </title><p>Two tasks (Subtraction of Serial Sevens Test and spelling words backwards) modified from the Mini Mental State Examination [<xref rid="B56-ijerph-12-07321" ref-type="bibr">56</xref>] were completed to utilize and deplete participants&#x02019; directed attention. Multiple variations were used in order to comprise a 5-min directed attention-reducing battery. For Subtraction of Serial Sevens Test, participants were asked to verbally subtract seven from a randomly generated number between 100 and 999. They continued verbally counting down until reaching six or less before restarting with another number, for 2:30-mins. For spelling words backwards, participants were instructed to listen to the experimenter read and then spell (forwards) an 8-letter word, before attempting to verbally spell that word in reverse. Each word was used only once, to avoid learning effects. This process continued for 2:30-mins.</p></sec><sec><title>2.4.2. Backwards Digit Span Test (Modified)</title><p>The Backwards Digit Span test [<xref rid="B57-ijerph-12-07321" ref-type="bibr">57</xref>] requires attentional effort to mentally hold, track and rearrange items within the short-term memory [<xref rid="B5-ijerph-12-07321" ref-type="bibr">5</xref>,<xref rid="B58-ijerph-12-07321" ref-type="bibr">58</xref>]. It has frequently been used as a measure of directed attention [<xref rid="B5-ijerph-12-07321" ref-type="bibr">5</xref>,<xref rid="B16-ijerph-12-07321" ref-type="bibr">16</xref>,<xref rid="B59-ijerph-12-07321" ref-type="bibr">59</xref>,<xref rid="B60-ijerph-12-07321" ref-type="bibr">60</xref>,<xref rid="B61-ijerph-12-07321" ref-type="bibr">61</xref>].</p><p>Backwards Digit Span testing often requires participants to listen to strings of numbers before attempting to verbally recite them in reverse order [<xref rid="B5-ijerph-12-07321" ref-type="bibr">5</xref>]. In the current study, participants viewed number strings displayed on a computer screen before writing their answers by hand when prompted; ensuring consistency with the experiment&#x02019;s focus on the sense of vision. For each string, numbers were presented serially on the screen, for one second each. Rules were instructed to the participants both on the screen and verbally by the experimenter, at the start of each test. These were: do not write anything down until prompted to by the screen; when you are writing down your answer, you must physically write in the direction of from left to right; do not mouth the numbers at all, at any time; if you cannot remember, please make the best guess that you can. The experimenter was positioned in order to view the screen, the participant and the answer sheet, to ensure that participants adhered to the given rules.</p><p>In a standard Backwards Digit Span test, the length of the number-string increases by 1 and continues until participants fail two consecutive attempts at reciting strings of a given length&#x02014;generating a score in relation to the maximum string-length successfully recited [<xref rid="B57-ijerph-12-07321" ref-type="bibr">57</xref>]. Participants attempted to recite nine number-strings which were 3&#x02013;11 digits in length, increasing with order, via a programmed computer-based presentation. The set duration of each Backwards Digit Span test ensured consistency of time between the Exercise 1 and Exercise 2, between participants and conditions. </p></sec><sec><title>2.4.3. Respiratory Exchange Ratio </title><p>Respiratory exchange ratio is calculated as = VCO<sub>2</sub>/VO<sub>2</sub> and gives an indication of the energy source being utilized by the working tissues of the body. Respiratory exchange ratio values above 1.1 can be used as an endpoint criterion during VO<sub>2</sub>max and VO<sub>2</sub>peak tests [<xref rid="B62-ijerph-12-07321" ref-type="bibr">62</xref>].</p></sec></sec><sec><title>2.5. Data Treatment </title><p>The shortest recorded time to exhaustion for Exercise 2 was 4:47-mins. Therefore, to ensure comparability of data both between participants and between conditions, for Exercise 2, only the initial 4:47-mins of physiology data (energy expenditure, respiratory exchange ratio, and heart rate) were analyzed. Heart rate data for two participants was excluded from analysis due to equipment failure.</p></sec><sec><title>2.6. Statistical Analysis </title><p>IBM SPSS Statistics for Windows, version 19 [<xref rid="B63-ijerph-12-07321" ref-type="bibr">63</xref>] was used for statistical analyses. One-way repeated-measures ANOVAs were performed to check for differences in: (i) pre-exercise Backwards Digit Span test scores between conditions; (ii) mean heart rate values between conditions during Exercise 1 and Exercise 2; (iii) perceived exertion at each of three time points (4:30-mins, 9:30-mins, 14:30-mins); and (iv) time to exhaustion during Exercise 2. A two-way repeated measures ANOVA was performed on Backwards Digit Span test scores in order to identify any time-by-condition interaction effect. As energy expenditure and respiratory exchange ratio are directly related variables, one-way repeated measures MANOVAs were used to analyze these variables for each of Exercise 1 and Exercise 2. Although heart rate is also a related physiological variable, this was analyzed separately in order to maintain a sample of 12 for the variables of energy expenditure and respiratory exchange ratio. An alpha level of 0.05 was used to indicate statistical significance.</p></sec></sec><sec><title>3. Results</title><sec><title>3.1. Backwards Digit Span Test Scores</title><p>Results of a one-way repeated measures ANOVA indicated no significant effect for condition on pre-exercise Backwards Digit Span test scores (<italic>p</italic> = 0.290). A two-way repeated measures ANOVA indicated a significant interaction effect for time by condition (F<sub>2,22</sub> = 6.267, <italic>p</italic> = 0.007, &#x003b7;p<sup>2</sup> = 0.363; <xref ref-type="fig" rid="ijerph-12-07321-f001">Figure 1</xref>). Pairwise comparisons showed Backwards Digit Span improvements were statistically significant in nature condition (<italic>p</italic> &#x0003c; 0.001, 95% CI (0.87, 2.14)), but were not in the built condition (<italic>p</italic> = 0.266) or control condition (<italic>p</italic> = 0.166).</p><fig id="ijerph-12-07321-f001" position="float"><label>Figure 1</label><caption><p>Mean (&#x000b1;SD) pre- and post- Exercise 1 Backwards Digit Span test scores by condition; Higher score represents greater level of directed attention; <bold>*</bold>, pre- and post- Exercise 1 values significantly differ (<italic>p</italic> = 0.001); <bold><sup>&#x02020;</sup></bold>, significant time by condition interaction (<italic>p</italic> = 0.007).</p></caption><graphic xlink:href="ijerph-12-07321-g001"/></fig></sec><sec><title>3.2. Physiological Measures</title><p>One-way repeated measures MANOVAs indicated that there was no significant effect of condition on energy expenditure and respiratory exchange ratio for either Exercise 1 (<italic>p</italic> = 0.34) or Exercise 2 (<italic>p</italic> = 0.63). Energy expenditure and respiratory exchange ratio values are shown in <xref ref-type="fig" rid="ijerph-12-07321-f002">Figure 2</xref>. One-way repeated measured ANOVAs indicated no statistically significant effect of condition on mean heart rate values in either Exercise 1 (<italic>p</italic> = 0.36) or Exercise 2 (<italic>p</italic> = 0.88; <xref ref-type="table" rid="ijerph-12-07321-t001">Table 1</xref>). </p><fig id="ijerph-12-07321-f002" position="float"><label>Figure 2</label><caption><p>Mean (&#x000b1;SD) energy expenditure and respiratory exchange ratio by condition for Exercise 1 and Exercise 2; Exercise 1 duration was 15-mins, Exercise 2 values each represent 4:47-mins of data.</p></caption><graphic xlink:href="ijerph-12-07321-g002"/></fig><table-wrap id="ijerph-12-07321-t001" position="float"><object-id pub-id-type="pii">ijerph-12-07321-t001_Table 1</object-id><label>Table 1</label><caption><p>Mean (&#x000b1; SD) results for heart rate and time to exhaustion by condition.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom: solid thin" rowspan="1" colspan="1">Measure</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom: solid thin" rowspan="1" colspan="1">Exercise Bout / Time (mins)</th><th colspan="3" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Condition</th></tr></thead><tbody><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nature</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Built</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Control</td></tr><tr><td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Heart Rate (bpm)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Exercise 1</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">108.8 &#x000b1; 9.2</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">109.9 &#x000b1; 11.2</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">107.5 &#x000b1; 12.0</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Exercise 2</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">145.7 &#x000b1; 7.9</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">145.1 &#x000b1; 11.0</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">144.1 &#x000b1; 9.5</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Time to exhaustion (secs)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Exercise 2</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">824.1 &#x000b1; 336.3</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">726.0 &#x000b1; 269.8</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">769.17 &#x000b1; 292.2</td></tr></tbody></table></table-wrap></sec><sec><title>3.3. Perceived exertion and Time to Exhaustion </title><p>One-way repeated measures ANOVAs indicated that there were no significant differences in perceived exertion scores between conditions during Exercise 1 at either 4:30-mins (p= 0.389), 9:30-mins (<italic>p</italic> = 0.509) or 14:30-mins (<italic>p</italic> = 0.655), or during Exercise 2 at either 2-mins (<italic>p</italic> = 0.947) or 4-mins (<italic>p</italic> = 0.302). Perceived exertion values are presented in <xref ref-type="fig" rid="ijerph-12-07321-f003">Figure 3</xref>. Although time to exhaustion was longest in the nature condition, results of a one-way repeated-measures ANOVA indicated no statistically significant main effect for condition (<italic>p</italic> = 0.203; <xref ref-type="table" rid="ijerph-12-07321-t001">Table 1</xref>).</p><fig id="ijerph-12-07321-f003" position="float"><label>Figure 3</label><caption><p>Perceived exertion scores by exercise bout, time and condition; Rated perceived exertion: minimum value = 6 (no exertion at all), maximum value = 20 (maximal exertion).</p></caption><graphic xlink:href="ijerph-12-07321-g003"/></fig></sec></sec><sec><title>4. Discussion</title><p>The purpose of this study was to examine effects of visual exercise-environments on directed attention whilst controlling the exercise component. Secondary aims were to investigate reported effects of visual exercise-environments on measures of energy expenditure, respiratory exchange ratio, heart rate, perceived exertion and time to exhaustion. </p><sec><title>4.1. Directed Attention</title><p>Concurrent with previous findings relating to transient hypofrontality, directed attention improved from pre- to post-exercise in all conditions [<xref rid="B19-ijerph-12-07321" ref-type="bibr">19</xref>,<xref rid="B20-ijerph-12-07321" ref-type="bibr">20</xref>,<xref rid="B21-ijerph-12-07321" ref-type="bibr">21</xref>]. However, it is not possible within the current study to confirm this mechanism. Without inclusion of a non-exercise control condition, these acute improvements might also be considered to be short-term learning or motivational effects. The primary hypothesis that directed attention would improve more after a 15-min exercise bout whilst viewing video footage of a nature environment, compared to footage of a built environment or viewing a blank screen (control), was supported. Significant improvements in directed attention were observed in the nature condition but did not in the built or control conditions. This finding is concurrent with that of Berman <italic>et al.</italic> [<xref rid="B5-ijerph-12-07321" ref-type="bibr">5</xref>]. One possible explanation for this finding is that the nature video reduced the need for directed attentional processes, maximizing attention restoration during the opportunity afforded by Exercise 1 [<xref rid="B16-ijerph-12-07321" ref-type="bibr">16</xref>,<xref rid="B18-ijerph-12-07321" ref-type="bibr">18</xref>,<xref rid="B30-ijerph-12-07321" ref-type="bibr">30</xref>]. To the authors&#x02019; knowledge, this is the first study to demonstrate an effect of visual environment on directed attention whilst controlling exercise. This is also the first study to combine measures of attention following steady-state exercise with measures of perceived exertion and time to exhaustion during vigorous exercise. A strength of this study was that it rigorously controlled exercise between conditions. Exercise intensities (speed/gradient) of Exercise 1 and Exercise 2 were replicated via programming of a treadmill, to ensure that the independent variable of visual environment was isolated. Unlike previous research [<xref rid="B5-ijerph-12-07321" ref-type="bibr">5</xref>,<xref rid="B6-ijerph-12-07321" ref-type="bibr">6</xref>,<xref rid="B59-ijerph-12-07321" ref-type="bibr">59</xref>], it is possible to conclude that visual nature facilitates attention restoration during exercise independently from influences of exercise.</p><p>Attention restoration theory postulates that restoration in turn promotes improvements in affective states [<xref rid="B18-ijerph-12-07321" ref-type="bibr">18</xref>]. The results of the current study support the possibility that attention restoration might partly underpin the influence of exercise-environments on affective states [<xref rid="B15-ijerph-12-07321" ref-type="bibr">15</xref>,<xref rid="B64-ijerph-12-07321" ref-type="bibr">64</xref>,<xref rid="B65-ijerph-12-07321" ref-type="bibr">65</xref>]. Future research should investigate this possibility further via paradigms that include pre- and post-exercise measures both of directed attention and affect whilst controlling or measuring the exercise component. </p></sec><sec><title>4.2. Physiological Measures </title><p>All participants&#x02019; respiratory exchange ratio values for the final minute of the Bruce protocol were above 1.1, indicating that identified VO<sub>2</sub>peaks likely represented maximal effort [<xref rid="B62-ijerph-12-07321" ref-type="bibr">62</xref>]. Greater respiratory exchange ratio values for Exercise 2 than for Exercise 1 are a product of the exercise intensities performed by participants during the respective exercise bouts.</p><p>The secondary hypothesis that during a steady-state 15-min exercise bout there would be no significant differences in participants&#x02019; energy expenditure, respiratory exchange ratio and heart rate between conditions was supported. Previously reported physiological differences during exercise in different environments may have been due to differences in exercise [<xref rid="B4-ijerph-12-07321" ref-type="bibr">4</xref>]. Considered together with previously reported effects of exercise-environments on post-exercise physiology, the results suggest that physiological effects of exercise-environments may occur primarily during recovery from exercise [<xref rid="B4-ijerph-12-07321" ref-type="bibr">4</xref>,<xref rid="B49-ijerph-12-07321" ref-type="bibr">49</xref>,<xref rid="B50-ijerph-12-07321" ref-type="bibr">50</xref>,<xref rid="B66-ijerph-12-07321" ref-type="bibr">66</xref>]. If physiological effects of exercise-environments occur during exercise, this result alludes to two further possibilities: (i) that physiological responses to visual environments were <italic>overridden</italic> by exercise-related physiology; (ii) that physiological responses to visual environments were <italic>masked</italic> by exercise-related physiology. A limitation of the current study is that its results do not indicate whether either of these possibilities is true, or occurred. </p><p>The current study&#x02019;s design controlled individual-, exercise- and environment-related variables except for visual stimuli. Psychological effects of visual exercise-environments reported by both the current study and previous laboratory-based research likely resulted via psychological mechanisms alone [<xref rid="B1-ijerph-12-07321" ref-type="bibr">1</xref>,<xref rid="B10-ijerph-12-07321" ref-type="bibr">10</xref>]. Mechanisms of this kind, such as attention restoration and stress reduction have been theorised [<xref rid="B16-ijerph-12-07321" ref-type="bibr">16</xref>,<xref rid="B18-ijerph-12-07321" ref-type="bibr">18</xref>,<xref rid="B29-ijerph-12-07321" ref-type="bibr">29</xref>,<xref rid="B47-ijerph-12-07321" ref-type="bibr">47</xref>]. Furthering understanding of perceptual and cognitive interactions with environments during exercise can support maximization of mental and physical health outcomes from exercise participation, such as lowering blood pressure [<xref rid="B1-ijerph-12-07321" ref-type="bibr">1</xref>,<xref rid="B2-ijerph-12-07321" ref-type="bibr">2</xref>] and improving mood [<xref rid="B14-ijerph-12-07321" ref-type="bibr">14</xref>] and perceived mental health [<xref rid="B2-ijerph-12-07321" ref-type="bibr">2</xref>].</p></sec><sec><title>4.3. Perceived Exertion </title><p>The results did not support the secondary hypothesis that perceived exertion would be lower and time to exhaustion would be longer in the nature condition than in a built condition or control condition. The current study failed to support previously reported findings that exercise-environments influence perceived exertion, although it is notable that different exercise modes (walking, cycling) were used in these previous studies [<xref rid="B7-ijerph-12-07321" ref-type="bibr">7</xref>,<xref rid="B10-ijerph-12-07321" ref-type="bibr">10</xref>]. Large standard deviations indicate that statistical under-powering of this study was the likely reason that despite time to exhaustion in nature condition being 12.7% greater than in the built condition and 6.9% greater than in the control condition, differences were not statistically significant. Indeed a major limitation of the current study was its small sample size, which may have served to increase type I and type II statistical errors in the analyses of each of the reported dependent variables. The results indicate that future research should investigate these variables using designs that are sufficiently powered following sample-size calculations.</p><p>Visual exercise-environment influenced one psychological measure of this study (Backwards Digit Span score) but not the other (perceived exertion). To speculate here, one possible explanation of this might be related to the face mask worn during the exercise (as part of the portable gas analyser). Amplified sounds of breathing may have facilitated internal focus on physiological sensations, aiding consistency in perceived exertion [<xref rid="B67-ijerph-12-07321" ref-type="bibr">67</xref>,<xref rid="B68-ijerph-12-07321" ref-type="bibr">68</xref>]. This may have reduced opportunity for visual exercise-environment to influence participants&#x02019; appraisal and reporting of exertion. Although mask-related cognitions may have also functioned to reduce opportunity for environment-related cognitions, as many aspects of restoration-related processes occur subconsciously [<xref rid="B18-ijerph-12-07321" ref-type="bibr">18</xref>], attention restoration via visual exercise-environment may have therefore remained unhindered. </p><p>In order to examine influences of visual environmental stimuli, no auditory stimuli were included in the video footage of the nature and built conditions. This may have caused confounding dissonance within each of the nature and built conditions in that such visual stimuli would normally be accompanied by appropriate auditory stimuli. It is not known in which condition dissonance may have been greatest, however, it seems likely that the control condition would elicit least dissonance due to its lack of visual cues. Future work might examine the importance of different sensory modalities to influences of exercise-environments of this kind. Additionally here, whereas nature and built conditions included video content, the control condition did not include such visual cues. Providing neutral stimuli for participants to visually attend to would have avoided this potential confound. However, the control condition served as a comparison to enable influences of treadmill exercise alone to be examined.</p></sec><sec><title>4.4. Application </title><p>The findings further previous research which has examined the notion that green exercise might promote outcomes beneficial to workplace contexts [<xref rid="B2-ijerph-12-07321" ref-type="bibr">2</xref>]. Acute bouts of green exercise promote restoration from directed attention fatigue, thus replenishing an important resource for performance of cognitively demanding workplace tasks. The current findings are also relevant to educational contexts. Attention restoration via green exercise environments can aid children&#x02019;s concentration in school and ameliorate symptoms of ADHD [<xref rid="B59-ijerph-12-07321" ref-type="bibr">59</xref>,<xref rid="B69-ijerph-12-07321" ref-type="bibr">69</xref>]. Results of the current study suggest that the visual element of real green exercise environments may play an important role in obtaining these benefits.</p></sec></sec><sec><title>5. Conclusions </title><p>This was the first study to demonstrate effects of controlled exercise conducted in different visual environments on post-exercise directed attention. Visually perceived nature promotes attention restoration during moderate intensity exercise, independent of physiological influence. Additionally to physiological and other psychological outcomes [<xref rid="B1-ijerph-12-07321" ref-type="bibr">1</xref>,<xref rid="B3-ijerph-12-07321" ref-type="bibr">3</xref>,<xref rid="B4-ijerph-12-07321" ref-type="bibr">4</xref>,<xref rid="B12-ijerph-12-07321" ref-type="bibr">12</xref>,<xref rid="B15-ijerph-12-07321" ref-type="bibr">15</xref>,<xref rid="B64-ijerph-12-07321" ref-type="bibr">64</xref>,<xref rid="B65-ijerph-12-07321" ref-type="bibr">65</xref>,<xref rid="B66-ijerph-12-07321" ref-type="bibr">66</xref>,<xref rid="B70-ijerph-12-07321" ref-type="bibr">70</xref>], acute green exercise participation benefits cognitive functioning [<xref rid="B5-ijerph-12-07321" ref-type="bibr">5</xref>,<xref rid="B6-ijerph-12-07321" ref-type="bibr">6</xref>]. Such improvements are relevant for workplace and educational performance. Equipment-related cognitions may have limited potential influences of visual exercise-environments on perceived exertion, and in turn, time to exhaustion.</p></sec></body><back><ack><title>Acknowledgments</title><p>The authors wish to acknowledge and thank all participants for their willingness to take part in this research.</p></ack><notes><title>Author Contributions</title><p>Mike Rogerson: concept, design, data collection, data analyses, writing; Jo Barton: concept, design, data analysis, writing.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest. </p></notes><ref-list><title>References</title><ref id="B1-ijerph-12-07321"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pretty</surname><given-names>J.</given-names></name><name><surname>Peacock</surname><given-names>J.</given-names></name><name><surname>Sellens</surname><given-names>M.</given-names></name><name><surname>Griffin</surname><given-names>M.</given-names></name></person-group>
+<article-title>The mental and physical health outcomes of green exercise</article-title>
+<source>Int. J. Environ. Health Res.</source>
+<year>2005</year>
+<volume>15</volume>
+<fpage>319</fpage>
+<lpage>337</lpage>
+<pub-id pub-id-type="doi">10.1080/09603120500155963</pub-id>
+<pub-id pub-id-type="pmid">16416750</pub-id></element-citation></ref><ref id="B2-ijerph-12-07321"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>D.K.</given-names></name><name><surname>Barton</surname><given-names>J.L.</given-names></name><name><surname>Pretty</surname><given-names>J.</given-names></name><name><surname>Gladwell</surname><given-names>V.</given-names></name></person-group>
+<article-title>Walks4work: Assessing the role of the natural environment in a workplace physical activity intervention</article-title>
+<source>Scand. J. Work Environ. Health</source>
+<year>2014</year>
+<volume>40</volume>
+<fpage>390</fpage>
+<lpage>399</lpage>
+<pub-id pub-id-type="doi">10.5271/sjweh.3421</pub-id>
+<pub-id pub-id-type="pmid">24623515</pub-id></element-citation></ref><ref id="B3-ijerph-12-07321"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>Q.</given-names></name><name><surname>Tyrv&#x000e4;inen</surname><given-names>L.</given-names></name><name><surname>Tsunetsugu</surname><given-names>Y.</given-names></name><name><surname>Park</surname><given-names>B.-J.</given-names></name><name><surname>Kagawa</surname><given-names>T.</given-names></name><name><surname>Miyazaki</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Nature therapy and preventive medicine</article-title>
+<source>Public Health-Soc. Behav. Health</source>
+<year>2012</year>
+<volume>16</volume>
+<fpage>325</fpage>
+<lpage>350</lpage>
+</element-citation></ref><ref id="B4-ijerph-12-07321"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>B.J.</given-names></name><name><surname>Tsunetsugu</surname><given-names>Y.</given-names></name><name><surname>Kasetani</surname><given-names>T.</given-names></name><name><surname>Kagawa</surname><given-names>T.</given-names></name><name><surname>Miyazaki</surname><given-names>Y.</given-names></name></person-group>
+<article-title>The physiological effects of shinrin-yoku (taking in the forest atmosphere or forest bathing): Evidence from field experiments in 24 forests across Japan</article-title>
+<source>Environ. Health Prev. Med.</source>
+<year>2010</year>
+<volume>15</volume>
+<fpage>18</fpage>
+<lpage>26</lpage>
+<pub-id pub-id-type="doi">10.1007/s12199-009-0086-9</pub-id>
+<pub-id pub-id-type="pmid">19568835</pub-id></element-citation></ref><ref id="B5-ijerph-12-07321"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berman</surname><given-names>M.G.</given-names></name><name><surname>Jonides</surname><given-names>J.</given-names></name><name><surname>Kaplan</surname><given-names>S.</given-names></name></person-group>
+<article-title>The cognitive benefits of interacting with nature</article-title>
+<source>Psychol. Sci.</source>
+<year>2008</year>
+<volume>19</volume>
+<fpage>1207</fpage>
+<lpage>1212</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1467-9280.2008.02225.x</pub-id>
+<pub-id pub-id-type="pmid">19121124</pub-id></element-citation></ref><ref id="B6-ijerph-12-07321"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hartig</surname><given-names>T.</given-names></name><name><surname>Evans</surname><given-names>G.W.</given-names></name><name><surname>Jamner</surname><given-names>L.D.</given-names></name><name><surname>Davis</surname><given-names>D.S.</given-names></name><name><surname>G&#x000e4;rling</surname><given-names>T.</given-names></name></person-group>
+<article-title>Tracking restoration in natural and urban field settings</article-title>
+<source>J. Environ. Psychol.</source>
+<year>2003</year>
+<volume>23</volume>
+<fpage>109</fpage>
+<lpage>123</lpage>
+<pub-id pub-id-type="doi">10.1016/S0272-4944(02)00109-3</pub-id>
+</element-citation></ref><ref id="B7-ijerph-12-07321"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Focht</surname><given-names>B.C.</given-names></name></person-group>
+<article-title>Brief walks in outdoor and laboratory environments: Effects on affective responses, enjoyment, and intentions to walk for exercise</article-title>
+<source>Res. Quart. Exerc. Sport</source>
+<year>2009</year>
+<volume>80</volume>
+<fpage>611</fpage>
+<lpage>620</lpage>
+<pub-id pub-id-type="doi">10.1080/02701367.2009.10599600</pub-id>
+<pub-id pub-id-type="pmid">19791648</pub-id></element-citation></ref><ref id="B8-ijerph-12-07321"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Teas</surname><given-names>J.</given-names></name><name><surname>Hurley</surname><given-names>T.</given-names></name><name><surname>Ghumare</surname><given-names>S.</given-names></name><name><surname>Ogoussan</surname><given-names>K.</given-names></name></person-group>
+<article-title>Walking outside improves mood for healthy postmenopausal women</article-title>
+<source>Clin. Med. Oncol.</source>
+<year>2007</year>
+<volume>1</volume>
+<fpage>35</fpage>
+<lpage>43</lpage>
+</element-citation></ref><ref id="B9-ijerph-12-07321"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ryan</surname><given-names>R.M.</given-names></name><name><surname>Weinstein</surname><given-names>N.</given-names></name><name><surname>Bernstein</surname><given-names>J.</given-names></name><name><surname>Brown</surname><given-names>K.W.</given-names></name><name><surname>Mistretta</surname><given-names>L.</given-names></name><name><surname>Gagne</surname><given-names>M.</given-names></name></person-group>
+<article-title>Vitalizing effects of being outdoors and in nature</article-title>
+<source>J. Environ. Psychol.</source>
+<year>2010</year>
+<volume>30</volume>
+<fpage>159</fpage>
+<lpage>168</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvp.2009.10.009</pub-id>
+</element-citation></ref><ref id="B10-ijerph-12-07321"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Akers</surname><given-names>A.</given-names></name><name><surname>Barton</surname><given-names>J.</given-names></name><name><surname>Cossey</surname><given-names>R.</given-names></name><name><surname>Gainsford</surname><given-names>P.</given-names></name><name><surname>Griffin</surname><given-names>M.</given-names></name><name><surname>Micklewright</surname><given-names>D.</given-names></name></person-group>
+<article-title>Visual color perception in green exercise: Positive effects on mood and perceived exertion</article-title>
+<source>Environ. Sci. Technol.</source>
+<year>2012</year>
+<volume>46</volume>
+<fpage>8661</fpage>
+<lpage>8666</lpage>
+<pub-id pub-id-type="doi">10.1021/es301685g</pub-id>
+<pub-id pub-id-type="pmid">22857379</pub-id></element-citation></ref><ref id="B11-ijerph-12-07321"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wood</surname><given-names>C.</given-names></name><name><surname>Angus</surname><given-names>C.</given-names></name><name><surname>Pretty</surname><given-names>J.</given-names></name><name><surname>Sandercock</surname><given-names>G.</given-names></name><name><surname>Barton</surname><given-names>J.</given-names></name></person-group>
+<article-title>A randomised control trial of physical activity in a perceived environment on self-esteem and mood in UK adolescents</article-title>
+<source>Int. J. Environ. Health Res.</source>
+<year>2013</year>
+<volume>23</volume>
+<fpage>311</fpage>
+<lpage>320</lpage>
+<pub-id pub-id-type="doi">10.1080/09603123.2012.733935</pub-id>
+<pub-id pub-id-type="pmid">23075427</pub-id></element-citation></ref><ref id="B12-ijerph-12-07321"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thompson Coon</surname><given-names>J.</given-names></name><name><surname>Boddy</surname><given-names>K.</given-names></name><name><surname>Stein</surname><given-names>K.</given-names></name><name><surname>Whear</surname><given-names>R.</given-names></name><name><surname>Barton</surname><given-names>J.</given-names></name><name><surname>Depledge</surname><given-names>M.H.</given-names></name></person-group>
+<article-title>Does participating in physical activity in outdoor natural environments have a greater effect on physical and mental wellbeing than physical activity indoors? A systematic review</article-title>
+<source>Environ. Sci. Technol.</source>
+<year>2011</year>
+<volume>45</volume>
+<fpage>1761</fpage>
+<lpage>1772</lpage>
+<pub-id pub-id-type="doi">10.1021/es102947t</pub-id>
+<pub-id pub-id-type="pmid">21291246</pub-id></element-citation></ref><ref id="B13-ijerph-12-07321"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kerr</surname><given-names>J.H.</given-names></name><name><surname>Fujiyama</surname><given-names>H.</given-names></name><name><surname>Sugano</surname><given-names>A.</given-names></name><name><surname>Okamura</surname><given-names>T.</given-names></name><name><surname>Chang</surname><given-names>M.</given-names></name><name><surname>Onouha</surname><given-names>F.</given-names></name></person-group>
+<article-title>Psychological responses to exercising in laboratory and natural environments</article-title>
+<source>Psychol. Sport Exerc.</source>
+<year>2006</year>
+<volume>7</volume>
+<fpage>345</fpage>
+<lpage>359</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psychsport.2005.09.002</pub-id>
+</element-citation></ref><ref id="B14-ijerph-12-07321"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rogerson</surname><given-names>M.</given-names></name><name><surname>Brown</surname><given-names>D.K.</given-names></name><name><surname>Sandercock</surname><given-names>G.</given-names></name><name><surname>Wooller</surname><given-names>J.-J.</given-names></name><name><surname>Barton</surname><given-names>J.</given-names></name></person-group>
+<article-title>A comparison of four typical green exercise environments and prediction of psychological health outcomes</article-title>
+<source>Perspect. Public Health</source>
+<year>2015</year>
+<pub-id pub-id-type="doi">10.1177/1757913915589845</pub-id>
+<pub-id pub-id-type="pmid">26087698</pub-id></element-citation></ref><ref id="B15-ijerph-12-07321"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barton</surname><given-names>J.</given-names></name><name><surname>Pretty</surname><given-names>J.</given-names></name></person-group>
+<article-title>What is the best dose of nature and green exercise for improving mental health? A multi-study analysis</article-title>
+<source>Environ. Sci. Technol.</source>
+<year>2010</year>
+<volume>44</volume>
+<fpage>3947</fpage>
+<lpage>3955</lpage>
+<pub-id pub-id-type="doi">10.1021/es903183r</pub-id>
+<pub-id pub-id-type="pmid">20337470</pub-id></element-citation></ref><ref id="B16-ijerph-12-07321"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaplan</surname><given-names>S.</given-names></name><name><surname>Berman</surname><given-names>M.G.</given-names></name></person-group>
+<article-title>Directed attention as a common resource for executive functioning and self-regulation</article-title>
+<source>Perspect. Psychol. Sci.</source>
+<year>2010</year>
+<volume>5</volume>
+<fpage>43</fpage>
+<lpage>57</lpage>
+<pub-id pub-id-type="doi">10.1177/1745691609356784</pub-id>
+<pub-id pub-id-type="pmid">26162062</pub-id></element-citation></ref><ref id="B17-ijerph-12-07321"><label>17.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Itti</surname><given-names>L.</given-names></name><name><surname>Rees</surname><given-names>G.</given-names></name><name><surname>Tsotsos</surname><given-names>J.K.</given-names></name></person-group>
+<source>Neurobiology of Attention</source>
+<publisher-name>Academic Press</publisher-name>
+<publisher-loc>Waltham, MA, USA</publisher-loc>
+<year>2005</year>
+</element-citation></ref><ref id="B18-ijerph-12-07321"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaplan</surname><given-names>S.</given-names></name></person-group>
+<article-title>The restorative benefits of nature: Toward an integrative framework</article-title>
+<source>J. Environ. Psychol.</source>
+<year>1995</year>
+<volume>15</volume>
+<fpage>169</fpage>
+<lpage>182</lpage>
+<pub-id pub-id-type="doi">10.1016/0272-4944(95)90001-2</pub-id>
+</element-citation></ref><ref id="B19-ijerph-12-07321"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dietrich</surname><given-names>A.</given-names></name></person-group>
+<article-title>Functional neuroanatomy of altered states of consciousness: The transient hypofrontality hypothesis</article-title>
+<source>Conscious. Cogn.</source>
+<year>2003</year>
+<volume>12</volume>
+<fpage>231</fpage>
+<lpage>256</lpage>
+<pub-id pub-id-type="doi">10.1016/S1053-8100(02)00046-6</pub-id>
+<pub-id pub-id-type="pmid">12763007</pub-id></element-citation></ref><ref id="B20-ijerph-12-07321"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dietrich</surname><given-names>A.</given-names></name><name><surname>Sparling</surname><given-names>P.B.</given-names></name></person-group>
+<article-title>Endurance exercise selectively impairs prefrontal-dependent cognition</article-title>
+<source>Brain Cogn.</source>
+<year>2004</year>
+<volume>55</volume>
+<fpage>516</fpage>
+<lpage>524</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bandc.2004.03.002</pub-id>
+<pub-id pub-id-type="pmid">15223198</pub-id></element-citation></ref><ref id="B21-ijerph-12-07321"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dietrich</surname><given-names>A.</given-names></name></person-group>
+<article-title>Transient hypofrontality as a mechanism for the psychological effects of exercise</article-title>
+<source>Psychiat. Res.</source>
+<year>2006</year>
+<volume>145</volume>
+<fpage>79</fpage>
+<lpage>83</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psychres.2005.07.033</pub-id>
+<pub-id pub-id-type="pmid">17081621</pub-id></element-citation></ref><ref id="B22-ijerph-12-07321"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Daffner</surname><given-names>K.R.</given-names></name><name><surname>Mesulam</surname><given-names>M.</given-names></name><name><surname>Scinto</surname><given-names>L.</given-names></name><name><surname>Acar</surname><given-names>D.</given-names></name><name><surname>Calvo</surname><given-names>V.</given-names></name><name><surname>Faust</surname><given-names>R.</given-names></name><name><surname>Chabrerie</surname><given-names>A.</given-names></name><name><surname>Kennedy</surname><given-names>B.</given-names></name><name><surname>Holcomb</surname><given-names>P.</given-names></name></person-group>
+<article-title>The central role of the prefrontal cortex in directing attention to novel events</article-title>
+<source>Brain</source>
+<year>2000</year>
+<volume>123</volume>
+<fpage>927</fpage>
+<lpage>939</lpage>
+<pub-id pub-id-type="doi">10.1093/brain/123.5.927</pub-id>
+<pub-id pub-id-type="pmid">10775538</pub-id></element-citation></ref><ref id="B23-ijerph-12-07321"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gailliot</surname><given-names>M.T.</given-names></name><name><surname>Baumeister</surname><given-names>R.F.</given-names></name></person-group>
+<article-title>The physiology of willpower: Linking blood glucose to self-control</article-title>
+<source>Personal. Soc. Psychol. Rev.</source>
+<year>2007</year>
+<volume>11</volume>
+<fpage>303</fpage>
+<lpage>327</lpage>
+<pub-id pub-id-type="doi">10.1177/1088868307303030</pub-id>
+<pub-id pub-id-type="pmid">18453466</pub-id></element-citation></ref><ref id="B24-ijerph-12-07321"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Milham</surname><given-names>M.</given-names></name><name><surname>Banich</surname><given-names>M.</given-names></name><name><surname>Webb</surname><given-names>A.</given-names></name><name><surname>Barad</surname><given-names>V.</given-names></name><name><surname>Cohen</surname><given-names>N.</given-names></name><name><surname>Wszalek</surname><given-names>T.</given-names></name><name><surname>Kramer</surname><given-names>A.</given-names></name></person-group>
+<article-title>The relative involvement of anterior cingulate and prefrontal cortex in attentional control depends on nature of conflict</article-title>
+<source>Cogn. Brain Res.</source>
+<year>2001</year>
+<volume>12</volume>
+<fpage>467</fpage>
+<lpage>473</lpage>
+<pub-id pub-id-type="doi">10.1016/S0926-6410(01)00076-3</pub-id>
+</element-citation></ref><ref id="B25-ijerph-12-07321"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>E.K.</given-names></name><name><surname>Cohen</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>An integrative theory of prefrontal cortex function</article-title>
+<source>Annu. Rev. Neurosci.</source>
+<year>2001</year>
+<volume>24</volume>
+<fpage>167</fpage>
+<lpage>202</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.neuro.24.1.167</pub-id>
+<pub-id pub-id-type="pmid">11283309</pub-id></element-citation></ref><ref id="B26-ijerph-12-07321"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Labelle</surname><given-names>V.</given-names></name><name><surname>Bosquet</surname><given-names>L.</given-names></name><name><surname>Mekary</surname><given-names>S.</given-names></name><name><surname>Bherer</surname><given-names>L.</given-names></name></person-group>
+<article-title>Decline in executive control during acute bouts of exercise as a function of exercise intensity and fitness level</article-title>
+<source>Brain Cogn.</source>
+<year>2013</year>
+<volume>81</volume>
+<fpage>10</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bandc.2012.10.001</pub-id>
+<pub-id pub-id-type="pmid">23146780</pub-id></element-citation></ref><ref id="B27-ijerph-12-07321"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yanagisawa</surname><given-names>H.</given-names></name><name><surname>Dan</surname><given-names>I.</given-names></name><name><surname>Tsuzuki</surname><given-names>D.</given-names></name><name><surname>Kato</surname><given-names>M.</given-names></name><name><surname>Okamoto</surname><given-names>M.</given-names></name><name><surname>Kyutoku</surname><given-names>Y.</given-names></name><name><surname>Soya</surname><given-names>H.</given-names></name></person-group>
+<article-title>Acute moderate exercise elicits increased dorsolateral prefrontal activation and improves cognitive performance with stroop test</article-title>
+<source>Neuroimage</source>
+<year>2010</year>
+<volume>50</volume>
+<fpage>1702</fpage>
+<lpage>1710</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2009.12.023</pub-id>
+<pub-id pub-id-type="pmid">20006719</pub-id></element-citation></ref><ref id="B28-ijerph-12-07321"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Byun</surname><given-names>K.</given-names></name><name><surname>Hyodo</surname><given-names>K.</given-names></name><name><surname>Suwabe</surname><given-names>K.</given-names></name><name><surname>Ochi</surname><given-names>G.</given-names></name><name><surname>Sakairi</surname><given-names>Y.</given-names></name><name><surname>Kato</surname><given-names>M.</given-names></name><name><surname>Dan</surname><given-names>I.</given-names></name><name><surname>Soya</surname><given-names>H.</given-names></name></person-group>
+<article-title>Positive effect of acute mild exercise on executive function via arousal-related prefrontal activations: An fnirs study</article-title>
+<source>NeuroImage</source>
+<year>2014</year>
+<volume>98</volume>
+<fpage>336</fpage>
+<lpage>345</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2014.04.067</pub-id>
+<pub-id pub-id-type="pmid">24799137</pub-id></element-citation></ref><ref id="B29-ijerph-12-07321"><label>29.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kaplan</surname><given-names>R.</given-names></name><name><surname>Kaplan</surname><given-names>S.</given-names></name></person-group>
+<source>The Experience of Nature: A Psychological Perspective</source>
+<publisher-name>Cambridge University Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1989</year>
+</element-citation></ref><ref id="B30-ijerph-12-07321"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaplan</surname><given-names>S.</given-names></name></person-group>
+<article-title>Meditation, restoration, and the management of mental fatigue</article-title>
+<source>Environ. Behav.</source>
+<year>2001</year>
+<volume>33</volume>
+<fpage>480</fpage>
+<lpage>506</lpage>
+<pub-id pub-id-type="doi">10.1177/00139160121973106</pub-id>
+</element-citation></ref><ref id="B31-ijerph-12-07321"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ottosson</surname><given-names>J.</given-names></name><name><surname>Grahn</surname><given-names>P.</given-names></name></person-group>
+<article-title>A comparison of leisure time spent in a garden with leisure time spent indoors: On measures of restoration in residents in geriatric care</article-title>
+<source>Landsc. Res.</source>
+<year>2005</year>
+<volume>30</volume>
+<fpage>23</fpage>
+<lpage>55</lpage>
+<pub-id pub-id-type="doi">10.1080/0142639042000324758</pub-id>
+</element-citation></ref><ref id="B32-ijerph-12-07321"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berto</surname><given-names>R.</given-names></name></person-group>
+<article-title>Exposure to restorative environments helps restore attentional capacity</article-title>
+<source>J. Environ. Psychol.</source>
+<year>2005</year>
+<volume>25</volume>
+<fpage>249</fpage>
+<lpage>259</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvp.2005.07.001</pub-id>
+</element-citation></ref><ref id="B33-ijerph-12-07321"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaplan</surname><given-names>R.</given-names></name></person-group>
+<article-title>The role of nature in the context of the workplace</article-title>
+<source>Landsc. Urban Plan.</source>
+<year>1993</year>
+<volume>26</volume>
+<fpage>193</fpage>
+<lpage>201</lpage>
+<pub-id pub-id-type="doi">10.1016/0169-2046(93)90016-7</pub-id>
+</element-citation></ref><ref id="B34-ijerph-12-07321"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raanaas</surname><given-names>R.K.</given-names></name><name><surname>Evensen</surname><given-names>K.H.</given-names></name><name><surname>Rich</surname><given-names>D.</given-names></name><name><surname>Sj&#x000f8;str&#x000f8;m</surname><given-names>G.</given-names></name><name><surname>Patil</surname><given-names>G.</given-names></name></person-group>
+<article-title>Benefits of indoor plants on attention capacity in an office setting</article-title>
+<source>J. Environ. Psychol.</source>
+<year>2011</year>
+<volume>31</volume>
+<fpage>99</fpage>
+<lpage>105</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvp.2010.11.005</pub-id>
+</element-citation></ref><ref id="B35-ijerph-12-07321"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pretty</surname><given-names>J.</given-names></name></person-group>
+<article-title>How nature contributes to mental and physical health</article-title>
+<source>Spiritual. Health Int.</source>
+<year>2004</year>
+<volume>5</volume>
+<fpage>68</fpage>
+<lpage>78</lpage>
+<pub-id pub-id-type="doi">10.1002/shi.220</pub-id>
+</element-citation></ref><ref id="B36-ijerph-12-07321"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weinstein</surname><given-names>N.</given-names></name><name><surname>Przybylski</surname><given-names>A.K.</given-names></name><name><surname>Ryan</surname><given-names>R.M.</given-names></name></person-group>
+<article-title>Can nature make us more caring? Effects of immersion in nature on intrinsic aspirations and generosity</article-title>
+<source>Personal. Soc. Psychol. Bull.</source>
+<year>2009</year>
+<volume>35</volume>
+<fpage>1315</fpage>
+<lpage>1329</lpage>
+<pub-id pub-id-type="doi">10.1177/0146167209341649</pub-id>
+<pub-id pub-id-type="pmid">19657048</pub-id></element-citation></ref><ref id="B37-ijerph-12-07321"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Macera</surname><given-names>C.A.</given-names></name><name><surname>Hootman</surname><given-names>J.M.</given-names></name><name><surname>Sniezek</surname><given-names>J.E.</given-names></name></person-group>
+<article-title>Major public health benefits of physical activity</article-title>
+<source>Arthritis Care Res.</source>
+<year>2003</year>
+<volume>49</volume>
+<fpage>122</fpage>
+<lpage>128</lpage>
+<pub-id pub-id-type="doi">10.1002/art.10907</pub-id>
+<pub-id pub-id-type="pmid">12579603</pub-id></element-citation></ref><ref id="B38-ijerph-12-07321"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>P.D.</given-names></name><name><surname>Lim</surname><given-names>V.</given-names></name></person-group>
+<article-title>Physical activity in the prevention of atherosclerotic coronary heart disease</article-title>
+<source>Curr. Treat. Options Cardiovasc. Med.</source>
+<year>2003</year>
+<volume>5</volume>
+<fpage>279</fpage>
+<lpage>285</lpage>
+<pub-id pub-id-type="doi">10.1007/s11936-003-0027-7</pub-id>
+<pub-id pub-id-type="pmid">12834565</pub-id></element-citation></ref><ref id="B39-ijerph-12-07321"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ekkekakis</surname><given-names>P.</given-names></name><name><surname>Parfitt</surname><given-names>G.</given-names></name><name><surname>Petruzzello</surname><given-names>S.J.</given-names></name></person-group>
+<article-title>The pleasure and displeasure people feel when they exercise at different intensities</article-title>
+<source>Sports Med.</source>
+<year>2011</year>
+<volume>41</volume>
+<fpage>641</fpage>
+<lpage>671</lpage>
+<pub-id pub-id-type="doi">10.2165/11590680-000000000-00000</pub-id>
+<pub-id pub-id-type="pmid">21780850</pub-id></element-citation></ref><ref id="B40-ijerph-12-07321"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kashihara</surname><given-names>K.</given-names></name><name><surname>Maruyama</surname><given-names>T.</given-names></name><name><surname>Murota</surname><given-names>M.</given-names></name><name><surname>Nakahara</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Positive effects of acute and moderate physical exercise on cognitive function</article-title>
+<source>J. Physiol. Anthropol.</source>
+<year>2009</year>
+<volume>28</volume>
+<fpage>155</fpage>
+<lpage>164</lpage>
+<pub-id pub-id-type="doi">10.2114/jpa2.28.155</pub-id>
+<pub-id pub-id-type="pmid">19652447</pub-id></element-citation></ref><ref id="B41-ijerph-12-07321"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kilpatrick</surname><given-names>M.</given-names></name><name><surname>Kraemer</surname><given-names>R.</given-names></name><name><surname>Bartholomew</surname><given-names>J.</given-names></name><name><surname>Acevedo</surname><given-names>E.</given-names></name><name><surname>Jarreau</surname><given-names>D.</given-names></name></person-group>
+<article-title>Affective responses to exercise are dependent on intensity rather than total work</article-title>
+<source>Med. Sci. Sports Exerc.</source>
+<year>2007</year>
+<volume>39</volume>
+<pub-id pub-id-type="doi">10.1249/mss.0b013e31806ad73c</pub-id>
+<pub-id pub-id-type="pmid">17762376</pub-id></element-citation></ref><ref id="B42-ijerph-12-07321"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tomporowski</surname><given-names>P.D.</given-names></name></person-group>
+<article-title>Effects of acute bouts of exercise on cognition</article-title>
+<source>Acta Psychol.</source>
+<year>2003</year>
+<volume>112</volume>
+<fpage>297</fpage>
+<lpage>324</lpage>
+<pub-id pub-id-type="doi">10.1016/S0001-6918(02)00134-8</pub-id>
+</element-citation></ref><ref id="B43-ijerph-12-07321"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Borg</surname><given-names>G.</given-names></name></person-group>
+<article-title>Perceived exertion as an indicator of somatic stress</article-title>
+<source>Scand. J. Rehabil. Med.</source>
+<year>1970</year>
+<volume>2</volume>
+<fpage>92</fpage>
+<lpage>98</lpage>
+<pub-id pub-id-type="pmid">5523831</pub-id></element-citation></ref><ref id="B44-ijerph-12-07321"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Borg</surname><given-names>G.A.</given-names></name></person-group>
+<article-title>Psychophysical bases of perceived exertion</article-title>
+<source>Med. Sci. Sports Exerc.</source>
+<year>1982</year>
+<volume>14</volume>
+<fpage>377</fpage>
+<lpage>381</lpage>
+<pub-id pub-id-type="doi">10.1249/00005768-198205000-00012</pub-id>
+<pub-id pub-id-type="pmid">7154893</pub-id></element-citation></ref><ref id="B45-ijerph-12-07321"><label>45.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Borg</surname><given-names>G.</given-names></name></person-group>
+<source>Borg&#x02019;s Perceived Exertion and Pain Scales</source>
+<publisher-name>Human kinetics</publisher-name>
+<publisher-loc>Champaign, IL, USA</publisher-loc>
+<year>1998</year>
+</element-citation></ref><ref id="B46-ijerph-12-07321"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ceci</surname><given-names>R.</given-names></name><name><surname>Hassm&#x000e9;n</surname><given-names>P.</given-names></name></person-group>
+<article-title>Self-monitored exercise at three different rpe intensities in treadmill <italic>vs.</italic> field running</article-title>
+<source>Med. Sci. Sports Exerc.</source>
+<year>1991</year>
+<volume>23</volume>
+<fpage>732</fpage>
+<lpage>738</lpage>
+<pub-id pub-id-type="doi">10.1249/00005768-199106000-00013</pub-id>
+<pub-id pub-id-type="pmid">1886482</pub-id></element-citation></ref><ref id="B47-ijerph-12-07321"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ulrich</surname><given-names>R.S.</given-names></name><name><surname>Simons</surname><given-names>R.F.</given-names></name><name><surname>Losito</surname><given-names>B.D.</given-names></name><name><surname>Fiorito</surname><given-names>E.</given-names></name><name><surname>Miles</surname><given-names>M.A.</given-names></name><name><surname>Zelson</surname><given-names>M.</given-names></name></person-group>
+<article-title>Stress recovery during exposure to natural and urban environments</article-title>
+<source>J. Environ. Psychol.</source>
+<year>1991</year>
+<volume>11</volume>
+<fpage>201</fpage>
+<lpage>230</lpage>
+<pub-id pub-id-type="doi">10.1016/S0272-4944(05)80184-7</pub-id>
+</element-citation></ref><ref id="B48-ijerph-12-07321"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marcora</surname><given-names>S.M.</given-names></name><name><surname>Staiano</surname><given-names>W.</given-names></name><name><surname>Manning</surname><given-names>V.</given-names></name></person-group>
+<article-title>Mental fatigue impairs physical performance in humans</article-title>
+<source>J. Appl. Physiol.</source>
+<year>2009</year>
+<volume>106</volume>
+<fpage>857</fpage>
+<lpage>864</lpage>
+<pub-id pub-id-type="doi">10.1152/japplphysiol.91324.2008</pub-id>
+<pub-id pub-id-type="pmid">19131473</pub-id></element-citation></ref><ref id="B49-ijerph-12-07321"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsunetsugu</surname><given-names>Y.</given-names></name><name><surname>Park</surname><given-names>B.-J.</given-names></name><name><surname>Ishii</surname><given-names>H.</given-names></name><name><surname>Hirano</surname><given-names>H.</given-names></name><name><surname>Kagawa</surname><given-names>T.</given-names></name><name><surname>Miyazaki</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Physiological effects of shinrin-yoku (taking in the atmosphere of the forest) in an old-growth broadleaf forest in yamagata prefecture, Japan</article-title>
+<source>J. Physiol. Anthropol.</source>
+<year>2007</year>
+<volume>26</volume>
+<fpage>135</fpage>
+<lpage>142</lpage>
+<pub-id pub-id-type="doi">10.2114/jpa2.26.135</pub-id>
+<pub-id pub-id-type="pmid">17435356</pub-id></element-citation></ref><ref id="B50-ijerph-12-07321"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>B.-J.</given-names></name><name><surname>Tsunetsugu</surname><given-names>Y.</given-names></name><name><surname>Ishii</surname><given-names>H.</given-names></name><name><surname>Furuhashi</surname><given-names>S.</given-names></name><name><surname>Hirano</surname><given-names>H.</given-names></name><name><surname>Kagawa</surname><given-names>T.</given-names></name><name><surname>Miyazaki</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Physiological effects of shinrin-yoku (taking in the atmosphere of the forest) in a mixed forest in shinano town, Japan</article-title>
+<source>Scand. J. For. Res.</source>
+<year>2008</year>
+<volume>23</volume>
+<fpage>278</fpage>
+<lpage>283</lpage>
+<pub-id pub-id-type="doi">10.1080/02827580802055978</pub-id>
+</element-citation></ref><ref id="B51-ijerph-12-07321"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tucker</surname><given-names>R.</given-names></name></person-group>
+<article-title>The anticipatory regulation of performance: The physiological basis for pacing strategies and the development of a perception-based model for exercise performance</article-title>
+<source>Brit. J. Sports Med.</source>
+<year>2009</year>
+<volume>43</volume>
+<fpage>392</fpage>
+<lpage>400</lpage>
+<pub-id pub-id-type="doi">10.1136/bjsm.2008.050799</pub-id>
+<pub-id pub-id-type="pmid">19224911</pub-id></element-citation></ref><ref id="B52-ijerph-12-07321"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hampson</surname><given-names>D.B.</given-names></name><name><surname>Gibson</surname><given-names>A.S.C.</given-names></name><name><surname>Lambert</surname><given-names>M.I.</given-names></name><name><surname>Noakes</surname><given-names>T.D.</given-names></name></person-group>
+<article-title>The influence of sensory cues on the perception of exertion during exercise and central regulation of exercise performance</article-title>
+<source>Sports Med.</source>
+<year>2001</year>
+<volume>31</volume>
+<fpage>935</fpage>
+<lpage>952</lpage>
+<pub-id pub-id-type="doi">10.2165/00007256-200131130-00004</pub-id>
+<pub-id pub-id-type="pmid">11708402</pub-id></element-citation></ref><ref id="B53-ijerph-12-07321"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reilly</surname><given-names>T.</given-names></name><name><surname>Baxter</surname><given-names>C.</given-names></name></person-group>
+<article-title>Influence of time of day on reactions to cycling at a fixed high intensity</article-title>
+<source>Brit. J. Sport. Med.</source>
+<year>1983</year>
+<volume>17</volume>
+<fpage>128</fpage>
+<lpage>130</lpage>
+<pub-id pub-id-type="doi">10.1136/bjsm.17.2.128</pub-id>
+</element-citation></ref><ref id="B54-ijerph-12-07321"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bruce</surname><given-names>R.</given-names></name><name><surname>Blackmon</surname><given-names>J.</given-names></name><name><surname>Jones</surname><given-names>J.</given-names></name><name><surname>Strait</surname><given-names>G.</given-names></name></person-group>
+<article-title>Exercising testing in adult normal subjects and cardiac patients</article-title>
+<source>Pediatrics</source>
+<year>1963</year>
+<volume>32</volume>
+<fpage>742</fpage>
+<lpage>756</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1542-474X.2004.93003.x</pub-id>
+<pub-id pub-id-type="pmid">14070531</pub-id></element-citation></ref><ref id="B55-ijerph-12-07321"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bruce</surname><given-names>R.</given-names></name><name><surname>Blackmon</surname><given-names>J.</given-names></name><name><surname>Jones</surname><given-names>J.</given-names></name><name><surname>Strait</surname><given-names>G.</given-names></name></person-group>
+<article-title>Exercising testing in adult normal subjects and cardiac patients <bold>*</bold></article-title>
+<source>Ann. Noninvasive Electrocardiol.</source>
+<year>2004</year>
+<volume>9</volume>
+<fpage>291</fpage>
+<lpage>303</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1542-474X.2004.93003.x</pub-id>
+<pub-id pub-id-type="pmid">15245347</pub-id></element-citation></ref><ref id="B56-ijerph-12-07321"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Folstein</surname><given-names>M.F.</given-names></name><name><surname>Folstein</surname><given-names>S.E.</given-names></name><name><surname>McHugh</surname><given-names>P.R.</given-names></name></person-group>
+<article-title>&#x0201c;Mini-mental state&#x0201d;: A practical method for grading the cognitive state of patients for the clinician</article-title>
+<source>J. Psychiatr. Res.</source>
+<year>1975</year>
+<volume>12</volume>
+<fpage>189</fpage>
+<lpage>198</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-3956(75)90026-6</pub-id>
+<pub-id pub-id-type="pmid">1202204</pub-id></element-citation></ref><ref id="B57-ijerph-12-07321"><label>57.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Wechsler</surname><given-names>D.</given-names></name></person-group>
+<source>Manual for the Wechsler Adult Intelligence Scale</source>
+<publisher-name>Psychological Corp.</publisher-name>
+<publisher-loc>Pasig City, Philippine</publisher-loc>
+<year>1955</year>
+</element-citation></ref><ref id="B58-ijerph-12-07321"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cowan</surname><given-names>N.</given-names></name></person-group>
+<article-title>The magical number 4 in short-term memory: A reconsideration of mental storage capacity</article-title>
+<source>Behav. Brain Sci.</source>
+<year>2001</year>
+<volume>24</volume>
+<fpage>87</fpage>
+<lpage>114</lpage>
+<pub-id pub-id-type="doi">10.1017/S0140525X01003922</pub-id>
+<pub-id pub-id-type="pmid">11515286</pub-id></element-citation></ref><ref id="B59-ijerph-12-07321"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Taylor</surname><given-names>A.F.</given-names></name><name><surname>Kuo</surname><given-names>F.E.</given-names></name></person-group>
+<article-title>Children with attention deficits concentrate better after walk in the park</article-title>
+<source>J. Atten. Disord.</source>
+<year>2009</year>
+<volume>12</volume>
+<fpage>402</fpage>
+<lpage>409</lpage>
+<pub-id pub-id-type="doi">10.1177/1087054708323000</pub-id>
+<pub-id pub-id-type="pmid">18725656</pub-id></element-citation></ref><ref id="B60-ijerph-12-07321"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stark</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>Directed attention in normal and high-risk pregnancy</article-title>
+<source>J. Obstet. Gynecol. Neonatal Nurs.</source>
+<year>2006</year>
+<volume>35</volume>
+<fpage>241</fpage>
+<lpage>249</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1552-6909.2006.00035.x</pub-id>
+<pub-id pub-id-type="pmid">16620250</pub-id></element-citation></ref><ref id="B61-ijerph-12-07321"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Taylor</surname><given-names>A.F.</given-names></name><name><surname>Kuo</surname><given-names>F.E.</given-names></name><name><surname>Sullivan</surname><given-names>W.C.</given-names></name></person-group>
+<article-title>Views of nature and self-discipline: Evidence from inner city children</article-title>
+<source>J. Environ. Psychol.</source>
+<year>2002</year>
+<volume>22</volume>
+<fpage>49</fpage>
+<lpage>63</lpage>
+<pub-id pub-id-type="doi">10.1006/jevp.2001.0241</pub-id>
+</element-citation></ref><ref id="B62-ijerph-12-07321"><label>62.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Goyal</surname><given-names>M.R.</given-names></name></person-group>
+<source>Biomechanics of Artificial Organs and Prostheses</source>
+<publisher-name>CRC Press</publisher-name>
+<publisher-loc>Boca Raton, FL, USA</publisher-loc>
+<year>2014</year>
+</element-citation></ref><ref id="B63-ijerph-12-07321"><label>63.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>IBM Corp</collab></person-group>
+<source>IBM SPSS Statistics for Windows, Version 19.0</source>
+<publisher-name>IBM Corp.</publisher-name>
+<publisher-loc>Armonk, NY, USA</publisher-loc>
+<year>2010</year>
+</element-citation></ref><ref id="B64-ijerph-12-07321"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bowler</surname><given-names>D.E.</given-names></name><name><surname>Buyung-Ali</surname><given-names>L.M.</given-names></name><name><surname>Knight</surname><given-names>T.M.</given-names></name><name><surname>Pullin</surname><given-names>A.S.</given-names></name></person-group>
+<article-title>A systematic review of evidence for the added benefits to health of exposure to natural environments</article-title>
+<source>BMC Public Health</source>
+<year>2010</year>
+<volume>10</volume>
+<pub-id pub-id-type="doi">10.1186/1471-2458-10-456</pub-id>
+<pub-id pub-id-type="pmid">20684754</pub-id></element-citation></ref><ref id="B65-ijerph-12-07321"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barton</surname><given-names>J.</given-names></name><name><surname>Hine</surname><given-names>R.</given-names></name><name><surname>Pretty</surname><given-names>J.</given-names></name></person-group>
+<article-title>The health benefits of walking in greenspaces of high natural and heritage value</article-title>
+<source>J. Integr. Environ. Sci.</source>
+<year>2009</year>
+<volume>6</volume>
+<fpage>261</fpage>
+<lpage>278</lpage>
+<pub-id pub-id-type="doi">10.1080/19438150903378425</pub-id>
+</element-citation></ref><ref id="B66-ijerph-12-07321"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>Q.</given-names></name><name><surname>Otsuka</surname><given-names>T.</given-names></name><name><surname>Kobayashi</surname><given-names>M.</given-names></name><name><surname>Wakayama</surname><given-names>Y.</given-names></name><name><surname>Inagaki</surname><given-names>H.</given-names></name><name><surname>Katsumata</surname><given-names>M.</given-names></name><name><surname>Hirata</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name><name><surname>Hirata</surname><given-names>K.</given-names></name><name><surname>Shimizu</surname><given-names>T.</given-names></name></person-group>
+<article-title>Acute effects of walking in forest environments on cardiovascular and metabolic parameters</article-title>
+<source>Eur. J. Appl. Physiol.</source>
+<year>2011</year>
+<volume>111</volume>
+<fpage>2845</fpage>
+<lpage>2853</lpage>
+<pub-id pub-id-type="doi">10.1007/s00421-011-1918-z</pub-id>
+<pub-id pub-id-type="pmid">21431424</pub-id></element-citation></ref><ref id="B67-ijerph-12-07321"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fillingim</surname><given-names>R.B.</given-names></name><name><surname>Fine</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>The effects of internal versus external information processing on symptom perception in an exercise setting</article-title>
+<source>Health Psychol.</source>
+<year>1986</year>
+<volume>5</volume>
+<fpage>115</fpage>
+<lpage>123</lpage>
+<pub-id pub-id-type="doi">10.1037/0278-6133.5.2.115</pub-id>
+<pub-id pub-id-type="pmid">3732226</pub-id></element-citation></ref><ref id="B68-ijerph-12-07321"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lohse</surname><given-names>K.R.</given-names></name><name><surname>Sherwood</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Defining the focus of attention: Effects of attention on perceived exertion and fatigue</article-title>
+<source>Front. Psychol.</source>
+<year>2011</year>
+<volume>2</volume>
+<pub-id pub-id-type="doi">10.3389/fpsyg.2011.00332</pub-id>
+<pub-id pub-id-type="pmid">22102843</pub-id></element-citation></ref><ref id="B69-ijerph-12-07321"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuo</surname><given-names>F.E.</given-names></name><name><surname>Taylor</surname><given-names>A.F.</given-names></name></person-group>
+<article-title>A potential natural treatment for attention-deficit/hyperactivity disorder: Evidence from a national study</article-title>
+<source>Amer. J. Public Health</source>
+<year>2004</year>
+<volume>94</volume>
+<pub-id pub-id-type="doi">10.2105/AJPH.94.9.1580</pub-id>
+</element-citation></ref><ref id="B70-ijerph-12-07321"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barton</surname><given-names>J.</given-names></name><name><surname>Griffin</surname><given-names>M.</given-names></name><name><surname>Pretty</surname><given-names>J.</given-names></name></person-group>
+<article-title>Exercise-, nature-and socially interactive-based initiatives improve mood and self-esteem in the clinical population</article-title>
+<source>Perspect. Public Health</source>
+<year>2012</year>
+<volume>132</volume>
+<fpage>89</fpage>
+<lpage>96</lpage>
+<pub-id pub-id-type="doi">10.1177/1757913910393862</pub-id>
+<pub-id pub-id-type="pmid">22616429</pub-id></element-citation></ref></ref-list></back></article>

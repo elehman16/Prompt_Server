@@ -1,0 +1,574 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22545106</article-id><article-id pub-id-type="pmc">3335851</article-id><article-id pub-id-type="publisher-id">PONE-D-11-12013</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0035425</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Biochemistry</subject><subj-group><subject>Lipids</subject><subj-group><subject>Fatty Acids</subject></subj-group></subj-group></subj-group><subj-group><subject>Computational Biology</subject><subj-group><subject>Genomics</subject><subj-group><subject>Genome Expression Analysis</subject></subj-group></subj-group><subj-group><subject>Molecular Genetics</subject><subj-group><subject>Gene Expression</subject></subj-group></subj-group></subj-group><subj-group><subject>Genetics</subject><subj-group><subject>Gene Expression</subject></subj-group></subj-group><subj-group><subject>Genomics</subject><subj-group><subject>Genome Expression Analysis</subject></subj-group></subj-group><subj-group><subject>Immunology</subject><subj-group><subject>Immunity</subject><subj-group><subject>Inflammation</subject></subj-group></subj-group></subj-group><subj-group><subject>Microbiology</subject><subj-group><subject>Immunity</subject><subj-group><subject>Inflammation</subject></subj-group></subj-group></subj-group><subj-group><subject>Molecular Cell Biology</subject><subj-group><subject>Gene Expression</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Clinical Immunology</subject><subj-group><subject>Immunity</subject><subj-group><subject>Inflammation</subject></subj-group></subj-group></subj-group><subj-group><subject>Neurology</subject><subj-group><subject>Dementia</subject><subj-group><subject>Alzheimer Disease</subject></subj-group></subj-group></subj-group><subj-group><subject>Nutrition</subject></subj-group></subj-group></article-categories><title-group><article-title>Effects of DHA- Rich n-3 Fatty Acid Supplementation on Gene Expression in Blood Mononuclear Leukocytes: The OmegAD Study</article-title><alt-title alt-title-type="running-head">Dietary DHA and Gene Expression</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Vedin</surname><given-names>Inger</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Cederholm</surname><given-names>Tommy</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Freund-Levi</surname><given-names>Yvonne</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Basun</surname><given-names>Hans</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Garlind</surname><given-names>Anita</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Irving</surname><given-names>Gerd Fax&#x000e9;n</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Eriksdotter-J&#x000f6;nhagen</surname><given-names>Maria</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wahlund</surname><given-names>Lars-Olof</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Dahlman</surname><given-names>Ingrid</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Palmblad</surname><given-names>Jan</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Medicine, Karolinska Institutet, Karolinska University Hospital, Huddinge, Stockholm, Sweden</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Department of Neurobiology, Caring Sciences and Society, Karolinska Institutet, Karolinska University Hospital, Huddinge, Stockholm, Sweden</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Department of Public Health and Caring Sciences, Uppsala University Hospital, Uppsala, Sweden</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Division of Geriatrics, Uppsala University Hospital, Uppsala, Sweden</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Division of Clinical Nutrition and Metabolism, Uppsala University Hospital, Uppsala, Sweden</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Ahuja</surname><given-names>Sunil K.</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">South Texas Veterans Health Care System and University Health Science Center San Antonio, United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>inger.vedin@ki.se</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: IV TC JP YFL MEJ HB AG LOW GFI. Performed the experiments: IV. Analyzed the data: IV JP TC ID. Wrote the paper: IV JP TC ID. Collection of data: IV YFL. Preparing the manuscript: IV TC YFL HB AG GFI MEJ LOW ID JP.</p></fn></author-notes><pub-date pub-type="collection"><year>2012</year></pub-date><pub-date pub-type="epub"><day>24</day><month>4</month><year>2012</year></pub-date><volume>7</volume><issue>4</issue><elocation-id>e35425</elocation-id><history><date date-type="received"><day>29</day><month>6</month><year>2011</year></date><date date-type="accepted"><day>16</day><month>3</month><year>2012</year></date></history><permissions><copyright-statement>Vedin et al.</copyright-statement><copyright-year>2012</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Background</title><p>Dietary fish oil, rich in n-3 fatty acids (n-3 FAs), e.g. docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), regulate inflammatory reactions by various mechanisms, e.g. gene activation. However, the effects of long-term treatment with DHA and EPA in humans, using genome wide techniques, are poorly described. Hence, our aim was to determine the effects of 6 mo of dietary supplementation with an n-3 FA preparation rich in DHA on global gene expression in peripheral blood mononuclear cells.</p></sec><sec><title>Methods and Findings</title><p>In the present study, blood samples were obtained from a subgroup of 16 patients originating from the randomized double-blind, placebo-controlled OmegAD study, where 174 Alzheimer disease (AD) patients received daily either 1.7 g of DHA and 0.6 g EPA or placebo for 6 months. In blood samples obtained from 11 patients receiving n-3 FA and five placebo, expressions of approximately 8000 genes were assessed by gene array. Significant changes were confirmed by real-time PCR. At 6 months, the n-3 FAs group displayed significant rises of DHA and EPA plasma concentrations, as well as up- and down-regulation of nine and ten genes, respectively, was noticed. Many of these genes are involved in inflammation regulation and neurodegeneration, e.g. <italic>CD63, MAN2A1, CASP4, LOC399491, NAIP, and SORL1</italic> and in ubiqutination processes, e.g. <italic>ANAPC5 and UBE2V1</italic>. Down-regulations of <italic>ANAPC5</italic> and <italic>RHOB</italic> correlated to increases of plasma DHA and EPA levels.</p></sec><sec><title>Conclusions</title><p>We suggest that 6 months of dietary n-3 FA supplementation affected expression of genes that might influence inflammatory processes and could be of significance for AD.</p></sec><sec><title>Trial Registration</title><p>ClinicalTrials.gov <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov/ct2/show/NCT00211159">NCT00211159</ext-link>
+</p></sec></abstract><counts><page-count count="8"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Omega-3 fatty acids (n-3 FAs), e.g. eicosapentaenoic acid (EPA; 20&#x02236;5 n-3) and docosahexaenoic acid (DHA; 22&#x02236;6 n-3), present in marine oils, modulate inflammatory reactions and ameliorate symptoms of several autoimmune and other inflammatory disorders <xref rid="pone.0035425-Simopoulos1" ref-type="bibr">[1]</xref>, <xref rid="pone.0035425-Mori1" ref-type="bibr">[2]</xref>. In addition, EPA and DHA administration reduces cardiovascular morbidity and mortality, e.g. from ventricular arrhythmias <xref rid="pone.0035425-Jacobson1" ref-type="bibr">[3]</xref>. Recently, high fish intake or dietary supplementation with n-3 fatty acids has been linked to reductions in the risk of developing Alzheimer's disease (AD) <xref rid="pone.0035425-BarbergerGateau1" ref-type="bibr">[4]</xref>, <xref rid="pone.0035425-Schaefer1" ref-type="bibr">[5]</xref>, <xref rid="pone.0035425-Morris1" ref-type="bibr">[6]</xref> and to delayed cognitive decline in patients with very mild AD <xref rid="pone.0035425-FreundLevi1" ref-type="bibr">[7]</xref>.</p><p>N-3 FA are considered to exert the anti-inflammatory effects on several cellular levels, including surface receptor modulation, ion pumps, G-proteins, binding to transcription factors (e.g. nuclear transcription factor &#x003ba;B /NF&#x003ba;B/ and other signalling systems), as well as on gene activation <xref rid="pone.0035425-Calder1" ref-type="bibr">[8]</xref>, <xref rid="pone.0035425-deUrquiza1" ref-type="bibr">[9]</xref>, <xref rid="pone.0035425-Zhao1" ref-type="bibr">[10]</xref>. Previous investigations on effects of DHA and/or EPA on gene expressions in animal studies and <italic>in vitro</italic> models have shown changes in a variety of genes, some of which are believed to be involved in inflammation and chronic neurodegenerative disorder. These gene expression studies have mostly been conducted after a short time exposure and on small sets of genes <xref rid="pone.0035425-Kitajka1" ref-type="bibr">[11]</xref>, <xref rid="pone.0035425-Puskas1" ref-type="bibr">[12]</xref>, <xref rid="pone.0035425-BarceloCoblijn1" ref-type="bibr">[13]</xref>, <xref rid="pone.0035425-Rojas1" ref-type="bibr">[14]</xref>, <xref rid="pone.0035425-Narayanan1" ref-type="bibr">[15]</xref>, <xref rid="pone.0035425-Narayanan2" ref-type="bibr">[16]</xref>, <xref rid="pone.0035425-Verlengia1" ref-type="bibr">[17]</xref>, <xref rid="pone.0035425-Verlengia2" ref-type="bibr">[18]</xref>. However, a microarray study on the cerebral cortex of neonate baboon after 10&#x02013;12 weeks on a DHA-enriched formula showed changes in approximately 1000 probesets/genes (but none more than 2-fold) <xref rid="pone.0035425-Kothapalli1" ref-type="bibr">[19]</xref>. In murine studies, 3 weeks of dietary supplementation of fish oil changed five genes more than 2-fold, and DHA enriched fish oil for approximately 2 months identified 329 and 356 dietary regulated transcripts from liver and hippocampus, respectively <xref rid="pone.0035425-Berger1" ref-type="bibr">[20]</xref>, <xref rid="pone.0035425-Davidson1" ref-type="bibr">[21]</xref>. There were no published studies of effects of long-term treatment with EPA and DHA in humans, using genome wide techniques, until recently <xref rid="pone.0035425-Bouwens1" ref-type="bibr">[22]</xref>.</p><p>Here, we present results of a clinical trial, the OmegAD study <xref rid="pone.0035425-FreundLevi1" ref-type="bibr">[7]</xref>, where a product rich in DHA was given to patients with mild to moderate AD. The goal of the OmegAD study was, inter alia, to see if this n-3 preparation would reduce the cognitive deterioration. In the present study of the OmegAD trial, we used global transcriptome profiling to detect new genes responding to DHA-rich n-3 supplementation in isolated peripheral blood mononuclear cells (PBMCs). Preliminary results from this study has been presented previously <xref rid="pone.0035425-Vedin1" ref-type="bibr">[23]</xref>.</p></sec><sec sec-type="materials|methods" id="s2"><title>Materials and Methods</title><sec id="s2a"><title>Subjects</title><p>This per-protocol study, included finally 16 patients (see <xref ref-type="supplementary-material" rid="pone.0035425.s001">Supplementary Material <bold>S1</bold>
+</xref>) for details of in- and exclusions), <xref ref-type="fig" rid="pone-0035425-g001">
+<bold>Figure 1</bold>
+</xref>. They were among the first to be randomized in the OmegAD study, described in detail in <xref rid="pone.0035425-FreundLevi1" ref-type="bibr">[7]</xref>. In summary, the double blind, placebo controlled OmegAD study included 204 patients (73&#x000b1;9 y, 52&#x00025; women) with mild to moderate AD. Patients were randomized to 6 months of nutritional supplementation with a marine n-3 fish oil rich in DHA or to placebo. Patients were treated daily with either 1.7 g DHA plus 0.6 g EPA (EPAX 1050TG; Pronova Biocare A/S, Lysaker, Norway) or with isocaloric placebo oil (1 g corn oil, including 0.6 g linoleic acid) for 6 months. EPAX 1050TG is a 60&#x00025; n-3 fatty acid concentrate in triacylglycerol form, produced according to good manufacturing practices. Four milligrams of vitamin E (tocopherol) was added to each EPAX 1050TG and placebo capsule. A total of 174 patients completed the OmegAD study. Plasma fatty acid profiles, cognition and behavioural data have been published <xref rid="pone.0035425-FreundLevi1" ref-type="bibr">[7]</xref>, <xref rid="pone.0035425-Vedin2" ref-type="bibr">[24]</xref>. A pre-trial power calculation in the whole study, estimated that 200 patients have to be included with a statistical significance level of 0.05 and 80&#x00025; power to accomplish differences in the measurement of the cognitive function. The estimation of numbers of enrolled patients in our gene expression subgroup by power calculation has not been applicable, due to insufficient knowledge as to variables included in the power calculation for the thousands of genes measured by the microarray technique. Here, we present data on 11 (54&#x02013;82 y; median 71, and 5 woman) patients, who received the n-3 FAs preparation, and 5 patients (56&#x02013;80 y; median 66, and 2 woman), receiving the placebo oil, for 6 months.</p><fig id="pone-0035425-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0035425.g001</object-id><label>Figure 1</label><caption><title>CONSORT flowchart. Study design at baseline and after n-3 FA or placebo supplementation to AD patients for 6 months.</title><p>AD&#x0200a;=&#x0200a;Alzheimer's disease, n-3 FA&#x0200a;=&#x0200a;Omega-3 fatty acid treatment, Placebo&#x0200a;=&#x0200a;Placebo treatment.</p></caption><graphic xlink:href="pone.0035425.g001"/></fig><p>No changes in peripheral blood neutrophil, monocyte, and lymphocyte cell counts were recorded after 6 months of n-3 FAs treatment. In this study group, no specific advice on food intake was given, since included patients suffered from AD.</p></sec><sec id="s2b"><title>Blood sampling</title><p>EDTA anticoagulated venous blood was obtained prior to or after 6 months of n-3 FA treatment. PBMCs were isolated by means of a Lymphoprep (Nycomed Pharma, Oslo, Norway) gradient centrifugation. The cell preparations obtained before and after treatment with n-3 FAs, contained on average 14&#x00025; monocytes and 86&#x00025; lymphocytes on both occasions. Corresponding figures for the placebo group were 15&#x00025; and 85&#x00025;, respectively. The cell viability in both groups was on average 96&#x00025;, as assessed by trypan blue staining.</p></sec><sec id="s2c"><title>RNA extraction and microarray hybridization</title><p>Total RNA was isolated from PBMCs according to protocols given in <xref ref-type="supplementary-material" rid="pone.0035425.s001">Supplementary Material <bold>S1</bold>
+</xref>. From non-degraded high-quality total RNA we prepared biotinylated complementary RNA that served as template for hybridization to Human Genome Focus Arrays (Affymetrix, Inc., Santa Clara, CA) containing 8747 probesets, corresponding to approximately 8000 genes (see <xref ref-type="supplementary-material" rid="pone.0035425.s001">Supplementary Material <bold>S1</bold>
+</xref>).</p></sec><sec id="s2d"><title>Microarray data analysis</title><p>Information about calculation of signal intensities for each microarray and quality control in Microarray Analysis Suite (MAS) 5.0 (Affymetrix) are given in <xref ref-type="supplementary-material" rid="pone.0035425.s001">Supplementary Material <bold>S1</bold>
+</xref>. Genes were categorized using the Gene Ontology (GO) database.</p><p>We used the software Significance Analysis of Microarrays (SAM) <xref rid="pone.0035425-Tusher1" ref-type="bibr">[25]</xref> to identify changes in gene expression induced by n-3 FA treatment. Details of this procedure are given in <xref ref-type="supplementary-material" rid="pone.0035425.s001">Supplementary Material <bold>S1</bold>
+</xref>). In addition, we used SAM for sample size calculation. Our dataset had limited power to detect differentially expressed genes. However, the purpose of the study was not to characterize the complete response of gene expression to the intervention, but to detect a few responding genes.</p></sec><sec id="s2e"><title>Verification of microarray with real time PCR</title><p>We selected genes that were interesting biological candidates for PCR confirmation, with the restriction that this selection should not be biased and only represent those with the largest fold change. RNA was reversed transcribed into cDNA, using an iScript cDNA synthesizing kit. Real time-(RT)- PCR was performed in an iCycler IQ (Bio-Rad Laboratories Inc., Hercules, CA). The results were normalized to low density lipoprotein receptor-related protein 10 (LRP10), whose mRNA levels were unaffected by n-3 FA and placebo treatment. Details are given in <xref ref-type="supplementary-material" rid="pone.0035425.s001">Supplementary Material <bold>S1</bold>
+</xref>.</p></sec><sec id="s2f"><title>Plasma fatty acid analyses</title><p>Plasma fatty acids (FAs) were analyzed by gas chromatography (Thermo TR-Fame column (30 m&#x000d7;0.32 mm ID&#x000d7;0.25 &#x000b5;m film; Thermo Electron Corp, Waltham, MA) and are given as relative abundance of individual fatty acids <xref rid="pone.0035425-Boberg1" ref-type="bibr">[26]</xref> in each participating individual. Data for all 174 patients in the OmegAD study have been given previously <xref rid="pone.0035425-FreundLevi1" ref-type="bibr">[7]</xref>. Changes of the EPA and DHA plasma concentrations are given as the difference of percentage units.</p></sec><sec id="s2g"><title>Statistical analyses</title><p>Paired two sided Students' t-tests were used to analyze changes in plasma FAs- and gene expression data. For microarray data, the results for the n-3 FA group were adjusted for multiple comparisons using SAM (see above). A two-sided independent Students' t-test was used to compare fold change between the n-3 FA and placebo groups. Paired one-sided Students' t-tests were used in confirmatory analysis of individual mRNA measurements by RT-PCR. Values are presented as mean&#x000b1;SD. For correlation analyses, Pearson correlation tests were applied. <italic>P</italic> values&#x0003c;0.05 were considered significant.</p></sec></sec><sec id="s3"><title>Results</title><sec id="s3a"><title>Plasma fatty acids</title><p>At study entry, plasma concentrations of EPA and DHA did not differ significantly between the two groups (<xref ref-type="fig" rid="pone-0035425-g002">
+<bold>Figure 2</bold>
+</xref>). In the n-3 FAs group plasma values for DHA as well as for EPA were significantly higher at 6 months compared with pre-trial values (p&#x0200a;=&#x0200a;0.00006 and p&#x0200a;=&#x0200a;0.00004 respectively). The placebo group displayed no significant alterations of DHA and EPA in plasma compared with pre-trial values (<xref ref-type="fig" rid="pone-0035425-g002">
+<bold>Figure 2</bold>
+</xref>). The mean rise of DHA levels was slightly larger than that of EPA in the n-3 FA group (&#x0002b;3.6 percentage units and &#x0002b;3.14 percentage units, respectively). Nonetheless, here, and as in our previous reports <xref rid="pone.0035425-FreundLevi1" ref-type="bibr">[7]</xref>, <xref rid="pone.0035425-Vedin2" ref-type="bibr">[24]</xref>, EPA values were enhanced more than expected from the ratio of orally supplemented EPA to DHA, being 0.35&#x02236;1.</p><fig id="pone-0035425-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0035425.g002</object-id><label>Figure 2</label><caption><title>Plasma values for docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) at baseline and after 6 months.</title><p>Individual values are flanked by mean and SD values. Significant increases of DHA and EPA were noted in the n-3 fatty acids (n-3 FAs) group after 6 months, but not in the placebo group.</p></caption><graphic xlink:href="pone.0035425.g002"/></fig></sec><sec id="s3b"><title>Gene expression by microarray</title><p>Next, we assessed which genes, out of the 8000 on the microarrays that showed a significant change in expression in PBMCs following n-3 FA supplementation. All microarrays fulfilled the employed quality criteria (see <xref ref-type="supplementary-material" rid="pone.0035425.s001">Supplementary Material <bold>S1</bold>
+</xref> for details). On the microarrays 4,075 probesets gave signals that, according to the criteria in MAS 5.0, showed that the corresponding mRNA was expressed in PBMCs on &#x0003e;15 of 22 arrays in the intervention group. Such genes were scored as present in PBMCs and were further analyzed in SAM. According to SAM analysis the expression of 19 genes were up- or down-regulated in PBMCs by 6 month treatment with n-3 FA with a false discovery rate of 10&#x00025;.</p></sec><sec id="s3c"><title>Gene changes in the n-3 FA group</title><p>
+<xref ref-type="table" rid="pone-0035425-t001">
+<bold>Table 1</bold>
+</xref> presents results for significantly up-regulated genes in PBMCs, after n-3 FAs supplementation for 6 months. The nine up-regulated genes in the n-3 group are presented below, in falling order of magnitude, and with comments on possible functions (partly provided by Ref Seq at: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/RefSeq/">http://www.ncbi.nlm.nih.gov/RefSeq/</ext-link>).</p><table-wrap id="pone-0035425-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0035425.t001</object-id><label>Table 1</label><caption><title>Genes up-regulated by a DHA rich n-3 fatty acid or placebo supplementation.</title></caption><alternatives><graphic id="pone-0035425-t001-1" xlink:href="pone.0035425.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td colspan="2" align="left" rowspan="1"/><td align="left" rowspan="1" colspan="1">n-3 FA group<xref ref-type="table-fn" rid="nt102">1</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Placebo group</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Locus Link</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Genes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Fold change</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Fold change</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>MS4A3</italic>
+</td><td align="left" rowspan="1" colspan="1">Membrane-spanning-4 domains subfamily A</td><td align="left" rowspan="1" colspan="1">1.72&#x000b1;0.83</td><td align="left" rowspan="1" colspan="1">0.0037</td><td align="left" rowspan="1" colspan="1">1.65&#x000b1;1.12</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>NAIP</italic>
+</td><td align="left" rowspan="1" colspan="1">NLR family, apoptosis inhibitory protein</td><td align="left" rowspan="1" colspan="1">1.37&#x000b1;0.35</td><td align="left" rowspan="1" colspan="1">0.0028</td><td align="left" rowspan="1" colspan="1">1.16&#x000b1;0.11</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>DRG1</italic>
+</td><td align="left" rowspan="1" colspan="1">Developmentally regulated GTP binding protein 1</td><td align="left" rowspan="1" colspan="1">1.20&#x000b1;0.19</td><td align="left" rowspan="1" colspan="1">0.0033</td><td align="left" rowspan="1" colspan="1">1.14&#x000b1; 0.11<xref ref-type="table-fn" rid="nt103">2</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>CD63</italic>
+</td><td align="left" rowspan="1" colspan="1">CD63 molecule</td><td align="left" rowspan="1" colspan="1">1.20&#x000b1;0.18</td><td align="left" rowspan="1" colspan="1">0.0019</td><td align="left" rowspan="1" colspan="1">0.99&#x000b1;0.11<xref ref-type="table-fn" rid="nt104">3</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>HSD17B11</italic>
+</td><td align="left" rowspan="1" colspan="1">Hydroxysteroid (17-beta) dehydrogenase 11</td><td align="left" rowspan="1" colspan="1">1.19&#x000b1;0.15</td><td align="left" rowspan="1" colspan="1">0.0006</td><td align="left" rowspan="1" colspan="1">1.27&#x000b1;0.55</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RAB27A</italic>
+</td><td align="left" rowspan="1" colspan="1">Member RAS oncogen family</td><td align="left" rowspan="1" colspan="1">1.18&#x000b1;0.16</td><td align="left" rowspan="1" colspan="1">0.0024</td><td align="left" rowspan="1" colspan="1">1.08&#x000b1;0.18</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>CASP4</italic>
+</td><td align="left" rowspan="1" colspan="1">Apoptosis-related cysteine peptidase</td><td align="left" rowspan="1" colspan="1">1.17&#x000b1;0.14</td><td align="left" rowspan="1" colspan="1">0.0026</td><td align="left" rowspan="1" colspan="1">0.99&#x000b1;0.20<xref ref-type="table-fn" rid="nt105">4</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>SUPT4H1</italic>
+</td><td align="left" rowspan="1" colspan="1">Suppressor of Ty 4 homolog 1</td><td align="left" rowspan="1" colspan="1">1.15&#x000b1;0.11</td><td align="left" rowspan="1" colspan="1">0.0008</td><td align="left" rowspan="1" colspan="1">1.02&#x000b1;0.12<xref ref-type="table-fn" rid="nt105">4</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>UBE2V1</italic>
+</td><td align="left" rowspan="1" colspan="1">Ubiqutin-conjugating enzyme E2 variant1</td><td align="left" rowspan="1" colspan="1">1.13&#x000b1;0.10</td><td align="left" rowspan="1" colspan="1">0.0012</td><td align="left" rowspan="1" colspan="1">1.06&#x000b1;0.22</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>All values are means&#x000b1;SD.</p></fn><fn id="nt102"><label/><p>
+<sup><italic>1</italic></sup>All genes were significantly up-regulated by the n-3 FAs treatment according to SAM based on 2000 permutations and a false discovery rate of 10&#x00025;, see microarray data analysis for details.</p></fn><fn id="nt103"><label/><p>
+<sup><italic>2</italic></sup>We analyzed by t-test if genes regulated by n-3 FAs supplementation were also up- or down-regulated in the placebo group. The change for <italic>DRG1</italic> was significant (p&#x0200a;=&#x0200a;0.04).</p></fn><fn id="nt104"><label/><p>
+<sup><italic>3</italic></sup>Significant and</p></fn><fn id="nt105"><label/><p>
+<sup><italic>4</italic></sup>close to significance (p&#x0200a;=&#x0200a;0.05&#x02013;0.06) difference in fold change between the n-3 FAs and placebo group.</p></fn></table-wrap-foot></table-wrap><p>
+<italic>MS4A3</italic> (also known as <italic>CD20L and HTM4</italic>) encodes for a member of the membrane-spanning 4A gene family. The corresponding protein likely plays a role in signal transduction and may function as a subunit associated with receptor complexes.</p><p>
+<italic>NAIP</italic> (also known as <italic>BIRC1</italic>) codes for a protein belonging to the NLR family of apoptosis inhibitory proteins (AIP). It is thought that this gene is a modifier of spinal muscular atrophy caused by mutations in a neighbouring <italic>SMN1</italic> gene. A low level of <italic>NAIP</italic> protein has been found in AD brains. Further, it has been suggested that a rise of the <italic>NAIP</italic> protein level protects AD patients against the development of tangle pathology and cognitive decline <xref rid="pone.0035425-Christie1" ref-type="bibr">[27]</xref>. Thus, changes in this gene might be of significance for the population of AD patients studied here.</p><p>
+<italic>DRG1</italic> (also known as <italic>NEDD3, PROXY1, and NDRG1</italic>) encodes for the developmentally regulated GTP binding protein-1. This gene is a member of the N-myc down-regulated gene family, which belongs to the alpha/beta hydrolase superfamily. The encoded protein is cytoplasmic, involved in stress and hormone responses, cell growth, and differentiation. It is necessary for p53-mediated caspase activation and apoptosis. Mutation in this gene has been reported to be causative for a hereditary variant of Charcot-Marie-Tooth disease (type Lom), and is, thus, linked to a degenerative nerve disorder.</p><p>The <italic>CD63</italic> (also known as <italic>LAMP-3, OMA81H, and TSPAN30</italic>, granulophysin) gene encodes for the CD63 antigen (also known as melanoma-1 antigen) found e.g. in tissue macrophages. This cell-surface protein belongs to the family of tetraspanin proteins involved in cell adhesion and cell migration as well as neutrophil granule mobilization <xref rid="pone.0035425-Hartl1" ref-type="bibr">[28]</xref>. Thus, it is clearly involved in regulation of inflammation.</p><p>The enzyme encoded by <italic>HSD17B11</italic>, hydroxysteroid (17&#x003b2;) dehydrogenase-1 (also known <italic>as DHRS8</italic>), modulates the intracellular glucocortocoid levels and takes part in the steroid and lipid biosynthetic processes. Again, this protein is involved in regulation of inflammation.</p><p>
+<italic>RAB27A</italic> (also known as <italic>RAM, RAS-associated protein RAB27A</italic>). The protein encoded by this gene belongs to the small GTPase superfamily, Rab family. The protein is membrane-bound and may be involved in protein transport and small GTPase mediated signal transduction. Mutations in this gene are associated with Griscelli syndrome type 2, an X-linked lymphoproliferative syndrome associated with hemophagocytic syndromes <xref rid="pone.0035425-Trottestam1" ref-type="bibr">[29]</xref>, indicating that this protein is involved in regulation of inflammation.</p><p>
+<italic>CASP4</italic> (also known <italic>as ICE (rel) II</italic>, <italic>ICEREL-II</italic>, and <italic>ICH-2</italic>) codes for caspase-4, an apoptosis-related cysteine protease, classified as one of the inflammatory caspases. It participates in the LPS induced TLR4-signaling pathway, acting as an essential protein in the NF-&#x003ba;B activation of cytokine and chemokine production. Hence, it is an important part of the innate immunity system <xref rid="pone.0035425-Lakshmanan1" ref-type="bibr">[30]</xref>. Moreover, caspase-4 is considered as a key caspase in apoptotic signalling in AD <xref rid="pone.0035425-Yukioka1" ref-type="bibr">[31]</xref>.</p><p>
+<italic>SUPT4H1</italic> (also known as Suppressor of Ty4 homolog 1). The protein from this gene has transcription factor activity and is involved in RNA synthesis.</p><p>The ubiquitin-conjugating E2 enzyme variant-1 protein (encoded by the gene <italic>UBE2V1</italic>, also known as <italic>CROC1</italic> and <italic>UEV1A</italic>) is located in the cell nucleus and can cause transcriptional activation of the human FOS proto-oncogene. This protein belongs to the ubiquitin-conjugating enzyme family but has no ligase activity on its own but is one of the enzymes involved in the ubiquitination of proteins.</p><p>As shown in <xref ref-type="table" rid="pone-0035425-t002">
+<bold>Table 2</bold>
+</xref>, we found a <bold>decreased expression</bold> of 10 genes after 6 months of n-3 FAs treatment. They were, in falling order of magnitude, in the n-3 group as follows.</p><table-wrap id="pone-0035425-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0035425.t002</object-id><label>Table 2</label><caption><title>Genes down-regulated by a DHA rich n-3 fatty acid or placebo supplementation.</title></caption><alternatives><graphic id="pone-0035425-t002-2" xlink:href="pone.0035425.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td colspan="2" align="left" rowspan="1"/><td align="left" rowspan="1" colspan="1">n-3 FA group<xref ref-type="table-fn" rid="nt107">1</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Placebo group</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Locus Link</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Genes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Fold change</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>P-value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Fold change</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>RHOB</italic>
+</td><td align="left" rowspan="1" colspan="1">Ras homolog gene family, member B</td><td align="left" rowspan="1" colspan="1">0.70&#x000b1;0.26</td><td align="left" rowspan="1" colspan="1">0.0037</td><td align="left" rowspan="1" colspan="1">1.30&#x000b1;0.79<xref ref-type="table-fn" rid="nt108">3</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>VCP</italic>
+</td><td align="left" rowspan="1" colspan="1">Valosin-containing protein</td><td align="left" rowspan="1" colspan="1">0.72&#x000b1;0.24</td><td align="left" rowspan="1" colspan="1">0.0047</td><td align="left" rowspan="1" colspan="1">0.94&#x000b1;0.16<xref ref-type="table-fn" rid="nt109">4</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>LOC399491</italic>
+</td><td align="left" rowspan="1" colspan="1">LOC 399491 protein</td><td align="left" rowspan="1" colspan="1">0.73&#x000b1;0.19</td><td align="left" rowspan="1" colspan="1">0.0032</td><td align="left" rowspan="1" colspan="1">1.09&#x000b1;0.32<xref ref-type="table-fn" rid="nt108">3</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>ZNF24</italic>
+</td><td align="left" rowspan="1" colspan="1">Zinc finger protein 24</td><td align="left" rowspan="1" colspan="1">0.76&#x000b1;0.18</td><td align="left" rowspan="1" colspan="1">0.000019</td><td align="left" rowspan="1" colspan="1">0.99&#x000b1;0.12<xref ref-type="table-fn" rid="nt108">3</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>SORL1</italic>
+</td><td align="left" rowspan="1" colspan="1">Sortilin-related receptor L (DLR class) A</td><td align="left" rowspan="1" colspan="1">0.77&#x000b1;0.21</td><td align="left" rowspan="1" colspan="1">0.0046</td><td align="left" rowspan="1" colspan="1">0.95&#x000b1;0.18</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>MAN2A1</italic>
+</td><td align="left" rowspan="1" colspan="1">Mannosidase alpha, class 2A, member 1</td><td align="left" rowspan="1" colspan="1">0.78&#x000b1;0.21</td><td align="left" rowspan="1" colspan="1">0.0029</td><td align="left" rowspan="1" colspan="1">1.01&#x000b1;0.19<xref ref-type="table-fn" rid="nt109">4</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>PARP1</italic>
+</td><td align="left" rowspan="1" colspan="1">Poly (ADP-ribose) polymerase family, member 1</td><td align="left" rowspan="1" colspan="1">0.80&#x000b1;0.16</td><td align="left" rowspan="1" colspan="1">0.0024</td><td align="left" rowspan="1" colspan="1">1.01&#x000b1;0.29<xref ref-type="table-fn" rid="nt109">4</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>SSRP1</italic>
+</td><td align="left" rowspan="1" colspan="1">Structure specific recognition protein 1</td><td align="left" rowspan="1" colspan="1">0.82&#x000b1;0.12</td><td align="left" rowspan="1" colspan="1">0.0022</td><td align="left" rowspan="1" colspan="1">0.98&#x000b1;0.23<xref ref-type="table-fn" rid="nt109">4</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>ARIH1</italic>
+</td><td align="left" rowspan="1" colspan="1">Ariadne homolog, ubiquitin-conjugating enzyme E2 binding protein</td><td align="left" rowspan="1" colspan="1">0.83&#x000b1;0.16</td><td align="left" rowspan="1" colspan="1">0.0027</td><td align="left" rowspan="1" colspan="1">0.87&#x000b1;0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>ANAPC5</italic>
+</td><td align="left" rowspan="1" colspan="1">Anaphase promoting complex subunit 5</td><td align="left" rowspan="1" colspan="1">0.87&#x000b1;0.09</td><td align="left" rowspan="1" colspan="1">0.0008</td><td align="left" rowspan="1" colspan="1">1.04&#x000b1;0.17<xref ref-type="table-fn" rid="nt108">3</xref>
+</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt106"><label/><p>All values are means&#x000b1;SD.</p></fn><fn id="nt107"><label/><p>
+<sup><italic>1</italic></sup>All genes were significantly down-regulated by the n-3 FAs treatment according to SAM based on 2000 permutations and a false discovery rate of 10&#x00025;, see microarray data analysis for details.</p></fn><fn id="nt108"><label/><p>
+<sup><italic>3</italic></sup>Significant and</p></fn><fn id="nt109"><label/><p>
+<sup><italic>4</italic></sup>close to significance (p&#x0200a;=&#x0200a;0.06&#x02013;0.09) difference in fold change between the n-3 FAs and placebo groups.</p></fn></table-wrap-foot></table-wrap><p>
+<italic>RHOB</italic> (also known as <italic>ARH6</italic>) is a Ras homolog gene family member B gene that encodes for a Rho-related GTP-binding protein with GTPase activity, RhoB precursor protein. It is involved in cell differentiation and cell adhesion. In different cell models, RhoB can activate NF-&#x003ba;B signalling by modification of the RelA/p65 transactivation domain <xref rid="pone.0035425-Rodriguez1" ref-type="bibr">[32]</xref>, implying a role in inflammation. Further, small GTPase RhoB has a critical role in vascular development.</p><p>Valosin containing protein (<italic>VCP, also</italic> known as <italic>p97</italic>) is a structural endoplasmatic reticulum protein associated with clathrin and heat shock protein Hsc70. It belongs to the family of putative ATP-binding proteins involved in vesicle transport and fusion and ubiqutin-dependent protein degradation. Polymorphism in this gene may be linked to late onset AD <xref rid="pone.0035425-Kaleem1" ref-type="bibr">[33]</xref>.</p><p>
+<italic>LOC399491</italic> encodes for a hypothetical protein, possibly a membrane protein and a protein in the neuropeptide signalling pathway. No pathology has so far been associated with this gene.</p><p>The zinc finger protein 24 gene (<italic>ZNF24</italic>, also known as <italic>ZNF191</italic> and <italic>KOX17</italic>) is related to <italic>ZNF191</italic>, which probably is associated with some hereditary diseases and cancers. <italic>ZNF24</italic> may function as a transcription factor.</p><p>
+<italic>SORL1</italic> (<italic>also</italic> known <italic>as SORLA and LR11</italic>) encodes for the sortilin-related receptor L (DLR class) A. The gene encodes for a protein that belongs to the family of vacuolar protein sorting 10 (VPS10) domain-containing receptor proteins, which is mainly found intracellularly in the paranuclear compartment and is strongly expressed in the central nervous system. It regulates processing of amyloid precursor protein (APP) in AD <xref rid="pone.0035425-Andersen1" ref-type="bibr">[34]</xref>, and the expression of <italic>SORL1</italic> is reduced in the brain of AD patients, thus being of considerable interest for understanding of the AD pathology <xref rid="pone.0035425-Scherzer1" ref-type="bibr">[35]</xref>.</p><p>The gene Mannosidase &#x003b1;, class 2A, member 1 (<italic>MAN2A1</italic> also known as <italic>MANA2</italic>) encodes for a &#x003b1;-mannosidase-2 protein, which is a family member of the glycosyl hydrolases in the Golgi apparatus. A mutation in a mouse homolog of this gene has been linked to a systemic autoimmune disease making it likely that this gene has a relation to inflammation regulation.</p><p>
+<italic>PARP1</italic> (also known as <italic>ADPRT1</italic>, <italic>PARP-1</italic>, <italic>PPOL</italic>, <italic>pADPRT-1</italic>). This gene encodes a chromatin-associated enzyme, poly (ADP-ribosyl) transferase-1, which modifies nuclear proteins. It is involved in the regulation of e.g. differentiation, proliferation, tumour transformation and the recovery of cells from DNA damage. This enzyme may be the site of mutation in Fanconi anaemia and may participate in the pathophysiology of type I diabetes. It has also been suggested that PARP-1 is involved in NF-&#x003ba;B driven expression of inflammatory mediators, like interleukin-1 (IL-1) <xref rid="pone.0035425-Chiarugi1" ref-type="bibr">[36]</xref>. An over activity of PARP-1 has been shown in the AD brain <xref rid="pone.0035425-Infante1" ref-type="bibr">[37]</xref>. This gene is of interest for understanding of the AD pathology as well as inflammation.</p><p>The structure specific recognition protein-1 (<italic>SSRP1</italic>, also known as <italic>FACT</italic>, <italic>FACT80</italic> and <italic>T160</italic>). The encoded protein forms with other proteins the chromatin transcriptional elongation factor FACT, which appears to be crucial to the anticancer mechanism of cisplatin. This protein also functions as a co-activator of the transcriptional activator p63.</p><p>Ariadne homolog, ubiquitin-conjugating enzyme E2 binding protein-1 (<italic>ARIH1</italic>, also known as <italic>ARI</italic> and <italic>UBCH7BP</italic>), is one of the proteins involved in the ubiquitination process before degradation of proteins by the 26S proteasome.</p><p>The anaphase promoting complex subunit-5 protein (<italic>ANAPC5</italic> also known as <italic>APC5</italic>) gene encodes for the anaphase promoting complex/cyclosome (APC/C), a large E3 ubiquitin ligase that controls cell cycle progression by targeting a number of cell cycle regulators such as B-type cyclins for 26S proteasome-mediated degradation.</p></sec><sec id="s3d"><title>Gene changes in the placebo group and comparisons with the n-3 FA group</title><p>We analyzed by t-test if genes regulated by n-3 FA supplementation were also up-or down-regulated in the placebo group. Only the <italic>DRG1</italic>gene were found to be significantly up regulated in the placebo group (p&#x0200a;=&#x0200a;0.04; <xref ref-type="table" rid="pone-0035425-t001">
+<bold>Table 1</bold>
+</xref>).</p><p>Eighteen of 19 genes, significantly changed by the n-3 FA supplementation, displayed a larger fold change in the n-3 FA group than in the placebo group; the exception was <italic>HSD17B11</italic> (<xref ref-type="table" rid="pone-0035425-t001">
+<bold>Table 1</bold>
+</xref>
+<bold> and </bold>
+<xref ref-type="table" rid="pone-0035425-t002">
+<bold>2</bold>
+</xref>). The difference was significant for five genes (<italic>CD63</italic>, <italic>RHOB</italic>, <italic>LOC399491</italic>, <italic>ZNF24</italic>, <italic>ANAPC5</italic>) and close to significance for an additional six (p&#x0200a;=&#x0200a;0.05&#x02013;0.09) (<italic>MAN2A1</italic>, <italic>CASP4</italic>, <italic>SUPT4H1</italic>, <italic>VCP</italic>, <italic>PARP1</italic>, <italic>SSRP1</italic>) by means of t-tests.</p></sec><sec id="s3e"><title>Individual mRNA measurements</title><p>We chose five genes for validation by RT-PCR. Out of these five genes, two, <italic>viz</italic>. <italic>CD63</italic> and <italic>SORL1</italic> were significantly modulated in accordance with changes in the microarray assay, and <italic>CASP4</italic> was borderline significant (p&#x0200a;=&#x0200a;0.05) (<xref ref-type="table" rid="pone-0035425-t003">
+<bold>Table 3</bold>
+</xref>). The inability to confirm some genes could be due to false positive, i.e. the use of a 10&#x00025; FDR, or limited power of the confirmation cohort.</p><table-wrap id="pone-0035425-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0035425.t003</object-id><label>Table 3</label><caption><title>Individual messenger RNA measurements in the n-3 fatty acid group.</title></caption><alternatives><graphic id="pone-0035425-t003-3" xlink:href="pone.0035425.t003"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Locus Link</td><td align="left" rowspan="1" colspan="1">Accession no</td><td align="left" rowspan="1" colspan="1">Fold change<xref ref-type="table-fn" rid="nt110">1</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>-value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>CD63</italic>
+</td><td align="left" rowspan="1" colspan="1">Hs00156390_m1</td><td align="left" rowspan="1" colspan="1">1.18&#x000b1;0.25</td><td align="left" rowspan="1" colspan="1">0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>CASP4</italic>
+</td><td align="left" rowspan="1" colspan="1">Hs00233437_m1</td><td align="left" rowspan="1" colspan="1">1.17&#x000b1;0.31</td><td align="left" rowspan="1" colspan="1">0.05<xref ref-type="table-fn" rid="nt111">4</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>SORL1</italic>
+</td><td align="left" rowspan="1" colspan="1">Hs00268342_m1</td><td align="left" rowspan="1" colspan="1">0.84&#x000b1;0.27</td><td align="left" rowspan="1" colspan="1">0.04</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>RHOB</italic>
+</td><td align="left" rowspan="1" colspan="1">Hs00269660_s1</td><td align="left" rowspan="1" colspan="1">0.84&#x000b1;0.41</td><td align="left" rowspan="1" colspan="1">0.11</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>VCP</italic>
+</td><td align="left" rowspan="1" colspan="1">Hs00200205_m1</td><td align="left" rowspan="1" colspan="1">0.97&#x000b1;0.14</td><td align="left" rowspan="1" colspan="1">0.22</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt110"><label/><p>
+<sup><italic>1</italic></sup>The expression of the target gene was normalized to the LRP10 internal control using the formula 2<sup>(Ct target calibrator &#x02013; Ct target sample)</sup>/2<sup>(Ct LRP10 calibrator &#x02013; Ct LRP10 sample)</sup> where calibrator is a random sample. Subsequently, fold change was calculated as the ratio between values for 0 and 6 months of n-3 supplementation. Mean&#x000b1;SD values (n&#x0200a;=&#x0200a;11).</p></fn><fn id="nt111"><label/><p>
+<sup><italic>4</italic></sup>Near significance.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3f"><title>Correlation analyses</title><p>When relating values for expressed genes to plasma concentrations of DHA or EPA, we found that changes in DHA or EPA for all 16 subjects correlated significantly to changes in the expression of <italic>ANAPC5</italic> (r&#x0200a;=&#x0200a;&#x02212;0.625; p&#x0200a;=&#x0200a;0.01 /<xref ref-type="fig" rid="pone-0035425-g003">
+<bold>Figure 3</bold>
+</xref>
+<bold> left</bold>/, and r&#x0200a;=&#x0200a;&#x02212;0.619; p&#x0200a;=&#x0200a;0.01, respectively), and <italic>RHOB</italic> (r&#x0200a;=&#x0200a;&#x02212;0.512; p&#x0200a;=&#x0200a;0.04, and r&#x0200a;=&#x0200a;&#x02212;0.57; p&#x0200a;=&#x0200a;0.02, respectively). Thus, the more DHA (or EPA) concentrations increased, the lower was the expression of the <italic>ANAPC5</italic> and <italic>RHOB</italic> genes. Moreover, we found that changes of EPA levels, but not DHA, for all 16 subjects correlated significantly to changes of the expression of the <italic>CASP4</italic> gene (r&#x0200a;=&#x0200a;0.547; p&#x0200a;=&#x0200a;0.028 /<xref ref-type="fig" rid="pone-0035425-g003">
+<bold>Figure 3</bold>
+</xref>
+<bold> right</bold>/). Thus, the <italic>CASP4</italic> gene expression rose with an enhanced EPA plasma level.</p><fig id="pone-0035425-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0035425.g003</object-id><label>Figure 3</label><caption><title>Correlation between changes of plasma docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) and gene expression.</title><p>Changes of plasma DHA, left, and EPA, right, and changes of expression (signal log ratio units) for the <italic>ANAPC5</italic> (left) and <italic>CASP4</italic> (right) genes.</p></caption><graphic xlink:href="pone.0035425.g003"/></fig></sec></sec><sec id="s4"><title>Discussion</title><p>Here, we describe that 6 months of dietary supplementation of a DHA rich fish oil formulation to elderly humans afflicted with AD conferred significant up- or down-regulation of several genes. They represent a wide variety of cellular functions. Notably, many of these are associated with inflammatory reactions (<italic>viz</italic>. <italic>CD63</italic>, <italic>HSD17B11</italic>, <italic>RAB27A</italic>, <italic>CASP4</italic>, <italic>MAN2A1</italic> and <italic>PARP1</italic>), others with neuroinflammatory disorders (<italic>viz</italic>. <italic>NAIP</italic>, <italic>DRG1</italic>, <italic>SORL1</italic>, <italic>CASP4</italic> and <italic>PARP1</italic>), two processes which are highly relevant for actions of n-3 FAs and the aim of the OmegAD study to investigate. Some of the genes were found in both categories, emphasizing the inflammatory component of AD process <xref rid="pone.0035425-Yukioka1" ref-type="bibr">[31]</xref>, <xref rid="pone.0035425-Jakobsen1" ref-type="bibr">[38]</xref>. Moreover, only 1 (of 19) genes was significantly changed in the placebo treated group. Finally, the statistically significant relation between changes of plasma DHA and EPA levels and of the <italic>RHOB</italic> and <italic>ANAPC5</italic> genes is intriguing.</p><p>The four previously mentioned genome wide expression studies in baboons, rodents and the one in healthy subjects <xref rid="pone.0035425-Kothapalli1" ref-type="bibr">[19]</xref>, <xref rid="pone.0035425-Berger1" ref-type="bibr">[20]</xref>, <xref rid="pone.0035425-Davidson1" ref-type="bibr">[21]</xref>, <xref rid="pone.0035425-Bouwens1" ref-type="bibr">[22]</xref> noted changes in 5&#x02013;1000 genes in brains, livers and PBMC, respectively, after dietary DHA or EPA rich fish oil interventions for 3&#x02013;10 weeks in rodents and 26 weeks in humans. However and surprisingly, none of those genes coincided with what we describe here as significantly up- or down-regulated. A possible explanation of these inconsistencies in results might be related to species, human populations and ages, FA types, doses, duration as well as to target organs. Thus, our study presents unique data on genes of relevance to long-term dietary supplementation with a DHA-rich preparation to aged and AD-afflicted humans.</p><p>Array techniques with a restricted set of gene probes (app. 3000 genes or less) were used in a few n-3 FA animal studies. In one, on brain tissue, the fish oil group displayed almost the same expression profile as the control group <xref rid="pone.0035425-Kitajka1" ref-type="bibr">[11]</xref>. Another study found an up-regulation of the transthyretin gene in the hippocampus <xref rid="pone.0035425-Puskas1" ref-type="bibr">[12]</xref>, whereas we did not in our study on human PBMC. In a third murine study, genes encoding for IL-1&#x003b1;, IL-1&#x003b2; or NO synthase were unaltered <xref rid="pone.0035425-BarceloCoblijn1" ref-type="bibr">[13]</xref>, as in our study. Two months of a DHA rich fish oil supplementation modified 77 of 588 studied genes in human lymphocytes <xref rid="pone.0035425-Gorjao1" ref-type="bibr">[39]</xref> but, again, none was genes we identified as up-or down-regulated.</p><p>The recently published study on healthy humans given an EPA rich fish oil <xref rid="pone.0035425-Bouwens1" ref-type="bibr">[22]</xref> (with total n-3 FA doses close to ours and for a similar time) observed changes in more than 1000 genes, where the magnitude of changes was often very small. The reason for the outfall in terms of number of genes can probably be related to using an array covering 17 000 genes, including approximately twice as many subjects as in our study, and using a nominal p-value 0.05 as threshold to determine significantly altered gene expression on microarray data. The latter makes the results difficult to compare with our analysis of microarray data with SAM, which takes multiple comparisons into account. Since only a fraction of all changed genes were listed in <xref rid="pone.0035425-Bouwens1" ref-type="bibr">[22]</xref>, we do not know if changes were seen in the same genes as in our study. Of note, out of 99 independent transcripts (changed by EPA) that could be identified in <xref rid="pone.0035425-Bouwens1" ref-type="bibr">[22]</xref>, 16 transcripts were not represented with probesets on our Focus array. Another 19 transcripts were detected in less than 29 of 32 arrays, and displayed very low signals; it has previously been demonstrated that variability in gene expression is a function of absolute expression, i.e. a lowly expressed gene is more variable than a highly expressed gene <xref rid="pone.0035425-Mutch1" ref-type="bibr">[40]</xref>. Results for such genes have an increased risk of being false positive and are also more difficult to confirm in independent datasets. In addition, some of the remaining 54 EPA-regulated transcripts in <xref rid="pone.0035425-Bouwens1" ref-type="bibr">[22]</xref> gave low signals on our Focus array. Together, these factors can partially explain why we could not confirm the findings by Bouwens et al <xref rid="pone.0035425-Bouwens1" ref-type="bibr">[22]</xref>.</p><p>Several studies have examined the effects of fish oils on individual human genes and corresponding protein production, documenting, inter alia, diminished ex vivo pro-inflammatory cytokine production in mononuclear blood cells, e.g. TNF-&#x003b1; and IL-1&#x003b2; <xref rid="pone.0035425-Endres1" ref-type="bibr">[41]</xref>, <xref rid="pone.0035425-Meydani1" ref-type="bibr">[42]</xref> and IL-6 <xref rid="pone.0035425-Meydani1" ref-type="bibr">[42]</xref> and decreased TNF-&#x003b1; and IL-6 in a dose-dependent manner <xref rid="pone.0035425-Trebble1" ref-type="bibr">[43]</xref>. Fish oil also lowered gene expression of TNF-&#x003b1; in renal allograft after 3 months of treatment <xref rid="pone.0035425-Hernandez1" ref-type="bibr">[44]</xref>. These findings could, however, not consistently be repeated in other studies <xref rid="pone.0035425-Blok1" ref-type="bibr">[45]</xref>, <xref rid="pone.0035425-Kew1" ref-type="bibr">[46]</xref>. Again, the reason for these discrepancies may relate to n-3 FA dosage, treatment time, whether DHA or EPA was the predominant FA (since they may regulate genes differently) <xref rid="pone.0035425-Verlengia1" ref-type="bibr">[17]</xref>, <xref rid="pone.0035425-Verlengia2" ref-type="bibr">[18]</xref>, the cell type and the experimental design. This is further illustrated by rather heterogeneous results from animal studies <xref rid="pone.0035425-Kitajka1" ref-type="bibr">[11]</xref>, <xref rid="pone.0035425-Puskas1" ref-type="bibr">[12]</xref>, <xref rid="pone.0035425-BarceloCoblijn1" ref-type="bibr">[13]</xref> where species differences and age effects also are of significance.</p><p>As shown here, EPA as well as DHA plasma levels was enhanced in a similar way, suggesting that DHA was converted to EPA to some extent or that DHA was specifically cleared from plasma. This makes it difficult to attribute gene changes to one FA. However, DHA enriched formulas were rarely used in previous <italic>in vivo</italic> studies.</p><p>In a previous publication from the OmegAD study <xref rid="pone.0035425-Vedin2" ref-type="bibr">[24]</xref>, we reported about changes of pro-inflammatory cytokine and growth factor production from LPS stimulated blood mononuclear cells ex vivo. However, we are unable to show any changes in corresponding genes. This might be due to our gene expression data is based on quiescent PBMCs, without LPS activation.</p><p>
+<italic>In vitro</italic> and after dietary supplementation, DHA increased the sortilin-1 receptor (<italic>SORL1</italic>) mRNA and protein in murine cortical neurons <xref rid="pone.0035425-Ma1" ref-type="bibr">[47]</xref>, but decreases have also been observed <xref rid="pone.0035425-Perez1" ref-type="bibr">[48]</xref>. <italic>SORL1</italic> regulates the amyloid precursor protein and this protein is also elevated in aged DHA depleted mice <xref rid="pone.0035425-Ma1" ref-type="bibr">[47]</xref>. In our study we found that n-3 FA down-regulated the expression of the <italic>SORL1</italic> gene which is in agreement with Perez et al <xref rid="pone.0035425-Perez1" ref-type="bibr">[48]</xref>.</p><p>Our DHA enriched n-3 FAs supplementation for 6 months caused effects with higher magnitudes on several genes compared with placebo treatment. Moreover, the genes <italic>RHOB</italic> and <italic>ANAPC5</italic> also showed a statistically significant correlation with the changes of both plasma DHA and EPA levels, making them interesting candidates for further studies on effects of n-3 FAs.</p><p>The magnitude of the gene expression changes observed here might appear rather small, since they ranged between &#x0002b;72 and &#x02013; 30 per cent. This is, however, what might be expected in dietary supplementation studies in animals and humans <xref rid="pone.0035425-Kothapalli1" ref-type="bibr">[19]</xref>, <xref rid="pone.0035425-Bouwens1" ref-type="bibr">[22]</xref>, <xref rid="pone.0035425-Dahlman1" ref-type="bibr">[49]</xref>. In contrast, <italic>in vitro</italic> studies or in short-term animal studies larger changes might be found. One can anticipate that acute and large effects will vane with prolonged exposure because of an adaptation over time.</p><p>The present study gives novel information on mechanisms for marine lipids, suggesting that dietary n-3 FA supplementation affected expression of genes that might influence inflammatory processes and could be of significance for Alzheimer's disease. Recently, the significance of n-3 FA blood levels for telomeric aging in patients with coronary heart disease was demonstrated <xref rid="pone.0035425-FarzanehFar1" ref-type="bibr">[50]</xref>.</p></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0035425.s001"><label>Supplementary Material S1</label><caption><p>For details of patient in- and exclusion in the study, RNA extraction and microarray hybridization, microarray data analysis and verification of microarray with real time PCR.</p><p>(DOC)</p></caption><media xlink:href="pone.0035425.s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We thank Prof Bengt Vessby and Siv Tengblad for fatty acid analyses, A-C Tys&#x000e9;n-B&#x000e4;ckstr&#x000f6;m, Andreas Svensson, RNs, for patient management, Johan Lid&#x000e9;n, PhD, and David Brodin, Bioinformatics and Expression Analysis (BEA) core facility, for help with performance of Affymetrix microarray analyses and Eva Sj&#x000f6;lin and Elisabeth Dungner for valuable help with the real time (RT)-PCR -analyses.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This study was supported by grants from The Swedish Medical Research Council (19X-05991, 71XS-13135), The Swedish Association against Rheumatism, Karolinska Institutet, Huddinge University Hospital, the Funds of &#x000c5; Wiberg, King Gustaf V: s 80-year, Uggla, N Svartz, V&#x000e5;rdal, Swedish Cancer Society, Cancer Society of Stockholm, Swedish Alzheimer Foundation and the Regional Agreement on Medical Training and Clinical Research (ALF) between Stockholm County Council and the Karolinska Institutet. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0035425-Simopoulos1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simopoulos</surname><given-names>AP</given-names></name></person-group>
+<year>2002</year>
+<article-title>Omega-3 fatty acids in inflammation and autoimmune diseases.</article-title>
+<source>J Am Coll Nutr</source>
+<volume>21</volume>
+<fpage>495</fpage>
+<lpage>505</lpage>
+<pub-id pub-id-type="pmid">12480795</pub-id></element-citation></ref><ref id="pone.0035425-Mori1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mori</surname><given-names>TA</given-names></name><name><surname>Beilin</surname><given-names>LJ</given-names></name></person-group>
+<year>2004</year>
+<article-title>Omega-3 fatty acids and inflammation.</article-title>
+<source>Curr Atheroscler Rep</source>
+<volume>6</volume>
+<fpage>461</fpage>
+<lpage>467</lpage>
+<pub-id pub-id-type="pmid">15485592</pub-id></element-citation></ref><ref id="pone.0035425-Jacobson1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jacobson</surname><given-names>TA</given-names></name></person-group>
+<year>2006</year>
+<article-title>Secondary prevention of coronary artery disease with omega-3 fatty acids.</article-title>
+<source>Am J Cardiol</source>
+<volume>98</volume>
+<fpage>61i</fpage>
+<lpage>70i</lpage>
+</element-citation></ref><ref id="pone.0035425-BarbergerGateau1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barberger-Gateau</surname><given-names>P</given-names></name><name><surname>Letenneur</surname><given-names>L</given-names></name><name><surname>Deschamps</surname><given-names>V</given-names></name><name><surname>Peres</surname><given-names>K</given-names></name><name><surname>Dartigues</surname><given-names>JF</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Fish, meat, and risk of dementia: cohort study.</article-title>
+<source>BMJ</source>
+<volume>325</volume>
+<fpage>932</fpage>
+<lpage>933</lpage>
+<pub-id pub-id-type="pmid">12399342</pub-id></element-citation></ref><ref id="pone.0035425-Schaefer1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schaefer</surname><given-names>EJ</given-names></name><name><surname>Bongard</surname><given-names>V</given-names></name><name><surname>Beiser</surname><given-names>AS</given-names></name><name><surname>Lamon-Fava</surname><given-names>S</given-names></name><name><surname>Robins</surname><given-names>SJ</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Plasma phosphatidylcholine docosahexaenoic acid content and risk of dementia and Alzheimer disease: the Framingham Heart Study.</article-title>
+<source>Arch Neurol</source>
+<volume>63</volume>
+<fpage>1545</fpage>
+<lpage>1550</lpage>
+<pub-id pub-id-type="pmid">17101822</pub-id></element-citation></ref><ref id="pone.0035425-Morris1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morris</surname><given-names>MC</given-names></name><name><surname>Evans</surname><given-names>DA</given-names></name><name><surname>Bienias</surname><given-names>JL</given-names></name><name><surname>Tangney</surname><given-names>CC</given-names></name><name><surname>Bennett</surname><given-names>DA</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Consumption of fish and n-3 fatty acids and risk of incident Alzheimer disease.</article-title>
+<source>Arch Neurol</source>
+<volume>60</volume>
+<fpage>940</fpage>
+<lpage>946</lpage>
+<pub-id pub-id-type="pmid">12873849</pub-id></element-citation></ref><ref id="pone.0035425-FreundLevi1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Freund-Levi</surname><given-names>Y</given-names></name><name><surname>Eriksdotter-Jonhagen</surname><given-names>M</given-names></name><name><surname>Cederholm</surname><given-names>T</given-names></name><name><surname>Basun</surname><given-names>H</given-names></name><name><surname>Faxen-Irving</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Omega-3 fatty acid treatment in 174 patients with mild to moderate Alzheimer disease: OmegAD study: a randomized double-blind trial.</article-title>
+<source>Arch Neurol</source>
+<volume>63</volume>
+<fpage>1402</fpage>
+<lpage>1408</lpage>
+<pub-id pub-id-type="pmid">17030655</pub-id></element-citation></ref><ref id="pone.0035425-Calder1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Calder</surname><given-names>PC</given-names></name></person-group>
+<year>2006</year>
+<article-title>Polyunsaturated fatty acids and inflammation.</article-title>
+<source>Prostaglandins Leukot Essent Fatty Acids</source>
+<volume>75</volume>
+<fpage>197</fpage>
+<lpage>202</lpage>
+<pub-id pub-id-type="pmid">16828270</pub-id></element-citation></ref><ref id="pone.0035425-deUrquiza1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Urquiza</surname><given-names>AM</given-names></name><name><surname>Liu</surname><given-names>S</given-names></name><name><surname>Sjoberg</surname><given-names>M</given-names></name><name><surname>Zetterstrom</surname><given-names>RH</given-names></name><name><surname>Griffiths</surname><given-names>W</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Docosahexaenoic acid, a ligand for the retinoid X receptor in mouse brain.</article-title>
+<source>Science</source>
+<volume>290</volume>
+<fpage>2140</fpage>
+<lpage>2144</lpage>
+<pub-id pub-id-type="pmid">11118147</pub-id></element-citation></ref><ref id="pone.0035425-Zhao1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>G</given-names></name><name><surname>Etherton</surname><given-names>TD</given-names></name><name><surname>Martin</surname><given-names>KR</given-names></name><name><surname>Vanden Heuvel</surname><given-names>JP</given-names></name><name><surname>Gillies</surname><given-names>PJ</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Anti-inflammatory effects of polyunsaturated fatty acids in THP-1 cells.</article-title>
+<source>Biochem Biophys Res Commun</source>
+<volume>336</volume>
+<fpage>909</fpage>
+<lpage>917</lpage>
+<pub-id pub-id-type="pmid">16169525</pub-id></element-citation></ref><ref id="pone.0035425-Kitajka1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kitajka</surname><given-names>K</given-names></name><name><surname>Puskas</surname><given-names>LG</given-names></name><name><surname>Zvara</surname><given-names>A</given-names></name><name><surname>Hackler</surname><given-names>L</given-names><suffix>Jr</suffix></name><name><surname>Barcelo-Coblijn</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>The role of n-3 polyunsaturated fatty acids in brain: modulation of rat brain gene expression by dietary n-3 fatty acids.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>99</volume>
+<fpage>2619</fpage>
+<lpage>2624</lpage>
+<pub-id pub-id-type="pmid">11880617</pub-id></element-citation></ref><ref id="pone.0035425-Puskas1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Puskas</surname><given-names>LG</given-names></name><name><surname>Kitajka</surname><given-names>K</given-names></name><name><surname>Nyakas</surname><given-names>C</given-names></name><name><surname>Barcelo-Coblijn</surname><given-names>G</given-names></name><name><surname>Farkas</surname><given-names>T</given-names></name></person-group>
+<year>2003</year>
+<article-title>Short-term administration of omega 3 fatty acids from fish oil results in increased transthyretin transcription in old rat hippocampus.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>100</volume>
+<fpage>1580</fpage>
+<lpage>1585</lpage>
+<pub-id pub-id-type="pmid">12566565</pub-id></element-citation></ref><ref id="pone.0035425-BarceloCoblijn1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barcelo-Coblijn</surname><given-names>G</given-names></name><name><surname>Hogyes</surname><given-names>E</given-names></name><name><surname>Kitajka</surname><given-names>K</given-names></name><name><surname>Puskas</surname><given-names>LG</given-names></name><name><surname>Zvara</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Modification by docosahexaenoic acid of age-induced alterations in gene expression and molecular composition of rat brain phospholipids.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>100</volume>
+<fpage>11321</fpage>
+<lpage>11326</lpage>
+<pub-id pub-id-type="pmid">13679584</pub-id></element-citation></ref><ref id="pone.0035425-Rojas1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rojas</surname><given-names>CV</given-names></name><name><surname>Martinez</surname><given-names>JI</given-names></name><name><surname>Flores</surname><given-names>I</given-names></name><name><surname>Hoffman</surname><given-names>DR</given-names></name><name><surname>Uauy</surname><given-names>R</given-names></name></person-group>
+<year>2003</year>
+<article-title>Gene expression analysis in human fetal retinal explants treated with docosahexaenoic acid.</article-title>
+<source>Invest Ophthalmol Vis Sci</source>
+<volume>44</volume>
+<fpage>3170</fpage>
+<lpage>3177</lpage>
+<pub-id pub-id-type="pmid">12824268</pub-id></element-citation></ref><ref id="pone.0035425-Narayanan1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Narayanan</surname><given-names>BA</given-names></name><name><surname>Narayanan</surname><given-names>NK</given-names></name><name><surname>Reddy</surname><given-names>BS</given-names></name></person-group>
+<year>2001</year>
+<article-title>Docosahexaenoic acid regulated genes and transcription factors inducing apoptosis in human colon cancer cells.</article-title>
+<source>Int J Oncol</source>
+<volume>19</volume>
+<fpage>1255</fpage>
+<lpage>1262</lpage>
+<pub-id pub-id-type="pmid">11713597</pub-id></element-citation></ref><ref id="pone.0035425-Narayanan2"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Narayanan</surname><given-names>BA</given-names></name><name><surname>Narayanan</surname><given-names>NK</given-names></name><name><surname>Simi</surname><given-names>B</given-names></name><name><surname>Reddy</surname><given-names>BS</given-names></name></person-group>
+<year>2003</year>
+<article-title>Modulation of inducible nitric oxide synthase and related proinflammatory genes by the omega-3 fatty acid docosahexaenoic acid in human colon cancer cells.</article-title>
+<source>Cancer Res</source>
+<volume>63</volume>
+<fpage>972</fpage>
+<lpage>979</lpage>
+<pub-id pub-id-type="pmid">12615711</pub-id></element-citation></ref><ref id="pone.0035425-Verlengia1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Verlengia</surname><given-names>R</given-names></name><name><surname>Gorjao</surname><given-names>R</given-names></name><name><surname>Kanunfre</surname><given-names>CC</given-names></name><name><surname>Bordin</surname><given-names>S</given-names></name><name><surname>Martins De Lima</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Comparative effects of eicosapentaenoic acid and docosahexaenoic acid on proliferation, cytokine production, and pleiotropic gene expression in Jurkat cells.</article-title>
+<source>J Nutr Biochem</source>
+<volume>15</volume>
+<fpage>657</fpage>
+<lpage>665</lpage>
+<pub-id pub-id-type="pmid">15590269</pub-id></element-citation></ref><ref id="pone.0035425-Verlengia2"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Verlengia</surname><given-names>R</given-names></name><name><surname>Gorjao</surname><given-names>R</given-names></name><name><surname>Kanunfre</surname><given-names>CC</given-names></name><name><surname>Bordin</surname><given-names>S</given-names></name><name><surname>de Lima</surname><given-names>TM</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Effects of EPA and DHA on proliferation, cytokine production, and gene expression in Raji cells.</article-title>
+<source>Lipids</source>
+<volume>39</volume>
+<fpage>857</fpage>
+<lpage>864</lpage>
+<pub-id pub-id-type="pmid">15669761</pub-id></element-citation></ref><ref id="pone.0035425-Kothapalli1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kothapalli</surname><given-names>KS</given-names></name><name><surname>Anthony</surname><given-names>JC</given-names></name><name><surname>Pan</surname><given-names>BS</given-names></name><name><surname>Hsieh</surname><given-names>AT</given-names></name><name><surname>Nathanielsz</surname><given-names>PW</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Differential cerebral cortex transcriptomes of baboon neonates consuming moderate and high docosahexaenoic acid formulas.</article-title>
+<source>PLoS One</source>
+<volume>2</volume>
+<fpage>e370</fpage>
+<pub-id pub-id-type="pmid">17426818</pub-id></element-citation></ref><ref id="pone.0035425-Berger1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berger</surname><given-names>A</given-names></name><name><surname>Mutch</surname><given-names>DM</given-names></name><name><surname>German</surname><given-names>JB</given-names></name><name><surname>Roberts</surname><given-names>MA</given-names></name></person-group>
+<year>2002</year>
+<article-title>Dietary effects of arachidonate-rich fungal oil and fish oil on murine hepatic and hippocampal gene expression.</article-title>
+<source>Lipids Health Dis</source>
+<volume>1</volume>
+<fpage>2</fpage>
+<pub-id pub-id-type="pmid">12617750</pub-id></element-citation></ref><ref id="pone.0035425-Davidson1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davidson</surname><given-names>LA</given-names></name><name><surname>Nguyen</surname><given-names>DV</given-names></name><name><surname>Hokanson</surname><given-names>RM</given-names></name><name><surname>Callaway</surname><given-names>ES</given-names></name><name><surname>Isett</surname><given-names>RB</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Chemopreventive n-3 polyunsaturated fatty acids reprogram genetic signatures during colon cancer initiation and progression in the rat.</article-title>
+<source>Cancer Res</source>
+<volume>64</volume>
+<fpage>6797</fpage>
+<lpage>6804</lpage>
+<pub-id pub-id-type="pmid">15374999</pub-id></element-citation></ref><ref id="pone.0035425-Bouwens1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bouwens</surname><given-names>M</given-names></name><name><surname>van de Rest</surname><given-names>O</given-names></name><name><surname>Dellschaft</surname><given-names>N</given-names></name><name><surname>Bromhaar</surname><given-names>MG</given-names></name><name><surname>de Groot</surname><given-names>LC</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Fish-oil supplementation induces antiinflammatory gene expression profiles in human blood mononuclear cells.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>90</volume>
+<fpage>415</fpage>
+<lpage>424</lpage>
+<pub-id pub-id-type="pmid">19515734</pub-id></element-citation></ref><ref id="pone.0035425-Vedin1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vedin</surname><given-names>I</given-names></name><name><surname>Cederholm</surname><given-names>T</given-names></name><name><surname>Lind&#x000e9;n</surname><given-names>J</given-names></name><name><surname>Freund-Levi</surname><given-names>Y</given-names></name><name><surname>Basun</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Inflammatory gene expression changes by omega-3 fatty acids in patients with Alzheimer's disease.</article-title>
+<source>FASEB Journal</source>
+<volume>18</volume>
+<fpage>A501</fpage>
+</element-citation></ref><ref id="pone.0035425-Vedin2"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vedin</surname><given-names>I</given-names></name><name><surname>Cederholm</surname><given-names>T</given-names></name><name><surname>Freund Levi</surname><given-names>Y</given-names></name><name><surname>Basun</surname><given-names>H</given-names></name><name><surname>Garlind</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Effects of docosahexaenoic acid-rich n-3 fatty acid supplementation on cytokine release from blood mononuclear leukocytes: the OmegAD study.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>87</volume>
+<fpage>1616</fpage>
+<lpage>1622</lpage>
+<pub-id pub-id-type="pmid">18541548</pub-id></element-citation></ref><ref id="pone.0035425-Tusher1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tusher</surname><given-names>VG</given-names></name><name><surname>Tibshirani</surname><given-names>R</given-names></name><name><surname>Chu</surname><given-names>G</given-names></name></person-group>
+<year>2001</year>
+<article-title>Significance analysis of microarrays applied to the ionizing radiation response.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>98</volume>
+<fpage>5116</fpage>
+<lpage>5121</lpage>
+<pub-id pub-id-type="pmid">11309499</pub-id></element-citation></ref><ref id="pone.0035425-Boberg1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boberg</surname><given-names>M</given-names></name><name><surname>Croon</surname><given-names>LB</given-names></name><name><surname>Gustafsson</surname><given-names>IB</given-names></name><name><surname>Vessby</surname><given-names>B</given-names></name></person-group>
+<year>1985</year>
+<article-title>Platelet fatty acid composition in relation to fatty acid composition in plasma and to serum lipoprotein lipids in healthy subjects with special reference to the linoleic acid pathway.</article-title>
+<source>Clin Sci (Lond)</source>
+<volume>68</volume>
+<fpage>581</fpage>
+<lpage>587</lpage>
+<pub-id pub-id-type="pmid">3919990</pub-id></element-citation></ref><ref id="pone.0035425-Christie1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Christie</surname><given-names>LA</given-names></name><name><surname>Su</surname><given-names>JH</given-names></name><name><surname>Tu</surname><given-names>CH</given-names></name><name><surname>Dick</surname><given-names>MC</given-names></name><name><surname>Zhou</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Differential regulation of inhibitors of apoptosis proteins in Alzheimer's disease brains.</article-title>
+<source>Neurobiol Dis</source>
+<volume>26</volume>
+<fpage>165</fpage>
+<lpage>173</lpage>
+<pub-id pub-id-type="pmid">17292615</pub-id></element-citation></ref><ref id="pone.0035425-Hartl1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hartl</surname><given-names>D</given-names></name><name><surname>Krauss-Etschmann</surname><given-names>S</given-names></name><name><surname>Koller</surname><given-names>B</given-names></name><name><surname>Hordijk</surname><given-names>PL</given-names></name><name><surname>Kuijpers</surname><given-names>TW</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Infiltrated neutrophils acquire novel chemokine receptor expression and chemokine responsiveness in chronic inflammatory lung diseases.</article-title>
+<source>J Immunol</source>
+<volume>181</volume>
+<fpage>8053</fpage>
+<lpage>8067</lpage>
+<pub-id pub-id-type="pmid">19017998</pub-id></element-citation></ref><ref id="pone.0035425-Trottestam1"><label>29</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Trottestam</surname><given-names>H</given-names></name><name><surname>Beutel</surname><given-names>K</given-names></name><name><surname>Meeths</surname><given-names>M</given-names></name><name><surname>Carlsen</surname><given-names>N</given-names></name><name><surname>Heilmann</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Treatment of the X-linked lymphoproliferative, Griscelli and Chediak-Higashi syndromes by HLH directed therapy.</article-title>
+<publisher-name>Pediatr Blood Cancer</publisher-name>
+</element-citation></ref><ref id="pone.0035425-Lakshmanan1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lakshmanan</surname><given-names>U</given-names></name><name><surname>Porter</surname><given-names>AG</given-names></name></person-group>
+<year>2007</year>
+<article-title>Caspase-4 interacts with TNF receptor-associated factor 6 and mediates lipopolysaccharide-induced NF-kappaB-dependent production of IL-8 and CC chemokine ligand 4 (macrophage-inflammatory protein-1).</article-title>
+<source>J Immunol</source>
+<volume>179</volume>
+<fpage>8480</fpage>
+<lpage>8490</lpage>
+<pub-id pub-id-type="pmid">18056395</pub-id></element-citation></ref><ref id="pone.0035425-Yukioka1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yukioka</surname><given-names>F</given-names></name><name><surname>Matsuzaki</surname><given-names>S</given-names></name><name><surname>Kawamoto</surname><given-names>K</given-names></name><name><surname>Koyama</surname><given-names>Y</given-names></name><name><surname>Hitomi</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Presenilin-1 mutation activates the signaling pathway of caspase-4 in endoplasmic reticulum stress-induced apoptosis.</article-title>
+<source>Neurochem Int</source>
+<volume>52</volume>
+<fpage>683</fpage>
+<lpage>687</lpage>
+<pub-id pub-id-type="pmid">17942194</pub-id></element-citation></ref><ref id="pone.0035425-Rodriguez1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rodriguez</surname><given-names>PL</given-names></name><name><surname>Sahay</surname><given-names>S</given-names></name><name><surname>Olabisi</surname><given-names>OO</given-names></name><name><surname>Whitehead</surname><given-names>IP</given-names></name></person-group>
+<year>2007</year>
+<article-title>ROCK I-mediated activation of NF-kappaB by RhoB.</article-title>
+<source>Cell Signal</source>
+<volume>19</volume>
+<fpage>2361</fpage>
+<lpage>2369</lpage>
+<pub-id pub-id-type="pmid">17728102</pub-id></element-citation></ref><ref id="pone.0035425-Kaleem1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaleem</surname><given-names>M</given-names></name><name><surname>Zhao</surname><given-names>A</given-names></name><name><surname>Hamshere</surname><given-names>M</given-names></name><name><surname>Myers</surname><given-names>AJ</given-names></name></person-group>
+<year>2007</year>
+<article-title>Identification of a novel valosin-containing protein polymorphism in late-onset Alzheimer's disease.</article-title>
+<source>Neurodegener Dis</source>
+<volume>4</volume>
+<fpage>376</fpage>
+<lpage>381</lpage>
+<pub-id pub-id-type="pmid">17622780</pub-id></element-citation></ref><ref id="pone.0035425-Andersen1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Andersen</surname><given-names>OM</given-names></name><name><surname>Reiche</surname><given-names>J</given-names></name><name><surname>Schmidt</surname><given-names>V</given-names></name><name><surname>Gotthardt</surname><given-names>M</given-names></name><name><surname>Spoelgen</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Neuronal sorting protein-related receptor sorLA/LR11 regulates processing of the amyloid precursor protein.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>102</volume>
+<fpage>13461</fpage>
+<lpage>13466</lpage>
+<pub-id pub-id-type="pmid">16174740</pub-id></element-citation></ref><ref id="pone.0035425-Scherzer1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scherzer</surname><given-names>CR</given-names></name><name><surname>Offe</surname><given-names>K</given-names></name><name><surname>Gearing</surname><given-names>M</given-names></name><name><surname>Rees</surname><given-names>HD</given-names></name><name><surname>Fang</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Loss of apolipoprotein E receptor LR11 in Alzheimer disease.</article-title>
+<source>Arch Neurol</source>
+<volume>61</volume>
+<fpage>1200</fpage>
+<lpage>1205</lpage>
+<pub-id pub-id-type="pmid">15313836</pub-id></element-citation></ref><ref id="pone.0035425-Chiarugi1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chiarugi</surname><given-names>A</given-names></name><name><surname>Moskowitz</surname><given-names>MA</given-names></name></person-group>
+<year>2003</year>
+<article-title>Poly(ADP-ribose) polymerase-1 activity promotes NF-kappaB-driven transcription and microglial activation: implication for neurodegenerative disorders.</article-title>
+<source>J Neurochem</source>
+<volume>85</volume>
+<fpage>306</fpage>
+<lpage>317</lpage>
+<pub-id pub-id-type="pmid">12675907</pub-id></element-citation></ref><ref id="pone.0035425-Infante1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Infante</surname><given-names>J</given-names></name><name><surname>Llorca</surname><given-names>J</given-names></name><name><surname>Mateo</surname><given-names>I</given-names></name><name><surname>Rodriguez-Rodriguez</surname><given-names>E</given-names></name><name><surname>Sanchez-Quintana</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Interaction between poly(ADP-ribose) polymerase 1 and interleukin 1A genes is associated with Alzheimer's disease risk.</article-title>
+<source>Dement Geriatr Cogn Disord</source>
+<volume>23</volume>
+<fpage>215</fpage>
+<lpage>218</lpage>
+<pub-id pub-id-type="pmid">17290104</pub-id></element-citation></ref><ref id="pone.0035425-Jakobsen1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jakobsen</surname><given-names>CH</given-names></name><name><surname>Storvold</surname><given-names>GL</given-names></name><name><surname>Bremseth</surname><given-names>H</given-names></name><name><surname>Follestad</surname><given-names>T</given-names></name><name><surname>Sand</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>DHA induces ER stress and growth arrest in human colon cancer cells: associations with cholesterol and calcium homeostasis.</article-title>
+<source>J Lipid Res</source>
+<volume>49</volume>
+<fpage>2089</fpage>
+<lpage>2100</lpage>
+<pub-id pub-id-type="pmid">18566476</pub-id></element-citation></ref><ref id="pone.0035425-Gorjao1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gorjao</surname><given-names>R</given-names></name><name><surname>Verlengia</surname><given-names>R</given-names></name><name><surname>Lima</surname><given-names>TM</given-names></name><name><surname>Soriano</surname><given-names>FG</given-names></name><name><surname>Boaventura</surname><given-names>MF</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Effect of docosahexaenoic acid-rich fish oil supplementation on human leukocyte function.</article-title>
+<source>Clin Nutr</source>
+<volume>25</volume>
+<fpage>923</fpage>
+<lpage>938</lpage>
+<pub-id pub-id-type="pmid">16697494</pub-id></element-citation></ref><ref id="pone.0035425-Mutch1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mutch</surname><given-names>DM</given-names></name><name><surname>Berger</surname><given-names>A</given-names></name><name><surname>Mansourian</surname><given-names>R</given-names></name><name><surname>Rytz</surname><given-names>A</given-names></name><name><surname>Roberts</surname><given-names>MA</given-names></name></person-group>
+<year>2002</year>
+<article-title>The limit fold change model: a practical approach for selecting differentially expressed genes from microarray data.</article-title>
+<source>BMC Bioinformatics</source>
+<volume>3</volume>
+<fpage>17</fpage>
+<pub-id pub-id-type="pmid">12095422</pub-id></element-citation></ref><ref id="pone.0035425-Endres1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Endres</surname><given-names>S</given-names></name><name><surname>Ghorbani</surname><given-names>R</given-names></name><name><surname>Kelley</surname><given-names>VE</given-names></name><name><surname>Georgilis</surname><given-names>K</given-names></name><name><surname>Lonnemann</surname><given-names>G</given-names></name><etal/></person-group>
+<year>1989</year>
+<article-title>The effect of dietary supplementation with n-3 polyunsaturated fatty acids on the synthesis of interleukin-1 and tumor necrosis factor by mononuclear cells.</article-title>
+<source>N Engl J Med</source>
+<volume>320</volume>
+<fpage>265</fpage>
+<lpage>271</lpage>
+<pub-id pub-id-type="pmid">2783477</pub-id></element-citation></ref><ref id="pone.0035425-Meydani1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meydani</surname><given-names>SN</given-names></name><name><surname>Lichtenstein</surname><given-names>AH</given-names></name><name><surname>Cornwall</surname><given-names>S</given-names></name><name><surname>Meydani</surname><given-names>M</given-names></name><name><surname>Goldin</surname><given-names>BR</given-names></name><etal/></person-group>
+<year>1993</year>
+<article-title>Immunologic effects of national cholesterol education panel step-2 diets with and without fish-derived N-3 fatty acid enrichment.</article-title>
+<source>J Clin Invest</source>
+<volume>92</volume>
+<fpage>105</fpage>
+<lpage>113</lpage>
+<pub-id pub-id-type="pmid">8325975</pub-id></element-citation></ref><ref id="pone.0035425-Trebble1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Trebble</surname><given-names>T</given-names></name><name><surname>Arden</surname><given-names>NK</given-names></name><name><surname>Stroud</surname><given-names>MA</given-names></name><name><surname>Wootton</surname><given-names>SA</given-names></name><name><surname>Burdge</surname><given-names>GC</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Inhibition of tumour necrosis factor-alpha and interleukin 6 production by mononuclear cells following dietary fish-oil supplementation in healthy men and response to antioxidant co-supplementation.</article-title>
+<source>Br J Nutr</source>
+<volume>90</volume>
+<fpage>405</fpage>
+<lpage>412</lpage>
+<pub-id pub-id-type="pmid">12908901</pub-id></element-citation></ref><ref id="pone.0035425-Hernandez1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hernandez</surname><given-names>D</given-names></name><name><surname>Guerra</surname><given-names>R</given-names></name><name><surname>Milena</surname><given-names>A</given-names></name><name><surname>Torres</surname><given-names>A</given-names></name><name><surname>Garcia</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Dietary fish oil does not influence acute rejection rate and graft survival after renal transplantation: a randomized placebo-controlled study.</article-title>
+<source>Nephrol Dial Transplant</source>
+<volume>17</volume>
+<fpage>897</fpage>
+<lpage>904</lpage>
+<pub-id pub-id-type="pmid">11981081</pub-id></element-citation></ref><ref id="pone.0035425-Blok1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blok</surname><given-names>WL</given-names></name><name><surname>Deslypere</surname><given-names>JP</given-names></name><name><surname>Demacker</surname><given-names>PN</given-names></name><name><surname>van der Ven-Jongekrijg</surname><given-names>J</given-names></name><name><surname>Hectors</surname><given-names>MP</given-names></name><etal/></person-group>
+<year>1997</year>
+<article-title>Pro- and anti-inflammatory cytokines in healthy volunteers fed various doses of fish oil for 1 year.</article-title>
+<source>Eur J Clin Invest</source>
+<volume>27</volume>
+<fpage>1003</fpage>
+<lpage>1008</lpage>
+<pub-id pub-id-type="pmid">9466128</pub-id></element-citation></ref><ref id="pone.0035425-Kew1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kew</surname><given-names>S</given-names></name><name><surname>Mesa</surname><given-names>MD</given-names></name><name><surname>Tricon</surname><given-names>S</given-names></name><name><surname>Buckley</surname><given-names>R</given-names></name><name><surname>Minihane</surname><given-names>AM</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Effects of oils rich in eicosapentaenoic and docosahexaenoic acids on immune cell composition and function in healthy humans.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>79</volume>
+<fpage>674</fpage>
+<lpage>681</lpage>
+<pub-id pub-id-type="pmid">15051614</pub-id></element-citation></ref><ref id="pone.0035425-Ma1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ma</surname><given-names>QL</given-names></name><name><surname>Teter</surname><given-names>B</given-names></name><name><surname>Ubeda</surname><given-names>OJ</given-names></name><name><surname>Morihara</surname><given-names>T</given-names></name><name><surname>Dhoot</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Omega-3 fatty acid docosahexaenoic acid increases SorLA/LR11, a sorting protein with reduced expression in sporadic Alzheimer's disease (AD): relevance to AD prevention.</article-title>
+<source>J Neurosci</source>
+<volume>27</volume>
+<fpage>14299</fpage>
+<lpage>14307</lpage>
+<pub-id pub-id-type="pmid">18160637</pub-id></element-citation></ref><ref id="pone.0035425-Perez1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perez</surname><given-names>SE</given-names></name><name><surname>Berg</surname><given-names>BM</given-names></name><name><surname>Moore</surname><given-names>KA</given-names></name><name><surname>He</surname><given-names>B</given-names></name><name><surname>Counts</surname><given-names>SE</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>DHA diet reduces AD pathology in young APPswe/PS1 Delta E9 transgenic mice: possible gender effects.</article-title>
+<source>J Neurosci Res</source>
+<volume>88</volume>
+<fpage>1026</fpage>
+<lpage>1040</lpage>
+<pub-id pub-id-type="pmid">19859965</pub-id></element-citation></ref><ref id="pone.0035425-Dahlman1"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dahlman</surname><given-names>I</given-names></name><name><surname>Linder</surname><given-names>K</given-names></name><name><surname>Arvidsson Nordstrom</surname><given-names>E</given-names></name><name><surname>Andersson</surname><given-names>I</given-names></name><name><surname>Liden</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Changes in adipose tissue gene expression with energy-restricted diets in obese women.</article-title>
+<source>Am J Clin Nutr</source>
+<volume>81</volume>
+<fpage>1275</fpage>
+<lpage>1285</lpage>
+<pub-id pub-id-type="pmid">15941876</pub-id></element-citation></ref><ref id="pone.0035425-FarzanehFar1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Farzaneh-Far</surname><given-names>R</given-names></name><name><surname>Lin</surname><given-names>J</given-names></name><name><surname>Epel</surname><given-names>ES</given-names></name><name><surname>Harris</surname><given-names>WS</given-names></name><name><surname>Blackburn</surname><given-names>EH</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Association of marine omega-3 fatty acid levels with telomeric aging in patients with coronary heart disease.</article-title>
+<source>JAMA</source>
+<volume>303</volume>
+<fpage>250</fpage>
+<lpage>257</lpage>
+<pub-id pub-id-type="pmid">20085953</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,795 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">JMIR Res Protoc</journal-id><journal-id journal-id-type="iso-abbrev">JMIR Res Protoc</journal-id><journal-id journal-id-type="publisher-id">ResProt</journal-id><journal-title-group><journal-title>JMIR Research Protocols</journal-title></journal-title-group><issn pub-type="epub">1929-0748</issn><publisher><publisher-name>JMIR Publications Inc.</publisher-name><publisher-loc>Toronto, Canada</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">23611946</article-id><article-id pub-id-type="pmc">3628150</article-id><article-id pub-id-type="publisher-id">v2i1e1</article-id><article-id pub-id-type="doi">10.2196/resprot.2389</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Paper</subject></subj-group></article-categories><title-group><article-title>Feasibility of a Personal Health Technology-Based Psychological Intervention for Men with Stress and Mood Problems: Randomized Controlled Pilot Trial</article-title></title-group><contrib-group><contrib contrib-type="editor"><name><surname>Eysenbach</surname><given-names>Gunther</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="reviewer"><name><surname>Podugu</surname><given-names>Prasadarao</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Traver</surname><given-names>Vicente</given-names></name></contrib></contrib-group><contrib-group><contrib id="contrib1" contrib-type="author" corresp="yes"><name><surname>Lappalainen</surname><given-names>P&#x000e4;ivi</given-names></name><degrees>MA</degrees><xref ref-type="aff" rid="aff1">1</xref><address><institution>Department of Psychology</institution><institution>University of Jyv&#x000e4;skyl&#x000e4;</institution><addr-line>P.O.Box 35</addr-line><addr-line>Jyv&#x000e4;skyl&#x000e4;n yliopisto, 40014</addr-line><country>Finland</country><phone>358 408054192</phone><fax>358 14617553</fax><email>paivi.k.lappalainen@jyu.fi</email></address></contrib><contrib id="contrib2" contrib-type="author"><name><surname>Kaipainen</surname><given-names>Kirsikka</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib id="contrib3" contrib-type="author"><name><surname>Lappalainen</surname><given-names>Raimo</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib id="contrib4" contrib-type="author"><name><surname>Hoffr&#x000e9;n</surname><given-names>Henna</given-names></name><degrees>MPsych</degrees><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib id="contrib5" contrib-type="author"><name><surname>Myllym&#x000e4;ki</surname><given-names>Tero</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib id="contrib6" contrib-type="author"><name><surname>Kinnunen</surname><given-names>Marja-Liisa</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff4">4</xref></contrib><contrib id="contrib7" contrib-type="author"><name><surname>Mattila</surname><given-names>Elina</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib id="contrib8" contrib-type="author"><name><surname>Happonen</surname><given-names>Antti P</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib id="contrib9" contrib-type="author"><name><surname>Rusko</surname><given-names>Heikki</given-names></name><degrees>Ph.D</degrees><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib id="contrib10" contrib-type="author"><name><surname>Korhonen</surname><given-names>Ilkka</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff5">5</xref></contrib></contrib-group><aff id="aff1" rid="aff1"><sup>1</sup><institution>Department of Psychology</institution><institution>University of Jyv&#x000e4;skyl&#x000e4;</institution><addr-line>Jyv&#x000e4;skyl&#x000e4;n yliopisto</addr-line><country>Finland</country></aff><aff id="aff2" rid="aff2"><sup>2</sup><institution>VTT Technical Research Centre of Finland</institution><addr-line>Tampere</addr-line><country>Finland</country></aff><aff id="aff3" rid="aff3"><sup>3</sup><institution>Department of Biology of Physical Activity</institution><institution>University of Jyv&#x000e4;skyl&#x000e4;</institution><addr-line>Jyv&#x000e4;skyl&#x000e4;</addr-line><country>Finland</country></aff><aff id="aff4" rid="aff4"><sup>4</sup><institution>Department of Biology of Physical Activity &#x00026; Department of Health Sciences</institution><institution>University of Jyv&#x000e4;skyl&#x000e4;</institution><addr-line>Jyv&#x000e4;skyl&#x000e4;</addr-line><country>Finland</country></aff><aff id="aff5" rid="aff5"><sup>5</sup><institution>Tampere University of Technology, Department of Biomedical Engineering &#x00026; VTT Technical Research Centre of Finland</institution><addr-line>Tampere</addr-line><country>Finland</country></aff><author-notes><corresp>Corresponding Author: P&#x000e4;ivi Lappalainen <email>paivi.k.lappalainen@jyu.fi</email></corresp></author-notes><pub-date pub-type="collection"><season>Jan-Jun</season><year>2013</year></pub-date><pub-date pub-type="epub"><day>09</day><month>1</month><year>2013</year></pub-date><volume>2</volume><issue>1</issue><elocation-id>e1</elocation-id><history><date date-type="received"><day>11</day><month>10</month><year>2012</year></date><date date-type="rev-request"><day>09</day><month>11</month><year>2012</year></date><date date-type="rev-recd"><day>29</day><month>11</month><year>2012</year></date><date date-type="accepted"><day>29</day><month>11</month><year>2012</year></date></history><permissions><copyright-statement>&#x000a9;P&#x000e4;ivi Lappalainen, Kirsikka Kaipainen, Raimo Lappalainen, Henna Hoffr&#x000e9;n, Tero Myllym&#x000e4;ki, Marja-Liisa Kinnunen, Elina Mattila, Antti P. Happonen, Heikki Rusko, Ilkka Korhonen. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 09.01.2013. </copyright-statement><copyright-year>2013</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/"><license-p><!--CREATIVE COMMONS-->This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0/">http://creativecommons.org/licenses/by/2.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Research Protocols, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link ext-link-type="uri" xlink:href="http://www.researchprotocols.org,">http://www.researchprotocols.org,</ext-link> as well as this copyright and license information must be included.</license-p></license></permissions><self-uri xlink:type="simple" xlink:href="http://www.researchprotocols.org/2013/1/e1/"/><abstract><sec sec-type="Background"><title>Background</title><p>Work-related stress is a significant problem for both people and organizations. It may lead to mental illnesses such as anxiety and depression, resulting in increased work absences and disabilities. Scalable interventions to prevent and manage harmful stress can be delivered with the help of technology tools to support self-observations and skills training.</p></sec><sec sec-type="Objective"><title>Objective</title><p>The aim of this study was to assess the feasibility of the P4Well intervention in treatment of stress-related psychological problems. P4Well is a novel intervention which combines modern psychotherapy (the cognitive behavioral therapy and the acceptance and commitment therapy) with personal health technologies to deliver the intervention via multiple channels, includinggroup meetings, Internet/Web portal, mobile phone applications, and personal monitoring devices.</p></sec><sec sec-type="Methods"><title>Methods</title><p>This pilot study design was a small-scale randomized controlled trial that compared the P4Well intervention with a waiting list control group. In addition to personal health technologies for self-assessment, the intervention consisted of 3 psychologist-assisted group meetings. Self-assessed psychological measures through questionnaires were collected offline pre- and post-intervention, and 6 months after the intervention for the intervention group. Acceptance and usage of technology tools were measured with user experience questionnaires and usage logs.</p></sec><sec sec-type="Results"><title>Results</title><p>A total of 24 subjects were randomized: 11 participants were followed up in the intervention group (1 was lost to follow-up) and 12 participants did not receive any intervention (control group). Depressive and psychological symptoms decreased and self-rated health and working ability increased. All participants reported they had benefited from the intervention. All technology tools had active users and 10/11 participants used at least 1 tool actively. Physiological measurements with personal feedback were considered the most useful intervention component.</p></sec><sec sec-type="Conclusions"><title>Conclusions</title><p>Our results confirm the feasibility of the intervention and suggest that it had positive effects on psychological symptoms, self-rated health, and self-rated working ability. The intervention seemed to have a positive impact on certain aspects of burnout and job strain, such as cynicism and over-commitment. Future studies need to investigate the effectiveness, benefits, and possible problems of psychological interventions which incorporate new technologies.</p></sec><sec sec-type="Trial Registration"><title>Trial Registration</title><p>The Finnish Funding Agency for Technology and Innovation (TEKES), Project number 40011/08</p></sec></abstract><kwd-group><kwd>stress</kwd><kwd>technology-supported mini-intervention</kwd><kwd>personal health technologies</kwd><kwd>cognitive behaviour therapy</kwd><kwd>acceptance and commitment therapy</kwd><kwd>mhealth</kwd><kwd>mobile health</kwd><kwd>smartphone</kwd><kwd>Internet</kwd></kwd-group></article-meta></front><body><sec><title>Introduction</title><p>Work-related stress is one of the biggest health challenges that the world faces at this moment. According to the 2009 European Risk Observatory Report, stress is the second most frequently reported work-related health problem and affects 22% of working Europeans [<xref ref-type="bibr" rid="ref1">1</xref>]. Long-term exposure to work-related stress has been linked to an increased risk of psychological problems, such as depression, anxiety, emotional exhaustion, and may lead to long-term absenteeism, work disability, and early retirement [<xref ref-type="bibr" rid="ref2">2</xref>].</p><p>Several studies have investigated work-related mental health [<xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref>]. Psychological interventions based on cognitive behavioral therapies (CBT) have a proven effectiveness for a range of common mental health disorders [<xref ref-type="bibr" rid="ref5">5</xref>-<xref ref-type="bibr" rid="ref7">7</xref>]. CBT is also an effective intervention for occupational stress [<xref ref-type="bibr" rid="ref8">8</xref>-<xref ref-type="bibr" rid="ref11">11</xref>]. Besides traditional CBT methods, research suggests that stress management interventions based on the acceptance and commitment therapy (ACT) have a positive impact on employees&#x02019; psychological health, well-being, and stress management skills [<xref ref-type="bibr" rid="ref12">12</xref>-<xref ref-type="bibr" rid="ref19">19</xref>]. Research implicates that psychological acceptance promoted by ACT is associated with not only mental health variables but also with a performance-related variable.</p><p>Lifestyle-related chronic conditions are an increasing problem in the developed world. Most existing health services do not have sufficient resources to support long-term individual interventions. The delivery of current disease prevention and management models are not feasible due to their high cost and they do not always reach those who need them. Therefore, new models of prevention and treatment measures based on self-management are needed. Personal health systems including Web-based programs, mobile devices, and other health monitoring tools may be used for self-management of chronic conditions and behavioral change [<xref ref-type="bibr" rid="ref20">20</xref>].</p><p>Internet-based and computer-aided treatments have been shown to be effective in treating a wide range of psychological problems, and have effect sizes (ES) comparable to those found for more traditional types of psychological treatments [<xref ref-type="bibr" rid="ref21">21</xref>-<xref ref-type="bibr" rid="ref32">32</xref>]. Seymour and Grove [<xref ref-type="bibr" rid="ref33">33</xref>] have pointed out that accessibility and acceptability are key issues for further research in addition to effectiveness. To address these issues, Web-based treatment programs can be complemented by mobile and wearable technologies for self-monitoring to best suit the user&#x02019;s needs and preferences and also to potentially enhance the effect of the intervention. In addition, technology delivered interventions may be complemented by traditional intervention methods such as individual or group face-to-face meetings and phone counseling.</p><p>P4Well is a novel CBT- and ACT-based intervention which combines personal health technologies (mobile, Web, and self-monitoring technologies) to an intervention program which is based on group meetings [<xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref>]. In intervention design, our aim was to combine the cost-effectiveness of the group meetings to a personalized intervention enabled by technology tools. We designed the intervention program content and technology toolkit in parallel, matching them to each other. The P4Well intervention utilizes a variety of technology tools which allow personalization of the intervention methods and feedback. This may increase the acceptance and efficacy of the intervention by giving the users the possibility to choose appropriate self-management tools according to their personal interest.</p><p>The objective of this study was to study the feasibility and effectiveness of the developed P4Well intervention among working age males who experienced mild to moderate symptoms of stress and/or depression. We assessed the effects of the intervention using depression, psychological symptoms, and stress as primary outcome measures and compared these effects to a control group without intervention. Secondary outcome measures included quality of life, psychological flexibility, and job strain. Furthermore, we studied the acceptability and usage of the intervention and its components.</p></sec><sec sec-type="methods"><title>Methods</title><sec><title>Recruitment and Allocation</title><p>Participants were recruited through an advertisement in a local newspaper, seeking males aged 25 to 45 years old with exhaustion, stress symptoms, or sleeping problems. Other inclusion criteria were full time employment, basic computer skills, and access to Internet. Exclusion criteria included diabetes and simultaneous attendance in other stress management programs. We focused this study on male adults because men have a lower tendency to seek treatment for psychological problems compared to females [<xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref37">37</xref>]. The psychotherapy clinic of the University of Jyv&#x000e4;skyl&#x000e4; was contacted by 29 respondents via telephone or email. Before randomization of subjects into the research groups, 4 men dropped out. Since fewer participants responded to the advertisement than expected, we also included respondents older than 45 years of age in the study. The adjusted age range was 28 to 58 years. Of the 25 male participants, we excluded one participant from analysis because he did not fulfill the inclusion criteria (because of age and retirement) and one participant who did not participate in the follow-up measurements. One participant in the intervention group was lost at follow-up (<xref ref-type="fig" rid="figure1">Figure 1</xref>). Thus, the total number of participants included in the study was 23. Dropout (n=1) was treated with an intention-to-treat-analysis using the data missing principle of last observation carried forward. We then randomly allocated participants either to the intervention or the waiting list control group (intervention group=11, control group=12). The sample was first divided into pairs based on participants with similar depression scores, measured by Beck&#x02019;s Depression Inventory (BDI) [<xref ref-type="bibr" rid="ref38">38</xref>]. Second, the order of pairs was randomized. Third, participants within pairs were randomly assigned either to intervention or control group. Thus, the groups were made equal on the basis of reported depressive symptoms and the researchers generated the randomization. Consent from participants was obtained offline in paper format at pre-measurement. Participants received detailed information about the study procedure and their rights.</p><p>The study took place at the psychotherapy clinic of the department of psychology at the University of Jyv&#x000e4;skyl&#x000e4;, Finland, from January 2009 to October 2009. The Research Ethics Committee of the University of Jyv&#x000e4;skyl&#x000e4; approved this study. The study was funded by the Finnish Funding Agency for Technology and Innovation (TEKES). The study was not registered in a public trials registry, because the study was a phase 1 small-scale pilot study including no participants with medical or psychiatric diagnosis. The study tested a psychological and technical intervention without any side effects. The funding of the project required that participants with diagnoses should not be included in the study.</p><fig id="figure1" position="float"><label>Figure 1</label><caption><p>Participant flow chart.</p></caption><graphic xlink:href="resprot_v2i1e1_fig1"/></fig></sec><sec><title>Participants</title><p>The mean age of the participants was 47.1 years (SD 4.72) in the intervention group and 39.4 (SD 7.96) in the control group (<xref ref-type="table" rid="table1">Table 1</xref>). The intervention group was older, <italic>t</italic>
+<sub><italic>21</italic></sub>=2.78, <italic>P</italic>=.011, and had a lower BMI, <italic>t</italic>
+<sub><italic>21</italic></sub>=2.42, <italic>P</italic>=.025, than the control group. The groups did not differ in regard to education, type of work, shift work, or reported depressive symptoms.</p><table-wrap id="table1" position="float"><label>Table 1</label><caption><p>Participant characteristics.</p></caption><table frame="hsides" rules="groups" width="511" border="1" cellpadding="7" cellspacing="0"><col width="185" span="1"/><col width="154" span="1"/><col width="130" span="1"/><thead><tr valign="top"><td rowspan="1" colspan="1">Background variable</td><td rowspan="1" colspan="1">Intervention (n=11)</td><td rowspan="1" colspan="1">Control (n=12)</td></tr></thead><tbody><tr valign="top"><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">47.1 (4.7)</td><td rowspan="1" colspan="1">39.4 (8.0)<sup>a</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">Body Mass Index</td><td rowspan="1" colspan="1">24.4 (3.1)</td><td rowspan="1" colspan="1">28.1 (4.2)<sup>a</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">Education (yrs)</td><td rowspan="1" colspan="1">7.1</td><td rowspan="1" colspan="1">7.2</td></tr><tr valign="top"><td rowspan="1" colspan="1">Married (%)</td><td rowspan="1" colspan="1">7 (63)</td><td rowspan="1" colspan="1">10 (83)</td></tr><tr valign="top"><td rowspan="1" colspan="1">Permanent employment (%)</td><td rowspan="1" colspan="1">9 (82)</td><td rowspan="1" colspan="1">11 (92)</td></tr><tr valign="top"><td rowspan="1" colspan="1">Fulltime work (%)</td><td rowspan="1" colspan="1">10 (91)</td><td rowspan="1" colspan="1">12 (100)</td></tr><tr valign="top"><td rowspan="1" colspan="1">Shift work (%)</td><td rowspan="1" colspan="1">11 (100)</td><td rowspan="1" colspan="1">11 (92)</td></tr><tr valign="top"><td rowspan="1" colspan="1">No physical work (%)</td><td rowspan="1" colspan="1">8 (73)</td><td rowspan="1" colspan="1">8 (67)</td></tr><tr valign="top"><td rowspan="1" colspan="1">Depressive symptoms (%)<sup>c</sup>
+</td><td rowspan="1" colspan="1">7 (63)</td><td rowspan="1" colspan="1">6 (50)</td></tr><tr valign="top"><td rowspan="1" colspan="1">Medication (%)<sup>d</sup>
+</td><td rowspan="1" colspan="1">4 (44)</td><td rowspan="1" colspan="1">1 (8)</td></tr></tbody></table><table-wrap-foot><fn id="table1fn1"><p>
+<sup>a</sup>
+<italic>P</italic>=.011</p></fn><fn id="table1fn2"><p>
+<sup>b</sup>
+<italic>P</italic>=.025</p></fn><fn id="table1fn3"><p>
+<sup>c</sup> score is 10 or greater in Beck&#x02019;s Depression Inventory</p></fn><fn id="table1fn4"><p>
+<sup>d</sup> use of antidepressants and/or hypnotics</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Intervention</title><p>The P4Well intervention integrated different personal health technologies, including a Web portal, mobile phone applications, personal monitoring devices, and analysis software, with a CBT- and ACT-based intervention program which was specifically designed to utilize personal health technologies (<xref ref-type="fig" rid="figure2">Figure 2</xref>). The main idea behind the intervention concept was to combine cost-efficiency of group meetings, personalization and self-monitoring capabilities provided by technologies, and, technology use between the group meetings to increase the continuity and impact of the intervention. The intervention program consisted of 3 group meetings held by a psychologist. The main CBT- and ACT-based methods used in the intervention included clarification of personal values, goal setting, self-monitoring, relaxation, mindfulness, and acceptance procedures. Furthermore, regular physical activity was encouraged and emphasized as means for stress reduction, mood elevation, and improved well-being.</p><p>Participants placed in the control group did not receive any technical tools or group meetings during the study period. Pre-measurement consisting of self-assessed questionnaires in paper format and heart rate variability recording was done for both the control and intervention groups before the first group meeting. Both groups had an individual assessment meeting during the pre-measurement phase where they received questionnaires and were given a wearable beat-to-beat heart rate (HR) recording device (Suunto Memory Belt, Suunto Ltd, Vantaa, Finland) with instructions to do a 3-day HR variability (HRV) recording. One week after the assessment meeting, the questionnaires and the heart rate belts were collected and analyzed. Feedback was given to both groups by an exercise physiologist. The intervention group received feedback for the HRV recording (1 hour individual discussion of topics concerning stress, sleep and relaxation, and exercise habits) after the first group meeting. Two weeks after the intervention group finished its third and last meeting (ie, after 3 months), both groups were measured for the second time (post-measurement). Follow-up questionnaires were sent to the intervention group 6 months after the intervention ended (intervention group follow-up, n=11). We offered the control group 1 mini-intervention meeting after the post-measurement. Feedback of the recordings for the control group was given during the mini-intervention.</p><p>The first intervention group meeting was an informative and motivating session that consisted of: (1) measurements (background information questionnaire, technology literacy and attitude questionnaire, and psychological questionnaires), (2) general background information about the P4Well intervention and introduction to the wearable technologies, and (3) the psychological mini-intervention (90 minutes). Participants were provided with credentials to the Web portal, mobile phones (Nokia E51) with preinstalled mobile applications (Wellness diary, Fitness coach, and Relaxation assistant; <xref ref-type="fig" rid="figure3">Figure 3</xref>), pedometers, heart rate monitors, and actigraphs. The ACT value analysis method was used to initiate the intervention by motivating behavioral changes in the participants [<xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref>]. Participants were asked to define their valued directions and goals, as well as actions to accomplish these goals. Additionally, a mindfulness exercise was carried out and participants were instructed to practice mindfulness and relaxation by doing exercises in the Web portal and with a mobile phone application. A self-observation worksheet was presented to encourage participants to begin their self-observations. As a homework assignment, participants were asked to further clarify their personal values and select actions based on these values and to conduct mindfulness exercises. Participants were also asked to start monitoring their sleep with the actigraph. The participants were encouraged but not required to start using one or more mobile applications and begin their self-observations after the group meeting.</p><p>The second group meeting (2 hours) was given 4 weeks later. The psychological assessment Web tool in the portal including individual problem analysis was presented and participants were asked to reflect over their situation (eg, stressors in their daily life, sleep, exercise habits, and variables affecting these factors). Participants were encouraged to continue working with the assessment tool at home. The session was ended with a mindfulness exercise. Actigraphs were collected from the participants and analysis reports about sleep and activity were sent to them through the Web portal after the meeting. The participants were encouraged to continue their self-observations with the technology tools.</p><p>The third group meeting (2 hours) took place 4 weeks after the second group meeting. The theme of the meeting was acceptance, which involves a willingness to experience all psychological events (thoughts, feelings, and physiological sensations), especially negatively evaluated events, without avoiding, changing, or controlling them [<xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref>]. Experiential exercises, such as metaphors and exercises related to acceptance, were carried out and discussed. At the end of the group meeting, all of the provided technology tools were collected from the participants. After the meeting, the 3-day HRV recording was repeated, accompanied by an individual stress and recovery analysis. The participants completed the final psychological and user experience questionnaires (sent through mail) 2 weeks after the last group meeting (post-measurement).</p><fig id="figure2" position="float"><label>Figure 2</label><caption><p>P4well intervention process.</p></caption><graphic xlink:href="resprot_v2i1e1_fig2"/></fig><fig id="figure3" position="float"><label>Figure 3</label><caption><p>Screenshots of the 3 mobile applications.</p></caption><graphic xlink:href="resprot_v2i1e1_fig3"/></fig></sec><sec><title>Technology Tools</title><p>The personal health technologies that were provided to the participants formed a wellness toolkit from which the participants could choose the most appropriate ones for their needs and preferences. The toolkit included a Web portal, a mobile phone with 3 preinstalled applications, a pedometer and a heart rate monitor. Additionally, the participants wore heart rate belts (Suunto Memory Belt, Suunto Ltd, Vantaa, Finland) for 3 days before and after the intervention period to obtain HRV recordings and actigraphs (Vivago Personal Wellness Manager, Vivago Ltd, Helsinki, Finland) for 4 weeks during the intervention to obtain sleep recordings. Based on these recordings, individual feedback reports were given to the participants. Full details of the P4Well technology toolkit have been described elsewhere and so only a brief outline will be provided here [<xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref41">41</xref>].</p><p>The secured Web portal (<xref ref-type="fig" rid="figure4">Figure 4</xref>) provided the participants access to information, exercises, self-assessment and self-reflection tools, Web-based wellness services, peer support, and expert consultation. The content of the portal was divided into modules focusing on different areas of well-being&#x02014;sleep, exercise, mood, stress and recovery, and good life. The modules consisted of 5 phases: information, evaluation of personal status, planning of lifestyle changes, putting the plans into action, and follow-up. In addition, the portal included a discussion forum and a messaging client for expert consultation. Mobile wellness diary entries were made available through portal interface (Nokia Wellness Diary Connected, Nokia Corp, Espoo, Finland) and access to an adaptive Web-based fitness training program was also included (Firstbeat WebTrainer<italic>,</italic> Firstbeat Technologies Ltd, Jyv&#x000e4;skyl&#x000e4;, Finland). Finally, the participants could utilize a library of evidence-based health-related information through the portal (Duodecim Health Library, Duodecim Medical Publications Ltd, Helsinki, Finland).</p><p>The purpose of the 3 mobile phone applications (<xref ref-type="fig" rid="figure3">Figure 3</xref>) was to better integrate wellness management and self-monitoring into the participants&#x02019; daily lives. The first application was a mobile wellness diary (Nokia Wellness Diary (WD), Nokia, Espoo, Finland) that could be used to make daily self-observations on wellness related parameters. The second application was a mobile phone version of the fitness training program (Firstbeat Mobile Coach, Firstbeat Technologies Ltd, Jyv&#x000e4;skyl&#x000e4;, Finland), and the third one was a mobile phone relaxation assistant which included personalized relaxation programs (SelfRelax<italic>,</italic> Relaxline, France).</p><p>The participants were encouraged to monitor their physical activity with a heart rate monitor (Suunto Ltd, Vantaa, Finland) or a pedometer (Omron, Kyoto, Japan). Heart rate monitors were primarily meant for participants who were interested in fitness training, whereas pedometers were used to measure and encourage everyday activity. Participants could enter step counts and other exercise parameters manually as daily self-observations into WD.</p><fig id="figure4" position="float"><label>Figure 4</label><caption><p>The main screen of the P4Well web portal.</p></caption><graphic xlink:href="resprot_v2i1e1_fig4"/></fig></sec><sec><title>Measures</title><sec><title>Primary Outcome Measures</title><p>We measured symptoms of depression using BDI, a widely used 21-item self-report measure of depression [<xref ref-type="bibr" rid="ref38">38</xref>].</p><p>Psychological symptoms were measured using the general symptom index (GSI), which is based on the 90-item symptom checklist (SCL-90). The SCL-90 has been validated for the Finnish population. In a Finnish community sample (n=337) [<xref ref-type="bibr" rid="ref42">42</xref>], the mean GSI was 0.60 (SD=0.44).</p><p>The primary stress measure was the Finnish 15-item version of the Bergen Burnout Indicator (BBI-15) [<xref ref-type="bibr" rid="ref43">43</xref>], based on the original 25-item Bergen Burnout Indicator [<xref ref-type="bibr" rid="ref44">44</xref>]. The BBI-15 measures 3 aspects of professional burnout: exhaustion, cynicism, and sense of inadequacy.</p></sec><sec><title>Secondary Outcome Measures</title><p>Quality of life included 5 items: mood, self-rated health, life satisfaction, self-confidence, and working ability. Participants&#x02019; perceptions of each item were measured using a visual analogue scale (VAS) from 0 to 100 [<xref ref-type="bibr" rid="ref45">45</xref>-<xref ref-type="bibr" rid="ref47">47</xref>].</p><p>We measured psychological flexibility and experimental avoidance using the Acceptance and Action Questionnaire-2 (AAQ-2), a 10-item questionnaire that involves both the ability to accept difficult thoughts and feelings as well as to engage in valued activity in their presence (a 7-point Likert-type scale). High scores indicate high psychological flexibility (range 0-70). The AAQ-2 is a revised version of the original AAQ [<xref ref-type="bibr" rid="ref48">48</xref>].</p><p>We measured job strain and over-commitment using the effort-reward imbalance (ERI) questionnaire, which measures extrinsic effort with six items and reward with 11 items. The ratio of effort to reward (ER-ratio) expresses the amount of effort-reward imbalance. High scores indicate high job strain. The ERI questionnaire also includes 6 items that measure over-commitment [<xref ref-type="bibr" rid="ref49">49</xref>].</p></sec></sec><sec><title>User Experiences and Usage</title><p>User experiences were measured post-intervention with a questionnaire about perceived utility and acceptance of each individual technology tool, and the perceived usefulness of different intervention components. The perceived utility of the intervention as a whole was assessed with questions about perceived benefits from participation in the study. Usage logs were collected from the portal and the mobile applications after the end of the intervention. For pedometers and heart rate monitors, usage frequency was assessed through the post-intervention questionnaire. Participants were defined as active users of a given tool if they had used it during at least half of the study weeks (based on log data) or reported having used it at least weekly (questionnaire data).</p></sec><sec><title>Statistical Analyses</title><p>We performed statistical analyses using SPSS 15.0 for Windows (SPSS, Inc, Chicago, IL). A repeated-measures ANOVA evaluated the intervention effect with group (intervention vs control) as the between-subjects factor, and pre- and post-measurements as the within-subject factor. When analyzing pre-, post-, and follow-up measurements of the intervention group, a repeated-measures ANOVA was used. The level of statistical significance was set at <italic>P</italic>&#x0003c;.05; however, due to the small sample size, we took into account interactions where <italic>P</italic>&#x0003c;.10. The ES, measured by Cohen's d, were calculated to measure clinically significant between group differences and within group changes. We calculated the post-treatment between-group ES by dividing the difference between the treatment mean and the control mean with the pooled standard deviation of the two conditions. The within-group ES was calculated by dividing the mean change from pre- to post- with the pre-treatment SD and the mean change from pre- to follow-up with the pre-treatment SD [<xref ref-type="bibr" rid="ref50">50</xref>,<xref ref-type="bibr" rid="ref51">51</xref>]. Between-group ESs of 0.2, 0.5, and 0.8 were considered small, medium, and large, respectively. Within-group ESs of 0.5, 0.8, and 1.1 were treated likewise [<xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref52">52</xref>].</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Acceptance and Usage</title><p>All participants in the intervention group stated that their well-being had improved as a result of the intervention. The most common benefits the participants reported included increased willingness to improve personal well-being (8/11, 73%), decreased level of stress (6/11, 55%), and increased amount of exercise (5/11, 45%). The most useful intervention components were considered to be measurements and feedback (10/11, 91%), personal monitoring devices (9/11, 82%), group meetings (8/11, 73%,), and mobile applications (6/11, 55%).</p><p>All participants tried at least 3 out of 6 available tools (mean 4.7, range 3-6) and 10/11 participants used at least 1 of the tools (mean 1.9, range 1-4) actively. Each tool had at least 1 active user (<xref ref-type="table" rid="table2">Table 2</xref>). The mobile relaxation application had the highest number of active users. Pedometer was ranked as the easiest and most personally suitable. Heart rate monitor was rated as the most useful and difficult to use.</p><table-wrap id="table2" position="float"><label>Table 2</label><caption><p>Usage and user experiences of technology tools.</p></caption><table frame="hsides" rules="groups" width="590" border="1" cellpadding="7" cellspacing="0"><col width="107" span="1"/><col width="62" span="1"/><col width="62" span="1"/><col width="69" span="1"/><col width="63" span="1"/><col width="63" span="1"/><col width="67" span="1"/><thead><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Web portal</td><td rowspan="1" colspan="1">Wellness diary</td><td rowspan="1" colspan="1">Exercise coaching</td><td rowspan="1" colspan="1">Relaxation application</td><td rowspan="1" colspan="1">Pedometer</td><td rowspan="1" colspan="1">Heart rate monitor</td></tr></thead><tbody><tr valign="top"><td rowspan="1" colspan="1">Active users (n)</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">4</td></tr><tr valign="top"><td rowspan="1" colspan="1">Easy to use<sup>a</sup>
+</td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">8</td><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">0</td></tr><tr valign="top"><td rowspan="1" colspan="1">Useful<sup>a</sup>
+</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">8</td></tr><tr valign="top"><td rowspan="1" colspan="1">Personally suitable<sup>a</sup>
+</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">8</td><td rowspan="1" colspan="1">7</td></tr><tr valign="top"><td rowspan="1" colspan="1">Motivating<sup>a</sup>
+</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">6</td></tr></tbody></table><table-wrap-foot><fn id="table2fn1"><p>
+<sup>a</sup>Values are the numbers of users who agreed or strongly agreed with the statement.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Efficacy</title><p>Depressive symptoms, as measured by BDI, decreased more in the intervention group compared to the control group (<xref ref-type="table" rid="table3">Table 3</xref>). There was a marginally significant group by time interaction effect for BDI (<italic>P</italic>=.072). The mean BDI value decreased with more than 8 scores (CI 4.92-11.99) in the treatment group compared to four scores (CI 0.62-7.38) in the control group. We found a medium ES (d=0.57) between groups in favor of the intervention group. Participants maintained positive changes at the 6-month follow-up. We found a significant within-group effect over time for the intervention group (<italic>P</italic>=.001): both post- and follow-up measurements were significantly lower compared to the BDI pre-measurement. Pre- to follow-up BDI measurements indicated a large within-group ES (d=1.11). An analysis of the number of the participants who reported depressive symptoms at pre-, post-, and follow-up measurements also suggested that the intervention had a positive effect on mood. At the beginning of the study, 64% (7/11) of the participants in the intervention group and 50% (6/12) in the control group reported at least mild depression (a BDI of at least 10). Only 9% (1/11) reported depressive symptoms in the intervention group after the intervention ended. In the control group, 50% (6/12) were still depressed at post-measurement. At follow-up, only 1 person (9%) in the intervention group reported BDI values greater than 10.</p><p>Psychological symptoms (SCL-90) decreased in the intervention group but remained at the same level in the control group (<xref ref-type="table" rid="table3">Table 3</xref>). We found a marginally significant group by time interaction effect in psychological symptoms (<italic>P</italic>=.053). The between-group ES was small (d=0.39). The within-group ES from pre- to follow-up measurement was medium (d=1.07). Again, we found a significant within-group effect for the intervention group&#x02014;both the post- and follow-up measurements were significantly lower compared to pre-measurement scores. A significant group by time interaction effect was found for health (<italic>P</italic>=.008) and working ability (<italic>P</italic>=.016). The between- and within-group ESs were small for both health (d=0.38 and 0.56, respectively) and working ability (d=0.21 and 0.60, respectively). Furthermore, for these variables we found a significant within-group effect in the intervention group. Thus, health was rated higher after treatment, and participants estimated their working ability to be higher at follow-up compared to the beginning of the treatment. As we can see from <xref ref-type="table" rid="table3">Table 3</xref>, there was some indication that life satisfaction increased from pre-measurement to follow-up, as well.</p><table-wrap id="table3" position="float"><label>Table 3</label><caption><p>Psychological symptoms and life quality for the intervention and control group.</p></caption><table frame="hsides" rules="groups" width="642" border="1" cellpadding="7" cellspacing="0"><col width="71" span="1"/><col width="84" span="1"/><col width="43" span="1"/><col width="43" span="1"/><col width="37" span="1"/><col width="36" span="1"/><col width="44" span="1"/><col width="74" span="1"/><col width="82" span="1"/><thead><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Pre<break/>Mean (SD)</td><td rowspan="1" colspan="1">Post<break/>Mean (SD)</td><td colspan="2" rowspan="1">95% CI for the difference</td><td rowspan="1" colspan="1">Follow-up<break/>Mean <break/>
+(SD)<break/>
+<break/>
+</td><td rowspan="1" colspan="1">Pre-Post<break/>group x time</td><td rowspan="1" colspan="1">Intervention within effect</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Lower</td><td rowspan="1" colspan="1">Upper</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></thead><tbody><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Depression BDI</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">14.64</td><td rowspan="1" colspan="1">6.18</td><td rowspan="1" colspan="1">4.92</td><td rowspan="1" colspan="1">11.99</td><td rowspan="1" colspan="1">6.18</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=3.59</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=17.45</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(7.61)</td><td rowspan="1" colspan="1">(3.31)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(3.28)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.072</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">13.33</td><td rowspan="1" colspan="1">9.33</td><td rowspan="1" colspan="1">0.62</td><td rowspan="1" colspan="1">7.38</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.57</td><td rowspan="1" colspan="1">d=1.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(9.24)</td><td rowspan="1" colspan="1">(7.10)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Symptom SCL</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">0.64</td><td rowspan="1" colspan="1">0.40</td><td rowspan="1" colspan="1">0.11</td><td rowspan="1" colspan="1">0.37</td><td rowspan="1" colspan="1">0.35</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=4.22</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=10.28</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.27)</td><td rowspan="1" colspan="1">(0.18)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.18)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.053</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">0.57</td><td rowspan="1" colspan="1">0.51</td><td rowspan="1" colspan="1">-0.07</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.39</td><td rowspan="1" colspan="1">d=1.07</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.30)</td><td rowspan="1" colspan="1">(0.36)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Psych Flex AAQ</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">52.46</td><td rowspan="1" colspan="1">55.73</td><td rowspan="1" colspan="1">-7.95</td><td rowspan="1" colspan="1">1.40</td><td rowspan="1" colspan="1">55.45</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=1.74</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=0.93</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(10.00)</td><td rowspan="1" colspan="1">(6.25)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(7.26)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.201</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.41</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">54.50</td><td rowspan="1" colspan="1">53.67</td><td rowspan="1" colspan="1">-3.64</td><td rowspan="1" colspan="1">5.31</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.25</td><td rowspan="1" colspan="1">d=0.30</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(7.82)</td><td rowspan="1" colspan="1">(9.60)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Life Satisfaction</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">59.91</td><td rowspan="1" colspan="1">66.09</td><td rowspan="1" colspan="1">-14.78</td><td rowspan="1" colspan="1">2.42</td><td rowspan="1" colspan="1">69.27</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=0.04</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=5.68</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(15.55)</td><td rowspan="1" colspan="1">(10.51)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(13.45)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.838</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.01</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">59.92</td><td rowspan="1" colspan="1">64.92</td><td rowspan="1" colspan="1">-13.23</td><td rowspan="1" colspan="1">3.23</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.09</td><td rowspan="1" colspan="1">d=0.60</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(17.29)</td><td rowspan="1" colspan="1">(15.50)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Self-rated Health</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">63.27</td><td rowspan="1" colspan="1">74.91</td><td rowspan="1" colspan="1">-18.89</td><td rowspan="1" colspan="1">-4.38</td><td rowspan="1" colspan="1">71.09</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=8.57</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=5.18</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(13.86)</td><td rowspan="1" colspan="1">(11.64)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(15.41)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.008</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.02</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">72.42</td><td rowspan="1" colspan="1">69.92</td><td rowspan="1" colspan="1">-4.44</td><td rowspan="1" colspan="1">9.44</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.38</td><td rowspan="1" colspan="1">D=0.56</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(10.26)</td><td rowspan="1" colspan="1">(14.49)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Mood</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">60.27</td><td rowspan="1" colspan="1">66.82</td><td rowspan="1" colspan="1">-14.38</td><td rowspan="1" colspan="1">1.29</td><td rowspan="1" colspan="1">66.09</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=0.08</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=1.50</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(17.35)</td><td rowspan="1" colspan="1">(8.34)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(13.32)</td><td rowspan="1" colspan="1">
+<italic>P=</italic>.783</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.25</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">57.08</td><td rowspan="1" colspan="1">65.08</td><td rowspan="1" colspan="1">-15.50</td><td rowspan="1" colspan="1">-0.50</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.15</td><td rowspan="1" colspan="1">d=0.34</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(16.51)</td><td rowspan="1" colspan="1">(14.18)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Self-Confidence</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">63.55</td><td rowspan="1" colspan="1">70.27</td><td rowspan="1" colspan="1">-15.80</td><td rowspan="1" colspan="1">2.34</td><td rowspan="1" colspan="1">74.73</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=0.07</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=2.49</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(15.63)</td><td rowspan="1" colspan="1">(15.85)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(16.41)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.788</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">69.58</td><td rowspan="1" colspan="1">74.67</td><td rowspan="1" colspan="1">-13.77</td><td rowspan="1" colspan="1">3.6</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.34</td><td rowspan="1" colspan="1">d=0.72</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(13.76)</td><td rowspan="1" colspan="1">(9.21)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Working Ability</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">64.36</td><td rowspan="1" colspan="1">74.00</td><td rowspan="1" colspan="1">-16.93</td><td rowspan="1" colspan="1">-2.34</td><td rowspan="1" colspan="1">75.45</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=6.86</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=5.48</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(20.25)</td><td rowspan="1" colspan="1">(15.93)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(13.48)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.016</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.01</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">74.00</td><td rowspan="1" colspan="1">70.92</td><td rowspan="1" colspan="1">-3.9</td><td rowspan="1" colspan="1">10.07</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.21</td><td rowspan="1" colspan="1">d=0.60</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(7.79)</td><td rowspan="1" colspan="1">(12.91)</td><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table></table-wrap><p>We did not observe a significant group by time interaction for burnout (<xref ref-type="table" rid="table4">Table 4</xref>). However, the burnout scores decreased from pre-measurement to follow-up and showed a medium ES (d=0.91). In the intervention group we found a significant within-group effect on cynicism, although there was no significant group by time interaction. However, we obtained a medium (between group) ES for cynicism. There were marginally significant interaction effects on effort (<italic>P</italic>=.07) and over-commitment (<italic>P</italic>=.08). The scores for over-commitment were lower at follow-up compared to the beginning of treatment. The within-group ES from pre-measurement to follow-up was small for over-commitment (d=0.61).</p><table-wrap id="table4" position="float"><label>Table 4</label><caption><p>Burnout and stress for the intervention and control group.</p></caption><table frame="hsides" rules="groups" width="623" border="1" cellpadding="7" cellspacing="0"><col width="68" span="1"/><col width="90" span="1"/><col width="43" span="1"/><col width="43" span="1"/><col width="43" span="1"/><col width="43" span="1"/><col width="43" span="1"/><col width="62" span="1"/><col width="62" span="1"/><thead><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Pre<break/>Mean (SD)</td><td rowspan="1" colspan="1">Post<break/>Mean (SD)</td><td colspan="2" rowspan="1">95% CI for the difference</td><td rowspan="1" colspan="1">Follow-up<break/>Mean <break/>
+(SD)</td><td rowspan="1" colspan="1">Pre-Post<break/>group x time</td><td rowspan="1" colspan="1">Intervention within effect</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Lower</td><td rowspan="1" colspan="1">Upper</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></thead><tbody><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Burnout</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">3.52</td><td rowspan="1" colspan="1">3.03</td><td rowspan="1" colspan="1">0.16</td><td rowspan="1" colspan="1">0.82</td><td rowspan="1" colspan="1">2.88</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=1.02</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=6.67</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.70)</td><td rowspan="1" colspan="1">(0.83)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.73)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.32</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.006</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">3.64</td><td rowspan="1" colspan="1">3.38</td><td rowspan="1" colspan="1">-0.5</td><td rowspan="1" colspan="1">0.59</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.47</td><td rowspan="1" colspan="1">d=0.91</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.70)</td><td rowspan="1" colspan="1">(0.64)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Exhaustion</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">3.96</td><td rowspan="1" colspan="1">3.67</td><td rowspan="1" colspan="1">-0.09</td><td rowspan="1" colspan="1">0.67</td><td rowspan="1" colspan="1">3.42</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=0.01</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=3.08</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(1.10)</td><td rowspan="1" colspan="1">(1.15)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(1.06)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.93</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.07</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">4.13</td><td rowspan="1" colspan="1">3.87</td><td rowspan="1" colspan="1">-0.10</td><td rowspan="1" colspan="1">0.63</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.20</td><td rowspan="1" colspan="1">d=0.49</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.67)</td><td rowspan="1" colspan="1">(0.84)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Cynicism</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">3.15</td><td rowspan="1" colspan="1">2.42</td><td rowspan="1" colspan="1">0.32</td><td rowspan="1" colspan="1">1.14</td><td rowspan="1" colspan="1">2.22</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=2.63</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=10.94</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.93)</td><td rowspan="1" colspan="1">(0.96)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.75)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.12</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">3.22</td><td rowspan="1" colspan="1">2.93</td><td rowspan="1" colspan="1">-0.11</td><td rowspan="1" colspan="1">0.68</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.60</td><td rowspan="1" colspan="1">d=1.00</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.78)</td><td rowspan="1" colspan="1">(0.73)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Sense of Inadequancy</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">3.46</td><td rowspan="1" colspan="1">3.00</td><td rowspan="1" colspan="1">-0.1</td><td rowspan="1" colspan="1">0.92</td><td rowspan="1" colspan="1">3.00</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=0.44</td><td rowspan="1" colspan="1">F<sub>2,20</sub>=2.04</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(1.10)</td><td rowspan="1" colspan="1">(0.96)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(1.02)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.51</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.16</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">3.58</td><td rowspan="1" colspan="1">3.33</td><td rowspan="1" colspan="1">-0.19</td><td rowspan="1" colspan="1">0.69</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.35</td><td rowspan="1" colspan="1">d=0.41</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(1.04)</td><td rowspan="1" colspan="1">(0.95)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Effort</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">3.39</td><td rowspan="1" colspan="1">3.21</td><td rowspan="1" colspan="1">-0.9</td><td rowspan="1" colspan="1">0.45</td><td rowspan="1" colspan="1">3.04</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=3.74</td><td rowspan="1" colspan="1">F<sub>2,18</sub>=2.08</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.82)</td><td rowspan="1" colspan="1">(0.95)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.90)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.07</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.15</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">3.26</td><td rowspan="1" colspan="1">3.43</td><td rowspan="1" colspan="1">-0.43</td><td rowspan="1" colspan="1">0.09</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.36</td><td rowspan="1" colspan="1">d=0.41</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.66)</td><td rowspan="1" colspan="1">(0.40)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Reward</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">3.69</td><td rowspan="1" colspan="1">3.88</td><td rowspan="1" colspan="1">-0.56</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">4.18</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=0.59</td><td rowspan="1" colspan="1">F<sub>2,18</sub>=2.21</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.68)</td><td rowspan="1" colspan="1">(0.95)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.48)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.45</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.14</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">3.64</td><td rowspan="1" colspan="1">4.02</td><td rowspan="1" colspan="1">-0.73</td><td rowspan="1" colspan="1">-0.03</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.04</td><td rowspan="1" colspan="1">d=0.62</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.89)</td><td rowspan="1" colspan="1">(0.72)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Effort-reward imbalance</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">0.96</td><td rowspan="1" colspan="1">0.91</td><td rowspan="1" colspan="1">-0.10</td><td rowspan="1" colspan="1">0.19</td><td rowspan="1" colspan="1">0.74</td><td rowspan="1" colspan="1">F<sub>1,21</sub>=0.02</td><td rowspan="1" colspan="1">F<sub>2,18</sub>=2.43</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.29)</td><td rowspan="1" colspan="1">(0.43)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.25)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.89</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.12</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">0.94</td><td rowspan="1" colspan="1">0.89</td><td rowspan="1" colspan="1">-0.08</td><td rowspan="1" colspan="1">0.19</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.13</td><td rowspan="1" colspan="1">d=0.69</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.27)</td><td rowspan="1" colspan="1">(0.23)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Over commitment</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intervention</td><td rowspan="1" colspan="1">2.92</td><td rowspan="1" colspan="1">2.64</td><td rowspan="1" colspan="1">0.05</td><td rowspan="1" colspan="1">0.53</td><td rowspan="1" colspan="1">2.48</td><td rowspan="1" colspan="1">F<sub>1,20</sub>=3.53</td><td rowspan="1" colspan="1">F<sub>2,18</sub>=4.03</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.64)</td><td rowspan="1" colspan="1">(0.61)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.57)</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.08</td><td rowspan="1" colspan="1">
+<italic>P</italic>=.04</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">2.79</td><td rowspan="1" colspan="1">2.80</td><td rowspan="1" colspan="1">-0.25</td><td rowspan="1" colspan="1">0.22</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">d=0.44</td><td rowspan="1" colspan="1">d=0.61</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">(0.53)</td><td rowspan="1" colspan="1">(0.44)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table></table-wrap><p>In the group intervention, the amount of therapist face-to-face contact time was 8 hours (4 + 2 + 2), totalling 480 minutes (including measurements). Thus, the therapist contact time used for each participant during the intervention was 44 minutes.</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>The objective of this study was to assess the feasibility of the P4Well intervention in the target population of working-age adults who experience mild psychological and stress-related symptoms. Our results confirm that the intervention was acceptable and personal health technologies were actively used by the participants. The results also suggest that the intervention had a positive effect on our primary outcome measures (depressive and psychological symptoms) as well as on self-rated health and working ability. The intervention was also cost-effective. The total professional time used during the active intervention period was less than 1 hour per person.</p><p>Before the intervention, the majority of participants reported symptoms of depression; after the intervention only 1 reported symptoms of depression. The intervention group&#x02019;s within-group ES (measuring clinical significance) from pre-measurement to the follow-up was large and the between-group post-treatment ES was medium. These effects are in line with other studies investigating the effects of cognitive-behavioral methods. Meta-analysis from Gloaguen et al [<xref ref-type="bibr" rid="ref53">53</xref>] found that the between-group ES between CBT and controls was typically d=0.82. In our study, the ES was somewhat smaller (d=0.57), however the ES was at least the same or larger compared to groups taking anti-depressant medications. Our data also indicated that the intervention might have positive effects on burnout symptoms: participants&#x02019; BBI-15 scores were lower at the 6-month follow-up compared to the beginning of the treatment. Moreover, the results suggest that there were positive effects on cynicism and over-commitment related to recovery from stress and burnout.</p><p>Participants perceived the intervention as beneficial and useful, and reported reduced amount of stress, increased physical activity, and greater motivation to improve their well-being. Almost everyone took some of the technology tools into active use and each tool was considered useful, motivating, and personally suitable by several participants. These results suggest that offering several tools and techniques to support changes in multiple behaviors may be a promising approach in interventions that address psychological problems. Most interventions to this date have tailored their content to individual needs, but few have used multiple applications or delivery channels that could be freely chosen by participants based on their preferences. There is a wealth of applications and devices available for self-monitoring of stress, mood, physical activity and sleep, and for relaxation and mindfulness skills training. Nevertheless, individuals struggling with psychological problems and stress may not be aware of the existence or usefulness of these tools. Based on the wide variety of reasons and behavioral treatment options for psychological problems, intervention outcomes and adherence may be improved by matching and recommending specific applications and/or devices to different needs and preferences of participants [<xref ref-type="bibr" rid="ref54">54</xref>]. An intervention program should be designed with careful consideration of appropriate technology tools that best serve the purposes of the intervention.</p><p>Even though personal monitoring devices and mobile applications were received favorably and used actively, human contact was still highly valued. Personal feedback and advice based on physiological measurements was considered the most useful component of the intervention, and group meetings were also appreciated. Peer and counselor support may be crucial factors that increase participant engagement and motivation in technology-based interventions [<xref ref-type="bibr" rid="ref55">55</xref>]. Interestingly, measurements and personal monitoring devices were evaluated as useful as group meetings. Technology can facilitate remote consultation regardless of time and place, hence reducing the costs and widening the reach and accessibility of interventions. Furthermore, leveraging technology tools in intervention delivery optimizes the use of professionals&#x02019; time, since it allows participants to complete routine exercises and tasks independently with automated and personalized guidance.</p><p>There is an acute need to improve people&#x02019;s psychological well-being, especially depression and various stress-related problems. These problems are widespread and can lead to long-term absenteeism and work disability, which include a significant economic burden [<xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref56">56</xref>]. Our data suggest that it is possible to positively affect psychological well-being by using interventions that combine face-to-face meetings and technology. Our intervention may be a noteworthy tool for self-management, health-related prevention and general well-being in health care settings. Prevention and early intervention based on self-management are especially important given that healthcare resources are limited. In addition, our intervention offers considerable flexibility, and requires only little professional guidance. In accordance with earlier studies that have investigated the combination of technology and multimodal intervention methods to promote health, our results suggest that interventions using technologies can extend the reach of preventive care to many people at a relatively low cost [<xref ref-type="bibr" rid="ref57">57</xref>-<xref ref-type="bibr" rid="ref61">61</xref>]. Our findings are also in line with other studies that show positive effects using Web-based stress management approaches [<xref ref-type="bibr" rid="ref11">11</xref>, <xref ref-type="bibr" rid="ref62">62</xref>].</p><p>This study had several limitations. First of all, the number of participants was small and therefore the statistical power of the study is weak. This lack of power affects our ability to detect differences between the intervention and control group as well as our ability to generalize the results. Also, most participants reported a small number of psychological problems at the beginning of the study. Thus, the possibility for improvement was small (eg, for AAQ, BDI and SCL-90) suggesting that other measurements may have been more appropriate for observing the changes. The control group showed also some improvement that was possibly due to assessment procedures at the beginning. The effectiveness and the acceptability of this intervention need also to be investigated in other populations reporting more severe problems. Furthermore, longer follow-up periods may be needed to ensure the sustainability of the effect. Overall, because all the participants in this study were male, our results can be generalized to only middle-aged men who seek help for stress-related problems and mild to moderate depression. Additionally, participants were provided several technology tools within a short period of time, which caused cognitive load that may have hindered participants&#x02019; capability and motivation to discover personally suitable tools. Some tools also had usability problems, data entered in one application was not synchronized to others, and most of self-monitoring was done manually. Since the time the study was conducted, there have been considerable advances especially in smartphone technology, which would allow a more integrated and usable technology toolkit.</p><p>In conclusion, this study supports the idea that personal health technologies, when combined with a brief psychological group intervention program, may have a positive impact on mild psychological problems and stress-related symptoms. Our intervention provides a potential solution to the demand for accessible and affordable empirically-supported psychological treatments [<xref ref-type="bibr" rid="ref63">63</xref>]. Our approach is potentially cost-efficient, flexible and accessible, and may help people to prevent and manage stress-related problems and to adopt a healthier lifestyle. However, due to the limitations in the design and procedure, our results may be spurious, and must be interpreted with caution. Furthermore, because the intervention included several components and it was not possible to control all of them within our design, we cannot rule out that these effects were caused by the group sessions alone. Although there are several limitations in this study, this intervention nevertheless shows promising effects. Future studies need to investigate the effectiveness, benefits, and possible problems of psychological interventions which incorporate new technologies. Our aim is to enhance and simplify the presented concept, and evaluate it in a larger, more comprehensive research study using mobile technology. A fully powered RCT using partly the same concept is under way. In the ongoing study, a brief group ACT-based intervention is compared with an ACT-based mobile intervention.</p></sec></body><back><ack><p>This work was funded by the Finnish Funding Agency for Technology and Innovation (Tekes), project number 40011/08. The authors wish to thank the project partner companies: Nokia Corp, Suunto Ltd, Mawell Ltd, Firstbeat Technologies Ltd, Vivago Ltd, Varma, Mehil&#x000e4;inen Ltd, Solaris, JTO School of Management, and Duodecim Medical Publications for their valuable contribution to the project. In addition, the authors wish to thank Tanja Juuti, Kaisu Martinm&#x000e4;ki, Taru Feldt (all with University of Jyv&#x000e4;skyl&#x000e4;), Antti V&#x000e4;&#x000e4;t&#x000e4;nen and Veikko Ikonen (all with VTT Technical Research Centre of Finland) for their contribution to P4Well concept design and evaluation studies.</p></ack><fn-group><fn fn-type="conflict"><p>Conflicts of Interest: None declared.</p></fn></fn-group><app-group><app id="app1"><title>Multimedia Appendix 1</title><p>CONSORT-eHealth Checklist V1.6.1 [<xref ref-type="bibr" rid="ref64">64</xref>].</p><fig id="d35e3587" position="anchor"><media xlink:href="resprot_v2i1e1_app1.pdf" mimetype="application" mime-subtype="pdf"/></fig></app></app-group><glossary><title>Abbreviations</title><def-list><def-item><term id="abb1">AAQ-2</term><def><p>acceptance and action questionnaire</p></def></def-item><def-item><term id="abb2">ACT</term><def><p>acceptance and commitment therapy</p></def></def-item><def-item><term id="abb3">BBI-15</term><def><p>Bergen Burnout Indicator</p></def></def-item><def-item><term id="abb4">BMI</term><def><p>body mass index</p></def></def-item><def-item><term id="abb5">CBT</term><def><p>cognitive behavorial therapies</p></def></def-item><def-item><term id="abb6">ER-ratio</term><def><p>effort to reward ratio</p></def></def-item><def-item><term id="abb7">ERI</term><def><p>effort-reward imbalance</p></def></def-item><def-item><term id="abb8">ES</term><def><p>effect sizes</p></def></def-item><def-item><term id="abb9">GSI</term><def><p>general symptom index</p></def></def-item><def-item><term id="abb10">HR</term><def><p>heart rate</p></def></def-item><def-item><term id="abb11">HRV</term><def><p>heart rate variability</p></def></def-item><def-item><term id="abb12">SCL-90</term><def><p>90-item symptom checklist</p></def></def-item><def-item><term id="abb13">TEKES</term><def><p>Finnish Funding Agency for Technology and Innovation</p></def></def-item><def-item><term id="abb14">VAS</term><def><p>visual analogue scale</p></def></def-item><def-item><term id="abb15">WD</term><def><p>wellness diary</p></def></def-item></def-list></glossary><ref-list><ref id="ref1"><label>1</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Milczarek</surname><given-names>M</given-names></name><name><surname>Schneider</surname><given-names>E</given-names></name><name><surname>&#x00026; Rial Gonz&#x000e1;lez</surname><given-names>E</given-names></name></person-group><source>European Risk Observatory Report No. 9; 2009</source><year>2009</year><date-in-citation>2012-08-14</date-in-citation><publisher-loc>OSH in figures</publisher-loc><publisher-name>stress at work - facts and figures. European Risk Observatory Report No. 9</publisher-name><comment><ext-link ext-link-type="uri" xlink:href="http://osha.europa.eu/en/publications/reports/TE-81-08-478-EN-C_OSH_in_figures_stress_at_work/">http://osha.europa.eu/en/publications/reports/TE-81-08-478-EN-C_OSH_in_figures_stress_at_work/</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="69uGwUMi8"/></element-citation></ref><ref id="ref2"><label>2</label><element-citation publication-type="book"><person-group person-group-type="author"><collab>WHO</collab></person-group><source>Report from the WHO European Ministerial Conference; 2005</source><year>2005</year><date-in-citation>2012-08-14</date-in-citation><publisher-loc>Mental health</publisher-loc><publisher-name>facing the challenges, building solutions. Report from the WHO European Ministerial Conference</publisher-name><comment>Mental health: facing the challenges, building solutions<ext-link ext-link-type="uri" xlink:href="http://www.euro.who.int/document/E87301.pdf">http://www.euro.who.int/document/E87301.pdf</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="69uHCnyRw"/></element-citation></ref><ref id="ref3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Michie</surname><given-names>S</given-names></name><name><surname>Williams</surname><given-names>S</given-names></name></person-group><article-title>Reducing work related psychological ill health and sickness absence: a systematic literature review</article-title><source>Occup Environ Med</source><year>2003</year><month>1</month><volume>60</volume><issue>1</issue><fpage>3</fpage><lpage>9</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.crossref.org/10.1136%2Foem.60.1.3"/></comment><pub-id pub-id-type="medline">12499449</pub-id><!--<pub-id pub-id-type="pmcid">PMC1740370</pub-id>--><pub-id pub-id-type="pmid">12499449</pub-id></element-citation></ref><ref id="ref4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Darr</surname><given-names>W</given-names></name><name><surname>Johns</surname><given-names>G</given-names></name></person-group><article-title>Work strain, health, and absenteeism: a meta-analysis</article-title><source>J Occup Health Psychol</source><year>2008</year><month>10</month><volume>13</volume><issue>4</issue><fpage>293</fpage><lpage>318</lpage><pub-id pub-id-type="doi">10.1037/a0012639</pub-id><pub-id pub-id-type="medline">18837626</pub-id><!--<pub-id pub-id-type="pii">2008-13780-001</pub-id>--><pub-id pub-id-type="pmid">18837626</pub-id></element-citation></ref><ref id="ref5"><label>5</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Ayers</surname><given-names>S</given-names></name><name><surname>Baum</surname><given-names>A</given-names></name><name><surname>McManus</surname><given-names>C</given-names></name><name><surname>Newman</surname><given-names>SP</given-names></name><name><surname>Wallston</surname><given-names>KA</given-names></name><name><surname>Weinman</surname><given-names>J</given-names></name><name><surname>West</surname><given-names>RH</given-names></name></person-group><article-title>Cognitive Behaviour Therapy</article-title><source>Cambridge handbook of psychology, health and medicine</source><year>2007</year><publisher-loc>Cambridge</publisher-loc><publisher-name>Cambridge University Press</publisher-name></element-citation></ref><ref id="ref6"><label>6</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bond</surname><given-names>FW</given-names></name><name><surname>Dryden</surname><given-names>W</given-names></name></person-group><article-title>Brief cognitive behavioral therapy: definitionscientific foundations</article-title><source>Handbook of brief cognitive behaviour therapy</source><year>2002</year><publisher-loc>New York, NY</publisher-loc><publisher-name>Wiley, 2004</publisher-name></element-citation></ref><ref id="ref7"><label>7</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>&#x000d6;st</surname><given-names>LG</given-names></name></person-group><person-group person-group-type="editor"><name><surname>&#x000d6;st</surname><given-names>LG</given-names></name></person-group><article-title>Det empiriska st&#x00026;ouml;det f&#x00026;ouml;r KBT vid psykiska st&#x00026;ouml;rningar</article-title><source>&#x000d6;st LG (ed.) Kognitiv beteendeterapi inom psykiatrin</source><year>2006</year><publisher-loc>Stockholm</publisher-loc><publisher-name>Natur &#x00026; Kultur</publisher-name><fpage>263</fpage><lpage>279</lpage></element-citation></ref><ref id="ref8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pollak Eisen</surname><given-names>K</given-names></name><name><surname>Allen</surname><given-names>GJ</given-names></name><name><surname>Bollash</surname><given-names>M</given-names></name><name><surname>Pescatello</surname><given-names>LS</given-names></name></person-group><article-title>Stress management in the workplace: a comparison of a computer-based and an in-person stress-management intervention</article-title><source>Computers in Human Behavior</source><year>2008</year><volume>24</volume><issue>2</issue><fpage>486</fpage><lpage>96</lpage><pub-id pub-id-type="doi">10.1016/j.chb.2007.02.003</pub-id></element-citation></ref><ref id="ref9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ruwaard</surname><given-names>J</given-names></name><name><surname>Lange</surname><given-names>A</given-names></name><name><surname>Bouwman</surname><given-names>M</given-names></name><name><surname>Broeksteeg</surname><given-names>J</given-names></name><name><surname>Schrieken</surname><given-names>B</given-names></name></person-group><article-title>E-mailed standardized cognitive behavioural treatment of work-related stress: a randomized controlled trial</article-title><source>Cogn Behav Ther</source><year>2007</year><volume>36</volume><issue>3</issue><fpage>179</fpage><lpage>92</lpage><pub-id pub-id-type="doi">10.1080/16506070701381863</pub-id><pub-id pub-id-type="medline">17852171</pub-id><!--<pub-id pub-id-type="pii">779266704</pub-id>--><pub-id pub-id-type="pmid">17852171</pub-id></element-citation></ref><ref id="ref10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van der Klink</surname><given-names>JJ</given-names></name><name><surname>Blonk</surname><given-names>RW</given-names></name><name><surname>Schene</surname><given-names>AH</given-names></name><name><surname>van Dijk</surname><given-names>FJ</given-names></name></person-group><article-title>The benefits of interventions for work-related stress</article-title><source>Am J Public Health</source><year>2001</year><month>2</month><volume>91</volume><issue>2</issue><fpage>270</fpage><lpage>6</lpage><pub-id pub-id-type="medline">11211637</pub-id><!--<pub-id pub-id-type="pmcid">PMC1446543</pub-id>--><pub-id pub-id-type="pmid">11211637</pub-id></element-citation></ref><ref id="ref11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zetterqvist</surname><given-names>K</given-names></name><name><surname>Maanmies</surname><given-names>J</given-names></name><name><surname>Str&#x000f6;m</surname><given-names>L</given-names></name><name><surname>Andersson</surname><given-names>G</given-names></name></person-group><article-title>Randomized controlled trial of internet-based stress management</article-title><source>Cogn Behav Ther</source><year>2003</year><volume>32</volume><issue>3</issue><fpage>151</fpage><lpage>60</lpage><pub-id pub-id-type="doi">10.1080/16506070302316</pub-id><pub-id pub-id-type="medline">16291546</pub-id><!--<pub-id pub-id-type="pii">JY1EWNLHN5F29WG5</pub-id>--><pub-id pub-id-type="pmid">16291546</pub-id></element-citation></ref><ref id="ref12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bond</surname><given-names>FW</given-names></name><name><surname>Bunce</surname><given-names>D</given-names></name></person-group><article-title>Mediators of change in emotion-focused and problem-focused worksite stress management interventions</article-title><source>J Occup Health Psychol</source><year>2000</year><month>1</month><volume>5</volume><issue>1</issue><fpage>156</fpage><lpage>63</lpage><pub-id pub-id-type="medline">10658893</pub-id><pub-id pub-id-type="pmid">10658893</pub-id></element-citation></ref><ref id="ref13"><label>13</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bond</surname><given-names>FW</given-names></name><name><surname>Hayes</surname><given-names>SC</given-names></name></person-group><article-title>Acceptance and commitment therapy at work</article-title><source>Bond FW, Dryden W. (eds.) Handbook of brief cognitive behaviour therapy</source><year>2002</year><publisher-loc>New York, NY</publisher-loc><publisher-name>Wiley</publisher-name><fpage>117</fpage><lpage>139</lpage></element-citation></ref><ref id="ref14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bond</surname><given-names>FW</given-names></name><name><surname>Bunce</surname><given-names>D</given-names></name></person-group><article-title>The role of acceptance and job control in mental health, job satisfaction, and work performance</article-title><source>J Appl Psychol</source><year>2003</year><month>12</month><volume>88</volume><issue>6</issue><fpage>1057</fpage><lpage>67</lpage><pub-id pub-id-type="doi">10.1037/0021-9010.88.6.1057</pub-id><pub-id pub-id-type="medline">14640816</pub-id><!--<pub-id pub-id-type="pii">2003-09785-007</pub-id>--><pub-id pub-id-type="pmid">14640816</pub-id></element-citation></ref><ref id="ref15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Donaldson-Feilder</surname><given-names>EJ</given-names></name><name><surname>Bond</surname><given-names>FW</given-names></name></person-group><article-title>The relative importance of psychological acceptance and emotional intelligence to workplace well-being</article-title><source>Br J Guid Counc</source><year>2004</year><volume>32</volume><issue>2</issue><fpage>187</fpage><lpage>203</lpage><pub-id pub-id-type="doi">10.1080/08069880410001692210</pub-id></element-citation></ref><ref id="ref16"><label>16</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bond</surname><given-names>FW</given-names></name><name><surname>Flaxman</surname><given-names>P</given-names></name></person-group><article-title>The ability of psychological flexibility and job control to predict learning, job performance, and mental health</article-title><source>Hayes SC, Bond FW, Barnes-Holmes D. Austin J (eds.) Acceptance and mindfulness at work: applying acceptance and commitment therapy and relational frame theory to organizational behavior management</source><year>2006</year><publisher-loc>United States of America</publisher-loc><publisher-name>The Haworth Press</publisher-name><fpage>113</fpage><lpage>130</lpage></element-citation></ref><ref id="ref17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Keogh</surname><given-names>E</given-names></name><name><surname>Bond</surname><given-names>FW</given-names></name><name><surname>Flaxman</surname><given-names>PE</given-names></name></person-group><article-title>Improving academic performance and mental health through a stress management intervention: outcomes and mediators of change</article-title><source>Behav Res Ther</source><year>2006</year><month>3</month><volume>44</volume><issue>3</issue><fpage>339</fpage><lpage>57</lpage><pub-id pub-id-type="doi">10.1016/j.brat.2005.03.002</pub-id><pub-id pub-id-type="medline">15890314</pub-id><!--<pub-id pub-id-type="pii">S0005-7967(05)00049-5</pub-id>--><pub-id pub-id-type="pmid">15890314</pub-id></element-citation></ref><ref id="ref18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bond</surname><given-names>FW</given-names></name><name><surname>Flaxman</surname><given-names>PE</given-names></name><name><surname>Bunce</surname><given-names>D</given-names></name></person-group><article-title>The influence of psychological flexibility on work redesign: mediated moderation of a work reorganization intervention</article-title><source>J Appl Psychol</source><year>2008</year><month>5</month><volume>93</volume><issue>3</issue><fpage>645</fpage><lpage>54</lpage><pub-id pub-id-type="doi">10.1037/0021-9010.93.3.645</pub-id><pub-id pub-id-type="medline">18457492</pub-id><!--<pub-id pub-id-type="pii">2008-05281-011</pub-id>--><pub-id pub-id-type="pmid">18457492</pub-id></element-citation></ref><ref id="ref19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Flaxman</surname><given-names>PE</given-names></name><name><surname>Bond</surname><given-names>FW</given-names></name></person-group><article-title>A randomised worksite comparison of acceptance and commitment therapy and stress inoculation training</article-title><source>Behav Res Ther</source><year>2010</year><month>8</month><volume>48</volume><issue>8</issue><fpage>816</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1016/j.brat.2010.05.004</pub-id><pub-id pub-id-type="medline">20627269</pub-id><!--<pub-id pub-id-type="pii">S0005-7967(10)00087-2</pub-id>--><pub-id pub-id-type="pmid">20627269</pub-id></element-citation></ref><ref id="ref20"><label>20</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Korhonen</surname><given-names>I</given-names></name><name><surname>Mattila</surname><given-names>E</given-names></name><name><surname>van Gils</surname><given-names>M</given-names></name></person-group><article-title>Personal Health Systems - Opportunities and Barriers for Adoption</article-title><source>Proceedings of the 32nd Annual International Conference of the IEEE EMBS, Buenos Aires, 31 Aug.-4 Sept</source><year>2010</year><conf-name>the 32nd Annual International Conference of the IEEE EMBS</conf-name><conf-date>31 Aug.-4 Sept., 2010</conf-date><conf-loc>Buenos Aires</conf-loc></element-citation></ref><ref id="ref21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andersson</surname><given-names>G</given-names></name></person-group><article-title>Using the Internet to provide cognitive behaviour therapy</article-title><source>Behav Res Ther</source><year>2009</year><month>3</month><volume>47</volume><issue>3</issue><fpage>175</fpage><lpage>80</lpage><pub-id pub-id-type="doi">10.1016/j.brat.2009.01.010</pub-id><pub-id pub-id-type="medline">19230862</pub-id><!--<pub-id pub-id-type="pii">S0005-7967(09)00029-1</pub-id>--><pub-id pub-id-type="pmid">19230862</pub-id></element-citation></ref><ref id="ref22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andersson</surname><given-names>G</given-names></name><name><surname>Cuijpers</surname><given-names>P</given-names></name></person-group><article-title>Internet-based and other computerized psychological treatments for adult depression: a meta-analysis</article-title><source>Cogn Behav Ther</source><year>2009</year><month>12</month><volume>38</volume><issue>4</issue><fpage>196</fpage><lpage>205</lpage><pub-id pub-id-type="doi">10.1080/16506070903318960</pub-id><pub-id pub-id-type="medline">20183695</pub-id><!--<pub-id pub-id-type="pii">917833314</pub-id>--><pub-id pub-id-type="pmid">20183695</pub-id></element-citation></ref><ref id="ref23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andersson</surname><given-names>G</given-names></name><name><surname>Cuijpers</surname><given-names>P</given-names></name><name><surname>Carlbring</surname><given-names>P</given-names></name><name><surname>Lindefors</surname><given-names>N</given-names></name></person-group><article-title>Effects of Internet-delivered cognitive behaviour therapy for anxiety and mood disorders. Helix Review Series</article-title><source>Psychiatry</source><year>2007</year><volume>2</volume><fpage>9</fpage><lpage>14</lpage></element-citation></ref><ref id="ref24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andrews</surname><given-names>G</given-names></name><name><surname>Cuijpers</surname><given-names>P</given-names></name><name><surname>Craske</surname><given-names>MG</given-names></name><name><surname>McEvoy</surname><given-names>P</given-names></name><name><surname>Titov</surname><given-names>N</given-names></name></person-group><article-title>Computer therapy for the anxiety and depressive disorders is effective, acceptable and practical health care: a meta-analysis</article-title><source>PLoS One</source><year>2010</year><volume>5</volume><issue>10</issue><fpage>e13196</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.plos.org/10.1371/journal.pone.0013196"/></comment><pub-id pub-id-type="doi">10.1371/journal.pone.0013196</pub-id><pub-id pub-id-type="medline">20967242</pub-id><!--<pub-id pub-id-type="pmcid">PMC2954140</pub-id>--><pub-id pub-id-type="pmid">20967242</pub-id></element-citation></ref><ref id="ref25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cuijpers</surname><given-names>P</given-names></name><name><surname>Andersson</surname><given-names>G</given-names></name></person-group><article-title>Special issue on computerized treatments of depression</article-title><source>Cogn Behav Ther</source><year>2009</year><month>12</month><volume>38</volume><issue>4</issue><fpage>193</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.1080/16506070903302063</pub-id><pub-id pub-id-type="medline">20183694</pub-id><!--<pub-id pub-id-type="pii">917837289</pub-id>--><pub-id pub-id-type="pmid">20183694</pub-id></element-citation></ref><ref id="ref26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cuijpers</surname><given-names>P</given-names></name><name><surname>van Straten</surname><given-names>A</given-names></name><name><surname>Andersson</surname><given-names>G</given-names></name><name><surname>van Oppen</surname><given-names>P</given-names></name></person-group><article-title>Psychotherapy for depression in adults: a meta-analysis of comparative outcome studies</article-title><source>J Consult Clin Psychol</source><year>2008</year><month>12</month><volume>76</volume><issue>6</issue><fpage>909</fpage><lpage>22</lpage><pub-id pub-id-type="doi">10.1037/a0013075</pub-id><pub-id pub-id-type="medline">19045960</pub-id><!--<pub-id pub-id-type="pii">2008-16943-011</pub-id>--><pub-id pub-id-type="pmid">19045960</pub-id></element-citation></ref><ref id="ref27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Griffiths</surname><given-names>KM</given-names></name><name><surname>Farrer</surname><given-names>L</given-names></name><name><surname>Christensen</surname><given-names>H</given-names></name></person-group><article-title>The efficacy of internet interventions for depression and anxiety disorders: a review of randomised controlled trials</article-title><source>Med J Aust</source><year>2010</year><month>6</month><day>7</day><volume>192</volume><issue>11 Suppl</issue><fpage>S4</fpage><lpage>11</lpage><pub-id pub-id-type="medline">20528707</pub-id><!--<pub-id pub-id-type="pii">gri10844_fm</pub-id>--><pub-id pub-id-type="pmid">20528707</pub-id></element-citation></ref><ref id="ref28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kaltenthaler</surname><given-names>E</given-names></name><name><surname>Sutcliffe</surname><given-names>P</given-names></name><name><surname>Parry</surname><given-names>G</given-names></name><name><surname>Beverley</surname><given-names>C</given-names></name><name><surname>Rees</surname><given-names>A</given-names></name><name><surname>Ferriter</surname><given-names>M</given-names></name></person-group><article-title>The acceptability to patients of computerized cognitive behaviour therapy for depression: a systematic review</article-title><source>Psychol Med</source><year>2008</year><month>11</month><volume>38</volume><issue>11</issue><fpage>1521</fpage><lpage>30</lpage><pub-id pub-id-type="doi">10.1017/S0033291707002607</pub-id><pub-id pub-id-type="medline">18205964</pub-id><!--<pub-id pub-id-type="pii">S0033291707002607</pub-id>--><pub-id pub-id-type="pmid">18205964</pub-id></element-citation></ref><ref id="ref29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kaltenthaler</surname><given-names>E</given-names></name><name><surname>Parry</surname><given-names>G</given-names></name><name><surname>Beverley</surname><given-names>C</given-names></name><name><surname>Ferriter</surname><given-names>M</given-names></name></person-group><article-title>Computerised cognitive-behavioural therapy for depression: systematic review</article-title><source>Br J Psychiatry</source><year>2008</year><month>9</month><volume>193</volume><issue>3</issue><fpage>181</fpage><lpage>4</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://bjp.rcpsych.org/cgi/pmidlookup?view=long&#x00026;pmid=18757972"/></comment><pub-id pub-id-type="doi">10.1192/bjp.bp.106.025981</pub-id><pub-id pub-id-type="medline">18757972</pub-id><!--<pub-id pub-id-type="pii">193/3/181</pub-id>--><pub-id pub-id-type="pmid">18757972</pub-id></element-citation></ref><ref id="ref30"><label>30</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Marks</surname><given-names>IM</given-names></name><name><surname>Cavanagh</surname><given-names>K</given-names></name><name><surname>Gega</surname><given-names>L</given-names></name></person-group><source>Hands-on help: computer-aided psychotherapy</source><year>2007</year><publisher-loc>Hove [England]</publisher-loc><publisher-name>Psychology Press</publisher-name></element-citation></ref><ref id="ref31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spek</surname><given-names>V</given-names></name><name><surname>Cuijpers</surname><given-names>P</given-names></name><name><surname>Nykl&#x000ed;cek</surname><given-names>I</given-names></name><name><surname>Riper</surname><given-names>H</given-names></name><name><surname>Keyzer</surname><given-names>J</given-names></name><name><surname>Pop</surname><given-names>V</given-names></name></person-group><article-title>Internet-based cognitive behaviour therapy for symptoms of depression and anxiety: a meta-analysis</article-title><source>Psychol Med</source><year>2007</year><month>3</month><volume>37</volume><issue>3</issue><fpage>319</fpage><lpage>28</lpage><pub-id pub-id-type="doi">10.1017/S0033291706008944</pub-id><pub-id pub-id-type="medline">17112400</pub-id><!--<pub-id pub-id-type="pii">S0033291706008944</pub-id>--><pub-id pub-id-type="pmid">17112400</pub-id></element-citation></ref><ref id="ref32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Titov</surname><given-names>N</given-names></name></person-group><article-title>Internet-delivered psychotherapy for depression in adults</article-title><source>Curr Opin Psychiatry</source><year>2011</year><month>1</month><volume>24</volume><issue>1</issue><fpage>18</fpage><lpage>23</lpage><pub-id pub-id-type="doi">10.1097/YCO.0b013e32833ed18f</pub-id><pub-id pub-id-type="medline">20827199</pub-id><pub-id pub-id-type="pmid">20827199</pub-id></element-citation></ref><ref id="ref33"><label>33</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Seymour</surname><given-names>L</given-names></name><name><surname>Grove</surname><given-names>B</given-names></name></person-group><source>Workplace interventions for people with common mental health problems: evidence review and recommendations</source><year>2005</year><date-in-citation>2012-08-14</date-in-citation><publisher-loc>London (UK)</publisher-loc><publisher-name>British Occupational Health Research Foundation (BOHRF)</publisher-name><comment><ext-link ext-link-type="uri" xlink:href="http://www.bohrf.org.uk/downloads/cmh_rev.pdf">http://www.bohrf.org.uk/downloads/cmh_rev.pdf</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="69uMaSk0M"/></element-citation></ref><ref id="ref34"><label>34</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Happonen</surname><given-names>AP</given-names></name><name><surname>Mattila</surname><given-names>E</given-names></name><name><surname>Kinnunen</surname><given-names>ML</given-names></name><name><surname>Ikonen</surname><given-names>V</given-names></name><name><surname>Myllym&#x000e4;ki</surname><given-names>T</given-names></name><name><surname>Kaipainen</surname><given-names>K</given-names></name><name><surname>Rusko</surname><given-names>H</given-names></name><name><surname>Lappalainen</surname><given-names>R</given-names></name><name><surname>Korhonen</surname><given-names>I</given-names></name></person-group><article-title>P4Well concept to empower self-management of psychophysiological wellbeing and load recovery</article-title><year>2009</year><conf-name>Proceedings of the 3rd International Conference on Pervasive Computing Technologies for Healthcare</conf-name><conf-date>April 2009</conf-date><conf-loc>London, UK</conf-loc><fpage>1</fpage><lpage>3</lpage></element-citation></ref><ref id="ref35"><label>35</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Happonen</surname><given-names>A</given-names></name><name><surname>Kaipainen</surname><given-names>K</given-names></name><name><surname>V&#x000e4;&#x000e4;t&#x000e4;nen</surname><given-names>A</given-names></name><name><surname>Kinnunen</surname><given-names>ML</given-names></name><name><surname>Myllym&#x000e4;ki</surname><given-names>T</given-names></name><name><surname>Lappalainen</surname><given-names>P</given-names></name><name><surname>Tuomela</surname><given-names>H</given-names></name><name><surname>Rusko</surname><given-names>H</given-names></name><name><surname>Mattila</surname><given-names>E</given-names></name><name><surname>Lappalainen</surname><given-names>R</given-names></name><name><surname>Korhonen</surname><given-names>I</given-names></name></person-group><article-title>A concept to empower self-management of psychophysiological wellbeing: preliminary user study experiences</article-title><year>2009</year><conf-name>Proceedings of the 31st Annual International Conference of the IEEE EMBS</conf-name><conf-date>September 2009</conf-date><conf-loc>Minneapolis, Minnesota</conf-loc><fpage>2</fpage><lpage>6</lpage></element-citation></ref><ref id="ref36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clarke</surname><given-names>D</given-names></name><name><surname>Abbot</surname><given-names>M</given-names></name><name><surname>DeSouza</surname><given-names>R</given-names></name><name><surname>Bellringer</surname><given-names>M</given-names></name></person-group><article-title>An overview of help seeking by problem gamblers and their families including barriers to and relevance of services</article-title><source>International Journal of Mental Health and Addiction</source><year>2007</year><volume>5</volume><issue>4</issue><fpage>292</fpage><lpage>306</lpage><pub-id pub-id-type="doi">10.1007/s11469-007-9063-y</pub-id></element-citation></ref><ref id="ref37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oliver</surname><given-names>MI</given-names></name><name><surname>Pearson</surname><given-names>N</given-names></name><name><surname>Coe</surname><given-names>N</given-names></name><name><surname>Gunnell</surname><given-names>D</given-names></name></person-group><article-title>Help-seeking behaviour in men and women with common mental health problems: cross-sectional study</article-title><source>Br J Psychiatry</source><year>2005</year><month>4</month><volume>186</volume><fpage>297</fpage><lpage>301</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://bjp.rcpsych.org/cgi/pmidlookup?view=long&#x00026;pmid=15802685"/></comment><pub-id pub-id-type="doi">10.1192/bjp.186.4.297</pub-id><pub-id pub-id-type="medline">15802685</pub-id><!--<pub-id pub-id-type="pii">186/4/297</pub-id>--><pub-id pub-id-type="pmid">15802685</pub-id></element-citation></ref><ref id="ref38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author"><collab>Beck AT</collab><collab>Ward CH</collab><collab>Mendelson M</collab><collab>Mock J</collab><collab>Erbaugh J</collab></person-group><article-title>An inventory for measuring depression</article-title><source>Arch Gen Psychiatry</source><year>1961</year><month>6</month><volume>4</volume><fpage>561</fpage><lpage>571</lpage><pub-id pub-id-type="medline">13688369</pub-id><pub-id pub-id-type="pmid">13688369</pub-id></element-citation></ref><ref id="ref39"><label>39</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hayes</surname><given-names>SC</given-names></name><name><surname>Strosahl</surname><given-names>KD</given-names></name><name><surname>Wilson</surname><given-names>KG</given-names></name></person-group><source>Acceptance and commitment therapy: An experiential approach to behavior change</source><year>1999</year><publisher-loc>New York, London</publisher-loc><publisher-name>The Guilford Press</publisher-name></element-citation></ref><ref id="ref40"><label>40</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hayes</surname><given-names>SC</given-names></name><name><surname>Smith</surname><given-names>S</given-names></name></person-group><source>Get out of your mind and into your life: the new acceptance and commitment therapy</source><year>2005</year><publisher-loc>Oakland</publisher-loc><publisher-name>New Harbinger Publications</publisher-name></element-citation></ref><ref id="ref41"><label>41</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Kaipainen</surname><given-names>K</given-names></name><name><surname>Mattila</surname><given-names>E</given-names></name><name><surname>V&#x000e4;&#x000e4;t&#x000e4;nen</surname><given-names>A</given-names></name><name><surname>Happonen</surname><given-names>AP</given-names></name><name><surname>Korhonen</surname><given-names>I</given-names></name><name><surname>Kinnunen</surname><given-names>ML</given-names></name><name><surname>Myllym&#x000e4;ki</surname><given-names>T</given-names></name><name><surname>Lappalainen</surname><given-names>P</given-names></name><name><surname>Hoffren</surname><given-names>H</given-names></name><name><surname>Rusko</surname><given-names>H</given-names></name><name><surname>Lappalainen</surname><given-names>R</given-names></name></person-group><article-title>Web, mobile and monitoring technologies in self-management of psychophysiological wellbeing: usage and user experiences</article-title><year>2010</year><conf-name>Proceedings of the IADIS International Conference e-Health</conf-name><conf-date>2010</conf-date><conf-loc>Freiburg, Germany</conf-loc><fpage>167</fpage><lpage>177</lpage></element-citation></ref><ref id="ref42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Holi</surname><given-names>MM</given-names></name><name><surname>Sammallahti</surname><given-names>PR</given-names></name><name><surname>Aalberg</surname><given-names>VA</given-names></name></person-group><article-title>A Finnish validation study of the SCL-90</article-title><source>Acta Psychiatr Scand</source><year>1998</year><month>1</month><volume>97</volume><issue>1</issue><fpage>42</fpage><lpage>6</lpage><pub-id pub-id-type="medline">9504702</pub-id><pub-id pub-id-type="pmid">9504702</pub-id></element-citation></ref><ref id="ref43"><label>43</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>N&#x000e4;&#x000e4;t&#x000e4;nen</surname><given-names>P</given-names></name><name><surname>Aro</surname><given-names>A</given-names></name><name><surname>Matthiesen</surname><given-names>SB</given-names></name><name><surname>Salmela-Aro</surname><given-names>K</given-names></name></person-group><source>Bergen Burnout Indicator-15</source><year>2003</year><publisher-loc>Helsinki</publisher-loc><publisher-name>Edita</publisher-name></element-citation></ref><ref id="ref44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matthiesen</surname><given-names>S</given-names></name></person-group><article-title>The Bergen Burnout Indicator</article-title><source>University of Bergen, Norway</source><year>1992</year></element-citation></ref><ref id="ref45"><label>45</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Ojanen</surname><given-names>M</given-names></name><name><surname>Sepp&#x000e4;l&#x000e4;</surname><given-names>H</given-names></name></person-group><source>Assessment of Psychosocial Capabilities of Persons with developmental disabilities</source><year>1997</year><publisher-loc>Helsinki</publisher-loc><publisher-name>Finnish Association of Mental Retardation</publisher-name></element-citation></ref><ref id="ref46"><label>46</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Ojanen</surname><given-names>M</given-names></name></person-group><article-title>Effects of illness and adversity on quality of life</article-title><source>Jobin J, Maltais F, LeBlanc P, Simard C (eds.) Advances in cardiopulmonary rehabilitation</source><year>2000</year><publisher-loc>Champaign, IL</publisher-loc><publisher-name>Human Kinetics</publisher-name></element-citation></ref><ref id="ref47"><label>47</label><element-citation publication-type="book"><person-group person-group-type="author"><collab>Ojanen M</collab></person-group><article-title>Graafiset analogia-asteikot el&#x000e4;m&#x000e4;nlaadun ja hyvinvoinnin mittauksessa</article-title><source>Talo S (eds.) Toimintakyky&#x02013;viitekehyksest&#x000e4; arviointiin ja mittaamiseen</source><year>2001</year><publisher-loc>Turku, Finland</publisher-loc><publisher-name>KELAn Sosiaali- ja terveysturvan katsauksia</publisher-name><fpage>207</fpage><lpage>225</lpage></element-citation></ref><ref id="ref48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hayes</surname><given-names>SC</given-names></name><name><surname>Luoma</surname><given-names>JB</given-names></name><name><surname>Bond</surname><given-names>FW</given-names></name><name><surname>Masuda</surname><given-names>A</given-names></name><name><surname>Lillis</surname><given-names>J</given-names></name></person-group><article-title>Acceptance and commitment therapy: model, processes and outcomes</article-title><source>Behav Res Ther</source><year>2006</year><month>1</month><volume>44</volume><issue>1</issue><fpage>1</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.1016/j.brat.2005.06.006</pub-id><pub-id pub-id-type="medline">16300724</pub-id><!--<pub-id pub-id-type="pii">S0005-7967(05)00214-7</pub-id>--><pub-id pub-id-type="pmid">16300724</pub-id></element-citation></ref><ref id="ref49"><label>49</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Siegrist</surname><given-names>J</given-names></name></person-group><article-title>Adverse health effects of high-effort/low-reward conditions</article-title><source>J Occup Health Psychol</source><year>1996</year><month>1</month><volume>1</volume><issue>1</issue><fpage>27</fpage><lpage>41</lpage><pub-id pub-id-type="medline">9547031</pub-id><pub-id pub-id-type="pmid">9547031</pub-id></element-citation></ref><ref id="ref50"><label>50</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Feske</surname><given-names>U</given-names></name><name><surname>Chambless</surname><given-names>DL</given-names></name></person-group><article-title>Cognitive behavioral versus exposure only treatment for social phobia: a meta-analysis</article-title><source>Behavior Therapy</source><year>1995</year><volume>26</volume><issue>4</issue><fpage>695</fpage><lpage>720</lpage><pub-id pub-id-type="doi">10.1016/S0005-7894(05)80040-1</pub-id></element-citation></ref><ref id="ref51"><label>51</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morris</surname><given-names>SB</given-names></name><name><surname>DeShon</surname><given-names>RP</given-names></name></person-group><article-title>Combining effect size estimates in meta-analysis with repeated measures and independent-groups designs</article-title><source>Psychol Methods</source><year>2002</year><month>3</month><volume>7</volume><issue>1</issue><fpage>105</fpage><lpage>25</lpage><pub-id pub-id-type="medline">11928886</pub-id><pub-id pub-id-type="pmid">11928886</pub-id></element-citation></ref><ref id="ref52"><label>52</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Roth</surname><given-names>A</given-names></name><name><surname>Fonagy</surname><given-names>P</given-names></name></person-group><source>What Works for Whom?, Second Edition: A Critical Review of Psychotherapy Research</source><year>2005</year><publisher-loc>New York</publisher-loc><publisher-name>The Guilford Press</publisher-name></element-citation></ref><ref id="ref53"><label>53</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gloaguen</surname><given-names>V</given-names></name><name><surname>Cottraux</surname><given-names>J</given-names></name><name><surname>Cucherat</surname><given-names>M</given-names></name><name><surname>Blackburn</surname><given-names>IM</given-names></name></person-group><article-title>A meta-analysis of the effects of cognitive therapy in depressed patients</article-title><source>J Affect Disord</source><year>1998</year><month>4</month><volume>49</volume><issue>1</issue><fpage>59</fpage><lpage>72</lpage><pub-id pub-id-type="medline">9574861</pub-id><!--<pub-id pub-id-type="pii">S0165032797001997</pub-id>--><pub-id pub-id-type="pmid">9574861</pub-id></element-citation></ref><ref id="ref54"><label>54</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Korhonen</surname><given-names>I</given-names></name><name><surname>Mattila</surname><given-names>E</given-names></name><name><surname>Ahtinen</surname><given-names>A</given-names></name><name><surname>Salminen</surname><given-names>J</given-names></name><name><surname>Hopsu</surname><given-names>L</given-names></name><name><surname>Lappalainen</surname><given-names>R</given-names></name><name><surname>Leino</surname><given-names>T</given-names></name></person-group><article-title>Personal Health Promotion through Personalized HealthTechnologies - Nuadu Experience</article-title><year>2009</year><conf-name>Proceedings of the 31st Annual International Conference of the IEEE EMBS</conf-name><conf-date>September , 2009</conf-date><conf-loc>Minneapolis, Minnesota, USA</conf-loc><fpage>2</fpage><lpage>6</lpage></element-citation></ref><ref id="ref55"><label>55</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brouwer</surname><given-names>W</given-names></name><name><surname>Kroeze</surname><given-names>W</given-names></name><name><surname>Crutzen</surname><given-names>R</given-names></name><name><surname>de Nooijer</surname><given-names>J</given-names></name><name><surname>de Vries</surname><given-names>NK</given-names></name><name><surname>Brug</surname><given-names>J</given-names></name><name><surname>Oenema</surname><given-names>A</given-names></name></person-group><article-title>Which intervention characteristics are related to more exposure to internet-delivered healthy lifestyle promotion interventions? A systematic review</article-title><source>J Med Internet Res</source><year>2011</year><volume>13</volume><issue>1</issue><fpage>e2</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2011/1/e2/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.1639</pub-id><pub-id pub-id-type="medline">21212045</pub-id><!--<pub-id pub-id-type="pii">v13i1e2</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3221341</pub-id>--><pub-id pub-id-type="pmid">21212045</pub-id></element-citation></ref><ref id="ref56"><label>56</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Cooper</surname><given-names>CL</given-names></name><name><surname>Dewe</surname><given-names>PJ</given-names></name><name><surname>O'Driscoll</surname><given-names>MP</given-names></name></person-group><source>Organizational stress: a review and critique of theory, research, and applications</source><year>2001</year><publisher-loc>Thousand Oaks, Calif</publisher-loc><publisher-name>Sage</publisher-name></element-citation></ref><ref id="ref57"><label>57</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kerr</surname><given-names>J</given-names></name><name><surname>Patrick</surname><given-names>K</given-names></name><name><surname>Norman</surname><given-names>G</given-names></name><name><surname>Stein</surname><given-names>MB</given-names></name><name><surname>Calfas</surname><given-names>K</given-names></name><name><surname>Zabinski</surname><given-names>M</given-names></name><name><surname>Robinson</surname><given-names>A</given-names></name></person-group><article-title>Randomized control trial of a behavioral intervention for overweight women: impact on depressive symptoms</article-title><source>Depress Anxiety</source><year>2008</year><volume>25</volume><issue>7</issue><fpage>555</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1002/da.20320</pub-id><pub-id pub-id-type="medline">17557319</pub-id><pub-id pub-id-type="pmid">17557319</pub-id></element-citation></ref><ref id="ref58"><label>58</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kerr</surname><given-names>J</given-names></name><name><surname>Calfas</surname><given-names>KJ</given-names></name><name><surname>Caparosa</surname><given-names>S</given-names></name><name><surname>Stein</surname><given-names>MB</given-names></name><name><surname>Sieber</surname><given-names>W</given-names></name><name><surname>Abascal</surname><given-names>LB</given-names></name><name><surname>Norman</surname><given-names>GJ</given-names></name><name><surname>Patrick</surname><given-names>K</given-names></name></person-group><article-title>A pilot study to assess the feasibility and acceptability of a community based physical activity intervention (involving internet, telephone, and pedometer support), integrated with medication and mood management for depressed patients</article-title><source>Mental Health and Physical Activity</source><year>2008</year><volume>1</volume><issue>1</issue><fpage>40</fpage><lpage>45</lpage><pub-id pub-id-type="doi">10.1016/j.mhpa.2008.06.002</pub-id></element-citation></ref><ref id="ref59"><label>59</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Mattila</surname><given-names>E</given-names></name><name><surname>Koskelo</surname><given-names>J</given-names></name><name><surname>Lappalainen</surname><given-names>R</given-names></name><name><surname>Salminen</surname><given-names>J</given-names></name><name><surname>Nyman</surname><given-names>P</given-names></name><name><surname>L&#x000e4;hteenm&#x000e4;ki</surname><given-names>J</given-names></name></person-group><article-title>A concept for ICT Assisted Health Promotion in the Occupational Healthcare</article-title><year>2007</year><conf-name>Proceedings of the 29th Annual International Conference of the IEEE EMBS</conf-name><conf-date>2007</conf-date><conf-loc>Lyon, France</conf-loc></element-citation></ref><ref id="ref60"><label>60</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mattila</surname><given-names>E</given-names></name><name><surname>P&#x000e4;rkk&#x000e4;</surname><given-names>J</given-names></name><name><surname>Hermersdorf</surname><given-names>M</given-names></name><name><surname>Kaasinen</surname><given-names>J</given-names></name><name><surname>Vainio</surname><given-names>J</given-names></name><name><surname>Samposalo</surname><given-names>K</given-names></name></person-group><article-title>Mobile diary for wellness management - results on usage and usability in two user studies</article-title><source>IEEE Transactions on information technology in biomedicine</source><year>2008</year><volume>12</volume></element-citation></ref><ref id="ref61"><label>61</label><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Mattila</surname><given-names>E</given-names></name><name><surname>Lappalainen</surname><given-names>R</given-names></name><name><surname>P&#x000e4;rkk&#x000e4;</surname><given-names>J</given-names></name><name><surname>Salminen</surname><given-names>J</given-names></name><name><surname>Korhonen</surname><given-names>I</given-names></name></person-group><source>J Telemed Telecare</source><year>2010</year><comment>Use of a mobile phone diary for observing weight management and related behaviours<ext-link ext-link-type="uri" xlink:href="http://search.proquest.com/docview/733594442?accountid=11774">http://search.proquest.com/docview/733594442?accountid=11774</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="69uPgMlgs"/></element-citation></ref><ref id="ref62"><label>62</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hasson</surname><given-names>D</given-names></name><name><surname>Anderberg</surname><given-names>UM</given-names></name><name><surname>Theorell</surname><given-names>T</given-names></name><name><surname>Arnetz</surname><given-names>BB</given-names></name></person-group><article-title>Psychophysiological effects of a web-based stress management system: a prospective, randomized controlled intervention study of IT and media workers [ISRCTN54254861]</article-title><source>BMC Public Health</source><year>2005</year><volume>5</volume><fpage>78</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2458/5/78"/></comment><pub-id pub-id-type="doi">10.1186/1471-2458-5-78</pub-id><pub-id pub-id-type="medline">16042796</pub-id><!--<pub-id pub-id-type="pii">1471-2458-5-78</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC1183223</pub-id>--><pub-id pub-id-type="pmid">16042796</pub-id></element-citation></ref><ref id="ref63"><label>63</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carlbring</surname><given-names>P</given-names></name><name><surname>Andersson</surname><given-names>G</given-names></name></person-group><article-title>Internet and psychological treatment. How well can they be combined?</article-title><source>Computers in Human Behavior</source><year>2006</year><volume>22</volume><issue>3</issue><fpage>545</fpage><lpage>553</lpage><pub-id pub-id-type="doi">10.1016/j.chb.2004.10.009</pub-id></element-citation></ref><ref id="ref64"><label>64</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eysenbach</surname><given-names>G</given-names></name><collab>CONSORT-EHEALTH Group</collab></person-group><article-title>CONSORT-EHEALTH: improving and standardizing evaluation reports of Web-based and mobile health interventions</article-title><source>J Med Internet Res</source><year>2011</year><volume>13</volume><issue>4</issue><fpage>e126</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2011/4/e126/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.1923</pub-id><pub-id pub-id-type="medline">22209829</pub-id><!--<pub-id pub-id-type="pii">v13i4e126</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3278112</pub-id>--><pub-id pub-id-type="pmid">22209829</pub-id></element-citation></ref></ref-list></back></article>

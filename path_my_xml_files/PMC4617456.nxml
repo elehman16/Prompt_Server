@@ -1,0 +1,848 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Prev Chronic Dis</journal-id><journal-id journal-id-type="iso-abbrev">Prev Chronic Dis</journal-id><journal-id journal-id-type="publisher-id">PCD</journal-id><journal-title-group><journal-title>Preventing Chronic Disease</journal-title></journal-title-group><issn pub-type="epub">1545-1151</issn><publisher><publisher-name>Centers for Disease Control and Prevention</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26491815</article-id><article-id pub-id-type="pmc">4617456</article-id><article-id pub-id-type="publisher-id">15_0160</article-id><article-id pub-id-type="doi">10.5888/pcd12.150160</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group><series-title>Peer Reviewed</series-title></article-categories><title-group><article-title>Long-Term Impact of a Community Health Worker Intervention on Diabetes Control in American Samoa</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Rao</surname><given-names>Mayuree</given-names></name><degrees>BA</degrees></contrib><contrib contrib-type="author"><name><surname>DePue</surname><given-names>Judith D.</given-names></name><degrees>EdD</degrees><degrees>MPH</degrees></contrib><contrib contrib-type="author"><name><surname>Dunsiger</surname><given-names>Shira</given-names></name><degrees>PhD</degrees></contrib><contrib contrib-type="author"><name><surname>Elsayed</surname><given-names>Mohammad</given-names></name><degrees>BA</degrees></contrib><contrib contrib-type="author"><name><surname>Nu'usolia</surname><given-names>Ofeira</given-names></name><degrees>MEd</degrees></contrib><contrib contrib-type="author"><name><surname>McGarvey</surname><given-names>Stephen T.</given-names></name><degrees>PhD</degrees><degrees>MPH</degrees></contrib><aff id="aff1">Author Affiliations: Mohammad Elsayed, Warren Alpert Medical School of Brown University, Providence, Rhode Island; Judith D. DePue, Shira Dunsiger, Warren Alpert Medical School of Brown University, Providence, Rhode Island, and Centers for Behavioral and Preventive Medicine, Miriam Hospital, Providence, Rhode Island; Ofeira Nu'usolia, Tafuna Clinic, American Samoa Community Health Centers, Department of Health, American Samoa; Stephen T. McGarvey, International Health Institute and Department of Epidemiology, Brown University School of Public Health, Providence, Rhode Island.</aff></contrib-group><author-notes><corresp id="cor1">Corresponding Author: Mayuree Rao, Warren Alpert Medical School of Brown University, 222 Richmond St, Box G-9230A, Providence, RI 02903. Telephone: 650-283-2990. Email: <email xlink:href="mayuree_rao@brown.edu">mayuree_rao@brown.edu</email>.</corresp></author-notes><pub-date pub-type="collection"><year>2015</year></pub-date><pub-date pub-type="epub"><day>22</day><month>10</month><year>2015</year></pub-date><volume>12</volume><elocation-id>E180</elocation-id><abstract><sec><title>Introduction</title><p>Diabetes Care in American Samoa (DCAS) was a randomized controlled trial of a 12-month intervention facilitated by community health workers (CHWs) that demonstrated improved HbA1c levels compared with usual care at trial completion. We sought to evaluate the long-term impact of this intervention on diabetes control.</p></sec><sec><title>Methods</title><p>We retrospectively collected HbA1c measurements from medical records of DCAS participants (n = 268). The study group received the intervention during the trial, and the control group received the intervention after the trial. We used mixed-effects longitudinal regression models to assess change in HbA1c within each trial arm during 3 time periods: DCAS (12 months of the study group&#x02019;s intervention), the first year after DCAS (control group&#x02019;s intervention), and the second year after DCAS. Models were adjusted for baseline characteristics that differed significantly for participants with a low number of HbA1c measurements from those with a high number of HbA1c measurements.</p></sec><sec><title>Results</title><p>After adjustment for confounders<italic>,</italic> the experiment group experienced a decrease in HbA1c of 0.28 units per year (95% confidence interval [CI], &#x02212;0.64 to 0.07) during DCAS (intervention). HbA1c decreased by 0.88 units per year (95% CI, &#x02212;1.31 to &#x02212;0.45) during the year after the intervention. No significant change was observed the following year. HbA1c of the control group did not significantly change during DCAS (usual care) but decreased by 1.31 units per year (95% CI, &#x02212;1.72 to &#x02212;0.91) during its intervention. During the year after the control group&#x02019;s intervention, HbA1c increased by 1.18 units per year (95% CI, 0.42 to 1.93).</p></sec><sec><title>Conclusion</title><p>Both groups had initial improvements in glycemic control, but HbA1c later plateaued or increased. These results suggest that time-limited CHW programs improve diabetes control in the short term, but ongoing programs are needed for sustained impact.</p></sec></abstract></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Levels of type 2 diabetes in the US Territory of American Samoa are among the highest in the world, with an estimated prevalence of 21.5% in 2002 among adults aged 18 or older (<xref rid="R1" ref-type="bibr">1</xref>). The high prevalence of diabetes is associated with lifestyle changes accompanying economic modernization, including reduced physical activity and a shift to imported and highly processed foods (<xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R3" ref-type="bibr">3</xref>). Furthermore, as a medically underserved area with a shortage of health professionals (<xref rid="R4" ref-type="bibr">4</xref>), American Samoa has limited health resources available for diabetes management.</p><p>Diabetes Care in American Samoa (DCAS) was a randomized controlled trial of a 12-month diabetes education and support program, culturally adapted for American Samoa and delivered by a team comprising a trained nurse and community health workers (CHWs). The experiment group was compared with a control group who received usual care and who also received the intervention after the study ended. At trial completion, HbA1c, a measure of average blood glucose, was 0.53 units lower in the experiment group than in the control group after we adjusted for confounders (<xref rid="R5" ref-type="bibr">5</xref>).</p><p>Most programs that use CHWs in diabetes care are time-limited (median duration: 6 months), and few follow up with participants long-term (<xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R7" ref-type="bibr">7</xref>). The results of this study contribute to evidence supporting the effectiveness of CHWs in diabetes care (<xref rid="R7" ref-type="bibr">7</xref>&#x02013;<xref rid="R9" ref-type="bibr">9</xref>). However, little is known about whether short-term improvements in diabetes control are sustained after CHW interventions are over (<xref rid="R8" ref-type="bibr">8</xref>).</p><p>Here, we report the longer-term impact of our 12-month CHW intervention on diabetes control. Our objective was to evaluate the change in HbA1c by trial arm for 3 consecutive 1-year periods (<xref ref-type="fig" rid="F1">Figure 1</xref>). We hypothesized that HbA1c would increase over time in the experiment group after the intervention ended. For the control group, we expected HbA1c to decrease during the intervention and increase after its completion.</p><fig id="F1" fig-type="figure" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Timeline of study analysis. Change in HbA1c over time was evaluated by trial arm during 3 consecutive 1-year periods: 1) DCAS period; 2) first year after DCAS completion; and 3) second year after DCAS completion. Abbreviation: DCAS, Diabetes Care in American Samoa.</p></caption><long-desc>This timeline of the Diabetes Care in American Samoa (DCAS) study shows the three 1-year periods. In the DCAS period, participants in the experiment arm received the intervention while participants in the control arm received usual care. In the second period, the control participants received the intervention. In the third period, control participants were in their first year after the intervention and participants in the experiment arm were in their second year after the intervention. We evaluated change in HbA1c over time for all participants.</long-desc><graphic xlink:href="PCD-12-E180s01"/></fig></sec><sec sec-type="methods"><title>Methods</title><sec><title>Study design, setting, and participants</title><p>DCAS was a cluster randomized controlled trial conducted in Tutuila, the main island in American Samoa. Details are discussed elsewhere (<xref rid="R5" ref-type="bibr">5</xref>). Briefly, the study design and intervention was adapted from Project Sugar 2, a nurse-CHW team intervention for diabetes management for African Americans in Baltimore, Maryland (<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R10" ref-type="bibr">10</xref>). DCAS participants were drawn from the patient population of Tafuna Clinic, a federally qualified community health center. Villages within the clinic&#x02019;s catchment area were divided into 12 areas. To limit contamination, villages were randomized to the experiment or control group on the basis of size and location so that intervention and usual-care villages were not adjacent. As part of the study design, the control group also received the CHW intervention following the completion of the trial.</p><p>DCAS participants were enrolled by Tafuna Clinic staff on a rolling basis from February 2009 to May 2010. Eligibility criteria were broad to test real-world effectiveness: aged 18 or older, resident in service area, self-identified as Samoan, type 2 diabetes diagnosed by a physician, mentally competent and able to give informed consent, unlikely to leave American Samoa for more than 4 months during the study, and having no serious comorbid conditions (eg, end-stage renal disease, cancer). Because recruitment initially yielded fewer patients with diagnosed diabetes than expected, Tafuna Clinic providers extended the criteria to include newly diagnosed patients after community diabetes screenings and confirmation of diabetes diagnosis.</p><p>Our study sample comprised all 268 participants who were enrolled in DCAS: 104 assigned to the experiment group and 164 to the control group (<xref ref-type="fig" rid="F2">Figure 2</xref>). The primary outcome measure was HbA1c, collected retrospectively from the medical records of DCAS participants. After the parent study (DCAS trial) ended, medical records were used because additional study measurements could not be collected in person.</p><fig id="F2" fig-type="figure" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Consolidated Standards of Reporting Trial (CONSORT) diagram of recruitment. In this intent-to-treat analysis, participants who did not complete 12-month follow-up were included in analysis until date of ineligibility. Abbreviations: CHW, community health worker; DCAS, Diabetes Care in American Samoa.</p></caption><long-desc>A total of 406 people were recruited and assessed for eligibility in the study. Of these, 94 were deemed ineligible. Of the 312 eligible recruits, 44 declined to participate, leaving a sample of 268 to be randomly assigned to the experiment arm or the control arm. There were 104 participants in the experiment arm; of these, 4 were lost to follow-up and 5 discontinued treatment. Of those in the control arm, 164 received usual care and 148 completed the 12-month follow-up; 7 were lost to follow-up, and 9 discontinued usual care.</long-desc><graphic xlink:href="PCD-12-E180s02"/></fig><p>Because the control group received the intervention after the experiment group did, it was not possible to use a randomized design for this follow-up study. Therefore, each group was compared with itself over time. All study protocols and informed consent procedures were approved by the institutional review boards of the American Samoa Department of Health and Brown University.</p></sec><sec><title>DCAS intervention</title><p>The DCAS staff consisted of a nurse care manager and 4 CHWs. CHWs were recruited from the community through the Tafuna Clinic employee hiring system; the position required a high school education with some health care experience preferred. All CHWs were trained by study investigators, including a primary care physician, registered nurse and diabetes educator, and behavioral interventionist. Training included research practice, standards of care including American Diabetes Association guidelines (<xref rid="R11" ref-type="bibr">11</xref>), the chronic care model (<xref rid="R12" ref-type="bibr">12</xref>), and patient-centered communication skills (<xref rid="R13" ref-type="bibr">13</xref>). CHWs were further certified in diabetes knowledge and in procedures for taking blood glucose, blood pressure, and height and weight measurements.</p><p>Study participants were classified into 1 of 3 risk profiles, which determined intervention frequency and intensity. Risk profiles were based on an algorithm that used HbA1c, blood pressure, smoking status, alcohol use, and Patient Health Questionnaire (PHQ-9) depression scores measured at study enrollment. BMI was not included in the risk profile, given that 93.5% of American Samoans are overweight or obese (<xref rid="R14" ref-type="bibr">14</xref>). Low-risk participants received a one-on-one home CHW visit every 3 months, moderate-risk participants received a one-on-one CHW home visit monthly, and high-risk participants had weekly group meetings with the nurse care manager and CHW, or one-on-one meetings with a CHW if they were unavailable for group meetings.</p><p>Intervention content included 8 possible topics chosen from the American Association of Diabetes Educators&#x02019; selected self-care behaviors: diabetes introduction, healthy eating, physical activity, medication adherence, monitoring blood glucose and blood pressure, reducing risk, healthy coping, and problem-solving (<xref rid="R15" ref-type="bibr">15</xref>). Topic selection was guided by the risk profile and self-selected goals of the participants. CHWs used flipcharts including sections on each of the 8 topics to facilitate diabetes education during visits with participants. Flipcharts were modeled on the National Diabetes Education Program flipcharts for diabetes prevention and adapted for the local cultural context (<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref>). Given the intervention time frame and limited scope of the CHWs&#x02019; training, weight loss was not directly targeted but indirectly addressed by topics such as healthy eating and physical activity.</p></sec><sec><title>Data collection</title><p>At DCAS enrollment, information was collected on sociodemographic variables (eg, age, sex), biological measures (eg, HbA1c, BMI, blood pressure), behavioral measures (eg, diet, exercise), and psychosocial measures (eg, personal beliefs on diabetes control). After this baseline assessment, the experiment group received the 12-month CHW intervention while the control group received usual care, including any regularly scheduled primary care appointments. The biological, behavioral, and psychosocial measures of both groups were assessed 12 months after baseline assessment. After the follow-up assessment, the control group began receiving the CHW intervention. The data collected at baseline and 12 months after baseline were not collected again at the end of the control group&#x02019;s intervention.</p><p>For this study on diabetes control over time, HbA1c measurements were collected retrospectively from the medical records of DCAS participants from the period between DCAS enrollment and June through August 2013. Because of rolling enrollment, the period of data collection after the experiment arm and the control arm completed the intervention ranged from 12.5 to 28.0 months for the control group and 32.9 to 41.2 months for the experiment group. HbA1c measurements were abstracted from 2 sources: 1) paper medical records at Tafuna Clinic and 2) the Computerized Patient Record System at Lyndon B. Johnson (LBJ) Tropical Medical Center, the only hospital in American Samoa, which provides emergency, acute, and specialty care. Although participants may have also obtained care at one of the other community health centers on the island or outside American Samoa, it is unlikely, given the great distances involved in getting such care.</p></sec><sec><title>Statistical analysis</title><p>To determine whether there were any confounding factors related to frequency of HbA1c measurement, we compared baseline demographic, biological, behavioral, and psychosocial variables of participants who had a low number of HbA1c measurements with those of participants who had a high number of measurements within each trial arm, including the baseline and 12-month follow-up HbA1c levels measured as part of the DCAS trial. Differences were assessed between participants with less than 3 versus 3 or more HbA1c measurements during DCAS; almost all participants had at least 2 measurements taken as part of the trial. During subsequent periods, differences were assessed between participants with less than 2 versus 2 or more HbA1c measurements. Because demographic variables, risk classification, and comorbid conditions were measured only once (at DCAS enrollment), these enrollment measures were used in the analyses of data from all periods. For all other variables, DCAS enrollment measurements were used in the DCAS period analysis, and the 12-month follow-up measurements were used in the analyses of subsequent periods. Nonparametric and parametric tests were used as appropriate (eg, <italic>t</italic> test or Wilcoxon rank-sum test for continuous variables and &#x003c7;<sup>2</sup> or Fisher&#x02019;s exact test for categorical variables). The mean number of HbA1c measurements by period was also calculated for each trial arm.</p><p>We used mixed-effects longitudinal regression models to assess whether HbA1c levels changed over time, separately for each trial arm, during each of the three 1-year periods described previously. Models were controlled for all baseline variables that were found to be significantly different between participants with a low number of HbA1c measurements and those with a high number in any period. Age was included as a covariate in all models because of its relationship with diabetes control. All models included random intercepts to account for within-subject correlation between repeated outcomes over time, and standard errors were adjusted to account for the 2-level clustering of households within villages. All models used an intent-to-treat analysis, including data from all participants randomized at DCAS enrollment until the date of loss to follow-up or discontinuation of care. All analyses were conducted in Stata version 12.1 (StataCorp, College Station, Texas) using command <italic>xtmixed</italic> with two-tailed &#x003b1; = 0.05.</p></sec></sec><sec sec-type="results"><title>Results</title><p>Of eligible participants, 86% were enrolled in DCAS, and the trial had a 91% retention rate, with no difference in loss-to-follow-up between the experiment and control groups. Nine participants in the experiment group were lost to follow-up, and 16 in the control group during DCAS (<xref ref-type="fig" rid="F2">Figure 2</xref>). For our analysis, the follow-up period was 3 years from DCAS enrollment (2 years postintervention completion for the experiment group and 1 year postintervention completion for the control group).</p><sec><title>Baseline characteristics</title><p>For both trial arms, mean age was 55 (SD, 12.7) years, 62% were female, 41% were unemployed, and mean years of education was 12.5 (SD, 2.2). Sociodemographic variables were similar for the experiment and control groups, with the exception of church attendance location; a greater percentage of participants in the experiment group attended church in a village randomized to the opposite trial arm. Church attendance was recorded to measure potential contamination between trial arms because participants in opposite trial arms who attended the same church may have discussed their participation in the study with each other. Clinical characteristics (HbA1c, risk group, BMI, blood pressure, waist circumference, and comorbid conditions) were similar for both groups. The mean baseline HbA1c level for both trial arms was 9.8 (SD, 2.2). Baseline characteristics by trial arm are fully reported elsewhere (<xref rid="R5" ref-type="bibr">5</xref>).</p><p>In the experiment group, participants with 3 or more HbA1c measurements during the DCAS (intervention) period had higher mean HbA1c level at DCAS enrollment and were more likely to be in the high-risk group than participants with fewer than 3 HbA1c measurements (<xref ref-type="table" rid="T1">Table 1</xref>). During the first year after intervention completion, participants with 2 or more HbA1c measurements were less likely to attend church in a village randomized to the control group, had higher mean diastolic blood pressure at DCAS enrollment, and had a higher number of primary care visits during the DCAS period. During the second year after intervention completion, participants with 2 or more HbA1c measurements had higher mean BMI and a higher number of primary care visits.</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><title>Baseline Characteristics of Experiment Group by Number of HbA1c Measurements, Diabetes Control Intervention, American Samoa, 2009&#x02013;2013</title></caption><table frame="hsides" rules="groups"><col width="165" span="1"/><col width="42" span="1"/><col width="42" span="1"/><col width="42" span="1"/><col width="42" span="1"/><col width="44" span="1"/><col width="44" span="1"/><col width="44" span="1"/><col width="44" span="1"/><col width="44" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Variables<hr/>
+</th><th valign="bottom" colspan="3" align="center" scope="colgroup" rowspan="1">DCAS Study Period (Intervention)<xref rid="T1FN1" ref-type="table-fn">a</xref>
+<hr/>
+</th><th valign="bottom" colspan="3" align="center" scope="colgroup" rowspan="1">First Year After Intervention Completion<xref rid="T1FN2" ref-type="table-fn">b</xref>
+<hr/>
+</th><th valign="bottom" colspan="3" align="center" scope="colgroup" rowspan="1">Second Year After Intervention Completion<hr/>
+</th></tr><tr><th valign="top" align="left" scope="col" rowspan="1" colspan="1">Number of HbA1c Measurements</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x0003c; 3</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x02265; 3</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Total</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x0003c; 2</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x02265; 2</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Total</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x0003c; 2</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x02265; 2</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Total</th></tr></thead><tbody><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Mean no. of HbA1c measurements (95% CI)
+</td><td colspan="3" valign="top" align="right" rowspan="1">2.8 (2.6&#x02013;3.0)
+</td><td colspan="3" valign="top" align="right" rowspan="1">1.7 (1.5&#x02013;1.9)
+</td><td colspan="3" valign="top" align="right" rowspan="1">0.9 (0.7&#x02013;1.1)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">No. of participants
+</td><td valign="top" align="right" rowspan="1" colspan="1">46
+</td><td valign="top" align="right" rowspan="1" colspan="1">58
+</td><td valign="top" align="right" rowspan="1" colspan="1">104
+</td><td valign="top" align="right" rowspan="1" colspan="1">47
+</td><td valign="top" align="right" rowspan="1" colspan="1">48
+</td><td valign="top" align="right" rowspan="1" colspan="1">95
+</td><td valign="top" align="right" rowspan="1" colspan="1">69
+</td><td valign="top" align="right" rowspan="1" colspan="1">26
+</td><td valign="top" align="right" rowspan="1" colspan="1">95
+</td></tr><tr><td colspan="10" valign="top" align="center" scope="col" rowspan="1">
+<bold>Demographics<xref rid="T1FN3" ref-type="table-fn">c</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Age, mean (SD)
+</td><td valign="top" align="right" rowspan="1" colspan="1">54.9 (12.6)
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.4 (12.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.8 (12.5)
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.4 (12.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.1 (12.0)
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.8 (12.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.8 (11.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.7 (13.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.8 (12.2)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Married/with partner, %
+</td><td valign="top" align="right" rowspan="1" colspan="1">82.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">75.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">78.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">78.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">79.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">79.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">76.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">84.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">79.0
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Education years, mean (SD)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.5 (2.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.6 (2.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.6 (2.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.8 (2.5)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.4 (2.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.6 (2.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.5 (2.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.8 (2.5)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.6 (2.3)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Females, %
+</td><td valign="top" align="right" rowspan="1" colspan="1">60.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">53.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">60.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">57.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">63.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">42.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">57.9
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Employed, %
+</td><td valign="top" align="right" rowspan="1" colspan="1">46.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">41.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">43.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">46.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">44.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">50.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">46.3
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Church attendance in opposite trial-arm village, %<xref rid="T1FN4" ref-type="table-fn">d</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">84.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">75.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">79.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">89.4<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">68.8<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">79.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">78.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">80.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">79.0
+</td></tr><tr><td colspan="10" valign="top" align="center" scope="col" rowspan="1">
+<bold>Biological measures</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">HbA1c (%), mean (SD)<bold><xref rid="T1FN6" ref-type="table-fn">f</xref></bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">8.9 (1.7)<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.1 (2.2)<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.6 (2.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.4 (2.0)
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.1 (1.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.3 (1.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.1 (1.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.6 (2.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.3 (1.9)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Current daily smoker, %<xref rid="T1FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">8.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">14.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">6.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">11.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.5
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Depression symptoms/Patient health questionnaire-9, mean (SD)<xref rid="T1FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.4 (2.0)
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.7 (2.7)
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.4 (2.0)
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.6 (0.85)
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.7 (1.0)
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.6 (0.96)
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.6 (0.97)
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.7 (0.93)
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.6 (0.96)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Algorithm risk level: low (quarterly visits by CHW)<xref rid="T1FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">8.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">6.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">8.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">7.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">11.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">8.4
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Algorithm risk level: moderate (monthly visits by CHW)<xref rid="T1FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">63.0<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.9<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">63.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">42.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">58.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">50.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">38.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">50.5
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Algorithm risk level: high (weekly visits by CHW)<xref rid="T1FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">26.1<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">53.5<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">26.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">46.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">41.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">50.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">41.1
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>, mean (SD)<xref rid="T1FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.6 (6.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.7 (6.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.6 (6.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.6 (5.8)
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.5 (7.0)
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.0 (6.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.1 (5.9)<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">38.6 (7.0)<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.0 (6.3)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Systolic blood pressure, mean (SD)<xref rid="T1FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">133 (15.5)
+</td><td valign="top" align="right" rowspan="1" colspan="1">131 (18.8)
+</td><td valign="top" align="right" rowspan="1" colspan="1">133 (15.5)
+</td><td valign="top" align="right" rowspan="1" colspan="1">130 (16.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">133 (12.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">132 (14.5)
+</td><td valign="top" align="right" rowspan="1" colspan="1">131 (14.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">134 (14.6)
+</td><td valign="top" align="right" rowspan="1" colspan="1">132 (14.5)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x02265; 140 (%)<xref rid="T1FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">32.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">32.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">25.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">30.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">27.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">38.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">30.5
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Diastolic blood pressure, mean (SD)<xref rid="T1FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">85 (6.6)
+</td><td valign="top" align="right" rowspan="1" colspan="1">83 (8.6)
+</td><td valign="top" align="right" rowspan="1" colspan="1">85 (6.6)
+</td><td valign="top" align="right" rowspan="1" colspan="1">79 (9.5)<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">84 (8.1)<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">82 (9.0)
+</td><td valign="top" align="right" rowspan="1" colspan="1">81 (9.0)
+</td><td valign="top" align="right" rowspan="1" colspan="1">82 (9.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">82 (9.0)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x02265; 90 (%)<xref rid="T1FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">23.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">24.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">23.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">17.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">29.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">23.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">21.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">26.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">23.2
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Waist circumference, mean (SD)<xref rid="T1FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">119.0 (19.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">117.3 (18.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">119.0 (19.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">118.7 (9.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">120.1 (13.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">119.4 (11.8)
+</td><td valign="top" align="right" rowspan="1" colspan="1">118.6 (11.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">121.5 (12.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">119.4 (11.8)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Any comorbid condition (% any)<xref rid="T1FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">17.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">13.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">17.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">8.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">20.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">14.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">13.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">19.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">14.7
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication adherence, %
+</td><td valign="top" align="right" rowspan="1" colspan="1">46.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">46.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">76.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">85.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">81.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">84.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">73.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">81.1
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Physical activity level (moderate/high, &#x02265; 600 metabolic equivalent minutes/week), %
+</td><td valign="top" align="right" rowspan="1" colspan="1">39.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">50.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">39.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">70.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">64.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">67.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">69.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">61.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">67.4
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Primary care visits, mean (SD)<xref rid="T1FN7" ref-type="table-fn">g</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.8 (3.5)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (3.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.5 (3.7)
+</td><td valign="top" align="right" rowspan="1" colspan="1">3.9 (2.7)<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">7.5 (6.6)<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">5.7 (5.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.9 (4.2)<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">7.7 (7.4)<xref rid="T1FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">5.7 (5.4)
+</td></tr><tr><td colspan="10" valign="top" align="center" scope="col" rowspan="1">
+<bold>Selected psychosocial variables<xref rid="T1FN6" ref-type="table-fn">f</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Benefits of diabetes control (0<bold>&#x02013;</bold>5 scale), mean (SD)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.6 (0.48)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.5 (0.50)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.6 (0.48)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.40)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.36)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.38)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.37)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.4 (0.40)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.38)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient Activation Measure (0<bold>&#x02013;</bold>100 score), mean (SD)</td><td valign="top" align="right" rowspan="1" colspan="1">83.8 (18.9)</td><td valign="top" align="right" rowspan="1" colspan="1">83.0 (19.0)</td><td valign="top" align="right" rowspan="1" colspan="1">83.8 (18.9)</td><td valign="top" align="right" rowspan="1" colspan="1">78.2 (16.0)</td><td valign="top" align="right" rowspan="1" colspan="1">73.8 (15.4)</td><td valign="top" align="right" rowspan="1" colspan="1">76.0 (15.7)</td><td valign="top" align="right" rowspan="1" colspan="1">76.2 (16.1)</td><td valign="top" align="right" rowspan="1" colspan="1">75.5 (15.1)</td><td valign="top" align="right" rowspan="1" colspan="1">76.0 (15.7)</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviations: CHW, community health worker; CI, confidence interval; DCAS, Diabetes Care in American Samoa; HbA1c, a measure reflecting average blood glucose; SD, standard deviation.</p></fn><fn id="T1FN1"><label>a</label><p> Includes baseline and 12-month follow-up HbA1c levels measured as part of DCAS study.</p></fn><fn id="T1FN2"><label>b</label><p> Includes 12-month follow-up HbA1c levels measured as part of DCAS study.</p></fn><fn id="T1FN3"><label>c</label><p> Measured at DCAS enrollment.</p></fn><fn id="T1FN4"><label>d</label><p> Indicator of potential for contamination across trial arms by church attendance.</p></fn><fn id="T1FN5"><label>e</label><p> Significant difference by HbA1c measurement category, <italic>P</italic> &#x0003c; .05. Nonparametric and parametric tests were used as appropriate (eg, <italic>t</italic> test or Wilcoxon rank-sum test for continuous variables and &#x003c7;<sup>2</sup> or Fisher&#x02019;s exact test for categorical variables).</p></fn><fn id="T1FN6"><label>f</label><p> DCAS enrollment measurement used in DCAS study period analyses. DCAS 12-month follow-up measurement used in subsequent time periods.</p></fn><fn id="T1FN7"><label>g</label><p> Number of primary care visits during one year before DCAS enrollment used in DCAS study period analysis. Number of primary care visits during DCAS study period used in subsequent time periods.</p></fn></table-wrap-foot></table-wrap><p>Fewer differences were found between participants in the control group with a high number of HbA1c measurements and those with a low number. No differences were statistically significant during the DCAS (usual care) period, but participants with 2 or more HbA1c measurements during their intervention period had smaller abdominal circumferences at DCAS follow-up than did participants with fewer than 2 HbA1c measurements (<xref ref-type="table" rid="T2">Table 2</xref>). During the first year after their intervention completion, participants with 2 or more HbA1c measurements were more likely than those with fewer than 2 to have a comorbid condition.</p><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2</label><caption><title>Baseline Characteristics of Control Group by Number of HbA1c Measurements, Diabetes Control Intervention, American Samoa, 2009&#x02013;2013</title></caption><table frame="hsides" rules="groups"><col width="166" span="1"/><col width="42" span="1"/><col width="42" span="1"/><col width="42" span="1"/><col width="44" span="1"/><col width="44" span="1"/><col width="42" span="1"/><col width="43" span="1"/><col width="43" span="1"/><col width="43" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Characteristics at Baseline<hr/>
+</th><th valign="bottom" colspan="3" align="center" scope="colgroup" rowspan="1">DCAS Study Period (Usual Care)<xref rid="T2FN1" ref-type="table-fn">a</xref>
+<hr/>
+</th><th valign="bottom" colspan="3" align="center" scope="colgroup" rowspan="1">Intervention Period<xref rid="T2FN2" ref-type="table-fn">b</xref>
+<hr/>
+</th><th valign="bottom" colspan="3" align="center" scope="colgroup" rowspan="1">First Year After Intervention Completion<hr/>
+</th></tr><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Number of HbA1c Measurements</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x0003c; 3</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x02265; 3</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Total</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x0003c; 2</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x02265; 2</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Total</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x0003c; 2</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">&#x02265; 2</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Total</th></tr></thead><tbody><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Mean number of HbA1c measurements (95% CI)
+</td><td colspan="3" valign="top" align="right" rowspan="1">2.6 (2.5&#x02013;2.7)
+</td><td colspan="3" valign="top" align="right" rowspan="1">1.8 (1.6&#x02013;2.0)
+</td><td colspan="3" valign="top" align="right" rowspan="1">0.7 (0.6&#x02013;0.8)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Number of participants
+</td><td valign="top" align="right" rowspan="1" colspan="1">90
+</td><td valign="top" align="right" rowspan="1" colspan="1">74
+</td><td valign="top" align="right" rowspan="1" colspan="1">164
+</td><td valign="top" align="right" rowspan="1" colspan="1">66
+</td><td valign="top" align="right" rowspan="1" colspan="1">82
+</td><td valign="top" align="right" rowspan="1" colspan="1">148
+</td><td valign="top" align="right" rowspan="1" colspan="1">116
+</td><td valign="top" align="right" rowspan="1" colspan="1">32
+</td><td valign="top" align="right" rowspan="1" colspan="1">148
+</td></tr><tr><td colspan="10" valign="top" align="center" scope="col" rowspan="1">
+<bold>Demographics<xref rid="T2FN3" ref-type="table-fn">c</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Age, mean (SD)
+</td><td valign="top" align="right" rowspan="1" colspan="1">54.2 (12.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">54.5 (13.7)
+</td><td valign="top" align="right" rowspan="1" colspan="1">54.2 (12.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.3 (13.5)
+</td><td valign="top" align="right" rowspan="1" colspan="1">54.0 (12.7)
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.3 (13.5)
+</td><td valign="top" align="right" rowspan="1" colspan="1">54.8 (14.0)
+</td><td valign="top" align="right" rowspan="1" colspan="1">53.6 (8.8)
+</td><td valign="top" align="right" rowspan="1" colspan="1">54.6 (13.0)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Married/with partner, %
+</td><td valign="top" align="right" rowspan="1" colspan="1">77.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">78.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">77.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">77.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">78.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">77.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">75.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">87.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">77.7
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Education years, mean (SD)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.3 (2.6)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.6 (1.7)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.3 (2.6)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.3 (2.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.7 (1.7)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.3 (2.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.4 (1.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.9 (2.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.5 (1.9)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Females, %
+</td><td valign="top" align="right" rowspan="1" colspan="1">66.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">63.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">66.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">65.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">65.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">65.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">69.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">53.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">65.5
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Employed, %
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">44.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">40.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">42.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">40.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">41.9
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Church attendance in opposite trial-arm village, %<xref rid="T2FN4" ref-type="table-fn">d</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">43.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">51.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">43.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">52.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">48.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">34.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">45.3
+</td></tr><tr><td colspan="10" valign="top" align="center" scope="col" rowspan="1">
+<bold>Biological measures</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">HbA1c (%), mean (SD)<xref rid="T2FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.8 (2.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.1 (2.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.0 (2.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.7 (2.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.2 (2.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.0 (2.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.9 (2.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.4 (2.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.0 (2.3)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Current daily smoker, %<xref rid="T2FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">6.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">6.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">6.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">11.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">11.5
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Depression symptoms/Patient Health Questionnaire-9, mean (SD)<xref rid="T2FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.4 (1.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.1 (1.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.4 (1.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.2 (2.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.8 (1.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.0 (1.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.9 (1.8)
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.2 (2.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.0 (1.9)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Algorithm risk level: low (quarterly visits by CHW)<xref rid="T2FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">13.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">10.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">13.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">11.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">15.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.2
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Algorithm risk level: moderate (monthly visits by CHW)<xref rid="T2FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">33.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">46.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.5
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Algorithm risk level: high (weekly visits by CHW)<xref rid="T2FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">48.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">52.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">48.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">50.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">52.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">51.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">55.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">51.4
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>, mean (SD)<xref rid="T2FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.7 (7.7)
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.7 (7.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.7 (7.7)
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.9 (7.6)
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.3 (7.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.4 (7.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.6 (7.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.0 (7.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">36.4 (7.9)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Systolic blood pressure, mean (SD)<xref rid="T2FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">136 (18.8)
+</td><td valign="top" align="right" rowspan="1" colspan="1">131 (15.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">136 (18.8)
+</td><td valign="top" align="right" rowspan="1" colspan="1">136 (15.8)
+</td><td valign="top" align="right" rowspan="1" colspan="1">133 (14.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">135 (14.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">134 (15.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">136 (14.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">135 (14.9)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x02265; 140, %<xref rid="T2FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">43.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">43.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">43.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">29.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">32.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">46.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">35.8
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Diastolic blood pressure, mean (SD)<xref rid="T2FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">85.4 (11.8)
+</td><td valign="top" align="right" rowspan="1" colspan="1">82.1 (9.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">85.4 (11.8)
+</td><td valign="top" align="right" rowspan="1" colspan="1">84 (10.0)
+</td><td valign="top" align="right" rowspan="1" colspan="1">83 (10.2)
+</td><td valign="top" align="right" rowspan="1" colspan="1">83 (10.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">83 (10.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">85 (9.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">83 (10.1)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x02265; 90, %<xref rid="T2FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">40.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">28.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">40.0
+</td><td valign="top" align="right" rowspan="1" colspan="1">30.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">29.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">29.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">26.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">40.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">29.7
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Waist circumference, mean (SD)<xref rid="T2FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">121.7 (15.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">120.3 (17.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">121.7 (15.4)
+</td><td valign="top" align="right" rowspan="1" colspan="1">125.6 (19.7)<xref rid="T2FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">117.6 (12.9)<xref rid="T2FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">121.2 (16.7)
+</td><td valign="top" align="right" rowspan="1" colspan="1">121.1 (15.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">121.6 (19.7)
+</td><td valign="top" align="right" rowspan="1" colspan="1">121.2 (16.7)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Any comorbid condition, %<xref rid="T2FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">8.1
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.2
+</td><td valign="top" align="right" rowspan="1" colspan="1">7.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">9.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">8.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">5.2<xref rid="T2FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">21.9<xref rid="T2FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">8.8
+</td></tr><tr><td colspan="10" valign="top" align="center" scope="col" rowspan="1">
+<bold>Behavioral measures<xref rid="T2FN5" ref-type="table-fn">e</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication adherence, %
+</td><td valign="top" align="right" rowspan="1" colspan="1">54.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">59.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">54.4
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.3
+</td><td valign="top" align="right" rowspan="1" colspan="1">56.6
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Physical activity level (moderate/high, &#x02265; 600 metabolic equivalent minutes/week), %
+</td><td valign="top" align="right" rowspan="1" colspan="1">46.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">52.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">46.7
+</td><td valign="top" align="right" rowspan="1" colspan="1">51.5
+</td><td valign="top" align="right" rowspan="1" colspan="1">37.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">43.9
+</td><td valign="top" align="right" rowspan="1" colspan="1">44.8
+</td><td valign="top" align="right" rowspan="1" colspan="1">40.6
+</td><td valign="top" align="right" rowspan="1" colspan="1">43.9
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Primary care visits, mean (SD)<xref rid="T2FN7" ref-type="table-fn">g</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (3.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.2 (3.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (3.3)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.2 (3.5)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.6 (4.1)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.4 (3.9)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.1 (3.6)
+</td><td valign="top" align="right" rowspan="1" colspan="1">5.4 (4.6)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.4 (3.9)
+</td></tr><tr><td colspan="10" valign="top" align="center" scope="col" rowspan="1">
+<bold>Selected psychosocial variables<xref rid="T2FN5" ref-type="table-fn">e</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Benefits of diabetes control (0&#x02013;5 scale), mean (SD)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.2 (0.44)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.46)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.2 (0.44)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.2 (0.28)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.1 (0.32)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.2 (0.30)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.2 (0.32)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.1 (0.26)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.2 (0.30)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Patient Activation Measure (0&#x02013;100 score), mean (SD)</td><td valign="top" align="right" rowspan="1" colspan="1">75.2 (19.5)</td><td valign="top" align="right" rowspan="1" colspan="1">73.7 (18.6)</td><td valign="top" align="right" rowspan="1" colspan="1">75.2 (19.5)</td><td valign="top" align="right" rowspan="1" colspan="1">70.2 (14.0)</td><td valign="top" align="right" rowspan="1" colspan="1">68.2 (14.0)</td><td valign="top" align="right" rowspan="1" colspan="1">69.1 (14.0)</td><td valign="top" align="right" rowspan="1" colspan="1">69.2 (14.2)</td><td valign="top" align="right" rowspan="1" colspan="1">68.7 (13.3)</td><td valign="top" align="right" rowspan="1" colspan="1">69.1 (14.0)</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviations: CHW, community health worker; CI, confidence interval; DCAS, Diabetes Care in American Samoa; HbA1c, a measure of average blood glucose; SD, standard deviation.</p></fn><fn id="T2FN1"><label>a</label><p> Includes baseline and 12-month follow-up HbA1c levels measured as part of DCAS study.</p></fn><fn id="T2FN2"><label>b</label><p> Includes 12-month follow-up HbA1c levels measured as part of DCAS study.</p></fn><fn id="T2FN3"><label>c</label><p> Measured at DCAS enrollment.</p></fn><fn id="T2FN4"><label>d</label><p> Indicator of potential for contamination across trial arms by church attendance.</p></fn><fn id="T2FN5"><label>e</label><p> DCAS enrollment measurement used in DCAS study period analyses; DCAS 12-month follow-up measurement used in subsequent time periods.</p></fn><fn id="T2FN6"><label>f</label><p> Significant difference by HbA1c measurement category, <italic>P</italic> &#x0003c; .05. Nonparametric and parametric tests were used as appropriate (eg, <italic>t</italic> test or Wilcoxon rank-sum test for continuous variables and &#x003c7;<sup>2</sup> or Fisher&#x02019;s exact test for categorical variables).</p></fn><fn id="T2FN7"><label>g</label><p> Number of primary care visits during one year before DCAS enrollment used in DCAS study period analysis; number of primary care visits during DCAS study period used in subsequent time periods.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>HbA1c level over time</title><p>For the experiment group, HbA1c decreased during DCAS (intervention), but the effect was not statistically significant (&#x02212;0.28 units per year; 95% CI, &#x02212;0.64 to 0.07) (<xref ref-type="table" rid="T3">Table 3</xref>). During the first year after intervention completion, HbA1c of the experiment group decreased further by 0.88 units per year (95% CI, &#x02212;1.31 to &#x02212;0.45). No significant change was observed during the second year after intervention completion (0.18 units per year; 95% CI, &#x02212;0.77 to 1.13).</p><table-wrap id="T3" orientation="portrait" position="float"><label>Table 3</label><caption><title>Regression Coefficients From Mixed-Effects Regression Models for HbA1c Over Time, Diabetes Control Intervention, American Samoa, 2009&#x02013;2013</title></caption><table frame="hsides" rules="groups"><col width="93" span="1"/><col width="86" span="1"/><col width="82" span="1"/><col width="82" span="1"/><col width="55" span="1"/><col width="69" span="1"/><col width="81" span="1"/><thead><tr><th rowspan="2" valign="bottom" align="left" scope="col" colspan="1">Variable</th><th valign="bottom" colspan="3" align="center" scope="colgroup" rowspan="1">Model, Experiment Group<hr/>
+</th><th valign="bottom" colspan="3" align="center" scope="colgroup" rowspan="1">Model, Control Group<hr/>
+</th></tr><tr><th valign="bottom" colspan="1" align="center" scope="colgroup" rowspan="1">DCAS Study Period (Intervention)<xref rid="T3FN1" ref-type="table-fn">a</xref>
+</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">First Year After Intervention Completion<xref rid="T3FN2" ref-type="table-fn">b</xref>
+</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Second Year After Intervention Completion</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">DCAS Study Period (Usual Care)<xref rid="T3FN1" ref-type="table-fn">a</xref>
+</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Intervention Period<xref rid="T3FN2" ref-type="table-fn">b</xref>
+</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">First Year After Intervention Completion</th></tr></thead><tbody><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">No. of participants in model n (HbA1c measurements)
+</td><td valign="top" align="right" rowspan="1" colspan="1">96 (271)
+</td><td valign="top" align="right" rowspan="1" colspan="1">90 (162)
+</td><td valign="top" align="right" rowspan="1" colspan="1">52 (91)
+</td><td valign="top" align="right" rowspan="1" colspan="1">159 (414)
+</td><td valign="top" align="right" rowspan="1" colspan="1">143 (286)
+</td><td valign="top" align="right" rowspan="1" colspan="1">71 (113)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Intercept, &#x003b2; (95% CI)
+</td><td valign="top" align="right" rowspan="1" colspan="1">3.67 (0.09 to 7.23)
+</td><td valign="top" align="right" rowspan="1" colspan="1">4.95 (2.02 to 7.88)
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.47 (4.03 to 20.91)
+</td><td valign="top" align="right" rowspan="1" colspan="1">2.11 (0.24 to 3.98)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.11 (&#x02212;1.89 to 2.10)
+</td><td valign="top" align="right" rowspan="1" colspan="1">8.47 (4.76 to 12.18)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Time (years), &#x003b2; (95% CI)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.28 (&#x02212;0.64 to 0.07)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.88 (&#x02212;1.31 to &#x02212;0.45)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.18 (&#x02212;0.77 to 1.13)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.01 (&#x02212;0.24 to 0.26)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;1.31 (&#x02212;1.72 to &#x02212;0.91)
+</td><td valign="top" align="right" rowspan="1" colspan="1">1.18 (0.42 to 1.93)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Age, &#x003b2; (95% CI)<xref rid="T3FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.02 (&#x02212;0.04 to &#x02212;0.01)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.01 (&#x02212;0.02 to 0.01)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.07 (&#x02212;0.10 to &#x02212;0.04)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.01 (&#x02212;0.02 to 0.004)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.004 (&#x02212;0.02 to 0.01)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.02 (&#x02212;0.05 to 0.004)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Church attendance in opposite village, &#x003b2; (95% CI)<xref rid="T3FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.12 (&#x02212;0.37 to 0.61)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.23 (&#x02212;0.58 to 0.12)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.62 (&#x02212;1.64 to 0.40)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.10 (&#x02212;0.17 to 0.37)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.07 (&#x02212;0.24 to 0.38)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.53 (&#x02212;0.04 to 1.09)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Baseline HbA1c, &#x003b2; (95% CI)<xref rid="T3FN4" ref-type="table-fn">d</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.64 (0.48 to 0.80)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.72 (0.61 to 0.82)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.66 (0.38 to 0.94)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.77 (0.67 to 0.87)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.80 (0.71 to 0.90)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.38 (0.22 to 0.55)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Low risk, &#x003b2; (95% CI)<xref rid="T3FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.04 (&#x02212;1.01 to 0.92)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.27 (&#x02212;0.87 to 0.32)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.27 (&#x02212;1.66 to 1.11)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.17 (&#x02212;0.85 to 0.51)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.05 (&#x02212;0.63 to 0.52)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.99 (&#x02212;2.11 to 0.13)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Moderate risk, &#x003b2; (95% CI)<xref rid="T3FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.13 (&#x02212;0.48 to 0.74)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.16 (&#x02212;0.49 to 0.18)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.05 (&#x02212;0.83 to 0.94)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.06 (&#x02212;0.53 to 0.40)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.01 (&#x02212;0.44 to 0.42)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.94 (&#x02212;1.70 to &#x02212;0.18)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Primary care visits, &#x003b2; (95% CI)<xref rid="T3FN5" ref-type="table-fn">e</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.02 (&#x02212;0.08 to 0.03)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.01 (&#x02212;0.04 to 0.01)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.01 (&#x02212;0.07 to 0.05)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.01 (&#x02212;0.05 to 0.03)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.01 (&#x02212;0.04 to 0.05)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.10 (&#x02212;0.19 to &#x02212;0.02)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">BMI, &#x003b2; (95% CI)<xref rid="T3FN4" ref-type="table-fn">d</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.001 (&#x02212;0.04 to 0.04)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.003 (&#x02212;0.03 to 0.03)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.08 (&#x02212;0.17 to 0.01)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.02 (&#x02212;0.04 to 0.001)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.001 (&#x02212;0.02 to 0.03)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.07 (0.03 to 0.11)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Diastolic blood pressure, &#x003b2; (95% CI)<xref rid="T3FN4" ref-type="table-fn">d</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.01 (&#x02212;0.01 to 0.04)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.003 (&#x02212;0.02 to 0.01)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.02 (&#x02212;0.06 to 0.02)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.01 (&#x02212;0.01 to 0.02)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.004 (&#x02212;0.02 to 0.01)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.03 (&#x02212;0.06 to 0.0004)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Waist circumference, &#x003b2; (95% CI)<xref rid="T3FN4" ref-type="table-fn">d</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.004 (&#x02212;0.02 to 0.01)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.01 (&#x02212;0.03 to 0.01)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.01 (&#x02212;0.06 to 0.05
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.01 (&#x02212;0.01 to 0.02)
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.01 (&#x02212;0.01 to 0.02)
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.02 (&#x02212;0.04 to 0.01)
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Any comorbid condition, &#x003b2; (95% CI)<xref rid="T3FN3" ref-type="table-fn">c</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.41 (&#x02212;0.13 to 0.95)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.17 (&#x02212;0.57 to 0.22)</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.25 (&#x02212;1.51 to 1.00)</td><td valign="top" align="right" rowspan="1" colspan="1">0.21 (&#x02212;0.28 to 0.70)</td><td valign="top" align="right" rowspan="1" colspan="1">0.46 (&#x02212;0.05 to 0.96)</td><td valign="top" align="right" rowspan="1" colspan="1">0.58 (&#x02212;0.21 to 1.36)</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviations: &#x003b2;, regression coefficient; CI, confidence interval; DCAS, Diabetes Care in American Samoa; HbA1c, a measure of average blood glucose.</p></fn><fn id="T3FN1"><label>a</label><p> Includes baseline and 12-month follow-up HbA1c levels measured as part of DCAS study.</p></fn><fn id="T3FN2"><label>b</label><p> Includes 12-month follow-up DCAS study HbA1c measurements.</p></fn><fn id="T3FN3"><label>c</label><p> Measured at DCAS enrollment.</p></fn><fn id="T3FN4"><label>d</label><p> DCAS enrollment measurement included in DCAS study period models. DCAS 12-month follow-up measurement included in subsequent models.</p></fn><fn id="T3FN5"><label>e</label><p> Number of primary care visits during one year before DCAS enrollment used in DCAS study period model. Number of primary care visits during DCAS study period used in subsequent models.</p></fn></table-wrap-foot></table-wrap><p>For the control group, HbA1c did not significantly change over time during DCAS (usual care) but decreased by 1.31 units per year (95% CI, &#x02212;1.72 to &#x02212;0.91) during the intervention. During the first year after the control group&#x02019;s intervention completion, HbA1c increased by 1.18 units per year (95% CI, 0.42 to 1.93).</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>We found that the experiment group experienced a nonsignificant decrease of 0.28 units per year during its intervention period. Notably, our previously published analysis found that the experiment group&#x02019;s mean HbA1c after adjustment for confounding factors was 0.53 units lower than the control group&#x02019;s HbA1c at 12-month follow-up. However, this study does not compare the 2 trial arms but rather examines the effect of time on each trial arm separately. Thus, the adjusted point estimate of &#x02212;0.28 units per year is consistent with our prior analysis, finding an unadjusted decline in mean HbA1c of 0.3 units from baseline to 12-month follow-up for the experiment group (<xref rid="R5" ref-type="bibr">5</xref>). Furthermore, the upper confidence limit may be explained by the reduction in statistical power caused by analyzing each trial arm separately. The significant decline in HbA1c by 0.88 units during the first year after intervention completion suggests a continued and stronger effect of the CHW program even with no continued CHW contact. During the second year after intervention completion, HbA1c level stabilized, neither increasing nor decreasing further.</p><p>HbA1c of the control group decreased by 1.31 units during its intervention year, a stronger effect than that observed for the experiment group. Yet, unlike the experiment group, HbA1c levels of the control group all but rebounded during the year after its intervention completion; the control group did not experience the sustained, but temporary, intervention effect observed in the experiment group. Numerous factors may explain the different effects on each trial arm. Having already delivered the intervention to the experiment group, the CHWs were more experienced and therefore perhaps more effective during the control group&#x02019;s intervention. Additionally, the control group may have been anticipating their turn with the intervention, thus increasing their motivation for behavioral change. On the other hand, CHWs were no longer closely supervised by DCAS investigators after the 12-month follow-up assessment, potentially impairing the long-term impact of the intervention on the control group. Furthermore, after the control group&#x02019;s intervention, the nurse-CHW team was disbanded because research funding ended, perhaps contributing to the increase in HbA1c in the year of observation after the control group&#x02019;s intervention.</p><p>The strengths of our study include the follow-up time of 3 years after DCAS enrollment, given that few studies of culturally appropriate diabetes education programs follow participants long-term (<xref rid="R6" ref-type="bibr">6</xref>). Furthermore, the enrollment of 86% of those eligible and 91% study retention support the generalizability of this study to the population of diabetes patients in American Samoa; we also believe these results may be relevant to other resource-poor populations with high rates of diabetes.</p><p>This study had some limitations. First, participants had different numbers of HbA1c measurements at different frequencies, compromising the reliability of this study. Second, given that the control group received the intervention after the experiment group did, it was not possible to assess the long-term impact of the intervention using a randomized design. Third, the level of social support available to participants was not measured and may have influenced the outcomes of our study. Fourth, participants were not assessed for changes in eligibility (eg, initiation of dialysis, travel off-island for more than 4 months) after the completion of the DCAS trial. Fifth, it is possible that some HbA1c measurements were not documented in the records from LBJ Hospital and Tafuna Clinic, but there was no way of determining the completeness or accuracy of the records. Sixth, HbA1c measurements taken at other facilities or off-island were not collected, but it is unlikely that many participants received care at other locations given the distance and cost involved in going to another location. Finally, this study may not be generalizable to non-Samoan populations, but we believe the results have relevance for other settings with a high prevalence of diabetes and low resources. Directions for future research include analyzing the long-term impact of the CHW intervention on health care use and other biologic factors such as BMI and blood pressure.</p><p>This study examined the long-term impact of a 12-month nurse-CHW intervention on diabetes control over time in American Samoa, a resource-poor setting with a high-risk population. Each trial arm experienced initial improvements in glycemic control during its intervention period, followed by either an increase or plateau of HbA1c levels. This study contributes to the literature that evaluates the effectiveness of CHWs in improving diabetes outcomes in resource-poor settings and explores the long-term impact of a limited-duration program. Our results suggest that continued improvements in diabetes control may require standing CHW programs fully integrated with traditional health care services and strong support of CHWs as members of the health care team (<xref rid="R18" ref-type="bibr">18</xref>,<xref rid="R19" ref-type="bibr">19</xref>).</p></sec></body><back><ack><title>Acknowledgments</title><p>We thank the field directors, research staff, and employees of Tafuna Clinic and LBJ Hospital in American Samoa for their devotion to the diabetes patients under their care and for facilitating this research. We thank the Director of Health, Motusa Tuileama Nua, and Joseph Davis-Fleming, chief executive officer of LBJ Hospital in 2013, for their support. We also acknowledge the cooperation of the research participants who made this study possible. The project was funded by the National Institute of Diabetes, Digestive and Kidney Disorders, Grant R18-DK075371, ST McGarvey, Principal Investigator. MR and ME were also supported by The Warren Alpert Medical School of Brown University Summer Assistantship grant. The parent project is registered with ClinicalTrials.gov with ID:NCT00850824. The authors declare no conflicts of interest.</p></ack><fn-group><fn><p>The opinions expressed by authors contributing to this journal do not necessarily reflect the opinions of the U.S. Department of Health and Human Services, the Public Health Service, the Centers for Disease Control and Prevention, or the authors' affiliated institutions.</p></fn><fn><p>
+<italic>Suggested citation for this article:</italic> Rao M, DePue JD, Dunsiger S, Elsayed M, Nu'usolia O, McGarvey ST. Long-Term Impact of a Community Health Worker Intervention on Diabetes Control in American Samoa. Prev Chronic Dis 2015;12:150160. DOI: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5888/pcd12.150160">http://dx.doi.org/10.5888/pcd12.150160</ext-link>.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dibello</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Baylin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Viali</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tuitele</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bausserman</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>McGarvey</surname>
+<given-names>ST</given-names>
+</string-name>. <article-title>Adiponectin and type 2 diabetes in Samoan adults.</article-title>
+<source>Am J Hum Biol</source>
+<year>2009</year>;<volume>21</volume>(<issue>3</issue>):<fpage>389</fpage>&#x02013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1002/ajhb.20858</pub-id>
+<pub-id pub-id-type="pmid">19107905</pub-id></mixed-citation></ref><ref id="R2"><label>2. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>DiBello</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>McGarvey</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Kraft</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Campos</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Quested</surname>
+<given-names>C</given-names>
+</string-name>, <etal/>
+<article-title>Dietary patterns are associated with metabolic syndrome in adult Samoans.</article-title>
+<source>J Nutr</source>
+<year>2009</year>;<volume>139</volume>(<issue>10</issue>):<fpage>1933</fpage>&#x02013;<lpage>43</lpage>. <pub-id pub-id-type="doi">10.3945/jn.109.107888</pub-id>
+<pub-id pub-id-type="pmid">19710163</pub-id></mixed-citation></ref><ref id="R3"><label>3. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Keighly</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>McGarvey</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Quested</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>McCuddin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Viali</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Maga</surname>
+<given-names>UA</given-names>
+</string-name>. Nutrition and health in modernizing Samoans: temporal trends and adaptive perspectives. In: Ohtsuka R, Ulijaszek SJ, editors. Health Change in the Asia-Pacific Region. New York (NY): Cambridge University Press; <year>2007</year>. p. 142-91.</mixed-citation></ref><ref id="R4"><label>4. </label><mixed-citation publication-type="web">Designated health professional shortage areas. Washington (DC): Health Services and Resource Administration, US Department of Health and Human Services; <year>2014</year>
+<ext-link ext-link-type="uri" xlink:href="http://hrsa.gov">http://hrsa.gov</ext-link>. <comment>Accessed October 3, 2014</comment>.</mixed-citation></ref><ref id="R5"><label>5. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>DePue</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Dunsiger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Seiden</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Blume</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rosen</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>
+<given-names>MG</given-names>
+</string-name>, <etal/>
+<article-title>Nurse-community health worker team improves diabetes care in American Samoa: results of a randomized controlled trial.</article-title>
+<source>Diabetes Care</source>
+<year>2013</year>;<volume>36</volume>(<issue>7</issue>):<fpage>1947</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.2337/dc12-1969</pub-id>
+<pub-id pub-id-type="pmid">23393217</pub-id></mixed-citation></ref><ref id="R6"><label>6. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Attridge</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Creamer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ramsden</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cannings-John</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hawthorne</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Culturally appropriate health education for people in ethnic minority groups with type 2 diabetes mellitus.</article-title>
+<source>Cochrane Database Syst Rev</source>
+<year>2014</year>;<volume>9</volume>:<fpage>CD006424</fpage>.
+<pub-id pub-id-type="pmid">25188210</pub-id></mixed-citation></ref><ref id="R7"><label>7. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Shah</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kaselitz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Heisler</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The role of community health workers in diabetes: update on current literature.</article-title>
+<source>Curr Diab Rep</source>
+<year>2013</year>;<volume>13</volume>(<issue>2</issue>):<fpage>163</fpage>&#x02013;<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1007/s11892-012-0359-3</pub-id>
+<pub-id pub-id-type="pmid">23345198</pub-id></mixed-citation></ref><ref id="R8"><label>8. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dale</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Bowyer</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>What is the effect of peer support on diabetes outcomes in adults? A systematic review.</article-title>
+<source>Diabet Med</source>
+<year>2012</year>;<volume>29</volume>(<issue>11</issue>):<fpage>1361</fpage>&#x02013;<lpage>77</lpage>. <pub-id pub-id-type="doi">10.1111/j.1464-5491.2012.03749.x</pub-id>
+<pub-id pub-id-type="pmid">22804713</pub-id></mixed-citation></ref><ref id="R9"><label>9. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gary</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Batts-Turner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yeh</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Hill-Briggs</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bone</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>NY</given-names>
+</string-name>, <etal/>
+<article-title>The effects of a nurse case manager and a community health worker team on diabetic control, emergency department visits, and hospitalizations among urban African Americans with type 2 diabetes mellitus: a randomized controlled trial.</article-title>
+<source>Arch Intern Med</source>
+<year>2009</year>;<volume>169</volume>(<issue>19</issue>):<fpage>1788</fpage>&#x02013;<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1001/archinternmed.2009.338</pub-id>
+<pub-id pub-id-type="pmid">19858437</pub-id></mixed-citation></ref><ref id="R10"><label>10. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gary</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Bone</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Levine</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>McGuire</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Saudek</surname>
+<given-names>C</given-names>
+</string-name>, <etal/>
+<article-title>Randomized controlled trial of the effects of nurse case manager and community health worker interventions on risk factors for diabetes-related complications in urban African Americans.</article-title>
+<source>Prev Med</source>
+<year>2003</year>;<volume>37</volume>(<issue>1</issue>):<fpage>23</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1016/S0091-7435(03)00040-9</pub-id>
+<pub-id pub-id-type="pmid">12799126</pub-id></mixed-citation></ref><ref id="R11"><label>11. </label><mixed-citation publication-type="journal">
+<collab>American Diabetes Association</collab>. <article-title>Standards of medical care in diabetes&#x02014;2009.</article-title>
+<source>Diabetes Care</source>
+<year>2009</year>;<volume>32</volume>(<issue>Suppl 1</issue>):<fpage>S13</fpage>&#x02013;<lpage>61</lpage>.
+<pub-id pub-id-type="pmid">19118286</pub-id></mixed-citation></ref><ref id="R12"><label>12. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bodenheimer</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Grumbach</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Improving primary care for patients with chronic illness: the chronic care model, Part 2.</article-title>
+<source>JAMA</source>
+<year>2002</year>;<volume>288</volume>(<issue>15</issue>):<fpage>1909</fpage>&#x02013;<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1001/jama.288.15.1909</pub-id>
+<pub-id pub-id-type="pmid">12377092</pub-id></mixed-citation></ref><ref id="R13"><label>13. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Goldstein</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>DePue</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kazura</surname>
+<given-names>A</given-names>
+</string-name>. Models of provider-patient interaction and shared decision making. In: Shumaker SA, Ockene JK, Riekert KA, editors. Handbook of Health Behavior Change. New York (NY): Springer Publishing Company; <year>2008</year>. p. 107-26.</mixed-citation></ref><ref id="R14"><label>14. </label><mixed-citation publication-type="web">American Samoa NCD Risk Factors STEPS Report. Australia: World Health Organization and Monash University; <year>2007</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.who.int/chp/steps/AmericanSamoaSTEPSReport.pdf">http://www.who.int/chp/steps/AmericanSamoaSTEPSReport.pdf</ext-link>. <comment>Accessed June 7, 2015</comment>.</mixed-citation></ref><ref id="R15"><label>15. </label><mixed-citation publication-type="journal">
+<collab>American Association of Diabetes Educators (AADE)</collab>. <article-title>AADE7 Self-Care Behaviors.</article-title>
+<source>Diabetes Educ</source>
+<year>2008</year>;<volume>34</volume>(<issue>3</issue>):<fpage>445</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1177/0145721708316625</pub-id>
+<pub-id pub-id-type="pmid">18535317</pub-id></mixed-citation></ref><ref id="R16"><label>16. </label><mixed-citation publication-type="web">
+<collab>Centers for Disease Control and Prevention</collab>. <article-title>The Road to Health Toolkit</article-title>. Atlanta (GA); <year>2010</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.cdc.gov/diabetes/ndep/road-to-health.htm">http://www.cdc.gov/diabetes/ndep/road-to-health.htm</ext-link>. <comment>Accessed October 3, 2014</comment>.</mixed-citation></ref><ref id="R17"><label>17. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>DePue</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Rosen</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Batts-Turner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bereolos</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>House</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Held</surname>
+<given-names>RF</given-names>
+</string-name>, <etal/>
+<article-title>Cultural translation of interventions: diabetes care in American Samoa.</article-title>
+<source>Am J Public Health</source>
+<year>2010</year>;<volume>100</volume>(<issue>11</issue>):<fpage>2085</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.2105/AJPH.2009.170134</pub-id>
+<pub-id pub-id-type="pmid">20864729</pub-id></mixed-citation></ref><ref id="R18"><label>18. </label><mixed-citation publication-type="web">
+<collab>Educators AAoD</collab>. Community Health Workers in Diabetes Management and Prevention: American Association of Diabetes Educators (AADE) Position Paper. Sept. <year>2011</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/research/CHW_Position_Statement_2011.pdf">http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/research/CHW_Position_Statement_2011.pdf</ext-link>.</mixed-citation></ref><ref id="R19"><label>19. </label><mixed-citation publication-type="web">
+<collab>American Association of Diabetes Educators (AADE)</collab>. A Sustainable Model of Diabetes Self-Management: Education/Training Involves a Multi-Level Team That Can Include Community Health Workers. AADE; <year>2010</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/research/Community_Health_Workers_White_Paper.pdf">http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/research/Community_Health_Workers_White_Paper.pdf</ext-link>. <comment>Accessed June 7, 2015</comment>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1058 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Heart Fail</journal-id><journal-id journal-id-type="iso-abbrev">Eur. J. Heart Fail</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1879-0844</journal-id><journal-id journal-id-type="publisher-id">EJHF</journal-id><journal-title-group><journal-title>European Journal of Heart Failure</journal-title></journal-title-group><issn pub-type="ppub">1388-9842</issn><issn pub-type="epub">1879-0844</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Ltd</publisher-name><publisher-loc>Oxford, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26662998</article-id><article-id pub-id-type="pmc">5064644</article-id><article-id pub-id-type="doi">10.1002/ejhf.434</article-id><article-id pub-id-type="publisher-id">EJHF434</article-id><article-categories><subj-group subj-group-type="overline"><subject>Trial Design</subject></subj-group><subj-group subj-group-type="heading"><subject>Focus Issue on Cardiac Regeneration</subject></subj-group></article-categories><title-group><article-title>Congestive Heart Failure Cardiopoietic Regenerative Therapy (<styled-content style="fixed-case">CHART</styled-content>&#x02010;1) trial design</article-title><alt-title alt-title-type="right-running-head"><styled-content style="fixed-case">CHART</styled-content>&#x02010;1 trial design</alt-title><alt-title alt-title-type="left-running-head">J. Bartunek <styled-content style="italic-in-any-context">et al.</styled-content></alt-title></title-group><contrib-group><contrib id="ejhf434-cr-0001" contrib-type="author"><name><surname>Bartunek</surname><given-names>Jozef</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf434-cr-0002" contrib-type="author"><name><surname>Davison</surname><given-names>Beth</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf434-cr-0003" contrib-type="author" corresp="yes"><name><surname>Sherman</surname><given-names>Warren</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ejhf434-cr-0004" contrib-type="author"><name><surname>Povsic</surname><given-names>Thomas</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf434-cr-0005" contrib-type="author"><name><surname>Henry</surname><given-names>Timothy D.</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf434-cr-0006" contrib-type="author"><name><surname>Gersh</surname><given-names>Bernard</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="ejhf434-cr-0007" contrib-type="author"><name><surname>Metra</surname><given-names>Marco</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="ejhf434-cr-0008" contrib-type="author"><name><surname>Filippatos</surname><given-names>Gerasimos</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="ejhf434-cr-0009" contrib-type="author"><name><surname>Hajjar</surname><given-names>Roger</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="ejhf434-cr-0010" contrib-type="author"><name><surname>Behfar</surname><given-names>Atta</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="ejhf434-cr-0011" contrib-type="author"><name><surname>Homsy</surname><given-names>Christian</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ejhf434-cr-0012" contrib-type="author"><name><surname>Cotter</surname><given-names>Gad</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf434-cr-0013" contrib-type="author"><name><surname>Wijns</surname><given-names>William</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf434-cr-0014" contrib-type="author"><name><surname>Tendera</surname><given-names>Michal</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="ejhf434-cr-0015" contrib-type="author"><name><surname>Terzic</surname><given-names>Andre</given-names></name><xref ref-type="aff" rid="ejhf434-aff-0006">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="ejhf434-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Cardiovascular Centre</named-content><institution>OLV Hospital</institution><named-content content-type="city">Aalst</named-content><country country="BE">Belgium</country></aff><aff id="ejhf434-aff-0002"><label><sup>2</sup></label><institution>Momentum Research Inc.</institution><named-content content-type="city">Durham</named-content><named-content content-type="country-part">NC</named-content><country country="US">USA</country></aff><aff id="ejhf434-aff-0003"><label><sup>3</sup></label><institution>Celyad S.A.</institution><named-content content-type="city">Mont Saint Guibert</named-content><country country="BE">Belgium</country></aff><aff id="ejhf434-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Duke Clinical Research Institute</named-content><institution>Duke University Medical Center</institution><named-content content-type="city">Durham</named-content><named-content content-type="country-part">NC</named-content><country country="US">USA</country></aff><aff id="ejhf434-aff-0005"><label><sup>5</sup></label><institution>Cedars Sinai Heart Institute</institution><named-content content-type="city">Los Angeles</named-content><named-content content-type="country-part">CA</named-content><country country="US">USA</country></aff><aff id="ejhf434-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Mayo Clinic College of Medicine, Division of Cardiovascular Diseases</named-content><institution>Department of Medicine</institution><named-content content-type="city">Rochester</named-content><named-content content-type="country-part">MN</named-content><country country="US">USA</country></aff><aff id="ejhf434-aff-0007"><label><sup>7</sup></label><named-content content-type="organisation-division">Cardiology, Department of Medical and Surgical Specialties, Radiological Sciences and Public Health</named-content><institution>University of Brescia</institution><country country="IT">Italy</country></aff><aff id="ejhf434-aff-0008"><label><sup>8</sup></label><institution>Athens University Hospital</institution><named-content content-type="city">Attikon</named-content><country country="GR">Greece</country></aff><aff id="ejhf434-aff-0009"><label><sup>9</sup></label><institution>Mount Sinai School of Medicine</institution><named-content content-type="city">New York</named-content><named-content content-type="country-part">NY</named-content><country country="US">USA</country></aff><aff id="ejhf434-aff-0010"><label><sup>10</sup></label><named-content content-type="organisation-division">3rd Department of Cardiology, School of Medicine in Katowice</named-content><institution>Medical University of Silesia</institution><named-content content-type="city">Katowice</named-content><country country="PL">Poland</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>Corresponding author: Celyad S.A., Axis Business Park, Rue Edouard Belin, 12, B&#x02010;1435 Mont&#x02010;Saint&#x02010;Guibert, Belgium. Tel: +32 10 39 41 00, Fax: +32 10 39 41 41, Email: <email>wsherman@celyad.com</email></corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>12</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2016</year></pub-date><volume>18</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/ejhf.2016.18.issue-2</issue-id><fpage>160</fpage><lpage>168</lpage><history><date date-type="received"><day>02</day><month>3</month><year>2015</year></date><date date-type="rev-recd"><day>14</day><month>6</month><year>2015</year></date><date date-type="accepted"><day>06</day><month>7</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 The Authors European Journal of Heart Failure &#x000a9; 2016 European Society of Cardiology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>European Journal of Heart Failure</italic> published by John Wiley &#x00026; Sons Ltd on behalf of European Society of Cardiology.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:EJHF-18-160.pdf"/><abstract id="ejhf434-abs-0001"><title>Abstract</title><sec id="ejhf434-sec-0001"><title>Aims</title><p id="ejhf434-para-0001">Cardiopoiesis is a conditioning programme that aims to upgrade the cardioregenerative aptitude of patient&#x02010;derived stem cells through lineage specification. Cardiopoietic stem cells tested initially for feasibility and safety exhibited signs of clinical benefit in patients with ischaemic heart failure (<styled-content style="fixed-case">HF</styled-content>) warranting definitive evaluation. Accordingly, <styled-content style="fixed-case">CHART</styled-content>&#x02010;1 is designed as a large randomized, sham&#x02010;controlled multicentre study aimed to validate cardiopoietic stem cell therapy.</p></sec><sec id="ejhf434-sec-0002"><title>Methods</title><p id="ejhf434-para-0002">Patients (<styled-content style="italic-in-any-context">n</styled-content> = 240) with chronic <styled-content style="fixed-case">HF</styled-content> secondary to ischaemic heart disease, reduced <styled-content style="fixed-case">LVEF</styled-content> (&#x0003c;35%), and at high risk for recurrent <styled-content style="fixed-case">HF</styled-content>&#x02010;related events, despite optimal medical therapy, will be randomized 1:1 to receive 600&#x02009;&#x000d7;&#x02009;10<sup>6</sup> bone marrow&#x02010;derived and lineage&#x02010;directed autologous cardiopoietic stem cells administered via a retention&#x02010;enhanced intramyocardial injection catheter or a sham procedure. The primary efficacy endpoint is a hierarchical composite of mortality, worsening <styled-content style="fixed-case">HF</styled-content>, Minnesota Living with Heart Failure Questionnaire score, 6 min walk test, <styled-content style="fixed-case">LV</styled-content> end&#x02010;systolic volume, and <styled-content style="fixed-case">LVEF</styled-content> at 9 months. The secondary efficacy endpoint is the time to cardiovascular death or worsening <styled-content style="fixed-case">HF</styled-content> at 12 months. Safety endpoints include mortality, readmissions, aborted sudden deaths, and serious adverse events at 12 and 24 months.</p></sec><sec id="ejhf434-sec-0003"><title>Conclusion</title><p id="ejhf434-para-0003">The <styled-content style="fixed-case">CHART</styled-content>&#x02010;1 clinical trial is powered to examine the therapeutic impact of lineage&#x02010;directed stem cells as a strategy to achieve cardiac regeneration in <styled-content style="fixed-case">HF</styled-content> populations. On completion, <styled-content style="fixed-case">CHART</styled-content>&#x02010;1 will offer a definitive evaluation of the efficacy and safety of cardiopoietic stem cells in the treatment of chronic ischaemic <styled-content style="fixed-case">HF</styled-content>.</p><p id="ejhf434-para-0004">
+<bold>Trial registration:</bold>
+<styled-content style="fixed-case">NCT01768702</styled-content>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ejhf434-kwd-0001">Cardiopoiesis</kwd><kwd id="ejhf434-kwd-0003">Heart failure</kwd><kwd id="ejhf434-kwd-0004">Ischaemic cardiomyopathy</kwd><kwd id="ejhf434-kwd-0005">Regenerative medicine</kwd><kwd id="ejhf434-kwd-0006">Stem cell</kwd></kwd-group><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ejhf434</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.4 mode:remove_FC converted:14.10.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="ejhf434-note-0101"><p>The copyright line for this article was changed on September 21, 2016 after original online publication.</p></fn></fn-group></notes></front><body><sec id="ejhf434-sec-0004"><title>Introduction</title><p id="ejhf434-para-0005">Heart failure (HF) is still a common disorder associated with significant morbidity and mortality despite recent advances in therapy.<xref rid="ejhf434-bib-0001" ref-type="ref">1</xref> Current approaches do not, however, address the fundamental issues of myocyte loss and microvascular ischaemia that underscore the progression of ischaemic cardiomyopathy, warranting treatment&#x02010;innovative approaches,<xref rid="ejhf434-bib-0002" ref-type="ref">2</xref> which is at the foundation of more recently proposed regenerative therapies aimed to limit remodelling and restore parenchymal integrity.<xref rid="ejhf434-bib-0003" ref-type="ref">3</xref>, <xref rid="ejhf434-bib-0004" ref-type="ref">4</xref> One such approach is stem cell therapy that has shown some promise in proof&#x02010;of&#x02010;concept and humans studies, where signs of functional recovery were observed.<xref rid="ejhf434-bib-0005" ref-type="ref">5</xref>, <xref rid="ejhf434-bib-0006" ref-type="ref">6</xref>, <xref rid="ejhf434-bib-0007" ref-type="ref">7</xref> Yet, these effects were not consistently shown.<xref rid="ejhf434-bib-0008" ref-type="ref">8</xref>
+</p><p id="ejhf434-para-0006">Meta&#x02010;analyses of stem cell&#x02010;based trials in cardiovascular disease suggest that the procedures are generally safe, yet clinical benefit remains more uncertain.<xref rid="ejhf434-bib-0009" ref-type="ref">9</xref>, <xref rid="ejhf434-bib-0010" ref-type="ref">10</xref>, <xref rid="ejhf434-bib-0011" ref-type="ref">11</xref> Recent data have revealed that only rare patients harbour stem cells with an innate reparative capacity.<xref rid="ejhf434-bib-0012" ref-type="ref">12</xref> The restorative proficiency of autologous preparations can either be harvested through pre&#x02010;selection of such rare patient cohorts or alternatively rescued by pre&#x02010;emptive programming within a youthful conditioning environment.<xref rid="ejhf434-bib-0013" ref-type="ref">13</xref> As pre&#x02010;selection limits stem cell therapy to only the rare few, pre&#x02010;emptive specification has been pursued as an avenue to generalize therapeutic proficiency in the setting of HF.<xref rid="ejhf434-bib-0014" ref-type="ref">14</xref>
+</p><p id="ejhf434-para-0007">In &#x02018;guided cardiopoiesis&#x02019;, non&#x02010;regenerative patient&#x02010;derived stem cells are expanded and directed towards the cardiac lineage using a cardiogenic conditioning medium without administration of genetic material.<xref rid="ejhf434-bib-0015" ref-type="ref">15</xref> Clinical grade cardiopoietic stem cells (C3BS&#x02010;CQR&#x02010;1, Celyad S.A., Mont&#x02010;Saint&#x02010;Guibert, Belgium) represent a bio&#x02010;therapeutic in which autologous bone marrow&#x02010;derived mesenchymal stem cells (MSCs) have been programmed to ensure therapeutic performance. The safety and feasibility of C3BS&#x02010;CQR&#x02010;1 therapy was evaluated in 45 patients with HF of ischaemic origin in the C&#x02010;CURE (Cardiopoietic stem Cell therapy in heart failURE) trial.<xref rid="ejhf434-bib-0016" ref-type="ref">16</xref> In this first&#x02010;in&#x02010;man, open label study, intramyocardial administration of C3BS&#x02010;CQR&#x02010;1 was associated with some improvements in LVEF, LV end&#x02010;systolic volume (LVESV), 6&#x02010;min walk test (6MWT) distance, and in a composite clinical score of clinical and functional parameters compared with standard care alone. Cell administration was well tolerated, without signs of increased cardiac or systemic toxicity.</p><p id="ejhf434-para-0008">Based on these initial results, the impact of cardiopoietic stem cell preparations on patient&#x02010;centred outcomes will be investigated in a prospective randomized sham&#x02010;controlled trial evaluation. Accordingly, the Congestive Heart failure cArdiopoietic Regenerative Therapy (CHART&#x02010;1) trial has been designed to assess the benefits of C3BS&#x02010;CQR&#x02010;1 in patients with chronic HF secondary to ischaemic heart disease.</p></sec><sec id="ejhf434-sec-0005"><title>Study design</title><sec id="ejhf434-sec-0006"><title>Key objectives</title><p id="ejhf434-para-0009">The primary objective of CHART&#x02010;1 (<ext-link ext-link-type="uri" xlink:href="http://ClinicalTrials.gov">ClinicalTrials.gov</ext-link> Identifier: NCT01768702, EudraCT number 2011&#x02010;001117&#x02010;13) is to evaluate the efficacy of cardiopoietic stem cells (C3BS&#x02010;CQR&#x02010;1, Celyad S.A.; Mont&#x02010;Saint&#x02010;Guibert, Belgium) delivered using an endoventricular injection catheter (C&#x02010;Cathez&#x000ae;) in comparison with a sham procedure on a hierarchical outcome comprising measures of mortality, morbidity, and changes in quality of life, 6MWT distance, functional capacity, and LV structure and function at 39 weeks (9 months) post&#x02010;procedure.</p><p id="ejhf434-para-0010">The secondary objective is to assess safety by comparing the incidence of serious adverse events between study groups at 52 weeks (12 months) and all&#x02010;cause mortality at 104 weeks (24 months) post&#x02010;procedure.</p><p id="ejhf434-para-0011">Eligible patients with chronic HF secondary to ischaemic heart disease who consent to participate will be randomized 1:1 to either intramyocardial injection of cardiopoietic stem cells (Treatment Group) or sham procedure (Control Group) following successful expansion of MSCs from autologous bone marrow (<italic>Figure</italic>
+<xref rid="ejhf434-fig-0001" ref-type="fig">1</xref>). Follow&#x02010;up will occur at 4, 13, 26, 39, 52, and 104 weeks post&#x02010;procedure. The primary efficacy endpoint is a Finkelstein&#x02013;Schoenfeld hierarchical composite endpoint comprising all&#x02010;cause mortality, worsening HF (WHF) events, and changes in Minnesota Living with Heart Failure Questionnaire (MLHFQ) score, 6MWT distance, LVESV, and LVEF by transthoracic echocardiography (TTE) at 39 weeks.<xref rid="ejhf434-bib-0017" ref-type="ref">17</xref>, <xref rid="ejhf434-bib-0018" ref-type="ref">18</xref>, <xref rid="ejhf434-bib-0019" ref-type="ref">19</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="ejhf434-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study flow chart. MSC, mesenchymal stem cells.</p></caption><graphic id="nlm-graphic-1" xlink:href="EJHF-18-160-g003"><alt-text>EJHF-434-FIG-0001-b</alt-text></graphic></fig></sec><sec id="ejhf434-sec-0007"><title>Study population</title><p id="ejhf434-para-0012">A minimum of 240 patients with chronic HF secondary to ischaemic heart disease fulfilling all inclusion and exclusion criteria (<styled-content style="italic-in-any-context">Table</styled-content>
+<xref rid="ejhf434-tbl-0001" ref-type="table-wrap">1</xref>) will be enrolled at &#x0223c;50 centres in Europe and Israel. The study will be conducted in compliance with the requirements of governmental regulatory bodies and ethics committees of each participating centre. Study criteria seek to identify a population of NYHA class III&#x02013;IV patients with limited functional capacity and low LVEF (&#x0003c;35%), who are treated with optimal medical and revascularization therapies. Patients must have had an episode of worsened HF, requiring either hospital admission or outpatient treatment with i.v. vasoactive medication or diuretic for WHF, in the last 12 months. The absence of recent acute coronary syndrome, non&#x02010;ischaemic causes of LV dysfunction, significant mitral or aortic valve disease, peripheral vascular disease, and co&#x02010;morbidities or cardiac transplant listing that would impact the ability to complete the trial successfully is required. Screening procedures (<styled-content style="italic-in-any-context">Table</styled-content>
+<xref rid="ejhf434-tbl-0002" ref-type="table-wrap">2</xref>) include a comprehensive medical history, health status assessment, physical examination, laboratory tests, 12&#x02010;lead ECG, TTE, 6MWT, and MLHFQ. In addition to decreased systolic function, to qualify for study intervention, the left ventricle must be without aneurysm and with suitable wall thickness characteristics (see &#x02018;Study procedure&#x02019; below). Patients who meet eligibility criteria will be scheduled for bone marrow harvest.</p><table-wrap id="ejhf434-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Study eligibility</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th id="ejhf434-ent-0001" align="left" valign="bottom" rowspan="1" colspan="1">Key inclusion criteria</th><th id="ejhf434-ent-0002" align="left" valign="bottom" rowspan="1" colspan="1">Key exclusion criteria</th></tr></thead><tbody valign="top"><tr><td id="ejhf434-ent-0003" align="left" valign="top" rowspan="1" colspan="1">Age &#x02265;18 and &#x0003c;80 years</td><td id="ejhf434-ent-0004" align="left" valign="top" rowspan="1" colspan="1">Pregnancy</td></tr><tr><td id="ejhf434-ent-0005" align="left" valign="top" rowspan="1" colspan="1">Chronic ischaemic HF, without need for revascularization</td><td id="ejhf434-ent-0006" align="left" valign="top" rowspan="1" colspan="1">Acute coronary syndrome or PCI within 90 days, or CABG within 180 days</td></tr><tr><td id="ejhf434-ent-0007" align="left" valign="top" rowspan="1" colspan="1">Systolic dysfunction with LVEF &#x02264;35%</td><td id="ejhf434-ent-0008" align="left" valign="top" rowspan="1" colspan="1">Cardiac resynchronization therapy within 180 days</td></tr><tr><td id="ejhf434-ent-0009" align="left" valign="top" rowspan="1" colspan="1">Hospitalization or outpatient with i.v. therapy for HF within the previous 12 months</td><td id="ejhf434-ent-0010" align="left" valign="top" rowspan="1" colspan="1">Moderate to severe valvular disease</td></tr><tr><td id="ejhf434-ent-0011" align="left" valign="top" rowspan="1" colspan="1">Be or must have been within the previous 12 months in NYHA class III or IV or in INTERMACS class 4, 5, 6, or 7, and at the time of inclusion, must be in NYHA class II or greater</td><td id="ejhf434-ent-0012" align="left" valign="top" rowspan="1" colspan="1">Prosthetic mitral or aortic valve</td></tr><tr><td id="ejhf434-ent-0013" align="left" valign="top" rowspan="1" colspan="1">Total MLHFQ score &#x0003e;30</td><td id="ejhf434-ent-0014" align="left" valign="top" rowspan="1" colspan="1">LV thrombus</td></tr><tr><td id="ejhf434-ent-0015" align="left" valign="top" rowspan="1" colspan="1">6MWT distance &#x0003e;100 and &#x02264;400 m</td><td id="ejhf434-ent-0016" align="left" valign="top" rowspan="1" colspan="1">LV wall thickness &#x0003c;8 mm visualized in &#x0003e;50% of the left ventricle</td></tr><tr><td id="ejhf434-ent-0017" align="left" valign="top" rowspan="1" colspan="1">Stable medical regimen, including ACE inhibitor and/or ARB, beta&#x02010;blocker, aldosterone blocker, and diuretic for at least 1&#x02009;month</td><td id="ejhf434-ent-0018" align="left" valign="top" rowspan="1" colspan="1">Sustained VT or VF within 90 days</td></tr><tr><td id="ejhf434-ent-0019" align="left" valign="top" rowspan="1" colspan="1">Willing and able to give written informed consent</td><td id="ejhf434-ent-0020" align="left" valign="top" rowspan="1" colspan="1">BMI &#x0003c;19 or &#x0003e;45 kg/m<sup>2</sup>
+</td></tr><tr><td id="ejhf434-ent-0021" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0022" align="left" valign="top" rowspan="1" colspan="1">Inability to perform a 6MWT due to physical limitations other than HF including: stroke, peripheral vascular disease, pulmonary disease</td></tr><tr><td id="ejhf434-ent-0023" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0024" align="left" valign="top" rowspan="1" colspan="1">Immunosuppressive therapy</td></tr><tr><td id="ejhf434-ent-0025" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0026" align="left" valign="top" rowspan="1" colspan="1">Chronic infection or active malignancy</td></tr><tr><td id="ejhf434-ent-0027" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0028" align="left" valign="top" rowspan="1" colspan="1">Renal dysfunction with serum creatinine &#x0003e;3.0 mg/dL (&#x0003e;0.265 mmol/L)</td></tr><tr><td id="ejhf434-ent-0029" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0030" align="left" valign="top" rowspan="1" colspan="1">Haematocrit &#x0003c;28%</td></tr><tr><td id="ejhf434-ent-0031" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0032" align="left" valign="top" rowspan="1" colspan="1">Sero&#x02010;positivity for HIV 1 or 2, hepatitis B or C, HTLV 1 or 2</td></tr><tr><td id="ejhf434-ent-0033" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0034" align="left" valign="top" rowspan="1" colspan="1">Prior cell or angiogenic therapy within 60 days</td></tr><tr><td id="ejhf434-ent-0035" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0036" align="left" valign="top" rowspan="1" colspan="1">Any illness other than HF which might reduce life expectancy to &#x0003c;2 years</td></tr><tr><td id="ejhf434-ent-0037" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0038" align="left" valign="top" rowspan="1" colspan="1">Allergies to dextran or other plasma volume expanders</td></tr></tbody></table><table-wrap-foot><fn id="ejhf434-note-0001"><p>BMI, body mass index; CABG, coronary artery bypass graft; HF, heart failure; HIV, human immunodeficiency virus; HTLV, human T&#x02010;cell lymphotropic virus; MLHFQ, Minnesota Living with Heart Failure Questionnaire; 6MWT, 6&#x02010;min walk test; VF, ventricular fibrillation; VT, ventricular tachycardia.</p></fn></table-wrap-foot></table-wrap><table-wrap id="ejhf434-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Study schedule</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th valign="top" rowspan="2" id="ejhf434-ent-0039" align="left" colspan="1">Patient procedures</th><th rowspan="2" id="ejhf434-ent-0040" align="left" valign="bottom" colspan="1">Screening</th><th rowspan="2" id="ejhf434-ent-0041" align="left" valign="bottom" colspan="1">Bone marrow harvest</th><th colspan="2" align="left" id="ejhf434-ent-0042" valign="bottom" rowspan="1">Index procedure (C3BS&#x02010;CQR&#x02010;1 injection or sham)</th><th rowspan="2" id="ejhf434-ent-0043" align="left" valign="bottom" colspan="1">4 weeks (&#x000b1;7 days)</th><th rowspan="2" id="ejhf434-ent-0044" align="left" valign="bottom" colspan="1">13 weeks (&#x000b1;7 days)</th><th rowspan="2" id="ejhf434-ent-0045" align="left" valign="bottom" colspan="1">26 weeks (&#x000b1;14 days)</th><th rowspan="2" id="ejhf434-ent-0046" align="left" valign="bottom" colspan="1">39 weeks (+14 days)</th><th rowspan="2" id="ejhf434-ent-0047" align="left" valign="bottom" colspan="1">52 weeks (+30 days)</th><th rowspan="2" id="ejhf434-ent-0048" align="left" valign="bottom" colspan="1">104 weeks (+30 days)</th></tr><tr style="border-bottom:solid 1px #000000"><th id="ejhf434-ent-0052" align="left" valign="bottom" rowspan="1" colspan="1">Pre&#x02010;procedure (baseline)</th><th id="ejhf434-ent-0053" align="left" valign="bottom" rowspan="1" colspan="1">Post&#x02010;procedure</th></tr></thead><tbody valign="top"><tr><td id="ejhf434-ent-0060" align="left" valign="top" rowspan="1" colspan="1">Informed consent</td><td id="ejhf434-ent-0061" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0062" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0063" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0064" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0065" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0066" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0067" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0068" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0069" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0070" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0071" align="left" valign="top" rowspan="1" colspan="1">Inclusion/exclusion criteria</td><td id="ejhf434-ent-0072" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0073" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0074" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0075" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0076" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0077" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0078" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0079" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0080" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0081" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0082" align="left" valign="top" rowspan="1" colspan="1">Demographics and medical history including cardiac risk factors</td><td id="ejhf434-ent-0083" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0084" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0085" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0086" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0087" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0088" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0089" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0090" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0091" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0092" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0093" align="left" valign="top" rowspan="1" colspan="1">Pregnancy test<xref ref-type="fn" rid="ejhf434-note-0003">a</xref>
+</td><td id="ejhf434-ent-0094" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0095" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0096" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0097" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0098" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0099" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0100" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0101" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0102" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0103" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0104" align="left" valign="top" rowspan="1" colspan="1">Clinical examination</td><td id="ejhf434-ent-0105" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0106" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0107" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0108" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0109" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0110" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0111" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0112" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0113" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0114" align="left" valign="top" rowspan="1" colspan="1">X</td></tr><tr><td id="ejhf434-ent-0115" align="left" valign="top" rowspan="1" colspan="1">NYHA class</td><td id="ejhf434-ent-0116" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0117" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0118" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0119" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0120" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0121" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0122" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0123" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0124" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0125" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0126" align="left" valign="top" rowspan="1" colspan="1">INTERMACS patient profile</td><td id="ejhf434-ent-0127" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0128" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0129" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0130" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0131" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0132" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0133" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0134" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0135" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0136" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0137" align="left" valign="top" rowspan="1" colspan="1">Concomitant medications</td><td id="ejhf434-ent-0138" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0139" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0140" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0141" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0142" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0143" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0144" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0145" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0146" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0147" align="left" valign="top" rowspan="1" colspan="1">X</td></tr><tr><td id="ejhf434-ent-0148" align="left" valign="top" rowspan="1" colspan="1">Routine laboratory tests</td><td id="ejhf434-ent-0149" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0150" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0151" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0152" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0153" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0154" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0155" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0156" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0157" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0158" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0159" align="left" valign="top" rowspan="1" colspan="1">HIV1, HIV2, HBV, HCV, HTLV&#x02010;1<xref ref-type="fn" rid="ejhf434-note-0004">b</xref>, HTLV&#x02010;2<xref ref-type="fn" rid="ejhf434-note-0004">b</xref> and syphilis</td><td id="ejhf434-ent-0160" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0161" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0162" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0163" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0164" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0165" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0166" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0167" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0168" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0169" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0170" align="left" valign="top" rowspan="1" colspan="1">Blood sampling for central laboratory assessment of CK&#x02010;MB, troponin T</td><td id="ejhf434-ent-0171" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0172" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0173" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0174" align="left" valign="top" rowspan="1" colspan="1">X<xref ref-type="fn" rid="ejhf434-note-0005">c</xref>
+</td><td id="ejhf434-ent-0175" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0176" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0177" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0178" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0179" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0180" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0181" align="left" valign="top" rowspan="1" colspan="1">Blood sampling for central laboratory assessment of NT&#x02010;proBNP</td><td id="ejhf434-ent-0182" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0183" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0184" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0185" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0186" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0187" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0188" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0189" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0190" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0191" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0192" align="left" valign="top" rowspan="1" colspan="1">12&#x02010;lead ECG</td><td id="ejhf434-ent-0193" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0194" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0195" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0196" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0197" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0198" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0199" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0200" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0201" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0202" align="left" valign="top" rowspan="1" colspan="1">X</td></tr><tr><td id="ejhf434-ent-0203" align="left" valign="top" rowspan="1" colspan="1">Echocardiography</td><td id="ejhf434-ent-0204" align="left" valign="top" rowspan="1" colspan="1">X<xref ref-type="fn" rid="ejhf434-note-0006">d</xref>
+</td><td id="ejhf434-ent-0205" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0206" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0207" align="left" valign="top" rowspan="1" colspan="1">X<xref ref-type="fn" rid="ejhf434-note-0006">d</xref>
+</td><td id="ejhf434-ent-0208" align="left" valign="top" rowspan="1" colspan="1">X<xref ref-type="fn" rid="ejhf434-note-0006">d</xref>
+</td><td id="ejhf434-ent-0209" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0210" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0211" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0212" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0213" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0214" align="left" valign="top" rowspan="1" colspan="1">AICD interrogation<xref ref-type="fn" rid="ejhf434-note-0007">e</xref>
+</td><td id="ejhf434-ent-0215" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0216" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0217" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0218" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0219" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0220" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0221" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0222" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0223" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0224" align="left" valign="top" rowspan="1" colspan="1">X</td></tr><tr><td id="ejhf434-ent-0225" align="left" valign="top" rowspan="1" colspan="1">Six&#x02010;minute walk test</td><td id="ejhf434-ent-0226" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0227" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0228" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0229" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0230" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0231" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0232" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0233" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0234" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0235" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0236" align="left" valign="top" rowspan="1" colspan="1">MLHFQ</td><td id="ejhf434-ent-0237" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0238" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0239" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0240" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0241" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0242" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0243" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0244" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0245" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0246" align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td id="ejhf434-ent-0247" align="left" valign="top" rowspan="1" colspan="1">Adverse events</td><td id="ejhf434-ent-0248" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0249" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0250" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0251" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0252" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0253" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0254" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0255" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0256" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0257" align="left" valign="top" rowspan="1" colspan="1">X<xref ref-type="fn" rid="ejhf434-note-0008">f</xref>
+</td></tr><tr><td id="ejhf434-ent-0258" align="left" valign="top" rowspan="1" colspan="1">Clinical events for adjudication</td><td id="ejhf434-ent-0259" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0260" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0261" align="left" valign="top" rowspan="1" colspan="1"/><td id="ejhf434-ent-0262" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0263" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0264" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0265" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0266" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0267" align="left" valign="top" rowspan="1" colspan="1">X</td><td id="ejhf434-ent-0268" align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="ejhf434-note-0002"><p>AICD, automatic implantable cardioverter&#x02010;defibrillator; CK, creatine kinase; HBV, hepatitis B virus; HCV, hepatitis C virus; HIV, human immunodeficiency virus; HTLV, human T&#x02010;cell lymphotropic virus; MLHFQ, Minnesota Living with Heart Failure Questionnaire.</p></fn><fn id="ejhf434-note-0003"><label>a</label><p>Females of child&#x02010;bearing potential only.</p></fn><fn id="ejhf434-note-0004"><label>b</label><p>If required per local regulations.</p></fn><fn id="ejhf434-note-0005"><label>c</label><p>To be done at 6 and 24 h post&#x02010;procedure, even if discharged within 24 h of the index procedure.</p></fn><fn id="ejhf434-note-0006"><label>d</label><p>Echocardiography can be assessed locally.</p></fn><fn id="ejhf434-note-0007"><label>e</label><p>For patients with an existing AICD only.</p></fn><fn id="ejhf434-note-0008"><label>f</label><p>Serious adverse events and clinical events only (non&#x02010;serious events recorded up to 52 weeks).</p></fn></table-wrap-foot></table-wrap></sec><sec id="ejhf434-sec-0008"><title>Cell procurement and processing</title><p id="ejhf434-para-0013">A volume of 65&#x02013;85 mL of bone marrow aspirated from the iliac crest will be transported at 2&#x02013;8&#x000b0;C to a central Good Manufacturing Practice (GMP) production facility where an initial MSC expansion and subsequent cardiopoietic stem cell formulation will occur (<styled-content style="italic-in-any-context">Figure</styled-content>
+<xref rid="ejhf434-fig-0002" ref-type="fig">2</xref>). Subjects who undergo successful expansion of bone marrow to 24&#x02009;&#x000d7;&#x02009;10<sup>6</sup> MSCs will be randomized in a 1:1 fashion using a web&#x02010;based randomization system (Sealed Envelope&#x02122;), according to a central randomization scheme stratified for each study centre. Patients from whom aspirates are &#x0003c;65 mL or yield &#x0003c;24&#x02009;&#x000d7;&#x02009;10<sup>6</sup> MSCs will be eligible for a repeat bone marrow harvest. If the second attempt again yields low bone marrow volume or insufficient MSC numbers, the subject will fail the screening process and will not be randomized.</p><fig fig-type="Figure" xml:lang="en" id="ejhf434-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Cardiopoietic stem cell procurement and processing prior to the delivery procedure. Following bone marrow harvest, mesenchymal stem cells (MSCs) are purified and expanded. Following standard operating procedures, cardiopoiesis is imposed for lineage guidance of MSCs to derive cardiopoietic stem cells. Stem cells meeting pre&#x02010;defined release criteria are delivered in an autologous fashion to patients with ischaemic cardiomyopathy using a catheter&#x02010;based endomyocardial delivery procedure.</p></caption><graphic id="nlm-graphic-3" xlink:href="EJHF-18-160-g002"><alt-text>EJHF-434-FIG-0002-c</alt-text></graphic></fig><p id="ejhf434-para-0014">The MSCs from subjects randomized to the Treatment Group will be processed to undergo lineage specification, and released as cardiopoietic stem cells (C3BS&#x02010;CQR&#x02010;1). Following closed system cryopreservation, the C3BS&#x02010;CQR&#x02010;1 product will be thermally packaged and shipped to clinical sites at &#x02212;130&#x000b0;C or lower. For each patient, aliquots will be bio&#x02010;banked for quality control, as well as for future high&#x02010;throughput molecular studies at the Mayo Clinic. If release specifications (purity, identity, homogeneity, and sterility)<xref rid="ejhf434-bib-0016" ref-type="ref">16</xref> are not met, the cell product will be withheld and the subject allocated to the Process Failure Group (<italic>Figure</italic>
+<xref rid="ejhf434-fig-0001" ref-type="fig">1</xref>).</p></sec><sec id="ejhf434-sec-0009"><title>Study procedure</title><p id="ejhf434-para-0015">In order to maintain a double&#x02010;blind design, each site will identify two independent investigative teams: (i) a blinded assessment team which will perform all non&#x02010;procedural study visits and assessments; and (ii) an unblinded interventional team which will perform the procedure. Through repeated onsite training and review, communications between teams will be limited. All patients will undergo retrograde cardiac catheterization and biplane contrast left ventriculography according to best practices. Unfractionated or low molecular weight heparin will be used during the study to maintain low&#x02010;therapeutic anticoagulation levels (activated clotting time at &#x0223c;250 s where possible).</p><p id="ejhf434-para-0016">The Treatment Group will receive cardiopoietic stem cells by endomyocardial injections (<italic>Figure</italic>
+<xref rid="ejhf434-fig-0002" ref-type="fig">2</xref>). In preparation for this, frozen stem cell product will be reconditioned by unblinded team members on the day of the procedure. Based on echocardiography and contrast left ventriculography, regions of the left ventricle to be targeted for injection will be delineated onto real&#x02010;time fluoroscopy images. An 8Fr deflectable tip catheter containing a 28 gauge retractable Nitinol alloy needle, featuring a curved tip with seven side holes (<italic>Figure</italic>
+<xref rid="ejhf434-fig-0003" ref-type="fig">3</xref>) will be used for injections (C&#x02010;Cathez&#x000ae;). This catheter has demonstrated cell retention&#x02010;enhanced properties following endomyocardial injections.<xref rid="ejhf434-bib-0020" ref-type="ref">20</xref> Both tip deflection and needle advancement are controlled at the proximal handle (<italic>Figure</italic>
+<xref rid="ejhf434-fig-0003" ref-type="fig">3</xref>). Once prepared and primed with cells, the catheter is inserted via the femoral artery and advanced into the left ventricle in retro&#x02010;aortic fashion. Twenty injections, each of 0.5 mL and separated by &#x0223c;1 cm will be distributed over non&#x02010;apical, non&#x02010;basal portions of the left ventricle (segments 7&#x02013;16 on the standard bulls&#x02010;eye echocardiogram display 17 ASE model)<xref rid="ejhf434-bib-0021" ref-type="ref">21</xref> that have wall thickness &#x0003e;8 mm.</p><fig fig-type="Figure" xml:lang="en" id="ejhf434-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Catheter&#x02010;based delivery system. Endomyocardial delivery catheter designed for enhanced endomyocardial retention of stem cells (C&#x02010;Cathez&#x000ae;) features a thumbwheel control for distal catheter tip deflection (upper left panel), a curved needle design with side holes (inset), and a luer lock connector for study injection with adjustable needle advancing mechanism (lower left).</p></caption><graphic id="nlm-graphic-5" xlink:href="EJHF-18-160-g001"><alt-text>EJHF-434-FIG-0003-c</alt-text></graphic></fig><p id="ejhf434-para-0017">Patients from the Control and Process Failure groups will undergo a sham procedure, without intramyocardial injections (<italic>Figure</italic>
+<xref rid="ejhf434-fig-0001" ref-type="fig">1</xref>). The sham procedure, conducted over 30&#x02013;60 min, consists of insertion and removal of an introducer sheath into the femoral artery following standard percutaneous intervention procedures, with the patient sedated per local practice. If the patient is minimally sedated, a 30&#x02010;min mock injection procedure is performed.</p><p id="ejhf434-para-0018">Immediately following the procedure, all subjects will undergo echocardiography to assess for procedural complications, and blood samples will be taken for measurement of cardiac biomarkers. All patients will be observed in the catheterization laboratory for at least 30 min after the procedure and then for a minimum of 12 h in a telemetry unit.</p></sec><sec id="ejhf434-sec-0010"><title>Follow&#x02010;up</title><p id="ejhf434-para-0019">All follow&#x02010;up visits will be performed by the blinded team, scheduled for 4, 13, 26, 39, 52, and 104 weeks following the procedure (<italic>Table</italic>
+<xref rid="ejhf434-tbl-0002" ref-type="table-wrap">2</xref>). Clinical assessments include grading of HF signs and symptoms, NYHA class, and INTERMACS classification, echocardiography, MLHFQ score, and 6MWT distance. Blood samples for central laboratory measurement of cardiac markers; creatine kinase (CK)&#x02010;MB, troponin&#x02010;T, and NT&#x02010;proBNP will be taken at week 39. Automatic implantable cardioverter&#x02010;defibrillator (AICD) interrogation will be conducted at each follow&#x02010;up visit.</p><p id="ejhf434-para-0020">Adverse events and the occurrence of clinical events of interest, including death, WHF, sudden death, AICD activation, myocardial infarction (MI), and stroke, will be collected through week 52. Serious adverse events (SAEs) will be collected through week 104.</p></sec><sec id="ejhf434-sec-0011"><title>Statistical methods</title><p id="ejhf434-para-0021">The primary efficacy outcome is a hierarchical composite<xref rid="ejhf434-bib-0018" ref-type="ref">18</xref> constructed from the following endpoints evaluated at 39 weeks following the study procedure in patients treated as randomized:
+<list list-type="order" id="ejhf434-list-0001"><list-item id="ejhf434-li-0001"><p>Mortality&#x02009;=&#x02009;days alive out of 39 weeks.</p></list-item><list-item id="ejhf434-li-0002"><p>Number of WHF events: 0, 1, or&#x02009;&#x02265;&#x02009;2,</p></list-item><list-item id="ejhf434-li-0003"><p>MLHFQ &#x02265;10 point improvement, no meaningful change, &#x02265;10 point deterioration.</p></list-item><list-item id="ejhf434-li-0004"><p>6MWT &#x02265;40 m improvement, no meaningful change.</p></list-item><list-item id="ejhf434-li-0005"><p>LVESV &#x02265;15 mL improvement, no meaningful change.</p></list-item><list-item id="ejhf434-li-0006"><p>LVEF &#x02265;4% absolute improvement, no meaningful change, &#x02265;4% absolute deterioration.</p></list-item></list>
+</p><p id="ejhf434-para-0022">Worsening heart failure is defined as new or worsening HF signs or symptoms requiring additional or increased treatment&#x02014;including initiation or up&#x02010;titration of intravenous therapy, mechanical or surgical intervention, or ultrafiltration, haemofiltration, or dialysis&#x02014;in either an urgent outpatient setting or hospital admission of at least 24 h duration (or overnight if exact times are not available). WHF will be adjudicated by the Clinical Events Committee (CEC; see Appendix 1).</p><p id="ejhf434-para-0023">Each patient is compared with every other patient and classified as having done better (+1), worse (&#x02212;1), or the same, starting with the first endpoint in the hierarchy. For a given pair, if the patients are tied at the first level in the hierarchy they are compared with respect to the second level, and, if tied, are compared at the third level, and so on. Treatment groups are then compared among treated patients at the two&#x02010;sided 5% significance level using a modification of the generalized Wilcoxon test constructed from the sum of the scores for each patient.</p><p id="ejhf434-para-0024">Effects were hypothesized based on results reported for effective therapies in similar patient populations (e.g. CRT), results of the C&#x02010;CURE trial,<xref rid="ejhf434-bib-0016" ref-type="ref">16</xref> and clinical judgement regarding expected results given the target patient population. Power with 120 patients per group is &#x0223c;87% at the two&#x02010;sided 5% significance level, with assumed correlations among the endpoints and with the following assumed treatment group differences (Treatment vs. Control):
+<list list-type="order" id="ejhf434-list-0002"><list-item id="ejhf434-li-0007"><p>Mortality of 7.5% vs. 10%.</p></list-item><list-item id="ejhf434-li-0008"><p>Number of WHF events of 83.5% vs. 78% with 0, 11% vs. 16% with 1, and 5.5% vs. 6% with &#x02265;2 events.</p></list-item><list-item id="ejhf434-li-0009"><p>Change in MLHFQ total score of &#x02212;14 vs. &#x02013;5 points with a common SD of 20 points.</p></list-item><list-item id="ejhf434-li-0010"><p>Change in 6MWT distance of 45 m vs. 10 m with an SD of 120&#x000a0;m.</p></list-item><list-item id="ejhf434-li-0011"><p>Change in LVESV of &#x02212;10 mL vs. 5 mL with an SD of 20 mL.</p></list-item><list-item id="ejhf434-li-0012"><p>Absolute change in LVEF of 6% vs. 1% with an SD of 5%.</p></list-item></list>
+</p><p id="ejhf434-para-0025">The secondary efficacy endpoint is the time to cardiovascular mortality or WHF through week 52.</p><p id="ejhf434-para-0026">Tertiary (exploratory) endpoints will include, through 39 and 52 weeks, time to all&#x02010;cause mortality, time to cardiovascular mortality, WHF, admission for HF, cardiovascular death or HF admission, death or hospital admission, total days in intensive care, total outpatient days alive, total days on any i.v. positive inotropic drug, change in 6MWT distance and MLHFQ score, changes in INTERMACS class, changes in NYHA class, change in blood values (blood cell counts, C&#x02010;reactive protein, creatinine), and total cost in healthcare utilization. Change in LVESV, LV end&#x02010;diastolic volume (LVEDV), LVEF, and LV mass index at 26, 39, and 52 weeks and changes in NT&#x02010;proBNP and troponin&#x02010;T at 39 weeks, as well as total costs and healthcare utilization will also be examined.</p><p id="ejhf434-para-0027">Safety endpoints will be assessed in patients as treated and include mortality through 104 weeks, readmissions, cardiac transplantation, MI, stroke, and SAEs through weeks 52 and 104, and non&#x02010;serious AEs through week 52. Safety will also be assessed by the occurrence of aborted sudden death events, defined as resuscitated sudden death or appropriate defibrillator therapy for sustained ventricular tachyarrhythmias, through 39, 52, and 104 weeks. The CEC will adjudicate all post&#x02010;randomization deaths, MI, stroke, and aborted sudden death events.</p></sec><sec id="ejhf434-sec-0012"><title>Study oversight and events assessment</title><p id="ejhf434-para-0028">A Steering Committee (see Appendix 1), comprised of the global co&#x02010;ordinating investigators and five additional members, will oversee the study, including data collection and implementation of operational issues that may arise and that may warrant a protocol amendment or other corrective action. The Steering Committee will also approve policy regarding presentations and publications.</p><p id="ejhf434-para-0029">A blinded CEC, composed of cardiologists with expertise in HF, interventional techniques, and electrophysiology, will be responsible for reviewing and adjudicating specified clinical events collected in the trial. An unblinded, independent, interventional cardiologist will review and adjudicate the relatedness of peri&#x02010;procedural SAEs to the catheter or cell product.</p><p id="ejhf434-para-0030">An independent Data Safety Monitoring Board (DSMB; see Appendix 1), consisting of HF and interventional cardiologists, and including a clinical pharmacologist and biostatistician, will assess all SAEs (myocardial trauma, perforation, pericardial tamponade, ventricular tachyarrhythmias causing haemodynamic instability, stroke), as well as reviews of aggregate safety. Safety analysis of the C&#x02010;Cathez&#x000ae; catheter will be performed after 40 patients have reached the 4&#x02010;week follow&#x02010;up visit. Accumulated safety and efficacy data of the C3BS&#x02010;CQR&#x02010;1 stem cell product will be evaluated after enrolment of &#x0223c;120 patients and a minimum of 13 weeks of follow&#x02010;up, at which time a futility analysis of the primary efficacy outcome will be performed. For this unblinded examination of the primary endpoint, a two&#x02010;sided alpha of 0.0001 will be considered to have been spent. The DSMB will make recommendations to the Sponsor regarding the continuation, modification, or stoppage of the trial. The full&#x02010;cohort study will be unblinded and the primary analysis will be performed after the last patient randomized has been followed for 39 weeks.</p></sec></sec><sec id="ejhf434-sec-0013"><title>Discussion</title><p id="ejhf434-para-0031">The late phase CHART&#x02010;1 trial builds upon findings and experience derived from its predecessor, the C&#x02010;CURE study.<xref rid="ejhf434-bib-0016" ref-type="ref">16</xref> The general clinical condition, chronic ischaemic HF, and the test agent, cardiopoietic stem cells (C3BS&#x02010;CQR&#x02010;1, processed at a central facility), are consistent between studies. CHART&#x02010;1 incorporates unique elements in the design for power to validate the efficacy signals initially observed in the C&#x02010;CURE trial.</p><p id="ejhf434-para-0032">Entry criteria are designed to include patients who are symptomatic and at high risk despite traditional therapy for HF. Inclusion of high&#x02010;risk populations (HF decompensation within 12 months of screening) targets a population in need, and serves to increase the probability of detecting a treatment effect in follow&#x02010;up. As a late&#x02010;phase clinical trial, CHART&#x02010;1 incorporates randomization and treatment allocation after successful MSC expansion. Randomization is more commonly performed before any cell processing, a less than optimal approach when utilizing autologous bio&#x02010;therapeutics. Incorporating assessment of MSCs in the inclusion process reduces patient&#x02010;to&#x02010;patient variability in stem cell availability and potency among randomized patients. Delaying randomization even further, i.e. until after successful production of cardiopoietic stem cells, rather than at the MSC expansion phase, while conceivable, provides limited advantage while adding significant cost burden.</p><p id="ejhf434-para-0033">The study procedure in CHART&#x02010;1 takes advantage of a trans&#x02010;endocardial cell delivery catheter, a novel system (C&#x02010;Cathez&#x000ae; catheter) designed to increase tissue distribution and retention of injected stem cells.<xref rid="ejhf434-bib-0020" ref-type="ref">20</xref> The Control arm as well as the Process Failure group will undergo a sham procedure, instead of receiving placebo injection, in order to achieve a reasonable balance between study risk and scientific rigour. While placebo&#x02010;controlled, double&#x02010;blinded injections have been utilized in other stem cell trials,<xref rid="ejhf434-bib-0022" ref-type="ref">22</xref> the risks of intramyocardial injection are not negligible.<xref rid="ejhf434-bib-0023" ref-type="ref">23</xref> Effective barriers to ensure blinding<xref rid="ejhf434-bib-0024" ref-type="ref">24</xref> are intrinsic to this study in order to assess the effectiveness of the interventional therapy. Maintaining the blinding is a difficult task in studies requiring invasive therapies such as the present one.<xref rid="ejhf434-bib-0025" ref-type="ref">25</xref> On the one hand, blinded (both patient and physician) assessment of the treatment effects is crucial to ensure objective assessment, but on the other hand performing a full sham procedure including intramycoardial injection was felt to add unnecessary risk for patients. Therefore, first the teams performing the efficacy assessments and those performing the procedure will be separated into two distinct firewalled teams and, secondly, patients receiving sham treatment would receive a mini&#x02010;procedure; however, no intramyocaridal injections will be attempted.</p><p id="ejhf434-para-0034">Furthermore, endpoint selection is of critical importance in the design of HF trials and continues to evolve reflective of the systemic nature of the disease.<xref rid="ejhf434-bib-0026" ref-type="ref">26</xref> To this end, the CHART&#x02010;1 design combines in a hierarchical manner survival time, WHF events, quality of life, functional capacity, and parameters of LV remodelling as a primary efficacy outcome. The relevance of the specified changes in MLHFQ, 6MWT, LVESV, and LVEF merits discussion. Some parameters, including the 6MWT and MLHFQ, are subjective and may be particularly influenced by knowledge of the treatment assignment. The absolute change in MLHFQ score that would indicate a clinical meaningful outcome is not certain. The selected 10&#x02010;point change excludes chance variability, and was associated with substantially increased risks of death and re&#x02010;hospitalization in patients with advanced chronic HF followed for 18 months on average.<xref rid="ejhf434-bib-0027" ref-type="ref">27</xref> Regarding the 6MWT, a 43 m improvement was found to be statistically significant in the COMPANION study and accompanied by reduced risks of death or HF rehospitalization at 6 months.<xref rid="ejhf434-bib-0028" ref-type="ref">28</xref> We have therefore considered a 40 m change as meaningful. Lastly, LVESV and LVEF are more objective measures of response, which, when considered in conjunction with more subjective parameters, provide a clinically valuable readout of regenerative impact.<xref rid="ejhf434-bib-0026" ref-type="ref">26</xref> However, when taken alone, in a patient population with baseline NYHA class II/III symptoms and LVESV of 200 mL, it has been suggested that a change of 10 mL is clinically meaningful,<xref rid="ejhf434-bib-0029" ref-type="ref">29</xref> informing the CHART&#x02010;1 design.</p><p id="ejhf434-para-0035">Study designs based exclusively on a hard endpoint, such as mortality, disregard patient symptoms and functional capacity which, in the setting of severe HF, are vitally important to the patient themselves. Such studies would also mandate an order of magnitude larger patient cohort, typically in the thousands, which is not feasible in this type of very intensive study. A composite endpoint not only provides power above that afforded by a single endpoint, but importantly allows formal assessment of the therapy's effectiveness across multiple clinical parameters. Composite endpoints have been used, including combined death and recurrent hospitalization with the method of Finkelstein and Schoenfeld,<xref rid="ejhf434-bib-0018" ref-type="ref">18</xref> in device&#x02010;based clinical trials as a comprehensive analytical approach.<xref rid="ejhf434-bib-0030" ref-type="ref">30</xref> The composite endpoint method affords simultaneous insight into multiple facets of the disease, and asserts whether the intervention has an overall benefit weighting in a descending order outcomes by importance.<xref rid="ejhf434-bib-0026" ref-type="ref">26</xref>, <xref rid="ejhf434-bib-0031" ref-type="ref">31</xref> So the risks of a spurious false&#x02010;positive or false&#x02010;negative finding, which in small studies and single endpoints are high, are diminished in a large trial such as CHART&#x02010;1 utilizing this approach.</p></sec><sec id="ejhf434-sec-0014"><title>Summary</title><p id="ejhf434-para-0036">Cardiopoiesis offers an optimizing platform by which to generalize the regenerative potential of patient&#x02010;derived stem cells in the context of HF. CHART&#x02010;1 is a late&#x02010;phase, randomized study designed to establish the efficacy and safety of autologous cardiopoietic stem cells in the treatment of chronic ischaemic HF. In utilizing cardiac lineage&#x02010;directed cells and a delivery catheter featuring increased tissue retention, CHART&#x02010;1 will serve as the foundation for a global CHART programme.</p><sec id="ejhf434-sec-0015"><title>Funding</title><p id="ejhf434-para-0037">The CHART&#x02010;1 study is sponsored by Celyad S.A. The authors acknowledge the support by the Cardiovascular Center Aalst, the Mayo Clinic Center for Regenerative Medicine, the Marriott Foundation, the Michael S. and Mary Sue Shannon Family, and the Russ and Kathy VanCleve Foundation.</p><p id="ejhf434-para-0038">
+<bold>Conflict of interest:</bold> J.B. is a member of an institution which is a shareholder of Celyad S.A. B.D. and G.C. are employees of Momentum Research Inc., which has provided consulting services to NovaCardia, Merck, Corthera, Novartis, Singulex, ChanRx, Laguna, Sorbent Therapeutics, Celyad S.A., Trevena, Amgen, and Anexon. W.S. is employed as Chief Medical Officer by and has stock options in Celyad S.A. T.P. is an employee of Duke Clinical Research Institute, which has received research funding from Celyad S.A. and Baxter Healthcare; and has consulting or advisory agreements with Capricor Inc. and Pluristem. R.H. is scientific co&#x02010;founder of and has equity in Celladon Corp. T.H. is on the Steering Committee of or is the Principal Investigator for studies conducted by Aastrom, Mesoblast, Capricor, Cytori, and the US National Institutes of Health. B.G. has no conflicts related to this paper. Unrelated activities: member of the Data Safety Monitoring Board for the RENEW study (sponsor: Baxter, Inc.) and NCT02032004 (sponsor TEVA Pharmaceuticals) both without financial financial or other remuneration. G.F. is a member of Committees or Principal Investigator of trials sponsored by Celyad S.A., Vifor, Bayer, Novartis, and the European Union, including CHART&#x02010;1 and CHART&#x02010;2. M.M. has received consulting incomes from Bayer, Novartis, and Servier, and honoraria for speeches from Abbott Vascular. A.B. received Mayo Clinic&#x02010;administered research grants from. The Mayo Clinic has rights to future royalties from Celyad S.A. C.H. is employed as Chief Executive Officer by and is a founder of and shareholder in Celyad S.A. M.T. has participated in research grants on cell therapy from the EU Horizon 2020 programme and from the Polish National Center for Research and Development and National Center for Science. Unrelated to study topic: Servier and Bayer, consulting fees and honoraria, lecture fees; Amgen, consulting fees. W.W. has received Institutional research grants from pharmaceutical (AstraZeneca, Therabel) and device (AbbottVascular, Biosensors, Biotronik, Boston Scientific, Cordis, Medtronic, Orbus Neich, St Jude, Terumo, Tryton) companies, and is a shareholder and non&#x02010;executive board member of Argonauts, Genae, and Celyad S.A. A.T. has received Mayo Clinic&#x02010;administered research grants from Celyad S.A. The Mayo Clinic has rights to future royalties from Celyad S.A.</p></sec></sec></body><back><ref-list content-type="cited-references" id="ejhf434-bibl-0001"><title>References</title><ref id="ejhf434-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ejhf434-cit-0001">
+<string-name>
+<surname>Mozaffarian</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Go</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Arnett</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Blaha</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Cushman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>de Ferranti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Despr&#x000e9;s</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fullerton</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Howard</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name>
+<surname>Huffman</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Judd</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Kissela</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Lackland</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Lichtman</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Lisabeth</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mackey</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Matchar</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>McGuire</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Mohler</surname>
+<given-names>ER</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name>
+<surname>Moy</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Muntner</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mussolino</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Nasir</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Neumar</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Nichol</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Palaniappan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pandey</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Reeves</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Sorlie</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Towfighi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Turan</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name>
+<surname>Virani</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Willey</surname>
+<given-names>JZ</given-names>
+</string-name>, <string-name>
+<surname>Woo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Yeh</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>
+<given-names>MB</given-names>
+</string-name>. <article-title>Heart Disease and Stroke Statistics&#x02014;2015 update: a report from the American Heart Association</article-title>. <source>Circulation</source>
+<year>2015</year>;<volume>131</volume>:<fpage>e29</fpage>&#x02013;<lpage>e322</lpage>.<pub-id pub-id-type="pmid">25520374</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ejhf434-cit-0002">
+<string-name>
+<surname>Braunwald</surname>
+<given-names>E.</given-names>
+</string-name>
+<article-title>The war against heart failure; the Lancet lecture</article-title>. <source>Lancet</source>
+<year>2014</year>;<volume>385</volume>:<fpage>812</fpage>&#x02013;<lpage>824</lpage>.<pub-id pub-id-type="pmid">25467564</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ejhf434-cit-0003">
+<string-name>
+<surname>Bartunek</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Vanderheyden</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Terzic</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Cells as biologics for cardiac repair in ischaemic heart failure</article-title>. <source>Heart</source>
+<year>2010</year>;<volume>96</volume>:<fpage>792</fpage>&#x02013;<lpage>800</lpage>.<pub-id pub-id-type="pmid">20448133</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ejhf434-cit-0004">
+<string-name>
+<surname>Lin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Pu</surname>
+<given-names>WT</given-names>
+</string-name>. <article-title>Strategies for cardiac regeneration and repair</article-title>. <source>Sci Transl Med</source>
+<year>2014</year>;<volume>6</volume>:239rv1.</mixed-citation></ref><ref id="ejhf434-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ejhf434-cit-0005">
+<string-name>
+<surname>Sanganalmath</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Bolli</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Cell therapy for heart failure: a comprehensive overview of experimental and clinical studies, current challenges, and future directions</article-title>. <source>Circ Res</source>
+<year>2013</year>;<volume>113</volume>:<fpage>810</fpage>&#x02013;<lpage>834</lpage>.<pub-id pub-id-type="pmid">23989721</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ejhf434-cit-0006">
+<string-name>
+<surname>Telukuntla</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Suncion</surname>
+<given-names>VY</given-names>
+</string-name>, <string-name>
+<surname>Schulman</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name>
+<surname>Hare</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>The advancing field of cell&#x02010;based therapy: insights and lessons from clinical trials</article-title>. <source>J Am Heart Assoc</source>
+<year>2013</year>;<volume>2</volume>:e000338.</mixed-citation></ref><ref id="ejhf434-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ejhf434-cit-0007">
+<string-name>
+<surname>Menasch&#x000e9;</surname>
+<given-names>P.</given-names>
+</string-name>
+<article-title>Stem cells in the management of advanced heart failure</article-title>. <source>Curr Opin Cardiol</source>
+<year>2015</year>;<volume>30</volume>:<fpage>179</fpage>&#x02013;<lpage>185</lpage>.</mixed-citation></ref><ref id="ejhf434-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ejhf434-cit-0008">
+<string-name>
+<surname>Terzic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Behfar</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Regenerative heart failure therapy headed for optimization</article-title>. <source>Eur Heart J.</source>
+<year>2014</year>;<volume>35</volume>:<fpage>1231</fpage>&#x02013;<lpage>1234</lpage>.<pub-id pub-id-type="pmid">24670713</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ejhf434-cit-0009">
+<string-name>
+<surname>Jeevanantham</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Saad</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Abdel&#x02010;Latif</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zuba&#x02010;Surma</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name>
+<surname>Dawn</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Adult bone marrow cell therapy improves survival and induces long&#x02010;term improvement in cardiac parameters: a systematic review and meta&#x02010;analysis</article-title>. <source>Circulation.</source>
+<year>2012</year>;<volume>126</volume>:<fpage>551</fpage>&#x02013;<lpage>568</lpage>.<pub-id pub-id-type="pmid">22730444</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ejhf434-cit-0010">
+<string-name>
+<surname>Fisher</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Brunskill</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Doree</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mathur</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Taggart</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Martin&#x02010;Rendon</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Stem cell therapy for chronic ischaemic heart disease and congestive heart failure</article-title>. <source>Cochrane Database Syst Rev</source>
+<year>2014</year>;<volume>4</volume>:CD007888.</mixed-citation></ref><ref id="ejhf434-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ejhf434-cit-0011">
+<string-name>
+<surname>Behfar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Crespo&#x02010;Diaz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Terzic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gersh</surname>
+<given-names>BJ</given-names>
+</string-name>. <article-title>Cell therapy for cardiac repair: lessons from clinical trials</article-title>. <source>Nat Rev Cardiol</source>
+<year>2014</year>;<volume>11</volume>:<fpage>232</fpage>&#x02013;<lpage>246</lpage>.<pub-id pub-id-type="pmid">24594893</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ejhf434-cit-0012">
+<string-name>
+<surname>Cogle</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Wise</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Meacham</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Zierold</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Traverse</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Henry</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Perin</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Willerson</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Ellis</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Carlson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>DX</given-names>
+</string-name>, <string-name>
+<surname>Bolli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cooke</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Anwaruddin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bhatnagar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>da Graca</surname>
+<given-names>Cabreira&#x02010;Hansen M</given-names>
+</string-name>, <string-name>
+<surname>Grant</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Moy&#x000e9;</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ebert</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Olson</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Sayre</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Schulman</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name>
+<surname>Bosse</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name>
+<surname>Simari</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Pepine</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>DA</given-names>
+</string-name>; <collab collab-type="authors" id="ejhf434-gp-0001">Cardiovascular Cell Therapy Research Network (CCTRN)</collab>
+. <article-title>Detailed analysis of bone marrow from patients with ischemic heart disease and left ventricular dysfunction: BM CD34, CD11b, and clonogenic capacity as biomarkers for clinical outcomes</article-title>. <source>Circ Res</source>
+<year>2014</year>;<volume>115</volume>:<fpage>867</fpage>&#x02013;<lpage>874</lpage>.<pub-id pub-id-type="pmid">25136078</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ejhf434-cit-0013">
+<string-name>
+<surname>Behfar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Terzic</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Stem cells versus senescence: the yin and yang of cardiac health</article-title>. <source>J Am Coll Cardiol</source>
+<year>2015</year>;<volume>65</volume>:<fpage>148</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">25593055</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ejhf434-cit-0014">
+<string-name>
+<surname>Behfar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Terzic</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Stem cell in the rough: repair quotient mined out of a bone marrow niche</article-title>. <source>Circ Res</source>
+<year>2014</year>;<volume>115</volume>:<fpage>814</fpage>&#x02013;<lpage>816</lpage>.<pub-id pub-id-type="pmid">25342767</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ejhf434-cit-0015">
+<string-name>
+<surname>Behfar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yamada</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Crespo&#x02010;Diaz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nesbitt</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Rowe</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Perez&#x02010;Terzic</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gaussin</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Homsy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bartunek</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Terzic</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Guided cardiopoiesis enhances therapeutic benefit of bone marrow human mesenchymal stem cells in chronic myocardial infarction</article-title>. <source>J Am Coll Cardiol</source>
+<year>2010</year>;<volume>56</volume>:<fpage>721</fpage>&#x02013;<lpage>734</lpage>.<pub-id pub-id-type="pmid">20723802</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ejhf434-cit-0016">
+<string-name>
+<surname>Bartunek</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Behfar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dolatabadi</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Vanderheyden</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ostojic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dens</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>El Nakadi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Banovic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Beleslin</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Vrolix</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Legrand</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Vrints</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vanoverschelde</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Crespo&#x02010;Diaz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Homsy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tendera</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Waldman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wijns</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Terzic</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Cardiopoietic stem cell therapy in heart failure: the C&#x02010;CURE (Cardiopoietic stem Cell therapy in heart failURE) multicenter randomized trial with lineage&#x02010;specified biologics</article-title>. <source>J Am Coll Cardiol</source>
+<year>2013</year>;<volume>61</volume>:<fpage>2329</fpage>&#x02013;<lpage>2338</lpage>.<pub-id pub-id-type="pmid">23583246</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ejhf434-cit-0017">
+<string-name>
+<surname>Packer</surname>
+<given-names>M.</given-names>
+</string-name>
+<article-title>Proposal for a new clinical end point to evaluate the efficacy of drugs and devices in the treatment of chronic heart failure</article-title>. <source>J Card Fail</source>
+<year>2001</year>;<volume>7</volume>:<fpage>176</fpage>&#x02013;<lpage>182</lpage>.<pub-id pub-id-type="pmid">11420770</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ejhf434-cit-0018">
+<string-name>
+<surname>Finkelstein</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Schoenfeld</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Combining mortality and longitudinal measures in clinical trials</article-title>. <source>Stat Med</source>
+<year>1999</year>;<volume>18</volume>:<fpage>1341</fpage>&#x02013;<lpage>1354</lpage>.<pub-id pub-id-type="pmid">10399200</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ejhf434-cit-0019">
+<string-name>
+<surname>Rector</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Cohn</surname>
+<given-names>JN</given-names>
+</string-name>. <article-title>Assessment of patient outcome with the Minnesota Living With Heart Failure Questionnaire: reliability and validity during a randomized, double&#x02010;blind, placebo&#x02010;controlled trial of pimobendan. Pimobendan multicenter research group</article-title>. <source>Am Heart J</source>
+<year>1992</year>;<volume>124</volume>:<fpage>1017</fpage>&#x02013;<lpage>1025</lpage>.<pub-id pub-id-type="pmid">1529875</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ejhf434-cit-0020">
+<string-name>
+<surname>Behfar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Latere</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Bartunek</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Homsy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Daro</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Crespo&#x02010;Diaz</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Stalboerger</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Steenwinckel</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Seron</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Redfield</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Terzic</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Optimized delivery system achieves enhanced endomyocardial stem cell retention</article-title>. <source>Circ Cardiovasc Interv</source>
+<year>2013</year>;<volume>6</volume>:<fpage>710</fpage>&#x02013;<lpage>718</lpage>.<pub-id pub-id-type="pmid">24326777</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ejhf434-cit-0021">
+<string-name>
+<surname>Cerqueira</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Weissman</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Dilsizian</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Kaul</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Laskey</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Pennell</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Rumberger</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Verani</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart: a statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association</article-title>. <source>Circulation</source>
+<year>2002</year>;<volume>105</volume>:<fpage>539</fpage>&#x02013;<lpage>5422</lpage>.<pub-id pub-id-type="pmid">11815441</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ejhf434-cit-0022">
+<string-name>
+<surname>Povsic</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>O'Connor</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Henry</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Taussig</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kereiakes</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Fortuin</surname>
+<given-names>FD</given-names>
+</string-name>, <string-name>
+<surname>Niederman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schatz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Spencer</surname>
+<given-names>Rt</given-names>
+</string-name>, <string-name>
+<surname>Owens</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Banks</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Joseph</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Sherman</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>A double&#x02010;blind, randomized, controlled, multicenter study to assess the safety and cardiovascular effects of skeletal myoblast implantation by catheter delivery in patients with chronic heart failure after myocardial infarction</article-title>. <source>Am Heart J</source>
+<year>2011</year>;<volume>162</volume>:<fpage>654</fpage>&#x02013;<lpage>662</lpage>.<pub-id pub-id-type="pmid">21982657</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ejhf434-cit-0023">
+<string-name>
+<surname>Kastrup</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jorgensen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ruck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tagil</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Glogar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ruzyllo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Botker</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Dudek</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Drvota</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Hesse</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Thuesen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Blomberg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gyongyosi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sylven</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Direct intramyocardial plasmid vascular endothelial growth factor&#x02010;a165 gene therapy in patients with stable severe angina pectoris: a randomized double&#x02010;blind placebo&#x02010;controlled study&#x02014;The Euroinject One trial</article-title>. <source>J Am Coll Cardiol</source>
+<year>2005</year>;<volume>45</volume>:<fpage>982</fpage>&#x02013;<lpage>988</lpage>.<pub-id pub-id-type="pmid">15808751</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ejhf434-cit-0024">
+<string-name>
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Kandzari</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>O'Neill</surname>
+<given-names>WW</given-names>
+</string-name>, <string-name>
+<surname>D'Agostino</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Flack</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Katzen</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name>
+<surname>Leon</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mauri</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Negoita</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Oparil</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rocha&#x02010;Singh</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Townsend</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Bakris</surname>
+<given-names>GL</given-names>
+</string-name>. <article-title>A controlled trial of renal denervation for resistant hypertension</article-title>. <source>N Engl J Med</source>
+<year>2014</year>;<volume>370</volume>:<fpage>1393</fpage>&#x02013;<lpage>1401</lpage>.<pub-id pub-id-type="pmid">24678939</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ejhf434-cit-0025">
+<string-name>
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Stough</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Pi&#x000f1;a</surname>
+<given-names>IL</given-names>
+</string-name>, <string-name>
+<surname>Mehran</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Abraham</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>De Ferrari</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Farb</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Geller</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Kieval</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Linde</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Redberg</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Vincent</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Woehrle</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Pocock</surname>
+<given-names>SJ</given-names>
+</string-name>. <article-title>Current challenges for clinical trials of cardiovascular medical devices</article-title>. <source>Int J Cardiol</source>
+<year>2014</year>;<volume>175</volume>:<fpage>30</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">24861254</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ejhf434-cit-0026">
+<string-name>
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Armstrong</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Calvo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cleland</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Cohn</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Dickstein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Domanski</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ekman</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Filippatos</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Gheorghiade</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Jaarsma</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Koglin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Konstam</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kupfer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Mebazaa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Metra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nowack</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pieske</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Pina</surname>
+<given-names>IL</given-names>
+</string-name>, <string-name>
+<surname>Pocock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rosano</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ruilope</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Ruschitzka</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Severin</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Solomon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Stockbridge</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Stough</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tavazzi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Voors</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Wasserman</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Woehrle</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zalewski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Clinical outcome endpoints in heart failure trials: a European Society of Cardiology Heart Failure Association consensus document</article-title>. <source>Eur J Heart Fail</source>
+<year>2013</year>;<volume>15</volume>:<fpage>1082</fpage>&#x02013;<lpage>1094</lpage>.<pub-id pub-id-type="pmid">23787718</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ejhf434-cit-0027">
+<string-name>
+<surname>Alla</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Briancon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Guillemin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Juilliere</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mertes</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Villemot</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Self&#x02010;rating of quality of life provides additional prognostic information in heart failure. Insights into the Epical study</article-title>. <source>Eur J Heart Fail</source>
+<year>2002</year>;<volume>4</volume>:<fpage>337</fpage>&#x02013;<lpage>343</lpage>.<pub-id pub-id-type="pmid">12034160</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ejhf434-cit-0028">
+<string-name>
+<surname>Bristow</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Saxon</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Boehmer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Krueger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kass</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>De Marco</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Carson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>DiCarlo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>DeMets</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>DeVries</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Cardiac&#x02010;resynchronization therapy with or without an implantable defibrillator in advanced chronic heart failure</article-title>. <source>N Engl J Med</source>
+<year>2004</year>;<volume>350</volume>:<fpage>2140</fpage>&#x02013;<lpage>2150</lpage>.<pub-id pub-id-type="pmid">15152059</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ejhf434-cit-0029">
+<string-name>
+<surname>Bellenger</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Francis</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Coats</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Pennell</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Reduction in sample size for studies of remodeling in heart failure by the use of cardiovascular magnetic resonance</article-title>. <source>J Cardiovasc Magn Res</source>
+<year>2000</year>;<volume>2</volume>:<fpage>271</fpage>&#x02013;<lpage>278</lpage>.</mixed-citation></ref><ref id="ejhf434-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ejhf434-cit-0030">
+<string-name>
+<surname>Lefevre</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kappetein</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Wolner</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Nataf</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schachinger</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>De Bruyne</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Eltchaninoff</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Thielmann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Himbert</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Romano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Serruys</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wimmer&#x02010;Greinecker</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>One year follow&#x02010;up of the multi&#x02010;centre European Partner Transcatheter Heart Valve study</article-title>. <source>Eur Heart J</source>
+<year>2011</year>;<volume>32</volume>:<fpage>148</fpage>&#x02013;<lpage>157</lpage>.<pub-id pub-id-type="pmid">21075775</pub-id></mixed-citation></ref><ref id="ejhf434-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="ejhf434-cit-0031">
+<string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Agewall</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Borggrefe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Calvert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jaime Caro</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cowie</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Paty</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Riley</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tavazzi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wiklund</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kirchhof</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>The importance of patient&#x02010;reported outcomes: a call for their comprehensive integration in cardiovascular clinical trials</article-title>. <source>Eur Heart J</source>
+<year>2014</year>;<volume>35</volume>:<fpage>2001</fpage>&#x02013;<lpage>2009</lpage>.<pub-id pub-id-type="pmid">24904027</pub-id></mixed-citation></ref></ref-list><app-group><app id="ejhf434-app-0001" content-type="Appendix 1"><title>Study Committees</title><sec id="ejhf434-sec-0016"><p id="ejhf434-para-0039">
+<italic>Steering Committee</italic>: Andre Terzic, MD, PhD, Rochester, MN, USA; Jozef Bartunek, MD, PhD, Aalst, Belgium; Roger Hajjar, PhD; Guy Heyndrickx, MD, PhD, Christian Homsy, MD, Timothy Henry, MD, Thomas Povsic, MD, PhD, Marco Metra, MD, PhD, Warren Sherman, MD, Michal Tendera, MD, PhD, William Wijns, MD, PhD.</p><p id="ejhf434-para-0040">
+<italic>Clinical Events Committee</italic>: John R. Teerlink, MD, San Francisco, CA, USA, Chair; Tom De Potter, MD, Aalst, Belgium; Jeffrey Zimmet, MD, PhD, San Francisco, CA, USA; Gert&#x02010;Jan Laarman, MD, Tilburg, The Netherlands (peri&#x02010;procedural event adjudication)</p><p id="ejhf434-para-0041">
+<italic>Data Safety Monitoring Committee</italic>: Scott Waldman, MD, PhD, Philadelphia, PA, USA, Chair; Jan Tijssen, MD, Amsterdam, The Netherlands; Adriaan A. Voors, MD, PhD, Gronigen, The Netherlands; Cecilia Linde, MD, Stockholm, Sweden.</p></sec></app></app-group></back></article>

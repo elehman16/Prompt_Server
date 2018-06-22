@@ -1,0 +1,831 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28275066</article-id><article-id pub-id-type="pmc">5524016</article-id><article-id pub-id-type="doi">10.1161/JAHA.116.004853</article-id><article-id pub-id-type="publisher-id">JAH32108</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Arrhythmia and Electrophysiology</subject></subj-group></subj-group></article-categories><title-group><article-title>Cardioversion Efficacy Using Pulsed Biphasic or Biphasic Truncated Exponential Waveforms: A Randomized Clinical Trial</article-title><alt-title alt-title-type="left-running-head">Schmidt et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah32108-cr-0001" contrib-type="author"><name><surname>Schmidt</surname><given-names>Anders S.</given-names></name><degrees>MB</degrees><xref ref-type="aff" rid="jah32108-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah32108-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jah32108-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jah32108-cr-0002" contrib-type="author"><name><surname>Lauridsen</surname><given-names>Kasper G.</given-names></name><degrees>MB</degrees><xref ref-type="aff" rid="jah32108-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah32108-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jah32108-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jah32108-cr-0003" contrib-type="author"><name><surname>Adelborg</surname><given-names>Kasper</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah32108-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jah32108-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="jah32108-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="jah32108-cr-0004" contrib-type="author"><name><surname>Torp</surname><given-names>Peter</given-names></name><degrees>RN</degrees><xref ref-type="aff" rid="jah32108-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32108-cr-0005" contrib-type="author"><name><surname>Bach</surname><given-names>Leif F.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah32108-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah32108-cr-0006" contrib-type="author"><name><surname>Jepsen</surname><given-names>Simon M.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah32108-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah32108-cr-0007" contrib-type="author"><name><surname>Hornung</surname><given-names>Nete</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32108-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah32108-cr-0008" contrib-type="author"><name><surname>Deakin</surname><given-names>Charles D.</given-names></name><degrees>MA, MD, FRCP, FRCA, FERC, FFICM</degrees><xref ref-type="aff" rid="jah32108-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="jah32108-cr-0009" contrib-type="author"><name><surname>Rickers</surname><given-names>Hans</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah32108-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32108-cr-0010" contrib-type="author" corresp="yes"><name><surname>L&#x000f8;fgren</surname><given-names>Bo</given-names></name><degrees>MD, PhD</degrees><address><email>bl@clin.au.dk</email></address><xref ref-type="aff" rid="jah32108-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jah32108-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="jah32108-aff-0009">
+<sup>9</sup>
+</xref></contrib></contrib-group><aff id="jah32108-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Clinical Research Unit</named-content>
+<institution>Regional Hospital of Randers</institution>
+<named-content content-type="city">Randers NE</named-content>
+<country country="DK">Denmark</country>
+</aff><aff id="jah32108-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>Regional Hospital of Randers</institution>
+<named-content content-type="city">Randers NE</named-content>
+<country country="DK">Denmark</country>
+</aff><aff id="jah32108-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Anesthesiology</named-content>
+<institution>Regional Hospital of Randers</institution>
+<named-content content-type="city">Randers NE</named-content>
+<country country="DK">Denmark</country>
+</aff><aff id="jah32108-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Clinical Biochemistry</named-content>
+<institution>Regional Hospital of Randers</institution>
+<named-content content-type="city">Randers NE</named-content>
+<country country="DK">Denmark</country>
+</aff><aff id="jah32108-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Research Center for Emergency Medicine</named-content>
+<institution>Aarhus University Hospital</institution>
+<named-content content-type="city">Aarhus</named-content>
+<country country="DK">Denmark</country>
+</aff><aff id="jah32108-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Clinical Epidemiology</named-content>
+<institution>Aarhus University Hospital</institution>
+<named-content content-type="city">Aarhus</named-content>
+<country country="DK">Denmark</country>
+</aff><aff id="jah32108-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Aarhus University Hospital</institution>
+<named-content content-type="city">Aarhus</named-content>
+<country country="DK">Denmark</country>
+</aff><aff id="jah32108-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">NIHR Southampton Respiratory Biomedical Research Unit</named-content>
+<institution>University Hospital Southampton NHS Foundation Trust</institution>
+<named-content content-type="city">Southampton</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="jah32108-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Department of Clinical Medicine</named-content>
+<institution>Aarhus University</institution>
+<named-content content-type="city">Aarhus</named-content>
+<country country="DK">Denmark</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Bo L&#x000f8;fgren, MD, PhD, Department of Internal Medicine, Regional Hospital of Randers, Skovlyvej 15, 8930 Randers NE, Denmark. E&#x02010;mail: <email>bl@clin.au.dk</email></corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>3</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2017</year></pub-date><volume>6</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/jah3.2017.6.issue-3</issue-id><elocation-id>e004853</elocation-id><history><date date-type="received"><day>14</day><month>10</month><year>2016</year></date><date date-type="accepted"><day>09</day><month>2</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-6-e004853.pdf"/><abstract id="jah32108-abs-0001"><sec id="jah32108-sec-0001"><title>Background</title><p>Several different defibrillators are currently used for cardioversion and defibrillation of cardiac arrhythmias. The efficacy of a novel pulsed biphasic (<styled-content style="fixed-case">PB</styled-content>) waveform has not been compared to other biphasic waveforms. Accordingly, this study aims to compare the efficacy and safety of <styled-content style="fixed-case">PB</styled-content> shocks with biphasic truncated exponential (<styled-content style="fixed-case">BTE</styled-content>) shocks in patients undergoing cardioversion of atrial fibrillation or &#x02010;flutter.</p></sec><sec id="jah32108-sec-0002"><title>Methods and Results</title><p>This prospective, randomized study included patients admitted for elective direct current cardioversion. Patients were randomized to receive cardioversion using either <styled-content style="fixed-case">PB</styled-content> or <styled-content style="fixed-case">BTE</styled-content> shocks. We used escalating shocks until sinus rhythm was obtained or to a maximum of 4 shocks. Patients randomized to <styled-content style="fixed-case">PB</styled-content> shocks received 90, 120, 150, and 200&#x000a0;J and patients randomized to <styled-content style="fixed-case">BTE</styled-content> shocks received 100, 150, 200, and 250&#x000a0;J, as recommended by the manufacturers. In total, 69 patients (51%) received <styled-content style="fixed-case">PB</styled-content> shocks and 65 patients (49%) <styled-content style="fixed-case">BTE</styled-content> shocks. Successful cardioversion, defined as sinus rhythm 4&#x000a0;hours after cardioversion, was achieved in 43 patients (62%) using <styled-content style="fixed-case">PB</styled-content> shocks and in 56 patients (86%) using <styled-content style="fixed-case">BTE</styled-content> shocks; ratio 1.4 (95% CI 1.1&#x02013;1.7) (<italic>P</italic>=0.002). There was no difference in safety (ie, myocardial injury judged by changes in high&#x02010;sensitive troponin I levels; ratio 1.1) (95% CI 1.0&#x02013;1.3), <italic>P</italic>=0.15. The study was terminated prematurely because of an adverse event.</p></sec><sec id="jah32108-sec-0003"><title>Conclusions</title><p>Cardioversion using a <styled-content style="fixed-case">BTE</styled-content> waveform was more effective when compared with a <styled-content style="fixed-case">PB</styled-content> waveform. There was no difference in safety between the 2 waveforms, as judged by changes in troponin I levels.</p></sec><sec id="jah32108-sec-0004"><title>Clinical Trial Registration</title><p>
+<styled-content style="fixed-case">URL</styled-content>: <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">http://www.clinicaltrials.gov</ext-link>. Unique identifier: <styled-content style="fixed-case">NCT</styled-content>02317029.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah32108-kwd-0001">atrial fibrillation</kwd><kwd id="jah32108-kwd-0002">biphasic waveforms</kwd><kwd id="jah32108-kwd-0003">cardioversion</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Catheter Ablation and Implantable Cardioverter-Defibrillator</kwd></kwd-group><funding-group><award-group><funding-source>Regional Hospital of Randers</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Marie de Lancy Pedersen's Foundation</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="14"/><word-count count="5894"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah32108</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.3 mode:remove_FC converted:11.07.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah32108-cit-1001">(<source>J Am Heart Assoc</source>. <year>2017</year>;<volume>6</volume>:e004853. DOI: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.116.004853">10.1161/JAHA.116.004853</ext-link>.)</mixed-citation>
+</p></notes></front><body><sec id="jah32108-sec-0005"><title>Introduction</title><p>Atrial fibrillation (AF) is the most common cardiac arrhythmia and affects millions of people worldwide.<xref rid="jah32108-bib-0001" ref-type="ref">1</xref> To reduce symptoms and prevent disease progression, direct current cardioversion is a widely used procedure for patients with AF.<xref rid="jah32108-bib-0002" ref-type="ref">2</xref> During the past decades, biphasic waveforms have proven superior to monophasic waveforms for cardioversion of supraventricular tachycardia in several randomized studies.<xref rid="jah32108-bib-0003" ref-type="ref">3</xref>, <xref rid="jah32108-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32108-bib-0005" ref-type="ref">5</xref>, <xref rid="jah32108-bib-0006" ref-type="ref">6</xref> In these studies, more patients were restored to sinus rhythm when receiving biphasic shocks compared with monophasic shocks, using less total delivered energy. Currently, several different biphasic waveforms are available in commercial defibrillators.</p><p>Recently, a new pulsed biphasic (PB) waveform was approved for direct current cardioversion and defibrillation.<xref rid="jah32108-bib-0007" ref-type="ref">7</xref> This waveform delivers a chopped modulation of a biphasic truncated exponential (BTE) waveform, where current is rapidly and repeatedly turned on and off. In a nonrandomized clinical study, this PB waveform was found to be more effective in cardioversion of AF or atrial flutter compared with a monophasic waveform.<xref rid="jah32108-bib-0008" ref-type="ref">8</xref> The PB waveform is designed to deliver a high peak and average current at low energy levels,<xref rid="jah32108-bib-0009" ref-type="ref">9</xref>, <xref rid="jah32108-bib-0010" ref-type="ref">10</xref> and it is hypothesized that the waveform can deliver high shock efficacy at low energy levels.<xref rid="jah32108-bib-0007" ref-type="ref">7</xref>, <xref rid="jah32108-bib-0011" ref-type="ref">11</xref>
+</p><p>To date, there are no clinical data on the efficacy of the impedance&#x02010;compensated (ie, adjusted to patient's chest impedance) PB waveform, which is currently in use for direct current cardioversion and defibrillation. Lately, international guidelines have identified an important knowledge gap on using the PB waveform, and state that clinical data are warranted.<xref rid="jah32108-bib-0012" ref-type="ref">12</xref> Because the PB waveform has never been compared to other biphasic waveforms in a randomized clinical study, we accordingly aimed to compare the cardioversion efficacy and safety of a PB waveform with a BTE waveform.</p></sec><sec id="jah32108-sec-0006"><title>Methods</title><sec id="jah32108-sec-0007"><title>Study Design and Setting</title><p>We conducted a prospective, randomized study using a 2&#x000d7;2 factorial design. The study randomized patients to cardioversion using either PB or BTE shocks and investigated the use of 100% oxygen versus room air during the cardioversion procedure. The study was conducted at the Regional Hospital of Randers, Denmark, in an outpatient clinic performing elective day case cardioversions of patients with AF or atrial flutter.</p></sec><sec id="jah32108-sec-0008"><title>Intervention</title><p>Patients were randomized to receive cardioversion using either PB shocks (Multipulse Biowave<sup>&#x000ae;</sup>, Schiller Defigard 5000, Schiller AG, Baar, Switzerland) or BTE shocks (LIFEPAK 20, Medtronic/Physio&#x02010;Control Inc., Redmond, WA). Both waveforms use impedance compensation, where the patient's impedance is measured by a sensing pulse prior to shock delivery. In addition, the PB waveform uses the impedance to calculate an appropriate pulse&#x02010;to&#x02010;pause ratio. Diagrams of the waveforms are presented in Figure&#x000a0;<xref rid="jah32108-fig-0001" ref-type="fig">1</xref>.</p><fig fig-type="Figure" xml:lang="en" id="jah32108-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Biphasic waveforms. A, Pulsed biphasic waveform. B, Biphasic truncated exponential waveform. The figure illustrates shock delivery in milliseconds (ms) against current in ampere (A). For comparison, both shocks are illustrated at 150&#x000a0;J with an impedance of 80&#x000a0;&#x003a9;.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-6-e004853-g001"/></fig><p>Patients were randomized using simple randomization with random numbers from 1 to 4 in sealed envelopes. Before cardioversion, the envelope was opened, assigning patients to 1 of the 4 treatment groups: (1) PB shocks and 100% oxygen, (2) PB shocks and room air, (3) BTE shocks and 100% oxygen, or (4) BTE shocks and room air.</p></sec><sec id="jah32108-sec-0009"><title>Study Population and Ethics</title><p>All patients admitted for elective cardioversion of AF or atrial flutter were eligible for inclusion. Patients were included at an elective visit 1 to 2&#x000a0;days before cardioversion. The exclusion criteria were age &#x0003c;18&#x000a0;years, pregnancy, untreated hyperthyroidism, or an oxygen saturation &#x0003c;92% and supraventricular arrhythmias other than AF or atrial flutter. All patients were required to be adequately anticoagulated or alternatively have undergone a recent transesophageal echocardiography documenting the absence of intracardiac thrombi.<xref rid="jah32108-bib-0013" ref-type="ref">13</xref>
+</p><p>Information on patient characteristics was obtained at the precardioversion check including the patient's height, weight, blood pressure, heart rate, oxygen saturation (on room air), and a 12&#x02010;lead ECG. Symptoms were assessed according to the European Heart Rhythm Association score of AF&#x02010;related symptoms.<xref rid="jah32108-bib-0013" ref-type="ref">13</xref> All data on medications and comorbidities were retrieved from the patient's medical records corresponding to the day before cardioversion.</p><p>Oral and written informed consent was obtained from all patients at the precardioversion visit. The study was conducted in accordance with national requirements and the principles of the Declaration of Helsinki. The study was approved by The National Committee on Health Research Ethics (no. 1&#x02010;10&#x02010;72&#x02010;150&#x02010;13) and the Danish Data Protection Agency (no. 1&#x02010;16&#x02010;02&#x02010;425&#x02010;13).</p></sec><sec id="jah32108-sec-0010"><title>End Points</title><p>The primary end point was successful cardioversion, defined as sinus rhythm 4&#x000a0;hours after cardioversion. Secondary end points included sinus rhythm 1&#x02010; and 30&#x000a0;minutes after cardioversion. The safety of the 2 defibrillators was evaluated by measuring high&#x02010;sensitive cardiac troponin I (Hs&#x02010;cTnI) before and 4&#x000a0;hours after cardioversion. Complications, in terms of cardioversion&#x02010;induced arrhythmias, were further assessed including cases of ventricular tachyarrhythmia, short&#x02010;duration asystole &#x0003c;20&#x000a0;s, and transient bradycardia &#x0003c;45&#x000a0;min<sup>&#x02212;1</sup>. Data were obtained from ECG recordings and telemetric surveillance. Furthermore, any other complications including skin burns were noted in the patient's journal by the treating nurse.</p></sec><sec id="jah32108-sec-0011"><title>Cardioversion Protocol</title><p>Cardioversion shocks were provided until sinus rhythm was restored or to a maximum of 4 shocks. The patients randomized to PB shocks received 90, 120, 150, and 200&#x000a0;J, and the patients randomized to BTE shocks received 100, 150, 200, and 250&#x000a0;J. We used these escalating shock protocols based on manufacturer's recommended settings.</p><p>Anesthesia was provided in a standardized fashion to patients using 1&#x000a0;mg intravenous propofol per kilogram body weight to a maximum dose of patient's height in centimeters minus 100&#x000a0;cm. Subsequent boluses of 20&#x000a0;mg were administered as required. During the procedure, patients were treated with either oxygen or room air to maintain oxygen saturations of 94% to 98%.</p><p>We used the defibrillator&#x02010;specific self&#x02010;adhesive wet polymer gel pads. All shocks were delivered unblinded using an anterior&#x02013;posterior pad position.<xref rid="jah32108-bib-0014" ref-type="ref">14</xref> The anterior pad was applied to the left of the sternum with the pad centrum at third intercostal space. The posterior pad was placed with the pad edge laterally to the spinal column on the lower part of the scapula. The defibrillators were switched to &#x0201c;R&#x0201d; wave synchronized mode.</p><p>One minute after last shock delivery and after 30&#x000a0;minutes, the cardiac rhythm was documented by obtaining a 12&#x02010;lead ECG. After 4&#x000a0;hours with continuous cardiac telemetric surveillance, another 12&#x02010;lead ECG was recorded.</p></sec><sec id="jah32108-sec-0012"><title>Blood Sampling and Biochemical Analysis</title><p>Blood samples were drawn from a venous catheter into lithium heparin tubes and centrifuged immediately at 344<italic>g</italic> for 15&#x000a0;minutes. High&#x02010;sensitive cardiac troponin I (hs&#x02010;cTnI) was analyzed in a DANAK ISO 15189 accredited laboratory using ARCHITECT STAT hs&#x02010;cTnI assay (Abbott Laboratories, Abbott Park, IL). The coefficient of variation was maximum 10% at the limit of quantification (10&#x000a0;ng/L).</p></sec><sec id="jah32108-sec-0013"><title>Statistical Analysis</title><p>In this study, we assumed a 15% difference in efficacy (ie, the proportion of patients in sinus rhythm 4&#x000a0;hours after cardioversion), corresponding to an efficacy of 95% for 1 of the waveforms, and 80% for the other waveform, as previously used.<xref rid="jah32108-bib-0015" ref-type="ref">15</xref> To achieve a power of 80% to detect this difference (ie, to reject the null hypothesis of no difference between the waveforms), a sample size of 75 patients in each group was needed. Normally distributed data were expressed as mean&#x000b1;SD, non&#x02010;normally distributed data were expressed as median (25&#x02010; and 75&#x02010;percentile), and categorical variables were expressed as numbers (percentages). We reported the primary and secondary end point as a ratio between treatment groups with 95% CIs. When comparing cardioversion success, we used the &#x003c7;<sup>2</sup> test or Fisher's exact test. We separately analyzed patients with AF and atrial flutter, and patients receiving and not receiving amiodarone. To evaluate the hs&#x02010;cTnI values and the assumptions behind the test, we used X&#x02010;Y plots, Q&#x02010;Q plots, and Bland&#x02013;Altman plots. The Bland&#x02013;Altman plots were performed separately for the 2 waveform groups using the hs&#x02010;cTnI values before and after cardioversion. The assumptions were met on logarithm transformed data. Accordingly, the hs&#x02010;cTnI values were transformed to the logarithmic scale, and differences were calculated. Subsequently, the differences on the logarithmic scale were transformed to the original scale, and consequently reported as a ratio of geometric means. The shock protocols were not completely identical, because of different available energy settings in each device, and the difference in success between the 2 waveforms was therefore further evaluated according to the energies used. Furthermore, we compared cardioversion success between patients treated with 100% oxygen and room air by binomial generalized linear models with a log link function including and excluding the additional intervention. Moreover, we tested for interaction between the 2 types of intervention. We used likelihood ratio tests for these models.</p><p>The graphical illustration was performed using Graph&#x02010;Pad Prism version 6 and for statistical computing, we used R statistical software, version 3.1.1.<xref rid="jah32108-bib-0016" ref-type="ref">16</xref>
+</p></sec></sec><sec id="jah32108-sec-0014"><title>Results</title><sec id="jah32108-sec-0015"><title>Patients</title><p>A total of 134 patients were enrolled between September 2013 and August 2014 (Figure&#x000a0;<xref rid="jah32108-fig-0002" ref-type="fig">2</xref>). Of these, 69 patients (51%) were randomized to cardioversion using PB shocks, and 65 patients (49%) to BTE shocks.</p><fig fig-type="Figure" xml:lang="en" id="jah32108-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The <styled-content style="fixed-case">CONSORT</styled-content> flow diagram showing patient treatment allocation and exclusions. <styled-content style="fixed-case">BTE</styled-content> indicates biphasic truncated exponential; CONSORT, Consolidated Standards of Reporting Trials; <styled-content style="fixed-case">PB</styled-content>, pulsed biphasic.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-6-e004853-g002"/></fig><p>Baseline characteristics of the 134 patients included are presented in Table&#x000a0;<xref rid="jah32108-tbl-0001" ref-type="table-wrap">1</xref>. The 2 treatment groups were balanced on patient's demographics, comorbidities, cardiac medications, vital parameters, laboratory data, and AF&#x02010;related symptoms, except that more patients in the BTE waveform group received amiodarone than patients in the PB waveform group. In total, 35 (50.7%) of patients randomized to PB shocks received 100% oxygen, and 32 (49.2%) of patients randomized to BTE shocks received 100% oxygen.</p><table-wrap id="jah32108-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of the 134 Patients Included by Treatment Groups</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Patient's Characteristics</th><th align="left" valign="top" rowspan="1" colspan="1">PB Waveform</th><th align="left" valign="top" rowspan="1" colspan="1">BTE Waveform</th></tr></thead><tbody><tr><td align="left" colspan="3" rowspan="1">Demographics</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No. of patients</td><td align="left" rowspan="1" colspan="1">69</td><td align="left" rowspan="1" colspan="1">65</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Age, y (mean&#x000b1;SD)</td><td align="left" rowspan="1" colspan="1">66&#x000b1;9</td><td align="left" rowspan="1" colspan="1">67&#x000b1;8</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Male (%)</td><td align="left" rowspan="1" colspan="1">51 (74)</td><td align="left" rowspan="1" colspan="1">51 (78)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Atrial flutter</td><td align="left" rowspan="1" colspan="1">9 (13)</td><td align="left" rowspan="1" colspan="1">9 (14)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">AF or &#x02010;flutter duration in months, median (quartiles)</td><td align="left" rowspan="1" colspan="1">3 (2; 9)</td><td align="left" rowspan="1" colspan="1">5 (2; 24)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Prior cardioversions, median (range)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02013;5)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02013;6)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Prior pulmonary vein ablation, median (range)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02013;3)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02013;1)</td></tr><tr><td align="left" colspan="3" rowspan="1">Comorbidities, %</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hypertension</td><td align="left" rowspan="1" colspan="1">51 (74)</td><td align="left" rowspan="1" colspan="1">51 (78)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Congestive heart failure</td><td align="left" rowspan="1" colspan="1">20 (29)</td><td align="left" rowspan="1" colspan="1">12 (19)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Valvular heart disease</td><td align="left" rowspan="1" colspan="1">3 (4)</td><td align="left" rowspan="1" colspan="1">7 (11)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Thyroid disease</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Prior stroke/transient ischemic attack</td><td align="left" rowspan="1" colspan="1">6 (9)</td><td align="left" rowspan="1" colspan="1">4 (6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Prior myocardial infarction</td><td align="left" rowspan="1" colspan="1">1 (1)</td><td align="left" rowspan="1" colspan="1">5 (8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ischemic heart disease</td><td align="left" rowspan="1" colspan="1">13 (19)</td><td align="left" rowspan="1" colspan="1">12 (18)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hyperlipidemia</td><td align="left" rowspan="1" colspan="1">29 (42)</td><td align="left" rowspan="1" colspan="1">28 (43)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Chronic obstructive pulmonary disease</td><td align="left" rowspan="1" colspan="1">2 (3)</td><td align="left" rowspan="1" colspan="1">5 (8)</td></tr><tr><td align="left" colspan="3" rowspan="1">Cardiac medication, %</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Amiodarone</td><td align="left" rowspan="1" colspan="1">6 (9)</td><td align="left" rowspan="1" colspan="1">18 (28)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Digoxin</td><td align="left" rowspan="1" colspan="1">14 (19)</td><td align="left" rowspan="1" colspan="1">18 (28)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Flecainide</td><td align="left" rowspan="1" colspan="1">1 (1)</td><td align="left" rowspan="1" colspan="1">1 (2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">ACE/angiotensin&#x02010;II blocker</td><td align="left" rowspan="1" colspan="1">44 (64)</td><td align="left" rowspan="1" colspan="1">40 (62)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x003b2;&#x02010;Blocker</td><td align="left" rowspan="1" colspan="1">57 (83)</td><td align="left" rowspan="1" colspan="1">53 (82)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Calcium antagonist</td><td align="left" rowspan="1" colspan="1">16 (23)</td><td align="left" rowspan="1" colspan="1">20 (31)</td></tr><tr><td align="left" colspan="3" rowspan="1">Vital parameters and laboratory data</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">29&#x000b1;6</td><td align="left" rowspan="1" colspan="1">30&#x000b1;6</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Systolic blood pressure, mm&#x000a0;Hg</td><td align="left" rowspan="1" colspan="1">136&#x000b1;17</td><td align="left" rowspan="1" colspan="1">135&#x000b1;21</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diastolic blood pressure, mm&#x000a0;Hg</td><td align="left" rowspan="1" colspan="1">82&#x000b1;14</td><td align="left" rowspan="1" colspan="1">80&#x000b1;13</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Heart rate before cardioversion, min<sup>&#x02212;1</sup>
+</td><td align="left" rowspan="1" colspan="1">80&#x000b1;20</td><td align="left" rowspan="1" colspan="1">80&#x000b1;18</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Estimated glomerular filtration rate</td><td align="left" rowspan="1" colspan="1">69&#x000b1;14</td><td align="left" rowspan="1" colspan="1">69&#x000b1;17</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hemoglobin, mmol/L</td><td align="left" rowspan="1" colspan="1">9.3&#x000b1;0.8</td><td align="left" rowspan="1" colspan="1">9.3&#x000b1;0.9</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Thyroid&#x02010;stimulating hormone (IU &#x000d7;10<sup>&#x02212;3</sup>/L)</td><td align="left" rowspan="1" colspan="1">1.57 (1.00; 2.59)</td><td align="left" rowspan="1" colspan="1">1.67 (0.99; 2.49)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Total propofol dose, mg</td><td align="left" rowspan="1" colspan="1">113&#x000b1;43</td><td align="left" rowspan="1" colspan="1">107&#x000b1;33</td></tr><tr><td align="left" colspan="3" rowspan="1">Patient's symptoms (EHRA score), %</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">31 (45)</td><td align="left" rowspan="1" colspan="1">26 (40)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1">31 (45)</td><td align="left" rowspan="1" colspan="1">29 (45)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III</td><td align="left" rowspan="1" colspan="1">7 (10)</td><td align="left" rowspan="1" colspan="1">10 (15)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">IV</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td></tr></tbody></table><table-wrap-foot><fn id="jah32108-note-0002"><p>ACE indicates angiotensin&#x02010;converting enzyme; AF, atrial fibrillation; BTE, biphasic truncated exponential; EHRA, European Heart Rhythm Association score of AF&#x02010;related symptoms; PB, pulsed biphasic.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah32108-sec-0016"><title>Shock Characteristics</title><p>In total, 192 PB shocks and 139 BTE shocks were delivered. The median (25&#x02010; and 75&#x02010;percentile) number of shocks delivered per patient was for the PB waveform 3 (1 and 4) and for the BTE waveform 2 (1 and 3). The corresponding median total energy delivered was for PB shocks 360&#x000a0;J (90 and 560&#x000a0;J) and for BTE shocks 250&#x000a0;J (100 and 450&#x000a0;J). The mean (&#x000b1;SD) transthoracic impedance at first shock was for PB shocks 73&#x000b1;14&#x000a0;&#x003a9; and for BTE shocks 72&#x000b1;15&#x000a0;&#x003a9;.</p></sec><sec id="jah32108-sec-0017"><title>End Points</title><p>The primary end point and secondary efficacy end points are presented in Table&#x000a0;<xref rid="jah32108-tbl-0002" ref-type="table-wrap">2</xref>. The subgroup analyses of the primary end point are presented in Table&#x000a0;<xref rid="jah32108-tbl-0003" ref-type="table-wrap">3</xref> (patient's characteristics of the subgroups can be found in Tables S1 and S2).</p><table-wrap id="jah32108-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>The Primary End Point and the Secondary Efficacy End Points on Successful Cardioversions, ie, the Proportion of Patients in Sinus Rhythm</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Successful Cardioversions</th><th align="left" valign="top" rowspan="1" colspan="1">PB Waveform</th><th align="left" valign="top" rowspan="1" colspan="1">BTE Waveform</th><th align="left" valign="top" rowspan="1" colspan="1">Ratio (95% CI)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" colspan="5" rowspan="1">Primary end point</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Sinus rhythm after 4&#x000a0;hours</td><td align="left" rowspan="1" colspan="1">43 (62)</td><td align="left" rowspan="1" colspan="1">56 (86)</td><td align="left" rowspan="1" colspan="1">1.4 (1.1&#x02013;1.7)</td><td align="left" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" colspan="5" rowspan="1">Secondary end points</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Sinus rhythm after 1&#x000a0;minute</td><td align="left" rowspan="1" colspan="1">46 (67)</td><td align="left" rowspan="1" colspan="1">58 (89)</td><td align="left" rowspan="1" colspan="1">1.3 (1.1&#x02013;1.6)</td><td align="left" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Sinus rhythm after 30&#x000a0;minutes</td><td align="left" rowspan="1" colspan="1">46 (67)</td><td align="left" rowspan="1" colspan="1">57 (88)</td><td align="left" rowspan="1" colspan="1">1.3 (1.1&#x02013;1.6)</td><td align="left" rowspan="1" colspan="1">0.004</td></tr></tbody></table><table-wrap-foot><fn id="jah32108-note-0003"><p>Data are numbers of successful cardioversions (%) and estimates are reported with their corresponding 95% CI. BTE indicates biphasic truncated exponential; PB, pulsed biphasic.</p></fn></table-wrap-foot></table-wrap><table-wrap id="jah32108-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Subgroup Analysis on the Primary End Point, ie, the Proportion of Patients in Sinus Rhythm After 4&#x000a0;Hours</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">PB Waveform</th><th align="left" valign="top" rowspan="1" colspan="1">BTE Waveform</th><th align="left" valign="top" rowspan="1" colspan="1">Ratio (95% CI)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" colspan="5" rowspan="1">Sinus rhythm after 4&#x000a0;hours</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Atrial fibrillation patients (n=116)</td><td align="left" rowspan="1" colspan="1">35 (58)</td><td align="left" rowspan="1" colspan="1">47 (84)</td><td align="left" rowspan="1" colspan="1">1.4 (1.1&#x02013;1.8)</td><td align="left" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Atrial flutter patients (n=18)</td><td align="left" rowspan="1" colspan="1">7 (77)</td><td align="left" rowspan="1" colspan="1">9 (100)</td><td align="left" rowspan="1" colspan="1">1.3 (0.9&#x02013;1.9)</td><td align="left" rowspan="1" colspan="1">0.13</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Patient receiving amiodarone (n=24)</td><td align="left" rowspan="1" colspan="1">2 (33)</td><td align="left" rowspan="1" colspan="1">16 (89)</td><td align="left" rowspan="1" colspan="1">2.7 (0.9&#x02013;8.4)</td><td align="left" rowspan="1" colspan="1">0.05</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Patients not receiving amiodarone (n=110)</td><td align="left" rowspan="1" colspan="1">40 (64)</td><td align="left" rowspan="1" colspan="1">40 (85)</td><td align="left" rowspan="1" colspan="1">1.4 (1.1&#x02013;1.7)</td><td align="left" rowspan="1" colspan="1">0.01</td></tr></tbody></table><table-wrap-foot><fn id="jah32108-note-0004"><p>Data are numbers of successful cardioversions (%) and estimates are reported with their corresponding 95% CI. BTE indicates biphasic truncated exponential; PB, pulsed biphasic.</p></fn></table-wrap-foot></table-wrap><p>The cumulative success rate at the different energy levels used is shown in Figure&#x000a0;<xref rid="jah32108-fig-0003" ref-type="fig">3</xref>. As shocks were delivered at 150 and 200&#x000a0;J for both waveforms, we compared cardioversion success at these energies. For 150&#x02010;J shocks, the PB waveform success rate was 26% and 40% for the BTE waveform (ratio; 1.5, 95% CI 0.8&#x02013;2.9, <italic>P</italic>=0.2). For shocks at 200&#x000a0;J, the PB shock success rate was 30% and 44% for the BTE waveform (ratio: 1.5, 95% CI 0.7&#x02013;3.0, <italic>P</italic>=0.3). There was no statistical difference in demographic data among patients in whom cardioversion was attempted at 150 and 200&#x000a0;J (data not shown). Moreover, we tested for interaction between the cardioversion efficacy of the 2 waveforms and the 100% oxygen/room air intervention. The interaction between the interventions was not significant (<italic>P</italic>=0.3) and, furthermore, there was no difference between 100% oxygen and room air on cardioversion efficacy either with (<italic>P</italic>=0.46) or without (<italic>P</italic>=0.84) adjustment for the waveform used.</p><fig fig-type="Figure" xml:lang="en" id="jah32108-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The figure shows the energy in joules (J) delivered (90&#x02013;250&#x000a0;J) against the cumulative cardioversion success of the 2 waveforms used. <styled-content style="fixed-case">BTE</styled-content> indicates biphasic truncated exponential; <styled-content style="fixed-case">PB</styled-content>, pulsed biphasic.</p></caption><graphic id="nlm-graphic-5" xlink:href="JAH3-6-e004853-g003"/></fig></sec><sec id="jah32108-sec-0018"><title>Defibrillator Safety</title><p>There was no difference in hs&#x02010;cTnI change between PB and BTE shocks; ratio 1.1 (95% CI, 1.0&#x02013;1.3, <italic>P</italic>=0.15). The overall risk of any complication following a cardioversion shock was for the PB waveform 7 cases out of 192 shocks (4%) and for BTE waveform 4 cases out of 139 shocks (3%); ratio 1.3 (95% CI, 0.4&#x02013;4.2, <italic>P</italic>=0.77). Two patients (3%) treated with PB shocks developed ventricular tachyarrhythmia immediately after cardioversion compared to none when using BTE shocks (see below). Periods of short&#x02010;duration asystole (all &#x0003c;20&#x000a0;s) were reported for 1 patient in the PB group (1%) and 2 patients (3%) in the BTE group. Transient bradycardia (&#x0003c;45&#x000a0;min<sup>&#x02212;1</sup>) was observed in 4 patients (6%) from the PB group and 2 patients (3%) from the BTE group. There were no observations of skin burns following cardioversion using either the pulsed or truncated exponential waveform during the study.</p></sec><sec id="jah32108-sec-0019"><title>Adverse Events</title><p>Because of a major adverse event, the study was terminated prematurely. The adverse event occurred in a 61&#x02010;year&#x02010;old male AF patient who was randomized to cardioversion using PB shocks. The patient had a history of hypertension and hypercholesterolemia, but without any history of structural heart disease or heart failure. The patient had a normal QT&#x02010;interval, plasma potassium, and creatinine levels within normal range, and did not receive any antiarrhythmic medication. A synchronized cardioversion shock of 90&#x000a0;J was delivered, and immediately after the patient developed sustained polymorphic ventricular tachycardia (Figure&#x000a0;<xref rid="jah32108-fig-0004" ref-type="fig">4</xref>). Three stacked shocks with the PB device did not result in successful defibrillation. After 8&#x000a0;minutes of advanced life support, including further repeated defibrillation attempts, the patient was switched to the BTE defibrillator and successfully defibrillated at first shock (300&#x000a0;J). After return of spontaneous circulation, the patient was transferred to an invasive cardiac center for acute angiography, showing no signs of coronary artery disease. The patient was treated with therapeutic hypothermia for 24&#x000a0;hours. Analysis of the rhythm strip printed by the defibrillator revealed that the intended synchronized cardioversion shock was delivered asynchronously (Figure&#x000a0;<xref rid="jah32108-fig-0004" ref-type="fig">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jah32108-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Rhythm strip printed out by the pulsed biphasic defibrillator (lead <styled-content style="fixed-case">II</styled-content>).</p></caption><graphic id="nlm-graphic-7" xlink:href="JAH3-6-e004853-g004"/></fig><p>Three months before this event, we experienced a case where a patient, after shock delivery, developed a short run of nonsustained ventricular tachycardia, which was rapidly converted with an additional shock. The rhythm strip revealed that a nonsynchronous shock had been administered. The physician who performed the cardioversion felt confident that the PB device was set to synchronized mode; however, the delivery of the asynchronous shock was at that time interpreted as caused by a human error.</p><p>Following these incidents, we became aware that the synchronization failure may have been attributable to an error in the PB device rather than human errors. Consequently, after the second case emerged, we tested the defibrillator's synchronization function in our animal laboratory, confirming that asynchronous shocks were delivered despite that the defibrillator was switched into synchronous mode.</p><p>The PB device was returned to the manufacturer for further analysis, confirming that an error in the device software caused the delivery of the asynchronous shock despite that the PB device was set in synchronous modus. All required reporting to national regulatory agencies and the manufacturer of the PB device was performed and subsequently a safety notice was published on the synchronization software failure.<xref rid="jah32108-bib-0017" ref-type="ref">17</xref>
+</p></sec></sec><sec id="jah32108-sec-0020"><title>Discussion</title><p>This is the first randomized clinical study comparing the efficacy of a PB waveform with a BTE waveform demonstrating a higher efficacy for BTE shocks compared with PB shocks in cardioverting AF. There was no difference in safety (ie, myocardial injury measured by changes in troponin I levels).</p><p>For every fourth patient cardioverted with BTE shocks, 1 patient would have failed cardioversion if the PB waveform had been used. This substantial amount of failed cardioversions when using PB shocks may have profound clinical implications. The &#x0201c;failed&#x0201d; patients suffered longer time in arrhythmia, may have to be readmitted for another cardioversion attempt, possibly prescribed a concomitant antiarrhythmic drug, or treated with rate control therapy.</p><p>The impedance&#x02010;compensated (ie, adjusted to differences in chest impedance) PB waveform, which is in clinical use, has not previously been compared to other waveforms. In cardioversion of atrial arrhythmias, a nonimpedance compensated PB waveform was more efficient than a monophasic waveform on the energy used to obtain sinus rhythm in patients with atrial arrhythmias.<xref rid="jah32108-bib-0008" ref-type="ref">8</xref> One study on 104 out&#x02010;of&#x02010;hospital cardiac arrest patients with shockable rhythm compared a nonimpedance compensated version of the PB waveform to a BTE waveform.<xref rid="jah32108-bib-0018" ref-type="ref">18</xref> The study reported similar defibrillation success rates for PB shocks (90.4%) and the BTE waveform (weighted average 91.8%).</p><p>Different versions of PB waveforms have been evaluated in animal studies using ventricular fibrillation pig models.<xref rid="jah32108-bib-0019" ref-type="ref">19</xref>, <xref rid="jah32108-bib-0020" ref-type="ref">20</xref> The studies found that the same energy levels were needed to terminate ventricular fibrillation using PB shocks compared to a rectilinear biphasic waveform,<xref rid="jah32108-bib-0019" ref-type="ref">19</xref> and more energy when compared to a BTE waveform.<xref rid="jah32108-bib-0020" ref-type="ref">20</xref> These findings are consistent with our study, where more energy was required to cardiovert when using PB shocks compared with BTE shocks.</p><p>Importantly, the success rate of BTE shocks in our study (89% 1&#x02010;minute postcardioversion and 86% at discharge) was in accordance with other studies. Accordingly, a study comparing BTE shocks to rectilinear biphasic shocks report a success rate of 91%,<xref rid="jah32108-bib-0015" ref-type="ref">15</xref> and similarly a success rate of 90% was found in a study comparing BTE shocks with monophasic shocks; both studies used a comparable shock energy protocol and end point (1&#x02010;minute postcardioversion).<xref rid="jah32108-bib-0006" ref-type="ref">6</xref> Furthermore, previous studies have compared other biphasic waveforms in cardioversion of AF and atrial flutter. A rectilinear waveform was compared to a BTE waveform, but no studies have reported a difference between these waveforms in cardioversion success.<xref rid="jah32108-bib-0015" ref-type="ref">15</xref>, <xref rid="jah32108-bib-0021" ref-type="ref">21</xref>, <xref rid="jah32108-bib-0022" ref-type="ref">22</xref>, <xref rid="jah32108-bib-0023" ref-type="ref">23</xref>
+</p><p>In this study, PB shocks were delivered up to the maximal energy output at 200&#x000a0;J allowed by the device. For BTE shocks, the maximum energy output used in this study was 250&#x000a0;J rather than the possible maximum 360&#x000a0;J. This was in order to not disadvantage the PB waveform and to allow a reasonable comparison between the 2 waveforms by maintaining parity in escalating energies between groups. Delivery of the BTE shocks at a maximal energy of 360&#x000a0;J may further increase the cardioversion success rate.</p><p>In this study, there was no difference in myocardial injury between waveforms and no changes in hs&#x02010;cTnI were observed regardless of waveform and energy used. These findings are in accordance with previous studies, showing no increase in troponin I following cardioversion.<xref rid="jah32108-bib-0021" ref-type="ref">21</xref>, <xref rid="jah32108-bib-0024" ref-type="ref">24</xref>, <xref rid="jah32108-bib-0025" ref-type="ref">25</xref>, <xref rid="jah32108-bib-0026" ref-type="ref">26</xref>, <xref rid="jah32108-bib-0027" ref-type="ref">27</xref>, <xref rid="jah32108-bib-0028" ref-type="ref">28</xref> In our study, the risk of postshock arrhythmias was low, although we did experience 2 cases of ventricular arrhythmia. The use of a low&#x02010;energy escalating protocol is currently recommended for cardioversion,<xref rid="jah32108-bib-0002" ref-type="ref">2</xref>, <xref rid="jah32108-bib-0013" ref-type="ref">13</xref> to minimize, eg, postcardioversion arrhythmias. However, a retrospective study reviewing 6398 cardioversion procedures found 5 cases of ventricular fibrillation, in which the energy selection was 50 to 100&#x000a0;J.<xref rid="jah32108-bib-0029" ref-type="ref">29</xref> The risk of inducing ventricular arrhythmia after cardioversion may be increased when using low&#x02010;energy shocks close to the defibrillation threshold, which correspond to the upper limit of vulnerability for inducing ventricular fibrillation.<xref rid="jah32108-bib-0030" ref-type="ref">30</xref> Furthermore, a study found a higher first shock success and no increase in postshock arrhythmias when using a fixed high&#x02010;energy biphasic shock protocol (200&#x000a0;J) compared with a low&#x02010;energy escalating shock protocol (100&#x02013;150&#x02013;200&#x000a0;J).<xref rid="jah32108-bib-0031" ref-type="ref">31</xref> Importantly, using higher energy selection for cardioversion may be considered to decrease the risk of induced ventricular arrhythmia, although the optimal shock energy protocol for biphasic cardioversion remains to be identified.</p><sec id="jah32108-sec-0021"><title>Limitations</title><p>Ideally, the PB and BTE waveforms should be tested within the same device using the same defibrillation electrodes and exactly identical shock protocols. Importantly, the results of this study reflect the clinical use of the equipment, using the available energy settings in each device, allowing a reasonable comparison of the 2 waveforms. The study was terminated earlier than expected, with 16 patients below the calculated sample size. However, the actual difference in cardioversion success was much higher than expected according to the sample size estimation. This was because of a software failure where asynchronous shocks caused 2 cases of ventricular arrhythmia. It is well known that asynchronous shocks can cause this harm if applied in the vulnerable phase of the T&#x02010;wave. However, it is unknown if shock delivery at other positions in the heart cycle might affect cardioversion efficacy. Lastly, despite randomization, treatment with amiodarone was unevenly distributed in the 2 groups, but the amiodarone&#x02010;stratified subgroup analysis did not change the overall result of the study.</p></sec></sec><sec id="jah32108-sec-0022"><title>Conclusions</title><p>This study demonstrated that when compared by energy levels, cardioversion using a BTE waveform was more effective compared to a PB waveform. There was no difference in myocardial injury between the 2 waveforms (ie, changes in troponin I levels).</p></sec><sec id="jah32108-sec-0024"><title>Sources of Funding</title><p>This study was funded by the Regional Hospital of Randers, Denmark and Marie de Lancy Pedersen's Foundation, Denmark. The PB defibrillator used in this study was provided free of charge from Schiller AG, Baar, Switzerland including the appropriate defibrillation pads. Physio&#x02010;Control Inc., Redmond, WA also provided defibrillation pads free of charge from the Danish distributor.</p></sec><sec id="jah32108-sec-0025"><title>Disclosures</title><p>Deakin served as the immediate past chair of ILCOR Advanced Life Support taskforce. The remaining authors have no disclosures to report.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jah32108-sup-0001"><caption><p>
+<bold>Table&#x000a0;S1.</bold> Characteristics of the 116 Patients With Atrial Fibrillation and the 18 Patients With Atrial Flutter</p><p>
+<bold>Table&#x000a0;S2.</bold> Characteristics of the 24 Patients Receiving Amiodarone Treatment and the 110 Patients Not Receiving Amiodarone</p></caption><media xlink:href="JAH3-6-e004853-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jah32108-sec-0023"><title>Acknowledgments</title><p>The authors acknowledge Mariann Frost Rasmussen, RN; The Heart Clinic, Department of Internal Medicine, Regional Hospital of Randers; Department of Anesthetics, Regional Hospital of Randers; and Clinical Research Unit, Regional Hospital of Randers, Denmark.</p></ack><ref-list content-type="cited-references" id="jah32108-bibl-0001"><title>References</title><ref id="jah32108-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah32108-cit-0001">
+<string-name>
+<surname>Chugh</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Havmoeller</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Narayanan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Rienstra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Gillum</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>McAnulty</surname>
+<given-names>JH</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>ZJ</given-names>
+</string-name>, <string-name>
+<surname>Forouzanfar</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Naghavi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mensah</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Ezzati</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>Worldwide epidemiology of atrial fibrillation: a Global Burden of Disease 2010 Study</article-title>. <source>Circulation</source>. <year>2014</year>;<volume>129</volume>:<fpage>837</fpage>&#x02013;<lpage>847</lpage>.<pub-id pub-id-type="pmid">24345399</pub-id></mixed-citation></ref><ref id="jah32108-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah32108-cit-0002">
+<string-name>
+<surname>January</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Wann</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Alpert</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Calkins</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cleveland</surname>
+<given-names>JC</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Cigarroa</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Conti</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Ellinor</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Ezekowitz</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Field</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>Sacco</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Stevenson</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Tchou</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Tracy</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Yancy</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines and the Heart Rhythm Society</article-title>. <source>J Am Coll Cardiol</source>. <year>2014</year>;<volume>64</volume>:<fpage>e1</fpage>&#x02013;<lpage>e76</lpage>.<pub-id pub-id-type="pmid">24685669</pub-id></mixed-citation></ref><ref id="jah32108-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah32108-cit-0003">
+<string-name>
+<surname>Koster</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Dorian</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Schmitt</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>O'Grady</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>RG</given-names>
+</string-name>. <article-title>A randomized trial comparing monophasic and biphasic waveform shocks for external cardioversion of atrial fibrillation</article-title>. <source>Am Heart J</source>. <year>2004</year>;<volume>147</volume>:<fpage>e20</fpage>.<pub-id pub-id-type="pmid">15131555</pub-id></mixed-citation></ref><ref id="jah32108-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah32108-cit-0004">
+<string-name>
+<surname>Mittal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ayati</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Schwartzman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cavlovich</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tchou</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Markowitz</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Slotwiner</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Scheiner</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Lerman</surname>
+<given-names>BB</given-names>
+</string-name>. <article-title>Transthoracic cardioversion of atrial fibrillation: comparison of rectilinear biphasic versus damped sine wave monophasic shocks</article-title>. <source>Circulation</source>. <year>2000</year>;<volume>101</volume>:<fpage>1282</fpage>&#x02013;<lpage>1287</lpage>.<pub-id pub-id-type="pmid">10725288</pub-id></mixed-citation></ref><ref id="jah32108-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah32108-cit-0005">
+<string-name>
+<surname>Ambler</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Deakin</surname>
+<given-names>CD</given-names>
+</string-name>. <article-title>A randomized controlled trial of efficacy and ST change following use of the Welch&#x02010;Allyn MRL PIC biphasic waveform versus damped sine monophasic waveform for external DC cardioversion</article-title>. <source>Resuscitation</source>. <year>2006</year>;<volume>71</volume>:<fpage>146</fpage>&#x02013;<lpage>151</lpage>.<pub-id pub-id-type="pmid">16987583</pub-id></mixed-citation></ref><ref id="jah32108-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah32108-cit-0006">
+<string-name>
+<surname>Page</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Kerber</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Trouton</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Waktare</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gallik</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Olgin</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Ricard</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dalzell</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Reddy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lazzara</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Carlson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Halperin</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bardy</surname>
+<given-names>GH</given-names>
+</string-name>; <collab collab-type="authors">BiCard Investigators</collab>
+. <article-title>Biphasic versus monophasic shock waveform for conversion of atrial fibrillation: the results of an international randomized, double&#x02010;blind multicenter trial</article-title>. <source>J Am Coll Cardiol</source>. <year>2002</year>;<volume>39</volume>:<fpage>1956</fpage>&#x02013;<lpage>1963</lpage>.<pub-id pub-id-type="pmid">12084594</pub-id></mixed-citation></ref><ref id="jah32108-bib-0007"><label>7</label><mixed-citation publication-type="miscellaneous" id="jah32108-cit-0007">
+<string-name>
+<surname>Cansell</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Impulses or a series of impulses for defibrillation and device to generate them</article-title>. US Patent. <year>2000</year>; 6.493.580.</mixed-citation></ref><ref id="jah32108-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah32108-cit-0008">
+<string-name>
+<surname>Krasteva</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Trendafilova</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cansell</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Daskalov</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Assessment of balanced biphasic defibrillation waveforms in transthoracic atrial cardioversion</article-title>. <source>J Med Eng Technol</source>. <year>2001</year>;<volume>25</volume>:<fpage>68</fpage>&#x02013;<lpage>73</lpage>.<pub-id pub-id-type="pmid">11452635</pub-id></mixed-citation></ref><ref id="jah32108-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah32108-cit-0009">
+<string-name>
+<surname>Kostov</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mudrov</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Dotsinsky</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Mudrov</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Comparison between two defibrillation waveforms</article-title>. <source>J Med Eng Technol</source>. <year>2010</year>;<volume>34</volume>:<fpage>429</fpage>&#x02013;<lpage>436</lpage>.<pub-id pub-id-type="pmid">20858038</pub-id></mixed-citation></ref><ref id="jah32108-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah32108-cit-0010">
+<string-name>
+<surname>Krasteva</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Cansell</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Daskalov</surname>
+<given-names>IK</given-names>
+</string-name>. <article-title>Transthoracic defibrillation with chopping&#x02010;modulated biphasic waveforms</article-title>. <source>J Med Eng Technol</source>. <year>2001</year>;<volume>25</volume>:<fpage>163</fpage>&#x02013;<lpage>168</lpage>.<pub-id pub-id-type="pmid">11601443</pub-id></mixed-citation></ref><ref id="jah32108-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah32108-cit-0011">
+<string-name>
+<surname>White</surname>
+<given-names>RD</given-names>
+</string-name>. <article-title>Waveforms for defibrillation and cardioversion: recent experimental and clinical studies</article-title>. <source>Curr Opin Crit Care</source>. <year>2004</year>;<volume>10</volume>:<fpage>202</fpage>&#x02013;<lpage>207</lpage>.<pub-id pub-id-type="pmid">15166837</pub-id></mixed-citation></ref><ref id="jah32108-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah32108-cit-0012">
+<string-name>
+<surname>Callaway</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Soar</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Aibiki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bottiger</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Deakin</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Donnino</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Drajer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kloeck</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Morley</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Neumar</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Nicholson</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Nolan</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Okada</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>O'Neil</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Paiva</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Parr</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Witt</surname>
+<given-names>J</given-names>
+</string-name>; <collab collab-type="authors">Advanced Life Support Chapter Collaborators</collab>
+. <article-title>Part 4: advanced life support: 2015 international consensus on cardiopulmonary resuscitation and emergency cardiovascular care science with treatment recommendations</article-title>. <source>Circulation</source>. <year>2015</year>;<volume>132</volume>:<fpage>S84</fpage>&#x02013;<lpage>S145</lpage>.<pub-id pub-id-type="pmid">26472860</pub-id></mixed-citation></ref><ref id="jah32108-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah32108-cit-0013">
+<collab collab-type="authors">European Heart Rhythm Association, European Association for Cardio&#x02010;Thoracic Surgery</collab>
+, <string-name>
+<surname>Camm</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Kirchhof</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>Schotten</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Savelieva</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ernst</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Van Gelder</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Attar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hindricks</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Prendergast</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Heidbuchel</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Alfieri</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Angelini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Atar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Colonna</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>De Caterina</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>De Sutter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Goette</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gorenek</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Heldal</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hohloser</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Kolh</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Le Heuzey</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rutten</surname>
+<given-names>FH</given-names>
+</string-name>. <article-title>Guidelines for the management of atrial fibrillation: the Task Force for the Management of Atrial Fibrillation of the European Society of Cardiology (ESC)</article-title>. <source>Eur Heart J</source>. <year>2010</year>;<volume>31</volume>:<fpage>2369</fpage>&#x02013;<lpage>2429</lpage>.<pub-id pub-id-type="pmid">20802247</pub-id></mixed-citation></ref><ref id="jah32108-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah32108-cit-0014">
+<string-name>
+<surname>Kirchhof</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Eckardt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Loh</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Seidl</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Bocker</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Breithardt</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Haverkamp</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Borggrefe</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Anterior&#x02010;posterior versus anterior&#x02010;lateral electrode positions for external cardioversion of atrial fibrillation: a randomised trial</article-title>. <source>Lancet</source>. <year>2002</year>;<volume>360</volume>:<fpage>1275</fpage>&#x02013;<lpage>1279</lpage>.<pub-id pub-id-type="pmid">12414201</pub-id></mixed-citation></ref><ref id="jah32108-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah32108-cit-0015">
+<string-name>
+<surname>Deakin</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Connelly</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wharton</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yuen</surname>
+<given-names>HM</given-names>
+</string-name>. <article-title>A comparison of rectilinear and truncated exponential biphasic waveforms in elective cardioversion of atrial fibrillation: a prospective randomized controlled trial</article-title>. <source>Resuscitation</source>. <year>2013</year>;<volume>84</volume>:<fpage>286</fpage>&#x02013;<lpage>291</lpage>.<pub-id pub-id-type="pmid">22842285</pub-id></mixed-citation></ref><ref id="jah32108-bib-0016"><label>16</label><mixed-citation publication-type="book" id="jah32108-cit-0016">
+<collab collab-type="authors">R Core Team</collab>
+. <source>R: A Language and Environment for Statistical Computing</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name>; <year>2014</year> Available at: <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org/">http://www.R-project.org/</ext-link>. Accessed October 1, 2014.</mixed-citation></ref><ref id="jah32108-bib-0017"><label>17</label><mixed-citation publication-type="book" id="jah32108-cit-0017">
+<article-title>Schiller Medical, Safety Notice Defigard 5000</article-title>. <publisher-name>Health Products Regulation Authority</publisher-name>
+<year>2014</year> Available at: <ext-link ext-link-type="uri" xlink:href="http://www.hpra.ie/docs/default-source/field-safety-notices/October-2014/v22248_fsn.pdf?sfvrsn=2">http://www.hpra.ie/docs/default-source/field-safety-notices/October-2014/v22248_fsn.pdf?sfvrsn=2</ext-link>. Accessed November 10, 2016.</mixed-citation></ref><ref id="jah32108-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah32108-cit-0018">
+<string-name>
+<surname>Didon</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Fontaine</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Jekova</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Schmid</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Cansell</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Clinical experience with a low&#x02010;energy pulsed biphasic waveform in out&#x02010;of&#x02010;hospital cardiac arrest</article-title>. <source>Resuscitation</source>. <year>2008</year>;<volume>76</volume>:<fpage>350</fpage>&#x02013;<lpage>353</lpage>.<pub-id pub-id-type="pmid">17936490</pub-id></mixed-citation></ref><ref id="jah32108-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah32108-cit-0019">
+<string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Didon</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Bisera</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Weil</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Comparison of efficacy of pulsed biphasic waveform and rectilinear biphasic waveform in a short ventricular fibrillation pig model</article-title>. <source>Resuscitation</source>. <year>2009</year>;<volume>80</volume>:<fpage>1047</fpage>&#x02013;<lpage>1051</lpage>.<pub-id pub-id-type="pmid">19604618</pub-id></mixed-citation></ref><ref id="jah32108-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah32108-cit-0020">
+<string-name>
+<surname>Sullivan</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Melnick</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Walcott</surname>
+<given-names>GP</given-names>
+</string-name>. <article-title>Porcine defibrillation thresholds with chopped biphasic truncated exponential waveforms</article-title>. <source>Resuscitation</source>. <year>2007</year>;<volume>74</volume>:<fpage>325</fpage>&#x02013;<lpage>331</lpage>.<pub-id pub-id-type="pmid">17383792</pub-id></mixed-citation></ref><ref id="jah32108-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah32108-cit-0021">
+<string-name>
+<surname>Neal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ngarmukos</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lessard</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Rosenthal</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Comparison of the efficacy and safety of two biphasic defibrillator waveforms for the conversion of atrial fibrillation to sinus rhythm</article-title>. <source>Am J Cardiol</source>. <year>2003</year>;<volume>92</volume>:<fpage>810</fpage>&#x02013;<lpage>814</lpage>.<pub-id pub-id-type="pmid">14516881</pub-id></mixed-citation></ref><ref id="jah32108-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah32108-cit-0022">
+<string-name>
+<surname>Kim</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Gross</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Ferrick</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Palma</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Fisher</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>Comparison of rectilinear biphasic waveform energy versus truncated exponential biphasic waveform energy for transthoracic cardioversion of atrial fibrillation</article-title>. <source>Am J Cardiol</source>. <year>2004</year>;<volume>94</volume>:<fpage>1438</fpage>&#x02013;<lpage>1440</lpage>.<pub-id pub-id-type="pmid">15566922</pub-id></mixed-citation></ref><ref id="jah32108-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah32108-cit-0023">
+<string-name>
+<surname>Alatawi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gurevitz</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Ammash</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Malouf</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Bruce</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Moon</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Rosales</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Hodge</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hammill</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Gersh</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Friedman</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Prospective, randomized comparison of two biphasic waveforms for the efficacy and safety of transthoracic biphasic cardioversion of atrial fibrillation</article-title>. <source>Heart Rhythm</source>. <year>2005</year>;<volume>2</volume>:<fpage>382</fpage>&#x02013;<lpage>387</lpage>.<pub-id pub-id-type="pmid">15851340</pub-id></mixed-citation></ref><ref id="jah32108-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah32108-cit-0024">
+<string-name>
+<surname>Piechota</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Gielerak</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ryczek</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kazmierczak</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bejm</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Piechota</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Cardiac troponin I after external electrical cardioversion for atrial fibrillation as a marker of myocardial injury&#x02014;a preliminary report</article-title>. <source>Kardiol Pol</source>. <year>2007</year>;<volume>65</volume>:<fpage>664</fpage>&#x02013;<lpage>669</lpage>; discussion 670&#x02010;1.<pub-id pub-id-type="pmid">17629828</pub-id></mixed-citation></ref><ref id="jah32108-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah32108-cit-0025">
+<string-name>
+<surname>Allan</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Feld</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Ladenson</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Kerber</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Cardiac troponin I levels are normal or minimally elevated after transthoracic cardioversion</article-title>. <source>J Am Coll Cardiol</source>. <year>1997</year>;<volume>30</volume>:<fpage>1052</fpage>&#x02013;<lpage>1056</lpage>.<pub-id pub-id-type="pmid">9316538</pub-id></mixed-citation></ref><ref id="jah32108-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah32108-cit-0026">
+<string-name>
+<surname>Lund</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>French</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>HD</given-names>
+</string-name>. <article-title>Serum troponins T and I after elective cardioversion</article-title>. <source>Eur Heart J</source>. <year>2000</year>;<volume>21</volume>:<fpage>245</fpage>&#x02013;<lpage>253</lpage>.<pub-id pub-id-type="pmid">10639307</pub-id></mixed-citation></ref><ref id="jah32108-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah32108-cit-0027">
+<string-name>
+<surname>Bonnefoy</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Chevalier</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kirkorian</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Guidolet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Marchand</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Touboul</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Cardiac troponin I does not increase after cardioversion</article-title>. <source>Chest</source>. <year>1997</year>;<volume>111</volume>:<fpage>15</fpage>&#x02013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">8995986</pub-id></mixed-citation></ref><ref id="jah32108-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah32108-cit-0028">
+<string-name>
+<surname>Vikenes</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Omvik</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Farstad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nordrehaug</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Cardiac biochemical markers after cardioversion of atrial fibrillation or atrial flutter</article-title>. <source>Am Heart J</source>. <year>2000</year>;<volume>140</volume>:<fpage>690</fpage>&#x02013;<lpage>696</lpage>.<pub-id pub-id-type="pmid">11011347</pub-id></mixed-citation></ref><ref id="jah32108-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah32108-cit-0029">
+<string-name>
+<surname>Gallagher</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Yap</surname>
+<given-names>YG</given-names>
+</string-name>, <string-name>
+<surname>Padula</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Rowland</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Camm</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Arrhythmic complications of electrical cardioversion: relationship to shock energy</article-title>. <source>Int J Cardiol</source>. <year>2008</year>;<volume>123</volume>:<fpage>307</fpage>&#x02013;<lpage>312</lpage>.<pub-id pub-id-type="pmid">17395302</pub-id></mixed-citation></ref><ref id="jah32108-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah32108-cit-0030">
+<string-name>
+<surname>Hwang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Swerdlow</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Kass</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Gang</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Mandel</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Peter</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>PS</given-names>
+</string-name>. <article-title>Upper limit of vulnerability reliably predicts the defibrillation threshold in humans</article-title>. <source>Circulation</source>. <year>1994</year>;<volume>90</volume>:<fpage>2308</fpage>&#x02013;<lpage>2314</lpage>.<pub-id pub-id-type="pmid">7955188</pub-id></mixed-citation></ref><ref id="jah32108-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah32108-cit-0031">
+<string-name>
+<surname>Glover</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Walsh</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>McCann</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Manoharan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Dalzell</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>McAllister</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>McClements</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>McEneaney</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Trouton</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Mathew</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>Adgey</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>Biphasic energy selection for transthoracic cardioversion of atrial fibrillation. The BEST AF Trial</article-title>. <source>Heart</source>. <year>2008</year>;<volume>94</volume>:<fpage>884</fpage>&#x02013;<lpage>887</lpage>.<pub-id pub-id-type="pmid">17591649</pub-id></mixed-citation></ref></ref-list></back></article>

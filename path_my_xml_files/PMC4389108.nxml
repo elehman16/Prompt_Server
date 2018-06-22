@@ -1,0 +1,889 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Internet Res</journal-id><journal-id journal-id-type="iso-abbrev">J. Med. Internet Res</journal-id><journal-id journal-id-type="publisher-id">JMIR</journal-id><journal-title-group><journal-title>Journal of Medical Internet Research</journal-title></journal-title-group><issn pub-type="ppub">1439-4456</issn><issn pub-type="epub">1438-8871</issn><publisher><publisher-name>JMIR Publications Inc.</publisher-name><publisher-loc>Toronto, Canada</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25831269</article-id><article-id pub-id-type="pmc">4389108</article-id><article-id pub-id-type="publisher-id">v17i3e78</article-id><article-id pub-id-type="doi">10.2196/jmir.3859</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Paper</subject></subj-group><subj-group subj-group-type="article-type"><subject>Original Paper</subject></subj-group></article-categories><title-group><article-title>Know Your Audience: Predictors of Success for a Patient-Centered Texting App to Augment Linkage to HIV Care in Rural Uganda</article-title></title-group><contrib-group><contrib contrib-type="editor"><name><surname>Eysenbach</surname><given-names>Gunther</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="reviewer"><name><surname>Nilsen</surname><given-names>Wendy</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Brown</surname><given-names>William</given-names></name></contrib></contrib-group><contrib-group><contrib id="contrib1" contrib-type="author" corresp="yes"><name><surname>Siedner</surname><given-names>Mark J</given-names></name><degrees>MD, MPH</degrees><xref ref-type="aff" rid="aff1">1</xref><address><institution>Center for Global Health</institution><institution>Massachusetts Genneral Hospital</institution><institution>Harvard Medical School</institution><addr-line>15th Floor</addr-line><addr-line>100 Cambridge Street</addr-line><addr-line>Boston, MA, 02114</addr-line><country>United States</country><phone>1 617 726 4686</phone><fax>1 617 724 1637</fax><email>msiedner@partners.org</email></address><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3506-842X</contrib-id></contrib><contrib id="contrib2" contrib-type="author"><name><surname>Santorino</surname><given-names>Data</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="aff2">2</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8453-7099</contrib-id></contrib><contrib id="contrib3" contrib-type="author"><name><surname>Haberer</surname><given-names>Jessica E</given-names></name><degrees>MD, MS</degrees><xref ref-type="aff" rid="aff1">1</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5845-3190</contrib-id></contrib><contrib id="contrib4" contrib-type="author"><name><surname>Bangsberg</surname><given-names>David R</given-names></name><degrees>MD, MPH</degrees><xref ref-type="aff" rid="aff1">1</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6352-8908</contrib-id></contrib></contrib-group><aff id="aff1"><sup>1</sup><institution>Center for Global Health</institution><institution>Massachusetts Genneral Hospital</institution><institution>Harvard Medical School</institution><addr-line>Boston, MA</addr-line><country>United States</country></aff><aff id="aff2"><sup>2</sup><institution>Department of Pediatrics</institution><institution>Mbarara University of Science and Technology</institution><addr-line>Mbarara</addr-line><country>Uganda</country></aff><author-notes><corresp>Corresponding Author: Mark J Siedner <email>msiedner@partners.org</email></corresp></author-notes><pub-date pub-type="collection"><month>3</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>24</day><month>3</month><year>2015</year></pub-date><volume>17</volume><issue>3</issue><elocation-id>e78</elocation-id><history><date date-type="received"><day>12</day><month>9</month><year>2014</year></date><date date-type="rev-request"><day>23</day><month>10</month><year>2014</year></date><date date-type="rev-recd"><day>24</day><month>10</month><year>2014</year></date><date date-type="accepted"><day>29</day><month>10</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9;Mark J Siedner, Data Santorino, Jessica E Haberer, David R Bangsberg. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 24.03.2015. </copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/"><license-p><!--CREATIVE COMMONS-->This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0/">http://creativecommons.org/licenses/by/2.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/,">http://www.jmir.org/,</ext-link> as well as this copyright and license information must be included.</license-p></license></permissions><self-uri xlink:type="simple" xlink:href="http://www.jmir.org/2015/3/e78/"/><abstract><sec sec-type="background"><title>Background</title><p>Despite investments in infrastructure and evidence for high acceptability, few mHealth interventions have been implemented in sub-Saharan Africa.</p></sec><sec sec-type="objective"><title>Objective</title><p>We sought to (1) identify predictors of uptake of an mHealth application for a low-literacy population of people living with HIV (PLWH) in rural Uganda and (2) evaluate the efficacy of various short message service (SMS) text message formats to optimize the balance between confidentiality and accessibility.</p></sec><sec sec-type="methods"><title>Methods</title><p>The trial evaluated the efficacy of a SMS text messaging app to notify PLWH of their laboratory results and request return to care for those with abnormal test results. Participants with a normal laboratory result received a single SMS text message indicating results were normal. Participants with an abnormal test result were randomized to 1 of 3 message formats designed to evaluate trade-offs between clarity and privacy: (1) an SMS text message that stated results were abnormal and requested return to clinic (&#x0201c;direct&#x0201d;), (2) the same message protected by a 4-digit PIN code (&#x0201c;PIN&#x0201d;), and (3) the message &#x0201c;ABCDEFG&#x0201d; explained at enrollment to indicate abnormal results (&#x0201c;coded&#x0201d;). Outcomes of interest were (1) self-reported receipt of the SMS text message, (2) accurate identification of the message, and (3) return to care within 7 days (for abnormal results) or on the date of the scheduled appointment (for normal results). We fit regression models for each outcome with the following explanatory variables: sociodemographic characteristics, CD4 count result, ability to read a complete sentence, ability to access a test message on enrollment, and format of SMS text message.</p></sec><sec sec-type="results"><title>Results</title><p>Seventy-two percent (234/385) of participants successfully receiving a message, 87.6% (219/250) correctly identified the message format, and 60.8% (234/385) returned to clinic at the requested time. Among participants with abnormal tests results (138/385, 35.8%), the strongest predictors of reported message receipt were the ability to read a complete sentence and a demonstrated ability to access a test message on enrollment. Participants with an abnormal result who could read a complete sentence were also more likely to accurately identify the message format (AOR 4.54, 95% CI 1.42-14.47, <italic>P</italic>=.01) and return to clinic appropriately (AOR 3.81, 95% CI 1.61-9.03, <italic>P</italic>=.002). Those who were sent a PIN-protected message were less likely to identify the message (AOR 0.11, 95% CI 0.03-0.44, <italic>P</italic>=.002) or return within 7 days (AOR 0.26, 95% CI 0.10-0.66, <italic>P</italic>=.005). Gender, age, and socioeconomic characteristics did not predict any outcomes and there were no differences in outcomes between those receiving direct or coded messages.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>Confirmed literacy at the time of enrollment was a robust predictor of SMS text message receipt, identification, and appropriate response for PLWH in rural Uganda. PIN-protected messages reduced odds of clinic return, but coded messages were as effective as direct messages and might augment privacy.</p></sec><sec><title>Trial Registration</title><p>Clinicaltrials.gov NCT 01579214; https://clinicaltrials.gov/ct2/show/NCT01579214 (Archived by WebCite at http://www.webcitation.org/6Ww8R4sKq).</p></sec></abstract><kwd-group><kwd>telemedicine</kwd><kwd>text messaging</kwd><kwd>randomized controlled trial</kwd><kwd>Uganda</kwd><kwd>HIV</kwd></kwd-group></article-meta></front><body><sec sec-type="introduction"><title>Introduction</title><p>The promise of mobile phone-based interventions to improve health care delivery in resource-limited settings has been well described [<xref rid="ref1" ref-type="bibr">1</xref>,<xref rid="ref2" ref-type="bibr">2</xref>]. The widespread availability of cellular networks coupled with the exponential growth in mobile phone ownership [<xref rid="ref3" ref-type="bibr">3</xref>] creates an opportunity to leverage limited human resource capacity in resource-limited settings through improved patient-provider communication, information management, clinical decision making, disease surveillance, as well as monitoring and evaluation [<xref rid="ref2" ref-type="bibr">2</xref>]. Despite a rapid increase in investments in mHealth programs, there are few reports of successfully implemented mHealth interventions in sub-Saharan Africa [<xref rid="ref4" ref-type="bibr">4</xref>,<xref rid="ref5" ref-type="bibr">5</xref>].</p><p>End-user characteristics that influence acceptance and use patterns of mHealth interventions are critical to successful implementation [<xref rid="ref6" ref-type="bibr">6</xref>], particularly in settings with variable literacy and technology experience [<xref rid="ref7" ref-type="bibr">7</xref>,<xref rid="ref8" ref-type="bibr">8</xref>]. Although there is much literature on the behavioral science of novel technology acceptance and uptake in resource-rich settings [<xref rid="ref9" ref-type="bibr">9</xref>,<xref rid="ref10" ref-type="bibr">10</xref>], similar data are largely lacking from resource-limited settings. Data are even sparser on technology acceptability for low-literacy end users. A handful of studies have evaluated the general acceptability of mobile phone-based interventions in these scenarios [<xref rid="ref11" ref-type="bibr">11</xref>-<xref rid="ref15" ref-type="bibr">15</xref>], but there is an important need to better understand the barriers and facilitators of technology acceptance for low-literacy populations for whom many mHealth interventions are intended. Of particular importance to patient end users is attention to privacy and confidentiality [<xref rid="ref11" ref-type="bibr">11</xref>,<xref rid="ref12" ref-type="bibr">12</xref>,<xref rid="ref14" ref-type="bibr">14</xref>,<xref rid="ref16" ref-type="bibr">16</xref>], which can have health and safety implications for stigmatized health conditions, such as human immunodeficiency virus (HIV) infection [<xref rid="ref17" ref-type="bibr">17</xref>].</p><p>We previously reported on the perceived acceptability of a mobile phone app to improve communication of laboratory results to patients at an HIV clinic in southwestern Uganda [<xref rid="ref12" ref-type="bibr">12</xref>], and on the results of a clinical trial at the same clinic to improve linkage to care through a combination short message service (SMS) text messaging app and transportation reimbursement intervention [<xref rid="ref18" ref-type="bibr">18</xref>]. In the clinical trial, participants with abnormal results who received SMS text messages about CD4 count results and a transportation reimbursement had significantly improved time to clinic return and time to antiretroviral therapy (ART) initiation than those in a preintervention control period. Here we report results of a prespecified secondary analysis restricted to participants in the intervention period who were sent SMS text messages with the following specific objectives: (1) to identify predictors of self-reported message receipt, accurate identification, and appropriate return to clinic in response to the SMS text messaging app and (2) to evaluate the comparative efficacy of randomly allocated SMS text formats to optimize the balance between confidentiality and accessibility of health-related SMS text communications for low-literacy end users.</p></sec><sec sec-type="methods"><title>Methods</title><sec><title>Study Setting and Participants</title><p>Data for this analysis were collected as part of a randomized clinical trial of an SMS text app to notify people living with HIV (PLWH) of their laboratory results and request return to care for those with abnormal results. Full details and preliminary results of the trial have been reported previously (NCT01579214) [<xref rid="ref18" ref-type="bibr">18</xref>]. We present the results of a secondary analysis restricted to those who were sent at least one SMS text message as part of the intervention arm of the clinical trial. The goal of the analysis was to identify predictors of receipt, comprehension, and appropriate response to an SMS text-based clinical communication intervention. Patients were eligible for the study if they were actively in care at the adult HIV clinic of the Mbarara Regional Referral Hospital in Western Uganda, had access to a mobile phone, lived in the clinic catchment area, and were undergoing CD4 count testing. Clinicians specified an abnormal test threshold for each participant, defined as a result that would prompt early return to care for treatment initiation, regimen change, or clinical evaluation.</p></sec><sec><title>Intervention Development</title><p>We designed the SMS text-based intervention based on a conceptual framework derived from a preliminary survey of clinic patients, conducted to understand barriers to linkage and acceptability of SMS text message-based health communications [<xref rid="ref12" ref-type="bibr">12</xref>]. We learned that the two most cited patient-reported barriers to clinic return after abnormal laboratory results were lack of efficient communication with clinical staff and difficulty affording the costs of transportation to clinic [<xref rid="ref19" ref-type="bibr">19</xref>-<xref rid="ref21" ref-type="bibr">21</xref>]. Based on this input, we designed a combination intervention to address both of these factors through (1) an SMS text-based communication system to inform patients of their laboratory results and (2) a transportation reimbursement for those with abnormal results if they returned within 7 days of the first message. We involved a multidisciplinary team, including research staff, programmers, clinicians, and patients in development of the SMS text intervention. Key considerations included messaging format that balanced privacy and clarity, and optimization of message timing and frequency. We pilot-tested the intervention with study staff prior to study implementation.</p></sec><sec><title>Study Procedures</title><p>Participants were approached for enrollment after completion of their clinic visit and blood collection for CD4 count testing. Study staff administered a questionnaire on the day of enrollment to collect data on socioeconomic status and mobile phone use characteristics. As part of the survey, participants were asked to read a complete sentence in the local language (Runyankole). For those who had a mobile phone available on the day of enrollment, a test message was sent and participants were asked to open and read the test message (&#x0201c;ABCDEFG&#x0201d;). Finally, preferences for receiving SMS text messages were recorded, with options for day of the week and time of day (options included 6 am, 9 am, 5 pm, and 9 pm). Participants were instructed to return to clinic within 7 days of the first abnormal SMS text message. Those who did return within 7 days received a transportation reimbursement (<xref ref-type="fig" rid="figure1">Figure 1</xref>).</p><fig id="figure1" position="float"><label>Figure 1</label><caption><p>Study schema.</p></caption><graphic xlink:href="jmir_v17i3e78_fig1"/></fig></sec><sec><title>Study Groups</title><p>Per standard clinical protocols, blood samples were sent to an offsite central laboratory where they were processed and a laboratory result form was returned to the clinic. On receipt of test results at the clinic, study staff determined whether test results were below the prestated abnormal threshold to classify each participant as having a normal or abnormal test result. Participants with a normal laboratory result received a single message indicating a normal result and requesting return on the date of their next visit (&#x0201c;Your laboratory result was within the normal range. Please return to clinic on your scheduled date&#x0201d;)<italic>.</italic>
+</p><p>Participants with an abnormal result were randomized with the use of the randomization module in Research Electronic Data Capture (REDCap [<xref rid="ref22" ref-type="bibr">22</xref>]) to 1 of 3 SMS text message formats to evaluate trade-offs between clarity and privacy:</p><list list-type="order"><list-item><p>Notification that results were abnormal and requesting return to clinic (direct message): &#x0201c;This is an important message from your doctor. You had an abnormal test result. You should return to clinic as soon as possible&#x0201d;</p></list-item><list-item><p>An identical message as the direct message, but prompted by an initial requirement to enter a 4-digit personal identification number (PIN message), which was selected by participants on the day of enrollment and given to the patient on a form to take home on the day of enrollment: &#x0201c;Please enter your PIN code to see your message&#x0201d;</p></list-item><list-item><p>A coded message which was explained on enrollment to indicate an abnormal test result and signify early return to clinic (coded message): &#x0201c;ABCDEFG&#x0201d;</p></list-item></list><p>Participants with abnormal test results were eligible to receive messages daily for up to a maximum of 7 days. The number and timing of messages was determined by their scheduling preferences on enrollment.</p></sec><sec><title>Text Message Scheduling and Transmission</title><p>Research staff scheduled messages through a Web-based messaging app (CommCareHQ, Dimgi, Inc, Cambridge, MA, USA) on the date of laboratory result receipt. The CommCare app sent an automated application program interface (API) with the mobile phone number of the participants along with the message content to a content aggregator in Kampala (Yo! Uganda Limited, Kampala, Uganda), which relayed the automated SMS text messages to the indicated phone number. All SMS text messages, including both incoming and outgoing, were paid for by the study through use of a short code.</p></sec><sec><title>Outcomes Assessment</title><p>Study staff recorded the date of clinic return for all participants. Participants who returned within 14 days of the first scheduled message completed an in-person follow-up questionnaire. Research assistants called those who did not return 14 days after the first scheduled message to complete the interview. Questions included whether or not participants received the message, the number of SMS text messages received, and identification of the type of message received.</p></sec><sec><title>Statistical Analyses</title><p>We used standard data summarization techniques to describe characteristics for the total cohort and by laboratory result subgroups (normal vs abnormal laboratory result). We assessed for predictors of 3 outcomes of interest: (1) reported receipt of at least one SMS text message, (2) accurate identification of the message format delivered, and (3) whether participants returned to care at the appropriate time, defined as within 7 days of the first SMS text message for those with abnormal results or on the date of the scheduled appointment for those with normal results. For predictors of each outcome, we performed stratified analyses by presence or absence of abnormal test results and assessed for statistically significant relationships with the following baseline characteristics: age, gender, CD4 count result, net household income, educational attainment, ability to read a complete sentence, duration of time required to reach the HIV clinic, whether or not they shared their mobile phone with others in the household, ability to access a sample test message on enrollment (for those with a phone available that day), number of messages sent, cellular network used, and&#x02014;for those with abnormal results&#x02014;the type of message sent (direct, PIN, or coded). Crude associations between explanatory variables and outcomes were performed with chi-square testing. We assessed for independent predictors of each outcome by fitting multivariable logistic regression model, including age, gender, CD4 count result, literacy, ability to access a test SMS text message on enrollment, and message type. We assessed for an interaction effect between literacy on enrollment and SMS text message format in 2 separate analyses restricted to either those who were sent (1) direct and PIN messages, or those who were sent (2) direct and coded messages. Although we did not include household income, educational attainment, or number of messages sent because they were not significant in any crude analyses, we performed sensitivity analyses with them added to the multivariable models to assess for negative confounding. All statistical analyses were performed with Stata version 13.1 (StataCorp LP, College Station, TX, USA).</p></sec><sec><title>Ethical Considerations</title><p>The study was reviewed and approved by the ethical review committees of the Mbarara University of Science and Technology, Partners Healthcare, and the Ugandan National Council of Science and Technology. The trial was registered at clinicaltrials.gov (NCT01579214).</p></sec></sec><sec sec-type="results"><title>Results</title><p>We enrolled 385 participants into the trial during the intervention period. The median age of participants was 32 years (IQR 26-39), 65.2% (251/385) were female, more than 60% (240/385, 62.3%) had a primary education or less, median monthly household income was US $80/month (IQR 36-180), and 67.5% (260/385) successfully read a complete sentence on enrollment (<xref ref-type="table" rid="table1">Table 1</xref>). Nearly half of participants (164/385, 42.6%) shared their mobile phone with others. Of those who had a mobile phone available on the day of enrollment (315/385, 81.8%), approximately three-quarters (247/315, 78.4%) successfully accessed and read the test message. In all, 138 of 385 participants (35.8%) had an abnormal test result. All participants who had a normal result were sent only a single SMS text notification, whereas most with abnormal test results were sent the maximum allowed 7 daily messages (100/138, 72.5%).</p><table-wrap id="table1" position="float"><label>Table 1</label><caption><p>Cohort characteristics.</p></caption><table frame="hsides" rules="groups" width="1000" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="253" span="1"/><col width="94" span="1"/><col width="100" span="1"/><col width="101" span="1"/><thead><tr valign="top"><td colspan="2" rowspan="1">Cohort characteristics</td><td rowspan="1" colspan="1">Total cohort (N=385)</td><td rowspan="1" colspan="1">Abnormal result (n=138)</td><td rowspan="1" colspan="1">Normal result (n=247)</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">Age (years), median (IQR)</td><td rowspan="1" colspan="1">32 (26-39)</td><td rowspan="1" colspan="1">30 (25-38)</td><td rowspan="1" colspan="1">34 (26-4)</td></tr><tr valign="top"><td colspan="2" rowspan="1">Gender (female),n (%)</td><td rowspan="1" colspan="1">251 (65.2)</td><td rowspan="1" colspan="1">75 (54.3)</td><td rowspan="1" colspan="1">176 (71.3)</td></tr><tr valign="top"><td colspan="2" rowspan="1">CD4 count, median (IQR)</td><td rowspan="1" colspan="1">409 (272-549)</td><td rowspan="1" colspan="1">224.5 (110-293)</td><td rowspan="1" colspan="1">504 (419-654)</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Estimated household income (US $/month), n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;40</td><td rowspan="1" colspan="1">77 (20.0)</td><td rowspan="1" colspan="1">20 (14.5)</td><td rowspan="1" colspan="1">57 (23.2)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">40-80</td><td rowspan="1" colspan="1">81 (21.0)</td><td rowspan="1" colspan="1">26 (18.8)</td><td rowspan="1" colspan="1">55 (22.3)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">80-180</td><td rowspan="1" colspan="1">58 (15.1)</td><td rowspan="1" colspan="1">30 (21.7)</td><td rowspan="1" colspan="1">28 (11.3)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003e;180</td><td rowspan="1" colspan="1">69 (17.9)</td><td rowspan="1" colspan="1">26 (18.9)</td><td rowspan="1" colspan="1">43 (17.4)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Unknown/unable to estimate</td><td rowspan="1" colspan="1">100 (26.9)</td><td rowspan="1" colspan="1">36 (26.1)</td><td rowspan="1" colspan="1">64 (25.9)</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Educational attainment, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Less than primary</td><td rowspan="1" colspan="1">43 (11.2)</td><td rowspan="1" colspan="1">12 (8.7)</td><td rowspan="1" colspan="1">31 (12.6)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Primary</td><td rowspan="1" colspan="1">197 (51.2)</td><td rowspan="1" colspan="1">71 (51.4)</td><td rowspan="1" colspan="1">126 (51.2)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Secondary</td><td rowspan="1" colspan="1">104 (27.0)</td><td rowspan="1" colspan="1">37 (26.8)</td><td rowspan="1" colspan="1">67 (27.1)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Beyond secondary</td><td rowspan="1" colspan="1">41 (10.6)</td><td rowspan="1" colspan="1">18 (13.0)</td><td rowspan="1" colspan="1">23 (9.3)</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Successfully read a complete sentence in Runyankole at enrollment visit, n (%)</bold>
+</td><td rowspan="1" colspan="1">260 (67.5)</td><td rowspan="1" colspan="1">97 (70.3)</td><td rowspan="1" colspan="1">163 (66.0)</td></tr><tr valign="top"><td colspan="2" rowspan="1">Estimate duration of journey to clinic (minutes), median (IQR)</td><td rowspan="1" colspan="1">60 (30-120)</td><td rowspan="1" colspan="1">42.5 (20-90)</td><td rowspan="1" colspan="1">60 (30-120)</td></tr><tr valign="top"><td colspan="2" rowspan="1">Shared mobile phone, n (%)</td><td rowspan="1" colspan="1">164 (42.6)</td><td rowspan="1" colspan="1">49 (35.5)</td><td rowspan="1" colspan="1">115 (46.6)</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Available mobile phone at enrollment visit, n (%)</bold>
+</td><td rowspan="1" colspan="1">315 (81.8)</td><td rowspan="1" colspan="1">111 (80.4)</td><td rowspan="1" colspan="1">204 (82.6)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Successfully accessed test message</td><td rowspan="1" colspan="1">247 (78.4)</td><td rowspan="1" colspan="1">93 (83.8)</td><td rowspan="1" colspan="1">154 (75.5)</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Messages sent, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">249 (64.6)</td><td rowspan="1" colspan="1">2 (1.4)</td><td rowspan="1" colspan="1">247 (100)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">2-6</td><td rowspan="1" colspan="1">36 (9.4)</td><td rowspan="1" colspan="1">36 (26.1)</td><td rowspan="1" colspan="1">0</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">100 (26.0)</td><td rowspan="1" colspan="1">100 (72.5)</td><td rowspan="1" colspan="1">0</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Cellular network, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">MTN</td><td rowspan="1" colspan="1">199 (51.6)</td><td rowspan="1" colspan="1">68 (49.3)</td><td rowspan="1" colspan="1">131 (54.1)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Airtel</td><td rowspan="1" colspan="1">111 (28.8)</td><td rowspan="1" colspan="1">43 (31.6)</td><td rowspan="1" colspan="1">68 (28.1)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Warid</td><td rowspan="1" colspan="1">61 (15.8)</td><td rowspan="1" colspan="1">23 (16.7)</td><td rowspan="1" colspan="1">38 (15.7)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Other</td><td rowspan="1" colspan="1">8 (2.1)</td><td rowspan="1" colspan="1">3 (2.2)</td><td rowspan="1" colspan="1">5 (2.1)</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Message type, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Normal</td><td rowspan="1" colspan="1">247 (64.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">247 (100)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Direct</td><td rowspan="1" colspan="1">46 (11.9)</td><td rowspan="1" colspan="1">46 (33.3)</td><td rowspan="1" colspan="1">0</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">PIN</td><td rowspan="1" colspan="1">48 (12.5)</td><td rowspan="1" colspan="1">49 (35.5)</td><td rowspan="1" colspan="1">0</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Coded</td><td rowspan="1" colspan="1">43 (11.2)</td><td rowspan="1" colspan="1">43 (31.2)</td><td rowspan="1" colspan="1">0</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Study outcomes, n/N (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Received at least 1 SMS text message</td><td rowspan="1" colspan="1">250/346 (72.3)</td><td rowspan="1" colspan="1">111/138 (80.4)</td><td rowspan="1" colspan="1">139/208 (66.8)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Accurately identified transmitted SMS text format</td><td rowspan="1" colspan="1">219/250 (87.6)</td><td rowspan="1" colspan="1">87/111 (78.4)</td><td rowspan="1" colspan="1">132/139 (95.0)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Returned to clinic based on SMS text instructions</td><td rowspan="1" colspan="1">234/385 (60.8)</td><td rowspan="1" colspan="1">78/138 (56.5)</td><td rowspan="1" colspan="1">156/247 (62.8)</td></tr></tbody></table></table-wrap><p>For the entire cohort, 72.3% (250/346) reported successful receipt of a message, 87.8% (219/250) of whom correctly identified the message format and 60.0% (231/385) returned to clinic at the requested time. For participants with abnormal tests results, these proportions were 80.4% (111/138), 78.4% (87/111), and 56.5% (78/138), respectively. Although there were no independent predictors in multivariable models for reported receipt of at least one SMS text message, the ability to read a sentence (85%, 82/97 vs 71%, 27/38; <italic>P</italic>=.07) and ability to access and read a test message on enrollment (83%, 77/93 vs 61%, 11/18; <italic>P</italic>=.04) were most closely associated in crude analyses (<xref ref-type="table" rid="table2">Table 2</xref>). The ability to read a complete sentence on enrollment was independently associated with accurate identification of the message sent (AOR 4.54, 95% CI 1.42-14.47, <italic>P</italic>=.01) and return to clinic within 7 days of the first transmitted SMS text message (AOR 3.81, 95% CI 1.61-9.03, <italic>P</italic>=.002). An ability to access an SMS text message on enrollment was also independently associated with returning to clinic within 7 days of abnormal SMS text notification (AOR 4.90, 95% CI 1.06-22.61, <italic>P</italic>=.04).</p><p>In addition to literacy and mobile phone familiarity, SMS text message format was an important predictor of outcomes for participants with abnormal laboratory results. Compared to receipt of a direct message, those with a PIN-protected message were significantly less likely to identify the message sent (AOR 0.11, 95% CI 0.03-0.44, <italic>P</italic>=.002) or return to clinic within 7 days (AOR 0.26, 95% CI 0.10-0.66, <italic>P</italic>=.005) (<xref ref-type="table" rid="table3">Table 3</xref>). The odds of SMS text message identification and return to clinic were nominally decreased with receipt of a coded versus direct message, but these associations were not statistically significant (<xref ref-type="table" rid="table3">Table 3</xref>). In restricted analyses comparing either direct versus PIN or direct versus coded messages, we found no statistically significant interaction terms between literacy and message type, suggesting that both literacy and message type were independent predictors of outcomes (<xref ref-type="fig" rid="figure2">Figure 2</xref>). Age, gender, household income, educational attainment, and number of messages sent were not associated with any outcomes for participants with abnormal laboratory results in crude analyses. In sensitivity analyses with each of these variables added to the models, we found no substantial differences in our estimates of association with literacy or message format. Lastly, outcomes for those with abnormal test results did not vary meaningfully by telecommunication network used.</p><p>We found similar results for predictors of outcomes for participants with normal results (<xref ref-type="table" rid="table4">Table 4</xref>). Report of receiving an SMS text message was lower for those with normal test results (66.8%, 139/208 vs 80%, 111/138; <italic>P</italic>=.006), whereas those who did receive a message were more likely to appropriately identify the message received (94.9%, 132/139 vs 78.4%, 87/111; <italic>P</italic>&#x0003c;.001). Both an ability to read a sentence on enrollment (74%, 104/140 vs 51%, 35/68; <italic>P</italic>=.001) and the ability to access a test message on enrollment (74%, 96/130 vs 58%, 23/40; <italic>P</italic>=.049) were associated with receipt of a message. Aside from network type, which was associated with accurate identification of a message, we found no other significant predictors of outcomes for those with normal laboratory results.</p><table-wrap id="table2" position="float"><label>Table 2</label><caption><p>Outcomes for participants with an abnormal laboratory result.</p></caption><table frame="hsides" rules="groups" width="1000" border="1" cellpadding="8" cellspacing="0"><col width="15" span="1"/><col width="167" span="1"/><col width="100" span="1"/><col width="32" span="1"/><col width="110" span="1"/><col width="32" span="1"/><col width="104" span="1"/><col width="58" span="1"/><thead><tr valign="top"><td colspan="2" rowspan="1">Characteristic</td><td rowspan="1" colspan="1">Reported text receipt, n/N (%)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td rowspan="1" colspan="1">Accurate message <break/>identification, n/N (%)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td rowspan="1" colspan="1">Appropriate return to clinic, n/N (%)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">All abnormal result participants</td><td rowspan="1" colspan="1">111/138 (80.4)</td><td rowspan="1" colspan="1">n/a</td><td rowspan="1" colspan="1">87/111 (78.4)</td><td rowspan="1" colspan="1">n/a</td><td rowspan="1" colspan="1">78/138 (56.5)</td><td rowspan="1" colspan="1">n/a</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Message type</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.81</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.004</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.045</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Direct</td><td rowspan="1" colspan="1">38/46 (83)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">34/38 (89)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">31/46 (67)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">PIN</td><td rowspan="1" colspan="1">38/49 (78)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">23/38 (60)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">21/49 (43)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Coded</td><td rowspan="1" colspan="1">35/43 (81)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">30/35 (86)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">26/43 (60)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Age (years)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.64</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.50</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.98</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02264;25</td><td rowspan="1" colspan="1">26/35 (74)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">22/26 (85)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">20/35 (57)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">26-32</td><td rowspan="1" colspan="1">30/38 (79)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">23/30 (77)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">22/28 (58)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">33-39</td><td rowspan="1" colspan="1">25/30 (83)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">21/25 (84)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">16/30 (53)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02265;40</td><td rowspan="1" colspan="1">30/35 (86)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">21/30 (70)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">20/35 (57)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Gender</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.57</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.73</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.89</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">59/75 (79)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">40/52 (77)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">42/75 (56)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">52/63 (83)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">47/59 (80)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">36/63 (57)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>CD4 result</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.78</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.65</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.04</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02264;100</td><td rowspan="1" colspan="1">27/34 (79)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">22/27 (81)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">25/34 (73)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">101-350</td><td rowspan="1" colspan="1">84/103 (82)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">65/84 (77)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">43/103 (51)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Estimated household income (US $/month)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.13</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.62</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.66</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;40</td><td rowspan="1" colspan="1">14/20 (70)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12/14 (86)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">13/20 (65)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">40-80</td><td rowspan="1" colspan="1">19/26 (73)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">13 /19 (68)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">13/26 (50)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">80-180</td><td rowspan="1" colspan="1">22/30 (73)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">16/22 (73)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">15/30 (50)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003e;180</td><td rowspan="1" colspan="1">24/26 (92)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">19/24 (79)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">17/26 (65)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Unknown/unable to estimate</td><td rowspan="1" colspan="1">32/36 (89)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">27/32 (84)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">20/36 (56)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Educational attainment</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.22</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.11</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.30</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Less than primary</td><td rowspan="1" colspan="1">7/12 (58)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">4/7 (57)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">4/12 (33)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Any primary</td><td rowspan="1" colspan="1">59/71 (83)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">43/59 (73)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">40/71 (56)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Any secondary</td><td rowspan="1" colspan="1">31/37 (84)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">28/31 (90)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24/37 (65)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">More than secondary</td><td rowspan="1" colspan="1">14/18 (78)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12/14 (86)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">10/18 (56)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Literacy on enrollment</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.07</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.03</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.003</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Cannot read a complete sentence</td><td rowspan="1" colspan="1">27/38 (71)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">17/27 (63)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">14/38 (37)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Reads all of a sentence</td><td rowspan="1" colspan="1">82/97 (85)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">68/82 (83)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">63/97 (65)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Transportation time to clinic</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.21</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.32</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.32</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;30 minutes</td><td rowspan="1" colspan="1">30/38 (79)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">25/30 (83)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">20/38 (53)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">30-59 minutes</td><td rowspan="1" colspan="1">28/37 (76)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">19/28 (68)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">20/37 (54)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">60-119 minutes</td><td rowspan="1" colspan="1">29/31 (94)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">25/29 (86)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">22/31 (71)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02265;129 minutes</td><td rowspan="1" colspan="1">24/32 (75)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">18/24 (75)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">16/32 (50)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Share mobile phone with household</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.79</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.87</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.41</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No</td><td rowspan="1" colspan="1">71/89 (80)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">56/71 (79)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">48/89 (54)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">40/49 (82)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">31/40 (78)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">30/49 (61)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Accessed sample SMS text message on enrollment</bold>
+</td><td rowspan="1" colspan="1">.04</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.62</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.03</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No</td><td rowspan="1" colspan="1">11/18 (61)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">8/11 (73)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">6/18 (33)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">77/93 (83)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">61/77 (79)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">57/93 (61)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Messages sent</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.45</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.70</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.84</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">1-6</td><td rowspan="1" colspan="1">29/38 (76)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">22/29 (76)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">22/38 (58)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">82/100 (82)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">65/82 (79)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">56/100 (56)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Cellular network</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.67</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.07</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.93</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">MTN</td><td rowspan="1" colspan="1">56/68 (83)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">44/56 (79)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">38/68 (56)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Airtel</td><td rowspan="1" colspan="1">35/43 (81)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24/35 (69)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">23/43 (53)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Warid</td><td rowspan="1" colspan="1">17/23 (74)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">17/17 (100)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">14/23 (61)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Other</td><td rowspan="1" colspan="1">3/3 (100)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">2/3 (67)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">2/3 (67)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table></table-wrap><table-wrap id="table3" position="float"><label>Table 3</label><caption><p>Multivariable logistic regression models among participants with abnormal test results for predictors of successful receipt of at least one SMS text message, accurate identification of the transmitted SMS text message, and return to clinic within 7 days of message transmission.</p></caption><table frame="hsides" rules="groups" width="1000" border="1" cellpadding="8" cellspacing="0"><col width="15" span="1"/><col width="135" span="1"/><col width="104" span="1"/><col width="38" span="1"/><col width="104" span="1"/><col width="44" span="1"/><col width="104" span="1"/><col width="44" span="1"/><thead><tr valign="top"><td colspan="2" rowspan="1">Characteristic</td><td colspan="2" rowspan="1">Reported SMS receipt</td><td colspan="2" rowspan="1">Accurate SMS identification</td><td colspan="2" rowspan="1">Return to clinic &#x0003c;7 days</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">AOR (95% CI)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td rowspan="1" colspan="1">AOR (95% CI)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td rowspan="1" colspan="1">AOR (95% CI)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Age (years)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;26</td><td rowspan="1" colspan="1">reference</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">reference</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">reference</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">26-32</td><td rowspan="1" colspan="1">0.97 (0.30-3.13)</td><td rowspan="1" colspan="1">.97</td><td rowspan="1" colspan="1">0.33 (0.07-1.60)</td><td rowspan="1" colspan="1">.17</td><td rowspan="1" colspan="1">0.71 (0.24-2.07)</td><td rowspan="1" colspan="1">.53</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">33-39</td><td rowspan="1" colspan="1">1.43 (0.40-5.16)</td><td rowspan="1" colspan="1">.59</td><td rowspan="1" colspan="1">0.98 (0.18-5.27)</td><td rowspan="1" colspan="1">.99</td><td rowspan="1" colspan="1">0.72 (0.23-2.19)</td><td rowspan="1" colspan="1">.56</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02265;40</td><td rowspan="1" colspan="1">1.49 (0.41-5.45)</td><td rowspan="1" colspan="1">.54</td><td rowspan="1" colspan="1">0.24 (0.05-1.19)</td><td rowspan="1" colspan="1">.08</td><td rowspan="1" colspan="1">0.66 (0.22-1.95)</td><td rowspan="1" colspan="1">.45</td></tr><tr valign="top"><td colspan="2" rowspan="1">Gender (female)</td><td rowspan="1" colspan="1">0.95 (0.38-2.37)</td><td rowspan="1" colspan="1">.92</td><td rowspan="1" colspan="1">1.30 (0.44-3.83)</td><td rowspan="1" colspan="1">.63</td><td rowspan="1" colspan="1">1.15 (0.52-2.52)</td><td rowspan="1" colspan="1">.73</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>CD4 result</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02264;100</td><td rowspan="1" colspan="1">reference</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">reference</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">reference</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">101-350</td><td rowspan="1" colspan="1">1.08 (0.39-2.96)</td><td rowspan="1" colspan="1">.89</td><td rowspan="1" colspan="1">0.51 (0.13-1.96)</td><td rowspan="1" colspan="1">.33</td><td rowspan="1" colspan="1">0.28 (0.11-0.75)</td><td rowspan="1" colspan="1">.01</td></tr><tr valign="top"><td colspan="2" rowspan="1">Read a complete sentence on enrollment</td><td rowspan="1" colspan="1">2.14 (0.85-5.39)</td><td rowspan="1" colspan="1">.11</td><td rowspan="1" colspan="1">4.54 (1.42-14.47)</td><td rowspan="1" colspan="1">.01</td><td rowspan="1" colspan="1">3.81 (1.61-9.03)</td><td rowspan="1" colspan="1">.002</td></tr><tr valign="bottom"><td colspan="2" rowspan="1">Accessed sample SMS text on enrollment<sup>a</sup>
+</td><td rowspan="1" colspan="1">3.05 (0.76-12.21)</td><td rowspan="1" colspan="1">.12</td><td rowspan="1" colspan="1">0.63 (0.08-4.68)</td><td rowspan="1" colspan="1">.65</td><td rowspan="1" colspan="1">4.90 (1.06-22.61)</td><td rowspan="1" colspan="1">.04</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Randomized SMS text format</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Direct</td><td rowspan="1" colspan="1">reference</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">reference</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">reference</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">PIN</td><td rowspan="1" colspan="1">0.76 (0.27-2.17)</td><td rowspan="1" colspan="1">.61</td><td rowspan="1" colspan="1">0.11 (0.03-0.44)</td><td rowspan="1" colspan="1">.002</td><td rowspan="1" colspan="1">0.26 (0.10-0.66)</td><td rowspan="1" colspan="1">.005</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Coded</td><td rowspan="1" colspan="1">1.00 (0.31-3.20)</td><td rowspan="1" colspan="1">.99</td><td rowspan="1" colspan="1">0.38 (0.08-1.80)</td><td rowspan="1" colspan="1">.22</td><td rowspan="1" colspan="1">0.58 (0.22-1.55)</td><td rowspan="1" colspan="1">.28</td></tr></tbody></table><table-wrap-foot><fn id="table3fn1"><p>
+<sup>a</sup> Restricted to participants with an available mobile phone on enrollment.</p></fn></table-wrap-foot></table-wrap><table-wrap id="table4" position="float"><label>Table 4</label><caption><p>Outcomes for participants with a normal laboratory result.</p></caption><table frame="hsides" rules="groups" width="1000" border="1" cellpadding="8" cellspacing="0"><col width="15" span="1"/><col width="149" span="1"/><col width="80" span="1"/><col width="50" span="1"/><col width="92" span="1"/><col width="44" span="1"/><col width="98" span="1"/><col width="44" span="1"/><thead><tr valign="top"><td colspan="2" rowspan="1">Characteristic</td><td rowspan="1" colspan="1">Reported SMS receipt, n/N (%)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td rowspan="1" colspan="1">Accurate message identification, n/N (%)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td rowspan="1" colspan="1">Appropriate return to clinic, n/N (%)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">All normal test result participants</td><td rowspan="1" colspan="1">139/208 (66.8)</td><td rowspan="1" colspan="1">n/a</td><td rowspan="1" colspan="1">132/139 (95.0)</td><td rowspan="1" colspan="1">n/a</td><td rowspan="1" colspan="1">156/247 (63.2)</td><td rowspan="1" colspan="1">n/a</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Age (years)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.75</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.26</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.61</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02264;25</td><td rowspan="1" colspan="1">26/40 (65)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">23/26 (88)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">34/48 (71)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">26-32</td><td rowspan="1" colspan="1">31/42 (74)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">31/31 (100)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">32/50 (64)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">33-39</td><td rowspan="1" colspan="1">37/56 (66)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">35/37 (95)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">39/66 (59)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02265;40</td><td rowspan="1" colspan="1">45/70 (64)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">43/45 (96)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">51/83 (61)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Gender</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.14</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.28</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.26</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">93/146 (64)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">87/93 (94)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">115/176 (65)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">46/62 (74)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">45/46 (98)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">41/71 (58)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Estimated household income (US $/month)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.14</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.46</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.85</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;40</td><td rowspan="1" colspan="1">29/48 (60)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">26/29 (90)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">37/57 (65)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">40-80</td><td rowspan="1" colspan="1">34/45 (76)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">33/34 (97)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">34/55 (62)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">80-180</td><td rowspan="1" colspan="1">16/27 (59)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">15/16 (94)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">17/28 (61)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003e;180</td><td rowspan="1" colspan="1">28/35 (80)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">28/28 (100)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">30/43 (70)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Unknown/unable to estimate</td><td rowspan="1" colspan="1">32/53 (60)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">30/32 (94)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">38/64 (59)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Educational attainment</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.14</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.29</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Less than primary</td><td rowspan="1" colspan="1">15/27 (56)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">13/15 (87)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">22/31 (71)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Any primary</td><td rowspan="1" colspan="1">64/101 (63)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">62/64 (97)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">77/126 (61)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Any secondary</td><td rowspan="1" colspan="1">44/61 (72)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">41/44 (93)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">38/67 (57)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">More than secondary</td><td rowspan="1" colspan="1">16/19 (84)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">16/16 (100)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">19/23 (83)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Literacy on enrollment</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.001</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.27</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.27</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Cannot read a complete sentence</td><td rowspan="1" colspan="1">35/68 (51)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">32/35 (91)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">57/84 (68)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Reads all of a sentence</td><td rowspan="1" colspan="1">104/140 (74)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">100/104 (96)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">99/163 (61)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Transportation time to clinic</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.36</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.95</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.37</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;30 minutes</td><td rowspan="1" colspan="1">32/44 (73)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">30/32 (94)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">34/48 (71)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">30-59 minutes</td><td rowspan="1" colspan="1">32/47 (68)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">31/32 (97)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">37/54 (69)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">60-119 minutes</td><td rowspan="1" colspan="1">38/65 (58)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">36/38 (95)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">45/77 (58)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02265;129 minutes</td><td rowspan="1" colspan="1">37/52 (71)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">35/57 (95)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">40/68 (59)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Share mobile phone with household</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.34</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.67</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No</td><td rowspan="1" colspan="1">75/116 (75)</td><td rowspan="1" colspan="1">.46</td><td rowspan="1" colspan="1">70/75 (93)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">85/132 (64)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">64/92 (70)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">62/64 (97)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">71/115 (62)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Accessed sample SMS text on enrollment</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.049</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.52</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.17</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No</td><td rowspan="1" colspan="1">23/40 (58)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">21/23 (91)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">27/50 (54)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">96/130 (74)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">91/96 (95)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">100/154 (65)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Cellular network</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.14</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.99</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">MTN</td><td rowspan="1" colspan="1">84/113 (74)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">82/84 (98)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">85/131 (65)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Airtel</td><td rowspan="1" colspan="1">35/58 (60)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">35/35 (100)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">43/68 (63)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Warid</td><td rowspan="1" colspan="1">18/30 (60)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">13/18 (72)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">24/38 (63)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Other</td><td rowspan="1" colspan="1">2/2 (100)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">2/2 (100)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">3/5 (60)</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table></table-wrap><fig id="figure2" position="float"><label>Figure 2</label><caption><p>Outcomes by SMS text message format and literacy.</p></caption><graphic xlink:href="jmir_v17i3e78_fig2"/></fig></sec><sec sec-type="discussion"><title>Discussion</title><sec><title>Principal Findings</title><p>Among PLWH in rural Uganda, confirmed literacy at the time of enrollment, a demonstrated ability to access a sample SMS text message, and absence of a PIN-code protector were robust predictors of receipt, identification, and appropriate response to an SMS text&#x02013;based laboratory result messaging app. Specifically, PIN-protected messages were poorly accessed and reduced odds of message identification and appropriate clinic return. However, coded messages, which obviate the need for literacy, were as effective as direct messages and might augment privacy. We found no associations between age, gender, educational attainment, household income, or number of messages sent on any outcomes. Many studies have explored the acceptability of SMS text message interventions among PWLH in resource-limited settings, but our study is the first to our knowledge to directly assess the impact of literacy and technology experience on process and clinical outcomes, and demonstrates the importance of such features for mHealth interventions in these settings.</p><p>Prior work, largely among high-literacy users in resource-rich settings, has demonstrated that 2 major constructs&#x02014;perceived ease of use and perceived usefulness&#x02014;are important predictors of intention to use and use of health technology [<xref rid="ref9" ref-type="bibr">9</xref>]. Two conceptual models of technology acceptance, the technology acceptance model and the unified theory of technology acceptance and use of technology, have validated the importance of additional mediators, including subjective norms, output quality, and technology experience [<xref rid="ref23" ref-type="bibr">23</xref>-<xref rid="ref25" ref-type="bibr">25</xref>]. Studies among patient end users in resource-limited settings are relatively scarce, largely restricted to preintervention assessments, and have demonstrated high potential for acceptance [<xref rid="ref11" ref-type="bibr">11</xref>,<xref rid="ref12" ref-type="bibr">12</xref>,<xref rid="ref14" ref-type="bibr">14</xref>,<xref rid="ref26" ref-type="bibr">26</xref>,<xref rid="ref27" ref-type="bibr">27</xref>]. Our study demonstrates that among a patient population with a near 100% acceptability for SMS text-based mHealth interventions [<xref rid="ref12" ref-type="bibr">12</xref>], rates of SMS text message receipt (73%), accurate SMS text message identification (88%), and appropriate response to SMS text request (63%) were modest. Although we do not report results of ease of use or perceived ease of use directly, our findings that literacy, mobile phone experience, and non-PIN-protected messages all strongly support predictive roles for ease of use as a dominant role for successful technology uptake. Other postintervention assessments in resource-limited settings have demonstrated similar effects. A study assessing technology acceptance of self-service health kiosks in South Africa found that ease of use was the strongest predictor and most correlated with technology anxiety and self-efficacy [<xref rid="ref28" ref-type="bibr">28</xref>]. A second study from South Africa evaluating acceptability of a mobile phone-assisted personal interview to augment face-to-face maternal health data collection among health care workers found that both ease of use and perceived usefulness improved after a training session [<xref rid="ref15" ref-type="bibr">15</xref>]. A study of SMS text-based antiretroviral adherence reminders for caregivers of pediatric patients demonstrated low uptake of PIN-protected messages [<xref rid="ref8" ref-type="bibr">8</xref>]. We attempted to mitigate the complexity of PIN-based messages by allowing participant-selected codes and giving participants a form with the code, but we found similarly poor results for PIN-based messages. Finally, an analysis to determine predictors of response to an SMS text-based ART adherence reminder intervention demonstrated that higher educational attainment predicted improved adherence [<xref rid="ref29" ref-type="bibr">29</xref>].</p><p>Because an important minority of patients in a prestudy interview reported confidentiality concerns about receiving clinic-related information by SMS text message [<xref rid="ref12" ref-type="bibr">12</xref>], we attempted to assess various message formats to evaluate trade-offs between privacy and clarity. Whereas PIN code-protected messages were negatively associated with successful outcomes in our study, we were able to demonstrate the feasibility of protecting patient confidentiality through use of non-text messages without need for PIN-code protection. Participants who received a message stating &#x0201c;ABCDEFG&#x0201d; had similar rates of message receipt, identification, and early clinic return times as those who received a full instructional text message. Although this method shows promise, it is limited to transmission of qualitative messages (eg, &#x0201c;yes&#x0201d; or &#x0201c;no&#x0201d; information). Prior studies of mHealth interventions have attempted alternative strategies including not mentioning the words &#x0201c;HIV&#x0201d; or &#x0201c;ART&#x0201d; [<xref rid="ref30" ref-type="bibr">30</xref>] or using nonspecific greetings [<xref rid="ref31" ref-type="bibr">31</xref>]. One prior study, which did specifically use the term &#x0201c;medication&#x0201d; in an SMS text-based adherence reminder, found no effect of the intervention [<xref rid="ref32" ref-type="bibr">32</xref>].</p><p>Our results have important implications for future mHealth interventions targeted to low-literacy end users. First, text messaging was broadly successful in a rural, resource-limited population with limited education, suggesting that age, gender, educational attainment, and income should not be used as screening criteria for SMS text message interventions. Second, thorough assessments of end-user written literacy and technology experience should be made before and during implementation design. Third, we found that in-person confirmation of mobile phone competency was highly predictive and should be considered for future similar interventions where possible. Fourth, we demonstrate that coded messages can have similar efficacy as text messages, while maintaining confidentiality. Importantly, our study involved transmitting qualitative information (ie, normal or abnormal laboratory results). More complex instructional messages or quantified information will present additional challenges that should be explored in future studies through use of pictorial or other symbolic message formats. Finally, we observed increased rates of reported message receipt among those in the abnormal results group who mostly received 7 daily messages (median 7, IQR 5-7) compared to those in the normal results group who only received a single message, suggesting that repeated messages might increase successful transmission. In contrast, prior work has showed that weekly messages might be modestly preferably to daily messages [<xref rid="ref30" ref-type="bibr">30</xref>]. However, our study involved only a single notification, as opposed to prior adherence studies that transmitted SMS text message reminders for up to a year.</p></sec><sec><title>Limitations</title><p>Our study was conducted at a single clinical site with a highly impoverished and low-literacy population. Although this limits the generalizability of our study, it also adds important data about a study population in a low resource setting, which is often the target of mHealth interventions. Our study would have also benefited from evaluation of additional message formats. For example, interactive voice response or direct voice call groups would have added important comparative information; however, they might have challenged the scalability of the intervention.</p></sec><sec><title>Future Work</title><p>We are pursuing further activities to build on these results. Specifically, we are conducting postintervention qualitative interviews to collect in-depth accounts about ease of use and usefulness of the information, as well as barriers and promoters of uptake of the intervention. Lastly, we have partnered with the clinic data managers and faculty members in computer science at the Mbarara University of Science and Technology to implement an SMS text&#x02013;based reminder and results messaging system clinic-wide. We are planning a second evaluation following implementation to learn about large-scale effectiveness and scalability.</p></sec><sec><title>Conclusions</title><p>In summary, we demonstrate that end-user characteristics, particularly literacy and technology experience, are important predictors of an mHealth intervention for PLWH in rural Uganda. We also demonstrate that, although PIN code&#x02013;protected messages decrease the efficacy of SMS text message information delivery in this population, privacy can be maintained through coded messaging. Future SMS text&#x02013;based interventions for low-literacy users in similar settings should consider these factors in design and implementation of mHealth interventions. Further evaluation of technology acceptance in this population and similar ones is needed if the potential of mHealth in sub-Saharan Africa is to be realized.</p></sec></sec></body><back><ack><p>This study was funded by the National Institutes of Health (R24 TW007988, T32 AI007433, K23 MH099916), and the Harvard Global Health Institute. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></ack><fn-group><fn fn-type="conflict"><p>Conflicts of Interest: None declared.</p></fn></fn-group><glossary><title>Abbreviations</title><def-list><def-item><term id="abb1">API</term><def><p>application program interface</p></def></def-item><def-item><term id="abb2">ART</term><def><p>antiretroviral therapy</p></def></def-item><def-item><term id="abb3">HIV</term><def><p>human immunodeficiency virus</p></def></def-item><def-item><term id="abb4">PIN</term><def><p>personal identification number</p></def></def-item><def-item><term id="abb5">PLWH</term><def><p>people living with HIV</p></def></def-item><def-item><term id="abb6">SMS</term><def><p>short message service</p></def></def-item></def-list></glossary><ref-list><ref id="ref1"><label>1</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Qiang</surname><given-names>C</given-names></name><name><surname>Yamamichi</surname><given-names>M</given-names></name><name><surname>Hausman</surname><given-names>V</given-names></name><name><surname>Altman</surname><given-names>D</given-names></name></person-group><source>Mobile applications for the health sector</source><year>2011</year><month>12</month><date-in-citation>2015-03-11</date-in-citation><publisher-loc>Washington, DC</publisher-loc><publisher-name>World Bank</publisher-name><comment><ext-link ext-link-type="uri" xlink:href="http://siteresources.worldbank.org/INFORMATIONANDCOMMUNICATIONANDTECHNOLOGIES/Resources/mHealth_report.pdf">http://siteresources.worldbank.org/INFORMATIONANDCOMMUNICATIONANDTECHNOLOGIES/Resources/mHealth_report.pdf</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6Ww8gQfiL"/></element-citation></ref><ref id="ref2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blaya</surname><given-names>JA</given-names></name><name><surname>Fraser</surname><given-names>HS</given-names></name><name><surname>Holt</surname><given-names>B</given-names></name></person-group><article-title>E-health technologies show promise in developing countries</article-title><source>Health Aff (Millwood)</source><year>2010</year><month>2</month><volume>29</volume><issue>2</issue><fpage>244</fpage><lpage>51</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://content.healthaffairs.org/cgi/pmidlookup?view=long&#x00026;pmid=20348068"/></comment><pub-id pub-id-type="doi">10.1377/hlthaff.2009.0894</pub-id><pub-id pub-id-type="medline">20348068</pub-id><!--<pub-id pub-id-type="pii">29/2/244</pub-id>--><pub-id pub-id-type="pmid">20348068</pub-id></element-citation></ref><ref id="ref3"><label>3</label><element-citation publication-type="book"><source>The World in 2013: ICT Facts and Figures</source><year>2013</year><date-in-citation>2014-08-10</date-in-citation><publisher-loc>Geneva</publisher-loc><publisher-name>International Telecommunication Union</publisher-name><comment><ext-link ext-link-type="uri" xlink:href="http://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2013-e.pdf">http://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2013-e.pdf</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6WkxjqyfK"/></element-citation></ref><ref id="ref4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomlinson</surname><given-names>M</given-names></name><name><surname>Rotheram-Borus</surname><given-names>MJ</given-names></name><name><surname>Swartz</surname><given-names>L</given-names></name><name><surname>Tsai</surname><given-names>AC</given-names></name></person-group><article-title>Scaling up mHealth: where is the evidence?</article-title><source>PLoS Med</source><year>2013</year><volume>10</volume><issue>2</issue><fpage>e1001382</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.plos.org/10.1371/journal.pmed.1001382"/></comment><pub-id pub-id-type="doi">10.1371/journal.pmed.1001382</pub-id><pub-id pub-id-type="medline">23424286</pub-id><!--<pub-id pub-id-type="pii">PMEDICINE-D-12-02226</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3570540</pub-id>--><pub-id pub-id-type="pmid">23424286</pub-id></element-citation></ref><ref id="ref5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gurman</surname><given-names>TA</given-names></name><name><surname>Rubin</surname><given-names>SE</given-names></name><name><surname>Roess</surname><given-names>AA</given-names></name></person-group><article-title>Effectiveness of mHealth behavior change communication interventions in developing countries: a systematic review of the literature</article-title><source>J Health Commun</source><year>2012</year><volume>17 Suppl 1</volume><fpage>82</fpage><lpage>104</lpage><pub-id pub-id-type="doi">10.1080/10810730.2011.649160</pub-id><pub-id pub-id-type="medline">22548603</pub-id><pub-id pub-id-type="pmid">22548603</pub-id></element-citation></ref><ref id="ref6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aranda-Jan</surname><given-names>CB</given-names></name><name><surname>Mohutsiwa-Dibe</surname><given-names>N</given-names></name><name><surname>Loukanova</surname><given-names>S</given-names></name></person-group><article-title>Systematic review on what works, what does not work and why of implementation of mobile health (mHealth) projects in Africa</article-title><source>BMC Public Health</source><year>2014</year><volume>14</volume><fpage>188</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2458/14/188"/></comment><pub-id pub-id-type="doi">10.1186/1471-2458-14-188</pub-id><pub-id pub-id-type="medline">24555733</pub-id><!--<pub-id pub-id-type="pii">1471-2458-14-188</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3942265</pub-id>--><pub-id pub-id-type="pmid">24555733</pub-id></element-citation></ref><ref id="ref7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andreatta</surname><given-names>P</given-names></name><name><surname>Debpuur</surname><given-names>D</given-names></name><name><surname>Danquah</surname><given-names>A</given-names></name><name><surname>Perosky</surname><given-names>J</given-names></name></person-group><article-title>Using cell phones to collect postpartum hemorrhage outcome data in rural Ghana</article-title><source>Int J Gynaecol Obstet</source><year>2011</year><month>5</month><volume>113</volume><issue>2</issue><fpage>148</fpage><lpage>51</lpage><pub-id pub-id-type="doi">10.1016/j.ijgo.2010.11.020</pub-id><pub-id pub-id-type="medline">21420086</pub-id><!--<pub-id pub-id-type="pii">S0020-7292(11)00052-X</pub-id>--><pub-id pub-id-type="pmid">21420086</pub-id></element-citation></ref><ref id="ref8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haberer</surname><given-names>JE</given-names></name><name><surname>Kiwanuka</surname><given-names>J</given-names></name><name><surname>Nansera</surname><given-names>D</given-names></name><name><surname>Wilson</surname><given-names>IB</given-names></name><name><surname>Bangsberg</surname><given-names>DR</given-names></name></person-group><article-title>Challenges in using mobile phones for collection of antiretroviral therapy adherence data in a resource-limited setting</article-title><source>AIDS Behav</source><year>2010</year><month>12</month><volume>14</volume><issue>6</issue><fpage>1294</fpage><lpage>301</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/20532605"/></comment><pub-id pub-id-type="doi">10.1007/s10461-010-9720-1</pub-id><pub-id pub-id-type="medline">20532605</pub-id><!--<pub-id pub-id-type="pmcid">PMC2975780</pub-id>--><pub-id pub-id-type="pmid">20532605</pub-id></element-citation></ref><ref id="ref9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Holden</surname><given-names>RJ</given-names></name><name><surname>Karsh</surname><given-names>BT</given-names></name></person-group><article-title>The technology acceptance model: its past and its future in health care</article-title><source>J Biomed Inform</source><year>2010</year><month>2</month><volume>43</volume><issue>1</issue><fpage>159</fpage><lpage>72</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://linkinghub.elsevier.com/retrieve/pii/S1532-0464(09)00096-3"/></comment><pub-id pub-id-type="doi">10.1016/j.jbi.2009.07.002</pub-id><pub-id pub-id-type="medline">19615467</pub-id><!--<pub-id pub-id-type="pii">S1532-0464(09)00096-3</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2814963</pub-id>--><pub-id pub-id-type="pmid">19615467</pub-id></element-citation></ref><ref id="ref10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Venkatesh</surname><given-names>V</given-names></name><name><surname>Morris</surname><given-names>MG</given-names></name><name><surname>Davis</surname><given-names>GB</given-names></name><name><surname>Davis</surname><given-names>FD</given-names></name></person-group><article-title>User acceptance of information technology: Toward a unified view</article-title><source>MIS quarterly</source><year>2003</year><volume>27</volume><issue>3</issue><fpage>425</fpage><lpage>477</lpage></element-citation></ref><ref id="ref11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jennings</surname><given-names>L</given-names></name><name><surname>Ong'ech</surname><given-names>J</given-names></name><name><surname>Simiyu</surname><given-names>R</given-names></name><name><surname>Sirengo</surname><given-names>M</given-names></name><name><surname>Kassaye</surname><given-names>S</given-names></name></person-group><article-title>Exploring the use of mobile phone technology for the enhancement of the prevention of mother-to-child transmission of HIV program in Nyanza, Kenya: a qualitative study</article-title><source>BMC Public Health</source><year>2013</year><volume>13</volume><fpage>1131</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2458/13/1131"/></comment><pub-id pub-id-type="doi">10.1186/1471-2458-13-1131</pub-id><pub-id pub-id-type="medline">24308409</pub-id><!--<pub-id pub-id-type="pii">1471-2458-13-1131</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC4234194</pub-id>--><pub-id pub-id-type="pmid">24308409</pub-id></element-citation></ref><ref id="ref12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Siedner</surname><given-names>MJ</given-names></name><name><surname>Haberer</surname><given-names>JE</given-names></name><name><surname>Bwana</surname><given-names>MB</given-names></name><name><surname>Ware</surname><given-names>NC</given-names></name><name><surname>Bangsberg</surname><given-names>DR</given-names></name></person-group><article-title>High acceptability for cell phone text messages to improve communication of laboratory results with HIV-infected patients in rural Uganda: a cross-sectional survey study</article-title><source>BMC Med Inform Decis Mak</source><year>2012</year><volume>12</volume><fpage>56</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1472-6947/12/56"/></comment><pub-id pub-id-type="doi">10.1186/1472-6947-12-56</pub-id><pub-id pub-id-type="medline">22720901</pub-id><!--<pub-id pub-id-type="pii">1472-6947-12-56</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3470938</pub-id>--><pub-id pub-id-type="pmid">22720901</pub-id></element-citation></ref><ref id="ref13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomlinson</surname><given-names>M</given-names></name><name><surname>Solomon</surname><given-names>W</given-names></name><name><surname>Singh</surname><given-names>Y</given-names></name><name><surname>Doherty</surname><given-names>T</given-names></name><name><surname>Chopra</surname><given-names>M</given-names></name><name><surname>Ijumba</surname><given-names>P</given-names></name><name><surname>Tsai</surname><given-names>AC</given-names></name><name><surname>Jackson</surname><given-names>D</given-names></name></person-group><article-title>The use of mobile phones as a data collection tool: a report from a household survey in South Africa</article-title><source>BMC Med Inform Decis Mak</source><year>2009</year><volume>9</volume><fpage>51</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1472-6947/9/51"/></comment><pub-id pub-id-type="doi">10.1186/1472-6947-9-51</pub-id><pub-id pub-id-type="medline">20030813</pub-id><!--<pub-id pub-id-type="pii">1472-6947-9-51</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2811102</pub-id>--><pub-id pub-id-type="pmid">20030813</pub-id></element-citation></ref><ref id="ref14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chang</surname><given-names>LW</given-names></name><name><surname>Njie-Carr</surname><given-names>V</given-names></name><name><surname>Kalenge</surname><given-names>S</given-names></name><name><surname>Kelly</surname><given-names>JF</given-names></name><name><surname>Bollinger</surname><given-names>RC</given-names></name><name><surname>Alamo-Talisuna</surname><given-names>S</given-names></name></person-group><article-title>Perceptions and acceptability of mHealth interventions for improving patient care at a community-based HIV/AIDS clinic in Uganda: a mixed methods study</article-title><source>AIDS Care</source><year>2013</year><volume>25</volume><issue>7</issue><fpage>874</fpage><lpage>80</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/23452084"/></comment><pub-id pub-id-type="doi">10.1080/09540121.2013.774315</pub-id><pub-id pub-id-type="medline">23452084</pub-id><!--<pub-id pub-id-type="pmcid">PMC3688650</pub-id>--><pub-id pub-id-type="pmid">23452084</pub-id></element-citation></ref><ref id="ref15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van</surname><given-names>HA</given-names></name><name><surname>Norris</surname><given-names>S</given-names></name><name><surname>Tollman</surname><given-names>S</given-names></name><name><surname>Richter</surname><given-names>L</given-names></name><name><surname>Rotheram-Borus</surname><given-names>MJ</given-names></name></person-group><article-title>Collecting maternal health information from HIV-positive pregnant women using mobile phone-assisted face-to-face interviews in Southern Africa</article-title><source>J Med Internet Res</source><year>2013</year><volume>15</volume><issue>6</issue><fpage>e116</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2013/6/e116/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.2207</pub-id><pub-id pub-id-type="medline">23748182</pub-id><!--<pub-id pub-id-type="pii">v15i6e116</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3713928</pub-id>--><pub-id pub-id-type="pmid">23748182</pub-id></element-citation></ref><ref id="ref16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Leon</surname><given-names>N</given-names></name><name><surname>Schneider</surname><given-names>H</given-names></name><name><surname>Daviaud</surname><given-names>E</given-names></name></person-group><article-title>Applying a framework for assessing the health system challenges to scaling up mHealth in South Africa</article-title><source>BMC Med Inform Decis Mak</source><year>2012</year><volume>12</volume><fpage>123</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1472-6947/12/123"/></comment><pub-id pub-id-type="doi">10.1186/1472-6947-12-123</pub-id><pub-id pub-id-type="medline">23126370</pub-id><!--<pub-id pub-id-type="pii">1472-6947-12-123</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3534437</pub-id>--><pub-id pub-id-type="pmid">23126370</pub-id></element-citation></ref><ref id="ref17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tsai</surname><given-names>AC</given-names></name><name><surname>Bangsberg</surname><given-names>DR</given-names></name><name><surname>Kegeles</surname><given-names>SM</given-names></name><name><surname>Katz</surname><given-names>IT</given-names></name><name><surname>Haberer</surname><given-names>JE</given-names></name><name><surname>Muzoora</surname><given-names>C</given-names></name><name><surname>Kumbakumba</surname><given-names>E</given-names></name><name><surname>Hunt</surname><given-names>PW</given-names></name><name><surname>Martin</surname><given-names>JN</given-names></name><name><surname>Weiser</surname><given-names>SD</given-names></name></person-group><article-title>Internalized stigma, social distance, and disclosure of HIV seropositivity in rural Uganda</article-title><source>Ann Behav Med</source><year>2013</year><month>12</month><volume>46</volume><issue>3</issue><fpage>285</fpage><lpage>94</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/23690283"/></comment><pub-id pub-id-type="doi">10.1007/s12160-013-9514-6</pub-id><pub-id pub-id-type="medline">23690283</pub-id><!--<pub-id pub-id-type="pmcid">PMC3795853</pub-id>--><pub-id pub-id-type="pmid">23690283</pub-id></element-citation></ref><ref id="ref18"><label>18</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Siedner</surname><given-names>M</given-names></name><name><surname>Santorino</surname><given-names>D</given-names></name><name><surname>Lankowski</surname><given-names>A</given-names></name><name><surname>Kanyesigye</surname><given-names>M</given-names></name><name><surname>Bwana</surname><given-names>M</given-names></name><name><surname>Haberer</surname><given-names>J</given-names></name><name><surname>Bangsberg</surname><given-names>D</given-names></name></person-group><article-title>An SMS intervention to improve HIV linkage to care: a randomized, comparative effectiveness trial</article-title><year>2014</year><conf-name>21st Conference on Retrovirusesand Opportunistic Infections</conf-name><conf-date>March 2014</conf-date><conf-loc>Boston, MA</conf-loc></element-citation></ref><ref id="ref19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ware</surname><given-names>NC</given-names></name><name><surname>Idoko</surname><given-names>J</given-names></name><name><surname>Kaaya</surname><given-names>S</given-names></name><name><surname>Biraro</surname><given-names>IA</given-names></name><name><surname>Wyatt</surname><given-names>MA</given-names></name><name><surname>Agbaji</surname><given-names>O</given-names></name><name><surname>Chalamilla</surname><given-names>G</given-names></name><name><surname>Bangsberg</surname><given-names>DR</given-names></name></person-group><article-title>Explaining adherence success in sub-Saharan Africa: an ethnographic study</article-title><source>PLoS Med</source><year>2009</year><month>1</month><day>27</day><volume>6</volume><issue>1</issue><fpage>e11</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.plos.org/10.1371/journal.pmed.1000011"/></comment><pub-id pub-id-type="doi">10.1371/journal.pmed.1000011</pub-id><pub-id pub-id-type="medline">19175285</pub-id><!--<pub-id pub-id-type="pii">08-PLME-RA-1572</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2631046</pub-id>--><pub-id pub-id-type="pmid">19175285</pub-id></element-citation></ref><ref id="ref20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Siedner</surname><given-names>MJ</given-names></name><name><surname>Lankowski</surname><given-names>A</given-names></name><name><surname>Tsai</surname><given-names>AC</given-names></name><name><surname>Muzoora</surname><given-names>Co</given-names></name><name><surname>Martin</surname><given-names>JN</given-names></name><name><surname>Hunt</surname><given-names>PW</given-names></name><name><surname>Haberer</surname><given-names>JE</given-names></name><name><surname>Bangsberg</surname><given-names>DR</given-names></name></person-group><article-title>GPS-measured distance to clinic, but not self-reported transportation factors, are associated with missed HIV clinic visits in rural Uganda</article-title><source>AIDS</source><year>2013</year><month>6</month><day>1</day><volume>27</volume><issue>9</issue><fpage>1503</fpage><lpage>8</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/23435294"/></comment><pub-id pub-id-type="doi">10.1097/QAD.0b013e32835fd873</pub-id><pub-id pub-id-type="medline">23435294</pub-id><!--<pub-id pub-id-type="pmcid">PMC3745818</pub-id>--><pub-id pub-id-type="pmid">23435294</pub-id></element-citation></ref><ref id="ref21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lankowski</surname><given-names>AJ</given-names></name><name><surname>Siedner</surname><given-names>MJ</given-names></name><name><surname>Bangsberg</surname><given-names>DR</given-names></name><name><surname>Tsai</surname><given-names>AC</given-names></name></person-group><article-title>Impact of geographic and transportation-related barriers on HIV outcomes in sub-Saharan Africa: a systematic review</article-title><source>AIDS Behav</source><year>2014</year><month>7</month><volume>18</volume><issue>7</issue><fpage>1199</fpage><lpage>223</lpage><pub-id pub-id-type="doi">10.1007/s10461-014-0729-8</pub-id><pub-id pub-id-type="medline">24563115</pub-id><!--<pub-id pub-id-type="pmcid">PMC4047127</pub-id>--><pub-id pub-id-type="pmid">24563115</pub-id></element-citation></ref><ref id="ref22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harris</surname><given-names>PA</given-names></name><name><surname>Taylor</surname><given-names>R</given-names></name><name><surname>Thielke</surname><given-names>R</given-names></name><name><surname>Payne</surname><given-names>J</given-names></name><name><surname>Gonzalez</surname><given-names>N</given-names></name><name><surname>Conde</surname><given-names>JG</given-names></name></person-group><article-title>Research electronic data capture (REDCap)--a metadata-driven methodology and workflow process for providing translational research informatics support</article-title><source>J Biomed Inform</source><year>2009</year><month>4</month><volume>42</volume><issue>2</issue><fpage>377</fpage><lpage>81</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://linkinghub.elsevier.com/retrieve/pii/S1532-0464(08)00122-6"/></comment><pub-id pub-id-type="doi">10.1016/j.jbi.2008.08.010</pub-id><pub-id pub-id-type="medline">18929686</pub-id><!--<pub-id pub-id-type="pii">S1532-0464(08)00122-6</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2700030</pub-id>--><pub-id pub-id-type="pmid">18929686</pub-id></element-citation></ref><ref id="ref23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Venkatesh</surname><given-names>V</given-names></name><name><surname>Thong</surname><given-names>J</given-names></name><name><surname>Xu</surname><given-names>X</given-names></name></person-group><article-title>Consumer acceptance and use of information technology: extending the unified theory of acceptance and use of technology</article-title><source>MIS quarterly</source><year>2012</year><volume>36</volume><issue>1</issue><fpage>157</fpage><lpage>178</lpage></element-citation></ref><ref id="ref24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Venkatesh</surname><given-names>V</given-names></name><name><surname>Davis</surname><given-names>FD</given-names></name></person-group><article-title>A theoretical extension of the technology acceptance model: four longitudinal field studies</article-title><source>Management Science</source><year>2000</year><month>2</month><volume>46</volume><issue>2</issue><fpage>186</fpage><lpage>204</lpage><pub-id pub-id-type="doi">10.1287/mnsc.46.2.186.11926</pub-id></element-citation></ref><ref id="ref25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>A</given-names></name><name><surname>Osonoi</surname><given-names>T</given-names></name><name><surname>Terauchi</surname><given-names>Y</given-names></name></person-group><article-title>Relationship between urinary sodium excretion and pioglitazone-induced edema</article-title><source>J Diabetes Investig</source><year>2010</year><month>10</month><day>19</day><volume>1</volume><issue>5</issue><fpage>208</fpage><lpage>11</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.2040-1124.2010.00046.x"/></comment><pub-id pub-id-type="doi">10.1111/j.2040-1124.2010.00046.x</pub-id><pub-id pub-id-type="medline">24843434</pub-id><!--<pub-id pub-id-type="pii">JDI46</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC4020723</pub-id>--></element-citation></ref><ref id="ref26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mitchell</surname><given-names>KJ</given-names></name><name><surname>Bull</surname><given-names>S</given-names></name><name><surname>Kiwanuka</surname><given-names>J</given-names></name><name><surname>Ybarra</surname><given-names>ML</given-names></name></person-group><article-title>Cell phone usage among adolescents in Uganda: acceptability for relaying health information</article-title><source>Health Educ Res</source><year>2011</year><month>10</month><volume>26</volume><issue>5</issue><fpage>770</fpage><lpage>81</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://her.oxfordjournals.org/cgi/pmidlookup?view=long&#x00026;pmid=21536715"/></comment><pub-id pub-id-type="doi">10.1093/her/cyr022</pub-id><pub-id pub-id-type="medline">21536715</pub-id><!--<pub-id pub-id-type="pii">cyr022</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3168334</pub-id>--><pub-id pub-id-type="pmid">21536715</pub-id></element-citation></ref><ref id="ref27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Crankshaw</surname><given-names>T</given-names></name><name><surname>Corless</surname><given-names>IB</given-names></name><name><surname>Giddy</surname><given-names>J</given-names></name><name><surname>Nicholas</surname><given-names>PK</given-names></name><name><surname>Eichbaum</surname><given-names>Q</given-names></name><name><surname>Butler</surname><given-names>LM</given-names></name></person-group><article-title>Exploring the patterns of use and the feasibility of using cellular phones for clinic appointment reminders and adherence messages in an antiretroviral treatment clinic, Durban, South Africa</article-title><source>AIDS Patient Care STDS</source><year>2010</year><month>11</month><volume>24</volume><issue>11</issue><fpage>729</fpage><lpage>34</lpage><pub-id pub-id-type="doi">10.1089/apc.2010.0146</pub-id><pub-id pub-id-type="medline">21039181</pub-id><pub-id pub-id-type="pmid">21039181</pub-id></element-citation></ref><ref id="ref28"><label>28</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Cohen</surname><given-names>JF</given-names></name><name><surname>Sergay</surname><given-names>SD</given-names></name></person-group><article-title>An empirical study of health consumer beliefs, attitude and intentions toward the use of self-service kiosks</article-title><year>2011</year><conf-name>American Conference on Information Systems (AMCIS)</conf-name><conf-date>August 4-8, 2011</conf-date><conf-loc>Detroit, MI</conf-loc></element-citation></ref><ref id="ref29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van der Kop</surname><given-names>ML</given-names></name><name><surname>Karanja</surname><given-names>S</given-names></name><name><surname>Thabane</surname><given-names>L</given-names></name><name><surname>Marra</surname><given-names>C</given-names></name><name><surname>Chung</surname><given-names>MH</given-names></name><name><surname>Gelmon</surname><given-names>L</given-names></name><name><surname>Kimani</surname><given-names>J</given-names></name><name><surname>Lester</surname><given-names>RT</given-names></name></person-group><article-title>In-depth analysis of patient-clinician cell phone communication during the WelTel Kenya1 antiretroviral adherence trial</article-title><source>PLoS One</source><year>2012</year><volume>7</volume><issue>9</issue><fpage>e46033</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.plos.org/10.1371/journal.pone.0046033"/></comment><pub-id pub-id-type="doi">10.1371/journal.pone.0046033</pub-id><pub-id pub-id-type="medline">23049928</pub-id><!--<pub-id pub-id-type="pii">PONE-D-12-14771</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3457960</pub-id>--><pub-id pub-id-type="pmid">23049928</pub-id></element-citation></ref><ref id="ref30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pop-Eleches</surname><given-names>C</given-names></name><name><surname>Thirumurthy</surname><given-names>H</given-names></name><name><surname>Habyarimana</surname><given-names>JP</given-names></name><name><surname>Zivin</surname><given-names>JG</given-names></name><name><surname>Goldstein</surname><given-names>MP</given-names></name><name><surname>de Walque</surname><given-names>D</given-names></name><name><surname>MacKeen</surname><given-names>L</given-names></name><name><surname>Haberer</surname><given-names>J</given-names></name><name><surname>Kimaiyo</surname><given-names>S</given-names></name><name><surname>Sidle</surname><given-names>J</given-names></name><name><surname>Ngare</surname><given-names>D</given-names></name><name><surname>Bangsberg</surname><given-names>DR</given-names></name></person-group><article-title>Mobile phone technologies improve adherence to antiretroviral treatment in a resource-limited setting: a randomized controlled trial of text message reminders</article-title><source>AIDS</source><year>2011</year><month>3</month><day>27</day><volume>25</volume><issue>6</issue><fpage>825</fpage><lpage>34</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/21252632"/></comment><pub-id pub-id-type="doi">10.1097/QAD.0b013e32834380c1</pub-id><pub-id pub-id-type="medline">21252632</pub-id><!--<pub-id pub-id-type="pmcid">PMC3718389</pub-id>--><pub-id pub-id-type="pmid">21252632</pub-id></element-citation></ref><ref id="ref31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lester</surname><given-names>RT</given-names></name><name><surname>Ritvo</surname><given-names>P</given-names></name><name><surname>Mills</surname><given-names>EJ</given-names></name><name><surname>Kariri</surname><given-names>A</given-names></name><name><surname>Karanja</surname><given-names>S</given-names></name><name><surname>Chung</surname><given-names>MH</given-names></name><name><surname>Jack</surname><given-names>W</given-names></name><name><surname>Habyarimana</surname><given-names>J</given-names></name><name><surname>Sadatsafavi</surname><given-names>M</given-names></name><name><surname>Najafzadeh</surname><given-names>M</given-names></name><name><surname>Marra</surname><given-names>CA</given-names></name><name><surname>Estambale</surname><given-names>B</given-names></name><name><surname>Ngugi</surname><given-names>E</given-names></name><name><surname>Ball</surname><given-names>TB</given-names></name><name><surname>Thabane</surname><given-names>L</given-names></name><name><surname>Gelmon</surname><given-names>LJ</given-names></name><name><surname>Kimani</surname><given-names>J</given-names></name><name><surname>Ackers</surname><given-names>M</given-names></name><name><surname>Plummer</surname><given-names>FA</given-names></name></person-group><article-title>Effects of a mobile phone short message service on antiretroviral treatment adherence in Kenya (WelTel Kenya1): a randomised trial</article-title><source>Lancet</source><year>2010</year><month>11</month><day>27</day><volume>376</volume><issue>9755</issue><fpage>1838</fpage><lpage>45</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(10)61997-6</pub-id><pub-id pub-id-type="medline">21071074</pub-id><!--<pub-id pub-id-type="pii">S0140-6736(10)61997-6</pub-id>--><pub-id pub-id-type="pmid">21071074</pub-id></element-citation></ref><ref id="ref32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mbuagbaw</surname><given-names>L</given-names></name><name><surname>Thabane</surname><given-names>L</given-names></name><name><surname>Ongolo-Zogo</surname><given-names>P</given-names></name><name><surname>Lester</surname><given-names>RT</given-names></name><name><surname>Mills</surname><given-names>EJ</given-names></name><name><surname>Smieja</surname><given-names>M</given-names></name><name><surname>Dolovich</surname><given-names>L</given-names></name><name><surname>Kouanfack</surname><given-names>C</given-names></name></person-group><article-title>The Cameroon Mobile Phone SMS (CAMPS) trial: a randomized trial of text messaging versus usual care for adherence to antiretroviral therapy</article-title><source>PLoS One</source><year>2012</year><volume>7</volume><issue>12</issue><fpage>e46909</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.plos.org/10.1371/journal.pone.0046909"/></comment><pub-id pub-id-type="doi">10.1371/journal.pone.0046909</pub-id><pub-id pub-id-type="medline">23236345</pub-id><!--<pub-id pub-id-type="pii">PONE-D-12-24092</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3516507</pub-id>--><pub-id pub-id-type="pmid">23236345</pub-id></element-citation></ref></ref-list></back></article>

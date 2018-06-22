@@ -1,0 +1,416 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">21949754</article-id><article-id pub-id-type="pmc">3176769</article-id><article-id pub-id-type="publisher-id">PONE-D-11-11392</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0024798</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Computational Biology</subject><subj-group><subject>Population Genetics</subject><subj-group><subject>Genetic Polymorphism</subject></subj-group></subj-group></subj-group><subj-group><subject>Evolutionary Biology</subject><subj-group><subject>Population Genetics</subject><subj-group><subject>Genetic Polymorphism</subject></subj-group></subj-group></subj-group><subj-group><subject>Genetics</subject><subj-group><subject>Population Genetics</subject><subj-group><subject>Genetic Polymorphism</subject></subj-group></subj-group></subj-group><subj-group><subject>Microbiology</subject><subj-group><subject>Virology</subject><subj-group><subject>Antivirals</subject><subject>Mechanisms of Resistance and Susceptibility</subject></subj-group></subj-group></subj-group><subj-group><subject>Population Biology</subject><subj-group><subject>Population Genetics</subject><subj-group><subject>Genetic Polymorphism</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Infectious diseases</subject><subj-group><subject>Viral diseases</subject><subj-group><subject>HIV</subject><subj-group><subject>HIV diagnosis and management</subject></subj-group></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Polymorphism in Gag Gene Cleavage Sites of HIV-1 Non-B Subtype and Virological Outcome of a First-Line Lopinavir/Ritonavir Single Drug Regimen</article-title><alt-title alt-title-type="running-head">Mutations in Gag and Response to PI/r Monotherapy</alt-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><name><surname>Ghosn</surname><given-names>Jade</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Delaugerre</surname><given-names>Constance</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Flandre</surname><given-names>Philippe</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Galimand</surname><given-names>Julie</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Cohen-Codar</surname><given-names>Isabelle</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Raffi</surname><given-names>Fran&#x000e7;ois</given-names></name><xref ref-type="aff" rid="aff6">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Delfraissy</surname><given-names>Jean-Fran&#x000e7;ois</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Rouzioux</surname><given-names>Christine</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Chaix</surname><given-names>Marie-Laure</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Paris Descartes University, EA 3620, Necker University Hospital, Paris, France</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>AP-HP, Department of Internal Medicine and Infectious Diseases, Bicetre University Hospital, Le Kremlin-Bicetre, France</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>AP-HP, Virology Department, Necker University Hospital, Paris, France</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Inserm UMR-S 943, Virology Department, Piti&#x000e9;-Salp&#x000ea;tri&#x000e8;re Hospital and Pierre et Marie Curie University Paris 6, Paris, France</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Abbott France, Rungis, France</addr-line>
+</aff><aff id="aff6">
+<label>6</label>
+<addr-line>Department of Infectious Diseases, Hotel-Dieu Hospital, Nantes, France</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Mammano</surname><given-names>Fabrizio</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">INSERM, France</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>jade.ghosn@bct.aphp.fr</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: JGhosn CD M-LC CR PF. Performed the experiments: JGhosn JGalimand CD. Analyzed the data: JGhosn CD M-LC CR IC-C J-FD FR PF. Contributed reagents/materials/analysis tools: JGhosn JGalimand. Wrote the paper: JGhosn CD M-LC. Design of the clinical trial: J-FD CR IC-C PF CD.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>20</day><month>9</month><year>2011</year></pub-date><volume>6</volume><issue>9</issue><elocation-id>e24798</elocation-id><history><date date-type="received"><day>23</day><month>6</month><year>2011</year></date><date date-type="accepted"><day>22</day><month>8</month><year>2011</year></date></history><permissions><copyright-statement>Ghosn et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><p>Virological failure on a boosted-protease inhibitor (PI/r) first-line triple combination is usually not associated with the detection of resistance mutations in the protease gene. Thus, other resistance pathways are being investigated. First-line PI/r monotherapy is the best model to investigate <italic>in vivo</italic> if the presence of mutations in the cleavage sites (CS) of <italic>gag</italic> gene prior to any antiretroviral treatment might influence PI/r efficacy. 83 patients were assigned to initiate antiretroviral treatment with first-line lopinavir/r monotherapy in the randomised Monark trial. We compared baseline sequence of gag CS between patients harbouring B or non-B HIV-1 subtype, and between those who achieved viral suppression and those who experienced virological failure while on LPV/r monotherapy up to Week 96. Baseline sequence of gag CS was available for 82/83 isolates; 81/82 carried at least one substitution in gag CS compared to HXB2 sequence. At baseline, non-B subtype isolates were significantly more likely to harbour mutations in gag CS than B subtype isolates (p&#x0003c;0.0001). Twenty-three patients experienced virological failure while on lopinavir/r monotherapy. The presence of more than two substitutions in p2/NC site at baseline significantly predicted virological failure (p&#x0200a;=&#x0200a;0.0479), non-B subtype isolates being more likely to harbour more than two substitutions in this specific site. In conclusion, gag cleavage site was highly polymorphic in antiretroviral-naive patients harbouring a non-B HIV-1 strain. We show that pre-therapy mutations in gag cleavage site sequence were significantly associated with the virological outcome of a first-line LPV/r single drug regimen in the Monark trial.</p></abstract><counts><page-count count="6"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Complete viral suppression may be achieved in 64 to 84&#x00025; of antiretroviral-na&#x000ef;ve HIV-infected patients starting a ritonavir-boosted protease inhibitor based first-line combination <xref rid="pone.0024798-Daar1" ref-type="bibr">[1]</xref>&#x02013;<xref rid="pone.0024798-Riddler1" ref-type="bibr">[4]</xref>. Unlike virological failure on a first-line non-nucleoside analogue reverse transcriptase inhibitor (NNRTI)-containing regimen, failure on a first-line PI/r based triple combination is rarely associated with the detection of resistance mutations in HIV protease and reverse transcriptase genes <xref rid="pone.0024798-Daar1" ref-type="bibr">[1]</xref>, <xref rid="pone.0024798-Riddler1" ref-type="bibr">[4]</xref>, <xref rid="pone.0024798-Soulie1" ref-type="bibr">[5]</xref>. Indeed, the development of PI resistance is usually a stepwise process occurring in treatment-experienced patients, with first the accumulation of major mutations leading to resistance to one or several protease inhibitors and decreasing viral fitness <xref rid="pone.0024798-Condra1" ref-type="bibr">[6]</xref>&#x02013;<xref rid="pone.0024798-Molla1" ref-type="bibr">[8]</xref>, and then, minor mutations, which partially subsequently restore viral replication <xref rid="pone.0024798-Mammano1" ref-type="bibr">[9]</xref>&#x02013;<xref rid="pone.0024798-Zhang1" ref-type="bibr">[12]</xref>. The fact that failure on a first-line PI/r combination is rarely associated with the detection of resistance mutations has led to the search for other resistance mechanisms enabling HIV to become resistant to PI without modification of the viral protease. One hypothesis might be that mutations are selected outside the <italic>protease</italic> gene, i.e. in the <italic>gag</italic> gene.</p><p>The HIV protease cleaves the gag and gag-pol polyproteins by interacting with specific cleavage sites (CS) in <italic>gag</italic> and <italic>pol</italic> genes. In the product of the gag open reading frame, Gag polyproteins are cleaved at five cleavage sites into p17 (MA), p24 (CA), p2 (SP1), p7 (NC), and p6gag. In the product of the gag-pol open reading frame, Gag-Pol polyproteins are cleaved at eight cleavage sites into p17 (MA), p24 (CA), p2 (SP1), p7 (NC), transframe protein (TFP), p6pol, protease, reverse transcriptase, and integrase <xref rid="pone.0024798-Dinman1" ref-type="bibr">[13]</xref>, <xref rid="pone.0024798-Girnary1" ref-type="bibr">[14]</xref>. Frameshifting is required for producing Gag and Gag-Pol polyprotein precursors in HIV-1, similar to many other retroviruses. Frameshifting is a rare controlled event, occurring only for 1 of 10 to 20 ribosomes. It is driven by the secondary RNA structure also called hairpin structure and allows for a correct Gag/Gag-Pol ratio to ensure optimal virus activity <xref rid="pone.0024798-Park1" ref-type="bibr">[15]</xref>, <xref rid="pone.0024798-Parkin1" ref-type="bibr">[16]</xref>. The RNA folding and stability of the gag-pol frameshift region can be evaluated by the measure of hairpin free energy.</p><p>Mutations in Gag CS emerge as compensatory mutations enabling specific protease mutants to have a greater efficiency of cutting the Gag polyprotein <xref rid="pone.0024798-Mammano1" ref-type="bibr">[9]</xref>, <xref rid="pone.0024798-Zhang1" ref-type="bibr">[12]</xref>, <xref rid="pone.0024798-Doyon1" ref-type="bibr">[17]</xref>, <xref rid="pone.0024798-Maguire1" ref-type="bibr">[18]</xref>. Interestingly, after full genomic sequencing, Nijhuis et al. reported on three viruses resistant to a novel PI without any resistance-associated mutation in <italic>protease</italic> gene but harbouring NC/p1 CS substitutions in the viral Gag polyprotein (K436E and or I437T/V) in <xref rid="pone.0024798-Nijhuis2" ref-type="bibr">[19]</xref>. This effect was driven essentially by the C-terminal region. Mutations in NC-SP2-p6 gag CS were found indeed to confer a 3- to 6-fold increase in phenotypic resistance factors to PIs and/or to enhance PI resistance conferred by mutations in the <italic>protease</italic> gene <xref rid="pone.0024798-Dam1" ref-type="bibr">[20]</xref>, <xref rid="pone.0024798-Parry1" ref-type="bibr">[21]</xref>. Potential underlying mechanisms of resistance may involve an increase in the mutant protease activity by a compensatory mechanism and/or a higher level of production of protease.</p><p>Though substitutions in gag CS are detected often in PI-experienced HIV-infected patients <xref rid="pone.0024798-Malet1" ref-type="bibr">[22]</xref>, recent studies have shown that such substitutions are also evident in antiretroviral-na&#x000ef;ve HIV-infected patients <xref rid="pone.0024798-Nijhuis2" ref-type="bibr">[19]</xref>, <xref rid="pone.0024798-Verheyen1" ref-type="bibr">[23]</xref>. Moreover, Nijhuis et al showed that these CS substitutions were highly significantly associated with reduced susceptibility to PI in clinical isolates lacking primary protease mutations <xref rid="pone.0024798-Nijhuis2" ref-type="bibr">[19]</xref>. Thus, in antiretroviral-na&#x000ef;ve HIV-infected patients starting a first-line combined antiretroviral therapy (cART), the presence of CS mutations might be associated with a decreased activity of protease-containing regimens, but its impact on cART outcome might be less pronounced in a context of triple combination with two nucleoside reverse transcriptase inhibitors (NRTI).</p><p>Monark was the first randomized trial comparing the efficacy of lopinavir/r (LPV/r) single drug regimen with a classical triple combination in antiretroviral-na&#x000ef;ve HIV-infected patients starting a first-line regimen <xref rid="pone.0024798-Delfraissy1" ref-type="bibr">[24]</xref>, <xref rid="pone.0024798-Ghosn1" ref-type="bibr">[25]</xref>. In this study, the proportion of patients achieving complete viral suppression was lower in the LPV/r single drug arm than in the triple combination arm. However, only 5 patients out of the 23 experiencing virological failure while on LPV/r drug selective pressure harbored a viral strain with major PI resistance-associated mutations <xref rid="pone.0024798-Delaugerre1" ref-type="bibr">[26]</xref>. First-line LPV/r monotherapy represents the ideal model to investigate whether the presence of pre-therapeutic mutations in gag CS is associated with virological failure in the absence of protease-associated resistance mutations. We therefore sequenced gag CS at baseline in all 83 viral isolates from patients randomised to LPV/r single drug regimen in the Monark trial and then compared baseline sequence of gag CS between patients achieving full virological suppression and those experiencing virological failure while on LPV/r single drug selective pressure. We also sequenced gag CS at the time of virological failure to look for additional mutations that would have been selected under drug-selective pressure.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><sec id="s2a"><title>Monark study design</title><p>Monark study design has been described elsewhere <xref rid="pone.0024798-Delfraissy1" ref-type="bibr">[24]</xref>. The study protocol was approved by the Ethics Committees in each participating country (France: Comit&#x000e9; d'Ethique de l'H&#x000f4;pital de Bic&#x000ea;tre; Germany: Ethik-Kommission der Aerztekammer Berlin, Ethikkommission Charit&#x000e9; Universit&#x000e4;tsmedizin Berlin, Ethikkommission Heinrich Heine-Universitaet Dusseldorf, Ethikkommission Bayerische Landesaerztekammer Muenchen; Spain: Comit&#x000e9; &#x000c9;tico de Investigaci&#x000f3;n Cl&#x000ed;nica Barcelona; Italy: Comitato Etico Brescia, Comitato Etico Torino, Comitato Etico della Fondazione Milano, Comitato Etico Locale per la Sperimentazione Clinica dell'Ospedale Luigi Sacco di Milano, Comitato EticoR Roma; and Poland: Komisja Bioetyczna Warsaw). All patients provided written informed consent. Briefly, patients were randomly assigned to receive first-line LPV/r monotherapy or LPV/r plus ZDV/3TC if they were na&#x000ef;ve to antiretroviral therapy, had a CD4 cell count above 100/mm<sup>3</sup>, a plasma HIV-1 RNA below 100 000 copies/mL and no evidence of drug-resistance at screening visit. The primary endpoint was the proportion of patients with plasma HIV-1 RNA below 400 copies/mL at week 24 (W24) and below 50 copies/mL at W48. Follow up until W96 was planned for evaluation of the long-term safety and efficacy of the LPV/r monotherapy arm <xref rid="pone.0024798-Ghosn1" ref-type="bibr">[25]</xref>. Sub-optimal response was defined as (i) failure to achieve a decline in viral load of at least 1.0 log<sub>10</sub> copies/mL by W4, (ii) failure to achieve a viral load below 400 copies/mL by W24 and (iii) any viral rebound &#x02265;1 log, after an HIV-1 RNA&#x0003c;400 copies/mL, confirmed by a second measurement at least 14 days later.</p></sec><sec id="s2b"><title>Resistance testing</title><p>Reverse transcriptase and protease genotypic resistance tests were performed at screening and at the time of VF according to the trial definition <xref rid="pone.0024798-Delaugerre1" ref-type="bibr">[26]</xref>. The resistance analysis was extended also to patients with low-level viremia (between 50 and 400 copies/mL) after W24. Thirty-three patients experienced VF during the study course: 23/33 were on LPV/r single drug regimen at the time of VF and the remaining ten had discontinued study treatment. Gag resistance testing was focused on patients experiencing VF while under LPV/r drug selective pressure (n&#x0200a;=&#x0200a;23). Protease inhibitor (PI) resistance mutations were defined according to 2008 IAS list (<ext-link ext-link-type="uri" xlink:href="http://www.iasusa.org">www.iasusa.org</ext-link>).</p></sec><sec id="s2c"><title>Determination of viral subtype</title><p>The HIV-1 subtype was determined after phylogenetic analysis of the reverse transcriptase sequences as previously described <xref rid="pone.0024798-Delaugerre1" ref-type="bibr">[26]</xref>. We analyzed gag CS mutations according to subtype B and other subtypes as non B.</p></sec><sec id="s2d"><title>Amplification and Analysis of Gag region</title><p>
+<italic>Gag</italic> genes were sequenced at baseline in all patients randomized to LPV/r monotherapy and at the time of confirmed virological failure. Viral RNA was extracted from plasma stored at &#x02212;70&#x000b0;C using QIAamp&#x000ae; RNA Mini Kit (Qiagen SA, Courtaboeuf, France). Amplification and sequencing were done with primers as previously described <xref rid="pone.0024798-Nijhuis2" ref-type="bibr">[19]</xref>. All sequences were centralized at the Necker Virology Laboratory.</p><p>Different CS gag appellations have been used over time (the ones used in recent literature are between bracket). Differences in frequency of amino acid sequences for CS CA/p2 (or p24/p2), p2/NC (or p2/p7), NC/p1 (or p7/p1), p1/p6<italic>gag</italic> in the <italic>gag</italic> reading frame, transframe protein (TFP), TFP/p6<italic><sup>pol</sup></italic> and p6<italic><sup>pol</sup></italic>/PR in the <italic>gag-pol</italic> reading frame, with respect to the wild-type virus HXB2 were studied. Mixtures containing wild-type and mutant variants were scored as mutant.</p></sec><sec id="s2e"><title>Determination of hairpin free energy</title><p>Baseline RNA folding and the stability of the hairpin structure of the gag-pol frameshift region were determined using measurement of free energy in accordance with Turner's rules (CombFold, RNAsoft [<ext-link ext-link-type="uri" xlink:href="http://www.rnasoft.ca/cgi-bin/RNAsoft/CombFold/combfold.pl">http://www.rnasoft.ca/cgi-bin/RNAsoft/CombFold/combfold.pl</ext-link>]).</p></sec><sec id="s2f"><title>Statistical analysis</title><p>The distribution of gag CS mutations was described according to HIV-1 subtype B and non-B at baseline in all samples and at the time of virological failure in 23 patients. Fisher's exact test for discrete variables and Wilcoxon-rank-sum test for continuous data were used to compare groups of patients. A multivariate logistic regression was used to identify independent significant factors associated with virological outcome. The variables investigated included the presence or absence of substitutions at position A374 or V484 or S451 in gag CS at baseline, B versus non-B subtype and sub-optimal (having missed at least one dose of study treatment between baseline and Week 96) versus good adherence (no missed dose throughout follow-up).</p></sec></sec><sec id="s3"><title>Results</title><sec id="s3a"><title>Baseline gag CS mutations and impact on virological response</title><p>
+<italic>Gag</italic> gene sequence was available for 82 among the 83 patients randomized to LPV/r monotherapy and followed until W96. At baseline, 81/82 isolates carried at least one substitution in gag CS compared to HXB2 sequence, with a median number of 3 (range 0&#x02013;10): 4/82 isolates carried at least one substitution in CA/p2, 76/82 in p2/NC, 15/82 in NC/p1, 45/82 in p1/p6 site in the <italic>gag</italic> reading frame, and 80/82 in TFP/p6<sup>pol</sup> and 81/82 in p6<italic><sup>pol</sup></italic>/PR in the <italic>gag-pol</italic> reading frame. Among the gag CS mutations in the <italic>gag</italic> reading frame previously described in therapy-experienced isolates (A431V, K436R, I437V, L449F/V, P452S, P453L/A) <xref rid="pone.0024798-Verheyen1" ref-type="bibr">[23]</xref>, the K436R mutation was evident at baseline in 6 patients, the I437V mutation in 2, the L449F mutation in 1 and the P453L mutation in 5 patients.</p><p>HIV-1 subtype distribution was well balanced at baseline between the two treatment groups. For patients on LPV/r monotherapy, the distribution of viral subtype was as follows: 56 B subtype (68&#x00025;) and 27 non-B subtypes including CRF02_AG 16&#x00025;, A 2&#x00025;, G 4&#x00025; and others subtypes 10&#x00025;. <xref ref-type="fig" rid="pone-0024798-g001">Figure 1</xref> describes the distribution of gag CS mutations according to HIV subtype. Non-B subtype isolates were significantly more likely to harbour more than two substitutions in p2/NC site (88&#x00025; vs 32&#x00025;, p&#x0003c;0.0001), more than three substitutions in the TFPp6pol site (100&#x00025; vs 54&#x00025;, p&#x0003c;0.0001) and more than three substitutions in the p6pol site (50&#x00025; vs 14&#x00025;, p&#x0003c;0.0001) than B subtype isolates, respectively (<xref ref-type="fig" rid="pone-0024798-g001">Figure 1</xref>).</p><fig id="pone-0024798-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0024798.g001</object-id><label>Figure 1</label><caption><title>Frequency of gag cleavage site mutations at baseline according to HIV-1 B and non-B subtype.</title><p>The gag cleavage sites mutations are described on the gag and the gag-pol reading frames. Frequencies of mutations are presented according to HIV-1 subtype (B in grey and non-B in black).</p></caption><graphic xlink:href="pone.0024798.g001"/></fig><p>Of note, the level of hairpin free energy was significantly higher in B viruses (median &#x02212;23.35 kcal/mol, Inter Quartile Range &#x02212;23.95 to &#x02212;21.75) compared with non-B viruses (median &#x02212;20.85 kcal/mol, IQR &#x02212;22.10 to &#x02212;20.0) (p&#x0200a;=&#x0200a;0.0005).</p><p>The impact of baseline substitution in gag CS on subsequent LPV/r single-drug regimen treatment outcome was analyzed. Amino-acid residues G, T, N, P and S at position A374 in the <italic>gag</italic> reading frame tended to predict virological failure (p&#x0200a;=&#x0200a;0.053). Substitutions at position A374 were significantly more likely in non-B subtype (70&#x00025;) versus B subtype viruses (36&#x00025;, p&#x0200a;=&#x0200a;0.005). Amino-acid residues G, I, P and S at position V484 in the <italic>gag-pol</italic> reading frame were significantly associated with virological failure (p&#x0200a;=&#x0200a;0.024). Non-B subtype viruses were significantly more likely to harbour substitutions at position V484 (85&#x00025;) than B subtype viruses (13&#x00025;, p&#x0003c;0.001). In contrast, amino-acid residues G, N and R at position S451 in <italic>gag</italic> reading frame were significantly associated with virological success (p&#x0200a;=&#x0200a;0.026). The presence of more than two substitutions in p2/NC site at baseline significantly predicted virological failure (p&#x0200a;=&#x0200a;0.0479). In contrast, the presence of at least three substitutions in the TFPp6pol site or in the p6pol site was not associated with virological failure. Only the presence of substitutions at positions V484 (OR&#x0200a;=&#x0200a;4.87 (IQR 1.6&#x02013;14.8), p&#x0200a;=&#x0200a;0.005) and S451 (OR&#x0200a;=&#x0200a;0.12 (IQR 0.02&#x02013;0.6), p&#x0200a;=&#x0200a;0.01) remained significantly associated with subsequent virological outcome in multivariate analysis.</p><p>No impact of folding and stability of <italic>gag-pol</italic> RNA frameshift on virological response was observed.</p></sec><sec id="s3b"><title>Evolution of gag cleavage site mutations in patients experiencing virological failure</title><p>Twenty-three patients experienced virological failure while on LPV/r during the study course. <xref ref-type="supplementary-material" rid="pone.0024798.s001">Table S1</xref> focuses on positions at which codons changes where evident at baseline and at the time of virological failure. Compared to baseline sequences, additional substitutions in gag CS were evident in 11/23 patients (in CA/p2 (n&#x0200a;=&#x0200a;2), in p2/NC (n&#x0200a;=&#x0200a;3), in p1/p6 (n&#x0200a;=&#x0200a;2), in TFP/p6pol (n&#x0200a;=&#x0200a;3), in p6pol (n&#x0200a;=&#x0200a;1)). Reversions to wild type amino-acid residue were observed in 9/23 patients (in CA/p2 (n&#x0200a;=&#x0200a;1), in p2/NC (n&#x0200a;=&#x0200a;4), in TFP/p6pol (n&#x0200a;=&#x0200a;3), in p6pol (n&#x0200a;=&#x0200a;1)).</p><p>When focusing on gag CS mutations usually detected in treatment-experienced isolates (A431V, K436R, I437V, L449F/V, P452S, P453L/A), the L449F mutation was not detected at baseline and emerged at the time of failure in 2 cases (patients #507, #1401). For these two patients, no minor or major changes in protease gene were evidenced.</p><p>PI major resistance mutations were evidenced at the time of virological failure in 5 patients as described previously <xref rid="pone.0024798-Delaugerre1" ref-type="bibr">[26]</xref>. Emergence of major PI resistance mutations was associated with concomitant change in gag CS in 3/5 isolates (<xref ref-type="supplementary-material" rid="pone.0024798.s001">Table S1</xref>, patients #311, #3002, #3103). Baseline number and gag CS mutation was not associated with the selection of additional major PI mutation at virological failure.</p></sec></sec><sec id="s4"><title>Discussion</title><p>The major result of the MONARK trial was that LPV/r monotherapy demonstrated lower rates of virological suppression when compared to LPV/r triple therapy <xref rid="pone.0024798-Delfraissy1" ref-type="bibr">[24]</xref>. In addition, long-term 96-week follow-up data are available for patients randomised to first-line LPV/r single drug regimen <xref rid="pone.0024798-Ghosn1" ref-type="bibr">[25]</xref>. Intriguingly, in most patients experiencing virological failure, this was not explained by the emergence of resistance mutations in the protease gene while under protease inhibitor drug-selective pressure <xref rid="pone.0024798-Delaugerre1" ref-type="bibr">[26]</xref>. Moreover analysis of predictive factors of virological response in patients randomized to LPV/r single drug regimen indicated that having a plasma HIV-RNA load below 400 copies/ml at week 4 and harbouring an HIV-1 subtype B were independently associated with an increased probability of success <xref rid="pone.0024798-Flandre1" ref-type="bibr">[27]</xref>. Here we first show that gag CS and the gag-pol frameshift region were highly polymorphic especially in patients infected with a non-B subtype strains. Second, the presence of mutations in gag CS prior to any antiretroviral therapy influences virological outcome of a first-line PI/r single-drug regimen. However, given that (i) the gag substitutions previously showing an association with reduced PI susceptibility in the absence of protease resistance mutations, or reduced susceptibility/increased replicative capacity in their presence are not those showing an association with virological failure in this study, (ii) the study of the gag region in patients undergoing virological failure does not show any significant accumulation of substitutions from baseline and (iii) the baseline substitutions associated with virological failure do not accumulate at failure and are not associated with the emergence of minor or major protease resistance mutations at failure, it might be argued that the highest rate of virological failure was more likely related to suboptimal adherence among patients harbouring a non-B subtype compared to those harbouring a B subtype <xref rid="pone.0024798-Flandre1" ref-type="bibr">[27]</xref>. Multivariate analysis showed that the detected association between the gag polymorphisms and virological outcome remained independent from patients adherence.</p><p>Gag CS and the gag-pol frameshift region were highly polymorphic at baseline in the 82 assessable patients, especially those infected with a non-B subtype strains. The most polymorphic gag CS were the p2/NC site in the <italic>gag</italic> reading frame and both TFP/p6pol and p6pol sites in the <italic>gag-pol</italic> reading frame. Interestingly, the presence of more than two substitutions in p2/NC site at baseline was significantly associated with virological failure, non-B subtype isolates being more likely to harbour more than two substitutions in this specific site. This result brings now some light on our previous finding which suggest that, in spite of potential confounding factor evidenced in this study (adherence and non-B subtype), virological failure appeared significantly more frequent in non-B (46&#x00025;) than in B subtype isolates (20&#x00025;, p&#x0200a;=&#x0200a;0.0479) <xref rid="pone.0024798-Flandre1" ref-type="bibr">[27]</xref>.</p><p>Several studies reported that the p2/NC CS is highly polymorphic <xref rid="pone.0024798-Malet1" ref-type="bibr">[22]</xref>, <xref rid="pone.0024798-Cote1" ref-type="bibr">[28]</xref>, <xref rid="pone.0024798-Kolli1" ref-type="bibr">[29]</xref> with a statistically significant association between these mutations and the development of high-level PI cross-resistance <xref rid="pone.0024798-Cote1" ref-type="bibr">[28]</xref>. Indeed, selection of mutation at position 373 in p2/NC correlated with poor virological response in a context of mutated protease <xref rid="pone.0024798-Malet1" ref-type="bibr">[22]</xref>. In our study, the presence of mutations at position 374 at baseline tended to predict virological failure. This was true in a context of wild-type protease, suggesting that this mutation might be a first step towards the development of high level resistance if protease-associated mutations were to emerge subsequently.</p><p>Recently, the impact of the natural polymorphism in <italic>gag</italic> gene of non-B subtype isolates was evaluated <italic>in vitro</italic> on the drug susceptibility and the catalytic efficiency of the protease (<xref rid="pone.0024798-Gupta1" ref-type="bibr">[30]</xref>, <xref rid="pone.0024798-Jinnopat1" ref-type="bibr">[31]</xref>. Introduction of a CRF01_AE-gag/PR region in a background of subtype B pNL4-3 virus (CRF01_AE-gag/PR recombinant) clearly showed that these viruses were significantly less susceptible to 9 PIs than the CRF01_AE-PR-recombinant viruses (without AE gag region) <xref rid="pone.0024798-Jinnopat1" ref-type="bibr">[31]</xref>, which is consistent with a relevant impact of the polymorphism of CRF01_AE gag on PI susceptibility. In keeping with Jinnopat et al, Gupta et al demonstrated that full-length HIV-1 Gag from A or C subtype HIV-1 strains can contribute to 3 to 14 fold change of reduction in lopinavir susceptibility <xref rid="pone.0024798-Gupta1" ref-type="bibr">[30]</xref>. Authors concluded that considering the protease gene alone in a genetic background of B subtype may overestimate PI susceptibility.</p><p>Finally, in keeping with previous reports <xref rid="pone.0024798-Chang1" ref-type="bibr">[32]</xref>&#x02013;<xref rid="pone.0024798-Telenti1" ref-type="bibr">[34]</xref>, we found that the level of hairpin free energy was higher in B than in non-B subtypes. It has been shown that a decrease in free energy of the RNA secondary structure of the gag-pol frameshift signal induces instability in this signal, poor efficiency of change in the gag-pol open reading frame and a diminution of enzyme production.</p><p>
+<italic>Protease</italic> gene of non-B subtypes displays a high degree of polymorphism that potentially alters the susceptibility of the protease to PIs <xref rid="pone.0024798-Holguin1" ref-type="bibr">[35]</xref>, <xref rid="pone.0024798-Pieniazek1" ref-type="bibr">[36]</xref>. Indeed, phenotypic studies revealed that naturally occurring amino acid substitutions found in <italic>protease</italic> gene of non-B subtypes can affect the drug susceptibility of the protease <xref rid="pone.0024798-Holguin2" ref-type="bibr">[37]</xref>&#x02013;<xref rid="pone.0024798-Lisovsky1" ref-type="bibr">[39]</xref>.</p><p>Mutations K436R, I437V, L449F and P453L in gag CS, previously evident in treatment-experienced isolates <xref rid="pone.0024798-Verheyen1" ref-type="bibr">[23]</xref>, were present at baseline in 13/82 (16&#x00025;) patients but were not associated with virological failure. Our results are in keeping with Verheyen et al, who showed that the prevalence of K436R, I437V and P453L was higher in antiretroviral-na&#x000ef;ve patients infected with non B subtypes than with a B subtype <xref rid="pone.0024798-Verheyen2" ref-type="bibr">[40]</xref>. These polymorphisms observed at positions 436, 437, 449, and 453 might influence the selection of treatment-associated CS substitutions at these positions.</p><p>Recently, in the 2IP-ANRS 127 trial evaluating a first-line dual-boosted PI regimen in na&#x000ef;ve patients, Larrouy et al demonstrated that the presence of gag CS mutation 128 (p17/p24) and mutation 449 (p1/p6gag) at baseline were associated with subsequent virological failure <xref rid="pone.0024798-Larrouy1" ref-type="bibr">[33]</xref>. We did not find such an association in the Monark trial. Results from 2IP might however hardly be extrapolated to the Monark trial because the PIs used were different (fosamprenavir-atazanavir/r and saquinavir-atazanavir/r versus lopinavir/r) as well as the definition and the time of assessment of virological failure (week 16 in the 2IP trial versus week 96 in the Monark trial). Follow-up was longer in the Monark trial (96 weeks), thus we can not compare directly the impact of the gag region on the selection of PI major mutation between the two studies.</p><p>Most virological failures were not associated with specific changes in Gag sequence at the time of failure. Of note, the selection of the mutation L449F was evident at the time of failure in two patients. As previously described, this mutation was observed only in protease inhibitor-experienced patients with protease resistance mutations <xref rid="pone.0024798-Malet1" ref-type="bibr">[22]</xref>, <xref rid="pone.0024798-Verheyen1" ref-type="bibr">[23]</xref>. L449F was evident in association with the I50V in the <italic>protease</italic> gene, increasing the level of resistance to amprenavir <xref rid="pone.0024798-Maguire1" ref-type="bibr">[18]</xref>, and also to lopinavir <xref rid="pone.0024798-Kolli1" ref-type="bibr">[29]</xref>. L449F mutation might act as compensatory mutation allowing an increase of the cleavage activity of the mutant protease. In our case, we can speculate that the emergence of the L449F mutation could precede and/or promote the selection of the I50V mutation under LPV/r monotherapy selective pressure. Further phenotypic analysis of clonal isolates harbouring the L449F might help understanding the decreased susceptibility to lopinavir.</p><p>Major PI mutations were evident in 5 patients among the 23 experiencing virological failure and studied in the present analysis. There was no consistent association between the emergence of major PI resistance mutations and baseline Gag CS region or changes in Gag sequence at the time of virological failure. We previously reported the selection of the L76V major PI mutation in 3 patients, all three infected with HIV-1 CRF02_AG subtype, confirming that the L76V mutation (&#x0002b;/&#x02212; the M46I mutation) is a novel resistance pathway emerging during failure on a first line LPV/r-based regimen <xref rid="pone.0024798-deMendoza1" ref-type="bibr">[41]</xref>&#x02013;<xref rid="pone.0024798-Nijhuis3" ref-type="bibr">[43]</xref>. Nijhuis and others suggested that the L76V mutation was associated with the emergence of the A431V mutation in the NC/p1 (p7/p1) site, thus compensating the severe reduction in replicative capacity of the L76V mutant <xref rid="pone.0024798-Nijhuis3" ref-type="bibr">[43]</xref>. In contrast to previous reports, the A431V mutation was not selected in our study, even in patients with the L76V mutation at virological failure, which might be due to the CRF02_AG particular genetic background. Of note, mutation A431V might have been selected later in our patients if drug selective pressure was maintained with an ongoing viral replication.</p><p>In conclusion, we show that pre-therapy mutations in gag cleavage site sequence were significantly associated with the virological outcome of a first-line LPV/r single drug regimen, in spite of the absence of consistent association with either the emergence of major PI resistance mutations or with changes in gag sequences at the time of virological failure. Gag cleavage site is highly polymorphic in antiretroviral-naive patients harbouring a non-B HIV strain. The non-B subtype may be associated with a high risk of virological failure on first-line LPV/r monotherapy. Our results, together with the similar outcome between B and non-B HIV-1 strains with PI/r-based triple combinations <xref rid="pone.0024798-Barth1" ref-type="bibr">[44]</xref>, <xref rid="pone.0024798-Touloumi1" ref-type="bibr">[45]</xref> suggest that the impact of mutations in gag CS might be less critical in a context of PI/r-based triple combination (with drugs acting on another target than protease gene) than in a PI/r monotherapy setting. Further studies are warranted to better understand the determinants and prognostic factors of virological outcome of non-B HIV-1 strains in a setting of PI/r monotherapy, especially if the LPV/r monotherapy strategy is proposed as a second-line option after failure on a NNRTI-based first-line triple combination in resource-limited countries <xref rid="pone.0024798-Bartlett1" ref-type="bibr">[46]</xref>, <xref rid="pone.0024798-Bunupuradah1" ref-type="bibr">[47]</xref> where non-B HIV-1 subtypes are predominant.</p></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0024798.s001"><label>Table S1</label><caption><p>GAG cleavage site and protease mutations at screening and at failure in the 23 patients who experienced virological failure.</p><p>(DOC)</p></caption><media xlink:href="pone.0024798.s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>This study was presented in part in the XVII International HIV Drug Resistance Workshop, June 10&#x02013;14, 2008, Sitg&#x000e9;s, Spain (abstract 127) and in the 16th Conference on Retroviruses and Opportunistic Infections, February 8&#x02013;11, 2009, Montr&#x000e9;al, Canada.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist except for Isabelle Cohen-Codar who is an employee of Abbott Laboratories.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This study was supported by a grant from Abbott Laboratories. The funder had no role in the design of this substudy of the Monark trial, no role in data collection and analysis. The funder was involved in reviewing the manuscript. One of the co-authors is employed by the funder.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0024798-Daar1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Daar</surname><given-names>ES</given-names></name><name><surname>Tierney</surname><given-names>C</given-names></name><name><surname>Fischl</surname><given-names>MA</given-names></name><name><surname>Sax</surname><given-names>PE</given-names></name><name><surname>Mollan</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Atazanavir plus ritonavir or efavirenz as part of a 3-drug regimen for initial treatment of HIV-1.</article-title>
+<source>Ann Intern Med</source>
+<volume>154</volume>
+<issue>7</issue>
+<fpage>445</fpage>
+<lpage>56</lpage>
+<pub-id pub-id-type="pmid">21320923</pub-id></element-citation></ref><ref id="pone.0024798-Eron1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eron</surname><given-names>J</given-names><suffix>Jr</suffix></name><name><surname>Yeni</surname><given-names>P</given-names></name><name><surname>Gathe</surname><given-names>J</given-names><suffix>Jr</suffix></name><name><surname>Estrada</surname><given-names>V</given-names></name><name><surname>DeJesus</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>The KLEAN study of fosamprenavir-ritonavir versus lopinavir-ritonavir, each in combination with abacavir-lamivudine, for initial treatment of HIV infection over 48 weeks: a randomised non-inferiority trial.</article-title>
+<source>Lancet</source>
+<volume>368</volume>
+<fpage>476</fpage>
+<lpage>482</lpage>
+<pub-id pub-id-type="pmid">16890834</pub-id></element-citation></ref><ref id="pone.0024798-Ortiz1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ortiz</surname><given-names>R</given-names></name><name><surname>Dejesus</surname><given-names>E</given-names></name><name><surname>Khanlou</surname><given-names>H</given-names></name><name><surname>Voronin</surname><given-names>E</given-names></name><name><surname>van Lunzen</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Efficacy and safety of once-daily darunavir/ritonavir versus lopinavir/ritonavir in treatment-naive HIV-1-infected patients at week 48.</article-title>
+<source>AIDS</source>
+<volume>22</volume>
+<fpage>1389</fpage>
+<lpage>1397</lpage>
+<pub-id pub-id-type="pmid">18614861</pub-id></element-citation></ref><ref id="pone.0024798-Riddler1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Riddler</surname><given-names>SA</given-names></name><name><surname>Haubrich</surname><given-names>R</given-names></name><name><surname>DiRienzo</surname><given-names>AG</given-names></name><name><surname>Peeples</surname><given-names>L</given-names></name><name><surname>Powderly</surname><given-names>WG</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Class-sparing regimens for initial treatment of HIV-1 infection.</article-title>
+<source>N Engl J Med</source>
+<volume>358</volume>
+<fpage>2095</fpage>
+<lpage>2106</lpage>
+<pub-id pub-id-type="pmid">18480202</pub-id></element-citation></ref><ref id="pone.0024798-Soulie1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Soulie</surname><given-names>C</given-names></name><name><surname>Assoumou</surname><given-names>L</given-names></name><name><surname>Ghosn</surname><given-names>J</given-names></name><name><surname>Duvivier</surname><given-names>C</given-names></name><name><surname>Peytavin</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Nucleoside reverse transcriptase inhibitor-sparing regimen (nonnucleoside reverse transcriptase inhibitor&#x0002b;protease inhibitor) was more likely associated with resistance comparing to nonnucleoside reverse transcriptase inhibitor or protease inhibitor&#x0002b;nucleoside reverse transcriptase inhibitor in the randomized ANRS 121 trial.</article-title>
+<source>AIDS</source>
+<volume>23</volume>
+<fpage>1605</fpage>
+<lpage>1608</lpage>
+<pub-id pub-id-type="pmid">19487903</pub-id></element-citation></ref><ref id="pone.0024798-Condra1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Condra</surname><given-names>JH</given-names></name><name><surname>Schleif</surname><given-names>WA</given-names></name><name><surname>Blahy</surname><given-names>OM</given-names></name><name><surname>Gabryelski</surname><given-names>LJ</given-names></name><name><surname>Graham</surname><given-names>DJ</given-names></name><etal/></person-group>
+<year>1995</year>
+<article-title>In vivo emergence of HIV-1 variants resistant to multiple protease inhibitors.</article-title>
+<source>Nature</source>
+<volume>374</volume>
+<fpage>569</fpage>
+<lpage>571</lpage>
+<pub-id pub-id-type="pmid">7700387</pub-id></element-citation></ref><ref id="pone.0024798-Croteau1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Croteau</surname><given-names>G</given-names></name><name><surname>Doyon</surname><given-names>L</given-names></name><name><surname>Thibeault</surname><given-names>D</given-names></name><name><surname>McKercher</surname><given-names>G</given-names></name><name><surname>Pilote</surname><given-names>L</given-names></name><etal/></person-group>
+<year>1997</year>
+<article-title>Impaired fitness of human immunodeficiency virus type 1 variants with high-level resistance to protease inhibitors.</article-title>
+<source>J Virol</source>
+<volume>71</volume>
+<fpage>1089</fpage>
+<lpage>1096</lpage>
+<pub-id pub-id-type="pmid">8995629</pub-id></element-citation></ref><ref id="pone.0024798-Molla1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Molla</surname><given-names>A</given-names></name><name><surname>Korneyeva</surname><given-names>M</given-names></name><name><surname>Gao</surname><given-names>Q</given-names></name><name><surname>Vasavanonda</surname><given-names>S</given-names></name><name><surname>Schipper</surname><given-names>PJ</given-names></name><etal/></person-group>
+<year>1996</year>
+<article-title>Ordered accumulation of mutations in HIV protease confers resistance to ritonavir.</article-title>
+<source>Nat Med</source>
+<volume>2</volume>
+<fpage>760</fpage>
+<lpage>766</lpage>
+<pub-id pub-id-type="pmid">8673921</pub-id></element-citation></ref><ref id="pone.0024798-Mammano1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mammano</surname><given-names>F</given-names></name><name><surname>Petit</surname><given-names>C</given-names></name><name><surname>Clavel</surname><given-names>F</given-names></name></person-group>
+<year>1998</year>
+<article-title>Resistance-associated loss of viral fitness in human immunodeficiency virus type 1: phenotypic analysis of protease and gag coevolution in protease inhibitor-treated patients.</article-title>
+<source>J Virol</source>
+<volume>72</volume>
+<fpage>7632</fpage>
+<lpage>7637</lpage>
+<pub-id pub-id-type="pmid">9696866</pub-id></element-citation></ref><ref id="pone.0024798-Mammano2"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mammano</surname><given-names>F</given-names></name><name><surname>Trouplin</surname><given-names>V</given-names></name><name><surname>Zennou</surname><given-names>V</given-names></name><name><surname>Clavel</surname><given-names>F</given-names></name></person-group>
+<year>2000</year>
+<article-title>Retracing the evolutionary pathways of human immunodeficiency virus type 1 resistance to protease inhibitors: virus fitness in the absence and in the presence of drug.</article-title>
+<source>J Virol</source>
+<volume>74</volume>
+<fpage>8524</fpage>
+<lpage>8531</lpage>
+<pub-id pub-id-type="pmid">10954553</pub-id></element-citation></ref><ref id="pone.0024798-Nijhuis1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nijhuis</surname><given-names>M</given-names></name><name><surname>Schuurman</surname><given-names>R</given-names></name><name><surname>de Jong</surname><given-names>D</given-names></name><name><surname>Erickson</surname><given-names>J</given-names></name><name><surname>Gustchina</surname><given-names>E</given-names></name><etal/></person-group>
+<year>1999</year>
+<article-title>Increased fitness of drug resistant HIV-1 protease as a result of acquisition of compensatory mutations during suboptimal therapy.</article-title>
+<source>AIDS</source>
+<volume>13</volume>
+<fpage>2349</fpage>
+<lpage>2359</lpage>
+<pub-id pub-id-type="pmid">10597776</pub-id></element-citation></ref><ref id="pone.0024798-Zhang1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>YM</given-names></name><name><surname>Imamichi</surname><given-names>H</given-names></name><name><surname>Imamichi</surname><given-names>T</given-names></name><name><surname>Lane</surname><given-names>HC</given-names></name><name><surname>Falloon</surname><given-names>J</given-names></name><etal/></person-group>
+<year>1997</year>
+<article-title>Drug resistance during indinavir therapy is caused by mutations in the protease gene and in its Gag substrate cleavage sites.</article-title>
+<source>J Virol</source>
+<volume>71</volume>
+<fpage>6662</fpage>
+<lpage>6670</lpage>
+<pub-id pub-id-type="pmid">9261388</pub-id></element-citation></ref><ref id="pone.0024798-Dinman1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dinman</surname><given-names>JD</given-names></name><name><surname>Richter</surname><given-names>S</given-names></name><name><surname>Plant</surname><given-names>EP</given-names></name><name><surname>Taylor</surname><given-names>RC</given-names></name><name><surname>Hammell</surname><given-names>AB</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>The frameshift signal of HIV-1 involves a potential intramolecular triplex RNA structure.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>99</volume>
+<fpage>5331</fpage>
+<lpage>5336</lpage>
+<pub-id pub-id-type="pmid">11959986</pub-id></element-citation></ref><ref id="pone.0024798-Girnary1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Girnary</surname><given-names>R</given-names></name><name><surname>King</surname><given-names>L</given-names></name><name><surname>Robinson</surname><given-names>L</given-names></name><name><surname>Elston</surname><given-names>R</given-names></name><name><surname>Brierley</surname><given-names>I</given-names></name></person-group>
+<year>2007</year>
+<article-title>Structure-function analysis of the ribosomal frameshifting signal of two human immunodeficiency virus type 1 isolates with increased resistance to viral protease inhibitors.</article-title>
+<source>J Gen Virol</source>
+<volume>88</volume>
+<fpage>226</fpage>
+<lpage>235</lpage>
+<pub-id pub-id-type="pmid">17170455</pub-id></element-citation></ref><ref id="pone.0024798-Park1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>J</given-names></name><name><surname>Morrow</surname><given-names>CD</given-names></name></person-group>
+<year>1991</year>
+<article-title>Overexpression of the gag-pol precursor from human immunodeficiency virus type 1 proviral genomes results in efficient proteolytic processing in the absence of virion production.</article-title>
+<source>J Virol</source>
+<volume>65</volume>
+<fpage>5111</fpage>
+<lpage>5117</lpage>
+<pub-id pub-id-type="pmid">1870215</pub-id></element-citation></ref><ref id="pone.0024798-Parkin1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Parkin</surname><given-names>NT</given-names></name><name><surname>Chamorro</surname><given-names>M</given-names></name><name><surname>Varmus</surname><given-names>HE</given-names></name></person-group>
+<year>1992</year>
+<article-title>Human immunodeficiency virus type 1 gag-pol frameshifting is dependent on downstream mRNA secondary structure: demonstration by expression in vivo.</article-title>
+<source>J Virol</source>
+<volume>66</volume>
+<fpage>5147</fpage>
+<lpage>5151</lpage>
+<pub-id pub-id-type="pmid">1321294</pub-id></element-citation></ref><ref id="pone.0024798-Doyon1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Doyon</surname><given-names>L</given-names></name><name><surname>Croteau</surname><given-names>G</given-names></name><name><surname>Thibeault</surname><given-names>D</given-names></name><name><surname>Poulin</surname><given-names>F</given-names></name><name><surname>Pilote</surname><given-names>L</given-names></name><etal/></person-group>
+<year>1996</year>
+<article-title>Second locus involved in human immunodeficiency virus type 1 resistance to protease inhibitors.</article-title>
+<source>J Virol</source>
+<volume>70</volume>
+<fpage>3763</fpage>
+<lpage>3769</lpage>
+<pub-id pub-id-type="pmid">8648711</pub-id></element-citation></ref><ref id="pone.0024798-Maguire1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maguire</surname><given-names>MF</given-names></name><name><surname>Guinea</surname><given-names>R</given-names></name><name><surname>Griffin</surname><given-names>P</given-names></name><name><surname>Macmanus</surname><given-names>S</given-names></name><name><surname>Elston</surname><given-names>RC</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Changes in human immunodeficiency virus type 1 Gag at positions L449 and P453 are linked to I50V protease mutants in vivo and cause reduction of sensitivity to amprenavir and improved viral fitness in vitro.</article-title>
+<source>J Virol</source>
+<volume>76</volume>
+<fpage>7398</fpage>
+<lpage>7406</lpage>
+<pub-id pub-id-type="pmid">12097552</pub-id></element-citation></ref><ref id="pone.0024798-Nijhuis2"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nijhuis</surname><given-names>M</given-names></name><name><surname>van Maarseveen</surname><given-names>NM</given-names></name><name><surname>Lastere</surname><given-names>S</given-names></name><name><surname>Schipper</surname><given-names>P</given-names></name><name><surname>Coakley</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>A novel substrate-based HIV-1 protease inhibitor drug resistance mechanism.</article-title>
+<source>PLoS Med</source>
+<volume>4</volume>
+<fpage>e36</fpage>
+<pub-id pub-id-type="pmid">17227139</pub-id></element-citation></ref><ref id="pone.0024798-Dam1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dam</surname><given-names>E</given-names></name><name><surname>Quercia</surname><given-names>R</given-names></name><name><surname>Glass</surname><given-names>B</given-names></name><name><surname>Descamps</surname><given-names>D</given-names></name><name><surname>Launay</surname><given-names>O</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Gag mutations strongly contribute to HIV-1 resistance to protease inhibitors in highly drug-experienced patients besides compensating for fitness loss.</article-title>
+<source>PLoS Pathog</source>
+<volume>5</volume>
+<fpage>e1000345</fpage>
+<pub-id pub-id-type="pmid">19300491</pub-id></element-citation></ref><ref id="pone.0024798-Parry1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Parry</surname><given-names>CM</given-names></name><name><surname>Kohli</surname><given-names>A</given-names></name><name><surname>Boinett</surname><given-names>CJ</given-names></name><name><surname>Towers</surname><given-names>GJ</given-names></name><name><surname>McCormick</surname><given-names>AL</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Gag determinants of fitness and drug susceptibility in protease inhibitor-resistant human immunodeficiency virus type 1.</article-title>
+<source>J Virol</source>
+<volume>83</volume>
+<fpage>9094</fpage>
+<lpage>9101</lpage>
+<pub-id pub-id-type="pmid">19587031</pub-id></element-citation></ref><ref id="pone.0024798-Malet1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malet</surname><given-names>I</given-names></name><name><surname>Roquebert</surname><given-names>B</given-names></name><name><surname>Dalban</surname><given-names>C</given-names></name><name><surname>Wirden</surname><given-names>M</given-names></name><name><surname>Amellal</surname><given-names>B</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Association of Gag cleavage sites to protease mutations and to virological response in HIV-1 treated patients.</article-title>
+<source>J Infect</source>
+<volume>54</volume>
+<fpage>367</fpage>
+<lpage>374</lpage>
+<pub-id pub-id-type="pmid">16875739</pub-id></element-citation></ref><ref id="pone.0024798-Verheyen1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Verheyen</surname><given-names>J</given-names></name><name><surname>Litau</surname><given-names>E</given-names></name><name><surname>Sing</surname><given-names>T</given-names></name><name><surname>Daumer</surname><given-names>M</given-names></name><name><surname>Balduin</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Compensatory mutations at the HIV cleavage sites p7/p1 and p1/p6-gag in therapy-naive and therapy-experienced patients.</article-title>
+<source>Antivir Ther</source>
+<volume>11</volume>
+<fpage>879</fpage>
+<lpage>887</lpage>
+<pub-id pub-id-type="pmid">17302250</pub-id></element-citation></ref><ref id="pone.0024798-Delfraissy1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Delfraissy</surname><given-names>JF</given-names></name><name><surname>Flandre</surname><given-names>P</given-names></name><name><surname>Delaugerre</surname><given-names>C</given-names></name><name><surname>Ghosn</surname><given-names>J</given-names></name><name><surname>Horban</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Lopinavir/ritonavir monotherapy or plus zidovudine and lamivudine in antiretroviral-naive HIV-infected patients.</article-title>
+<source>AIDS</source>
+<volume>22</volume>
+<fpage>385</fpage>
+<lpage>393</lpage>
+<pub-id pub-id-type="pmid">18195565</pub-id></element-citation></ref><ref id="pone.0024798-Ghosn1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ghosn</surname><given-names>J</given-names></name><name><surname>Flandre</surname><given-names>P</given-names></name><name><surname>Cohen-Codar</surname><given-names>I</given-names></name><name><surname>Girard</surname><given-names>PM</given-names></name><name><surname>Chaix</surname><given-names>ML</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Long-term (96-week) follow-up of antiretroviral-naive HIV-infected patients treated with first-line lopinavir/ritonavir monotherapy in the MONARK trial.</article-title>
+<source>HIV Med</source>
+<volume>11</volume>
+<fpage>137</fpage>
+<lpage>142</lpage>
+<pub-id pub-id-type="pmid">19682100</pub-id></element-citation></ref><ref id="pone.0024798-Delaugerre1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Delaugerre</surname><given-names>C</given-names></name><name><surname>Flandre</surname><given-names>P</given-names></name><name><surname>Chaix</surname><given-names>ML</given-names></name><name><surname>Ghosn</surname><given-names>J</given-names></name><name><surname>Raffi</surname><given-names>F</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Protease inhibitor resistance analysis in the MONARK trial comparing first-line lopinavir-ritonavir monotherapy to lopinavir-ritonavir plus zidovudine and lamivudine triple therapy.</article-title>
+<source>Antimicrob Agents Chemother</source>
+<volume>53</volume>
+<fpage>2934</fpage>
+<lpage>2939</lpage>
+<pub-id pub-id-type="pmid">19451297</pub-id></element-citation></ref><ref id="pone.0024798-Flandre1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Flandre</surname><given-names>P</given-names></name><name><surname>Delaugerre</surname><given-names>C</given-names></name><name><surname>Ghosn</surname><given-names>J</given-names></name><name><surname>Chaix</surname><given-names>ML</given-names></name><name><surname>Horban</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Prognostic factors for virological response in antiretroviral therapy-naive patients in the MONARK Trial randomized to ritonavir-boosted lopinavir alone.</article-title>
+<source>Antivir Ther</source>
+<volume>14</volume>
+<fpage>93</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="pmid">19320241</pub-id></element-citation></ref><ref id="pone.0024798-Cote1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cote</surname><given-names>HC</given-names></name><name><surname>Brumme</surname><given-names>ZL</given-names></name><name><surname>Harrigan</surname><given-names>PR</given-names></name></person-group>
+<year>2001</year>
+<article-title>Human immunodeficiency virus type 1 protease cleavage site mutations associated with protease inhibitor cross-resistance selected by indinavir, ritonavir, and/or saquinavir.</article-title>
+<source>J Virol</source>
+<volume>75</volume>
+<fpage>589</fpage>
+<lpage>594</lpage>
+<pub-id pub-id-type="pmid">11134271</pub-id></element-citation></ref><ref id="pone.0024798-Kolli1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kolli</surname><given-names>M</given-names></name><name><surname>Lastere</surname><given-names>S</given-names></name><name><surname>Schiffer</surname><given-names>CA</given-names></name></person-group>
+<year>2006</year>
+<article-title>Co-evolution of nelfinavir-resistant HIV-1 protease and the p1&#x02013;p6 substrate.</article-title>
+<source>Virology</source>
+<volume>347</volume>
+<fpage>405</fpage>
+<lpage>409</lpage>
+<pub-id pub-id-type="pmid">16430939</pub-id></element-citation></ref><ref id="pone.0024798-Gupta1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gupta</surname><given-names>RK</given-names></name><name><surname>Kohli</surname><given-names>A</given-names></name><name><surname>McCormick</surname><given-names>AL</given-names></name><name><surname>Towers</surname><given-names>GJ</given-names></name><name><surname>Pillay</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Full-length HIV-1 Gag determines protease inhibitor susceptibility within in vitro assays.</article-title>
+<source>AIDS</source>
+<volume>24</volume>
+<fpage>1651</fpage>
+<lpage>1655</lpage>
+<pub-id pub-id-type="pmid">20597164</pub-id></element-citation></ref><ref id="pone.0024798-Jinnopat1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jinnopat</surname><given-names>P</given-names></name><name><surname>Isarangkura-na-ayuthaya</surname><given-names>P</given-names></name><name><surname>Utachee</surname><given-names>P</given-names></name><name><surname>Kitagawa</surname><given-names>Y</given-names></name><name><surname>de Silva</surname><given-names>UC</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Impact of amino acid variations in Gag and protease of HIV type 1 CRF01_AE strains on drug susceptibility of virus to protease inhibitors.</article-title>
+<source>J Acquir Immune Defic Syndr</source>
+<volume>52</volume>
+<fpage>320</fpage>
+<lpage>328</lpage>
+<pub-id pub-id-type="pmid">19727001</pub-id></element-citation></ref><ref id="pone.0024798-Chang1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chang</surname><given-names>SY</given-names></name><name><surname>Sutthent</surname><given-names>R</given-names></name><name><surname>Auewarakul</surname><given-names>P</given-names></name><name><surname>Apichartpiyakul</surname><given-names>C</given-names></name><name><surname>Essex</surname><given-names>M</given-names></name><etal/></person-group>
+<year>1999</year>
+<article-title>Differential stability of the mRNA secondary structures in the frameshift site of various HIV type 1 viruses.</article-title>
+<source>AIDS Res Hum Retroviruses</source>
+<volume>15</volume>
+<fpage>1591</fpage>
+<lpage>1596</lpage>
+<pub-id pub-id-type="pmid">10580411</pub-id></element-citation></ref><ref id="pone.0024798-Larrouy1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Larrouy</surname><given-names>L</given-names></name><name><surname>Chazallon</surname><given-names>C</given-names></name><name><surname>Landman</surname><given-names>R</given-names></name><name><surname>Capitant</surname><given-names>C</given-names></name><name><surname>Peytavin</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Gag mutations can impact virological response to dual-boosted protease inhibitor combinations in antiretroviral-naive HIV-infected patients.</article-title>
+<source>Antimicrob Agents Chemother</source>
+<volume>54</volume>
+<fpage>2910</fpage>
+<lpage>2919</lpage>
+<pub-id pub-id-type="pmid">20439606</pub-id></element-citation></ref><ref id="pone.0024798-Telenti1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Telenti</surname><given-names>A</given-names></name><name><surname>Martinez</surname><given-names>R</given-names></name><name><surname>Munoz</surname><given-names>M</given-names></name><name><surname>Bleiber</surname><given-names>G</given-names></name><name><surname>Greub</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Analysis of natural variants of the human immunodeficiency virus type 1 gag-pol frameshift stem-loop structure.</article-title>
+<source>J Virol</source>
+<volume>76</volume>
+<fpage>7868</fpage>
+<lpage>7873</lpage>
+<pub-id pub-id-type="pmid">12097600</pub-id></element-citation></ref><ref id="pone.0024798-Holguin1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holguin</surname><given-names>A</given-names></name><name><surname>Paxinos</surname><given-names>E</given-names></name><name><surname>Hertogs</surname><given-names>K</given-names></name><name><surname>Womac</surname><given-names>C</given-names></name><name><surname>Soriano</surname><given-names>V</given-names></name></person-group>
+<year>2004</year>
+<article-title>Impact of frequent natural polymorphisms at the protease gene on the in vitro susceptibility to protease inhibitors in HIV-1 non-B subtypes.</article-title>
+<source>J Clin Virol</source>
+<volume>31</volume>
+<fpage>215</fpage>
+<lpage>220</lpage>
+<pub-id pub-id-type="pmid">15465415</pub-id></element-citation></ref><ref id="pone.0024798-Pieniazek1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pieniazek</surname><given-names>D</given-names></name><name><surname>Rayfield</surname><given-names>M</given-names></name><name><surname>Hu</surname><given-names>DJ</given-names></name><name><surname>Nkengasong</surname><given-names>J</given-names></name><name><surname>Wiktor</surname><given-names>SZ</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Protease sequences from HIV-1 group M subtypes A-H reveal distinct amino acid mutation patterns associated with protease resistance in protease inhibitor-naive individuals worldwide. HIV Variant Working Group.</article-title>
+<source>AIDS</source>
+<volume>14</volume>
+<fpage>1489</fpage>
+<lpage>1495</lpage>
+<pub-id pub-id-type="pmid">10983635</pub-id></element-citation></ref><ref id="pone.0024798-Holguin2"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holguin</surname><given-names>A</given-names></name><name><surname>Sune</surname><given-names>C</given-names></name><name><surname>Hamy</surname><given-names>F</given-names></name><name><surname>Soriano</surname><given-names>V</given-names></name><name><surname>Klimkait</surname><given-names>T</given-names></name></person-group>
+<year>2006</year>
+<article-title>Natural polymorphisms in the protease gene modulate the replicative capacity of non-B HIV-1 variants in the absence of drug pressure.</article-title>
+<source>J Clin Virol</source>
+<volume>36</volume>
+<fpage>264</fpage>
+<lpage>271</lpage>
+<pub-id pub-id-type="pmid">16765636</pub-id></element-citation></ref><ref id="pone.0024798-Kantor1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kantor</surname><given-names>R</given-names></name><name><surname>Katzenstein</surname><given-names>DA</given-names></name><name><surname>Efron</surname><given-names>B</given-names></name><name><surname>Carvalho</surname><given-names>AP</given-names></name><name><surname>Wynhoven</surname><given-names>B</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Impact of HIV-1 subtype and antiretroviral therapy on protease and reverse transcriptase genotype: results of a global collaboration.</article-title>
+<source>PLoS Med</source>
+<volume>2</volume>
+<fpage>e112</fpage>
+<pub-id pub-id-type="pmid">15839752</pub-id></element-citation></ref><ref id="pone.0024798-Lisovsky1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lisovsky</surname><given-names>I</given-names></name><name><surname>Schader</surname><given-names>SM</given-names></name><name><surname>Martinez-Cajas</surname><given-names>JL</given-names></name><name><surname>Oliveira</surname><given-names>M</given-names></name><name><surname>Moisi</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>HIV-1 protease codon 36 polymorphisms and differential development of resistance to nelfinavir, lopinavir, and atazanavir in different HIV-1 subtypes.</article-title>
+<source>Antimicrob Agents Chemother</source>
+<volume>54</volume>
+<fpage>2878</fpage>
+<lpage>2885</lpage>
+<pub-id pub-id-type="pmid">20404123</pub-id></element-citation></ref><ref id="pone.0024798-Verheyen2"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Verheyen</surname><given-names>J</given-names></name><name><surname>Knops</surname><given-names>E</given-names></name><name><surname>Kupfer</surname><given-names>B</given-names></name><name><surname>Hamouda</surname><given-names>O</given-names></name><name><surname>Somogyi</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Prevalence of C-terminal gag cleavage site mutations in HIV from therapy-naive patients.</article-title>
+<source>J Infect</source>
+<volume>58</volume>
+<fpage>61</fpage>
+<lpage>67</lpage>
+<pub-id pub-id-type="pmid">19110315</pub-id></element-citation></ref><ref id="pone.0024798-deMendoza1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Mendoza</surname><given-names>C</given-names></name><name><surname>Garrido</surname><given-names>C</given-names></name><name><surname>Corral</surname><given-names>A</given-names></name><name><surname>Zahonero</surname><given-names>N</given-names></name><name><surname>Soriano</surname><given-names>V</given-names></name></person-group>
+<year>2008</year>
+<article-title>Prevalence and impact of HIV-1 protease mutation L76V on lopinavir resistance.</article-title>
+<source>AIDS</source>
+<volume>22</volume>
+<fpage>311</fpage>
+<lpage>313</lpage>
+<pub-id pub-id-type="pmid">18097236</pub-id></element-citation></ref><ref id="pone.0024798-Knops1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Knops</surname><given-names>E</given-names></name><name><surname>Kemper</surname><given-names>I</given-names></name><name><surname>Schulter</surname><given-names>E</given-names></name><name><surname>Pfister</surname><given-names>H</given-names></name><name><surname>Kaiser</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>The evolution of protease mutation 76V is associated with protease mutation 46I and gag mutation 431V.</article-title>
+<source>AIDS</source>
+<volume>24</volume>
+<fpage>779</fpage>
+<lpage>781</lpage>
+<pub-id pub-id-type="pmid">20139751</pub-id></element-citation></ref><ref id="pone.0024798-Nijhuis3"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nijhuis</surname><given-names>M</given-names></name><name><surname>Wensing</surname><given-names>AM</given-names></name><name><surname>Bierman</surname><given-names>WF</given-names></name><name><surname>de Jong</surname><given-names>D</given-names></name><name><surname>Kagan</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Failure of treatment with first-line lopinavir boosted with ritonavir can be explained by novel resistance pathways with protease mutation 76V.</article-title>
+<source>J Infect Dis</source>
+<volume>200</volume>
+<fpage>698</fpage>
+<lpage>709</lpage>
+<pub-id pub-id-type="pmid">19627247</pub-id></element-citation></ref><ref id="pone.0024798-Barth1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barth</surname><given-names>RE</given-names></name><name><surname>van der Loeff</surname><given-names>MF</given-names></name><name><surname>Schuurman</surname><given-names>R</given-names></name><name><surname>Hoepelman</surname><given-names>AI</given-names></name><name><surname>Wensing</surname><given-names>AM</given-names></name></person-group>
+<year>2010</year>
+<article-title>Virological follow-up of adult patients in antiretroviral treatment programmes in sub-Saharan Africa: a systematic review.</article-title>
+<source>Lancet Infect Dis</source>
+<volume>10</volume>
+<fpage>155</fpage>
+<lpage>166</lpage>
+<pub-id pub-id-type="pmid">20185094</pub-id></element-citation></ref><ref id="pone.0024798-Touloumi1"><label>45</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Touloumi</surname><given-names>G</given-names></name><name><surname>Pantazis</surname><given-names>N</given-names></name><name><surname>Chaix</surname><given-names>ML</given-names></name><name><surname>Meyer</surname><given-names>L</given-names></name><name><surname>Thiebaut</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Virologic and immunologic response to cART by HIV-1 subtype in the CASCADE collaboration.</article-title>
+<comment><italic>18th Conference on Retroviruses and Opportunistic Infections</italic>. Boston, USA</comment>
+</element-citation></ref><ref id="pone.0024798-Bartlett1"><label>46</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Bartlett</surname><given-names>J</given-names></name><name><surname>Aga</surname><given-names>E</given-names></name><name><surname>Ribaudo</surname><given-names>H</given-names></name><name><surname>Wallis</surname><given-names>C</given-names></name><name><surname>Katzenstein</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>A pilot study of LPV/r monotherapy following virologic failure of first-line NNRTI-containing regimens in resource-limited settings : the week-24 primary analysis of ACTG 5230.</article-title>
+<comment><italic>18th Conference on Retroviruses and Opportunistic Infections</italic>. Boston USA</comment>
+</element-citation></ref><ref id="pone.0024798-Bunupuradah1"><label>47</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Bunupuradah</surname><given-names>T</given-names></name><name><surname>Chetchotisakd</surname><given-names>P</given-names></name><name><surname>Munsakul</surname><given-names>W</given-names></name><name><surname>Jirajariyavet</surname><given-names>S</given-names></name><name><surname>Kantipong</surname><given-names>P</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Second-line LPV/r monotherapy was inferior to TDF/3TC/LPV/r in patients who failed NNRTI regimen : HIV STAR study.</article-title>
+<comment><italic>18th Conference on Retroviruses and Opportunistic Infections</italic>. Boston, USA</comment>
+</element-citation></ref></ref-list></back></article>

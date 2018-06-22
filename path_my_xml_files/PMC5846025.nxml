@@ -1,0 +1,382 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Radiat Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Med Radiat Sci</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2051-3909</journal-id><journal-id journal-id-type="publisher-id">JMRS</journal-id><journal-title-group><journal-title>Journal of Medical Radiation Sciences</journal-title></journal-title-group><issn pub-type="ppub">2051-3895</issn><issn pub-type="epub">2051-3909</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29388344</article-id><article-id pub-id-type="pmc">5846025</article-id><article-id pub-id-type="doi">10.1002/jmrs.264</article-id><article-id pub-id-type="publisher-id">JMRS264</article-id><article-categories><subj-group subj-group-type="overline"><subject>Study Protocol</subject></subj-group><subj-group subj-group-type="heading"><subject>Study Protocol</subject></subj-group></article-categories><title-group><article-title>Evaluating the effectiveness of intensive versus non&#x02010;intensive image interpretation education for radiographers: a randomised control trial study protocol</article-title><alt-title alt-title-type="left-running-head">M. J. Neep <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="jmrs264-cr-0001" contrib-type="author" corresp="yes"><name><surname>Neep</surname><given-names>Michael J.</given-names></name><degrees>MSci BApp Sci (Med Rad Tech)</degrees><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2239-5467</contrib-id><address><email>michael.neep@health.qld.gov.au</email></address><xref ref-type="aff" rid="jmrs264-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmrs264-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jmrs264-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jmrs264-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jmrs264-cr-0002" contrib-type="author"><name><surname>Steffens</surname><given-names>Tom</given-names></name><degrees>BApp Sci (Med Rad Tech) Grad Dip Rad Image Interp</degrees><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5446-9718</contrib-id><xref ref-type="aff" rid="jmrs264-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jmrs264-cr-0003" contrib-type="author"><name><surname>Eastgate</surname><given-names>Patrick</given-names></name><degrees>MSci BApp Sci (Med Rad Tech)</degrees><xref ref-type="aff" rid="jmrs264-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jmrs264-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="jmrs264-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="jmrs264-cr-0004" contrib-type="author"><name><surname>McPhail</surname><given-names>Steven M.</given-names></name><degrees>PhD BPhty</degrees><xref ref-type="aff" rid="jmrs264-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jmrs264-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jmrs264-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="jmrs264-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Medical Imaging</named-content>
+<institution>Logan Hospital</institution>
+<named-content content-type="city">Meadowbrook</named-content>
+<named-content content-type="country-part">Queensland</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jmrs264-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Centre for Functioning and Health Research</named-content>
+<institution>Metro South Health</institution>
+<named-content content-type="city">Brisbane</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jmrs264-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">School of Public Health &#x00026; Social Work</named-content>
+<institution>Queensland University of Technology</institution>
+<named-content content-type="city">Kelvin Grove, Brisbane</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jmrs264-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Institute of Health and Biomedical Innovation</named-content>
+<institution>Queensland University of Technology</institution>
+<named-content content-type="city">Kelvin Grove, Brisbane</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jmrs264-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Medical Imaging</named-content>
+<institution>Princess Alexandra Hospital</institution>
+<named-content content-type="city">Brisbane</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jmrs264-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Medical Imaging</named-content>
+<institution>Sunshine Coast University Hospital</institution>
+<named-content content-type="city">Birtinya</named-content>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Michael J. Neep, Medical Imaging Department, Logan Hospital, Corner of Armstrong Road and Loganlea Road, Meadowbrook, Queensland 4131, Australia. Tel: +61 07 3299 8040; E&#x02010;mail: <email>michael.neep@health.qld.gov.au</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2018</year></pub-date><volume>65</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/jmrs.2018.65.issue-1</issue-id><fpage>63</fpage><lpage>70</lpage><history><date date-type="received"><day>17</day><month>2</month><year>2017</year></date><date date-type="rev-recd"><day>18</day><month>9</month><year>2017</year></date><date date-type="accepted"><day>03</day><month>11</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Journal of Medical Radiation Sciences published by John Wiley & Sons Australia, Ltd on behalf of Australian Society of Medical Imaging and Radiation Therapy and New Zealand Institute of Medical Radiation Technology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 State of Queensland. <italic>Journal of Medical Radiation Sciences</italic> published by John Wiley &#x00026; Sons Australia, Ltd on behalf of Australian Society of Medical Imaging and Radiation Therapy and New Zealand Institute of Medical Radiation Technology</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JMRS-65-63.pdf"/><abstract id="jmrs264-abs-0001"><title>Abstract</title><p>Radiographer commenting systems have not been successfully implemented in many Australian hospitals, despite evidence of their benefit and adoption elsewhere, such as the United Kingdom. An important contributor to the lack of widespread adoption of radiographer commenting in Australia (and likely elsewhere) is the limited availability of accessible education options for radiographers. The purpose of this randomised controlled trial is to compare the effectiveness of the same image interpretation education program delivered over an intensive 2&#x02010;day period (intensive format) versus a series of shorter regular workshops (non&#x02010;intensive format). The study design is a multicentre, stratified (by years of experience) two group parallel&#x02010;arm single&#x02010;blind (assessor blinded) randomised controlled trial. Participants will be allocated to one of the two groups: (1) intensive format of education or (2) non&#x02010;intensive format of education in a 1:1 ratio. Participants will undergo assessments before education, at 1&#x000a0;week post&#x02010;intervention completion and at 12&#x000a0;weeks post&#x02010;intervention completion. Findings from this trial will be of relevance to radiographers seeking image interpretation training as well as organisations providing image interpretation education to prepare clinical staff for participation in a radiographer commenting system. A limitation of the trial is that the sample will be inclusive of radiographers, and findings may not be able to be directly extrapolated to other clinical disciplines (e.g. junior doctors, physiotherapists or nurse practitioners).</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jmrs264-kwd-0001">Education</kwd><kwd id="jmrs264-kwd-0002">Image interpretation</kwd><kwd id="jmrs264-kwd-0003">radiographers</kwd><kwd id="jmrs264-kwd-0004">randomised control trial</kwd></kwd-group><funding-group><award-group><funding-source>Queensland Health's Health Practitioners Research</funding-source></award-group><award-group><funding-source>Australian Centre for Health Services Innovation</funding-source></award-group><award-group><funding-source>National Health and Medical Research Council (of Australia) Fellowship</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="3"/><page-count count="8"/><word-count count="5023"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jmrs264</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.2.2 mode:remove_FC converted:12.03.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jmrs264-cit-1001">
+<source>J Med Radiat Sci</source>
+<volume>65</volume> (<year>2018</year>) <fpage>63</fpage>&#x02013;<lpage>70</lpage>
+</mixed-citation>
+</p></notes></front><body><sec id="jmrs264-sec-0001"><title>Background</title><p>Access to appropriate and timely medical imaging is important for the provision of effective emergency healthcare in hospital settings.<xref rid="jmrs264-bib-0001" ref-type="ref">1</xref>, <xref rid="jmrs264-bib-0002" ref-type="ref">2</xref> Findings from medical imaging investigations underpin many diagnostic and treatment decisions, particularly for people who have presented to hospital following a trauma event. Even with the rise in use of computed tomography since its development in 1972,<xref rid="jmrs264-bib-0003" ref-type="ref">3</xref>, <xref rid="jmrs264-bib-0004" ref-type="ref">4</xref> radiographic image series remains the primary imaging modality requested for patients who may have sustained trauma.<xref rid="jmrs264-bib-0005" ref-type="ref">5</xref>
+</p><p>In emergency settings, the definitive radiology report may not be available within a clinically relevant timeframe.<xref rid="jmrs264-bib-0002" ref-type="ref">2</xref> This means that treatment decisions are likely to have been implemented by the referring clinical team before the radiologist's report is available in many cases. Unfortunately, delay between radiographic image capture and the availability of the radiologist's report can contribute to missed, incomplete or incorrect diagnoses.<xref rid="jmrs264-bib-0002" ref-type="ref">2</xref>, <xref rid="jmrs264-bib-0006" ref-type="ref">6</xref>, <xref rid="jmrs264-bib-0007" ref-type="ref">7</xref> One approach to mitigate risk and better support junior or inexperienced members of the referring clinical team is the recording of a brief comment by the radiographer at the time of image capture to highlight any abnormalities they may have detected.<xref rid="jmrs264-bib-0008" ref-type="ref">8</xref>, <xref rid="jmrs264-bib-0009" ref-type="ref">9</xref>, <xref rid="jmrs264-bib-0010" ref-type="ref">10</xref>, <xref rid="jmrs264-bib-0011" ref-type="ref">11</xref>
+</p><p>It has been suggested that radiographer commenting that highlights and describes acute abnormalities at the point of care may enhance patient management in hospital emergency departments.<xref rid="jmrs264-bib-0010" ref-type="ref">10</xref>, <xref rid="jmrs264-bib-0012" ref-type="ref">12</xref>, <xref rid="jmrs264-bib-0013" ref-type="ref">13</xref>, <xref rid="jmrs264-bib-0014" ref-type="ref">14</xref> However, this enhancement is dependent on radiographers' ability to detect and describe abnormalities when viewing and interpreting trauma radiographs. Importantly, radiographer performance in this regard can be improved as a result of targeted education in image interpretation.<xref rid="jmrs264-bib-0015" ref-type="ref">15</xref>, <xref rid="jmrs264-bib-0016" ref-type="ref">16</xref>, <xref rid="jmrs264-bib-0017" ref-type="ref">17</xref>, <xref rid="jmrs264-bib-0018" ref-type="ref">18</xref>
+</p><p>A radiographer commenting system has not been successfully implemented in many Australian hospitals, despite evidence of its benefit and adoption elsewhere, such as the United Kingdom.<xref rid="jmrs264-bib-0010" ref-type="ref">10</xref>, <xref rid="jmrs264-bib-0013" ref-type="ref">13</xref>, <xref rid="jmrs264-bib-0019" ref-type="ref">19</xref> An important contributor to the lack of widespread adoption of radiographer commenting in Australia (and likely elsewhere) may by the limited availability of accessible and effective training options for radiographers.<xref rid="jmrs264-bib-0011" ref-type="ref">11</xref> Two key factors limiting access to appropriate education are likely to include the availability of suitably qualified experts to deliver image interpretation education and the ability of radiographers from geographically diverse locations to access it.</p><p>A potential solution to facilitate the accessibility of training is to offer different formats of education delivery that can be potentially flexible with radiographers' schedules. In preparation for the present trial, two specific formats for delivery of a short&#x02010;course image interpretation education program for radiographers were considered. The two formats include the same educational content delivered at different intensities by the same facilitators. One approach includes an intensive delivery 2&#x02010;day training suitable for radiographers who may require the training to be completed in a short amount of time (e.g. a rural radiographer travelling to a metropolitan centre or radiographers who can only complete training on days away from clinical work). The other approach is a non&#x02010;intensive delivery of short regular workshops that may have potential to be incorporated into regular hospital in&#x02010;service education programs. Although prior studies involving imaging interpretation among radiographers have been promising,<xref rid="jmrs264-bib-0008" ref-type="ref">8</xref>, <xref rid="jmrs264-bib-0009" ref-type="ref">9</xref>, <xref rid="jmrs264-bib-0012" ref-type="ref">12</xref>, <xref rid="jmrs264-bib-0016" ref-type="ref">16</xref> to date, there is no study that has compared the accuracy of radiographer image interpretation for skeletal X&#x02010;rays from radiographers who have received different formats of an educational intervention.</p><p>The purpose of this randomised controlled trial is to compare the effectiveness of the same image interpretation education program delivered over an intensive 2&#x02010;day period (intensive format) versus a series of shorter regular workshops (non&#x02010;intensive format). The intended effect of this education program is to improve radiographers' ability to detect and describe abnormalities visualised on trauma radiographs.</p></sec><sec id="jmrs264-sec-0002"><title>Methods/Design</title><sec id="jmrs264-sec-0003"><title>Study design</title><p>The Standard Protocol Items: Recommendations for Interventional Trials (SPIRIT) 2013 guidelines were used when preparing this study protocol.<xref rid="jmrs264-bib-0020" ref-type="ref">20</xref> The study design is a multicentre, stratified (by years of experience) two group parallel&#x02010;arm single&#x02010;blind (assessor blinded) randomised controlled trial (Fig.&#x000a0;<xref rid="jmrs264-fig-0001" ref-type="fig">1</xref>). Participants will be allocated to one of the two groups: (1) intensive format of education or (2) non&#x02010;intensive format of education in a 1:1 ratio to examine whether either education delivery approach is superior to the other. Participants will undergo an assessment of their ability to interpret adult skeletal X&#x02010;rays, before education, at 1&#x000a0;week post&#x02010;intervention completion (primary time&#x02010;point) and at 12&#x000a0;weeks post&#x02010;intervention completion.</p><fig fig-type="Figure" xml:lang="en" id="jmrs264-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study design &#x02013; randomised control trial.</p></caption><graphic id="nlm-graphic-3" xlink:href="JMRS-65-63-g001"/></fig></sec><sec id="jmrs264-sec-0004"><title>Ethics statement</title><p>The Human Research Ethics Committees of both the Metro South Hospital and Health Service (HREC/11/QPAH/172) and the Queensland University of Technology (1200000061) approved this research.</p></sec><sec id="jmrs264-sec-0005"><title>Setting and participant recruitment</title><p>Radiographers will be recruited from three metropolitan hospital medical imaging departments in southeast Queensland. These hospitals were chosen as they each have a dedicated emergency&#x02010;imaging department. Radiographers eligible for inclusion in the study must be currently working in an emergency&#x02010;imaging department and willing to undertake either intensive or non&#x02010;intensive image interpretation training. Radiographers in the participating sites will be invited to participate in the study via email invitation. This will be achieved by sending the radiographer clinical educator at each of the sites an email asking them to forward the invitation to participate to all their radiographers who rotate through their emergency&#x02010;medical imaging department. Radiographers will be excluded from the study if they: have previously completed formal education in image interpretation or commenting (e.g. a master's degree that included image interpretation coursework); are not available to attend training at the potential scheduled times; or do not hold full registration as a radiographer with the national board. Accompanying the original email invitation will be a participant information sheet and a consent form. The participant information sheet provides potential participants with the necessary understanding for the motivation and procedures that underpin this study as well as further information to allow them to give informed consent. There will also be opportunity for potential participants to contact a member of the research team for further information or to ask further questions. The participant information sheet&#x000a0;also includes details explaining that the education sessions will be held out of normal business hours. For example, the intensive education will be held on weekends and the non&#x02010;intensive education will be held in the evenings. Participants are encouraged to ensure they are available to attend all the education sessions. Participants will provide written informed consent and are free to withdraw this consent at any time. Written consent forms will be collected by a member of the research team prior to participation.</p></sec><sec id="jmrs264-sec-0006"><title>Randomisation</title><p>Computerised random number generation will be used to generate the randomisation sequence by a researcher not otherwise involved in the recruitment or assessment of participants. Participants will be stratified into four bands by years of clinical experience (1&#x02013;2; 3&#x02013;5; 6&#x02013;12; 13&#x000a0;years+) to minimise the risk of differences in experience levels between groups. Concealment of allocation will occur through use of numbered opaque envelopes containing the group allocation for each participant and stored in a locked filing cabinet until the time of allocation. After a participant has completed their baseline assessment, an intervention co&#x02010;ordinator will be permitted to access the envelope with the corresponding participant number and open the envelope to reveal allocation (to either the intensive format or non&#x02010;intensive format). The baseline assessment will involve participants completing the primary and secondary outcome measures. This assessment will be conducted at the participant's place of work and scheduled in consultation with the participant and their manager to ensure their attendance.</p></sec><sec id="jmrs264-sec-0007"><title>Intervention</title><p>The standardised education intervention will be delivered in two formats: one group will receive intensive education (2&#x02010;day intensive format of delivery) and the other group will receive non&#x02010;intensive or more traditional education (sequential 90&#x02010;min tutorials delivered (at least) 1&#x000a0;week apart).</p><p>Both formats contain identical content in the same overall &#x02018;education time&#x02019; covering appendicular and axial skeletal trauma. The educational program was originally developed to enhance junior emergency doctors' skills in interpreting trauma radiographs. This program has been refined to suit radiographers by the original developer. To cater for multiple learning styles, the program incorporates a blended learning environment combining two distinct modes, passive traditional classroom teaching and an interactive visual practical component.<xref rid="jmrs264-bib-0021" ref-type="ref">21</xref> Within the two modes of learning, a number of learning aids are included to cater for different learning styles incorporating multisense, psychomotor and affective strategies.<xref rid="jmrs264-bib-0022" ref-type="ref">22</xref>, <xref rid="jmrs264-bib-0023" ref-type="ref">23</xref> The education program also integrates several original acronyms and mnemonics to assist the learner with memory retention and support them practising the skills learnt to build capability.</p><p>The program is divided into nine 90&#x02010;min workshops (see Table&#x000a0;<xref rid="jmrs264-tbl-0001" ref-type="table-wrap">1</xref>) including using a search strategy; how to structure findings, common traumatic pathology, normal variants and frequently missed abnormalities. Paediatric trauma is not covered in this education program, as the education program has been developed at a site that is not a paediatric (&#x0003c;14&#x000a0;years of age) centre. To standardise intervention delivery, the same facilitators, both of whom are members of the research team, experienced in image interpretation and facilitation of training, will deliver the courses (together). The facilitators are neither aware of the contents of the assessments nor involved with marking the assessments. Class size will be comparable for both formats. To facilitate learning opportunities and interactions within the education sessions, the size of each class will be kept to approximately 12 students.<xref rid="jmrs264-bib-0024" ref-type="ref">24</xref>, <xref rid="jmrs264-bib-0025" ref-type="ref">25</xref>
+</p><table-wrap id="jmrs264-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Education intervention content outline</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Workshop</th><th align="left" valign="top" rowspan="1" colspan="1">Subject</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">General principles and strategy for interpretation of skeletal trauma</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Hand, wrist and forearm</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Face including mandible</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">Foot, ankle and tibia/fibula</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">Knee and distal femur</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">Pelvis and hips</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">Shoulder and humerus</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">Spine</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">Review of all content</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>To promote ongoing participation in the non&#x02010;intensive educational intervention, radiographers in this group will receive reminders prior to each weekly session via email. Furthermore, to promote completion of the education program for participants in both groups, this education program is eligible for accrual of continuing professional development points (equal to 13.5&#x000a0;h) recognised by the national registration board. A certificate of completion as evidence of accrual of the continuing professional development points will be provided to participants who complete the training.</p></sec><sec id="jmrs264-sec-0008"><title>Outcome measures</title><sec id="jmrs264-sec-0009"><title>Primary outcome measure</title><p>The primary outcome measure will be the Image Interpretation Test (IIT) assessment score, which has favourable evidence supporting its validity and reliability among radiographers.<xref rid="jmrs264-bib-0026" ref-type="ref">26</xref> The development of this test has been described in detail in an earlier publication.<xref rid="jmrs264-bib-0026" ref-type="ref">26</xref> This assessment involves participants examining a test bank of radiographic examinations (presented in random order) to try to identify abnormalities (and provide a descriptive comment when an abnormality is observed). The IIT assessment contains 60 examinations. It includes various appendicular and axial skeletal radiographs with a distribution of anatomical regions and proportion of abnormal cases that has been reported as consistent with a typical adult case mix from a hospital emergency department.<xref rid="jmrs264-bib-0026" ref-type="ref">26</xref> This case mix was determined by conducting an audit of consecutive adult examinations over a 12&#x02010;month period. A description of this audit has been described previously.<xref rid="jmrs264-bib-0026" ref-type="ref">26</xref> Participants in the trial will have their responses for each IIT examination (e.g. detection of normal or abnormal and description of abnormalities identified) scored by a blinded examiner. Two radiographers with postgraduate qualifications in image interpretation will serve as a panel of independent examiners to score and compare participant responses to the reference standard for each examination. The examiners will not be involved with the study design, conduct or education intervention (and blinded to group allocation and participant's identity). A reference standard has been created for each examination by a panel of experienced experts (two consultant radiologists and one consultant reporting radiographer).<xref rid="jmrs264-bib-0026" ref-type="ref">26</xref> A novel rating scale has also been developed and validated in an earlier publication (Table&#x000a0;<xref rid="jmrs264-tbl-0002" ref-type="table-wrap">2</xref>).<xref rid="jmrs264-bib-0026" ref-type="ref">26</xref> The examiners will be trained on how to use the rating scale by the site investigator (MN). They will be provided with a guide and worksheet to enable a consistent framework for marking. By using the rating scale, each examination in the IIT will be given a numerical value with a maximum total score of 3 and a minimum of 0. When marking assessments, discordant ratings will be discussed between the examiners until consensus reached.</p><table-wrap id="jmrs264-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Scoring criteria for each examination in the Image Interpretation Test</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Criteria</th><th align="center" valign="top" rowspan="1" colspan="1">Score</th></tr></thead><tbody><tr><td align="left" colspan="2" rowspan="1">For radiographic cases with a traumatic abnormality</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Abnormality not detected</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Abnormality detected, but not described correctly</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Abnormality detected, description incomplete (but not incorrect)</td><td align="char" char="." rowspan="1" colspan="1">2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Abnormality detected and correctly described in entirety</td><td align="char" char="." rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">For radiographic cases with no traumatic abnormality</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">False abnormality reported or described</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Correct report of absence of any traumatic abnormality</td><td align="char" char="." rowspan="1" colspan="1">3</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>To determine which format of delivery resulted in greater improvement and maintenance of image interpretation capability, the IIT will be completed prior to education commencement, 1&#x000a0;week after education completion and at 12&#x000a0;weeks post&#x02010;education completion for both formats. A 12&#x02010;week reassessment will provide an indication of whether there is difference in the maintenance of improvements observed at the first post&#x02010;intervention assessment. The 12&#x02010;week duration was also chosen so that a comparison could be made between the 12&#x02010;week post&#x02010;intensive format assessment, with the 1&#x02010;week post&#x02010;non&#x02010;intensive format assessment as these would be approximately the same number of weeks post&#x02010;intervention commencement (i.e. approximately 13&#x000a0;weeks). To help limit case recall bias at individual assessment points, each test bank of images will be presented in random order. The order of the cases will be determined by a computer&#x02010;generated randomisation sequence. To minimise the impact of post&#x02010;test discussion, participants will be asked not to discuss the cases within the test. This however could not be directly monitored or controlled by the investigators.</p></sec><sec id="jmrs264-sec-0010"><title>Primary outcome measure procedure</title><p>Before each assessment, radiographers will be provided with a guideline (see Table&#x000a0;<xref rid="jmrs264-tbl-0003" ref-type="table-wrap">3</xref>) for classification of radiographic examinations based upon a prior investigation.<xref rid="jmrs264-bib-0027" ref-type="ref">27</xref> The anonymised DICOM (Digital Imaging and Communications in Medicine) images will be embedded into an image review software program (Codonics Clarity Viewer version 6.1, Middleburg Heights, Ohio, USA). Prior to interpreting and commenting on radiographs in the IIT, each participant will receive instruction on how to use this software to view each image. This software program has the capability to adjust image contrast/density, zoom, pan and invert an image as would be possible in clinical practice settings.</p><table-wrap id="jmrs264-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Examination classifications for primary outcome measure</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Findings</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Abnormal</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1. Fractures</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2. Joint disruptions</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3. Joint effusions</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">4. Soft tissue swelling</td></tr><tr><td align="left" rowspan="1" colspan="1">Normal</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1. Anatomical variants</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2. Non&#x02010;traumatic pathology</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3. Old fractures</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">4. Evidence of previous surgery</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>To simulate the clinical setting and typical workflow, the assessment will take place in a semi&#x02010;darkened room with a time restriction (a total of 90&#x000a0;min assigned to complete the assessment). The images will be reviewed using a standard personal computer monitor (2&#x02010;megapixels) that is consistent to reviewing images in the clinical setting. Neither a clinical history nor access to previous imaging for each examination in the IIT will be permitted. Not including clinical history is designed to ensure participant's responses to the IIT are entirely dependent on how well they scan and interpret the radiographic images, rather than an assessment of how well they interpret case histories in combination with radiographic images.</p></sec><sec id="jmrs264-sec-0011"><title>Secondary outcome measure</title><p>In addition to providing a description of the pathology (perceived to be) present for each examination, the participants will be asked to provide a &#x02018;confidence rating&#x02019; to indicate how confident they are in their interpretation on a 5&#x02010;point Likert scale (normal, probably normal, possibly normal, probably abnormal and abnormal). These ratings will be reported at baseline and at follow&#x02010;up assessments.</p><p>Two questionnaires will also be administered (the first to be completed at the baseline assessment prior to randomisation, the second is completed at the 12&#x02010;week post&#x02010;intervention assessment). The content and format of the two questionnaires is comparable, with the exception of an additional question in the second questionnaire to investigate the participant's perception of the education format they received. These questionnaires will be completed via a secure web&#x02010;based platform. The development process for these secondary questionnaires followed recommendations for the design and conduct of self&#x02010;administered surveys for clinicians.<xref rid="jmrs264-bib-0028" ref-type="ref">28</xref> The process involved forming a panel of local content and survey design experts who assisted in item generation, reduction and pretesting. Both electronic questionnaires were piloted with a small convenience sample of radiographers (<italic>n</italic>&#x000a0;=&#x000a0;6). Questionnaire flow, format, interpretability, redundant items and overall length of questionnaires were assessed. Each questionnaire will be distributed to all participants via an email containing a hyperlink to the secure web&#x02010;based survey platform.</p></sec><sec id="jmrs264-sec-0012"><title>Sample size calculation</title><p>Owing to a lack of similar studies to inform effect size assumptions, the research team took a pragmatic approach to determining an appropriate effect size to use in the sample size calculation.<xref rid="jmrs264-bib-0029" ref-type="ref">29</xref> The team consulted three medical imaging clinical educators to consider what they would classify as a meaningful difference in the primary outcome measure that would lead them to choose one education delivery format over the other. Their responses indicated that a difference of more than one correctly described image, which equated to 4 points or more on the IIT, would be considered a significant difference. Therefore, the target sample size will be 48 (24 participants per group). A sample size of 24 participants per group provides greater than 80% power<xref rid="jmrs264-bib-0029" ref-type="ref">29</xref> to detect a 4&#x02010;point difference between groups in the primary outcome (IIT score) at a significance level of 0.05%, assuming a standard deviation of 4.5 and a dropout rate &#x0003c;15%.</p></sec></sec><sec id="jmrs264-sec-0013"><title>Statistical methods</title><p>Data analyses will be performed using Stata (StataCorp, College Station, TX, USA). Conventional descriptive statistics will be used to describe the sample (years experience as a radiographer, age, gender, current or previous involvement in a radiographer abnormality detection system, as well as the primary and secondary outcomes). Data will be analysed according to the intention&#x02010;to&#x02010;treat principles. Outcome measures will be compared within and between intervention groups at baseline, and follow&#x02010;up assessments using generalised linear models to determine whether there were differences between groups and changes in primary or secondary outcomes over time (group by time interaction). The primary time&#x02010;point of interest is the 1&#x02010;week post&#x02010;intervention assessment. From these analyses, it will be possible to determine which method of education delivery (if any) had a greater impact on improving the radiographers' ability to detect and describe abnormalities on trauma radiographs, with the opportunity to adjust for baseline confounders if indicated.</p></sec></sec><sec id="jmrs264-sec-0014"><title>Discussion</title><p>Errors in the interpretation of radiographs in the emergency department have important consequences for patients and clinicians.<xref rid="jmrs264-bib-0005" ref-type="ref">5</xref> Failure to correctly identify abnormalities on radiographs in a timely manner may result in delayed or inappropriate treatment leading to suboptimal outcomes for patients and potential medicolegal claims against clinicians.<xref rid="jmrs264-bib-0006" ref-type="ref">6</xref> Radiographer commenting has been proposed as a mechanism to reduce diagnostic errors by providing an immediate opinion on a radiograph at the time of image capture by the performing radiographer.<xref rid="jmrs264-bib-0010" ref-type="ref">10</xref>, <xref rid="jmrs264-bib-0012" ref-type="ref">12</xref>, <xref rid="jmrs264-bib-0014" ref-type="ref">14</xref> The potential benefits of radiographer commenting are likely to be dependent on the radiographer's ability to detect and describe abnormalities when viewing and interpreting trauma radiographs. Consequently, access to effective training that radiographers receive in preparation for a radiographer commenting role is paramount. This will be the first randomised controlled trial to evaluate the effectiveness of intensive and non&#x02010;intensive formats of delivery of image interpretation education. This study will generate valuable evidence regarding how image interpretation education can be effectively delivered to radiographers in hospital settings nationally and internationally.</p><p>There are several limitations of this study that should be considered. The possibility of recall bias is always a potential limitation with studies that involve the completion of the same assessment during a relatively short time frame. To minimise participants memorising cases between assessments, this study will undertake two preventative actions. First, a minimum time period between any two assessments of 5&#x000a0;weeks will be employed. Second, a computer&#x02010;generated randomisation sequence will be used to present each 60 case assessment in random order, further limiting the potential for case recall. An additional limitation that is a risk when employing a voluntary sampling method for participation in a research study is the possibility of self&#x02010;selection bias. Radiographers who respond to the participation invite may have a greater interest in image interpretation education than non&#x02010;responders. Another potential limitation is that there was no pilot data to inform sample size calculations prior to the study commencement. If significant findings are not observed in the final analyses, a post&#x02010;hoc power calculation based on trial data will be conducted to inform planning for future studies. Furthermore, the knowledge and capabilities of rural radiographers in comparison to radiographers from metropolitan areas has not been contemplated in this study and may be considered a limitation of this trial which required participants to be available to receive either intervention format. Future research investigating their difference would be worthwhile.</p><p>Findings from this trial are likely to be of relevance to radiographers seeking image interpretation training as well as organisations providing image interpretation education to prepare clinical staff for participation in a radiographer commenting system. A further limitation of the trial is that the sample will be inclusive of radiographers, and findings may not be able to be directly extrapolated to other clinical disciplines (e.g. junior doctors, physiotherapists or nurse practitioners). Nonetheless, this trial will provide insight into how image interpretation education can be effectively delivered and pave the way for future research among other relevant health professions including physiotherapists, nurse practitioners and doctors who work in emergency department settings.</p></sec><sec id="jmrs264-sec-0015"><title>Trial status</title><p>
+<bold>Trial Registration:</bold> Australian New Zealand Clinical Trials Registry &#x02013; ACTRN12612000210875. The trial was recruiting at the time of submission.</p></sec><sec id="jmrs264-sec-0016"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec></body><back><ref-list content-type="cited-references" id="jmrs264-bibl-0001"><title>References</title><ref id="jmrs264-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmrs264-cit-0001">
+<string-name>
+<surname>Walsh&#x02010;Kelly</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Melzer&#x02010;Lange</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Hennes</surname>
+<given-names>HM</given-names>
+</string-name>, et&#x000a0;al. <article-title>Clinical impact of radiograph misinterpretation in a pediatric ED and the effect of physician training level</article-title>. <source>Am J Emerg Med</source>
+<year>1995</year>; <volume>13</volume>: <fpage>262</fpage>&#x02013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">7755814</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jmrs264-cit-0002">
+<string-name>
+<surname>Eastgate</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>McPhail</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>Radiographic imaging for traumatic ankle injuries: A demand profile and investigation of radiological reporting timeframes from an Australian tertiary facility</article-title>. <source>J Foot Ankle Res</source>
+<year>2014</year>; <volume>7</volume>: <fpage>25</fpage>.<pub-id pub-id-type="pmid">24883110</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmrs264-cit-0003">
+<string-name>
+<surname>Hussein</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Mullins</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Alghamdi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sarani</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Pines</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Trends in advanced computed tomography use for injured patients in United States emergency departments: 2007&#x02013;2010</article-title>. <source>Acad Emerg Med</source>
+<year>2015</year>; <volume>22</volume>: <fpage>663</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">25996245</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmrs264-cit-0004">
+<string-name>
+<surname>Larson</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name>
+<surname>Schnell</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Salisbury</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Forman</surname>
+<given-names>HP</given-names>
+</string-name>. <article-title>National trends in CT use in the emergency department: 1995&#x02013;2007</article-title>. <source>Radiology</source>
+<year>2011</year>; <volume>258</volume>: <fpage>164</fpage>&#x02013;<lpage>73</lpage>.<pub-id pub-id-type="pmid">21115875</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jmrs264-cit-0005">
+<string-name>
+<surname>Pinto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Reginelli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pinto</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>Errors in imaging patients in the emergency setting</article-title>. <source>Br J Radiol</source>
+<year>2016</year>; <volume>89</volume>: <fpage>20150914</fpage>.<pub-id pub-id-type="pmid">26838955</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jmrs264-cit-0006">
+<string-name>
+<surname>Kachalia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gandhi</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Puopolo</surname>
+<given-names>AL</given-names>
+</string-name>, et&#x000a0;al. <article-title>Missed and delayed diagnoses in the emergency department: A study of closed malpractice claims from 4 liability insurers</article-title>. <source>Ann Emerg Med</source>
+<year>2007</year>; <volume>49</volume>: <fpage>196</fpage>&#x02013;<lpage>205</lpage>.<pub-id pub-id-type="pmid">16997424</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmrs264-cit-0007">
+<string-name>
+<surname>Kim</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name>
+<surname>Mansfield</surname>
+<given-names>LT</given-names>
+</string-name>. <article-title>Fool me twice: Delayed diagnoses in radiology with emphasis on perpetuated errors</article-title>. <source>Am J Roentgenol</source>
+<year>2014</year>; <volume>202</volume>: <fpage>465</fpage>&#x02013;<lpage>70</lpage>.<pub-id pub-id-type="pmid">24555582</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmrs264-cit-0008">
+<string-name>
+<surname>McConnell</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Devaney</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Queensland radiographer clinical descriptions of adult appendicular musculo&#x02010;skeletal trauma following a condensed education programme</article-title>. <source>Radiography</source>
+<year>2012</year>; <volume>19</volume>: <fpage>48</fpage>&#x02013;<lpage>55</lpage>.</mixed-citation></ref><ref id="jmrs264-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmrs264-cit-0009">
+<string-name>
+<surname>Neep</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Steffens</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>McPhail</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>A survey of radiographers' confidence and self&#x02010;perceived accuracy in frontline image interpretation and their continuing educational preferences</article-title>. <source>J Med Radiat Sci</source>
+<year>2014</year>; <volume>61</volume>: <fpage>69</fpage>&#x02013;<lpage>77</lpage>.<pub-id pub-id-type="pmid">26229640</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmrs264-cit-0010">
+<string-name>
+<surname>Hardy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Culpan</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Accident and emergency radiography: A comparison of radiographer commenting and &#x02018;red dotting&#x02019;</article-title>. <source>Radiography</source>
+<year>2007</year>; <volume>13</volume>: <fpage>65</fpage>&#x02013;<lpage>71</lpage>.</mixed-citation></ref><ref id="jmrs264-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmrs264-cit-0011">
+<string-name>
+<surname>Neep</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Steffens</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>McPhail</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>Radiographer commenting of trauma radiographs: A survey of the benefits, barriers and enablers to participation in an Australian healthcare setting</article-title>. <source>J Med Imaging Radiat Oncol</source>
+<year>2014</year>; <volume>58</volume>: <fpage>431</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">24774619</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmrs264-cit-0012">
+<string-name>
+<surname>Smith</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Younger</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Accident and emergency radiological interpretation using the radiographer opinion form (ROF)</article-title>. <source>Radiographers</source>
+<year>2002</year>; <volume>49</volume>: <fpage>27</fpage>.</mixed-citation></ref><ref id="jmrs264-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmrs264-cit-0013">
+<string-name>
+<surname>Snaith</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Radiographer abnormality detection schemes in the trauma environment&#x02014;An assessment of current practice</article-title>. <source>Radiography</source>
+<year>2008</year>; <volume>14</volume>: <fpage>277</fpage>&#x02013;<lpage>81</lpage>.</mixed-citation></ref><ref id="jmrs264-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmrs264-cit-0014">
+<string-name>
+<surname>Coleman</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Piper</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Radiographic interpretation of the appendicular skeleton: A comparison between casualty officers, nurse practitioners and radiographers</article-title>. <source>Radiography</source>
+<year>2009</year>; <volume>15</volume>: <fpage>196</fpage>&#x02013;<lpage>202</lpage>.</mixed-citation></ref><ref id="jmrs264-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmrs264-cit-0015">
+<string-name>
+<surname>McConnell</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Webster</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Improving radiographer highlighting of trauma films in the accident and emergency department with a short course of study&#x02010;an evaluation</article-title>. <source>Br J Radiol</source>
+<year>2000</year>; <volume>73</volume>: <fpage>608</fpage>&#x02013;<lpage>12</lpage>.<pub-id pub-id-type="pmid">10911784</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmrs264-cit-0016">
+<string-name>
+<surname>Smith</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Traise</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The influence of a continuing education program on the image interpretation accuracy of rural radiographers</article-title>. <source>Rural Remote Health</source>
+<year>2009</year>; <volume>9</volume>: <fpage>1145</fpage>.<pub-id pub-id-type="pmid">19392573</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jmrs264-cit-0017">
+<string-name>
+<surname>McConnell</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Devaney</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Goodwin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Strahan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Baird</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The impact of a pilot education programme on Queensland radiographer abnormality description of adult appendicular musculo&#x02010;skeletal trauma</article-title>. <source>Radiography</source>
+<year>2012</year>; <volume>18</volume>: <fpage>184</fpage>&#x02013;<lpage>90</lpage>.</mixed-citation></ref><ref id="jmrs264-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmrs264-cit-0018">
+<string-name>
+<surname>Hargreaves</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mackay</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The accuracy of the red dot system: Can it improve with training?</article-title>
+<source>Radiography</source>
+<year>2003</year>; <volume>9</volume>: <fpage>283</fpage>&#x02013;<lpage>9</lpage>.</mixed-citation></ref><ref id="jmrs264-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jmrs264-cit-0019">
+<string-name>
+<surname>Howard</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>An exploratory study of radiographer's perceptions of radiographer commenting on musculo&#x02010;skeletal trauma images in rural community based hospitals</article-title>. <source>Radiography</source>
+<year>2013</year>; <volume>19</volume>: <fpage>137</fpage>&#x02013;<lpage>41</lpage>.</mixed-citation></ref><ref id="jmrs264-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jmrs264-cit-0020">
+<string-name>
+<surname>Chan</surname>
+<given-names>A&#x02010;W</given-names>
+</string-name>, <string-name>
+<surname>Tetzlaff</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>, et&#x000a0;al. <article-title>SPIRIT 2013 statement: Defining standard protocol items for clinical trials</article-title>. <source>Ann Intern Med</source>
+<year>2013</year>; <volume>158</volume>: <fpage>200</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">23295957</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jmrs264-cit-0021">
+<string-name>
+<surname>Cassidy</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Learning styles: An overview of theories, models, and measures</article-title>. <source>Educ Psychol</source>
+<year>2004</year>; <volume>24</volume>: <fpage>419</fpage>&#x02013;<lpage>44</lpage>.</mixed-citation></ref><ref id="jmrs264-bib-0022"><label>22</label><mixed-citation publication-type="book" id="jmrs264-cit-0022">
+<string-name>
+<surname>Honey</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mumford</surname>
+<given-names>A</given-names>
+</string-name>. <source>The Learning Styles Helper's Guide</source>. <publisher-name>Peter Honey</publisher-name>, <publisher-loc>Maidenhead</publisher-loc>, <year>2000</year>.</mixed-citation></ref><ref id="jmrs264-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jmrs264-cit-0023">
+<string-name>
+<surname>Thompson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Crutchlow</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Learning style research: A critical review of the literature and implications for nursing education</article-title>. <source>J Prof Nurs</source>
+<year>1993</year>; <volume>9</volume>: <fpage>34</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">8421126</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jmrs264-cit-0024">
+<string-name>
+<surname>Glass</surname>
+<given-names>GV</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Meta&#x02010;analysis of research on class size and achievement</article-title>. <source>Educ Eval Policy Anal</source>
+<year>1979</year>; <volume>1</volume>: <fpage>2</fpage>&#x02013;<lpage>16</lpage>.</mixed-citation></ref><ref id="jmrs264-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jmrs264-cit-0025">
+<string-name>
+<surname>Slavin</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Class size and student achievement: Is smaller better?</article-title>
+<source>Contemp Educ</source>
+<year>1990</year>; <volume>62</volume>: <fpage>6</fpage>.</mixed-citation></ref><ref id="jmrs264-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jmrs264-cit-0026">
+<string-name>
+<surname>Neep</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Steffens</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Riley</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Eastgate</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>McPhail</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Development of a valid and reliable test to assess trauma radiograph interpretation performance</article-title>. <source>Radiography</source>
+<year>2017</year>; <volume>23</volume>: <fpage>153</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">28390548</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jmrs264-cit-0027">
+<string-name>
+<surname>Robinson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Coral</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Verow</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Variation between experienced observers in the interpretation of accident and emergency radiographs</article-title>. <source>Br J Radiol</source>
+<year>1999</year>; <volume>72</volume>: <fpage>323</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">10474490</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jmrs264-cit-0028">
+<string-name>
+<surname>Burns</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Duffett</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kho</surname>
+<given-names>ME</given-names>
+</string-name>, et&#x000a0;al. <article-title>A guide for the design and conduct of self&#x02010;administered surveys of clinicians</article-title>. <source>Can Med Assoc J</source>
+<year>2008</year>; <volume>179</volume>: <fpage>245</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">18663204</pub-id></mixed-citation></ref><ref id="jmrs264-bib-0029"><label>29</label><mixed-citation publication-type="book" id="jmrs264-cit-0029">
+<string-name>
+<surname>Chow</surname>
+<given-names>S&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>
+<given-names>J</given-names>
+</string-name>. <source>Sample Size Calculations in Clinical Research</source>. <publisher-name>CRC Press</publisher-name>, <publisher-loc>Boca Raton, FL</publisher-loc>, <year>2007</year>.</mixed-citation></ref></ref-list></back></article>

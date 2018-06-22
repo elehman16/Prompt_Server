@@ -1,0 +1,953 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Stat Med</journal-id><journal-id journal-id-type="iso-abbrev">Stat Med</journal-id><journal-id journal-id-type="publisher-id">sim</journal-id><journal-title-group><journal-title>Statistics in Medicine</journal-title></journal-title-group><issn pub-type="ppub">0277-6715</issn><issn pub-type="epub">1097-0258</issn><publisher><publisher-name>Blackwell Publishing Ltd</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22763807</article-id><article-id pub-id-type="pmc">3588596</article-id><article-id pub-id-type="doi">10.1002/sim.5448</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Dynamic randomization and a randomization model for clinical trials
+data</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kaiser</surname><given-names>Lee D</given-names></name><xref ref-type="corresp" rid="cor1">*</xref><xref ref-type="corresp" rid="cor2">&#x02020;</xref></contrib><aff><institution>Genentech, Inc.</institution><addr-line>1 DNA Way, South San Francisco, 94080, CA, U.S.A.</addr-line></aff></contrib-group><author-notes><corresp id="cor1">*Correspondence to: Lee D. Kaiser, Genentech, Inc., 1 DNA
+Way, South San Francisco 94080, CA, U.S.A.</corresp><corresp id="cor2">&#x02020; E-mail: <email>lkaiser@gene.com</email></corresp><fn><p>Re-use of this article is permitted in accordance with the Terms and
+Conditions set out at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com/onlineopen#OnlineOpen_Terms">http://wileyonlinelibrary.com/onlineopen#OnlineOpen_Terms</ext-link></p></fn></author-notes><pub-date pub-type="ppub"><day>20</day><month>12</month><year>2012</year></pub-date><pub-date pub-type="epub"><day>05</day><month>7</month><year>2012</year></pub-date><volume>31</volume><issue>29</issue><fpage>3858</fpage><lpage>3873</lpage><history><date date-type="received"><day>03</day><month>8</month><year>2011</year></date><date date-type="accepted"><day>02</day><month>5</month><year>2012</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2012 John Wiley &#x00026; Sons,
+Ltd.</copyright-statement><copyright-year>2012</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/"><license-p>Re-use of this article is permitted in accordance with the Creative Commons Deed,
+Attribution 2.5, which does not permit commercial exploitation.</license-p></license></permissions><abstract><p>Randomization models are useful in supporting the validity of linear model
+analyses applied to data from a clinical trial that employed randomization via
+permuted blocks. Here, a randomization model for clinical trials data with
+arbitrary randomization methodology is developed, with treatment effect
+estimators and standard error estimators valid from a randomization perspective.
+A central limit theorem for the treatment effect estimator is also derived. As
+with permuted-blocks randomization, a typical linear model analysis provides
+results similar to the randomization model results when, roughly, unit effects
+display no pattern over time. A key requirement for the randomization inference
+is that the unconditional probability that any patient receives active treatment
+is constant across patients<bold>;</bold> when this probability condition is
+violated, the treatment effect estimator is biased from a randomization
+perspective. Most randomization methods for balanced, 1 to 1, treatment
+allocation satisfy this condition. However, many dynamic randomization methods
+for planned unbalanced treatment allocation, like 2 to 1, do not satisfy this
+constant probability condition, and these methods should be avoided. Copyright
+&#x000a9; 2012 John Wiley &#x00026; Sons, Ltd.</p></abstract><kwd-group><kwd>linear model</kwd><kwd>unit-treatment additivity</kwd><kwd>permuted-blocks randomization</kwd><kwd>biased-coin randomization</kwd><kwd>minimization</kwd><kwd>randomization test</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>A theory for estimation in a linear model, specifically accounting for the
+randomization used in a clinical trial will be developed. A particular goal is to
+compare the inferences from the usual population-based linear model with those from
+the randomization model. A further goal is to compare randomization model inference
+that follows from permuted-blocks randomization (PBR) with those from dynamic
+randomization methods. Here, &#x02018;dynamic randomization&#x02019; refers to
+methodology in which the probability of assignment of a given patient to
+experimental treatment is a function of the patient's stratification
+variables and the stratification variables and treatment assignments of previously
+randomized patients. Other terminology has been used, such as adaptive randomization
+and minimization.</p><p>Randomization of treatments to patients in clinical trials has perhaps most commonly
+been performed with PBR, often within strata defined by crossings of prognostic
+factors and/or investigational sites. Permuted blocks are used instead of
+&#x02018;complete randomization&#x02019;, which assigns the next patient to
+experimental treatment essentially by a fair coin toss, to ensure that the number of
+patients assigned to each treatment group remains similar within strata, regardless
+of the number of patients ultimately enrolled in the strata [<xref ref-type="bibr" rid="b1">1</xref>]. Efron [<xref ref-type="bibr" rid="b2">2</xref>] introduced biased-coin randomization, which assigns
+the next patient to experimental treatment with a biased coin if the counts of
+patients previously assigned to the two treatments are imbalanced. Pocock and Simon
+[<xref ref-type="bibr" rid="b3">3</xref>] generalized the method
+to include stratification variables, where the probability of assignment to
+experimental treatment depends on the balance of treatment counts across the margins
+of the stratification variables. There have subsequently been many proposals for
+other dynamic randomization procedures [<xref ref-type="bibr" rid="b4">4</xref>&#x02013;<xref ref-type="bibr" rid="b7">7</xref>].</p><p>A theory for estimation and testing exists for permutation-based randomizations
+paired with a linear model, where the linear model includes the
+randomization's stratification variables in addition to a treatment term, and
+leads to unbiased estimators of treatment effects and unbiased estimators of the
+variance of the treatment effect estimator [<xref ref-type="bibr" rid="b8">8</xref>&#x02013;<xref ref-type="bibr" rid="b11">11</xref>]. The
+unbiasedness is over the distribution of the observations induced by repeated
+randomizations of treatments to fixed experimental units, under the assumption of
+unit-treatment additivity with fixed unit and treatment effects.</p><p>There have been many theoretical developments for randomizations that are not of the
+permutation type, but these have mostly focused on randomization tests rather than
+estimation.</p><list list-type="simple"><list-item><p>&#x025e6; Smythe and Wei [<xref ref-type="bibr" rid="b12">12</xref>] derived the asymptotic distribution of a linear rank test
+of the null hypothesis of equality of two treatments when the assignment of
+treatments to patients is according to an urn-based randomization
+scheme.</p></list-item><list-item><p>&#x025e6; Smith [<xref ref-type="bibr" rid="b13">13</xref>]
+summarized treatment allocation methods developed to date. For treatment
+allocation probabilities that are functions of
+(<italic>n</italic><sub>1</sub> &#x02212; <italic>n</italic><sub>0</sub>)
+/ (<italic>n</italic><sub>0</sub> + <italic>n</italic><sub>1</sub>),
+where the <italic>n</italic><sub><italic>j</italic></sub>'s are the
+numbers of patients previously assigned to the two treatments, Smith
+developed an approximation to a randomization test based on the difference
+in sample means. Smith also developed similar approximations when treatment
+assignment probabilities are a particular function of stratification
+variables of the current and previous patients and developed asymptotic
+approximations to randomization tests.</p></list-item><list-item><p>&#x025e6; Wei <italic>et al.</italic> [<xref ref-type="bibr" rid="b14">14</xref>] proposed a biased-coin scheme for the allocation of
+<italic>k</italic> treatments in proportion &#x003be;<sub>1</sub>,
+&#x02026;, &#x003be;<sub><italic>k</italic></sub>, where &#x003be;<sub>1</sub>
++ &#x02026; + &#x003be;<sub><italic>k</italic></sub> = 1,
+and generalized the work of Smythe and Wei [<xref ref-type="bibr" rid="b12">12</xref>] to <italic>k</italic> &#x0003e; 2.</p></list-item><list-item><p>&#x025e6; Shao <italic>et al.</italic> [<xref ref-type="bibr" rid="b15">15</xref>] proposed a theory for clinical trials with dynamic
+randomization, but the results were developed on an assumption of a model
+that relates the dependent variable to the variables used in constructing
+hypothesis tests.</p></list-item><list-item><p>&#x025e6; Rosenkranz [<xref ref-type="bibr" rid="b16">16</xref>]
+explored the sampling properties of a difference in sample means under
+various randomization schemes and noted that a <italic>t</italic>-test can
+be very conservative with biased- coin randomization.</p></list-item></list><p>Regardless of the randomization method used, it is common in clinical trials data
+analysis to apply a statistical test that is based on assumptions of random sampling
+from a distribution. In general, these tests behave as follows for biased-coin and
+urn-based randomizations [<xref ref-type="bibr" rid="b2">2</xref>, <xref ref-type="bibr" rid="b13">13</xref>, <xref ref-type="bibr" rid="b16">16</xref>&#x02013;<xref ref-type="bibr" rid="b18">18</xref>].</p><list list-type="simple"><list-item><p>&#x025e6; If there is low-frequency variation in the responses of patients
+over time of entry into the trial, then a population-based test will tend to
+result in a larger <italic>p</italic>-value than the corresponding
+randomization test result. With this pattern of variation, patients enrolled
+closer together in time tend to respond more similarly than patients
+enrolled farther apart in time.</p></list-item><list-item><p>&#x025e6; If there is high-frequency variation in responses over enrollment
+time, then a population-based test will tend to yield a smaller
+<italic>p</italic>-value than the corresponding randomization test
+result. In this case, patients enrolled closer together in time tend to
+respond less similarly than patients enrolled farther apart in time. This is
+generally noted to be less likely than the scenario above.</p></list-item><list-item><p>&#x025e6; Finally, when responses appear to come from a homogeneous,
+time-independent model, then the two test results tend to be similar.</p></list-item></list><p>These same qualitative comparisons apply for PBR when the blocking in time is ignored
+in the analysis [<xref ref-type="bibr" rid="b1">1</xref>], in which
+case the variation in patient responses is quantified by the intrablock
+correlation.</p><p>Motivation for the present work on estimation and testing under a randomization model
+comes from a &#x02018;points to consider&#x02019; document on adjustment for baseline
+covariates [<xref ref-type="bibr" rid="b19">19</xref>] that states
+&#x02018;&#x02026; techniques of dynamic allocation such as minimization are sometimes
+used to achieve balance across several factors simultaneously. Even if deterministic
+schemes are avoided, such methods remain highly controversial. Thus, applicants are
+strongly advised to avoid such methods.&#x02019; Furthermore, Halpern and Brown
+[<xref ref-type="bibr" rid="b18">18</xref>] noted that dynamic
+randomization schemes &#x02018;can lead to complex randomization distributions and
+hence to complex analyses about which little is currently known, and which, in fact,
+may present intractable difficulties.&#x02019; With a randomization-based theory for
+estimation and testing applicable across all randomization methods, perhaps
+regulatory authorities will be more accepting of dynamic randomization methods.</p><p>Section 2 contains the theory for randomization-based estimation in a linear model
+with unit-treatment additivity. Section 3 evaluates the estimation of the variance
+of the treatment effect estimator through a population-based linear model, in
+comparison with the randomization-based variance estimator. Section 4 compares the
+estimation results with randomization test results. Sections 5 through 7 explore
+randomization-based inference when there is planned unbalanced treatment allocation,
+like two experimental to one control. A key requirement, often not met with proposed
+dynamic randomization methods for such unbalanced allocation, is that the
+probability that a patient receives experimental treatment should be constant across
+patients. The paper finishes with a discussion and conclusion.</p></sec><sec><title>2. The randomization model</title><p>Suppose <italic>n</italic> patients are in the trial, and they are assigned one of
+two treatments: experimental or control. The probability that a patient receives
+experimental treatment is a function of this patient's stratification
+variables and the stratification variables and treatment assignments of previous
+patients. No assumptions are made on this function just yet. Let
+<bold>&#x003b4;</bold> be the <italic>n</italic> &#x000d7; 1 vector that indicates
+assignment to experimental treatment: &#x003b4;<sub><italic>i</italic></sub> =
+0 if patient <italic>i</italic> receives control and 1 if patient <italic>i</italic>
+receives experimental treatment. Assume unit-treatment additivity, so that
+<bold>y</bold>, the <italic>n</italic> &#x000d7; 1 vector of observations on the
+patients, is</p><p>
+<disp-formula id="m1"><graphic xlink:href="sim0031-3858-mu1"/></disp-formula></p><p>for unknown constant unit effects <bold>y</bold><sub>0</sub> and a scalar treatment
+effect &#x003c4;. A vector of independent and identically distributed random
+variables could be added as an error term to the model, but this only complicates
+the development without changing the conclusions.</p><p>Let <bold>X</bold> be an <italic>n</italic> &#x000d7; <italic>q</italic> matrix of
+covariates measured on the patients. Typically, some or all of the stratification
+variables used in the randomization will be included in <bold>X</bold>, but this is
+not required in what follows. Also, it will typically be thought that the variables
+in <bold>X</bold> are prognostic of patient outcome, but there is no assumed
+relationship between the unit effects in <bold>y</bold><sub>0</sub> and the
+covariates in <bold>X</bold>. The only requirement is that <bold>1</bold>, an
+<italic>n</italic> &#x000d7; 1 vector of ones, is in the column space of
+<bold>X</bold> and, without loss of generality, <bold>X</bold> has full column
+rank. As a simple example, <bold>X</bold> could have two columns, with the first
+column containing 1s and the second column denoting Eastern Cooperative Oncology
+Group performance status of 1 or more. An analysis of covariance example has
+<bold>X</bold> with a column of 1s and a column for a continuous covariate.</p><p>We want to estimate &#x003c4; after adjustment for <bold>X</bold>, and so use the
+normal equations</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu2"/></disp-formula></p><p>where <bold><italic>&#x003b2;</italic></bold> is a vector of nuisance parameters. With
+simple matrix algebra,</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu3"/></disp-formula></p><p>It is worthwhile to explicitly state what is fixed and what is random in this set-up,
+because this will provide the relative frequency basis for the inferences. The
+patients have entered the study in a given order, and while they could conceptually
+have entered in a different order, it is not clear what a reasonable probability
+model should be for these other potential patient entry orders. Also, would the
+patients&#x02019; unit effects be different if they entered in a different order, and
+how should these effects be modeled? Would the patients&#x02019; baseline
+covariates differ? Thus, patient entry order, the unknown unit effects, and
+patient covariates are considered fixed. What does clearly vary, and in a way that
+we can model, is the treatment assignment to patients, as captured in
+<bold>&#x003b4;</bold>. The variability in the observations <bold>y</bold> then
+comes only from the randomization mechanism, and the conceptual repetitions of the
+study arise from independent applications of the randomization method to these
+patients as entered with their fixed covariates and unit effects. This topic will be
+addressed further in the discussion section.</p><p>Up to this point, no assumptions have been made on the randomization algorithm, and
+the only one needed to make progress is that <italic>E</italic><bold>&#x003b4;</bold>
+= <italic>p</italic><bold>1</bold>, with <italic>p</italic> a constant: 1 to1
+randomization would have <italic>p</italic> = 0.5, 2 to 1 randomization would
+have <italic>p</italic> = 2 / 3, and so on. The problems with randomization
+methods with <italic>E</italic><bold>&#x003b4;</bold> &#x02260;
+<italic>p</italic><bold>1</bold> are addressed in Section 6.</p><p>This restriction to <italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold> means that the unconditional probability that
+each patient receives experimental treatment is constant, even though the
+probability that a patient receives experimental treatment, conditional on the
+treatment allocations of previous patients, will often be different from
+<italic>p</italic> to more closely attain treatment balance, either overall or
+within stratification variable groupings. Note that it is not enough that
+<italic>E</italic><bold>&#x003b4;</bold> averages to the desired fraction, like
+(1 /
+<italic>n</italic>)<bold>1</bold><sup><bold><italic>&#x02032;</italic></bold></sup><italic>E</italic><bold>&#x003b4;</bold>
+= 1 / 2. With 1 to 1 treatment allocation, the
+<italic>E</italic><bold>&#x003b4;</bold> = (1 / 2)<bold>1</bold> condition
+is easily satisfied because of the usual symmetry present in randomization
+algorithms, while dynamic randomization algorithms for unbalanced treatment
+allocations often do not maintain a constant
+<italic>E</italic>&#x003b4;<sub><italic>i</italic></sub> value [<xref ref-type="bibr" rid="b20">20</xref>]. Examples of this are given in
+Section 6.1 and a potential solution for certain cases is given in Section 6.</p><p>Note that <inline-formula><inline-graphic xlink:href="sim0031-3858-mu4.jpg" mimetype="image"/></inline-formula> is a function of
+<bold>&#x003b4;</bold><sup><bold><italic>&#x02032;</italic></bold></sup><bold>M</bold><bold>&#x003b4;</bold>,
+which does not depend on unknown parameters and so is an ancillary statistic. In
+simple cases, as in <xref ref-type="table" rid="tblI">Table I</xref>,
+<bold><italic>&#x003b4;&#x02032;</italic></bold><bold>M</bold><bold>&#x003b4;</bold>
+is a function of sample sizes within the strata, and most would prefer to condition
+on observed sample sizes [<xref ref-type="bibr" rid="b21">21</xref>].
+As shown in Appendix B,
+<bold>&#x003b4;</bold><sup><bold><italic>&#x02032;</italic></bold></sup><bold>M</bold><bold>&#x003b4;</bold>
+/ <italic>n</italic> converges in probability to <italic>p</italic>(1 &#x02212;
+<italic>p</italic>) under mild conditions, so for large samples, inference that
+is conditional on
+<bold><italic>&#x003b4;&#x02032;</italic></bold><bold>M</bold><bold>&#x003b4;</bold>
+and unconditional inference should be similar. However, for small samples,
+conditional inference may be preferred, so both approaches are developed in the next
+sections.</p><table-wrap id="tblI" position="float"><label>Table I</label><caption><p><italic>&#x003b4;&#x02032;</italic>M&#x003b4; for three examples of the X
+matrix</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="1" colspan="1">X</th><th align="center" rowspan="1" colspan="1">&#x003b4;&#x02032;M&#x003b4;</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Intercept term only</td><td align="left" rowspan="1" colspan="1">(1 / <italic>n</italic><sub>0</sub> + 1 /
+<italic>n</italic><sub>1</sub>)<sup>&#x02212;1</sup>, where
+<italic>n</italic><sub><italic>j</italic></sub> is the number of
+patients on treatment <italic>j</italic></td></tr><tr><td align="left" rowspan="1" colspan="1">Two columns denoting membership in one of two strata,
+such as low ECOG status vs. high status</td><td align="left" rowspan="1" colspan="1">(1 / <italic>n</italic><sub>10</sub> + 1 /
+<italic>n</italic><sub>11</sub>)<sup>&#x02212;1</sup> + (1
+/ <italic>n</italic><sub>20</sub> + 1 /
+<italic>n</italic><sub>21</sub>)<sup>&#x02212;1</sup>, where
+<italic>n</italic><sub><italic>ij</italic></sub> is the number
+of patients on treatment <italic>j</italic> in stratum
+<italic>i</italic></td></tr><tr><td align="left" rowspan="1" colspan="1">Intercept and continuous covariate as in an ANCOVA</td><td align="left" rowspan="1" colspan="1"><inline-formula><inline-graphic xlink:href="sim0031-3858-mu5.jpg" mimetype="image"/></inline-formula>, where
+<italic>n</italic><sub><italic>j</italic></sub> is the number of
+patients on treatment <italic>j</italic>,
+<italic>x</italic><sub><italic>ij</italic></sub> is the
+covariate value of patient <italic>j</italic> on treatment
+<italic>i</italic></td></tr></tbody></table></table-wrap><sec><title>2.1. Unconditional inference</title><p>Appendix A.1 develops approximations to the mean and variance of
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu6.jpg" mimetype="image"/></inline-formula> under the
+restrictions of <italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold> and unit-treatment additivity and without
+conditioning on a given <bold>&#x003b4;&#x02032;M&#x003b4;</bold> value. First,
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu7.jpg" mimetype="image"/></inline-formula> is an approximately
+unbiased estimator of &#x003c4;. Second,</p><p><disp-formula id="m8"><graphic xlink:href="sim0031-3858-m8"/><label>(1)</label></disp-formula></p><p>where tr() denotes the trace of a matrix and <bold>V</bold> =
+Var(<bold>&#x003b4;</bold>) is the variance&#x02013;covariance matrix of
+<bold>&#x003b4;</bold>. <inline-formula><inline-graphic xlink:href="sim0031-3858-mu9.jpg" mimetype="image"/></inline-formula> is a function of
+the residuals in the regression of <bold>y</bold><sub>0</sub> on <bold>X</bold>,
+so good use of covariance adjustment reduces the variance, which is as it should
+be. It is not so clear what the role of the randomization method is in the
+reduction of variance, because it is tied up in the <bold>V</bold> matrix. As an
+example, however, especially in a small study with a stratified analysis, a
+stratified permuted-blocks randomization is better than unstratified
+permuted-blocks randomization [<xref ref-type="bibr" rid="b22">22</xref>,
+<xref ref-type="bibr" rid="b23">23</xref>].</p><p>Next, it is shown in Appendix A.1 that</p><p><disp-formula id="m10"><graphic xlink:href="sim0031-3858-m10"/><label>(2)</label></disp-formula></p><p>is an approximately unbiased estimator of the <inline-formula><inline-graphic xlink:href="sim0031-3858-mu11.jpg" mimetype="image"/></inline-formula> approximation of
+Equation
+(<xref ref-type="disp-formula" rid="m1">1</xref>). Finally, under mild
+conditions it is shown in Appendix B that <inline-formula><inline-graphic xlink:href="sim0031-3858-mu12.jpg" mimetype="image"/></inline-formula> has asymptotically
+a standard normal distribution, so that tests and confidence intervals on
+&#x003c4; can be determined in the usual way.</p><p>In a common class of randomization methods, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu13.jpg" mimetype="image"/></inline-formula> is unbiased, and
+not just approximately unbiased. Define a symmetrical 1 to 1 randomization
+method as one with <italic>P</italic>(<bold>&#x003b4;</bold> =
+<bold><italic>&#x003b4;</italic></bold><sub>0</sub>) =
+<italic>P</italic>(<bold>&#x003b4;</bold> = <bold>1</bold> &#x02212;
+<bold>&#x003b4;</bold><sub>0</sub>) for each treatment assignment sequence
+<bold>&#x003b4;</bold><sub>0</sub>. In words, the probability of obtaining
+any treatment sequence equals the probability of that sequence with the
+treatments switched between experimental and control. Most 1 to 1 randomization
+methods treat the experimental and control arms symmetrically and satisfy this
+condition. For such randomization methods, the unbiasedness of
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu14.jpg" mimetype="image"/></inline-formula> is shown in
+Appendix A.1.</p><p>The diagonal elements of <bold>V</bold> are <italic>p</italic>(1 &#x02212;
+<italic>p</italic>) and the off-diagonal elements are
+<italic>E</italic>(&#x003b4;<sub><italic>i</italic></sub>&#x003b4;<sub><italic>j</italic></sub>)
+&#x02212; <italic>p</italic><sup>2</sup>, where
+<italic>E</italic>(&#x003b4;<sub><italic>i</italic></sub>&#x003b4;<sub><italic>j</italic></sub>)
+is the probability that patients <italic>i</italic> and <italic>j</italic> both
+receive experimental treatment. Analytical expressions for the first two moments
+of counts of assignments to treatments for urn-based randomizations
+[<xref ref-type="bibr" rid="b24">24</xref>] and for
+biased-coin randomizations [<xref ref-type="bibr" rid="b25">25</xref>] are available. For some cases,
+<italic>E</italic>(&#x003b4;<sub><italic>i</italic></sub>&#x003b4;<sub><italic>j</italic></sub>)
+can be determined algorithmically by stepping through all assignment
+probabilities [<xref ref-type="bibr" rid="b26">26</xref>].
+Alternatively, a straightforward solution for any randomization method is to
+rerandomize treatments to the patients in the trial according to the
+trial's algorithm millions of times and estimate <bold>V</bold> with the
+sample variance&#x02013;covariance matrix of the resulting
+<bold>&#x003b4;</bold>s.</p></sec><sec><title>2.2. Conditional inference</title><p>For symmetrical 1 to 1 randomizations as defined above, inference conditional on
+a <bold>&#x003b4;&#x02032;M&#x003b4;</bold> value is developed in Appendix B.1,
+where first it is shown that <inline-formula><inline-graphic xlink:href="sim0031-3858-mu15.jpg" mimetype="image"/></inline-formula>. Furthermore,
+letting <inline-formula><inline-graphic xlink:href="sim0031-3858-mu16.jpg" mimetype="image"/></inline-formula>, it is shown
+that</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu17"/></disp-formula></p><p>where <inline-formula><inline-graphic xlink:href="sim0031-3858-mu18.jpg" mimetype="image"/></inline-formula>. Finally,</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu19"/></disp-formula></p><p>is a conditionally unbiased estimator of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu20.jpg" mimetype="image"/></inline-formula>.</p><p>Because most 1 to 1 randomizations are symmetrical, conditional inference is
+straightforward, as outlined above. For planned unbalanced allocation, however,
+even when <italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold>,
+<italic>E</italic>(&#x003b4;<sub><italic>i</italic></sub> |
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = <italic>c</italic>) is
+typically not constant over <italic>i</italic>. For example, consider PBR in
+blocks of 6 in a 2 to 1 ratio to 10 patients, with <bold>M</bold> =
+<bold>I</bold> &#x02212; <bold>J</bold> / 12. Unconditionally,
+<italic>E</italic>&#x003b4;<sub><italic>i</italic></sub> = 2 / 3.
+However, from <xref ref-type="table" rid="tblI">Table I</xref>, if
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = (1 / 8 + 1 /
+2)<sup>&#x02212;1</sup> = 1.6, then
+<italic>E</italic>(&#x003b4;<sub><italic>i</italic></sub> |
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = 1.6) = 2 / 3 for 1
+<italic>&#x02264; i &#x02264;</italic>6, but
+E(&#x003b4;<sub><italic>i</italic></sub> |
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = 1.6) = 1 for 7
+<italic>&#x02264; i &#x02264;</italic>10.</p><p>The variation in the conditional probability of assignment to experimental
+treatment leads to conditional bias in <inline-formula><inline-graphic xlink:href="sim0031-3858-mu21.jpg" mimetype="image"/></inline-formula>. Let
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu22.jpg" mimetype="image"/></inline-formula>, then</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu23"/></disp-formula></p><p>and the conditional bias is proportional to the covariance between
+<bold>p</bold><sub>c</sub> and <bold>M</bold><bold>y</bold><sub>0</sub>. The
+problem of conditional inference for planned unbalanced allocations with
+<italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold> is illustrated in Section 5 and a potential
+solution is raised in the conclusion section.</p></sec></sec><sec><title>3. Comparison of standard error estimators &#x02014; linear model versus
+randomization model</title><p>Regardless of the randomization method used, it is common to analyze trial data with
+a population-based linear model</p><p><disp-formula id="m24"><graphic xlink:href="sim0031-3858-m24"/><label>(3)</label></disp-formula></p><p>The elements of <bold><italic>&#x003f5;</italic></bold> are independent and
+identically distributed with zero mean and variance &#x003c3;<sup>2</sup>,
+<bold>&#x003b4;</bold> is considered fixed, and <bold>X</bold> often includes
+stratification factors that are balanced by the randomization [<xref ref-type="bibr" rid="b27">27</xref>]. It is common, however, to ignore in
+the model the balancing in time that randomizations typically achieve.</p><p>By construction, the treatment effect estimator is the same under the randomization
+model as under model (<xref ref-type="disp-formula" rid="m24">3</xref>); however,
+the variance estimator from Equation (<xref ref-type="disp-formula" rid="m10">2</xref>) will generally differ from the variance estimator derived from model
+(<xref ref-type="disp-formula" rid="m24">3</xref>). How similar are these
+estimators from a randomization perspective? The estimators will undoubtedly
+be different in any particular trial, but it is informative to consider their
+expectations.</p><p>The linear model estimate of the variance of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu25.jpg" mimetype="image"/></inline-formula> is</p><p><disp-formula id="m26"><graphic xlink:href="sim0031-3858-m26"/><label>(4)</label></disp-formula></p><p>What is the expectation of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu27.jpg" mimetype="image"/></inline-formula> from a randomization
+perspective? Again, the numerator and denominator both contain random
+variables, but approximate by simply taking expectations individually of the
+numerator and denominator to obtain</p><p><disp-formula id="m28"><graphic xlink:href="sim0031-3858-m28"/><label>(5)</label></disp-formula></p><p>where the subscript r on <italic>E</italic><sub>r</sub> and Var<sub>r</sub> denotes
+expectation and variance over the randomization method used. For what unit effects
+<bold>y</bold><sub>0</sub> might <inline-formula><inline-graphic xlink:href="sim0031-3858-mu29.jpg" mimetype="image"/></inline-formula> be similar to, less
+than, or greater than <inline-formula><inline-graphic xlink:href="sim0031-3858-mu30.jpg" mimetype="image"/></inline-formula>? Some guidance
+is given in the next two sections.</p><sec><title>3.1. Linear model versus randomization model standard error estimators when
+no pattern is expected for unit effects</title><p>Suppose that apart from dependence on <bold>X</bold>, the unit effects
+<bold>y</bold><sub>0</sub> display no further systematic variation. A
+reasonable model for this is <bold>y</bold><sub>0</sub> =
+<bold>X</bold><bold>&#x003b2;</bold> + <bold>e</bold>, where
+<bold>e</bold> is a vector of independent and identically distributed random
+variables with expectation zero and finite variance &#x003c3;<sup>2</sup>. It is
+easy to see that the expectation of both <inline-formula><inline-graphic xlink:href="sim0031-3858-mu31.jpg" mimetype="image"/></inline-formula> and
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu32.jpg" mimetype="image"/></inline-formula> equals
+&#x003c3;<sup>2</sup> / tr<bold>M</bold><bold>V</bold>.</p><p>Therefore, if no discernable pattern in unit effects is expected, apart from
+variation owing to dependence on <bold>X</bold>, then the usual linear model
+estimate of the estimated treatment effect variance estimates a quantity similar
+to the proper randomization variance. This is true regardless of the type of
+randomization, as long as <italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold>.</p><p>Note also that if complete randomization were used, with <bold>V</bold> =
+<italic>p</italic>(1 &#x02212; <italic>p</italic>)<bold>I</bold>, then the
+randomization model variance estimator in (<xref ref-type="disp-formula" rid="m10">2</xref>) equals the linear model estimator in (<xref ref-type="disp-formula" rid="m26">4</xref>), illustrating the equivalence of
+randomization-based and population-based inference with complete randomization
+[<xref ref-type="bibr" rid="b28">28</xref>].</p></sec><sec><title>3.2. Linear model versus randomization model standard error estimators when
+unit effects have systematic variation</title><p>The difference between the expectation of the linear model variance estimator in
+Equation (<xref ref-type="disp-formula" rid="m28">5</xref>) and the
+randomization variance in Equation (<xref ref-type="disp-formula" rid="m1">1</xref>) is proportional to <inline-formula><inline-graphic xlink:href="sim0031-3858-mu33.jpg" mimetype="image"/></inline-formula>. These quadratic
+forms have been evaluated in the context of accidental bias by Efron
+[<xref ref-type="bibr" rid="b2">2</xref>] and Smith
+[<xref ref-type="bibr" rid="b13">13</xref>] for biased-coin
+randomization.</p><p>Efron defined accidental bias as the expectation, over the randomization used, of
+the squared bias of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu34.jpg" mimetype="image"/></inline-formula> calculated under
+an assumed regression model for the observations, where the regression model
+includes a covariate <bold>z</bold> not accounted for in the treatment effect
+estimator. This squared bias is proportional to <bold>z&#x02032;MVMz</bold>, and
+therefore the work of these authors applies to the comparison of variance
+estimators considered here. The applicable conclusion for biased-coin
+randomization is that when unit effect residuals, after regression on
+<bold>X</bold>, exhibit low-frequency variation or a smooth trend from
+patient to patient, then the linear model estimate of variance will tend to be
+larger than the randomization model estimate. With high-frequency variation, the
+comparison of the variances is reversed.</p><p>Urn randomization is asymptotically free of accidental bias [<xref ref-type="bibr" rid="b17">17</xref>] so that for very large samples,
+the linear model variance estimate is likely to be similar to the
+randomization-based variance. For smaller samples, the control of sample size
+differences achieved by urn randomization is likely to lead to comparisons of
+variances similar to those for biased-coin randomization.</p><p>This parallels the situation with PBR where the variance estimate ignoring the
+blocking in time will generally be greater than the estimate accounting for this
+blocking when there is low-frequency variation or a smooth time trend in the
+unit effect residuals, as quantified by the intrablock correlation [<xref ref-type="bibr" rid="b1">1</xref>].</p></sec></sec><sec><title>4. Randomization tests</title><p>The null hypothesis that treatment has absolutely no effect in any patient can be
+tested with a randomization test. Under this hypothesis, the vector of observations
+<bold>y</bold> equals <bold>y</bold><sub>0</sub>, and the observed
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu35.jpg" mimetype="image"/></inline-formula> is just one of the
+possible treatment effect estimates that could be obtained by the random assignment
+of treatment labels to these patients. Is the observed
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu36.jpg" mimetype="image"/></inline-formula> unusually large or
+small in this distribution of possible <inline-formula><inline-graphic xlink:href="sim0031-3858-mu37.jpg" mimetype="image"/></inline-formula> values?</p><p>A randomization test is implemented by performing the randomization repeatedly with
+the patients enrolled in their fixed order and determining the resulting
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu38.jpg" mimetype="image"/></inline-formula> values. For an
+alternative hypothesis of positive &#x003c4;, the randomization test
+<italic>p</italic>-value is estimated as the fraction of the
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu39.jpg" mimetype="image"/></inline-formula> values that are
+greater than the observed <inline-formula><inline-graphic xlink:href="sim0031-3858-mu40.jpg" mimetype="image"/></inline-formula>; for a two-sided
+alternative, compare <inline-formula><inline-graphic xlink:href="sim0031-3858-mu41.jpg" mimetype="image"/></inline-formula> to
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu42.jpg" mimetype="image"/></inline-formula>. As with estimation,
+the randomization test can be performed conditionally on
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = <italic>c</italic> or
+unconditionally. For the conditional randomization test, only those randomizations
+with <bold>&#x003b4;&#x02032;M&#x003b4;</bold> = <italic>c</italic>, or suitably
+close to it, are used for the generation of the <inline-formula><inline-graphic xlink:href="sim0031-3858-mu43.jpg" mimetype="image"/></inline-formula> values.</p><p>What are the first two moments of this randomization distribution of
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu44.jpg" mimetype="image"/></inline-formula>? With
+<italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold>, from Section 2.1, unconditionally
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu45.jpg" mimetype="image"/></inline-formula> and</p><p><disp-formula id="m46"><graphic xlink:href="sim0031-3858-m46"/><label>(6)</label></disp-formula></p><p>Under the asymptotic normality conditions at the beginning of Appendix B, an
+approximation to the randomization test would be to compare
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu47.jpg" mimetype="image"/></inline-formula> with standard normal
+quantiles. This test statistic is similar to the <italic>Z</italic>-statistic
+obtained from use of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu48.jpg" mimetype="image"/></inline-formula> from Equation (<xref ref-type="disp-formula" rid="m10">2</xref>), except that a &#x02018;sum of
+squares for treatment&#x02019; is removed in (2) relative to the variance in the
+randomization distribution. Through use of approximations as in Appendix A.1, the
+expectation of Equation (<xref ref-type="disp-formula" rid="m46">6</xref>) exceeds
+that of Equation (<xref ref-type="disp-formula" rid="m10">2</xref>) by approximately
+&#x003c4;<sup>2</sup>tr<bold>M</bold><bold>V</bold><bold>M</bold><bold>V</bold> /
+(tr<bold>M</bold><bold>V</bold>)<sup>2</sup>, which is small for small &#x003c4;
+or large <italic>n</italic>.</p><p>Thus, the randomization test inference will necessarily be similar to the inference
+that comes from simple use of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu49.jpg" mimetype="image"/></inline-formula> and its estimated
+standard error. As above, however, if the estimated standard error is obtained from
+a linear model based on <bold>X</bold>, then the randomization test need not agree
+with the linear model results. From Section 3.1, when the unit effects display no
+trend apart from dependence on <bold>X</bold> then the randomization inference
+should be similar to that from linear model inference. Likewise, from Section 3.2,
+when unit effects display a low-frequency trend, then the randomization test
+<italic>p</italic>-value would be expected to be smaller than the
+<italic>p</italic>-value from the linear model, with the reverse order when the
+unit effects display high-frequency variation. This agrees with the summary of
+randomization tests given in the introduction.</p></sec><sec><title>5. Conditional inference with planned unbalanced treatment allocation
+ratio</title><p>Section 2.2 noted that planned unbalanced treatment allocation with
+<italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold> yields an approximately unbiased treatment
+effect estimator unconditionally, but the estimator is typically biased conditioned
+on a <bold>&#x003b4;&#x02032;M&#x003b4;</bold> value. This section illustrates by
+example the potential for bias with conditional inference and shows that the problem
+is applicable to PBR and to dynamic randomization.</p><p>Consider the randomization of two treatments to 38 patients in a 2 to 1 ratio, with
+patients categorized by two binary stratification variables. The patient counts in
+the four cells defined by these two variables are respectively 10, 8, 11, and 9 for
+cells (0,0), (0,1), (1,0), and (1,1), with the first value of the pair indicating
+the Stratum 1 level and the second value indicating the Stratum 2 level. The order
+of entry of these patients to the simulated trial was determined at random and then
+held fixed.</p><p>Two randomization methods are evaluated. The first is stratified PBR, with 2 to 1
+allocation in blocks of six applied independently within each of the four cells. The
+second is a sequential method that follows the recommendation at the end of Section
+6.1 to perform a symmetrical 1 to 1 to 1 randomization with three treatments, with
+two treatment arms subsequently combined (see Appendix C for details). The matrix
+<bold>X</bold> includes an intercept and main effects for the two strata. Each
+randomization method was replicated 10 million times to determine the
+<bold>V</bold><sub>c</sub> matrices for this population. The methods were
+subsequently replicated one million times to determine the conditional properties of
+the estimators.</p><p>For each randomization method, the expected value of the ancillary statistic
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> is 8.3 and approximately 90% of
+the <bold>&#x003b4;&#x02032;M&#x003b4;</bold> values are between 7.7 and 8.9; smaller
+values represent randomizations that generally exceed the 2 to 1 ratio and larger
+values represent randomizations with closer to 1 to 1 allocation. <xref ref-type="fig" rid="fig01">Figure 1</xref> illustrates the fluctuation across
+the patients in the empirically estimated
+<italic>E</italic>(&#x003b4;<sub><italic>i</italic></sub> |
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = <italic>c</italic>) for selected
+values of <italic>c</italic>, grouped to the nearest 0.2. For stratified PBR,
+<italic>E</italic>(&#x003b4;<sub><italic>i</italic></sub> |
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = <italic>c</italic>) is exactly
+2/3 for earlier patients who belong to complete blocks, and similarly for the
+sequential method, <italic>E</italic>(&#x003b4;<sub><italic>i</italic></sub> |
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = <italic>c</italic>) is
+approximately 2/3 for early patients. However, for patients in incomplete blocks
+with PBR and for the later patients with the sequential method, the conditional
+probability of assignment to active treatment diverges from 2/3, with
+<italic>E</italic>(&#x003b4;<sub><italic>i</italic></sub> |
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = <italic>c</italic>) generally
+above 2/3 for smaller values of <italic>c</italic> and below 2/3 for larger values
+of <italic>c</italic>.</p><fig id="fig01" position="float"><label>Figure 1</label><caption><p>E(&#x003b4;i | &#x003b4;&#x02032;M&#x003b4; = c) versus patient
+randomization order, with values of c grouped to the nearest 0.2. (a)
+Stratified permuted-blocks randomization and (b) sequential randomization.
+See text for details on these randomization methods.</p></caption><graphic xlink:href="sim0031-3858-f1"/></fig><p>From Section 2.2, the conditional bias is proportional to the covariance between
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu50.jpg" mimetype="image"/></inline-formula> and the residuals of
+the unit effects after regression on <bold>X</bold>. Suppose here that unit effects
+are related to order of patient entry via a simple linear regression with a positive
+slope and coefficient of determination <italic>R</italic><sup>2</sup>, and let
+<italic>E</italic><sub>lm</sub> denote the expectation with respect to this
+model. Through simple algebra, the expectation of the conditional bias normalized by
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu51.jpg" mimetype="image"/></inline-formula> is</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu52"/></disp-formula></p><p>where <bold>z</bold> is a unit-length vector proportional to patient randomization
+order. This normalized bias is displayed in <xref ref-type="fig" rid="fig02">Figure
+2</xref> for each randomization method for <italic>R</italic><sup>2</sup>
+= 0.5 and <bold>X</bold> = <bold>1</bold>. The normalized bias is
+similar between randomization methods and is positive for smaller values of
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> and negative for larger values of
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold>. At the smallest and largest values of
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> displayed the normalized bias is
+approximately 10% in absolute value.</p><fig id="fig02" position="float"><label>Figure 2</label><caption><p>Conditional relative bias of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu53.jpg" mimetype="image"/></inline-formula> versus values
+of &#x003b4;&#x02032;M&#x003b4; = c grouped to the nearest 0.2.
+Conditional relative bias is the conditional bias of
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu54.jpg" mimetype="image"/></inline-formula> divided by the
+square root of the conditional variance of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu55.jpg" mimetype="image"/></inline-formula>. See text for
+details on the stratified permuted-blocks randomization and sequential
+randomization methods.</p></caption><graphic xlink:href="sim0031-3858-f2"/></fig><p>Thus, for planned unbalanced treatment allocation with
+<italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold>, randomization inference conditional on
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> can be problematic, and this problem is
+present with both dynamic randomization and PBR. Because this problem arises in
+stratified PBR only for the patients in the last potentially incomplete block in
+each stratum, the bias is likely negligible in large trials. Likewise, for dynamic
+randomization, although based on limited empirical evaluations,
+<bold>p</bold><sub>c</sub> appears to diverge from the desired fraction only for
+the latest patients randomized in a trial, so that the conditional bias for large
+trials would also seem to be negligible.</p><p>The next sections shift to the problem of unconditional bias when
+<italic>E</italic><bold>&#x003b4;</bold> &#x02260;
+<italic>p</italic><bold>1</bold> and illustrate that this problem is common with
+planned unbalanced treatment allocation.</p></sec><sec><title>6. Estimation and randomization tests when <italic>E</italic>&#x003b4; &#x02260;
+<italic>p</italic>1</title><p>When <italic>E</italic><bold>&#x003b4;</bold> = <bold>p</bold> &#x02260;
+<italic>p</italic><bold>1</bold>, then <inline-formula><inline-graphic xlink:href="sim0031-3858-mu56.jpg" mimetype="image"/></inline-formula> is biased. Using a
+first-order approximation, the bias is</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu57"/></disp-formula></p><p>The bias is a function of the correlation between <bold>p</bold> and the residuals
+from the regression of <bold>y</bold><sub>0</sub> on <bold>X</bold>.</p><p>For the randomization test when <italic>E</italic><bold>&#x003b4;</bold> &#x02260;
+<italic>p</italic><bold>1</bold>, the randomization distribution of the usual
+estimator <inline-formula><inline-graphic xlink:href="sim0031-3858-mu58.jpg" mimetype="image"/></inline-formula> is not centered at
+zero, but at <inline-formula><inline-graphic xlink:href="sim0031-3858-mu59.jpg" mimetype="image"/></inline-formula>, approximately. This
+nonzero expectation does not affect the Type I error rate by construction of the
+randomization test, although the power of the test may be affected [<xref ref-type="bibr" rid="b30">30</xref>].</p><p>A notable example of <italic>E</italic><bold>&#x003b4;</bold> &#x02260;
+<italic>p</italic><bold>1</bold> is contained in the documents of the
+Endocrinologic and Metabolic Drugs Advisory Committee meeting held October 21, 2008
+[<xref ref-type="bibr" rid="b30">30</xref>, <xref ref-type="bibr" rid="b31">31</xref>]. In this case, the linear model inference indicated
+a statistically significant treatment effect, while the randomization test did not,
+resulting in <italic>p</italic> = 0.035 versus <italic>p</italic> =
+0.06 for the analysis of one endpoint and <italic>p</italic> = 0.046 versus
+<italic>p</italic> = 0.15 for another endpoint.</p><p>Because the bias is a function of <bold>p&#x02032;My</bold><sub>0</sub>, a simple
+method to obtain an approximately unbiased estimator of &#x003c4; is to augment
+<bold>X</bold> with the vector <bold>p</bold>, use
+[<bold>X</bold><bold>p</bold>] in the normal equations, and
+proceed as before with estimation of &#x003c4; and the standard error. A
+randomization test would also proceed as before. The asymptotic normality results of
+Appendix B were developed with <italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold>, so it is uncertain whether asymptotic
+normality applies in this case. Even if it did, the best solution is not to use
+randomization methods with <italic>E</italic><bold>&#x003b4;</bold> &#x02260;
+<italic>p</italic><bold>1</bold> in the first place.</p><sec><title>6.1. Dynamic randomization with planned unbalanced treatment allocation
+ratio</title><p>Consider randomizations for a trial with 2 to 1 randomization of experimental to
+control treatment. <italic>P</italic>(&#x003b4;<sub><italic>i</italic></sub>
+= 1) = 2 / 3 for PBR applied in blocks of multiples of three. What
+about biased-coin randomization? A natural attempt is to use a biased
+coin whenever <italic>n</italic><sub>e</sub> / 2 differs too much from
+<italic>n</italic><sub>c</sub>, where <italic>n</italic><sub>e</sub> and
+<italic>n</italic><sub>c</sub> denote the number of patients previously
+assigned to experimental and control. Suppose a threshold of 1 or more is used,
+with <italic>P</italic>(&#x003b4;<sub><italic>i</italic></sub> = 1)
+= 0.9 for too many previous control arm assignments,
+<italic>P</italic>(&#x003b4;<sub><italic>i</italic></sub> = 1)
+= 0.2 for too many previous experimental arm assignments, and
+<italic>P</italic>(&#x003b4;<sub><italic>i</italic></sub> = 1)
+= 2 / 3 otherwise. This procedure satisfies conditions C1 and C2 in
+[<xref ref-type="bibr" rid="b13">13</xref>] and the
+probabilities satisfy the recent recommendation of Han <italic>et al.</italic>
+[<xref ref-type="bibr" rid="b6">6</xref>]. With the first
+patient's assignment to experimental treatment determined with
+probability 2/3, it is easy to calculate the
+<italic>P</italic>(&#x003b4;<sub><italic>i</italic></sub> = 1)
+values for <italic>i</italic> = 2, 3, 4, and 5 as 0.744, 0.467, 0.674,
+and 0.761. Stepping through the probabilities algorithmically yields
+<italic>P</italic>(&#x003b4;<sub>20</sub> = 1) = 0.775. The
+probabilities do not converge to 0.667, although the average of these 20
+assignment probabilities is close to 0.667.</p><p>The situation is worse with the marginal balance metric [<xref ref-type="bibr" rid="b6">6</xref>]. In this simple case, the biased
+coin is applied to the treatment that yields the smaller value of
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu60.jpg" mimetype="image"/></inline-formula> versus
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu61.jpg" mimetype="image"/></inline-formula>. If the former is
+smaller, then experimental treatment is assigned with probability 0.9, and if
+the latter is smaller, then experimental treatment is assigned with probability
+0.2. With equal values and also for the first patient, experimental treatment is
+assigned with probability 2/3.
+<italic>P</italic>(&#x003b4;<sub><italic>i</italic></sub> = 1)
+values for <italic>i</italic> = 2, 3, 4, and 5 are 0.433, 0.807, 0.881,
+and 0.342. Stepping through the probabilities algorithmically yields
+<italic>P</italic>(&#x003b4;<sub>20</sub> = 1) = 0.340.</p><p>The generalization of 1 to 1 urn randomization to unbalanced allocation in
+Rosenberger and Lachin [<xref ref-type="bibr" rid="b32">32</xref>]
+is incorrect. For example, with 2 to 1 allocation, and starting with 2 E balls
+and 1 C ball, one application of their generalization would add 2 E balls if
+control treatment is assigned, with 1 C ball added if experimental treatment is
+assigned. The first patient is assigned experimental treatment with probability
+2/3, and <italic>P</italic>(&#x003b4;<sub><italic>i</italic></sub> = 1)
+values for <italic>i</italic> = 2, 3, 4, and 5 are 0.6, 0.590, 0.589, and
+0.588. These probabilities converge to 0.586. A fix in this simple case is to
+add 4 E balls, rather than 2 E balls, if control treatment is assigned, with
+other aspects of the method unchanged. Then the
+<italic>P</italic>(&#x003b4;<sub><italic>i</italic></sub> = 1)
+values for <italic>i</italic> = 2, 3, 4, and 5 are 0.620, 0.641, 0.656,
+and 0.662 and the probabilities converge to 2/3. In large samples, urn sampling
+behaves like complete randomization [<xref ref-type="bibr" rid="b17">17</xref>] so that deviation from the target allocation ratio is
+likely to be greater with urn sampling than with other methods.</p><p>A solution for <italic>r</italic><sub>1</sub> : <italic>r</italic><sub>2</sub>
+treatment allocation is to perform randomization for balanced allocation to
+<italic>r</italic><sub>1</sub> + <italic>r</italic><sub>2</sub>
+treatment arms, and then combine <italic>r</italic><sub>1</sub> of these arms
+for the experimental arm assignment and <italic>r</italic><sub>2</sub> of these
+arms for control. As long as the randomization method treats the
+<italic>r</italic><sub>1</sub> + <italic>r</italic><sub>2</sub> arms
+symmetrically then <italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold> will hold, and unconditional inference can
+be carried out as developed above.</p></sec></sec><sec><title>7. Discussion</title><p>The estimation of &#x003c4; involves only <bold>&#x003b4;</bold>, <bold>M</bold>, and
+<bold>y</bold>, and the estimator <inline-formula><inline-graphic xlink:href="sim0031-3858-mu62.jpg" mimetype="image"/></inline-formula> is approximately
+unbiased as long as <italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold> and unit-treatment additivity holds. This
+approximate unbiasedness is true regardless of the relationship between
+<bold>y</bold><sub>0</sub> and <bold>X</bold> and any other properties of the
+randomization algorithm. Therefore, at least from the point of view of unbiased
+estimation of &#x003c4;, there is no natural determination of <bold>X</bold> based on
+the randomization used, such as if the randomization is stratified on a particular
+factor, then that factor should be included in <bold>X</bold>. However, from the
+point of view of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu63.jpg" mimetype="image"/></inline-formula>, covariates that are
+related to the unit effects should be included in <bold>X</bold>, as smaller
+residuals from a regression of <bold>y</bold><sub>0</sub> on <bold>X</bold> reduce
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu64.jpg" mimetype="image"/></inline-formula>. It is unclear how
+manipulation of the randomization scheme influences <inline-formula><inline-graphic xlink:href="sim0031-3858-mu65.jpg" mimetype="image"/></inline-formula>, but it is likely that
+randomization methods that seek to balance the covariates in <bold>X</bold> between
+treatment groups are somewhat better than those that do not, at least for small
+studies. Finally, for a proper randomization-based variance estimator, both
+<bold>X</bold> and the randomization method, through <bold>V</bold>, should be
+accounted for. On this point, the advice to &#x02018;analyze as you randomize&#x02019;
+should be followed.</p><p>Variability in the observations in the randomization model arises only from the
+random assignment of treatments to the patients in the order they entered the trial.
+This order and the patients&#x02019; baseline covariates determine the distribution
+of the treatment assignment vector <bold>&#x003b4;</bold> and subsequent properties
+of the treatment effect estimator. In the discussion of randomization tests, this
+fixing of patient order is common [<xref ref-type="bibr" rid="b12">12</xref>,
+<xref ref-type="bibr" rid="b13">13</xref>, <xref ref-type="bibr" rid="b17">17</xref>, <xref ref-type="bibr" rid="b26">26</xref>, <xref ref-type="bibr" rid="b33">33</xref>]. A reviewer asked whether study conclusions can only
+be applied to these patients with the same order of entry? Now, it is common
+[<xref ref-type="bibr" rid="b34">34</xref>, <xref ref-type="bibr" rid="b35">35</xref>] to consider that statistical inference in a
+randomized trial applies to the actual patients in the trial, with inference to the
+broader population of similar patients being either nonstatistical or based on
+assumptions that trial data follow specified distributions. In answer to the
+reviewer's question, it seems necessary to go a bit further and to say that
+the statistical inference from the randomization model applies only to these
+patients as they entered, at their specific stage of disease, and as treated at
+their specific study site. It is certainly plausible that treatment would have
+exerted a similar effect if patients had enrolled in a different order and under
+somewhat different circumstances, but to make statistical statements about such a
+treatment effect would require further assumptions.</p><p>One generalization of the model of Section 2 is to drop the assumption of
+unit-treatment additivity. Let &#x003c4;<sub><italic>i</italic></sub> be the
+difference in response if patient <italic>i</italic> were given experimental
+treatment versus the patient's response with control treatment. The estimator
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu66.jpg" mimetype="image"/></inline-formula> in Section 2 is in
+general a biased estimator of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu67.jpg" mimetype="image"/></inline-formula>, defined as the
+average of the &#x003c4;<sub><italic>i</italic></sub> values across the
+<italic>n</italic> patients. Using the first-order approximation to the
+expectation of a ratio of random variables as in Section 2.1, the bias is a function
+of a contrast in the diagonal elements of the matrix <bold>V</bold><bold>M</bold>.
+These diagonal elements will often be nearly constant, in which case the bias will
+be small. Gadbury [<xref ref-type="bibr" rid="b36">36</xref>] showed
+for permutation-based randomizations that the usual estimator of
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu68.jpg" mimetype="image"/></inline-formula> is positively biased.
+If a similar result applied to the variance estimator in Equation (<xref ref-type="disp-formula" rid="m10">2</xref>) for the more general randomizations
+considered here, then the randomization model estimators would yield, for example,
+nearly unbiased estimates of the average treatment effect, along with a conservative
+standard error estimate and conservative hypothesis tests on
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu69.jpg" mimetype="image"/></inline-formula>.</p><p>Another generalization is to more than two treatments. This appears to be relatively
+straightforward for a continuous endpoint with unit-treatment additivity through the
+introduction of a separate <bold>&#x003b4;</bold> vector for each of
+<italic>t</italic> &#x02212; 1 treatments.</p><p>It would be interesting to see whether randomization model inference could be
+extended from the continuous endpoints considered here to binary responses and
+time-to-event endpoints. Certainly, randomization tests of a null hypothesis of no
+treatment effect in any patient are available for such endpoints, but treatment
+effect estimation from a randomization perspective does not seem to be
+available.</p><p>In addition to the analysis of the whole trial, it is important to explore treatment
+effects within subgroups of patients. If <italic>E</italic><bold>&#x003b4;</bold>
+= <italic>p</italic><bold>1</bold> and there is unit-treatment additivity
+within the subgroup, then a linear model estimate within the subgroup of this common
+treatment effect as in Section 2 is approximately unbiased, regardless of the
+covariates included in such an estimate. An estimate of the standard error of this
+estimator could come from Equation (<xref ref-type="disp-formula" rid="m10">2</xref>), with <bold>V</bold> determined only from this subset of patients. As in
+Section 3.1, if unit effects within this subset are expected to display no
+systematic variation other than dependence on the covariates, then the linear model
+estimate of the standard error should be a reasonable approximation to the
+randomization-based standard error estimate.</p></sec><sec><title>8. Conclusion</title><p>For symmetrical 1 to 1 randomization, inference conditional on
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> and unconditional inference are both
+straightforward, and a randomization test will necessarily be similar to a test
+result obtained from <inline-formula><inline-graphic xlink:href="sim0031-3858-mu70.jpg" mimetype="image"/></inline-formula> and its estimated
+variance, which is justified by a central limit theorem. With planned unbalanced
+treatment allocation, Proschan <italic>et al.</italic> [<xref ref-type="bibr" rid="b30">30</xref>] argued to &#x02018;minimize the use of
+minimization.&#x02019; However, it is only with
+<italic>E</italic><bold>&#x003b4;</bold> &#x02260;
+<italic>p</italic><bold>1</bold> that unconditional inference is problematic.
+Unfortunately, as illustrated in Section 6.1, many dynamic randomization methods for
+planned unbalanced allocation result in <italic>E</italic><bold>&#x003b4;</bold>
+&#x02260; <italic>p</italic><bold>1</bold>, and care must be exercised to achieve
+<italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold>, in which case unconditional inference is also
+straightforward. Although likely only relevant for smaller trials, with
+<italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold> and planned unbalanced allocation, conditional
+inference will typically lead to bias in <inline-formula><inline-graphic xlink:href="sim0031-3858-mu71.jpg" mimetype="image"/></inline-formula>. This conditional bias
+is also present with PBR when the blocking in time is ignored in the analysis. A
+potential repair to <inline-formula><inline-graphic xlink:href="sim0031-3858-mu72.jpg" mimetype="image"/></inline-formula> is to include, as
+suggested in Section 6 for unconditional inference, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu73.jpg" mimetype="image"/></inline-formula> as a covariate in
+<bold>X</bold> and proceed with inference based on
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu74.jpg" mimetype="image"/></inline-formula>. This possible repair
+needs further evaluation.</p><p>An additional similarity between PBR and dynamic randomization methods that attempt
+to balance treatment counts is that inference from a population-based model will
+likely be similar to a randomization-based analysis when unit effects, or rather the
+residuals from the regression of unit effects on <bold>X</bold>, are essentially
+sampled from a homogenous population. Furthermore, for both PBR and dynamic methods,
+when unit effect residuals display low-frequency variation or a general trend
+related to enrollment time, then the estimated variance of
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu75.jpg" mimetype="image"/></inline-formula> from a
+population-based model will tend to overestimate the randomization-based variance,
+with the opposite order in variance terms for high-frequency variation.</p><p>In our company's experience, the use of dynamic randomization has never been
+an issue in disqualifying a positive study. However, at the time of protocol review,
+we often receive comments from health authority review staff on our randomization
+method and trial analysis methods. It is very common that we receive a request for a
+randomization test for the main trial endpoints. I believe we would not receive such
+comments and requests if we routinely used PBR. With the results of this manuscript,
+owing to the similarity between randomization inference for dynamic randomization
+and PBR, it seems inconsistent to single out dynamic methods for the performance of
+a randomization test. Given that the blocking in time achieved by PBR and dynamic
+methods is routinely ignored in analyses, one should either (1) be satisfied that
+these analyses are likely to match a randomization analysis or to be conservative or
+(2) ask for a randomization test for any randomization method other than complete
+randomization.</p></sec></body><back><ack><p>I thank the reviewers for their helpful comments that led to substantial improvements
+in this manuscript.</p></ack><app-group><app id="app1"><title>Appendix A.1</title><p>Approximations to the unconditional moments of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu76.jpg" mimetype="image"/></inline-formula> will be developed
+here under the assumptions of <italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold> and unit-treatment additivity. Recall that
+<bold>X</bold> is an <italic>n</italic> &#x000d7; <italic>q</italic> full
+column rank matrix with <bold>1</bold> in its column space and that
+<bold>M</bold> = <bold>I</bold> &#x02212;
+<bold>X</bold>(<bold>X&#x02032;X</bold>)<sup>&#x02212;1</sup><bold>X</bold>.
+First, note that</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu77"/></disp-formula></p><p>so that the moments of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu78.jpg" mimetype="image"/></inline-formula> can be found from
+the moments of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu79.jpg" mimetype="image"/></inline-formula>. Approximate this
+ratio with a first-degree Taylor series expansion about the means of the
+numerator and denominator to obtain the approximation
+<bold>&#x003b4;&#x02032;My</bold><sub>0</sub> /
+tr<bold>M</bold><bold>V</bold>, where <bold>V</bold> =
+Var(<bold>&#x003b4;</bold>) and tr() denotes the trace of a matrix. Thus,</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu80"/></disp-formula></p><p>because <bold>1</bold> is in the column space of <bold>X</bold>, so that
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu81.jpg" mimetype="image"/></inline-formula>. Therefore,
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu82.jpg" mimetype="image"/></inline-formula> is approximately
+unbiased.</p><p>For the variance of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu83.jpg" mimetype="image"/></inline-formula>,</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu84"/></disp-formula></p><p>For the estimation of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu85.jpg" mimetype="image"/></inline-formula>, note that</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu86"/></disp-formula></p><p>Define</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu87"/></disp-formula></p><p>It is easy to see that</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu88"/></disp-formula></p><p>Because <inline-formula><inline-graphic xlink:href="sim0031-3858-mu89.jpg" mimetype="image"/></inline-formula>,
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu90.jpg" mimetype="image"/></inline-formula> is an
+approximately unbiased estimator of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu91.jpg" mimetype="image"/></inline-formula>.</p><p>A problem with <inline-formula><inline-graphic xlink:href="sim0031-3858-mu92.jpg" mimetype="image"/></inline-formula>, inherent in its
+unconditional nature, is that it averages over variation in
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold>. A potentially better estimator that
+explicitly depends on <bold>&#x003b4;&#x02032;M&#x003b4;</bold> can be found by
+requiring that the variance estimator match the linear model estimator of
+Equation (<xref ref-type="disp-formula" rid="m26">4</xref>) in Section 3.0 when
+complete randomization with <bold>V</bold> = <italic>p</italic>(1
+&#x02212; <italic>p</italic>)<bold>I</bold> is used. With this requirement</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu93"/></disp-formula></p><p>Approximating the expectation of the ratio by the ratio of the expectations and
+approximating <inline-formula><inline-graphic xlink:href="sim0031-3858-mu94.jpg" mimetype="image"/></inline-formula> by the product of
+the expectations, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu95.jpg" mimetype="image"/></inline-formula> is also an
+approximately unbiased estimator of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu96.jpg" mimetype="image"/></inline-formula>.</p><p>Appendix A.2 shows for symmetrical 1 to 1 randomization methods, defined in
+Section 2.1, that <inline-formula><inline-graphic xlink:href="sim0031-3858-mu97.jpg" mimetype="image"/></inline-formula> is unbiased
+conditional on
+<bold>&#x003b4;</bold><sup><bold><italic>&#x02032;</italic></bold></sup><bold>M</bold><bold>&#x003b4;</bold>
+= <italic>c</italic>. The estimator <inline-formula><inline-graphic xlink:href="sim0031-3858-mu98.jpg" mimetype="image"/></inline-formula> is therefore
+unconditionally unbiased for such randomization methods.</p></app><app id="app2"><title>Appendix A.2</title><p>For the properties of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu99.jpg" mimetype="image"/></inline-formula> conditional on
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = <italic>c</italic>, it is
+first necessary to evaluate <italic>E</italic>(<bold>&#x003b4;</bold> |
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = <italic>c</italic>). In
+general, this conditional expectation is not proportional to the vector
+<bold>1</bold> even with <italic>E</italic>(<bold>&#x003b4;</bold>) =
+<italic>p</italic><bold>1</bold>. An example for PBR in blocks of six for
+treatments in a 2 to 1 ratio is given in Section 2.2.</p><p>In spite of potential bias issues with conditional inference with planned
+unbalanced treatment allocation, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu100.jpg" mimetype="image"/></inline-formula> is conditionally
+unbiased with symmetrical 1 to 1 randomization, defined in Section 2.1, where
+<italic>P</italic>(<bold>&#x003b4;</bold> =
+<bold><italic>&#x003b4;</italic></bold><sub>0</sub>) =
+<italic>P</italic>(<bold>&#x003b4;</bold> = <bold>1</bold> &#x02212;
+<bold>&#x003b4;</bold><sub>0</sub>). To show this, note first that if
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> = <italic>c</italic> then
+(<bold>1</bold> &#x02212;
+<bold>&#x003b4;</bold>)<bold>&#x02032;</bold><bold>M</bold>(<bold>1</bold>
+&#x02212; <bold>&#x003b4;</bold>) = <italic>c</italic>. Thus, let
+{<bold>&#x003b4;</bold><sub><italic>ij</italic></sub>} denote
+all treatment assignment sequences with <inline-formula><inline-graphic xlink:href="sim0031-3858-mu101.jpg" mimetype="image"/></inline-formula>, where
+<bold>&#x003b4;</bold><sub><italic>i</italic>2</sub> = <bold>1</bold>
+&#x02212; <bold>&#x003b4;</bold><sub><italic>i</italic>1</sub>. Also, let
+<italic>p</italic><sub><italic>ij</italic></sub> denote the probability of
+obtaining the sequence <bold>&#x003b4;</bold><sub><italic>ij</italic></sub>.
+Because of symmetry, <italic>p</italic><sub><italic>i</italic>1</sub> =
+<italic>p</italic><sub><italic>i</italic>2</sub>. By definition,</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu102"/></disp-formula></p><p>Hence, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu103.jpg" mimetype="image"/></inline-formula> for all
+<italic>c</italic>.</p><p>Let <inline-formula><inline-graphic xlink:href="sim0031-3858-mu104.jpg" mimetype="image"/></inline-formula> denote
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu105.jpg" mimetype="image"/></inline-formula>. Continuing with
+symmetrical 1 to 1 randomization, it is easy to see that</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu106"/></disp-formula></p><p>where <inline-formula><inline-graphic xlink:href="sim0031-3858-mu107.jpg" mimetype="image"/></inline-formula>. Following the
+approach in Appendix A.1,</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu108"/></disp-formula></p><p>is a conditionally unbiased estimator of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu109.jpg" mimetype="image"/></inline-formula>.</p></app><app id="app3"><title>Appendix B</title><p>Here, a proof is sketched of the asymptotic normality of
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu110.jpg" mimetype="image"/></inline-formula> under the
+randomization model with <italic>E</italic><bold>&#x003b4;</bold> =
+<italic>p</italic><bold>1</bold>. As in Section 2,
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu111.jpg" mimetype="image"/></inline-formula> is adjusted for
+<bold>X</bold>, which has full column rank <italic>q</italic> and
+<bold>1</bold> in its column space.</p><p>Intuitively, for reasonable randomization algorithms, treatment assignments for
+very large <italic>n</italic> have almost no dependence on treatment assignments
+for small <italic>n</italic>, so central limit theorems for sequences of random
+variables that satisfy a &#x02018;strong mixing&#x02019; condition [<xref ref-type="bibr" rid="b37">37</xref>, <xref ref-type="bibr" rid="b38">38</xref>] should be helpful. However, the strong mixing conditions
+are difficult to verify for randomization algorithms.</p><p>The approach taken here, then, is to approximate the sequence
+&#x003b4;<sub>1</sub>,&#x003b4;<sub>2</sub>, &#x02026; with an asymptotically
+equivalent triangular array
+{&#x003b4;<sub><italic>n</italic>1</sub>,&#x003b4;<sub><italic>n</italic>2</sub>,
+&#x02026; &#x003b4;<sub><italic>nn</italic></sub>}. The original
+randomization scheme is applied within the array, except that treatment
+assignments are based on only the most recent <italic>m</italic> patients, with
+treatment assignments in earlier patients ignored. This makes the triangular
+array <italic>m</italic>-dependent [<xref ref-type="bibr" rid="b38">38</xref>], and <italic>m</italic> will be allowed to increase with
+<italic>n</italic>. Note that permuted-blocks randomization generates a
+sequence of &#x003b4;s that is already <italic>m</italic>-dependent, where
+<italic>m</italic> is the block size.</p><p>Because <inline-formula><inline-graphic xlink:href="sim0031-3858-mu112.jpg" mimetype="image"/></inline-formula> it suffices to
+show the asymptotic normality of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu113.jpg" mimetype="image"/></inline-formula>. It will first be
+shown that <bold>&#x003b4;&#x02032;My</bold><sub>0</sub> /
+<italic>&#x0221a;n</italic> is asymptotically normal and then that
+<bold>&#x003b4;&#x02032;M&#x003b4;</bold> / <italic>n</italic> &#x02192;
+<sub>p</sub><italic>p</italic>(1 &#x02212; <italic>p</italic>), where
+&#x02192; <sub>p</sub> denotes convergence in probability.</p><p>As before, let <bold>V</bold> = Var(<bold>&#x003b4;</bold>), with
+(<italic>i</italic>, <italic>j</italic>) element
+<italic>v</italic><sub><italic>ij</italic></sub>. Make the following
+assumptions:</p><list list-type="simple"><list-item><p>(A1) <inline-formula><inline-graphic xlink:href="sim0031-3858-mu114.jpg" mimetype="image"/></inline-formula> as
+<italic>n</italic> &#x02192; &#x0221e;.</p></list-item><list-item><p>(A2) Let (<italic>a</italic><sub><italic>n</italic>1</sub>, &#x02026;,
+<italic>a</italic><sub><italic>nn</italic></sub>)<bold>&#x02032;</bold>
+= <bold>a</bold><sub><italic>n</italic></sub> =
+<bold>M</bold><bold>y</bold><sub>0</sub> and assume there is a
+finite <italic>A</italic> with |
+<italic>a</italic><sub><italic>ni</italic></sub> | &#x0003c;
+<italic>A</italic> for all <italic>n</italic> and
+<italic>i</italic>.</p></list-item><list-item><p>(A3) For all <italic>i</italic>, &#x003a3;<sub><italic>j</italic></sub> |
+<italic>v</italic><sub><italic>ij</italic></sub> | &#x02192;
+<italic>B</italic><sub><italic>i</italic></sub> as n &#x02192;
+&#x0221e;, and there is a <italic>B</italic> with
+<italic>B</italic><sub><italic>i</italic></sub> &#x0003c;
+<italic>B</italic> for all <italic>i</italic>.</p></list-item></list><p>Let <bold>&#x003b4;</bold><sub><italic>n</italic></sub> =
+(&#x003b4;<sub><italic>n</italic>1</sub>,&#x003b4;<sub><italic>n</italic>2</sub>,
+&#x02026;
+&#x003b4;<sub><italic>nn</italic></sub>)<sup><bold><italic>&#x02032;</italic></bold></sup>,
+the vector of the <italic>m</italic>-dependent array elements, where
+<italic>m</italic> is selected as the smallest integer less than or equal to
+<italic>n</italic><sup>(0.5 &#x02212; &#x003f5;)</sup> for arbitrarily small
+&#x003f5; &#x0003e; 0.</p><p>Now apply Berk's theorem [<xref ref-type="bibr" rid="b39">39</xref>]. His condition (i) on the uniform boundedness of
+<italic>E</italic> |
+<italic>a</italic><sub><italic>ni</italic></sub>&#x003b4;<sub><italic>ni</italic></sub>
+| <sup>2 + <italic>r</italic></sup> applies for arbitrarily large
+<italic>r</italic> owing to Assumption A2. His condition (ii) on the uniform
+boundedness of
+Var(<italic>a</italic><sub><italic>ni</italic></sub>&#x003b4;<sub><italic>ni</italic></sub>
++ &#x02026; +
+<italic>a</italic><sub><italic>nj</italic></sub>&#x003b4;<sub><italic>nj</italic></sub>)
+/ (<italic>j</italic> &#x02212; <italic>i</italic> + 1) for 1
+<italic>&#x02264; i</italic> &#x0003c; <italic>j &#x02264; n</italic> is
+satisfied because of both Assumptions A2 and A3. His condition (iii) on the
+limit of
+Var(<italic>a</italic><sub><italic>n</italic>1</sub>&#x003b4;<sub><italic>n</italic>1</sub>
++ &#x02026; +
+<italic>a</italic><sub><italic>nn</italic></sub>&#x003b4;<sub><italic>nn</italic></sub>)
+/ <italic>n</italic> follows from Assumption A1. Finally, his condition (iv) on
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu115.jpg" mimetype="image"/></inline-formula> is satisfied for
+<italic>r</italic> &#x0003e; (1 &#x02212; &#x003f5;) / &#x003f5;, where &#x003f5;
+was given above in the construction of the <italic>m</italic>-dependent array
+<bold>&#x003b4;</bold><sub><italic>n</italic></sub>. It follows that
+(<italic>a</italic><sub><italic>n</italic>1</sub>&#x003b4;<sub><italic>n</italic>1</sub>
++ &#x02026; +
+<italic>a</italic><sub><italic>nn</italic></sub>&#x003b4;<sub><italic>nn</italic></sub>)
+/ <italic>&#x0221a;n</italic> converges in distribution to
+<italic>N</italic>(0,<italic>v</italic>).</p><p>Next, assume</p><list list-type="simple"><list-item><p>(A4) the maximum eigenvalue of <bold>V</bold>, denoted
+<italic>&#x003bb;</italic><sub>max</sub>, is
+<italic>o</italic>(<italic>n</italic>).</p></list-item></list><p>Using the inequality
+<bold>l</bold><sup><bold><italic>&#x02032;</italic></bold></sup><bold>V</bold><bold>l</bold><italic>&#x02264;
+&#x003bb;</italic><sub>max</sub> for any unit-length vector <bold>l</bold>,
+it is then straightforward to show that <inline-formula><inline-graphic xlink:href="sim0031-3858-mu116.jpg" mimetype="image"/></inline-formula>. First, let
+<bold>M</bold> = <bold>I</bold> &#x02212;
+<bold>L</bold><bold>L&#x02032;</bold>, where <bold>L&#x02032;L</bold> =
+<bold>I</bold><sub><italic>q</italic></sub>. Let
+<bold>l</bold><sub><italic>i</italic></sub> denote the
+<italic>i</italic><sup>th</sup> column of <bold>L</bold>, where without loss
+of generality, <bold>l</bold><sub>1</sub> = <bold>1</bold> /
+<italic>&#x0221a;n</italic>. Then</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu117"/></disp-formula></p><p>Now, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu118.jpg" mimetype="image"/></inline-formula>, because
+<italic>E</italic>(<bold>&#x003b4;</bold><sup><bold><italic>&#x02032;</italic></bold></sup><bold>1</bold>
+/ <italic>n</italic>) = 0 and <inline-formula><inline-graphic xlink:href="sim0031-3858-mu119.jpg" mimetype="image"/></inline-formula>. The result
+follows because for each <italic>i</italic> = 2, &#x02026;,
+<italic>q</italic>, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu120.jpg" mimetype="image"/></inline-formula> and
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu121.jpg" mimetype="image"/></inline-formula>. Thus,
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu122.jpg" mimetype="image"/></inline-formula> converges in
+distribution to <italic>N</italic>(0,<italic>v</italic> /
+{<italic>p</italic>(1 &#x02212;
+<italic>p</italic>)}<sup>2</sup>).</p><p>Because <italic>v</italic> is unknown, practical application of the asymptotic
+normality of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu123.jpg" mimetype="image"/></inline-formula> for tests and
+confidence intervals requires a consistent estimator of <italic>v</italic> /
+{<italic>p</italic>(1 &#x02212;
+<italic>p</italic>)}<sup>2</sup>. It will now be shown that
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu124.jpg" mimetype="image"/></inline-formula> of Equation
+(A1.3) provides one solution, but a further assumption is needed.</p><list list-type="simple"><list-item><p>(A5) <italic>&#x003bb;</italic><sub>max</sub>, the maximum eigenvalue of
+<bold>V</bold>, is <italic>o</italic>(<italic>&#x0221a;n</italic>).
+This is a stronger version of Assumption A4.</p></list-item></list><p>Now,</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu125"/></disp-formula></p><p>The pieces of this expression will be handled in turn, starting with the
+denominator. As shown above, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu126.jpg" mimetype="image"/></inline-formula>. Next, with
+<bold>M</bold> = <bold>I</bold> &#x02212;
+<bold>L</bold><bold>L&#x02032;</bold> as above,
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu127.jpg" mimetype="image"/></inline-formula>. The trace of
+<bold>V</bold> is <italic>np</italic>(1 &#x02212; <italic>p</italic>) and
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu128.jpg" mimetype="image"/></inline-formula> is bounded
+between 0 and <italic>q&#x003bb;</italic><sub>max</sub> / <italic>n</italic>,
+which converges to zero by A5. Thus, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu129.jpg" mimetype="image"/></inline-formula>. Continuing with
+the denominator, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu130.jpg" mimetype="image"/></inline-formula> from both A5 and
+the convergence in probability of <bold>&#x003b4;&#x02032;M&#x003b4;</bold> /
+<italic>n</italic>.</p><p>For the numerator of <inline-formula><inline-graphic xlink:href="sim0031-3858-mu131.jpg" mimetype="image"/></inline-formula>,
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu132.jpg" mimetype="image"/></inline-formula> by Assumption A1.
+Next, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu133.jpg" mimetype="image"/></inline-formula> and it will be
+shown that <inline-formula><inline-graphic xlink:href="sim0031-3858-mu134.jpg" mimetype="image"/></inline-formula>, implying that
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu135.jpg" mimetype="image"/></inline-formula>. The following
+repeatedly uses the inequality <bold>l&#x02032;Vl</bold><italic>&#x02264;
+&#x003bb;</italic><sub>max</sub> for any unit-length vector <bold>l</bold>
+and that <inline-formula><inline-graphic xlink:href="sim0031-3858-mu136.jpg" mimetype="image"/></inline-formula> for any
+<bold>x</bold>.</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu137"/></disp-formula></p><p>which converges to 0 because of Assumptions A1 and A5. For the final term in the
+numerator of the expression, <inline-formula><inline-graphic xlink:href="sim0031-3858-mu138.jpg" mimetype="image"/></inline-formula> converges in
+distribution to a central normal distribution, so in absolute value</p><p><disp-formula><graphic xlink:href="sim0031-3858-mu139"/></disp-formula></p><p>which converges in probability to 0, completing the proof that
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu140.jpg" mimetype="image"/></inline-formula> converges to a
+standard normal distribution.</p></app><app id="app4"><title>Appendix C</title><p>The dynamic randomization method of Section 5 that randomizes patients in a 2 to
+1 ratio proceeds as follows. Determine the stratification variable values
+<italic>s</italic><sub>1</sub> and <italic>s</italic><sub>2</sub> for the
+current patient to be randomized and determine <italic>n</italic><sub>10</sub>,
+<italic>n</italic><sub>11</sub>, and <italic>n</italic><sub>12</sub> for
+previously randomized patients, where, for example,
+<italic>n</italic><sub>11</sub> equals the number of the previously
+randomized patients with Stratum 1 level equal to the level
+<italic>s</italic><sub>1</sub> of the current patient who were randomized to
+treatment level 1. Likewise, determine <italic>n</italic><sub>20</sub>,
+<italic>n</italic><sub>21</sub>, and <italic>n</italic><sub>22</sub>. The
+assignment probabilities for the current patient are determined by the balance
+in these counts first for Stratum 1 and then for Stratum 2. If
+<inline-formula><inline-graphic xlink:href="sim0031-3858-mu141.jpg" mimetype="image"/></inline-formula>, then the
+treatment assignment probabilities depend on the pattern of the
+<italic>n</italic><sub>10</sub>, <italic>n</italic><sub>11</sub>, and
+<italic>n</italic><sub>12</sub> counts as follows:</p><list list-type="simple"><list-item><p>- With three unique values, the probabilities are, respectively, 0.75,
+0.15, and 0.10 for the treatments associated with the minimum,
+intermediate, and maximum treatment counts
+<italic>n</italic><sub>1<italic>j</italic></sub></p></list-item><list-item><p>- With two values at the minimum count and one at the maximum, the
+probabilities are 0.40 for each of the treatments associated with the
+minimum count and 0.2 for the treatment associated with the maximum
+count</p></list-item><list-item><p>- With one value at the minimum count and two values at the maximum, the
+probabilities are 0.12 for each of the treatments associated with the
+maximum count and 0.76 for the treatment associated with the minimum
+count</p></list-item></list><p>If max(<italic>n</italic><sub>1<italic>j</italic></sub>) &#x02212;
+min(<italic>n</italic><sub>1<italic>j</italic></sub>) = 0 then a
+similar check on Stratum 2 counts is performed, with unequal treatment
+assignment probabilities as above if there is imbalance. If there is balance of
+counts for Stratum 2, then the treatment for the current patient is selected
+from 0, 1, and 2 with equal probability.</p><p>To convert from 1 to 1 to 1 randomization to 2 to 1 randomization, patients
+randomized to treatment 0 are given control treatment and patients randomized to
+treatments 1 or 2 are given experimental.</p><p>The probabilities in the above algorithm were selected to match the conditional
+treatment assignment probabilities of the stratified PBR in blocks of six in the
+following sense. With complete randomization, the probability of assignment to
+experimental treatment is 2/3 regardless of previous treatment assignments, so
+the deviation from the target unconditional probability of 2/3 is zero. At the
+other extreme is a deterministic scheme where a fixed one-third of the patients
+are given control treatment and a fixed two-thirds are given experimental, so
+the squared deviation from the target unconditional probability of 2/3 is (0
+&#x02212; 2 / 3)<sup>2</sup> / 3 + 2(1 &#x02212; 2 / 3)<sup>2</sup> / 3
+= 0.22. In the example of Section 5 the mean squared deviation as
+estimated from the simulation is approximately 0.05 for both the stratified PBR
+and the sequential method described above.</p></app></app-group><ref-list><title>References</title><ref id="b1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matts</surname><given-names>JP</given-names></name><name><surname>Lachin</surname><given-names>JM</given-names></name></person-group><article-title>Properties of permuted-block randomization in clinical
+trials</article-title><source>Controlled Clinical Trials</source><year>1988</year><volume>9</volume><fpage>327</fpage><lpage>344</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1016/0197-2456(88)90047-5">10.1016/0197-2456(88)90047-5</ext-link></comment><pub-id pub-id-type="pmid">3203524</pub-id></element-citation></ref><ref id="b2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Efron</surname><given-names>B</given-names></name></person-group><article-title>Forcing a sequential experiment to be balanced</article-title><source>Biometrika</source><year>1971</year><volume>58</volume><fpage>403</fpage><lpage>417</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1093/biomet/58.3.403">10.1093/biomet/58.3.403</ext-link></comment></element-citation></ref><ref id="b3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pocock</surname><given-names>SJ</given-names></name><name><surname>Simon</surname><given-names>R</given-names></name></person-group><article-title>Sequential treatment assignment with balancing for prognostic
+factors in the controlled clinical tria</article-title><source>Biometrics</source><year>1975</year><volume>31</volume><fpage>103</fpage><lpage>115</lpage><pub-id pub-id-type="pmid">1100130</pub-id></element-citation></ref><ref id="b4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wei</surname><given-names>LJ</given-names></name></person-group><article-title>The application of an urn model to the design of sequential
+controlled trials</article-title><source>Journal of the American Statistical Association</source><year>1978</year><volume>73</volume><fpage>559</fpage><lpage>563</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1080/01621459.1978.10480054">10.1080/01621459.1978.10480054</ext-link></comment></element-citation></ref><ref id="b5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Borm</surname><given-names>GF</given-names></name><name><surname>Hoogendoorn</surname><given-names>EH</given-names></name><name><surname>den Heijer</surname><given-names>M</given-names></name><name><surname>Zielhuis</surname><given-names>GA</given-names></name></person-group><article-title>Sequential balancing: A simple method for treatment allocation in
+clinical trials</article-title><source>Contemporary Clinical Trials</source><year>2005</year><volume>26</volume><fpage>637</fpage><lpage>645</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1016/j.cct.2005.09.002">10.1016/j.cct.2005.09.002</ext-link></comment><pub-id pub-id-type="pmid">16226925</pub-id></element-citation></ref><ref id="b6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Han</surname><given-names>B</given-names></name><name><surname>Enas</surname><given-names>NH</given-names></name><name><surname>McEntegert</surname><given-names>D</given-names></name></person-group><article-title>Randomization by minimization for unbalanced treatment
+allocation</article-title><source>Statistics in Medicine</source><year>2009</year><volume>28</volume><fpage>3329</fpage><lpage>3346</lpage><pub-id pub-id-type="pmid">19739238</pub-id></element-citation></ref><ref id="b7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Su</surname><given-names>Z</given-names></name></person-group><article-title>Balancing multiple baseline characteristics in randomized
+clinical trials</article-title><source>Contemporary Clinical Trials</source><year>2011</year><volume>32</volume><fpage>547</fpage><lpage>550</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1016/j.cct.2011.03.004">10.1016/j.cct.2011.03.004</ext-link></comment><pub-id pub-id-type="pmid">21382510</pub-id></element-citation></ref><ref id="b8"><label>8</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Kempthorne</surname><given-names>O</given-names></name></person-group><source>The Design and Analysis of Experiments</source><year>1975</year><publisher-loc>NY</publisher-loc><publisher-name>Krieger</publisher-name></element-citation></ref><ref id="b9"><label>9</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Scheff&#x000e9;</surname><given-names>H</given-names></name></person-group><source>The Analysis of Variance</source><year>1959</year><publisher-loc>NY</publisher-loc><publisher-name>Wiley</publisher-name></element-citation></ref><ref id="b10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nelder</surname><given-names>JA</given-names></name></person-group><article-title>The analysis of randomized experiments with orthogonal block
+structure. I. Block structure and the null analysis of
+variance</article-title><source>Proceedings of the Royal Society of London A</source><year>1965</year><volume>283</volume><fpage>147</fpage><lpage>162</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1098/rspa.1965.0012">10.1098/rspa.1965.0012</ext-link></comment></element-citation></ref><ref id="b11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nelder</surname><given-names>JA</given-names></name></person-group><article-title>The analysis of randomized experiments with orthogonal block
+structure. II. Treatment structure and the general analysis of
+variance</article-title><source>Proceedings of the Royal Society of London A</source><year>1965</year><volume>283</volume><fpage>63</fpage><lpage>178</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1098/rspa.1965.0013">10.1098/rspa.1965.0013</ext-link></comment></element-citation></ref><ref id="b12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smythe</surname><given-names>RT</given-names></name><name><surname>Wei</surname><given-names>LJ</given-names></name></person-group><article-title>Significance tests with restricted randomization
+design</article-title><source>Biometrika</source><year>1983</year><volume>70</volume><fpage>496</fpage><lpage>500</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1093/biomet/70.2.496">10.1093/biomet/70.2.496</ext-link></comment></element-citation></ref><ref id="b13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>RL</given-names></name></person-group><article-title>Sequential treatment allocation using biased coin
+designs</article-title><source>Journal of the Royal Statistical Society, B</source><year>1984</year><volume>46</volume><fpage>519</fpage><lpage>543</lpage></element-citation></ref><ref id="b14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wei</surname><given-names>LJ</given-names></name><name><surname>Smythe</surname><given-names>RT</given-names></name><name><surname>Smith</surname><given-names>RL</given-names></name></person-group><article-title>K-treatment comparisons with restricted randomization rules in
+clinical trials</article-title><source>The Annals of Statistics</source><year>1986</year><volume>14</volume><fpage>265</fpage><lpage>274</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1214/aos/1176349854">10.1214/aos/1176349854</ext-link></comment></element-citation></ref><ref id="b15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shao</surname><given-names>J</given-names></name><name><surname>Yu</surname><given-names>X</given-names></name><name><surname>Zhong</surname><given-names>B</given-names></name></person-group><article-title>A theory for testing hypotheses under covariate-adaptive
+randomization</article-title><source>Biometrika</source><year>2010</year><volume>97</volume><fpage>347</fpage><lpage>360</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1093/biomet/asq014">10.1093/biomet/asq014</ext-link></comment></element-citation></ref><ref id="b16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosenkranz</surname><given-names>GK</given-names></name></person-group><article-title>The impact of randomization on the analysis of clinical
+trials</article-title><source>Statistics in Medicine</source><year>2011</year><volume>30</volume><fpage>3475</fpage><lpage>3487</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1002/sim.4376">10.1002/sim.4376</ext-link></comment><pub-id pub-id-type="pmid">21953285</pub-id></element-citation></ref><ref id="b17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wei</surname><given-names>LJ</given-names></name><name><surname>Lachin</surname><given-names>JM</given-names></name></person-group><article-title>Properties of the urn randomization in clinical
+trials</article-title><source>Controlled Clinical Trials</source><year>1988</year><volume>9</volume><fpage>345</fpage><lpage>364</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1016/0197-2456(88)90048-7">10.1016/0197-2456(88)90048-7</ext-link></comment><pub-id pub-id-type="pmid">3203525</pub-id></element-citation></ref><ref id="b18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Halpern</surname><given-names>J</given-names></name><name><surname>Brown</surname><given-names>BW</given-names><suffix>Jr</suffix></name></person-group><article-title>Sequential treatment allocation procedures in clinical
+trials&#x02014;with particular attention to the analysis of results for the
+biased coin design</article-title><source>Statistics in Medicine</source><year>1986</year><volume>5</volume><fpage>211</fpage><lpage>229</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1002/sim.4780050303">10.1002/sim.4780050303</ext-link></comment><pub-id pub-id-type="pmid">3738289</pub-id></element-citation></ref><ref id="b19"><label>19</label><element-citation publication-type="journal"><collab>Committee for Proprietary Medicinal Products</collab><article-title>Points to consider on adjustment for baseline
+covariates</article-title><source>Statistics in Medicine</source><year>2004</year><volume>23</volume><fpage>701</fpage><lpage>709</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1002/sim.1647">10.1002/sim.1647</ext-link></comment><pub-id pub-id-type="pmid">14981670</pub-id></element-citation></ref><ref id="b20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kuznetsova</surname><given-names>OM</given-names></name><name><surname>Tymofyeyev</surname><given-names>Y</given-names></name></person-group><article-title>Brick tunnel randomization for unequal allocation to two or more
+treatment groups</article-title><source>Statistics in Medicine</source><year>2011</year><volume>30</volume><fpage>812</fpage><lpage>824</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1002/sim.4167">10.1002/sim.4167</ext-link></comment><pub-id pub-id-type="pmid">21432876</pub-id></element-citation></ref><ref id="b21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cox</surname><given-names>DR</given-names></name></person-group><article-title>A remark on randomization in clinical trials</article-title><source>Utilitas Mathematica</source><year>1982</year><volume>21</volume><fpage>245</fpage><lpage>252</lpage></element-citation></ref><ref id="b22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McHugh</surname><given-names>R</given-names></name><name><surname>Matts</surname><given-names>J</given-names></name></person-group><article-title>Post-stratification in the randomized clinical
+trial</article-title><source>Biometrics</source><year>1983</year><volume>39</volume><fpage>217</fpage><lpage>225</lpage><pub-id pub-id-type="pmid">6871350</pub-id></element-citation></ref><ref id="b23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McEntegert</surname><given-names>DJ</given-names></name></person-group><article-title>The pursuit of balance using stratified and dynamic randomization
+techniques: An overview</article-title><source>Drug Information Journal</source><year>2003</year><volume>37</volume><fpage>293</fpage><lpage>308</lpage></element-citation></ref><ref id="b24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oden</surname><given-names>NL</given-names></name><name><surname>McIntosh</surname><given-names>MJ</given-names></name></person-group><article-title>Exact moments and probabilities for Wei's urn
+randomization model</article-title><source>Statistics &#x00026; Probability Letters</source><year>2006</year><volume>76</volume><fpage>1694</fpage><lpage>1700</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1016/j.spl.2006.04.012">10.1016/j.spl.2006.04.012</ext-link></comment></element-citation></ref><ref id="b25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Markaryan</surname><given-names>T</given-names></name><name><surname>Rosenberger</surname><given-names>WF</given-names></name></person-group><article-title>Exact properties of Efron's biased coin randomization
+procedure</article-title><source>The Annals of Statistics</source><year>2010</year><volume>38</volume><fpage>1546</fpage><lpage>1567</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1214/09-AOS758">10.1214/09-AOS758</ext-link></comment></element-citation></ref><ref id="b26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hollander</surname><given-names>M</given-names></name><name><surname>Pe&#x000f1;a</surname><given-names>E</given-names></name></person-group><article-title>Nonparametric tests under restricted treatment-assignment
+rules</article-title><source>Journal of the American Statistical Association</source><year>1988</year><volume>83</volume><fpage>1144</fpage><lpage>1151</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1080/01621459.1988.10478712">10.1080/01621459.1988.10478712</ext-link></comment></element-citation></ref><ref id="b27"><label>27</label><element-citation publication-type="journal"><article-title>International Conference on Harmonisation: Guidance on
+statistical principles for clinical trials</article-title><source>Federal Register</source><year>1998</year><volume>63</volume><issue>179</issue><fpage>49583</fpage><lpage>49598</lpage><comment>Available from: <ext-link ext-link-type="uri" xlink:href="http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM073137.pdf">http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM073137.pdf</ext-link>
+(Accessed 2 May 2012)</comment><pub-id pub-id-type="pmid">10185190</pub-id></element-citation></ref><ref id="b28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lachin</surname><given-names>JM</given-names></name></person-group><article-title>Properties of simple randomization in clinical
+trials</article-title><source>Controlled Clinical Trials</source><year>1988</year><volume>9</volume><fpage>312</fpage><lpage>326</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1016/0197-2456(88)90046-3">10.1016/0197-2456(88)90046-3</ext-link></comment><pub-id pub-id-type="pmid">3203523</pub-id></element-citation></ref><ref id="b29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Heritier</surname><given-names>S</given-names></name><name><surname>Gebski</surname><given-names>V</given-names></name><name><surname>Pillai</surname><given-names>P</given-names></name></person-group><article-title>Dynamic balancing randomization in controlled clinical
+trials</article-title><source>Statistics in Medicine</source><year>2005</year><volume>24</volume><fpage>3729</fpage><lpage>3741</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1002/sim.2421">10.1002/sim.2421</ext-link></comment><pub-id pub-id-type="pmid">16320277</pub-id></element-citation></ref><ref id="b30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Proschan</surname><given-names>M</given-names></name><name><surname>Brittain</surname><given-names>E</given-names></name><name><surname>Kammerman</surname><given-names>L</given-names></name></person-group><article-title>Minimize the use of minimization with unequal
+allocation</article-title><source>Biometrics</source><year>2011</year><volume>67</volume><fpage>1135</fpage><lpage>1141</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1111/j.1541-0420.2010.01545.x">10.1111/j.1541-0420.2010.01545.x</ext-link></comment><pub-id pub-id-type="pmid">21281276</pub-id></element-citation></ref><ref id="b31"><label>31</label><element-citation publication-type="other"><comment>Endocrinologic and Metabolic Drugs Advisory Committee, October 21, 2008
+(Meeting ID: 2008-4389). Available from: <ext-link ext-link-type="uri" xlink:href="http://www.fda.gov/ohrms/dockets/ac/cder08.html">http://www.fda.gov/ohrms/dockets/ac/cder08.html</ext-link>\#EndocrinologicMetabolic
+(Accessed 2 May 2012)</comment></element-citation></ref><ref id="b32"><label>32</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Rosenberger</surname><given-names>WF</given-names></name><name><surname>Lachin</surname><given-names>JM</given-names></name></person-group><source>Randomization in Clinical Trials: Theory and Practice</source><year>2002</year><publisher-loc>New York</publisher-loc><publisher-name>Wiley</publisher-name></element-citation></ref><ref id="b33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Simon</surname><given-names>R</given-names></name></person-group><article-title>Restricted randomization designs in clinical
+trials</article-title><source>Biometrics</source><year>1979</year><volume>35</volume><fpage>503</fpage><lpage>512</lpage><pub-id pub-id-type="pmid">486683</pub-id></element-citation></ref><ref id="b34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kempthorne</surname><given-names>O</given-names></name></person-group><article-title>Why randomize?</article-title><source>Journal of Statistical Planning and Inference</source><year>1977</year><volume>1</volume><fpage>1</fpage><lpage>25</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1016/0378-3758(77)90002-7">10.1016/0378-3758(77)90002-7</ext-link></comment></element-citation></ref><ref id="b35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lachin</surname><given-names>JM</given-names></name></person-group><article-title>Statistical properties of randomization in clinical
+trials</article-title><source>Controlled Clinical Trials</source><year>1988</year><volume>9</volume><fpage>289</fpage><lpage>311</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1016/0197-2456(88)90045-1">10.1016/0197-2456(88)90045-1</ext-link></comment><pub-id pub-id-type="pmid">3060315</pub-id></element-citation></ref><ref id="b36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gadbury</surname><given-names>GL</given-names></name></person-group><article-title>Randomization inference and bias in standard
+errors</article-title><source>The American Statistician</source><year>2001</year><volume>55</volume><fpage>310</fpage><lpage>313</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1198/000313001753272268">10.1198/000313001753272268</ext-link></comment></element-citation></ref><ref id="b37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosenblatt</surname><given-names>M</given-names></name></person-group><article-title>A central limit theorem and a strong mixing
+condition</article-title><source>Proceedings of the National Academy of Sciences USA</source><year>1956</year><volume>42</volume><fpage>43</fpage><lpage>47</lpage></element-citation></ref><ref id="b38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Serfling</surname><given-names>RJ</given-names></name></person-group><article-title>Contributions to central limit theory for dependent
+variables</article-title><source>The Annals of Mathematical Statistics</source><year>1968</year><volume>39</volume><fpage>1158</fpage><lpage>1175</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1214/aoms/1177698240">10.1214/aoms/1177698240</ext-link></comment></element-citation></ref><ref id="b39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berk</surname><given-names>KN</given-names></name></person-group><article-title>A central limit theorem for <italic>m</italic>-dependent random
+variables with unbounded <italic>m</italic></article-title><source>The Annals of Probability</source><year>1974</year><volume>1</volume><fpage>352</fpage><lpage>354</lpage><comment>DOI: <ext-link ext-link-type="doi" xlink:href="10.1214/aop/1176996992">10.1214/aop/1176996992</ext-link></comment></element-citation></ref></ref-list></back></article>

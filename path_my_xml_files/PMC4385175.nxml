@@ -1,0 +1,993 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Internet Res</journal-id><journal-id journal-id-type="iso-abbrev">J. Med. Internet Res</journal-id><journal-id journal-id-type="publisher-id">JMIR</journal-id><journal-title-group><journal-title>Journal of Medical Internet Research</journal-title></journal-title-group><issn pub-type="ppub">1439-4456</issn><issn pub-type="epub">1438-8871</issn><publisher><publisher-name>JMIR Publications Inc.</publisher-name><publisher-loc>Toronto, Canada</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25799024</article-id><article-id pub-id-type="pmc">4385175</article-id><article-id pub-id-type="publisher-id">v17i3e71</article-id><article-id pub-id-type="doi">10.2196/jmir.3582</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Paper</subject></subj-group><subj-group subj-group-type="article-type"><subject>Original Paper</subject></subj-group></article-categories><title-group><article-title>Web-Based Psychotherapy for Posttraumatic Stress Disorder in War-Traumatized Arab Patients: Randomized Controlled Trial</article-title></title-group><contrib-group><contrib contrib-type="editor"><name><surname>Eysenbach</surname><given-names>Gunther</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="reviewer"><name><surname>Berger</surname><given-names>Thomas</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Gl&#x000e4;smer</surname><given-names>Heide</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Morina</surname><given-names>Nexhmedin</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Langrial</surname><given-names>Sitwat</given-names></name></contrib></contrib-group><contrib-group><contrib id="contrib1" contrib-type="author" corresp="yes"><name><surname>Knaevelsrud</surname><given-names>Christine</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1">1</xref><address><institution>Department of Clinical Psychology, Freie University</institution><addr-line>Habelschwerdter Allee 45</addr-line><addr-line>Berlin, 14195</addr-line><country>Germany</country><phone>49 30 838557</phone><fax>49 30 83851233</fax><email>christine.knaevelsrud@fu-berlin.de</email></address><xref ref-type="aff" rid="aff2">2</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1342-7006</contrib-id></contrib><contrib id="contrib2" contrib-type="author"><name><surname>Brand</surname><given-names>Janine</given-names></name><degrees>MA</degrees><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8994-8313</contrib-id></contrib><contrib id="contrib3" contrib-type="author"><name><surname>Lange</surname><given-names>Alfred</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff3">3</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0995-3361</contrib-id></contrib><contrib id="contrib4" contrib-type="author"><name><surname>Ruwaard</surname><given-names>Jeroen</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff4">4</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4510-997X</contrib-id></contrib><contrib id="contrib5" contrib-type="author"><name><surname>Wagner</surname><given-names>Birgit</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff5">5</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8770-2889</contrib-id></contrib></contrib-group><aff id="aff1"><sup>1</sup><institution>Department of Clinical Psychology, Freie University</institution><addr-line>Berlin</addr-line><country>Germany</country></aff><aff id="aff2"><sup>2</sup><institution>Treatment Center for Torture Victims</institution><addr-line>Berlin</addr-line><country>Germany</country></aff><aff id="aff3"><sup>3</sup><institution>Department of Clinical Psychology</institution><institution>Universit&#x000e4;t Amsterdam</institution><addr-line>Amsterdam</addr-line><country>Netherlands</country></aff><aff id="aff4"><sup>4</sup><institution>Department of Clinical Psychology, VU University</institution><addr-line>Amsterdam</addr-line><country>Netherlands</country></aff><aff id="aff5"><sup>5</sup><institution>Department Clinical Psychology and Psychotherapy</institution><institution>Medical School Berlin</institution><addr-line>Berlin</addr-line><country>Germany</country></aff><author-notes><corresp>Corresponding Author: Christine Knaevelsrud <email>christine.knaevelsrud@fu-berlin.de</email></corresp></author-notes><pub-date pub-type="collection"><month>3</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>20</day><month>3</month><year>2015</year></pub-date><volume>17</volume><issue>3</issue><elocation-id>e71</elocation-id><history><date date-type="received"><day>04</day><month>6</month><year>2014</year></date><date date-type="rev-request"><day>17</day><month>7</month><year>2014</year></date><date date-type="rev-recd"><day>01</day><month>9</month><year>2014</year></date><date date-type="accepted"><day>26</day><month>11</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9;Christine Knaevelsrud, Janine Brand, Alfred Lange, Jeroen Ruwaard, Birgit Wagner. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 20.03.2015. </copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/"><license-p><!--CREATIVE COMMONS-->This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0/">http://creativecommons.org/licenses/by/2.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/,">http://www.jmir.org/,</ext-link> as well as this copyright and license information must be included.</license-p></license></permissions><self-uri xlink:type="simple" xlink:href="http://www.jmir.org/2015/3/e71/"/><abstract><sec sec-type="background"><title>Background</title><p>In recent years, armed conflicts in the Middle East have resulted in high rates of exposure to traumatic events. Despite the increasing demand of mental health care provision, ongoing violence limits conventional approaches of mental health care provision. Internet-based interventions for posttraumatic stress disorder (PTSD) have proved feasible and effective in Western countries, but their applicability and efficacy in war and conflict regions remains unknown.</p></sec><sec sec-type="objective"><title>Objective</title><p>This study investigated the efficacy of a cognitive behavioral Internet-based intervention for war-traumatized Arab patients, with focus on Iraq.</p></sec><sec sec-type="methods"><title>Methods</title><p>A total of 159 individuals with PTSD participated in a parallel group randomized trial. Participants were randomly allocated by a computer-generated sequence to a treatment group (n=79) or a waiting list control group (n=80). The treatment group received 2 weekly 45-minute cognitive behavioral interventions via Internet over a 5-week period (10 sessions in total). The primary outcome was recovery from posttraumatic stress symptoms.</p></sec><sec sec-type="results"><title>Results</title><p>Posttraumatic stress symptoms were significantly reduced from baseline to posttreatment (intention-to-treat analysis) in the treatment group relative to the control group (F<sub>1,157</sub>=44.29, <italic>P</italic>&#x0003c;.001, d=0.92). Treatment effects were sustained at 3-month follow-up. Completer analysis indicated that 29 of 47 patients (62%) in the treatment group had recovered from posttraumatic stress symptoms at posttreatment (reliable change and Posttraumatic Stress Diagnostic Scale score &#x0003c;20) versus 1 patient (2%) in the control group (OR 74.19, 95% CI 9.93-585.8, <italic>P</italic>&#x0003c;.001) indicating that the chance of recovering was 74.19 times higher in the treatment than in the control group.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>The results indicate, even in unstable and insecure settings with ongoing exposure to human rights violations through war and dictatorships, people with posttraumatic stress symptoms benefit from a cognitive behavioral treatment provided entirely through the Internet. This method of delivery could improve patients&#x02019; access to humanitarian aid in the form of e-mental health services.</p></sec><sec><title>Trial Registration</title><p>Australian New Zealand Clinical Trial Registry, ACTRN12611001019998; https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=347505 (Archived by WebCite at http://www.webcitation.org/6Wto4HCdH).</p></sec></abstract><kwd-group><kwd>posttraumatic stress disorders</kwd><kwd>Middle East</kwd><kwd>war</kwd><kwd>violence</kwd><kwd>cognitive therapy</kwd><kwd>mental health service</kwd><kwd>Internet</kwd></kwd-group></article-meta></front><body><sec sec-type="introduction"><title>Introduction</title><p>In recent decades, war and human rights violations in the Middle East have led to high rates of exposure to traumatic events and to a correspondingly high incidence of posttraumatic stress disorder (PTSD) in the region [<xref rid="ref1" ref-type="bibr">1</xref>-<xref rid="ref3" ref-type="bibr">3</xref>]. Under the Ba&#x02019;ath regime, for example, Iraqis were subjected to widespread, severe human rights abuses, including torture, killings, disappearances, beatings, kidnappings, forced amputation, and rape. With the invasion of Iraq by the US-led coalition forces in 2002, exposure to traumatizing events increased dramatically, with suicide bombers killing significantly more civilians than coalition soldiers [<xref rid="ref4" ref-type="bibr">4</xref>]. Hick and colleagues [<xref rid="ref5" ref-type="bibr">5</xref>] reported 1003 suicide bomb events between 2003 and 2010, causing 11% of all Iraqi civilian deaths and 26% of civilian injuries. Between 2004 and 2007, Iraqis were at the highest risk worldwide of dying in a violent conflict [<xref rid="ref6" ref-type="bibr">6</xref>]. The escalation of violence led to an unprecedented demand for medical and psychotherapeutic support. However, half of the nation&#x02019;s physicians are estimated to have fled Iraq [<xref rid="ref7" ref-type="bibr">7</xref>]. Physicians, mental health professionals, and health care professionals in general have been frequent targets of kidnappings, bodily mutilation, and random shootings; many health professionals have been killed [<xref rid="ref8" ref-type="bibr">8</xref>,<xref rid="ref9" ref-type="bibr">9</xref>]. Given the security situation, most international aid organizations have left the country. At the same time, violence has spread throughout the neighboring countries. Dramatic political developments (ie, the Arab Spring) in the Middle East and North Africa have been associated with state violence and civil war has further increased the demand for additional physical and mental health support structures.</p><p>Providing medical or mental health care in regions of war and ongoing violent conflict often puts mental health professionals at great risk. Very few studies have reported on mental health care services provided for survivors of war in developing countries. Although their results have been encouraging, these approaches are available to only small numbers of people, are relatively costly, and require health professionals to be located on site [<xref rid="ref10" ref-type="bibr">10</xref>,<xref rid="ref11" ref-type="bibr">11</xref>].</p><p>Native-speaking health professionals who are geographically independent of their clients may, therefore, be able to provide vital psychiatric support in underserved conflict regions.</p><p>Internet-based delivery of psychotherapeutic interventions has become increasingly established in the Western world. In particular, interventions developed for patients with PTSD have been shown to produce significant reductions in PTSD symptoms and in associated psychopathology, such as depression and anxiety [<xref rid="ref12" ref-type="bibr">12</xref>-<xref rid="ref17" ref-type="bibr">17</xref>]. Internet-based approaches may provide a unique treatment alternative in conflict areas where there is an urgent need for psychological care that is easily accessible, independent of the location of the therapist, and relatively inexpensive.</p><p>The major aim of this study was to evaluate an online cognitive behavioral therapy (CBT) intervention for posttraumatic stress symptoms in a setting that remains highly unstable, namely Iraq. This study randomly assigned participants to either an Internet-based treatment program or a waiting list control condition. Those in the intervention group received immediate access to an Internet-based program for PTSD treatment, whereas those in the control condition had to wait several weeks before they get access to the same Internet-based program thereafter. We hypothesized that the Internet-based treatment would produce a significantly greater improvement on the outcome compared to the control condition. Additionally, participants in the treatment group were asked to take part in a 3-month follow-up measure, whereas the control group did not.</p></sec><sec sec-type="methods"><title>Methods</title><sec><title>Participants</title><p>Participants were 159 Arabic-speaking adults (45 male, 114 female) with clinical levels of posttraumatic stress, aged from 18 to 56 years (mean 28.1, SD 7.43). In all, 48 of 159 patients (30.2%) were married and 41 of 159 participants (25.8%) completed secondary school; 99 of 159 (62%) had a university degree. Concerning the type of trauma, 63 of 159 patients (39.6%) had experienced sexual violence (war-related and sexual abuse) and 24 of 159 (15.1%) had experienced the killing of a family member or close person. Moreover, 30 of 159 participants (18.9%) reported being exposed to violence (eg, kidnapping, witnessing bomb attacks) and war or torture as their index trauma.</p><p>To be included in the study, participants had to have a history of trauma according to the <italic>Diagnostic and Statistical Manual of Mental Disorders</italic> (Fourth Edition; <italic>DSM-IV</italic>) criteria accompanied by posttraumatic stress symptoms, knowledge of Arabic, and age between 18 and 65 years. The Posttraumatic Stress Diagnostic Scale (PDS) was used to identify if patients reported the minimum number of symptoms required by <italic>DSM-IV</italic> for each of the symptom clusters (at least 1 intrusion, 3 avoidance, and 2 hyperarousal symptoms). Additionally the minimum score on the PDS to be included in the trial was 11 indicating moderate symptom severity. Applicants were excluded if they met 1 of the following criteria: currently receiving treatment elsewhere, substance abuse or dependence, high risk of suicide, psychotic symptoms, and low symptom severity. Symptom severity of depression was assessed by the Hopkins Symptom Checklist for depression [<xref rid="ref18" ref-type="bibr">18</xref>] and risk of suicide by the Arabic translation of the Suicide Risk Assessment [<xref rid="ref19" ref-type="bibr">19</xref>], a 6-item self-report questionnaire designed to capture suicidal tendencies. It consists of questions identifying suicidal plans, previous suicide attempts, and current suicidal intentions. Psychotic symptoms were assessed by the Arabic translation of the Dutch Screening Device for Psychotic Disorder [<xref rid="ref20" ref-type="bibr">20</xref>]. Because no data are yet available from an Iraqi norm group, the Dutch norm data were used; however, due to intercultural differences, these norm data may have been too conservative.</p><p>Of the 1070 people who approached the study, 593 were excluded on the basis of our exclusion criteria (eg, outside age range, non&#x02013;trauma-related difficulties, lack of Internet access). A total of 159 participants were randomly assigned to the treatment (n=79) or control condition (n=80). Participant flow is illustrated in <xref ref-type="fig" rid="figure1">Figure 1</xref>.</p><fig id="figure1" position="float"><label>Figure 1</label><caption><p>Flowchart showing progression of participants through the study.</p></caption><graphic xlink:href="jmir_v17i3e71_fig1"/></fig></sec><sec><title>Procedure</title><p>The study was carried out in Berlin (Treatment Center for Torture Victims, Freie University, Berlin). Recruitment for this randomized controlled trial took place from January 2009 to November 2011. Participants were recruited through radio, TV, and newspaper announcements, as well as health-related websites, specifically in Iraq. Information about the study was published regularly on a Facebook page.</p><p>The study website [<xref rid="ref21" ref-type="bibr">21</xref>] provided general information about PTSD, online assessment, and the treatment program (<xref ref-type="fig" rid="figure2">Figure 2</xref>). Potential participants were informed about the study and received information about (1) posttraumatic stress reactions, (2) the study and its inclusion and exclusion criteria, (3) the Internet-based treatment, and (4) other treatment alternatives. A detailed description of the 3 treatment modules and the text-based form of the intervention was also given to the participants along with the patient information. Because the pilot study revealed that some patients had doubts about the neutrality of the website and treatment offered [<xref rid="ref22" ref-type="bibr">22</xref>], participants were explicitly informed that all patient data and texts would be protected by rigorous security measures.</p><p>Potential patients logged in and completed the screening questionnaires online (1070 screenings completed). Initial screening was conducted with a fully automated computerized assessment battery including all outcome measures in the trial. These outcomes later served as the pretreatment scores for the included participants. Additional questions regarding exclusion criteria (suicidality, psychotic symptoms), demographics (age, gender, and education), current treatment, and treatment history were included in the online assessment. Whenever any data regarding the exclusion criteria were found to be unclear, participants were contacted by phone and asked to provide additional information about their psychotic symptoms and suicidal thoughts or behaviors (20.3%, 217 of participants were contacted by telephone to gather this information). The excluded individuals received an explanation as to why they had not been included and, if necessary, advice on how to seek help. Participants who met all inclusion criteria following diagnostic assessment and who provided informed consent were randomly assigned to either the Internet-based treatment or a waiting list control condition. Randomization was based on a computer-generated randomization list. Treatment started right after providing informed consent without any latency for those participants who were assigned to the Internet-based therapy.</p><p>All data reported in the trial were collected online and participants were given standardized reminders to complete the assessments using the online assessment system. They completed the outcome measures at pretreatment (initial screening), posttreatment (right after the treatment), and 3-month follow-up. For ethical reasons, participants assigned to the control condition received treatment directly after completing the waiting period. Thus, there are no follow-up results available for the control condition. The Ethics Committee of the University of Leipzig approved the study. Researchers and psychotherapists were not masked to the intervention. See <xref ref-type="fig" rid="figure1">Figure 1</xref> for the progression of study participants.</p><fig id="figure2" position="float"><label>Figure 2</label><caption><p>Screenshot Startpage.</p></caption><graphic xlink:href="jmir_v17i3e71_fig2"/></fig></sec><sec><title>Outcomes</title><p>Posttraumatic stress symptoms were assessed by the PDS [<xref rid="ref23" ref-type="bibr">23</xref>], which asks participants to rate on 17 items the occurrence of symptoms of PTSD (intrusions, avoidance, and hyperarousal) in the past 30 days (from 0=never to 3=nearly always). A diagnosis of PTSD is made only when a patient reports the minimum number of symptoms required by <italic>DSM-IV</italic> for each of the symptom clusters. The PDS yields a sum score measuring the overall severity of posttraumatic stress symptoms. Scores of 20 or higher on the PDS indicate moderate to severe symptom severity [<xref rid="ref23" ref-type="bibr">23</xref>]. Previous research has confirmed the reliability of the Arabic version of the PDS [<xref rid="ref24" ref-type="bibr">24</xref>]. The Hopkins Symptom Checklist-25 (HSCL-25) [<xref rid="ref18" ref-type="bibr">18</xref>] was used to assess depression and anxiety. The HSCL-25 comprises 10 items forming an anxiety subscale and 15 items forming a depression subscale with 2 questions relating to somatic symptoms. Both subscales were used in this trial. Scores range from 1 (little) to 4 (very much). A mean score was calculated by adding all scores and dividing by the number of items. Scores above the cutoff of 1.75 indicate clinically significant distress. The HSCL-25 has proved reliable and valid for measuring depression and anxiety in cross-cultural studies [<xref rid="ref18" ref-type="bibr">18</xref>].</p><p>The somatization subscale of the Symptom Checklist-90-Revised (SCL-90-R) [<xref rid="ref25" ref-type="bibr">25</xref>] was used to assess somatization. This subscale (SCL) of commonly experienced physical symptoms comprises 12 items each rated on a 5-point Likert scale from 0 (not at all) to 4 (extremely). An overall score is formed by calculating the mean score of all items with higher scores indicating severe somatization symptoms during the last week.</p><p>Quality of life was assessed with the EUROHIS-QOL [<xref rid="ref26" ref-type="bibr">26</xref>], an 8-item scale which measures 4 domains of life quality (psychological, physical, social, and environmental), each represented by 2 items. Responses are given on a 5-point Likert scale ranging from 1 (not at all) to 5 (completely). An overall EUROHIS score is formed by calculating the mean score of all 8 items, with higher scores indicating better quality of life. Schmidt et al [<xref rid="ref26" ref-type="bibr">26</xref>] have reported the measure to show good reliability and validity across a range of countries. The mean time to complete all questionnaires was 45 minutes with a range from 15 to 60 minutes.</p></sec><sec><title>Treatment</title><sec><title>Internet-Based Treatment</title><p>A Dutch Internet-based CBT manual (<italic>Interapy</italic> [<xref rid="ref15" ref-type="bibr">15</xref>]) was translated into Arabic and culturally adapted for this treatment program. Translations were conducted by different native-speaking psychotherapists following the guidelines for cross-cultural translations [<xref rid="ref27" ref-type="bibr">27</xref>]. All texts were translated to Modern Standard Arabic because this is the standard for written language in Arab countries and readable for all participants independent from their dialect. The treatment protocol builds on evidence-based principles of CBT for PTSD [<xref rid="ref28" ref-type="bibr">28</xref>]. Specifically, confrontation with the traumatic event has proven to be an important element of effective psychotherapy for PTSD and has been found to significantly reduce avoidance behavior. The treatment consisted of 2 weekly structured writing activities assigned each week over a period of 5 weeks. There were 3 treatment phases: (1) self-confrontation with the traumatic event, (2) cognitive restructuring, and (3) social sharing.</p><p>The basic structure of 10 writing assignments proved to be acceptable in the pilot study [<xref rid="ref22" ref-type="bibr">22</xref>]. However, based on the evaluation of the pilot study, a number of substantial changes concerning the content of the modules had to be implemented. Patients&#x02019; expectations of health care professionals are culturally shaped. Compared to Interapy, this approach uses a more pronounced directive therapeutic stance. In Muslim countries, the health care professional is an authoritative and highly respected figure who gives expert advice. Therefore, straight instructions and responsibility for therapeutic choices are expected. Refusal to give explicit advice and lack of assertion are associated with incompetence and indecisiveness of the therapist and are met with irritation and may even prompt discontinuation of the therapy by a patient.</p><p>In the first phase of self-confrontation, the participants were asked to write 4 essays describing the traumatic event and its circumstances in as much detail as possible, in the first person and in the present tense. In contrast to Western trials, participants were explicitly asked not to mentioned specific places or names of persons who were involved due to basic precautionary measures. In the second phase of cognitive restructuring, they had another 4 writing assignments taking the form of a supportive letter to a hypothetical friend who had experienced the same traumatic event. The aim of this phase was to provide new perspectives on the traumatic event. In this module, cultural norms came explicitly into play. Knowledge of the Koran proved extremely helpful. Therapists frequently used quotes and helpful metaphors from the Koran that could inspire patients to take a different perspective and challenge their dysfunctional thoughts.</p><p>Generally, the therapists expressed explicit respect toward and appreciation of the concept of the family. However, female participants who had experienced sexual violence were explicitly discouraged from disclosing their traumatic experiences to other family members due to potential serious social consequences of known dishonor (ie, due to experienced sexual violence). The third and final phase of social sharing focused on a symbolic farewell letter (2 assignments) that participants were normally instructed to address to themselves, to a person connected with the traumatic event, or to a friend. In this study, these choices were limited to a letter directed to themselves because of the previously described potentially aversive consequences. All communication with participants was asynchronous. Whenever participants did not conduct their writing assignment, they received a short reminder via email. If no response was received after 2 email reminders, the participant was contacted by phone to encourage them to complete the treatment.</p></sec><sec><title>Therapists</title><p>The participating therapists were 8 native Arabic-speaking psychotherapists or psychiatrists living in Iraq, Palestine, Syria, the Emirates, or Europe. Therapists were trained in 7-day workshops in Europe that focused on the handling of the treatment manual, special features of Internet-based therapy, and how to solve common problems in an online communication setting. After participating in the workshop, the therapists completed an introduction phase with being monitored continuously by a supervisor who read all texts and observed the treatment process. Only after completing this phase successfully did the therapists start to work independently (participating in weekly supervision sessions, either face-to-face or via Skype). The therapist provided individually written feedback and instructions on the next writing assignment within 1 working day. The therapist time involved in responding to texts ranged from 20 to 50 minutes per text, depending on the therapist&#x02019;s experience with Internet-based therapies.</p></sec><sec><title>Control Condition</title><p>Participants assigned to the control condition were asked to complete a waiting period of 6 weeks. Afterwards, they received the same Internet-based intervention as the treatment group. Because they received treatment straight after completing the waiting period, no relevant follow-up results are available for the control group.</p></sec></sec><sec><title>Statistical Analysis</title><p>Statistical analyses were performed with the SPSS version 19.0 for Mac (IBM Corp, Armonk, NY, USA). Data distributions were approximately normal and did not require transformation. As a primary analysis, we performed mixed design ANOVAs with time as the within-subject and condition as the between-subject factors. These analyses were based on an intention-to-treat (ITT) design, including all dropouts to estimate the efficacy of the treatment compared to a waiting list control group. Whenever posttreatment and follow-up scores were not available for a participant, the last observation data were carried forward. Because our repeated-measures variable had only 2 levels, the assumption of sphericity was met and it was not necessary to apply a correction factor to the degrees of freedom [<xref rid="ref29" ref-type="bibr">29</xref>]. According to Everitt and Howell [<xref rid="ref29" ref-type="bibr">29</xref>], it is not meaningful to interpret main effects if there are strong interaction effects. Therefore, we abstained from reporting main effects of the ANOVA. In addition to the ITT analysis, we also performed a completer analysis, as proposed by Myers [<xref rid="ref30" ref-type="bibr">30</xref>]. Chi-square tests and <italic>t</italic> tests were used to determine how similar people who dropped out and people who completed the treatment were, and to assess any differences between the treatment and control groups at baseline. To assess the magnitude of change in mean symptoms between baseline and posttest and between baseline and 3-month follow-up, we calculated effect sizes using Cohen&#x02019;s <italic>d</italic> for repeated measures. An effect size of <italic>d</italic>=0.80 for a psychological treatment is typically considered large [<xref rid="ref31" ref-type="bibr">31</xref>]. Moreover, 2 indicators were used to examine whether there was not only a statistical change, but also a clinically significant effect: the reliable change index (RCI) and the clinically significant change following Jacobson and Truax [<xref rid="ref32" ref-type="bibr">32</xref>]. The RCI is used to determine whether the change observed goes beyond expected measurement fluctuations. The RCI considers measurement error and its effects on variability of scores and is computed by subtracting the subject&#x02019;s posttest score from his or her pretest score and dividing this value by the standard error of difference between the 2 test scores. Clinically significant change following Jacobson and Truax [<xref rid="ref32" ref-type="bibr">32</xref>] was determined as scoring below the clinical cutoff (&#x0003c;20 for PDS and &#x0003c;1.75 for the HSCL depression and anxiety subscale).</p></sec><sec><title>Role of the Funding Source</title><p>The sponsors of the study had no role in the study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to the study data and had responsibility for the decision to submit for publication.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Baseline Data</title><p>Baseline data of the intrusion (mean 8.32, SD 3.90), avoidance (mean 12.65, SD 3.79), and hyperarousal subscales (mean 9.53, SD 3.32) indicated that all patients suffered from posttraumatic stress (mean 30.50, SD 8.10) and 140 of 159 participants (88.0%) scored above a PDS score of 20.0 indicating moderate to severe symptom levels. Participants also reported high levels of anxiety (mean 2.90, SD 0.60) and depression (mean 3.07, SD 0.54). <xref ref-type="table" rid="table1">Table 1</xref> summarizes demographic data and sample characteristics of each group. With the exception of disclosure (&#x003c7;<sup>2</sup>
+<sub>1</sub>=4.7, <italic>P</italic>=.02), there were no systematic group differences in any of the sociodemographic variables or in baseline data at pretreatment. Therefore, we did not include any covariates in the analysis.</p><p>To investigate differences in outcome for the people who completed the treatment within the planned time frame and those who took a lot longer, we divided the sample into 2 groups (shorter vs longer treatment duration) using a median-split approach. Results indicate that the 2 groups did not differ in their baseline posttraumatic stress (<italic>t</italic>
+<sub>45</sub>=&#x02013;1.30, <italic>P</italic>=.20), anxiety (<italic>t</italic>
+<sub>45</sub>=&#x02013;1.21, <italic>P</italic>=.23), and depression level (<italic>t</italic>
+<sub>45</sub>=&#x02013;1.54, <italic>P</italic>=.13). Similarly, there were no systematic group differences at posttreatment with respect to these variables (posttraumatic stress symptoms: <italic>t</italic>
+<sub>45</sub>=&#x02013;0.78, <italic>P</italic>=.44; anxiety: <italic>t</italic>
+<sub>45</sub>=&#x02013;1.26, <italic>P</italic>=.22; and depression: <italic>t</italic>
+<sub>45</sub>=&#x02013;1.29, <italic>P</italic>=.20).</p></sec><sec><title>Dropout Analysis</title><p>In the treatment group, 47 of 79 participants (59%) completed the posttreatment assessment. The treatment group did not differ from the control group in terms of attrition rate (&#x003c7;<sup>2</sup>
+<sub>1</sub>=0.0, <italic>P</italic>=.92). The reasons for treatment dropout were often difficult to discern because 20 of 32 participants (63%) did not respond to emails or telephone calls. However, we ascertained that 3 participants were lost due to difficulties with electricity and Internet access. Two patients had to terminate the treatment due to hospitalization and 2 were referred to local psychiatrists. Two participants preferred face-to-face therapy, whereas another 3 patients completed the treatment but not the posttreatment assessment. Completers and noncompleters did not differ with respect to any sociodemographic variables (eg, age: <italic>t</italic>
+<sub>77</sub>=&#x02013;0.20, <italic>P</italic>=.84; gender: &#x003c7;<sup>2</sup>
+<sub>1</sub>=1.5, <italic>P</italic>=.22; educational level: &#x003c7;<sup>2</sup>
+<sub>3</sub>=7.2, <italic>P</italic>=.07; marital status: &#x003c7;<sup>2</sup>
+<sub>3</sub>=4.1, <italic>P</italic>=.25; or professional status: &#x003c7;<sup>2</sup>
+<sub>2</sub>=3.4, <italic>P</italic>=.19). At baseline, there were no differences in their posttraumatic stress symptoms (<italic>t</italic>
+<sub>77</sub>=0.68, <italic>P</italic>=.50), anxiety (<italic>t</italic>
+<sub>77</sub>=0.28, <italic>P</italic>=.78), or depression levels (<italic>t</italic>
+<sub>77</sub>=&#x02013;0.27, <italic>P</italic>=.79). Additionally, completers and noncompleters did not differ with respect to the number of traumatic events experienced (<italic>t</italic>
+<sub>77</sub>=0.64, <italic>P</italic>=.52) or the type of trauma (&#x003c7;<sup>2</sup>
+<sub>3</sub>=0.8, <italic>P</italic>=.86).</p><table-wrap id="table1" position="float"><label>Table 1</label><caption><p>Demographic and descriptive characteristics of the treatment and waiting list control groups at baseline (N=159).</p></caption><table frame="hsides" rules="groups" width="800" border="0" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="168" span="1"/><col width="82" span="1"/><col width="76" span="1"/><col width="75" span="1"/><col width="59" span="1"/><col width="34" span="1"/><thead><tr valign="bottom"><td colspan="2" rowspan="1">Demographic characteristics</td><td rowspan="1" colspan="1">Treatment</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">
+<italic>t</italic>
+<sub>157</sub>
+</td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> (df)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">Traumatic events, mean (SD)</td><td rowspan="1" colspan="1">3.67 (3.01)</td><td rowspan="1" colspan="1">3.03 (2.61)</td><td rowspan="1" colspan="1">1.68</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.10</td></tr><tr valign="top"><td colspan="2" rowspan="1">Age (years), mean (SD)</td><td rowspan="1" colspan="1">29.11 (8.20)</td><td rowspan="1" colspan="1">27.15 (6.48)</td><td rowspan="1" colspan="1">1.45</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.15</td></tr><tr valign="top"><td colspan="2" rowspan="1">Age (years), range</td><td rowspan="1" colspan="1">18-56</td><td rowspan="1" colspan="1">18-43</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Gender, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">1.0 (1)</td><td rowspan="1" colspan="1">.31</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">76 (60)</td><td rowspan="1" colspan="1">69 (55)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Educational level, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">6.1 (3)</td><td rowspan="1" colspan="1">.11</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Completed secondary school</td><td rowspan="1" colspan="1">22 (17)</td><td rowspan="1" colspan="1">35 (28)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">University</td><td rowspan="1" colspan="1">71 (56)</td><td rowspan="1" colspan="1">48 (38)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Marital status, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">2.7 (3)</td><td rowspan="1" colspan="1">.44</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Single</td><td rowspan="1" colspan="1">68 (53)</td><td rowspan="1" colspan="1">56 (45)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Partnership/married</td><td rowspan="1" colspan="1">26 (20)</td><td rowspan="1" colspan="1">37 (30)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Professional status, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">1.3 (2)</td><td rowspan="1" colspan="1">.51</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Student</td><td rowspan="1" colspan="1">23 (18)</td><td rowspan="1" colspan="1">31 (25)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Employed</td><td rowspan="1" colspan="1">44 (35)</td><td rowspan="1" colspan="1">33 (26)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Unemployed</td><td rowspan="1" colspan="1">33 (26)</td><td rowspan="1" colspan="1">36 (29)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Type of trauma, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">0.3 (3)</td><td rowspan="1" colspan="1">.96</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Killing of a family member</td><td rowspan="1" colspan="1">14 (11)</td><td rowspan="1" colspan="1">16 (13)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Sexual violence related to war/sexual abuse</td><td rowspan="1" colspan="1">39 (31)</td><td rowspan="1" colspan="1">40 (32)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Violence/war/torture</td><td rowspan="1" colspan="1">20 (16)</td><td rowspan="1" colspan="1">18 (14)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Others (eg, kidnapping, witnessing bomb attacks)</td><td rowspan="1" colspan="1">27 (21)</td><td rowspan="1" colspan="1">26 (21)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Time since trauma (primary traumatic event), n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">4.4 (5)</td><td rowspan="1" colspan="1">.50</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Less than 6 months</td><td rowspan="1" colspan="1">13 (10)</td><td rowspan="1" colspan="1">10 (8)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">6 months to 3 years</td><td rowspan="1" colspan="1">22 (17)</td><td rowspan="1" colspan="1">18 (14)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">More than 3 years</td><td rowspan="1" colspan="1">65 (51)</td><td rowspan="1" colspan="1">70 (56)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Treatment history, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">0.0 (1)</td><td rowspan="1" colspan="1">.96</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">8 (6)</td><td rowspan="1" colspan="1">8 (6)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Disclosure, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">4.7 (1)</td><td rowspan="1" colspan="1">.02</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">78 (62)</td><td rowspan="1" colspan="1">63 (50)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table></table-wrap></sec><sec><title>Primary Analysis: Intention-to-Treat</title><p>
+<xref ref-type="table" rid="table2">Table 2</xref> presents means and standard deviations of baseline, posttreatment, and 3-month follow-up scores for all outcome measures in both experimental conditions. It also presents the group&#x000d7;time interaction of the ANOVAs, whether the group change from pre- to posttreatment is significant, and between-group effect sizes for all outcome measures. As shown, there were significant interaction effects for all outcome variables. This result confirms that the decrease in the primary outcomes intrusion, avoidance, and hyperarousal (PDS) as well as in the secondary outcomes anxiety, depression (HSCL-25), and somatization (SCL) was significantly higher in the treatment group than in the control group. Furthermore participants receiving the Internet-based treatment showed a significant increase in satisfaction with life relative to the control group (<italic>F</italic>
+<sub>1,157</sub>=44.20, <italic>P</italic>&#x0003c;.001). Despite the high attrition rate of 41% (32/79 in the treatment group), the 3-month follow-up indicated that the results remained stable after treatment. Individuals in the control condition showed no improvement in trauma-related symptoms (PDS subscales: intrusion, avoidance, hyperarousal) or in the secondary outcomes anxiety, depression, somatization, or satisfaction with life. In the treatment group, the ITT analysis revealed moderate to large within-group effect sizes from baseline to posttreatment for the primary outcomes of intrusion (<italic>d</italic>=0.78), avoidance (<italic>d</italic>=0.81), and hyperarousal (<italic>d</italic>=0.86). Large effect sizes were found for the depression (<italic>d</italic>=0.92) and anxiety (<italic>d</italic>=0.84) subscales, and moderate effect sizes for the somatization (<italic>d</italic>=0.42) and quality of life (<italic>d</italic>=0.76) subscales. Furthermore, moderate to large effect sizes (<italic>d</italic>=0.40-0.84) were calculated from baseline to follow-up. In the control condition, all effect sizes were close to zero (<italic>d</italic>=&#x02013;0.08 to 0.13).</p><p>To test for interdependence among dependent variables, we performed a MANOVA for repeated measures (intrusion, avoidance, hyperarousal) with time (pre- and posttreatment) as the within-subject factor and condition as the between-subject factor revealing a significant interaction effect (<italic>F</italic>
+<sub>1,157</sub>=44.29, <italic>P</italic>&#x0003c;.001). A MANOVA for repeated measures (anxiety and depression) also yielded a significant interaction effect (<italic>F</italic>
+<sub>1,157</sub>=38.61, <italic>P</italic>&#x0003c;.001).</p></sec><sec><title>Secondary Analysis: Completer</title><p>
+<xref ref-type="table" rid="table3">Table 3</xref> presents means and standard deviations of baseline, posttreatment, and follow-up scores for all outcome measures for the subgroup of participants who completed the treatment. It also presents the group&#x000d7;time interaction indicating whether the group change from pre- to posttreatment was significant as well as between-group effect sizes for all outcome measures. As shown, there were significant interaction effects for all outcome variables. As hypothesized, the effect sizes of these factors were larger than in the ITT analysis. With the exception of the secondary outcomes life satisfaction and depression, the completers showed ongoing arithmetical improvement in all outcomes up to the 3-month follow-up. However, these changes did not reach statistical significance. The results of the completer analysis provide further confirmation that both trauma-related symptoms and secondary outcomes, such as anxiety, depression, and somatization, decreased in all patients receiving the treatment. In contrast, there was no significant change from baseline to posttreatment in the control condition. Very large within-group effect sizes were found for posttraumatic stress symptoms (intrusion, avoidance, hyperarousal) from pre- to posttreatment (<italic>d</italic>=1.42-1.53) and 3-month follow-up (<italic>d</italic>=1.95-2.07) in the treatment condition. Large effect sizes were also found for the depression (<italic>d</italic>=1.69) and anxiety (<italic>d</italic>=1.44) subscales, and for quality of life (<italic>d</italic>=1.30) and somatization (<italic>d</italic>=0.68) at posttreatment and follow-up (<italic>d</italic>=1.69, <italic>d</italic>=1.67, <italic>d</italic>=1.09, and <italic>d</italic>=0.83, respectively). Only small effect sizes were found in the control condition (<italic>d</italic>=&#x02013;0.15 to 0.25).</p><table-wrap id="table2" position="float"><label>Table 2</label><caption><p>Results of mixed design ANOVAs for the treatment and waiting list control groups at baseline, posttreatment, and 3-month follow-up: intention-to-treat analysis.</p></caption><table frame="hsides" rules="groups" width="638" border="0" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="15" span="1"/><col width="124" span="1"/><col width="100" span="1"/><col width="96" span="1"/><col width="66" span="1"/><col width="66" span="1"/><col width="66" span="1"/><thead><tr valign="top"><td colspan="3" rowspan="1">Outcome measures</td><td colspan="2" rowspan="1">Groups&#x000d7;pre-post, mean (SD)</td><td rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>1,157</sub>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td rowspan="1" colspan="1">
+<italic>d</italic>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Treatment (n=79)</td><td rowspan="1" colspan="1">Control (n=80)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></thead><tbody><tr valign="top"><td colspan="3" rowspan="1">
+<bold>PDS</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Intrusion</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">30.74</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.72</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">8.32<sup>a</sup> (3.98)</td><td rowspan="1" colspan="1">8.33<sup>a</sup> (3.84)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">5.09<sup>b</sup> (4.33)</td><td rowspan="1" colspan="1">8.06<sup>a</sup> (3.89)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">5.37<sup>b</sup> (4.59)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Avoidance</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">34.26</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.92</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">12.49<sup>a</sup> (3.77)</td><td rowspan="1" colspan="1">12.80<sup>a</sup> (3.82)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">8.78<sup>b</sup> (5.38)</td><td rowspan="1" colspan="1">13.04<sup>a</sup> (3.78)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">8.97<sup>b</sup> (5.15)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Hyperarousal</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">28.58</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.68</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">9.54<sup>a</sup> (3.07)</td><td rowspan="1" colspan="1">9.52<sup>a</sup> (3.58)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">6.42<sup>b</sup> (4.19)</td><td rowspan="1" colspan="1">9.07<sup>a</sup> (3.64)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">6.53<sup>b</sup> (4.09)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Total score</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">44.29</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.92</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">30.35<sup>a</sup> (8.16)</td><td rowspan="1" colspan="1">30.65<sup>a</sup> (8.10)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">20.29<sup>b</sup> (12.45)</td><td rowspan="1" colspan="1">30.17<sup>a</sup> (8.70)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">20.87<sup>b</sup> (12.37)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>HSCL-25</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Anxiety</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">28.30</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.79</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">2.88<sup>a</sup> (0.60)</td><td rowspan="1" colspan="1">2.92<sup>a</sup> (0.61)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">2.29<sup>b</sup> (0.81)</td><td rowspan="1" colspan="1">2.85<sup>a</sup> (0.61)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">2.39<sup>b</sup> (0.76)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Depression</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">40.66</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">1.03</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">3.04<sup>a</sup> (0.58)</td><td rowspan="1" colspan="1">3.10<sup>a</sup> (0.50)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">2.36<sup>b</sup> (0.90)</td><td rowspan="1" colspan="1">3.11<sup>a</sup> (0.50)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">2.54<sup>b</sup> (0.85)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>SCL: Somatization</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">11.68</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.56</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">1.44<sup>a</sup> (0.84)</td><td rowspan="1" colspan="1">1.50<sup>a</sup> (0.90)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">1.09<sup>b</sup> (0.81)</td><td rowspan="1" colspan="1">1.56<sup>a</sup> (0.88)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">1.11<sup>b</sup> (0.82)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>EUROHIS: Life satisfaction</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">44.20</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.84</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">2.33<sup>a</sup> (0.73)</td><td rowspan="1" colspan="1">2.33<sup>a</sup> (0.79)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">2.97<sup>b</sup> (0.95)</td><td rowspan="1" colspan="1">2.27<sup>a</sup> (0.71)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">2.72<sup>b</sup> (0.82)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table><table-wrap-foot><fn id="table2fn1"><p>
+<sup>a</sup> Means within column grouping that share this superscript do not differ at <italic>P</italic>=.05.</p></fn><fn id="table2fn2"><p>
+<sup>b</sup> Means within column grouping that share this superscript do not differ at <italic>P</italic>=.05.</p></fn></table-wrap-foot></table-wrap><table-wrap id="table3" position="float"><label>Table 3</label><caption><p>Results of mixed design ANOVAs for the treatment and waiting list control groups at baseline, posttreatment, and 3-month follow-up: completer analysis.</p></caption><table frame="hsides" rules="groups" width="638" border="0" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="15" span="1"/><col width="124" span="1"/><col width="100" span="1"/><col width="96" span="1"/><col width="66" span="1"/><col width="66" span="1"/><col width="66" span="1"/><thead><tr valign="bottom"><td colspan="3" rowspan="1">Outcome measures</td><td colspan="2" rowspan="1">Groups&#x000d7;pre-post, mean (SD)</td><td rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>1,92</sub>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td rowspan="1" colspan="1">&#x003b7;<sup>2</sup>
+<sub>p</sub>
+</td></tr><tr valign="bottom"><td colspan="3" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Treatment (n=47)<sup>a</sup>
+</td><td rowspan="1" colspan="1">Control (n=47)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></thead><tbody><tr valign="top"><td colspan="3" rowspan="1">
+<bold>PDS</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Intrusion</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">43.89</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">1.50</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">8.28<sup>b</sup> (4.09)</td><td rowspan="1" colspan="1">8.21<sup>b</sup> (3.51)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">2.85<sup>c</sup> (3.01)</td><td rowspan="1" colspan="1">7.77<sup>b</sup> (3.56)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">1.93<sup>c</sup> (2.42)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Avoidance</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">45.50</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">1.59</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">12.70<sup>b</sup> (3.71)</td><td rowspan="1" colspan="1">13.13<sup>b</sup> (3.85)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">6.47<sup>c</sup> (5.04)</td><td rowspan="1" colspan="1">13.53<sup>b</sup> (3.75)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">5.29<sup>c</sup> (3.77)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Hyperarousal</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">42.41</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">1.42</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">9.89<sup>b</sup> (2.98)</td><td rowspan="1" colspan="1">10.47<sup>b</sup> (2.94)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">4.64<sup>c</sup> (3.87)</td><td rowspan="1" colspan="1">9.70<sup>b</sup> (3.26)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">3.68<sup>c</sup> (3.03)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Total score</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">74.85</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">1.77</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">30.87<sup>b</sup> (8.13)</td><td rowspan="1" colspan="1">31.81<sup>b</sup> (7.13)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">13.96<sup>c</sup> (10.75)</td><td rowspan="1" colspan="1">31.00<sup>b</sup> (8.36)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">10.89<sup>c</sup> (7.91)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>HSCL-25</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Anxiety</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">40.71</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">1.56</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">2.90<sup>b</sup> (0.64)</td><td rowspan="1" colspan="1">3.04<sup>b</sup> (0.51)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">1.91<sup>c</sup> (0.74)</td><td rowspan="1" colspan="1">2.91<sup>b</sup> (0.54)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">1.85<sup>c</sup> (0.62)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Depression</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">59.58</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">2.04</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">3.03<sup>b</sup> (0.59)</td><td rowspan="1" colspan="1">3.16<sup>b</sup> (0.48)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">1.88<sup>c</sup> (0.77)</td><td rowspan="1" colspan="1">3.18<sup>b</sup> (0.47)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">1.94<sup>c</sup> (0.70)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>SCL</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Somatization</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">12.40</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.81</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">1.45<sup>b</sup> (0.91)</td><td rowspan="1" colspan="1">1.40<sup>b</sup> (0.84)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">0.87<sup>c</sup> (0.79)</td><td rowspan="1" colspan="1">1.52<sup>b</sup> (0.81)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">0.75<sup>c</sup> (0.78)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>EUROHIS</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Life satisfaction</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">63.99</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">1.52</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">2.33<sup>b</sup> (0.76)</td><td rowspan="1" colspan="1">2.30<sup>b</sup> (0.82)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Posttreatment</td><td rowspan="1" colspan="1">3.39<sup>c</sup> (0.87)</td><td rowspan="1" colspan="1">2.20<sup>b</sup> (0.68)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Follow-up</td><td rowspan="1" colspan="1">3.16<sup>c</sup> (0.76)</td><td rowspan="1" colspan="1">&#x02014;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table><table-wrap-foot><fn id="table3fn1"><p>
+<sup>a</sup> Treatment group reduced to n=28 at 3-month follow-up due to dropout.</p></fn><fn id="table3fn2"><p>
+<sup>b</sup> Means within column grouping that share this superscript do not differ at <italic>P</italic>=.05.</p></fn><fn id="table3fn3"><p>
+<sup>c</sup> Means within column grouping that share this superscript do not differ at <italic>P</italic>=.05.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Reliable Change and Clinical Significance</title><p>
+<xref ref-type="table" rid="table4">Table 4</xref> presents the percentage of patients showing reliable change at posttreatment (completers&#x02019; data). According to this criterion, the proportion of participants showing reliable change in the treatment group was significantly higher than in the control group on all outcome measures. Additionally, we assessed whether treatment led to a change in participants&#x02019; diagnostic category. At baseline, 74 of 79 participants (94%) in the treatment group and 75 of 80 patients (94%) in the control group scored at or above the clinical cutoff (20) for posttraumatic stress. At posttreatment the percentage was reduced to 34% (16/47) in the treatment group and to 89% (42/47) in the control group. At the 3-month follow-up, only 14% (4/28) of the treatment group participants scored above the clinical cutoff. With regard to the secondary outcome anxiety, 94% (74/79) in the treatment group and all patients in the control group scored above the cutoff at the beginning of the study (1.75). At posttreatment, this was reduced to 45% (21/47) in the treatment group, whereas 98% (46/47) of the control group still showed above-threshold symptoms. At 3-month follow-up, 13 of 28 participants (46%) in the treatment group showed anxiety symptoms above the cutoff score. Similar results were found on the depression subscale; 96% (76/79) of the treatment and 98% (78/80) of the control group participants scored above the cutoff (1.75) at baseline. All control group patients still suffered from depression symptoms at posttreatment, whereas the percentage was reduced to 40% (19/47) in the treatment group. At 3-month follow-up, this increased to 54% (15/28) of the treatment group participants. Furthermore, 29 of 47 patients (62%) recovered from posttraumatic stress symptoms (reliable change and PDS score&#x0003c;20) in the intervention group compared to 1 (2%) in the control group at posttreatment (OR 74.19, 95% CI 9.93-585.8, <italic>P</italic>&#x0003c;.001), indicating that the chance of recovering was 74.19 times higher in the treatment group than in the control group.</p><table-wrap id="table4" position="float"><label>Table 4</label><caption><p>Percentage of patients showing reliable change at posttreatment.</p></caption><table frame="hsides" rules="groups" width="800" border="0" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="137" span="1"/><col width="95" span="1"/><col width="85" span="1"/><col width="57" span="1"/><col width="65" span="1"/><thead><tr valign="bottom"><td colspan="2" rowspan="1">Outcome measures</td><td colspan="2" rowspan="1">Group, n (%)</td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup>
+<sub>1</sub>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Treatment (n=47)</td><td rowspan="1" colspan="1">Control (n=47)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">
+<bold>PDS</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Intrusion</td><td rowspan="1" colspan="1">21 (45)</td><td rowspan="1" colspan="1">1 (2)</td><td rowspan="1" colspan="1">23.7</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Avoidance</td><td rowspan="1" colspan="1">26 (55)</td><td rowspan="1" colspan="1">4 (9)</td><td rowspan="1" colspan="1">23.7</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Hyperarousal</td><td rowspan="1" colspan="1">27 (57)</td><td rowspan="1" colspan="1">7 (15)</td><td rowspan="1" colspan="1">18.4</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Total score</td><td rowspan="1" colspan="1">35 (74)</td><td rowspan="1" colspan="1">3 (6)</td><td rowspan="1" colspan="1">45.2</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>HSCL-25</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Anxiety</td><td rowspan="1" colspan="1">31 (66)</td><td rowspan="1" colspan="1">5 (11)</td><td rowspan="1" colspan="1">30.4</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Depression</td><td rowspan="1" colspan="1">35 (74)</td><td rowspan="1" colspan="1">4 (9)</td><td rowspan="1" colspan="1">42.1</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr></tbody></table></table-wrap></sec><sec><title>Technology Approval und Feasibility</title><p>Using the Distress/Endorsement Validation Scale (DEVS [<xref rid="ref33" ref-type="bibr">33</xref>]) we asked participants about their experience of the treatment. Despite the short-term nature of the intervention, 78% (37/47) of the participants considered the duration to be sufficient; 74% (35/47) spent up to 2 hours a week on the writing therapy. Furthermore, 87% (41/47) of participants regarded the therapy as clearly understandable and as an effective method for reducing tension and exhaustion, 74% (35/47) experienced a marked decrease in their symptoms, and 76% (36/47) would recommend the treatment to others.</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>The aim of this study was to investigate whether it is possible to produce significant and sustained reduction of posttraumatic stress in participants living in an unstable conflict region using a brief Internet-delivered intervention. We observed significant reductions in posttraumatic stress symptom severity in all symptom clusters, and the effect sizes were of a similar magnitude to those reported for Western samples using the same treatment protocol [<xref rid="ref15" ref-type="bibr">15</xref>-<xref rid="ref17" ref-type="bibr">17</xref>,<xref rid="ref34" ref-type="bibr">34</xref>-<xref rid="ref39" ref-type="bibr">39</xref>]. In addition, the treatment had significant benefits with respect to symptoms of depression and anxiety and quality of life. Although many of the patients continued to experience difficulties in terms of exposure to life-threatening situations and severe human rights violations during the course of the treatment, they nevertheless benefited psychologically from the intervention.</p><p>The attrition rate of 41% (32 of 79 participants in the treatment group and 33 of 80 patients in the control group) was relatively high. A potential explanation for this may be that ongoing violence and economic insecurity keeps patients in a constant state of hyperalertness that calls for a shift of attention to primary day-to-day needs. We tried to determine reasons for dropout by emailing an additional questionnaire, but few people replied. A number of participants questioned the neutrality of the website and the treatment and were concerned that the intervention was supported by a foreign secret service (eg, CIA, Mossad). Others reported technical problems or a lack of privacy at home to write undisturbed by family members. The Dutch Internet-based PTSD study conducted before 2003 [<xref rid="ref15" ref-type="bibr">15</xref>] also reported a relatively high dropout rate of 43%. An analysis by Lange and colleagues [<xref rid="ref15" ref-type="bibr">15</xref>] showed that about 59% of the dropouts had stopped the treatment because of technical problems. This is likely to be a key issue in conflict regions, where slow or instable Internet connections or power cuts are still a common problem, and may add to dropout. Despite the attrition rate, the ITT analysis still revealed large effect sizes for posttraumatic stress and depression. Given the high dropout rate, however, ITT analysis may be an overly conservative approach and may have underestimated the effectiveness of this novel approach as indicated by the very large effect sizes of treatment observed in the completer analysis.</p><p>A number of limitations demand further comment. First of all, assessment of psychopathology was exclusively based on self-rating questionnaires. A clinical interview would have facilitated more accurate information and clinical diagnosis, and this should be implemented in future trials.</p><p>The use of using a waiting list trial design poses substantial limitations on the validity and generalizability of the results. Because the waiting list control condition received treatment after the waiting period, effects in the follow-up intervals can only be estimated based on within-group effect sizes. Furthermore, an active control condition using an alternative evidence-based treatment protocol would have produced more valid data concerning the specific efficacy of this treatment approach. In addition, we found a gender bias because 74% (35 of 47 participants in the treatment group) of completers were female. These figures are comparable with Western treatment samples, but clearly not representative of the general population in this region. Women frequently experience rape or sexual abuse by armed groups in wars and civil conflicts. In Arab countries, women exposed to sexual abuse are often considered to be dishonored; therefore, many of them do not seek help for their psychological problems. Often, they do not risk confiding in others because this leaves them vulnerable to stigma and ostracism and could have life-threatening consequences. The anonymity of the Internet may encourage these women to seek therapeutic treatment. Finally, our sample was very well educated. This is in-line with other Internet-based samples [<xref rid="ref40" ref-type="bibr">40</xref>,<xref rid="ref41" ref-type="bibr">41</xref>]. It seems that at present, Internet-based interventions do not generally manage to engage less well-educated people in an intervention [<xref rid="ref42" ref-type="bibr">42</xref>], independent of the type of program and country of origin.</p><p>Future research should expand treatment delivery techniques, especially focusing on conflict regions. New developments in the context of communication technology report an increasing use of mobile apps (ie, mobile phones) in the treatment of mental health problems. As mobile phone usage in the Middle East is growing, apps could be an additional way to extend treatment accessibility.</p><p>Finally, PTSD is only 1 outcome of chronic exposure to traumatic events in postconflict countries. In their extensive meta-analysis of 181 studies on psychological consequences of war and deportation, Steele and colleagues [<xref rid="ref43" ref-type="bibr">43</xref>] found that rates of depression (30.8%) match those for PTSD (30.6%). A randomized controlled trial testing an Internet-based CBT treatment for depression in Arabic postconflict countries is currently underway.</p><p>To our knowledge, this is the first randomized controlled trial of any form of psychological intervention for people in the Middle East suffering from PTSD. The written narratives produced by our participants impressively document the toll of decades of dictatorship and war. Seventy psychiatrists are currently registered in Iraq, which has a population of 30 million. It will take decades before local services are able to provide sufficient health care for the country&#x02019;s citizens. Our findings show, even when living in difficult conditions, people with posttraumatic stress symptoms benefit from a CBT provided entirely through the Internet. Findings on the program&#x02019;s uptake and applicability confirm that new technologies can be used to provide humanitarian aid in the form of e-mental health services, even in areas that remain highly unstable. The opportunity to disseminate evidence-based, accessible interventions in regions where human rights violations are common represents an important contribution to humanitarian aid and has substantial public health implications.</p></sec></body><back><ack><p>The study was sponsored by the German Foreign Ministry; Misereor eV, Germany.</p></ack><fn-group><fn fn-type="conflict"><p>Conflicts of Interest: None declared.</p></fn></fn-group><app-group><app id="app1"><title>Multimedia Appendix 1</title><p>CONSORT-EHEALTH checklist V1.6.2 [<xref rid="ref44" ref-type="bibr">44</xref>].</p><fig id="d35e4007" position="anchor"><media xlink:href="jmir_v17i3e71_app1.pdf"/></fig></app></app-group><glossary><title>Abbreviations</title><def-list><def-item><term id="abb1">CBT</term><def><p>cognitive behavioral therapy</p></def></def-item><def-item><term id="abb2">DEVS</term><def><p>Distress/Endorsement Validation Scale</p></def></def-item><def-item><term id="abb3">DSM-IV</term><def><p>Diagnostic and Statistical Manual of Mental Disorders (4th Edition)</p></def></def-item><def-item><term id="abb4">HSCL-25</term><def><p>Hopkins Symptom Checklist-25</p></def></def-item><def-item><term id="abb5">ITT</term><def><p>intention-to-treat</p></def></def-item><def-item><term id="abb6">PDS</term><def><p>Posttraumatic Stress Diagnostic Scale</p></def></def-item><def-item><term id="abb7">PTSD</term><def><p>posttraumatic stress disorder</p></def></def-item><def-item><term id="abb8">RCI</term><def><p>reliable change index</p></def></def-item><def-item><term id="abb9">SCL-90-R</term><def><p>Symptom Checklist-90-Revised</p></def></def-item></def-list></glossary><ref-list><ref id="ref1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>el Sarraj</surname><given-names>E</given-names></name><name><surname>Punam&#x000e4;ki</surname><given-names>RL</given-names></name><name><surname>Salmi</surname><given-names>S</given-names></name><name><surname>Summerfield</surname><given-names>D</given-names></name></person-group><article-title>Experiences of torture and ill-treatment and posttraumatic stress disorder symptoms among Palestinian political prisoners</article-title><source>J Trauma Stress</source><year>1996</year><month>7</month><volume>9</volume><issue>3</issue><fpage>595</fpage><lpage>606</lpage><pub-id pub-id-type="medline">8827659</pub-id><pub-id pub-id-type="pmid">8827659</pub-id></element-citation></ref><ref id="ref2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Laban</surname><given-names>CJ</given-names></name><name><surname>Gernaat</surname><given-names>HB</given-names></name><name><surname>Komproe</surname><given-names>IH</given-names></name><name><surname>Schreuders</surname><given-names>BA</given-names></name><name><surname>De Jong Joop</surname><given-names>TVM</given-names></name></person-group><article-title>Impact of a long asylum procedure on the prevalence of psychiatric disorders in Iraqi asylum seekers in The Netherlands</article-title><source>J Nerv Ment Dis</source><year>2004</year><month>12</month><volume>192</volume><issue>12</issue><fpage>843</fpage><lpage>51</lpage><pub-id pub-id-type="medline">15583506</pub-id><!--<pub-id pub-id-type="pii">00005053-200412000-00007</pub-id>--><pub-id pub-id-type="pmid">15583506</pub-id></element-citation></ref><ref id="ref3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al-Jawadi</surname><given-names>AA</given-names></name><name><surname>Abdul-Rhman</surname><given-names>S</given-names></name></person-group><article-title>Prevalence of childhood and early adolescence mental disorders among children attending primary health care centers in Mosul, Iraq: a cross-sectional study</article-title><source>BMC Public Health</source><year>2007</year><volume>7</volume><fpage>274</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2458/7/274"/></comment><pub-id pub-id-type="doi">10.1186/1471-2458-7-274</pub-id><pub-id pub-id-type="medline">17910748</pub-id><!--<pub-id pub-id-type="pii">1471-2458-7-274</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2072950</pub-id>--><pub-id pub-id-type="pmid">17910748</pub-id></element-citation></ref><ref id="ref4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hicks</surname><given-names>MH</given-names></name><name><surname>Dardagan</surname><given-names>H</given-names></name><name><surname>Guerrero</surname><given-names>SG</given-names></name><name><surname>Bagnall</surname><given-names>PM</given-names></name><name><surname>Sloboda</surname><given-names>JA</given-names></name><name><surname>Spagat</surname><given-names>M</given-names></name></person-group><article-title>Violent deaths of Iraqi civilians, 2003-2008: analysis by perpetrator, weapon, time, and location</article-title><source>PLoS Med</source><year>2011</year><volume>8</volume><issue>2</issue><fpage>e1000415</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.plos.org/10.1371/journal.pmed.1000415"/></comment><pub-id pub-id-type="doi">10.1371/journal.pmed.1000415</pub-id><pub-id pub-id-type="medline">21358813</pub-id><!--<pub-id pub-id-type="pmcid">PMC3039690</pub-id>--><pub-id pub-id-type="pmid">21358813</pub-id></element-citation></ref><ref id="ref5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hicks</surname><given-names>MH</given-names></name><name><surname>Dardagan</surname><given-names>H</given-names></name><name><surname>Bagnall</surname><given-names>PM</given-names></name><name><surname>Spagat</surname><given-names>M</given-names></name><name><surname>Sloboda</surname><given-names>JA</given-names></name></person-group><article-title>Casualties in civilians and coalition soldiers from suicide bombings in Iraq, 2003-10: a descriptive study</article-title><source>Lancet</source><year>2011</year><month>9</month><day>3</day><volume>378</volume><issue>9794</issue><fpage>906</fpage><lpage>14</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(11)61023-4</pub-id><pub-id pub-id-type="medline">21890055</pub-id><!--<pub-id pub-id-type="pii">S0140-6736(11)61023-4</pub-id>--><pub-id pub-id-type="pmid">21890055</pub-id></element-citation></ref><ref id="ref6"><label>6</label><element-citation publication-type="book"><person-group person-group-type="author"><collab>Geneva Declaration</collab></person-group><source>Global Burden of Armed Violence</source><year>2008</year><date-in-citation>2015-03-04</date-in-citation><publisher-loc>Geneva</publisher-loc><publisher-name>Geneva Declaration Secretariat</publisher-name><comment><ext-link ext-link-type="uri" xlink:href="http://www.genevadeclaration.org/fileadmin/docs/Global-Burden-of-Armed-Violence-full-report.pdf">http://www.genevadeclaration.org/fileadmin/docs/Global-Burden-of-Armed-Violence-full-report.pdf</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6WmMKBz7Z"/></element-citation></ref><ref id="ref7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Webster</surname><given-names>PC</given-names></name></person-group><article-title>Iraq's health system yet to heal from ravages of war</article-title><source>Lancet</source><year>2011</year><month>9</month><day>3</day><volume>378</volume><issue>9794</issue><fpage>863</fpage><lpage>6</lpage><pub-id pub-id-type="medline">21898919</pub-id><pub-id pub-id-type="pmid">21898919</pub-id></element-citation></ref><ref id="ref8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al Sheibani</surname><given-names>BI</given-names></name><name><surname>Hadi</surname><given-names>NR</given-names></name><name><surname>Hasoon</surname><given-names>T</given-names></name></person-group><article-title>Iraq lacks facilities and expertise in emergency medicine</article-title><source>BMJ</source><year>2006</year><month>10</month><day>21</day><volume>333</volume><issue>7573</issue><fpage>847</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/17053243"/></comment><pub-id pub-id-type="doi">10.1136/bmj.38986.476782.68</pub-id><pub-id pub-id-type="medline">17053243</pub-id><!--<pub-id pub-id-type="pii">333/7573/847</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC1618447</pub-id>--><pub-id pub-id-type="pmid">17053243</pub-id></element-citation></ref><ref id="ref9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Burnham</surname><given-names>GM</given-names></name><name><surname>Lafta</surname><given-names>R</given-names></name><name><surname>Doocy</surname><given-names>S</given-names></name></person-group><article-title>Doctors leaving 12 tertiary hospitals in Iraq, 2004-2007</article-title><source>Soc Sci Med</source><year>2009</year><month>7</month><volume>69</volume><issue>2</issue><fpage>172</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1016/j.socscimed.2009.05.021</pub-id><pub-id pub-id-type="medline">19501443</pub-id><!--<pub-id pub-id-type="pii">S0277-9536(09)00304-9</pub-id>--><pub-id pub-id-type="pmid">19501443</pub-id></element-citation></ref><ref id="ref10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schaal</surname><given-names>S</given-names></name><name><surname>Elbert</surname><given-names>T</given-names></name><name><surname>Neuner</surname><given-names>F</given-names></name></person-group><article-title>Narrative exposure therapy versus interpersonal psychotherapy. A pilot randomized controlled trial with Rwandan genocide orphans</article-title><source>Psychother Psychosom</source><year>2009</year><volume>78</volume><issue>5</issue><fpage>298</fpage><lpage>306</lpage><pub-id pub-id-type="doi">10.1159/000229768</pub-id><pub-id pub-id-type="medline">19628958</pub-id><!--<pub-id pub-id-type="pii">000229768</pub-id>--><pub-id pub-id-type="pmid">19628958</pub-id></element-citation></ref><ref id="ref11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Neuner</surname><given-names>F</given-names></name><name><surname>Onyut</surname><given-names>PL</given-names></name><name><surname>Ertl</surname><given-names>V</given-names></name><name><surname>Odenwald</surname><given-names>M</given-names></name><name><surname>Schauer</surname><given-names>E</given-names></name><name><surname>Elbert</surname><given-names>T</given-names></name></person-group><article-title>Treatment of posttraumatic stress disorder by trained lay counselors in an African refugee settlement: a randomized controlled trial</article-title><source>J Consult Clin Psychol</source><year>2008</year><month>8</month><volume>76</volume><issue>4</issue><fpage>686</fpage><lpage>94</lpage><pub-id pub-id-type="doi">10.1037/0022-006X.76.4.686</pub-id><pub-id pub-id-type="medline">18665696</pub-id><!--<pub-id pub-id-type="pii">2008-09736-014</pub-id>--><pub-id pub-id-type="pmid">18665696</pub-id></element-citation></ref><ref id="ref12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Benight</surname><given-names>CC</given-names></name><name><surname>Ruzek</surname><given-names>JI</given-names></name><name><surname>Waldrep</surname><given-names>E</given-names></name></person-group><article-title>Internet interventions for traumatic stress: a review and theoretically based example</article-title><source>J Trauma Stress</source><year>2008</year><month>12</month><volume>21</volume><issue>6</issue><fpage>513</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1002/jts.20371</pub-id><pub-id pub-id-type="medline">19107724</pub-id><pub-id pub-id-type="pmid">19107724</pub-id></element-citation></ref><ref id="ref13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Litz</surname><given-names>BT</given-names></name><name><surname>Engel</surname><given-names>CC</given-names></name><name><surname>Bryant</surname><given-names>RA</given-names></name><name><surname>Papa</surname><given-names>A</given-names></name></person-group><article-title>A randomized, controlled proof-of-concept trial of an Internet-based, therapist-assisted self-management treatment for posttraumatic stress disorder</article-title><source>Am J Psychiatry</source><year>2007</year><month>11</month><volume>164</volume><issue>11</issue><fpage>1676</fpage><lpage>83</lpage><pub-id pub-id-type="doi">10.1176/appi.ajp.2007.06122057</pub-id><pub-id pub-id-type="medline">17974932</pub-id><!--<pub-id pub-id-type="pii">164/11/1676</pub-id>--><pub-id pub-id-type="pmid">17974932</pub-id></element-citation></ref><ref id="ref14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Klein</surname><given-names>B</given-names></name><name><surname>Mitchell</surname><given-names>J</given-names></name><name><surname>Abbott</surname><given-names>J</given-names></name><name><surname>Shandley</surname><given-names>K</given-names></name><name><surname>Austin</surname><given-names>D</given-names></name><name><surname>Gilson</surname><given-names>K</given-names></name><name><surname>Kiropoulos</surname><given-names>L</given-names></name><name><surname>Cannard</surname><given-names>G</given-names></name><name><surname>Redman</surname><given-names>T</given-names></name></person-group><article-title>A therapist-assisted cognitive behavior therapy internet intervention for posttraumatic stress disorder: pre-, post- and 3-month follow-up results from an open trial</article-title><source>J Anxiety Disord</source><year>2010</year><month>8</month><volume>24</volume><issue>6</issue><fpage>635</fpage><lpage>44</lpage><pub-id pub-id-type="doi">10.1016/j.janxdis.2010.04.005</pub-id><pub-id pub-id-type="medline">20447802</pub-id><!--<pub-id pub-id-type="pii">S0887-6185(10)00086-1</pub-id>--><pub-id pub-id-type="pmid">20447802</pub-id></element-citation></ref><ref id="ref15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lange</surname><given-names>A</given-names></name><name><surname>Rietdijk</surname><given-names>D</given-names></name><name><surname>Hudcovicova</surname><given-names>M</given-names></name><name><surname>van de Ven</surname><given-names>J-P</given-names></name><name><surname>Schrieken</surname><given-names>B</given-names></name><name><surname>Emmelkamp</surname><given-names>PMG</given-names></name></person-group><article-title>Interapy: a controlled randomized trial of the standardized treatment of posttraumatic stress through the internet</article-title><source>J Consult Clin Psychol</source><year>2003</year><month>10</month><volume>71</volume><issue>5</issue><fpage>901</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1037/0022-006X.71.5.901</pub-id><pub-id pub-id-type="medline">14516238</pub-id><!--<pub-id pub-id-type="pii">2003-07816-007</pub-id>--><pub-id pub-id-type="pmid">14516238</pub-id></element-citation></ref><ref id="ref16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Knaevelsrud</surname><given-names>C</given-names></name><name><surname>Wagner</surname><given-names>B</given-names></name><name><surname>Karl</surname><given-names>A</given-names></name><name><surname>Mueller</surname><given-names>J</given-names></name></person-group><article-title>New treatment approaches: integrating new media in the treatment of war and torture victims</article-title><source>Torture</source><year>2007</year><volume>17</volume><issue>2</issue><fpage>67</fpage><lpage>78</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.irct.org/Admin/Public/DWSDownload.aspx?File=/Files/Filer/TortureJournal/17_2_2007/art_01.pdf"/></comment><pub-id pub-id-type="medline">17728484</pub-id><!--<pub-id pub-id-type="pii">2007-2.2007-11</pub-id>--><pub-id pub-id-type="pmid">17728484</pub-id></element-citation></ref><ref id="ref17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wagner</surname><given-names>B</given-names></name><name><surname>Knaevelsrud</surname><given-names>C</given-names></name><name><surname>Maercker</surname><given-names>A</given-names></name></person-group><article-title>Internet-based cognitive-behavioral therapy for complicated grief: a randomized controlled trial</article-title><source>Death Stud</source><year>2006</year><month>6</month><volume>30</volume><issue>5</issue><fpage>429</fpage><lpage>53</lpage><pub-id pub-id-type="doi">10.1080/07481180600614385</pub-id><pub-id pub-id-type="medline">16610157</pub-id><pub-id pub-id-type="pmid">16610157</pub-id></element-citation></ref><ref id="ref18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mollica</surname><given-names>RF</given-names></name><name><surname>Wyshak</surname><given-names>G</given-names></name><name><surname>de Marneffe</surname><given-names>D</given-names></name><name><surname>Khuon</surname><given-names>F</given-names></name><name><surname>Lavelle</surname><given-names>J</given-names></name></person-group><article-title>Indochinese versions of the Hopkins Symptom Checklist-25: a screening instrument for the psychiatric care of refugees</article-title><source>Am J Psychiatry</source><year>1987</year><month>4</month><volume>144</volume><issue>4</issue><fpage>497</fpage><lpage>500</lpage><pub-id pub-id-type="medline">3565621</pub-id><pub-id pub-id-type="pmid">3565621</pub-id></element-citation></ref><ref id="ref19"><label>19</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Arnoldi</surname><given-names>J</given-names></name><name><surname>van de Ven</surname><given-names>JP</given-names></name><name><surname>Schrieken</surname><given-names>B</given-names></name><name><surname>Lange</surname><given-names>A</given-names></name></person-group><source>De Risico Taxatielijst-eigenschappen van een kort screeningsintrument Suicide Risk Assessment-a short screening tool [unpublished manuscript University of Amsterdam]</source><year>2000</year><publisher-loc>Amsterdam</publisher-loc><publisher-name>University of Amsterdam</publisher-name></element-citation></ref><ref id="ref20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lange</surname><given-names>A</given-names></name><name><surname>Schrieken</surname><given-names>B</given-names></name><name><surname>Blankers</surname><given-names>M</given-names></name><name><surname>Van de Ven</surname><given-names>JP</given-names></name><name><surname>Slot</surname><given-names>M</given-names></name></person-group><article-title>Constructie en validatie van de Gewaarwordingenlijst (GL) een hulpmiddel bij het signaleren van een verhoogde kans op psychosen</article-title><source>Directieve Therapie</source><year>2000</year><volume>20</volume><fpage>162</fpage><lpage>173</lpage></element-citation></ref><ref id="ref21"><label>21</label><element-citation publication-type="webpage"><source>Ilajnafsy</source><date-in-citation>2015-03-04</date-in-citation><comment><ext-link ext-link-type="uri" xlink:href="http://ilajnafsy.bzfo.de/www/Ilajnafsy.org/">http://ilajnafsy.bzfo.de/www/Ilajnafsy.org/</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6WmLK0PQG"/></element-citation></ref><ref id="ref22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wagner</surname><given-names>B</given-names></name><name><surname>Schulz</surname><given-names>W</given-names></name><name><surname>Knaevelsrud</surname><given-names>C</given-names></name></person-group><article-title>Efficacy of an Internet-based intervention for posttraumatic stress disorder in Iraq: a pilot study</article-title><source>Psychiatry Res</source><year>2012</year><month>1</month><day>30</day><volume>195</volume><issue>1-2</issue><fpage>85</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1016/j.psychres.2011.07.026</pub-id><pub-id pub-id-type="medline">21813187</pub-id><!--<pub-id pub-id-type="pii">S0165-1781(11)00530-0</pub-id>--><pub-id pub-id-type="pmid">21813187</pub-id></element-citation></ref><ref id="ref23"><label>23</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Foa</surname><given-names>EB</given-names></name></person-group><source>The Posttraumatic Diagnostic Scale (PDS) Manual</source><year>1995</year><publisher-loc>Minneapolis</publisher-loc><publisher-name>National Computer Systems</publisher-name></element-citation></ref><ref id="ref24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Norris</surname><given-names>AE</given-names></name><name><surname>Aroian</surname><given-names>KJ</given-names></name></person-group><article-title>Avoidance symptoms and assessment of posttraumatic stress disorder in Arab immigrant women</article-title><source>J Trauma Stress</source><year>2008</year><month>10</month><volume>21</volume><issue>5</issue><fpage>471</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1002/jts.20363</pub-id><pub-id pub-id-type="medline">18956451</pub-id><pub-id pub-id-type="pmid">18956451</pub-id></element-citation></ref><ref id="ref25"><label>25</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Derogatis</surname><given-names>LR</given-names></name></person-group><article-title>SCL-90-R: Self-Report Symptom Inventory</article-title><source>Internationale Skalen f&#x000fc;r Psychiatrie: Collegium Internationale Psychiatriae Scalarum</source><year>1986</year><publisher-loc>Weinheim</publisher-loc><publisher-name>Beltz</publisher-name></element-citation></ref><ref id="ref26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schmidt</surname><given-names>S</given-names></name><name><surname>M&#x000fc;hlan</surname><given-names>H</given-names></name><name><surname>Power</surname><given-names>M</given-names></name></person-group><article-title>The EUROHIS-QOL 8-item index: psychometric results of a cross-cultural field study</article-title><source>Eur J Public Health</source><year>2006</year><month>8</month><volume>16</volume><issue>4</issue><fpage>420</fpage><lpage>8</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://eurpub.oxfordjournals.org/cgi/pmidlookup?view=long&#x00026;pmid=16141303"/></comment><pub-id pub-id-type="doi">10.1093/eurpub/cki155</pub-id><pub-id pub-id-type="medline">16141303</pub-id><!--<pub-id pub-id-type="pii">cki155</pub-id>--><pub-id pub-id-type="pmid">16141303</pub-id></element-citation></ref><ref id="ref27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guillemin</surname><given-names>F</given-names></name><name><surname>Bombardier</surname><given-names>C</given-names></name><name><surname>Beaton</surname><given-names>D</given-names></name></person-group><article-title>Cross-cultural adaptation of health-related quality of life measures: literature review and proposed guidelines</article-title><source>J Clin Epidemiol</source><year>1993</year><month>12</month><volume>46</volume><issue>12</issue><fpage>1417</fpage><lpage>32</lpage><pub-id pub-id-type="medline">8263569</pub-id><pub-id pub-id-type="pmid">8263569</pub-id></element-citation></ref><ref id="ref28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bradley</surname><given-names>R</given-names></name><name><surname>Greene</surname><given-names>J</given-names></name><name><surname>Russ</surname><given-names>E</given-names></name><name><surname>Dutra</surname><given-names>L</given-names></name><name><surname>Westen</surname><given-names>D</given-names></name></person-group><article-title>A multidimensional meta-analysis of psychotherapy for PTSD</article-title><source>Am J Psychiatry</source><year>2005</year><month>2</month><volume>162</volume><issue>2</issue><fpage>214</fpage><lpage>27</lpage><pub-id pub-id-type="doi">10.1176/appi.ajp.162.2.214</pub-id><pub-id pub-id-type="medline">15677582</pub-id><!--<pub-id pub-id-type="pii">162/2/214</pub-id>--><pub-id pub-id-type="pmid">15677582</pub-id></element-citation></ref><ref id="ref29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Everitt</surname><given-names>B</given-names></name><name><surname>Howell</surname><given-names>D</given-names></name></person-group><article-title>Bayesian methods for categorical data</article-title><source>Encyclopedia of Statistics in Behavioral Science</source><year>2005</year><volume>1</volume><fpage>139</fpage><lpage>146</lpage></element-citation></ref><ref id="ref30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Myers</surname><given-names>WR</given-names></name></person-group><article-title>Handling missing data in clinical trials: an overview</article-title><source>Therapeutic Innovation &#x00026; Regulatory Science</source><year>2000</year><month>4</month><day>01</day><volume>34</volume><issue>2</issue><fpage>525</fpage><lpage>533</lpage><pub-id pub-id-type="doi">10.1177/009286150003400221</pub-id></element-citation></ref><ref id="ref31"><label>31</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Cohen</surname><given-names>J</given-names></name></person-group><source>Statistical Power Analysis for the Behavioral Sciences</source><year>1988</year><publisher-loc>Hillsdale, NJ</publisher-loc><publisher-name>L Erlbaum Associates</publisher-name></element-citation></ref><ref id="ref32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jacobson</surname><given-names>NS</given-names></name><name><surname>Truax</surname><given-names>P</given-names></name></person-group><article-title>Clinical significance: a statistical approach to defining meaningful change in psychotherapy research</article-title><source>J Consult Clin Psychol</source><year>1991</year><month>2</month><volume>59</volume><issue>1</issue><fpage>12</fpage><lpage>9</lpage><pub-id pub-id-type="medline">2002127</pub-id><pub-id pub-id-type="pmid">2002127</pub-id></element-citation></ref><ref id="ref33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Devilly</surname><given-names>GJ</given-names></name></person-group><article-title>An approach to psychotherapy toleration: the Distress/Endorsement Validation Scale (DEVS) for clinical outcome studies</article-title><source>J Behav Ther Exp Psychiatry</source><year>2004</year><month>12</month><volume>35</volume><issue>4</issue><fpage>319</fpage><lpage>36</lpage><pub-id pub-id-type="doi">10.1016/j.jbtep.2004.08.001</pub-id><pub-id pub-id-type="medline">15530846</pub-id><!--<pub-id pub-id-type="pii">S0005-7916(04)00068-0</pub-id>--><pub-id pub-id-type="pmid">15530846</pub-id></element-citation></ref><ref id="ref34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lange</surname><given-names>A</given-names></name><name><surname>van de Ven</surname><given-names>JP</given-names></name><name><surname>Schrieken</surname><given-names>B</given-names></name><name><surname>Emmelkamp</surname><given-names>PM</given-names></name></person-group><article-title>Interapy, treatment of posttraumatic stress through the Internet: a controlled trial</article-title><source>J Behav Ther Exp Psychiatry</source><year>2001</year><month>6</month><volume>32</volume><issue>2</issue><fpage>73</fpage><lpage>90</lpage><pub-id pub-id-type="medline">11764063</pub-id><pub-id pub-id-type="pmid">11764063</pub-id></element-citation></ref><ref id="ref35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lange</surname><given-names>A</given-names></name><name><surname>van de Ven</surname><given-names>JP</given-names></name><name><surname>Schrieken</surname><given-names>Bart</given-names></name></person-group><article-title>Interapy: treatment of post-traumatic stress via the internet</article-title><source>Cogn Behav Ther</source><year>2003</year><volume>32</volume><issue>3</issue><fpage>110</fpage><lpage>24</lpage><pub-id pub-id-type="doi">10.1080/16506070302317</pub-id><pub-id pub-id-type="medline">16291543</pub-id><!--<pub-id pub-id-type="pii">QJ498939X39WV1P5</pub-id>--><pub-id pub-id-type="pmid">16291543</pub-id></element-citation></ref><ref id="ref36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Knaevelsrud</surname><given-names>C</given-names></name><name><surname>Maercker</surname><given-names>A</given-names></name></person-group><article-title>Does the quality of the working alliance predict treatment outcome in online psychotherapy for traumatized patients?</article-title><source>J Med Internet Res</source><year>2006</year><volume>8</volume><issue>4</issue><fpage>e31</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2006/4/e31/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.8.4.e31</pub-id><pub-id pub-id-type="medline">17213049</pub-id><!--<pub-id pub-id-type="pii">v8i4e31</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC1794007</pub-id>--><pub-id pub-id-type="pmid">17213049</pub-id></element-citation></ref><ref id="ref37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Knaevelsrud</surname><given-names>C</given-names></name><name><surname>Maercker</surname><given-names>A</given-names></name></person-group><article-title>Internet-based treatment for PTSD reduces distress and facilitates the development of a strong therapeutic alliance: a randomized controlled clinical trial</article-title><source>BMC Psychiatry</source><year>2007</year><volume>7</volume><fpage>13</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-244X/7/13"/></comment><pub-id pub-id-type="doi">10.1186/1471-244X-7-13</pub-id><pub-id pub-id-type="medline">17442125</pub-id><!--<pub-id pub-id-type="pii">1471-244X-7-13</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC1885249</pub-id>--><pub-id pub-id-type="pmid">17442125</pub-id></element-citation></ref><ref id="ref38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wagner</surname><given-names>B</given-names></name><name><surname>Knaevelsrud</surname><given-names>C</given-names></name><name><surname>Maercker</surname><given-names>A</given-names></name></person-group><article-title>Internet-based treatment for complicated grief: concepts and case study</article-title><source>Journal of Loss and Trauma</source><year>2005</year><volume>10</volume><fpage>409</fpage><lpage>432</lpage></element-citation></ref><ref id="ref39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wagner</surname><given-names>B</given-names></name><name><surname>Maercker</surname><given-names>A</given-names></name></person-group><article-title>A 1.5-year follow-up of an Internet-based intervention for complicated grief</article-title><source>J Trauma Stress</source><year>2007</year><month>8</month><volume>20</volume><issue>4</issue><fpage>625</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1002/jts.20230</pub-id><pub-id pub-id-type="medline">17721955</pub-id><pub-id pub-id-type="pmid">17721955</pub-id></element-citation></ref><ref id="ref40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Griffiths</surname><given-names>KM</given-names></name><name><surname>Christensen</surname><given-names>H</given-names></name></person-group><article-title>Review of randomised controlled trials of Internet interventions for mental disorders and related conditions</article-title><source>Clinical Psychologist</source><year>2011</year><volume>10</volume><fpage>16</fpage><lpage>29</lpage></element-citation></ref><ref id="ref41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Titov</surname><given-names>N</given-names></name><name><surname>Andrews</surname><given-names>G</given-names></name><name><surname>Kemp</surname><given-names>A</given-names></name><name><surname>Robinson</surname><given-names>E</given-names></name></person-group><article-title>Characteristics of adults with anxiety or depression treated at an internet clinic: comparison with a national survey and an outpatient clinic</article-title><source>PLoS One</source><year>2010</year><volume>5</volume><issue>5</issue><fpage>e10885</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.plos.org/10.1371/journal.pone.0010885"/></comment><pub-id pub-id-type="doi">10.1371/journal.pone.0010885</pub-id><pub-id pub-id-type="medline">20526371</pub-id><!--<pub-id pub-id-type="pmcid">PMC2878335</pub-id>--><pub-id pub-id-type="pmid">20526371</pub-id></element-citation></ref><ref id="ref42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lampe</surname><given-names>LA</given-names></name></person-group><article-title>Internet-based therapy: too good to be true?</article-title><source>Aust N Z J Psychiatry</source><year>2011</year><month>4</month><volume>45</volume><issue>4</issue><fpage>342</fpage><lpage>3</lpage><pub-id pub-id-type="doi">10.3109/00048674.2011.560138</pub-id><pub-id pub-id-type="medline">21306182</pub-id><pub-id pub-id-type="pmid">21306182</pub-id></element-citation></ref><ref id="ref43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Steel</surname><given-names>Z</given-names></name><name><surname>Chey</surname><given-names>T</given-names></name><name><surname>Silove</surname><given-names>D</given-names></name><name><surname>Marnane</surname><given-names>C</given-names></name><name><surname>Bryant</surname><given-names>RA</given-names></name><name><surname>van</surname><given-names>OM</given-names></name></person-group><article-title>Association of torture and other potentially traumatic events with mental health outcomes among populations exposed to mass conflict and displacement: a systematic review and meta-analysis</article-title><source>JAMA</source><year>2009</year><month>8</month><day>5</day><volume>302</volume><issue>5</issue><fpage>537</fpage><lpage>49</lpage><pub-id pub-id-type="doi">10.1001/jama.2009.1132</pub-id><pub-id pub-id-type="medline">19654388</pub-id><!--<pub-id pub-id-type="pii">302/5/537</pub-id>--><pub-id pub-id-type="pmid">19654388</pub-id></element-citation></ref><ref id="ref44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eysenbach</surname><given-names>Gunther</given-names></name><name><surname>Consort-</surname><given-names>EHEALTHGroup</given-names></name></person-group><article-title>CONSORT-EHEALTH: improving and standardizing evaluation reports of Web-based and mobile health interventions</article-title><source>J Med Internet Res</source><year>2011</year><volume>13</volume><issue>4</issue><fpage>e126</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2011/4/e126/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.1923</pub-id><pub-id pub-id-type="medline">22209829</pub-id><!--<pub-id pub-id-type="pii">v13i4e126</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3278112</pub-id>--><pub-id pub-id-type="pmid">22209829</pub-id></element-citation></ref></ref-list></back></article>

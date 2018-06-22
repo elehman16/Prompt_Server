@@ -1,0 +1,943 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7634</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29533000</article-id><article-id pub-id-type="pmc">5911578</article-id><article-id pub-id-type="doi">10.1002/cam4.1337</article-id><article-id pub-id-type="publisher-id">CAM41337</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Cancer Research</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Ibrutinib versus rituximab in relapsed or refractory chronic lymphocytic leukemia or small lymphocytic lymphoma: a randomized, open&#x02010;label phase 3 study</article-title><alt-title alt-title-type="left-running-head">X. Huang et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="cam41337-cr-0001" contrib-type="author" corresp="yes"><name><surname>Huang</surname><given-names>Xiaojun</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1906-5819</contrib-id><address><email>xjhrm@medmail.com.cn</email></address><xref ref-type="aff" rid="cam41337-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam41337-cr-0002" contrib-type="author"><name><surname>Qiu</surname><given-names>Lugui</given-names></name><xref ref-type="aff" rid="cam41337-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41337-cr-0003" contrib-type="author"><name><surname>Jin</surname><given-names>Jie</given-names></name><xref ref-type="aff" rid="cam41337-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam41337-cr-0004" contrib-type="author"><name><surname>Zhou</surname><given-names>Daobin</given-names></name><xref ref-type="aff" rid="cam41337-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cam41337-cr-0005" contrib-type="author"><name><surname>Chen</surname><given-names>Xiequn</given-names></name><xref ref-type="aff" rid="cam41337-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cam41337-cr-0006" contrib-type="author"><name><surname>Hou</surname><given-names>Ming</given-names></name><xref ref-type="aff" rid="cam41337-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cam41337-cr-0007" contrib-type="author"><name><surname>Hu</surname><given-names>Jianda</given-names></name><xref ref-type="aff" rid="cam41337-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="cam41337-cr-0008" contrib-type="author"><name><surname>Hu</surname><given-names>Yu</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2815-4568</contrib-id><xref ref-type="aff" rid="cam41337-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="cam41337-cr-0009" contrib-type="author"><name><surname>Ke</surname><given-names>Xiaoyan</given-names></name><xref ref-type="aff" rid="cam41337-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="cam41337-cr-0010" contrib-type="author"><name><surname>Li</surname><given-names>Junmin</given-names></name><xref ref-type="aff" rid="cam41337-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="cam41337-cr-0011" contrib-type="author"><name><surname>Liang</surname><given-names>Yingmin</given-names></name><xref ref-type="aff" rid="cam41337-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="cam41337-cr-0012" contrib-type="author"><name><surname>Liu</surname><given-names>Ting</given-names></name><xref ref-type="aff" rid="cam41337-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="cam41337-cr-0013" contrib-type="author"><name><surname>Lv</surname><given-names>Yue</given-names></name><xref ref-type="aff" rid="cam41337-aff-0013">
+<sup>13</sup>
+</xref></contrib><contrib id="cam41337-cr-0014" contrib-type="author"><name><surname>Ren</surname><given-names>Hanyun</given-names></name><xref ref-type="aff" rid="cam41337-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cam41337-cr-0015" contrib-type="author"><name><surname>Sun</surname><given-names>Aining</given-names></name><xref ref-type="aff" rid="cam41337-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="cam41337-cr-0016" contrib-type="author"><name><surname>Wang</surname><given-names>Jianmin</given-names></name><xref ref-type="aff" rid="cam41337-aff-0015">
+<sup>15</sup>
+</xref></contrib><contrib id="cam41337-cr-0017" contrib-type="author"><name><surname>Zhao</surname><given-names>Chunting</given-names></name><xref ref-type="aff" rid="cam41337-aff-0016">
+<sup>16</sup>
+</xref></contrib><contrib id="cam41337-cr-0018" contrib-type="author"><name><surname>Salman</surname><given-names>Mariya</given-names></name><xref ref-type="aff" rid="cam41337-aff-0017">
+<sup>17</sup>
+</xref></contrib><contrib id="cam41337-cr-0019" contrib-type="author"><name><surname>Sun</surname><given-names>Steven</given-names></name><xref ref-type="aff" rid="cam41337-aff-0017">
+<sup>17</sup>
+</xref></contrib><contrib id="cam41337-cr-0020" contrib-type="author"><name><surname>Howes</surname><given-names>Angela</given-names></name><xref ref-type="aff" rid="cam41337-aff-0018">
+<sup>18</sup>
+</xref></contrib><contrib id="cam41337-cr-0021" contrib-type="author"><name><surname>Wang</surname><given-names>Jingzhao</given-names></name><xref ref-type="aff" rid="cam41337-aff-0019">
+<sup>19</sup>
+</xref></contrib><contrib id="cam41337-cr-0022" contrib-type="author"><name><surname>Wu</surname><given-names>Peng</given-names></name><xref ref-type="aff" rid="cam41337-aff-0019">
+<sup>19</sup>
+</xref></contrib><contrib id="cam41337-cr-0023" contrib-type="author"><name><surname>Li</surname><given-names>Jianyong</given-names></name><xref ref-type="aff" rid="cam41337-aff-0020">
+<sup>20</sup>
+</xref></contrib></contrib-group><aff id="cam41337-aff-0001">
+<label><sup>1</sup></label>
+<institution>Peking University People's Hospital</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institute of Hematology &#x00026; Blood Diseases Hospital</named-content>
+<institution>Chinese Academy of Medical Sciences</institution>
+<named-content content-type="city">Tianjin</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">The First Affiliated Hospital</named-content>
+<institution>Zhejiang University College of Medicine</institution>
+<named-content content-type="city">Zhejiang</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0004">
+<label><sup>4</sup></label>
+<institution>Peking Union Medical College Hospital</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0005">
+<label><sup>5</sup></label>
+<institution>Xijing Hospital</institution>
+<named-content content-type="city">Shanxi</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0006">
+<label><sup>6</sup></label>
+<institution>Qilu Hospital of Shandong University</institution>
+<named-content content-type="city">Jinan</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0007">
+<label><sup>7</sup></label>
+<institution>Fujian Medical University Union Hospital</institution>
+<named-content content-type="city">Fuzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0008">
+<label><sup>8</sup></label>
+<institution>Wuhan Union Hospital</institution>
+<named-content content-type="city">Wuhan</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0009">
+<label><sup>9</sup></label>
+<institution>Peking University Third Hospital</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0010">
+<label><sup>10</sup></label>
+<institution>Ruijin Hospital</institution>
+<named-content content-type="city">Shanghai</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0011">
+<label><sup>11</sup></label>
+<institution>Tangdu Hospital</institution>
+<named-content content-type="city">Shanxi</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0012">
+<label><sup>12</sup></label>
+<institution>West China Hospital</institution>
+<named-content content-type="city">Chengdu</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0013">
+<label><sup>13</sup></label>
+<institution>Sun Yat&#x02010;Sen University Cancer Center</institution>
+<named-content content-type="city">Guangzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0014">
+<label><sup>14</sup></label>
+<institution>The First Affiliated Hospital of Soochow University</institution>
+<named-content content-type="city">Suzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0015">
+<label><sup>15</sup></label>
+<named-content content-type="organisation-division">Changhai Hospital</named-content>
+<institution>The Second Military Medical University</institution>
+<named-content content-type="city">Shanghai</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0016">
+<label><sup>16</sup></label>
+<institution>The Affiliated Hospital of Qingdao University Medical College</institution>
+<named-content content-type="city">Qingdao</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0017">
+<label><sup>17</sup></label>
+<institution>Janssen Research &#x00026; Development</institution>
+<named-content content-type="city">Raritan</named-content>
+<named-content content-type="country-part">New Jersey</named-content>
+</aff><aff id="cam41337-aff-0018">
+<label><sup>18</sup></label>
+<institution>Janssen Research &#x00026; Development</institution>
+<named-content content-type="city">High Wycombe</named-content>
+<country country="GB">UK</country>
+</aff><aff id="cam41337-aff-0019">
+<label><sup>19</sup></label>
+<institution>Janssen China Research &#x00026; Development Center</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41337-aff-0020">
+<label><sup>20</sup></label>
+<institution>Jiangsu Province Hospital</institution>
+<named-content content-type="city">Nanjing</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Xiaojun Huang, Peking University People's Hospital, No. 11 Xizhimen South Street, Beijing 100044, China. Tel: +86 10&#x02010;8832&#x02010;4914; Fax: +86 10&#x02010;8832&#x02010;4577; E&#x02010;mail: <email>xjhrm@medmail.com.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>3</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2018</year></pub-date><volume>7</volume><issue>4</issue><issue-id pub-id-type="doi">10.1002/cam4.2018.7.issue-4</issue-id><fpage>1043</fpage><lpage>1055</lpage><history><date date-type="received"><day>22</day><month>9</month><year>2017</year></date><date date-type="rev-recd"><day>18</day><month>12</month><year>2017</year></date><date date-type="accepted"><day>19</day><month>12</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Cancer Medicine</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:CAM4-7-1043.pdf"/><abstract id="cam41337-abs-0001"><title>Abstract</title><p>In the Asia&#x02010;Pacific region, treatment options are limited for patients with relapsed/refractory chronic lymphocytic leukemia (<styled-content style="fixed-case">CLL</styled-content>)/small lymphocytic lymphoma (<styled-content style="fixed-case">SLL</styled-content>). Rituximab is widely used in this setting when purine analog&#x02010;based therapies are not appropriate. We evaluated the efficacy and safety of ibrutinib compared with rituximab in a randomized, open&#x02010;label phase 3 study in predominantly Asian patients with relapsed/refractory <styled-content style="fixed-case">CLL</styled-content>/<styled-content style="fixed-case">SLL</styled-content>. Patients (<italic>N</italic>&#x000a0;=&#x000a0;160) were randomly assigned 2:1 to receive 420&#x000a0;mg ibrutinib (<italic>n</italic>&#x000a0;=&#x000a0;106) until disease progression (<styled-content style="fixed-case">PD</styled-content>) or unacceptable toxicity or up to six cycles of rituximab (<italic>n</italic>&#x000a0;=&#x000a0;54). The primary endpoint was investigator&#x02010;assessed progression&#x02010;free survival (<styled-content style="fixed-case">PFS</styled-content>); key secondary endpoints were overall response rate (<styled-content style="fixed-case">ORR</styled-content>), overall survival (<styled-content style="fixed-case">OS</styled-content>), and safety. Rituximab&#x02010;treated patients could crossover to receive ibrutinib after confirmed <styled-content style="fixed-case">PD</styled-content>. At data cutoff, median treatment duration was 16.4&#x000a0;months for ibrutinib and 4.6&#x000a0;months for rituximab. Ibrutinib significantly improved <styled-content style="fixed-case">PFS</styled-content> (hazard ratio [<styled-content style="fixed-case">HR</styled-content>]&#x000a0;=&#x000a0;0.180, 95% confidence interval [<styled-content style="fixed-case">CI</styled-content>]: 0.105&#x02013;0.308). <styled-content style="fixed-case">ORR</styled-content> was significantly higher (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.0001) with ibrutinib (53.8%) than with rituximab (7.4%). At a median follow&#x02010;up of 17.8&#x000a0;months, ibrutinib improved <styled-content style="fixed-case">OS</styled-content> compared with rituximab (<styled-content style="fixed-case">HR</styled-content>&#x000a0;=&#x000a0;0.446; 95% <styled-content style="fixed-case">CI</styled-content>: 0.221&#x02013;0.900; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.0206). Overall incidence of adverse events (<styled-content style="fixed-case">AE</styled-content>s) was similar between treatments and was not exposure&#x02010;adjusted. With ibrutinib, most common <styled-content style="fixed-case">AE</styled-content>s were diarrhea and platelet count decreased; with rituximab, most common <styled-content style="fixed-case">AE</styled-content>s were neutrophil count decreased and platelet count decreased. Grade &#x02265;3 <styled-content style="fixed-case">AE</styled-content>s were reported in 82.7% of ibrutinib&#x02010;treated patients and 59.6% of rituximab&#x02010;treated patients. Ibrutinib improved <styled-content style="fixed-case">PFS</styled-content>,<styled-content style="fixed-case"> ORR</styled-content>, and <styled-content style="fixed-case">OS</styled-content> compared with rituximab and displayed a manageable safety profile in Asian patients with relapsed/refractory <styled-content style="fixed-case">CLL</styled-content>/<styled-content style="fixed-case">SLL</styled-content>.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cam41337-kwd-0001">Asia&#x02010;Pacific</kwd><kwd id="cam41337-kwd-0002">chronic lymphocytic leukemia</kwd><kwd id="cam41337-kwd-0003">ibrutinib</kwd><kwd id="cam41337-kwd-0004">rituximab</kwd><kwd id="cam41337-kwd-0005">small lymphocytic lymphoma</kwd></kwd-group><funding-group><award-group><funding-source>Janssen Research and Development</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="4"/><page-count count="13"/><word-count count="9309"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cam41337</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.4 mode:remove_FC converted:23.04.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="cam41337-cit-2019">
+<source>Cancer Medicine</source>
+<year>2018</year>; 7(4):<fpage>1043</fpage>&#x02013;<lpage>1055</lpage>
+</mixed-citation>
+</p></notes></front><body><sec id="cam41337-sec-0001"><title>Introduction</title><p>Chronic lymphocytic leukemia (CLL) is the most common adult leukemia in the Western world with an estimated incidence of 4.2 cases per 100,000/year <xref rid="cam41337-bib-0001" ref-type="ref">1</xref>. The incidence rate in Asia is lower at &#x0003c;1 case per 100,000/year <xref rid="cam41337-bib-0002" ref-type="ref">2</xref>, <xref rid="cam41337-bib-0003" ref-type="ref">3</xref>, <xref rid="cam41337-bib-0004" ref-type="ref">4</xref>, <xref rid="cam41337-bib-0005" ref-type="ref">5</xref>. It is unknown whether this difference is related to environmental or genetic factors, but patients of Asian descent who live in Western countries also show a lower incidence of CLL <xref rid="cam41337-bib-0006" ref-type="ref">6</xref>, <xref rid="cam41337-bib-0007" ref-type="ref">7</xref>, suggesting the importance of genetics in disease risk. The frequency of chromosomal aberrations and mutations associated with CLL is similar between Asian and Western patients <xref rid="cam41337-bib-0008" ref-type="ref">8</xref>, <xref rid="cam41337-bib-0009" ref-type="ref">9</xref>, <xref rid="cam41337-bib-0010" ref-type="ref">10</xref>, <xref rid="cam41337-bib-0011" ref-type="ref">11</xref>. A slightly higher prevalence of mutated immunoglobulin heavy chain variable region (IGVH) has been associated with Chinese patients <xref rid="cam41337-bib-0008" ref-type="ref">8</xref>, <xref rid="cam41337-bib-0012" ref-type="ref">12</xref>, and studies in Japanese and Korean patients show an increased frequency of CLL with atypical immunophenotypes <xref rid="cam41337-bib-0013" ref-type="ref">13</xref>, <xref rid="cam41337-bib-0014" ref-type="ref">14</xref>. Although there may be differences in genetic and pathological features of CLL, the efficacy of CLL treatments in Asian and Western patients has been comparable <xref rid="cam41337-bib-0015" ref-type="ref">15</xref>, <xref rid="cam41337-bib-0016" ref-type="ref">16</xref>, <xref rid="cam41337-bib-0017" ref-type="ref">17</xref>.</p><p>Advances in targeted therapies for CLL/small lymphocytic lymphoma (SLL) have led to remarkable improvements in clinical outcomes. However, in the Asia&#x02010;Pacific region, available treatment options are limited, especially in the relapsed/refractory (R/R) setting. The standard treatment for CLL/SLL is chemoimmunotherapy in young or fit patients <xref rid="cam41337-bib-0001" ref-type="ref">1</xref>, <xref rid="cam41337-bib-0018" ref-type="ref">18</xref>, but elderly patients and patients with comorbidities are often unable to tolerate the aggressive regimens and experience poor clinical outcomes <xref rid="cam41337-bib-0019" ref-type="ref">19</xref>. Moreover, patients with genetic aberrations associated with high&#x02010;risk CLL/SLL, including the 17p deletion (del17p), respond poorly to standard chemoimmunotherapy <xref rid="cam41337-bib-0020" ref-type="ref">20</xref>, <xref rid="cam41337-bib-0021" ref-type="ref">21</xref>. For these difficult&#x02010;to&#x02010;treat patients who are not appropriate candidates for traditional chemotherapy approaches, treatment options in China were limited to rituximab and lenalidomide/thalidomide.</p><p>Ibrutinib is a potent covalent inhibitor of Bruton's tyrosine kinase, a key component of B&#x02010;cell signaling that plays an important role in B&#x02010;cell development, survival, and function <xref rid="cam41337-bib-0022" ref-type="ref">22</xref>. Ibrutinib is approved in the United States and Europe for the treatment of mantle cell lymphoma (in patients who have received &#x02265;1 prior therapy), CLL/SLL, Waldenstr&#x000f6;m's macroglobulinemia, and marginal zone lymphoma (US only) <xref rid="cam41337-bib-0023" ref-type="ref">23</xref>, <xref rid="cam41337-bib-0024" ref-type="ref">24</xref>. Recently, ibrutinib was approved in China for the treatment of CLL/SLL and mantle cell lymphoma. Based on the unprecedented improvements in progression&#x02010;free survival (PFS) and overall survival (OS) observed with single&#x02010;agent ibrutinib in R/R CLL, the National Comprehensive Cancer Network (NCCN) recommended single&#x02010;agent ibrutinib as a category 1 recommendation in the R/R setting regardless of del17p status <xref rid="cam41337-bib-0018" ref-type="ref">18</xref>.</p><p>At the time this study was initiated, the efficacy of single&#x02010;agent ibrutinib had only been demonstrated in a phase 2 study in the United States, which largely enrolled white patients <xref rid="cam41337-bib-0025" ref-type="ref">25</xref>. We conducted a study to determine whether ibrutinib could demonstrate comparable safety and efficacy in a predominantly Asian population of patients. At the time this study was conducted, ibrutinib was not approved in any of the countries that participated in the trial. This study also overlapped with a global study which compared ibrutinib with ofatumumab in a similar R/R CLL/SLL population <xref rid="cam41337-bib-0026" ref-type="ref">26</xref>. Because of the lack of standard treatment and the limited treatment options for R/R CLL/SLL in the Asia&#x02010;Pacific region, rituximab monotherapy is widely used in China for treatment of patients with R/R CLL/SLL for whom purine analog&#x02010;based therapies are not suitable.</p><p>Rituximab is an anti&#x02010;CD20 chimeric monoclonal antibody capable of inducing antibody&#x02010;dependent cell&#x02010;mediated cytotoxicity and complement&#x02010;dependent cytotoxicity <xref rid="cam41337-bib-0027" ref-type="ref">27</xref>. Although rituximab monotherapy is not considered a preferred treatment option for first&#x02010;line or R/R CLL/SLL, it was a reasonable choice as a comparator based on the limited treatment options available at the time this study was initiated. Rituximab is listed as a treatment option for patients unable to tolerate purine analog therapy in the NCCN treatment guidelines <xref rid="cam41337-bib-0018" ref-type="ref">18</xref> and has been the comparator in another global study of a B&#x02010;cell signaling inhibitor <xref rid="cam41337-bib-0028" ref-type="ref">28</xref>. In other global regions, rituximab monotherapy is a commonly prescribed treatment option in the R/R setting <xref rid="cam41337-bib-0029" ref-type="ref">29</xref>, <xref rid="cam41337-bib-0030" ref-type="ref">30</xref>, <xref rid="cam41337-bib-0031" ref-type="ref">31</xref>, <xref rid="cam41337-bib-0032" ref-type="ref">32</xref>, <xref rid="cam41337-bib-0033" ref-type="ref">33</xref>. A real&#x02010;world analysis using the 2007&#x02013;2013 SEER&#x02010;Medicare database in the United States showed that rituximab monotherapy was used as second&#x02010;line therapy in 30.5% of patients <xref rid="cam41337-bib-0029" ref-type="ref">29</xref>. Here, we report our findings from a randomized, single&#x02010;agent, open&#x02010;label, multicenter, phase 3 study comparing the efficacy and safety of ibrutinib with rituximab in a predominantly Asian population of patients with R/R CLL/SLL.</p></sec><sec id="cam41337-sec-0002"><title>Materials and Methods</title><sec id="cam41337-sec-0003"><title>Patients</title><p>This randomized, open&#x02010;label, multicenter, phase 3 study was conducted at 29 sites in China, Australia, Taiwan, and Malaysia (<ext-link ext-link-type="uri" xlink:href="http://www.ClinicalTrials.gov">http://www.ClinicalTrials.gov</ext-link>; NCT01973387). Eligible patients were &#x02265;18&#x000a0;years with a diagnosis of active CLL/SLL that required treatment according to the International Workshop on Chronic Lymphocytic Leukemia (IWCLL) 2008 criteria <xref rid="cam41337-bib-0034" ref-type="ref">34</xref>, received at least 1 prior therapy for CLL/SLL, and were not considered appropriate candidates for purine analog&#x02010;based therapy. Additional inclusion and exclusion criteria are described in the Appendix <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="cam41337-sec-0004"><title>Study design</title><p>Patients were randomly assigned 2:1 to receive 420&#x000a0;mg oral ibrutinib once daily or intravenous rituximab. Randomization was stratified by purine analog refractory status (yes or no) and the presence of del17p (yes or no). Patients were assigned to a treatment group between 26 December 2013 and 15 September 2015 using an interactive web response system. Rituximab was administered at 375&#x000a0;mg/m<sup>2</sup> on day 1 and 500&#x000a0;mg/m<sup>2</sup> on day 15 of cycle 1; 500&#x000a0;mg/m<sup>2</sup> on days 1 and 15 for cycle 2; and 500&#x000a0;mg/m<sup>2</sup> on day 1 of cycles 3&#x02013;6. Rituximab dosing was based on the dosing regimen used in fludarabine, cyclophosphamide, and rituximab therapy and similar to the dosing schedule used in a previously reported study of single&#x02010;agent rituximab in patients with relapsed CLL <xref rid="cam41337-bib-0028" ref-type="ref">28</xref>.</p><p>The study consisted of three phases: a screening phase, treatment phase, and follow&#x02010;up phase (Fig. <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S1</xref>). Patients were screened for eligibility up to 28&#x000a0;days prior to randomization. The treatment phase extended from randomization until study drug discontinuation. Patients received daily ibrutinib until PD or unacceptable toxicity. Patients received up to six cycles of rituximab until disease progression or unacceptable toxicity, whichever occurred first. The follow&#x02010;up phase consisted of two phases: the post&#x02010;treatment phase and a postdisease progression phase. The post&#x02010;treatment phase extended from the discontinuation of treatment (for reasons other than PD) until PD, at which point the postdisease progression phase began. During the postdisease progression phase, subsequent anticancer therapies and survival status were recorded until death, loss to follow&#x02010;up, withdrawal of consent, or study closure.</p><p>The primary endpoint was investigator&#x02010;assessed PFS, defined as the time from randomization until PD per IWCLL 2008 criteria <xref rid="cam41337-bib-0034" ref-type="ref">34</xref> or death, whichever occurred first. The criteria for PD are described in the Appendix <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S1</xref>. Key secondary endpoints were ORR, OS, pharmacokinetics (PK) in Chinese patients, and safety.</p><p>Assessments for response and progression for both treatment arms were conducted until PD in accordance with the IWCLL 2008 criteria; treatment&#x02010;related lymphocytosis was not considered as PD per IWCLL guidelines <xref rid="cam41337-bib-0035" ref-type="ref">35</xref>. The criteria for response categories are described in the Appendix <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S1</xref> and in Table <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S1</xref>. Safety assessments included adverse events (AEs), physical examination, laboratory tests, and vital signs.</p><p>Following an amendment to the protocol, eligible patients in the rituximab arm who had investigator&#x02010;assessed PD were permitted to cross over to receive ibrutinib after PD was confirmed by a central independent physician (Fig. <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S2</xref>). The study was approved by the institutional review board or independent ethics committee at each site and was conducted in accordance with the principles of the Declaration of Helsinki and the International Conference on Harmonization Good Clinical Practice guidelines. All patients provided written informed consent.</p></sec><sec id="cam41337-sec-0005"><title>Statistical methods</title><p>Approximately 150 patients were planned to be randomized to observe 90 PFS events. The study was designed to detect a hazard ratio (HR) of 0.54 for the ibrutinib arm relative to the rituximab arm with 80% power at a 1&#x02010;sided significance level of 0.025. An interim analysis using O'Brien&#x02010;Fleming boundary for superiority was planned after approximately 45 PFS events. The stopping boundary was implemented by Lan&#x02010;DeMets alpha&#x02010;spending function resembling the O'Brien&#x02010;Fleming boundary using East software, version 6.3 (Cytel, Cambridge, MA, USA) to control the overall 1&#x02010;sided Type I error of 0.025 on the PFS endpoint.</p><p>The intent&#x02010;to&#x02010;treat (ITT) population included all patients randomized into the study and analyzed according to assigned treatment group, regardless of the actual treatment received. The safety population included all patients who received at least one dose of study drug and was analyzed as actual treatment received.</p><p>The primary efficacy analysis of PFS in the ITT population was compared using a stratified log&#x02010;rank test based on the stratification factors. Distribution of PFS was summarized using median and corresponding 95% confidence interval (CI) based on Kaplan&#x02013;Meier estimates. The estimate of the HR and its corresponding 95% CI were calculated using a Cox proportional hazards model stratified by stratification factors. A preplanned subgroup analysis of PFS based on prognostic variables was conducted. An ad hoc analysis of PFS was conducted using a multivariate Cox regression model with all key prognostic factors as covariates: treatment, age, sex, Rai stage at screening, baseline Eastern Cooperative Oncology Group score, prior lines of therapy, chromosome 11q deletion (del11q), bulky disease, refractory to purine analog therapy, and del17p.</p><p>Overall response rate was estimated according to the proportion of responders (complete response [CR] + partial response [PR]) based on the best overall response and summarized by treatment. All responses were confirmed responses, defined as maintained for at least 2&#x000a0;months without transfusion or growth factors. ORR was compared using the Cochran&#x02013;Mantel&#x02013;Haenszel chi&#x02010;square test. Lymph node response rate, which was defined as the proportion of patients who had &#x02265;50% reduction in lymphadenopathy or with all measured lymph nodes normalized, was included as a sensitivity analysis for ORR.</p><p>Overall survival was estimated with deaths due to any cause in the study considered as events. Distribution of OS was summarized for each treatment arm using median and its corresponding 95% CI based on Kaplan&#x02013;Meier estimates. The HR estimate and its corresponding 95% CI were calculated using a Cox proportional hazards model stratified by the stratification factors.</p><p>Adverse events were summarized, and the severity of AEs was graded according to the adult National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.03 or protocol definition. Hematologic AEs were assessed by the IWCLL 2008 criteria <xref rid="cam41337-bib-0034" ref-type="ref">34</xref>.</p></sec></sec><sec id="cam41337-sec-0006"><title>Results</title><sec id="cam41337-sec-0007"><title>Patients</title><p>In total, 160 eligible patients were randomized; 106 patients to the ibrutinib arm and 54 patients to the rituximab arm (Fig. <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S3</xref>). More men (70.6%) were enrolled in the study than women (29.4%), and 85% of patients were Chinese (Table&#x000a0;<xref rid="cam41337-tbl-0001" ref-type="table-wrap">1</xref>). The majority of patients were elderly, with a median age of 66&#x000a0;years (range, 21&#x02013;87&#x000a0;years). A large proportion of patients had advanced&#x02010;stage CLL with high&#x02010;risk clinical features including bulky disease (43.8%), del11q (21.3%), del17p (22.5%), and unmutated IGVH (61.3%; Table&#x000a0;<xref rid="cam41337-tbl-0001" ref-type="table-wrap">1</xref>). Patient demographics and characteristics were generally comparable between treatment groups. Prior monoclonal antibody therapy was received by 36.9% of patients; prior rituximab treatment was received by 32.1% of the ibrutinib arm and 44.4% of the rituximab arm. Patients with &#x02265;3 prior CLL/SLL therapies, Rai stage 1, prior purine analog therapy, bulky disease, hemoglobin &#x02264;11&#x000a0;g/dL, and absolute neutrophil count &#x02264;1500/<italic>&#x003bc;</italic>L were also more prevalent in the rituximab arm (Table&#x000a0;<xref rid="cam41337-tbl-0001" ref-type="table-wrap">1</xref>).</p><table-wrap id="cam41337-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Demographics and baseline disease characteristics (ITT population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="center" valign="top" rowspan="1" colspan="1">Ibrutinib (<italic>n</italic>&#x000a0;=&#x000a0;106)</th><th align="center" valign="top" rowspan="1" colspan="1">Rituximab (<italic>n</italic>&#x000a0;=&#x000a0;54)</th><th align="center" valign="top" rowspan="1" colspan="1">Total (<italic>N</italic>&#x000a0;=&#x000a0;160)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Age</td></tr><tr><td align="left" style="padding-left:10%" colspan="4" rowspan="1">Category, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">&#x0003c;65</td><td align="char" char=" " rowspan="1" colspan="1">52 (49.1)</td><td align="char" char=" " rowspan="1" colspan="1">23 (42.6)</td><td align="char" char=" " rowspan="1" colspan="1">75 (46.9)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">&#x02265;65 to 69</td><td align="char" char=" " rowspan="1" colspan="1">22 (20.8)</td><td align="char" char=" " rowspan="1" colspan="1">12 (22.2)</td><td align="char" char=" " rowspan="1" colspan="1">34 (21.3)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">&#x02265;70</td><td align="char" char=" " rowspan="1" colspan="1">32 (30.2)</td><td align="char" char=" " rowspan="1" colspan="1">19 (35.2)</td><td align="char" char=" " rowspan="1" colspan="1">51 (31.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">63.6 (10.4)</td><td align="char" char=" " rowspan="1" colspan="1">63.6 (13.0)</td><td align="char" char=" " rowspan="1" colspan="1">63.6 (11.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median</td><td align="char" char=" " rowspan="1" colspan="1">65</td><td align="char" char=" " rowspan="1" colspan="1">67</td><td align="char" char=" " rowspan="1" colspan="1">66</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Range</td><td align="char" char=" " rowspan="1" colspan="1">(39, 87)</td><td align="char" char=" " rowspan="1" colspan="1">(21, 86)</td><td align="char" char=" " rowspan="1" colspan="1">(21, 87)</td></tr><tr><td align="left" colspan="4" rowspan="1">Sex, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char=" " rowspan="1" colspan="1">29 (27.4)</td><td align="char" char=" " rowspan="1" colspan="1">18 (33.3)</td><td align="char" char=" " rowspan="1" colspan="1">47 (29.4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char=" " rowspan="1" colspan="1">77 (72.6)</td><td align="char" char=" " rowspan="1" colspan="1">36 (66.7)</td><td align="char" char=" " rowspan="1" colspan="1">113 (70.6)</td></tr><tr><td align="left" colspan="4" rowspan="1">Race, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Chinese</td><td align="char" char=" " rowspan="1" colspan="1">91 (85.8)</td><td align="char" char=" " rowspan="1" colspan="1">45 (83.3)</td><td align="char" char=" " rowspan="1" colspan="1">136 (85.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">White</td><td align="char" char=" " rowspan="1" colspan="1">14 (13.2)</td><td align="char" char=" " rowspan="1" colspan="1">8 (14.8)</td><td align="char" char=" " rowspan="1" colspan="1">22 (13.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Asian, not Chinese</td><td align="char" char=" " rowspan="1" colspan="1">1 (0.9)</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">1 (0.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">1 (1.9)</td><td align="char" char=" " rowspan="1" colspan="1">1 (0.6)</td></tr><tr><td align="left" colspan="4" rowspan="1">Initial diagnosis to randomization (months)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">54.7 (57.8)</td><td align="char" char=" " rowspan="1" colspan="1">64.9 (58.7)</td><td align="char" char=" " rowspan="1" colspan="1">58.1 (58.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median</td><td align="char" char=" " rowspan="1" colspan="1">40.1</td><td align="char" char=" " rowspan="1" colspan="1">45.9</td><td align="char" char=" " rowspan="1" colspan="1">41.1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Range</td><td align="char" char=" " rowspan="1" colspan="1">(0.0, 405.4)</td><td align="char" char=" " rowspan="1" colspan="1">(3.8, 283.5)</td><td align="char" char=" " rowspan="1" colspan="1">(0.0, 405.4)</td></tr><tr><td align="left" colspan="4" rowspan="1">Initial diagnosis, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CLL</td><td align="char" char=" " rowspan="1" colspan="1">100 (94.3)</td><td align="char" char=" " rowspan="1" colspan="1">51 (94.4)</td><td align="char" char=" " rowspan="1" colspan="1">151 (94.4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SLL</td><td align="char" char=" " rowspan="1" colspan="1">6 (5.7)</td><td align="char" char=" " rowspan="1" colspan="1">3 (5.6)</td><td align="char" char=" " rowspan="1" colspan="1">9 (5.6)</td></tr><tr><td align="left" colspan="4" rowspan="1">Baseline Rai stage (CLL only), <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>N</italic>
+</td><td align="char" char=" " rowspan="1" colspan="1">99</td><td align="char" char=" " rowspan="1" colspan="1">51</td><td align="char" char=" " rowspan="1" colspan="1">150</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I</td><td align="char" char=" " rowspan="1" colspan="1">9 (9.1)</td><td align="char" char=" " rowspan="1" colspan="1">11 (21.6)</td><td align="char" char=" " rowspan="1" colspan="1">20 (13.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">II</td><td align="char" char=" " rowspan="1" colspan="1">11 (11.1)</td><td align="char" char=" " rowspan="1" colspan="1">3 (5.9)</td><td align="char" char=" " rowspan="1" colspan="1">14 (9.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III</td><td align="char" char=" " rowspan="1" colspan="1">18 (18.2)</td><td align="char" char=" " rowspan="1" colspan="1">9 (17.6)</td><td align="char" char=" " rowspan="1" colspan="1">27 (18.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">IV</td><td align="char" char=" " rowspan="1" colspan="1">61 (61.6)</td><td align="char" char=" " rowspan="1" colspan="1">28 (54.9)</td><td align="char" char=" " rowspan="1" colspan="1">89 (59.3)</td></tr><tr><td align="left" colspan="4" rowspan="1">Baseline Binet stage (CLL only), <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>N</italic>
+</td><td align="char" char=" " rowspan="1" colspan="1">100</td><td align="char" char=" " rowspan="1" colspan="1">51</td><td align="char" char=" " rowspan="1" colspan="1">151</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">A</td><td align="char" char=" " rowspan="1" colspan="1">2 (2.0)</td><td align="char" char=" " rowspan="1" colspan="1">4 (7.8)</td><td align="char" char=" " rowspan="1" colspan="1">6 (4.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">B</td><td align="char" char=" " rowspan="1" colspan="1">25 (25.0)</td><td align="char" char=" " rowspan="1" colspan="1">10 (19.6)</td><td align="char" char=" " rowspan="1" colspan="1">35 (23.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">C</td><td align="char" char=" " rowspan="1" colspan="1">73 (73.0)</td><td align="char" char=" " rowspan="1" colspan="1">37 (72.5)</td><td align="char" char=" " rowspan="1" colspan="1">110 (72.8)</td></tr><tr><td align="left" colspan="-2" rowspan="1">Prior purine analog therapy, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="char" char=" " rowspan="1" colspan="1">69 (65.1)</td><td align="char" char=" " rowspan="1" colspan="1">42 (77.8)</td><td align="char" char=" " rowspan="1" colspan="1">111 (69.4)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Failed to respond</td><td align="char" char=" " rowspan="1" colspan="1">28 (26.4)</td><td align="char" char=" " rowspan="1" colspan="1">12 (22.2)</td><td align="char" char=" " rowspan="1" colspan="1">40 (25.0)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Relapse &#x0003c;6&#x000a0;months</td><td align="char" char=" " rowspan="1" colspan="1">9 (8.5)</td><td align="char" char=" " rowspan="1" colspan="1">7 (13.0)</td><td align="char" char=" " rowspan="1" colspan="1">16 (10.0)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Relapse &#x02265;6 to &#x0003c;12&#x000a0;months</td><td align="char" char=" " rowspan="1" colspan="1">5 (4.7)</td><td align="char" char=" " rowspan="1" colspan="1">6 (11.1)</td><td align="char" char=" " rowspan="1" colspan="1">11 (6.9)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Relapse &#x02265;12 to &#x0003c;24&#x000a0;months</td><td align="char" char=" " rowspan="1" colspan="1">13 (12.3)</td><td align="char" char=" " rowspan="1" colspan="1">6 (11.1)</td><td align="char" char=" " rowspan="1" colspan="1">19 (11.9)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Relapse &#x02265;24&#x000a0;months</td><td align="char" char=" " rowspan="1" colspan="1">10 (9.4)</td><td align="char" char=" " rowspan="1" colspan="1">9 (16.7)</td><td align="char" char=" " rowspan="1" colspan="1">19 (11.9)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Not evaluable/unknown</td><td align="char" char=" " rowspan="1" colspan="1">4 (3.8)</td><td align="char" char=" " rowspan="1" colspan="1">2 (3.7)</td><td align="char" char=" " rowspan="1" colspan="1">6 (3.8)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">No</td><td align="char" char=" " rowspan="1" colspan="1">37 (34.9)</td><td align="char" char=" " rowspan="1" colspan="1">12 (22.2)</td><td align="char" char=" " rowspan="1" colspan="1">49 (30.6)</td></tr><tr><td align="left" colspan="4" rowspan="1">Number of prior CLL/SLL therapies</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>N</italic>
+</td><td align="char" char=" " rowspan="1" colspan="1">105</td><td align="char" char=" " rowspan="1" colspan="1">54</td><td align="char" char=" " rowspan="1" colspan="1">159</td></tr><tr><td align="left" style="padding-left:10%" colspan="4" rowspan="1">Category, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">1</td><td align="char" char=" " rowspan="1" colspan="1">55 (52.4)</td><td align="char" char=" " rowspan="1" colspan="1">23 (42.6)</td><td align="char" char=" " rowspan="1" colspan="1">78 (49.1)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">2</td><td align="char" char=" " rowspan="1" colspan="1">24 (22.9)</td><td align="char" char=" " rowspan="1" colspan="1">11 (20.4)</td><td align="char" char=" " rowspan="1" colspan="1">35 (22.0)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">&#x02265;3</td><td align="char" char=" " rowspan="1" colspan="1">26 (24.8)</td><td align="char" char=" " rowspan="1" colspan="1">20 (37.0)</td><td align="char" char=" " rowspan="1" colspan="1">46 (28.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">2.0 (1.7)</td><td align="char" char=" " rowspan="1" colspan="1">2.2 (1.4)</td><td align="char" char=" " rowspan="1" colspan="1">2.1 (1.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Prior rituximab treatment, <italic>n</italic> (%)</td><td align="char" char=" " rowspan="1" colspan="1">34 (32.1)</td><td align="char" char=" " rowspan="1" colspan="1">24 (44.4)</td><td align="char" char=" " rowspan="1" colspan="1">58 (36.3)</td></tr><tr><td align="left" colspan="4" rowspan="1">ECOG performance status, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="char" char=" " rowspan="1" colspan="1">54 (50.9)</td><td align="char" char=" " rowspan="1" colspan="1">23 (42.6)</td><td align="char" char=" " rowspan="1" colspan="1">77 (48.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="char" char=" " rowspan="1" colspan="1">52 (49.1)</td><td align="char" char=" " rowspan="1" colspan="1">31 (57.4)</td><td align="char" char=" " rowspan="1" colspan="1">83 (51.9)</td></tr><tr><td align="left" colspan="4" rowspan="1">Bulky disease, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes (&#x02265;5&#x000a0;cm)</td><td align="char" char=" " rowspan="1" colspan="1">42 (39.6)</td><td align="char" char=" " rowspan="1" colspan="1">28 (51.9)</td><td align="char" char=" " rowspan="1" colspan="1">70 (43.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No (&#x0003c;5&#x000a0;cm)</td><td align="char" char=" " rowspan="1" colspan="1">64 (60.4)</td><td align="char" char=" " rowspan="1" colspan="1">26 (48.1)</td><td align="char" char=" " rowspan="1" colspan="1">90 (56.3)</td></tr><tr><td align="left" colspan="4" rowspan="1">Chromosome 11q deletion, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="char" char=" " rowspan="1" colspan="1">22 (20.8)</td><td align="char" char=" " rowspan="1" colspan="1">12 (22.2)</td><td align="char" char=" " rowspan="1" colspan="1">34 (21.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="char" char=" " rowspan="1" colspan="1">84 (79.2)</td><td align="char" char=" " rowspan="1" colspan="1">42 (77.8)</td><td align="char" char=" " rowspan="1" colspan="1">126 (78.8)</td></tr><tr><td align="left" colspan="4" rowspan="1">Chromosome 17p deletion, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="char" char=" " rowspan="1" colspan="1">23 (21.7)</td><td align="char" char=" " rowspan="1" colspan="1">13 (24.1)</td><td align="char" char=" " rowspan="1" colspan="1">36 (22.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="char" char=" " rowspan="1" colspan="1">83 (78.3)</td><td align="char" char=" " rowspan="1" colspan="1">41 (75.9)</td><td align="char" char=" " rowspan="1" colspan="1">124 (77.5)</td></tr><tr><td align="left" colspan="4" rowspan="1">IGVH status, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutated</td><td align="char" char=" " rowspan="1" colspan="1">33 (31.1)</td><td align="char" char=" " rowspan="1" colspan="1">16 (29.6)</td><td align="char" char=" " rowspan="1" colspan="1">49 (30.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unmutated</td><td align="char" char=" " rowspan="1" colspan="1">63 (59.4)</td><td align="char" char=" " rowspan="1" colspan="1">35 (64.8)</td><td align="char" char=" " rowspan="1" colspan="1">98 (61.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unevaluable</td><td align="char" char=" " rowspan="1" colspan="1">10 (9.4)</td><td align="char" char=" " rowspan="1" colspan="1">3 (5.6)</td><td align="char" char=" " rowspan="1" colspan="1">13 (8.1)</td></tr><tr><td align="left" colspan="4" rowspan="1">Cytopenia at baseline<xref ref-type="fn" rid="cam41337-note-0003">a</xref>, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="char" char=" " rowspan="1" colspan="1">82 (77.4)</td><td align="char" char=" " rowspan="1" colspan="1">43 (79.6)</td><td align="char" char=" " rowspan="1" colspan="1">125 (78.1)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Platelet count &#x02264;100,000/<italic>&#x003bc;</italic>L</td><td align="char" char=" " rowspan="1" colspan="1">69 (65.1)</td><td align="char" char=" " rowspan="1" colspan="1">32 (59.3)</td><td align="char" char=" " rowspan="1" colspan="1">101 (63.1)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Hgb &#x02264;11&#x000a0;g/dL</td><td align="char" char=" " rowspan="1" colspan="1">49 (46.2)</td><td align="char" char=" " rowspan="1" colspan="1">32 (59.3)</td><td align="char" char=" " rowspan="1" colspan="1">81 (50.6)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">ANC &#x02264;1500/<italic>&#x003bc;</italic>L</td><td align="char" char=" " rowspan="1" colspan="1">15 (14.2)</td><td align="char" char=" " rowspan="1" colspan="1">18 (33.3)</td><td align="char" char=" " rowspan="1" colspan="1">33 (20.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="char" char=" " rowspan="1" colspan="1">24 (22.6)</td><td align="char" char=" " rowspan="1" colspan="1">11 (20.4)</td><td align="char" char=" " rowspan="1" colspan="1">35 (21.9)</td></tr></tbody></table><table-wrap-foot><fn id="cam41337-note-0002"><p>ANC, absolute neutrophil count; CLL, chronic lymphocytic leukemia; ECOG, Eastern Cooperative Oncology Group; Hgb, hemoglobin; IGVH, immunoglobulin heavy chain variable region; ITT, intent&#x02010;to&#x02010;treat; SD, standard deviation; SLL, small lymphocytic lymphoma.</p></fn><fn id="cam41337-note-0003"><label>a</label><p>Cytopenia defined as platelet count &#x02264;100,000/<italic>&#x003bc;</italic>L, Hgb &#x02264;11&#x000a0;g/dL, or ANC &#x02264;1500/<italic>&#x003bc;</italic>L.</p></fn><fn id="cam41337-note-0004"><p>Percentages were calculated with the number of patients in the ITT analysis set in each treatment group with nonmissing values for that parameter as the denominator.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>In January 2016, a planned interim analysis was conducted after 48 PFS events were observed; the clinical cutoff date was 1 December 2015. The independent data monitoring committee (DMC) reviewed the unblinded safety and efficacy data and confirmed that the prespecified statistical boundary for early efficacy stopping was crossed. The DMC recommended early analysis and stopping of the study for efficacy. We conducted an updated analysis that included follow&#x02010;up data with a cutoff date of 14 April 2016. The data from the updated analysis with longer follow&#x02010;up will be presented here; data from the interim analysis and updated analysis were consistent (Table <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S2</xref>).</p><p>At the data cutoff date of 14 April 2016, 36 patients from the rituximab arm completed all six cycles of treatment. Early treatment discontinuation was reported for 32 (30.2%) ibrutinib&#x02010;treated patients and 16 (29.6%) rituximab&#x02010;treated patients (Fig. <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S3</xref>). The reasons for treatment discontinuation in the ibrutinib arm were AEs (12.3%), PD/relapse (9.4%), withdrawal of consent (5.7%), and death (2.8%); the reasons for treatment discontinuation in the rituximab arm were PD/relapse (9.3%), AEs (7.4%), withdrawal of consent (7.4%), and death (5.6%). Twenty (37.0%) patients in the rituximab arm crossed over to receive next line ibrutinib treatment after confirmed PD. The median duration of exposure (measured from the first date of study drug dose to the last date of study drug dose) was 16.4&#x000a0;months for ibrutinib and 4.6&#x000a0;months for rituximab. Seventy&#x02010;two (67.9%) patients in the ibrutinib arm and no patients in the rituximab arm remained on treatment.</p></sec><sec id="cam41337-sec-0008"><title>Efficacy</title><p>In the updated analysis, 64 PFS events were reported (26 [24.5%] in the ibrutinib arm and 38 [70.4%] in the rituximab arm). PFS was significantly improved for patients in the ibrutinib arm compared with the rituximab arm (HR&#x000a0;=&#x000a0;0.180, 95% CI: 0.105&#x02013;0.308; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.0001). The median PFS was not reached in the ibrutinib arm; median PFS for the rituximab arm was 8.3&#x000a0;months (range, 0&#x02013;22.6&#x000a0;months). At the 18&#x02010;month landmark, the estimated PFS rate in the ibrutinib arm was 74.0%, and in the rituximab arm, it was 11.9% (Fig.&#x000a0;<xref rid="cam41337-fig-0001" ref-type="fig">1</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="cam41337-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(A) Kaplan&#x02013;Meier Curves for Progression&#x02010;Free Survival (ITT Population). The median progression&#x02010;free survival (PFS) was not reached in the ibrutinib arm. The median PFS for the rituximab arm was 8.34&#x000a0;months (95% confidence interval: 8.21&#x02013;9.03&#x000a0;months). (B) Kaplan&#x02013;Meier Curves for Overall Survival (ITT Population). With a median follow&#x02010;up of 17.84&#x000a0;months, overall survival was significantly improved in the ibrutinib arm compared with the rituximab arm.</p></caption><graphic id="nlm-graphic-3" xlink:href="CAM4-7-1043-g001"/></fig><p>The improvement in PFS in the ibrutinib arm compared with the rituximab arm was observed in all subgroups examined (Fig.&#x000a0;<xref rid="cam41337-fig-0002" ref-type="fig">2</xref>). Results from the subgroup analysis were consistent with those observed for the overall population. A multivariate Cox regression analysis of PFS showed that treatment effects remained robust even after controlling for key prognostic factors (Table&#x000a0;<xref rid="cam41337-tbl-0002" ref-type="table-wrap">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="cam41337-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Forest Plot of Progression&#x02010;Free Survival by Subgroup. Hazard ratios (HRs) &#x0003c;1 favor ibrutinib, and HRs greater than 1 favor rituximab. The HR for each subgroup is represented by a black circle, and 95% confidence intervals (CI) are denoted by the brackets. The dotted line represents the HR (0.18) for all patients. ECOG, Eastern Cooperative Oncology Group.</p></caption><graphic id="nlm-graphic-5" xlink:href="CAM4-7-1043-g002"/></fig><table-wrap id="cam41337-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Multivariate cox regression analysis of PFS (ITT population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Model</th><th align="center" valign="top" rowspan="1" colspan="1">HR (95% CI)</th><th align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Treatment group: ibrutinib vs. rituximab</td><td align="char" char=" " rowspan="1" colspan="1">0.178 (0.101&#x02013;0.316)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Age: &#x02265;65 vs. &#x0003c;65</td><td align="char" char=" " rowspan="1" colspan="1">0.706 (0.379&#x02013;1.315)</td><td align="char" char="." rowspan="1" colspan="1">0.2724</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex: male vs. female</td><td align="char" char=" " rowspan="1" colspan="1">1.056 (0.589&#x02013;1.893)</td><td align="char" char="." rowspan="1" colspan="1">0.8548</td></tr><tr><td align="left" rowspan="1" colspan="1">Rai stage at screening: stage 0&#x02010;II vs. stage III&#x02010;IV</td><td align="char" char=" " rowspan="1" colspan="1">0.746 (0.393&#x02013;1.416)</td><td align="char" char="." rowspan="1" colspan="1">0.3706</td></tr><tr><td align="left" rowspan="1" colspan="1">Baseline ECOG: 1 vs. 0</td><td align="char" char=" " rowspan="1" colspan="1">1.305 (0.755&#x02013;2.258)</td><td align="char" char="." rowspan="1" colspan="1">0.3405</td></tr><tr><td align="left" rowspan="1" colspan="1">Prior lines of therapy: &#x0003e;1 vs. 1</td><td align="char" char=" " rowspan="1" colspan="1">1.342 (0.775&#x02013;2.324)</td><td align="char" char="." rowspan="1" colspan="1">0.2943</td></tr><tr><td align="left" rowspan="1" colspan="1">Chromosome 11q deletion: yes vs. no</td><td align="char" char=" " rowspan="1" colspan="1">1.019 (0.538&#x02013;1.929)</td><td align="char" char="." rowspan="1" colspan="1">0.9540</td></tr><tr><td align="left" rowspan="1" colspan="1">Bulky disease: yes vs. no</td><td align="char" char=" " rowspan="1" colspan="1">1.309 (0.779&#x02013;2.199)</td><td align="char" char="." rowspan="1" colspan="1">0.3089</td></tr><tr><td align="left" rowspan="1" colspan="1">Refractory to purine analog therapy: yes vs. no</td><td align="char" char=" " rowspan="1" colspan="1">0.847 (0.467&#x02013;1.536)</td><td align="char" char="." rowspan="1" colspan="1">0.5839</td></tr><tr><td align="left" rowspan="1" colspan="1">Chromosome 17p deletion: yes vs. no</td><td align="char" char=" " rowspan="1" colspan="1">1.012 (0.555&#x02013;1.844)</td><td align="char" char="." rowspan="1" colspan="1">0.9693</td></tr></tbody></table><table-wrap-foot><fn id="cam41337-note-0005"><p>CI, confidence interval; ITT, intent&#x02010;to&#x02010;treat; ECOG, Eastern Cooperative Oncology Group; HR, hazard ratio; PFS, progression&#x02010;free survival.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Overall response rate (CR+PR) was significantly higher for the ibrutinib arm (53.8%) than for the rituximab arm (7.4%; Table&#x000a0;<xref rid="cam41337-tbl-0003" ref-type="table-wrap">3</xref>). The response rate ratio was 7.32 (95% CI: 2.79&#x02013;19.18; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.0001), indicating a significant increase in the chance of response with ibrutinib. CR was achieved in four (3.8%) patients in the ibrutinib arm; no CRs were reported in the rituximab arm. The ORR including PR with lymphocytosis (PRL; CR+PR+PRL) was also significantly higher for the ibrutinib arm (67.9%) than for the rituximab arm (7.4%), with a rate ratio of 9.24 (95% CI: 3.54&#x02013;24.06<italic>; P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.0001).</p><table-wrap id="cam41337-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Summary of overall response rate (ITT population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="center" valign="top" rowspan="1" colspan="1">Ibrutinib (<italic>n</italic>&#x000a0;=&#x000a0;106)</th><th align="center" valign="top" rowspan="1" colspan="1">Rituximab (<italic>n</italic>&#x000a0;=&#x000a0;54)</th><th align="center" valign="top" rowspan="1" colspan="1">Ibrutinib vs. rituximab</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Overall response rate (CR, CRi, nPR, PR)</td><td align="char" char="(" rowspan="1" colspan="1">57 (53.8)</td><td align="char" char="(" rowspan="1" colspan="1">4 (7.4)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Rate ratio (95% CI)<xref ref-type="fn" rid="cam41337-note-0007">a</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">7.32 (2.79&#x02013;19.18)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value<xref ref-type="fn" rid="cam41337-note-0007">a</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Overall response rate including PRL (CR, CRi, nPR, PR, PRL)</td><td align="char" char="(" rowspan="1" colspan="1">72 (67.9)</td><td align="char" char="(" rowspan="1" colspan="1">4 (7.4)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Rate ratio (95% CI)<xref ref-type="fn" rid="cam41337-note-0007">a</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">9.24 (3.54&#x02013;24.06)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value<xref ref-type="fn" rid="cam41337-note-0007">a</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">&#x0003c;0.0001</td></tr><tr><td align="left" colspan="4" rowspan="1">Best overall response</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Complete response</td><td align="char" char="(" rowspan="1" colspan="1">4 (3.8)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Complete response with incomplete marrow recovery</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nodular partial response</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Partial response</td><td align="char" char="(" rowspan="1" colspan="1">53 (50.0)</td><td align="char" char="(" rowspan="1" colspan="1">4 (7.4)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Partial response with lymphocytosis</td><td align="char" char="(" rowspan="1" colspan="1">15 (14.2)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Stable disease</td><td align="char" char="(" rowspan="1" colspan="1">23 (21.7)</td><td align="char" char="(" rowspan="1" colspan="1">43 (79.6)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Progressive disease</td><td align="char" char="(" rowspan="1" colspan="1">1 (0.9)</td><td align="char" char="(" rowspan="1" colspan="1">1 (1.9)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not evaluable</td><td align="char" char="(" rowspan="1" colspan="1">4 (3.8)</td><td align="char" char="(" rowspan="1" colspan="1">1 (1.9)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="char" char="(" rowspan="1" colspan="1">6 (5.7)</td><td align="char" char="(" rowspan="1" colspan="1">5 (9.3)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="cam41337-note-0006"><p>CI, confidence interval; CR, complete response; CRi, complete response with incomplete marrow recovery; ITT, intent&#x02010;to&#x02010;treat; nPR, nodular partial response; PR, partial response; PRL, partial response with lymphocytosis.</p></fn><fn id="cam41337-note-0007"><label>a</label><p>Rate ratio and <italic>P</italic>&#x02010;values for ORR and ORR with PRL are based on Cochran&#x02013;Mantel&#x02013;Haenszel chi&#x02010;square test stratified by two randomization factors: refractory to purine analog therapy (yes or no) and del(17p) (yes or no).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Lymph node response was evaluated as one of the sensitivity analyses for ORR. The proportion of patients with lymph node response was significantly higher in the ibrutinib arm (84.9%) than in the rituximab arm (20.4%); the rate ratio was 4.17 (95% CI: 2.45&#x02013;7.12; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.0001; Fig. <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S4</xref>).</p><p>At data cutoff, 33 deaths were observed at any time on study; 17 (16.0%) patients in the ibrutinib arm and 16 (29.6%) patients in the rituximab arm. With a median follow&#x02010;up of 17.8&#x000a0;months (range, 0.1&#x02013;26.1&#x000a0;months), an improvement in OS was observed in the ibrutinib arm compared with the rituximab arm (HR&#x000a0;=&#x000a0;0.446; 95% CI: 0.221&#x02013;0.900; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.0206; Fig.&#x000a0;<xref rid="cam41337-fig-0001" ref-type="fig">1</xref>B). The estimated 24&#x02010;month OS rate was 79.8% (95% CI: 68.9&#x02013;87.2%) in the ibrutinib arm and 57.6% (95% CI: 36.2&#x02013;74.1%) in the rituximab arm. Of note, 20 (37.0%) patients in the rituximab arm crossed over to receive ibrutinib therapy after confirmed PD.</p><p>Ibrutinib behaved as expected based on previous PK studies <xref rid="cam41337-bib-0024" ref-type="ref">24</xref>, <xref rid="cam41337-bib-0036" ref-type="ref">36</xref>. A summary of ibrutinib PK parameters in Chinese patients is presented in Table <xref rid="cam41337-sup-0001" ref-type="supplementary-material">S3</xref>.</p></sec><sec id="cam41337-sec-0009"><title>Safety</title><p>At data cutoff, the median duration of treatment for the ibrutinib arm was nearly four times as long as the rituximab arm (16.4 vs. 4.6&#x000a0;months, respectively); the incidence of AEs was not adjusted for exposure. All&#x02010;grade AEs were comparable between both arms; grade &#x02265;3 AEs were reported for 82.7% of patients in the ibrutinib arm and 59.6% of patients in the rituximab arm (Table&#x000a0;<xref rid="cam41337-tbl-0004" ref-type="table-wrap">4</xref>). The most common all&#x02010;grade AEs in the ibrutinib arm were diarrhea, platelet count decreased, neutrophil count decreased, and cough. In the rituximab arm, the most common all&#x02010;grade AEs were neutrophil count decreased, platelet count decreased, and pyrexia (Table&#x000a0;<xref rid="cam41337-tbl-0004" ref-type="table-wrap">4</xref>).</p><table-wrap id="cam41337-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Adverse events (safety population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Ibrutinib (<italic>n</italic>&#x000a0;=&#x000a0;104)</th><th colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Rituximab (<italic>n</italic>&#x000a0;=&#x000a0;52)</th></tr><tr style="border-bottom:solid 1px #000000"><th valign="top" rowspan="1" colspan="1">All Grade</th><th valign="top" rowspan="1" colspan="1">Grade &#x02265;3</th><th valign="top" rowspan="1" colspan="1">All Grade</th><th valign="top" rowspan="1" colspan="1">Grade &#x02265;3</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">AEs</td><td align="char" char="(" rowspan="1" colspan="1">103 (99.0)</td><td align="char" char="(" rowspan="1" colspan="1">86 (82.7)</td><td align="char" char="(" rowspan="1" colspan="1">47 (90.4)</td><td align="char" char="(" rowspan="1" colspan="1">31 (59.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Study drug&#x02010;related</td><td align="char" char="(" rowspan="1" colspan="1">95 (91.3)</td><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char="(" rowspan="1" colspan="1">36 (69.2)</td><td align="char" char="(" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Leading to treatment discontinuation</td><td align="char" char="(" rowspan="1" colspan="1">13 (12.5)</td><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char="(" rowspan="1" colspan="1">4 (7.7)</td><td align="char" char="(" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">With outcome of death</td><td align="char" char="(" rowspan="1" colspan="1">9 (8.7)</td><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char="(" rowspan="1" colspan="1">3 (5.8)</td><td align="char" char="(" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Serious AEs</td><td align="char" char="(" rowspan="1" colspan="1">45 (43.3)</td><td align="char" char="(" rowspan="1" colspan="1">41 (39.4)</td><td align="char" char="(" rowspan="1" colspan="1">17 (32.7)</td><td align="char" char="(" rowspan="1" colspan="1">16 (30.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Study drug&#x02010;related</td><td align="char" char="(" rowspan="1" colspan="1">25 (24.0)</td><td align="char" char="(" rowspan="1" colspan="1"/><td align="char" char="(" rowspan="1" colspan="1">10 (19.2)</td><td align="char" char="(" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="5" rowspan="1">AEs occurring in &#x02265;10% of patients</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diarrhea</td><td align="char" char="(" rowspan="1" colspan="1">35 (33.7)</td><td align="char" char="(" rowspan="1" colspan="1">4 (3.8)</td><td align="char" char="(" rowspan="1" colspan="1">3 (5.8)</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Platelet count decreased</td><td align="char" char="(" rowspan="1" colspan="1">31 (29.8)</td><td align="char" char="(" rowspan="1" colspan="1">8 (7.7)</td><td align="char" char="(" rowspan="1" colspan="1">15 (28.8)</td><td align="char" char="(" rowspan="1" colspan="1">3 (5.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Neutrophil count decreased</td><td align="char" char="(" rowspan="1" colspan="1">28 (26.9)</td><td align="char" char="(" rowspan="1" colspan="1">19 (18.3)</td><td align="char" char="(" rowspan="1" colspan="1">21 (40.4)</td><td align="char" char="(" rowspan="1" colspan="1">13 (25.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cough</td><td align="char" char="(" rowspan="1" colspan="1">26 (25.0)</td><td align="char" char="(" rowspan="1" colspan="1">1 (1.0)</td><td align="char" char="(" rowspan="1" colspan="1">4 (7.7)</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pyrexia</td><td align="char" char="(" rowspan="1" colspan="1">25 (24.0)</td><td align="char" char="(" rowspan="1" colspan="1">1 (1.0)</td><td align="char" char="(" rowspan="1" colspan="1">14 (26.9)</td><td align="char" char="(" rowspan="1" colspan="1">1 (1.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Neutropenia</td><td align="char" char="(" rowspan="1" colspan="1">24 (23.1)</td><td align="char" char="(" rowspan="1" colspan="1">17 (16.3)</td><td align="char" char="(" rowspan="1" colspan="1">11 (21.2)</td><td align="char" char="(" rowspan="1" colspan="1">10 (19.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Rash</td><td align="char" char="(" rowspan="1" colspan="1">24 (23.1)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">3 (5.8)</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Upper respiratory tract infection</td><td align="char" char="(" rowspan="1" colspan="1">23 (22.1)</td><td align="char" char="(" rowspan="1" colspan="1">7 (6.7)</td><td align="char" char="(" rowspan="1" colspan="1">6 (11.5)</td><td align="char" char="(" rowspan="1" colspan="1">1 (1.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lung infection</td><td align="char" char="(" rowspan="1" colspan="1">21 (20.2)</td><td align="char" char="(" rowspan="1" colspan="1">17 (16.3)</td><td align="char" char="(" rowspan="1" colspan="1">6 (11.5)</td><td align="char" char="(" rowspan="1" colspan="1">5 (9.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fatigue</td><td align="char" char="(" rowspan="1" colspan="1">20 (19.2)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">6 (11.5)</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Thrombocytopenia</td><td align="char" char="(" rowspan="1" colspan="1">17 (16.3)</td><td align="char" char="(" rowspan="1" colspan="1">5 (4.8)</td><td align="char" char="(" rowspan="1" colspan="1">3 (5.8)</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Anemia</td><td align="char" char="(" rowspan="1" colspan="1">16 (15.4)</td><td align="char" char="(" rowspan="1" colspan="1">2 (1.9)</td><td align="char" char="(" rowspan="1" colspan="1">5 (9.6)</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hemoglobin decreased</td><td align="char" char="(" rowspan="1" colspan="1">15 (14.4)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">6 (11.5)</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nasopharyngitis</td><td align="char" char="(" rowspan="1" colspan="1">15 (14.4)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nausea</td><td align="char" char="(" rowspan="1" colspan="1">15 (14.4)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">1 (1.9)</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Constipation</td><td align="char" char="(" rowspan="1" colspan="1">13 (12.5)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lymphocyte count increased</td><td align="char" char="(" rowspan="1" colspan="1">13 (12.5)</td><td align="char" char="(" rowspan="1" colspan="1">11 (10.6)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Leukocytosis</td><td align="char" char="(" rowspan="1" colspan="1">12 (11.5)</td><td align="char" char="(" rowspan="1" colspan="1">12 (11.5)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mouth ulceration</td><td align="char" char="(" rowspan="1" colspan="1">12 (11.5)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">2 (3.8)</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Vertigo</td><td align="char" char="(" rowspan="1" colspan="1">11 (10.6)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">White blood cell count decreased</td><td align="char" char="(" rowspan="1" colspan="1">6 (5.8)</td><td align="char" char="(" rowspan="1" colspan="1">2 (1.9)</td><td align="char" char="(" rowspan="1" colspan="1">9 (17.3)</td><td align="char" char="(" rowspan="1" colspan="1">3 (5.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Chills</td><td align="char" char="(" rowspan="1" colspan="1">1 (1.0)</td><td align="char" char="(" rowspan="1" colspan="1">0</td><td align="char" char="(" rowspan="1" colspan="1">9 (17.3)</td><td align="char" char="(" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot><fn id="cam41337-note-0008"><p>AE, adverse event.</p></fn><fn id="cam41337-note-0009"><p>Patients with multiple severity ratings for a given AE were counted only once under the maximum toxicity grade. Patients with missing toxicity grades are included in the all&#x02010;grade column.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The incidence of AEs leading to death was similar for both treatments; nine (8.7%) patients in the ibrutinib arm and three (5.8%) patients in the rituximab arm. With ibrutinib, death due to unknown cause and pneumonia was reported in two (1.9%) patients each. Two ibrutinib&#x02010;treated patients had multiple concurrent AEs, none of which could be excluded as cause of death (one patient died of femoral neck fracture, hemolytic anemia, staphylococcal sepsis, and hematoma; one patient died of pneumonia, respiratory failure, sepsis, septic shock, and Richter's transformation to diffuse large B&#x02010;cell lymphoma). The other AEs leading to death in the ibrutinib arm were single occurrences: atrial fibrillation, cerebral infarction, ketoacidosis, and lung infection. The patient who died of atrial fibrillation had multiple confounding factors, including cardiac and respiratory failure. In the rituximab arm, lung infection, cerebral hemorrhage, and viral pneumonia were the causes of the three deaths.</p><p>The incidence of bleeding AEs was 28.8% in the ibrutinib arm and 3.8% in the rituximab arm; most of the events were grade 1&#x02013;2 in severity. Major hemorrhage events occurred in three (2.9%) patients in the ibrutinib arm and one (1.9%) patient in the rituximab arm. All major hemorrhage events were reported as serious AEs. Two bleeding events were fatal (hematoma due to femoral neck fracture in the ibrutinib arm and cerebral hemorrhage in the rituximab arm). Patients who experienced major hemorrhage while on ibrutinib were taking concomitant aspirin at the time they entered the study until the AE was reported.</p><p>Infections were reported in 68.3% of patients in the ibrutinib arm and 40.4% of patients in the rituximab arm. Upper respiratory tract infections (22.1% in the ibrutinib arm and 11.5% in the rituximab arm) and unspecified lung infections (20.2% in the ibrutinib arm and 11.5% in the rituximab arm) were the most frequently reported in both treatment arms (Table&#x000a0;<xref rid="cam41337-tbl-0004" ref-type="table-wrap">4</xref>).</p><p>The incidence of common cytopenic events (neutropenia, thrombocytopenia, anemia, and febrile neutropenia) was similar for both the ibrutinib and rituximab arms (75.0% and 71.2%, respectively). Incidence of grade 3 or 4 neutropenia (combined neutropenia and neutrophil count decreased), thrombocytopenia (combined thrombocytopenia and platelet count decreased), anemia (combined anemia and hemoglobin decreased), and febrile neutropenia were 33.7%, 12.5%, 1.9%, and 2.9%, respectively, in the ibrutinib arm and 44.2%, 5.8%, 0%, and 1.9%, respectively, in the rituximab arm.</p><p>Atrial fibrillation was only reported in the ibrutinib arm; six (5.8%) patients reported atrial fibrillation, which was the most frequently reported cardiac event. One patient experienced atrial fibrillation with cardiac and respiratory failure occurring at the same time, leading to death.</p><p>Adverse events of hypertension were the most frequently reported vascular disorders event (5.8% each for the ibrutinib and rituximab arms). Grade 3 or 4 events were reported in 1.9% of patients in the ibrutinib arm and 1.9% of patients in the rituximab arm.</p><p>Rashes of all grades were reported in 24.0% of patients in the ibrutinib arm and 7.7% of patients in the rituximab arm. All rashes were grade 1 or 2 in severity, with the exception of a grade 3 case of maculopapular rash reported by a patient in the ibrutinib arm. Eye disorder AEs observed in the ibrutinib arm (7.7%) and in the rituximab arm (1.9%) were mostly grade 1 in severity.</p></sec></sec><sec id="cam41337-sec-0010"><title>Discussion</title><p>In this randomized, open&#x02010;label, phase 3 study, ibrutinib significantly improved PFS, ORR, and OS compared with rituximab in patients from the Asia&#x02010;Pacific region with R/R CLL/SLL. Although rituximab monotherapy is not often used today for R/R CLL/SLL, it was a reasonable choice as a comparator based on the limited treatment options available in the region at the time this study was initiated. It is also acknowledged that there are various different rituximab monotherapy doses and schedules which could be used. The study did not utilize the most dose&#x02010;dense schedule available but did use a schedule consistent with the comparator in another global study of a B&#x02010;cell signaling inhibitor <xref rid="cam41337-bib-0028" ref-type="ref">28</xref>.</p><p>Differences in baseline characteristics were observed between the treatment arms. A higher percentage of patients in the rituximab arm had &#x02265;3 prior therapies and prior purine analog therapy. The rituximab arm also had a higher percentage of patients with bulky disease; the difference in the proportion of bulky disease in both arms was random. However, multivariate Cox regression analysis of PFS showed that these differences did not influence treatment outcomes. Ibrutinib showed favorable efficacy in this population of patients with advanced disease and a high proportion of poor prognostic factors.</p><p>The PFS advantage with ibrutinib (&#x0003e;80% reduction in risk of PD or death) is similar to that previously reported for the global study of ibrutinib versus ofatumumab, another anti&#x02010;CD20 antibody, in patients with previously treated CLL <xref rid="cam41337-bib-0026" ref-type="ref">26</xref>. The median PFS with rituximab was longer in our study than previously reported for a similar population <xref rid="cam41337-bib-0028" ref-type="ref">28</xref>. This difference may be due to a lower rate of previous rituximab treatment in our study, as rituximab therapy is not available to all patients in China.</p><p>The investigator&#x02010;assessed ORR in this study is lower than that reported in prior trials with single&#x02010;agent ibrutinib (~70%) <xref rid="cam41337-bib-0025" ref-type="ref">25</xref>, <xref rid="cam41337-bib-0026" ref-type="ref">26</xref>. Because previous studies have shown that the quality of responses improves with longer ibrutinib treatment <xref rid="cam41337-bib-0037" ref-type="ref">37</xref>, <xref rid="cam41337-bib-0038" ref-type="ref">38</xref>, the ORR of ibrutinib is expected to result in continued improvement with longer follow&#x02010;up. Consistent with this, the ORR in the ibrutinib arm from the updated analysis (16.4&#x02010;month median duration of exposure) was higher (53.8%) than that observed at the interim analysis (45.3%; 12.6&#x02010;month median duration of exposure). In addition, ORR including PRL was 67.9% in the ibrutinib arm, indicating that there is further potential for the ORR to increase. Lymph node response was also greater in the ibrutinib arm than in the rituximab arm.</p><p>The rituximab ORR (7.4%) observed in this study is in line with reported rates of 6&#x02013;35% using standard dosing regimens <xref rid="cam41337-bib-0039" ref-type="ref">39</xref>, <xref rid="cam41337-bib-0040" ref-type="ref">40</xref>, <xref rid="cam41337-bib-0041" ref-type="ref">41</xref>, <xref rid="cam41337-bib-0042" ref-type="ref">42</xref>. In the Furman et&#x000a0;al. study of idelalisib and rituximab, an ORR of 13% was observed with rituximab in relapsed CLL. Because of the different populations used in the Furman et&#x000a0;al. study and our study (response evaluable vs. ITT population, respectively), no comparisons can be made.</p><p>Overall survival was significantly improved in the ibrutinib arm compared with the rituximab arm despite the inclusion of 20 (37.0%) rituximab patients who crossed over to receive ibrutinib. The median OS was not reached for the ibrutinib arm and was 26.1&#x000a0;months (95% CI: 17.5&#x02013;26.1) for the rituximab arm.</p><p>Ibrutinib displayed a manageable safety profile which was consistent with results from earlier studies <xref rid="cam41337-bib-0025" ref-type="ref">25</xref>, <xref rid="cam41337-bib-0026" ref-type="ref">26</xref>, <xref rid="cam41337-bib-0043" ref-type="ref">43</xref>. The frequency of treatment discontinuations due to AEs (12.5%) and dose reductions (4.8%) was low. It should be noted that the median duration of treatment was approximately four times longer for ibrutinib than rituximab, and the incidence of AEs was not adjusted for exposure.</p><p>Atrial fibrillation occurred only in the ibrutinib arm (5.8%), and affected patients had comorbidities including hypertension, cardiac conditions, or diabetes. One of eight patients with a history of atrial fibrillation or abnormal heart rhythm developed atrial fibrillation while on the study. In a retrospective database study, 6.1% of patients had a history of atrial fibrillation at the time of CLL diagnosis, and 6.1% of patients without a history of atrial fibrillation at diagnosis had atrial fibrillation during follow&#x02010;up <xref rid="cam41337-bib-0044" ref-type="ref">44</xref>, which is comparable to the incidence observed with ibrutinib in this study. This finding supports the use of ibrutinib in patients with a history of atrial fibrillation or other pre&#x02010;existing risk factors with careful monitoring and dose adjustments.</p><p>The incidence of cytopenic events of any grade was comparable between both treatment groups. Grade 3 or 4 neutropenia was more frequent with rituximab, and grade 3 or 4 thrombocytopenia was more common with ibrutinib. Most of the neutropenia and thrombocytopenia events occurred early in treatment and were manageable with colony stimulating factors or transfusions. Cytopenias are common manifestations of CLL, and clinical laboratory results showed improvements in mean and median platelet and hemoglobin counts over time in both arms.</p><p>In conclusion, this is the first study of ibrutinib in a predominantly Asian population of patients with CLL/SLL and the first study to compare ibrutinib with rituximab. Ibrutinib significantly improved PFS, ORR, and OS compared with rituximab; the results were robust and internally consistent. Ibrutinib displayed a manageable safety profile with no new or unexpected events reported. The findings in this study are consistent with those reported in previous studies of single&#x02010;agent ibrutinib <xref rid="cam41337-bib-0025" ref-type="ref">25</xref>, <xref rid="cam41337-bib-0026" ref-type="ref">26</xref>, <xref rid="cam41337-bib-0043" ref-type="ref">43</xref>, indicating that the efficacy and safety profiles of ibrutinib in Asian patients are comparable to those observed in the general patient population. Together, these data demonstrate the favorable benefit&#x02010;risk profile of ibrutinib for the treatment of R/R CLL/SLL in high&#x02010;risk patients from the Asia&#x02010;Pacific region.</p></sec><sec id="cam41337-sec-0012"><title>Conflict of Interest</title><p>M.S., S.S., A.H., and Jingzhao W. are current employees, and P.W. is a former employee of Janssen Research &#x00026; Development, LLC and declare that, except for income received from their primary employer, no financial support or compensation has been received from any individual or corporate entity over the past three years for research or professional service that could be perceived as constituting a potential conflict of interest. M.S., S.S., and A.H. are shareholders of Johnson &#x00026; Johnson, the parent company of the Janssen companies. L.Q. has received speaker bureau fees from Xi'an Janssen Pharmaceutical Ltd., Roche, and Celgene. X.J., J.J., D.Z., X.C., M.H., J.H., Y.H., X.K., Junmin L., Y. Liang, T.L., Y. Lv, H.R., A.S., Jianmin W., C.Z., and Jianyong L. do not have any potential conflicts of interest to disclose.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cam41337-sup-0001"><caption><p>
+<bold>Appendix S1</bold>. Additional inclusion and exclusion criteria, criteria for disease progression, and criteria for response categories.</p><p>
+<bold>Figure S1</bold>. Diagram of the study design prior to implementation of crossover.</p><p>
+<bold>Figure S2</bold>. Diagram of the study design after implementation of crossover.</p><p>
+<bold>Figure S3</bold>. Patient disposition during the treatment phase.</p><p>
+<bold>Figure S4.</bold> Change in the measured size of lymph nodes from baseline (ITT population).</p><p>
+<bold>Table S1.</bold> IWCLL 2008 response criteria.<sup>1,2</sup>
+</p><p>
+<bold>Table S2.</bold> Summary of PFS, ORR, and OS at the interim analysis (ITT population).</p><p>
+<bold>Table S3.</bold> Summary of ibrutinib PK parameters.</p></caption><media xlink:href="CAM4-7-1043-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cam41337-sec-0011"><title>Acknowledgments</title><p>The authors thank the study participants, without whom this study would never have been accomplished. The authors also thank all the investigators for their participation in the studies that provided these data: China &#x02013; Xiaojun Huang, Xiaoyan Ke, Hanyun Ren, Daobin Zhou, Lugui Qiu, Junmin Li, Jianmin Wang, Jie Jin, Jianyong Li, Aining Sun, Ting Liu, Yu Hu, Yue Lv, Ming Hou, Yingmin Liang, Xiequn Chen, Jianda Hu, Chunting Zhao; Australia &#x02013; Michael F. Leahy, Hanlon Sia, Simon Zhao&#x02010;Xiong He, Ilona Cunningham, Cecily Forsyth; Taiwan &#x02013; Cheng&#x02010;Shyong Chang, Shang&#x02010;Ju Wu, Tsai&#x02010;Yun Chen, Ta&#x02010;Chih Liu; and Malaysia &#x02013; Soo Chin Ng, Gin Gan, Soo Min Lim, Yong Khee Guan. This study was funded by Janssen Research &#x00026; Development. Writing assistance was provided by Tracy T. Cao, PhD (PRA Health Sciences), and editorial support was provided by Namit Ghildyal, PhD (Janssen Research &#x00026; Development). Writing assistance was funded by Janssen Research &#x00026; Development.</p></ack><ref-list content-type="cited-references" id="cam41337-bibl-0001"><title>References</title><ref id="cam41337-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam41337-cit-0001">
+<string-name>
+<surname>Eichhorst</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Robak</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Montserrat</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Ghia</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Hillmen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hallek</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>
+<article-title>Chronic lymphocytic leukaemia: ESMO clinical practice guidelines for diagnosis, treatment and follow&#x02010;up</article-title>. <source>Ann. Oncol.</source>
+<volume>26</volume>(<issue>Suppl. 5</issue>):<fpage>v78</fpage>&#x02013;<lpage>v84</lpage>.<pub-id pub-id-type="pmid">26314781</pub-id></mixed-citation></ref><ref id="cam41337-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam41337-cit-0002">
+<string-name>
+<surname>Chihara</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ito</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Matsuda</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Shibata</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Katsumi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Nakamura</surname>
+</string-name>, et&#x000a0;al. <year>2014</year>
+<article-title>Differences in incidence and trends of haematological malignancies in Japan and the United States</article-title>. <source>Br. J. Haematol.</source>
+<volume>164</volume>:<fpage>536</fpage>&#x02013;<lpage>545</lpage>.<pub-id pub-id-type="pmid">24245986</pub-id></mixed-citation></ref><ref id="cam41337-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam41337-cit-0003">
+<string-name>
+<surname>Redaelli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>B. L.</given-names>
+<surname>Laskin</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Stephens</surname>
+</string-name>, <string-name>
+<given-names>M. F.</given-names>
+<surname>Botteman</surname>
+</string-name>, and <string-name>
+<given-names>C. L.</given-names>
+<surname>Pashos</surname>
+</string-name>. <year>2004</year>
+<article-title>The clinical and epidemiological burden of chronic lymphocytic leukaemia</article-title>. <source>Eur. J. Cancer Care (Engl.)</source>
+<volume>13</volume>:<fpage>279</fpage>&#x02013;<lpage>287</lpage>.<pub-id pub-id-type="pmid">15196232</pub-id></mixed-citation></ref><ref id="cam41337-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam41337-cit-0004">
+<string-name>
+<surname>Yang</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R. P.</given-names>
+<surname>Gale</surname>
+</string-name>, and <string-name>
+<given-names>X. J.</given-names>
+<surname>Huang</surname>
+</string-name>. <year>2015</year>
+<article-title>The mystery of chronic lymphocytic leukemia (CLL): why is it absent in Asians and what does this tell us about etiology, pathogenesis and biology?</article-title>
+<source>Blood Rev.</source>
+<volume>29</volume>:<fpage>205</fpage>&#x02013;<lpage>213</lpage>.<pub-id pub-id-type="pmid">25541495</pub-id></mixed-citation></ref><ref id="cam41337-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam41337-cit-0005">
+<string-name>
+<surname>Yoon</surname>, <given-names>S. O.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Suh</surname>
+</string-name>, <string-name>
+<given-names>D. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Chi</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Jang</surname>
+</string-name>, et&#x000a0;al. <year>2010</year>
+<article-title>Distribution of lymphoid neoplasms in the Republic of Korea: analysis of 5318 cases according to the World Health Organization classification</article-title>. <source>Am. J. Hematol.</source>
+<volume>85</volume>:<fpage>760</fpage>&#x02013;<lpage>764</lpage>.<pub-id pub-id-type="pmid">20806229</pub-id></mixed-citation></ref><ref id="cam41337-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam41337-cit-0006">
+<string-name>
+<surname>Gale</surname>, <given-names>R. P.</given-names>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Cozen</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Goodman</surname>
+</string-name>, <string-name>
+<given-names>F. F.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name>
+<given-names>L.</given-names>
+<surname>Bernstein</surname>
+</string-name>. <year>2000</year>
+<article-title>Decreased chronic lymphocytic leukemia incidence in Asians in Los Angeles County</article-title>. <source>Leuk. Res.</source>
+<volume>24</volume>:<fpage>665</fpage>&#x02013;<lpage>669</lpage>.<pub-id pub-id-type="pmid">10936420</pub-id></mixed-citation></ref><ref id="cam41337-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam41337-cit-0007">
+<string-name>
+<surname>Mak</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ip</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Mang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Dalal</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gerrie</surname>
+</string-name>, et&#x000a0;al. <year>2014</year>
+<article-title>Preservation of lower incidence of chronic lymphocytic leukemia in Chinese residents in British Columbia: a 26&#x02010;year survey from 1983 to 2008</article-title>. <source>Leuk. Lymphoma</source>
+<volume>55</volume>:<fpage>824</fpage>&#x02013;<lpage>827</lpage>.<pub-id pub-id-type="pmid">23909397</pub-id></mixed-citation></ref><ref id="cam41337-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam41337-cit-0008">
+<string-name>
+<surname>Chan</surname>, <given-names>T. S.</given-names>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Del Giudice</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Marinelli</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ilari</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Cafforio</surname>
+</string-name>, et&#x000a0;al. <year>2017</year>
+<article-title>Clinicopathological features and outcome of chronic lymphocytic leukaemia in Chinese patients</article-title>. <source>Oncotarget</source>
+<volume>8</volume>:<fpage>25455</fpage>&#x02013;<lpage>25468</lpage>.<pub-id pub-id-type="pmid">28424415</pub-id></mixed-citation></ref><ref id="cam41337-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam41337-cit-0009">
+<string-name>
+<surname>Dong</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<given-names>L. T.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>D. X.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>H. Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, et&#x000a0;al. <year>2011</year>
+<article-title>The prognostic significance of TP53 mutations in Chinese patients with chronic lymphocytic leukemia is independent of del(17p13)</article-title>. <source>Ann. Hematol.</source>
+<volume>90</volume>:<fpage>709</fpage>&#x02013;<lpage>717</lpage>.<pub-id pub-id-type="pmid">21113594</pub-id></mixed-citation></ref><ref id="cam41337-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam41337-cit-0010">
+<string-name>
+<surname>Lai</surname>, <given-names>Y. Y.</given-names>
+</string-name>, and <string-name>
+<given-names>X. J.</given-names>
+<surname>Huang</surname>
+</string-name>. <year>2011</year>
+<article-title>Cytogenetic characteristics of B cell chronic lymphocytic leukemia in 275 Chinese patients by fluorescence in situ hybridization: a multicenter study</article-title>. <source>Chin. Med. J. (Engl.)</source>
+<volume>124</volume>:<fpage>2417</fpage>&#x02013;<lpage>2422</lpage>.<pub-id pub-id-type="pmid">21933580</pub-id></mixed-citation></ref><ref id="cam41337-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam41337-cit-0011">
+<string-name>
+<surname>Qiu</surname>, <given-names>H. X.</given-names>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X. S.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Y. F.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Xu</surname>
+</string-name>, et&#x000a0;al. <year>2008</year>
+<article-title>Cytogenetic characterisation in Chinese patients with chronic lymphocytic leukemia: a prospective, multicenter study on 143 cases analysed with interphase fluorescence in situ hybridisation</article-title>. <source>Leuk. Lymphoma</source>
+<volume>49</volume>:<fpage>1887</fpage>&#x02013;<lpage>1892</lpage>.<pub-id pub-id-type="pmid">18949612</pub-id></mixed-citation></ref><ref id="cam41337-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam41337-cit-0012">
+<string-name>
+<surname>Marinelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ilari</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Del Giudice</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Cafforio</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Della Starza</surname>
+</string-name>, et&#x000a0;al. <year>2016</year>
+<article-title>Immunoglobulin gene rearrangements in Chinese and Italian patients with chronic lymphocytic leukemia</article-title>. <source>Oncotarget</source>
+<volume>7</volume>:<fpage>20520</fpage>&#x02013;<lpage>20531</lpage>.<pub-id pub-id-type="pmid">26943037</pub-id></mixed-citation></ref><ref id="cam41337-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam41337-cit-0013">
+<string-name>
+<surname>Jang</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<given-names>E. H.</given-names>
+<surname>Yoo</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>W. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>C. W.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Kim</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Chronic lymphocytic leukemia in Korean patients: frequent atypical immunophenotype and relatively aggressive clinical behavior</article-title>. <source>Int. J. Hematol.</source>
+<volume>97</volume>:<fpage>403</fpage>&#x02013;<lpage>408</lpage>.<pub-id pub-id-type="pmid">23400412</pub-id></mixed-citation></ref><ref id="cam41337-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam41337-cit-0014">
+<string-name>
+<surname>Tomomatsu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Isobe</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Oshimi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tabe</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Ishii</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Noguchi</surname>
+</string-name>, et&#x000a0;al. <year>2010</year>
+<article-title>Chronic lymphocytic leukemia in a Japanese population: varied immunophenotypic profile, distinctive usage of frequently mutated IGH gene, and indolent clinical behavior</article-title>. <source>Leuk. Lymphoma</source>
+<volume>51</volume>:<fpage>2230</fpage>&#x02013;<lpage>2239</lpage>.<pub-id pub-id-type="pmid">21067444</pub-id></mixed-citation></ref><ref id="cam41337-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam41337-cit-0015">
+<string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>
+<article-title>Superior efficacy of rituximab&#x02010;based chemoimmunotherapy as an initial therapy in newly diagnosed patients with B cell indolent lymphomas: long&#x02010;term results from a single center in China</article-title>. <source>BMC Cancer</source>
+<volume>15</volume>:<fpage>555</fpage>.<pub-id pub-id-type="pmid">26219471</pub-id></mixed-citation></ref><ref id="cam41337-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam41337-cit-0016">
+<string-name>
+<surname>Ogawa</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ogura</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Ando</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Uchida</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shirasugi</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>A phase I/II study of ofatumumab (GSK1841157) in Japanese and Korean patients with relapsed or refractory B&#x02010;cell chronic lymphocytic leukemia</article-title>. <source>Int. J. Hematol.</source>
+<volume>98</volume>:<fpage>164</fpage>&#x02013;<lpage>170</lpage>.<pub-id pub-id-type="pmid">23846385</pub-id></mixed-citation></ref><ref id="cam41337-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam41337-cit-0017">
+<string-name>
+<surname>Tobinai</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ogura</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Ishizawa</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Munakata</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Uchida</surname>
+</string-name>, et&#x000a0;al. <year>2016</year>
+<article-title>Safety and tolerability of ibrutinib monotherapy in Japanese patients with relapsed/refractory B cell malignancies</article-title>. <source>Int. J. Hematol.</source>
+<volume>103</volume>:<fpage>86</fpage>&#x02013;<lpage>94</lpage>.<pub-id pub-id-type="pmid">26588924</pub-id></mixed-citation></ref><ref id="cam41337-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam41337-cit-0018">
+<string-name>
+<surname>Wierda</surname>, <given-names>W. G.</given-names>
+</string-name>, <string-name>
+<given-names>A. D.</given-names>
+<surname>Zelenetz</surname>
+</string-name>, <string-name>
+<given-names>L. I.</given-names>
+<surname>Gordon</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Abramson</surname>
+</string-name>, <string-name>
+<given-names>R. H.</given-names>
+<surname>Advani</surname>
+</string-name>, <string-name>
+<given-names>C. B.</given-names>
+<surname>Andreadis</surname>
+</string-name>, et&#x000a0;al. <year>2017</year>
+<article-title>NCCN guidelines insights: chronic lymphocytic leukemia/small lymphocytic leukemia, version 1.2017</article-title>. <source>J. Natl. Compr. Canc. Netw.</source>
+<volume>15</volume>:<fpage>293</fpage>&#x02013;<lpage>311</lpage>.<pub-id pub-id-type="pmid">28275031</pub-id></mixed-citation></ref><ref id="cam41337-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam41337-cit-0019">
+<string-name>
+<surname>Lamanna</surname>, <given-names>N.</given-names>
+</string-name>
+<year>2012</year>
+<article-title>Treatment of older patients with chronic lymphocytic leukemia</article-title>. <source>Curr. Hematol. Malig. Rep.</source>
+<volume>7</volume>:<fpage>21</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">22234621</pub-id></mixed-citation></ref><ref id="cam41337-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam41337-cit-0020">
+<string-name>
+<surname>Fischer</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Cramer</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Busch</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Bottcher</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Bahlo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Schubert</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>Bendamustine in combination with rituximab for previously untreated patients with chronic lymphocytic leukemia: a multicenter phase II trial of the German Chronic Lymphocytic Leukemia Study Group</article-title>. <source>J. Clin. Oncol.</source>
+<volume>30</volume>:<fpage>3209</fpage>&#x02013;<lpage>3216</lpage>.<pub-id pub-id-type="pmid">22869884</pub-id></mixed-citation></ref><ref id="cam41337-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam41337-cit-0021">
+<string-name>
+<surname>Hallek</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Fischer</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Fingerle&#x02010;Rowson</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Fink</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Busch</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Mayer</surname>
+</string-name>, et&#x000a0;al. <year>2010</year>
+<article-title>Addition of rituximab to fludarabine and cyclophosphamide in patients with chronic lymphocytic leukaemia: a randomised, open&#x02010;label, phase 3 trial</article-title>. <source>Lancet</source>
+<volume>376</volume>:<fpage>1164</fpage>&#x02013;<lpage>1174</lpage>.<pub-id pub-id-type="pmid">20888994</pub-id></mixed-citation></ref><ref id="cam41337-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam41337-cit-0022">
+<string-name>
+<surname>Buggy</surname>, <given-names>J. J.</given-names>
+</string-name>, and <string-name>
+<given-names>L.</given-names>
+<surname>Elias</surname>
+</string-name>. <year>2012</year>
+<article-title>Bruton tyrosine kinase (BTK) and its role in B&#x02010;cell malignancy</article-title>. <source>Int. Rev. Immunol.</source>
+<volume>31</volume>:<fpage>119</fpage>&#x02013;<lpage>132</lpage>.<pub-id pub-id-type="pmid">22449073</pub-id></mixed-citation></ref><ref id="cam41337-bib-0023"><label>23</label><mixed-citation publication-type="book" id="cam41337-cit-0023">
+<collab collab-type="authors">Janssen&#x02010;Cilag International NV</collab>
+. <year>2016</year>
+<article-title>Imbruvica [summary of product characteristics]</article-title>. <publisher-name>Janssen&#x02010;Cilag International NV</publisher-name>, <publisher-loc>Beerse, Belgium</publisher-loc>.</mixed-citation></ref><ref id="cam41337-bib-0024"><label>24</label><mixed-citation publication-type="book" id="cam41337-cit-0024">
+<collab collab-type="authors">Pharmacyclics LLC</collab>
+. <year>2017</year>
+<article-title>Imbruvica [package insert]</article-title>. <publisher-name>Pharmacyclics LLC</publisher-name>, <publisher-loc>Sunnyvale, CA</publisher-loc>.</mixed-citation></ref><ref id="cam41337-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam41337-cit-0025">
+<string-name>
+<surname>Byrd</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<given-names>R. R.</given-names>
+<surname>Furman</surname>
+</string-name>, <string-name>
+<given-names>S. E.</given-names>
+<surname>Coutre</surname>
+</string-name>, <string-name>
+<given-names>I. W.</given-names>
+<surname>Flinn</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Burger</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Blum</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Targeting BTK with ibrutinib in relapsed chronic lymphocytic leukemia</article-title>. <source>N. Engl. J. Med.</source>
+<volume>369</volume>:<fpage>32</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">23782158</pub-id></mixed-citation></ref><ref id="cam41337-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam41337-cit-0026">
+<string-name>
+<surname>Byrd</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Barrientos</surname>
+</string-name>, <string-name>
+<given-names>N. E.</given-names>
+<surname>Kay</surname>
+</string-name>, <string-name>
+<given-names>N. M.</given-names>
+<surname>Reddy</surname>
+</string-name>, et&#x000a0;al. <year>2014</year>
+<article-title>Ibrutinib versus ofatumumab in previously treated chronic lymphoid leukemia</article-title>. <source>N. Engl. J. Med.</source>
+<volume>371</volume>:<fpage>213</fpage>&#x02013;<lpage>223</lpage>.<pub-id pub-id-type="pmid">24881631</pub-id></mixed-citation></ref><ref id="cam41337-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam41337-cit-0027">
+<string-name>
+<surname>Weiner</surname>, <given-names>G. J.</given-names>
+</string-name>
+<year>2010</year>
+<article-title>Rituximab: mechanism of action</article-title>. <source>Semin. Hematol.</source>
+<volume>47</volume>:<fpage>115</fpage>&#x02013;<lpage>123</lpage>.<pub-id pub-id-type="pmid">20350658</pub-id></mixed-citation></ref><ref id="cam41337-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam41337-cit-0028">
+<string-name>
+<surname>Furman</surname>, <given-names>R. R.</given-names>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Sharman</surname>
+</string-name>, <string-name>
+<given-names>S. E.</given-names>
+<surname>Coutre</surname>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>Cheson</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Pagel</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Hillmen</surname>
+</string-name>, et&#x000a0;al. <year>2014</year>
+<article-title>Idelalisib and rituximab in relapsed chronic lymphocytic leukemia</article-title>. <source>N. Engl. J. Med.</source>
+<volume>370</volume>:<fpage>997</fpage>&#x02013;<lpage>1007</lpage>.<pub-id pub-id-type="pmid">24450857</pub-id></mixed-citation></ref><ref id="cam41337-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam41337-cit-0029">
+<string-name>
+<surname>Mato</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jahnke</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mehra</surname>
+</string-name>, <string-name>
+<given-names>V. P.</given-names>
+<surname>Ladage</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mahler</surname>
+</string-name>, et&#x000a0;al. <year>2016</year>
+<article-title>Characterization of real world survival outcomes among older adults with chronic lymphocytic leukemia receiving second line treatment in the pre novel&#x02010;agents era: an analysis of the 2007&#x02010;2013 SEER&#x02010;Medicare database</article-title>. <source>Blood</source>
+<volume>128</volume>:<fpage>4790</fpage>.</mixed-citation></ref><ref id="cam41337-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam41337-cit-0030">
+<string-name>
+<surname>Ysebaert</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<given-names>B. P.</given-names>
+<surname>Philip</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Stilgenbauer</surname>
+</string-name>. <year>2014</year>
+<article-title>Real&#x02010;world treatment patterns of rituximab usage as single&#x02010;agent therapy or part of combination regimens in chronic lymphocytic leukemia (CLL) in Eu5 countries (UK, France, Germany, Italy, and Spain)</article-title>. <source>Value Health</source>
+<volume>17</volume>:<fpage>A234</fpage>.</mixed-citation></ref><ref id="cam41337-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam41337-cit-0031">
+<string-name>
+<surname>Feinberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Schenkel</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>McBride</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ellis</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Radtchenko</surname>
+</string-name>. <year>2015</year>
+<article-title>Real&#x02010;world treatment patterns in first line and relapsed chronic lymphocytic leukemia (CLL)</article-title>. <source>Clin. Lymphoma Myeloma Leuk.</source>
+<volume>15</volume>:<fpage>S204</fpage>&#x02013;<lpage>S205</lpage>.</mixed-citation></ref><ref id="cam41337-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam41337-cit-0032">
+<string-name>
+<surname>Mato</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Nabhan</surname>
+</string-name>, <string-name>
+<given-names>N. E.</given-names>
+<surname>Kay</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Weiss</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Lamanna</surname>
+</string-name>, <string-name>
+<given-names>T. J.</given-names>
+<surname>Kipps</surname>
+</string-name>, et&#x000a0;al. <year>2016</year>
+<article-title>Real&#x02010;world clinical experience in the Connect<sup>&#x000ae;</sup> chronic lymphocytic leukaemia registry: a prospective cohort study of 1494 patients across 199 US centres</article-title>. <source>Br. J. Haematol.</source>
+<volume>175</volume>:<fpage>892</fpage>&#x02013;<lpage>903</lpage>.<pub-id pub-id-type="pmid">27861736</pub-id></mixed-citation></ref><ref id="cam41337-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam41337-cit-0033">
+<string-name>
+<surname>Satram&#x02010;Hoang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Reyes</surname>
+</string-name>, <string-name>
+<given-names>K. Q.</given-names>
+<surname>Hoang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Momin</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Skettino</surname>
+</string-name>. <year>2014</year>
+<article-title>Treatment practice in the elderly patient with chronic lymphocytic leukemia&#x02010;analysis of the combined SEER and Medicare database</article-title>. <source>Ann. Hematol.</source>
+<volume>93</volume>:<fpage>1335</fpage>&#x02013;<lpage>1344</lpage>.<pub-id pub-id-type="pmid">24638841</pub-id></mixed-citation></ref><ref id="cam41337-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam41337-cit-0034">
+<string-name>
+<surname>Hallek</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>Cheson</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Catovsky</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Caligaris&#x02010;Cappio</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Dighiero</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Dohner</surname>
+</string-name>, et&#x000a0;al. <year>2008</year>
+<article-title>Guidelines for the diagnosis and treatment of chronic lymphocytic leukemia: a report from the International Workshop on Chronic Lymphocytic Leukemia updating the National Cancer Institute&#x02010;Working Group 1996 guidelines</article-title>. <source>Blood</source>
+<volume>111</volume>:<fpage>5446</fpage>&#x02013;<lpage>5456</lpage>.<pub-id pub-id-type="pmid">18216293</pub-id></mixed-citation></ref><ref id="cam41337-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam41337-cit-0035">
+<string-name>
+<surname>Hallek</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>Cheson</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Catovsky</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Caligaris&#x02010;Cappio</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Dighiero</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Dohner</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>Response assessment in chronic lymphocytic leukemia treated with novel agents causing an increase of peripheral blood lymphocytes</article-title>. <source>Blood</source>
+<ext-link ext-link-type="uri" xlink:href="http://www.bloodjournal.org/content/111/12/5446/tab-e-letters">http://www.bloodjournal.org/content/111/12/5446/tab-e-letters</ext-link>.</mixed-citation></ref><ref id="cam41337-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam41337-cit-0036">
+<string-name>
+<surname>Marostica</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sukbuntherng</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Loury</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>de Jong</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>de Trixhe</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Vermeulen</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>
+<article-title>Population pharmacokinetic model of ibrutinib, a Bruton tyrosine kinase inhibitor, in patients with B cell malignancies</article-title>. <source>Cancer Chemother. Pharmacol.</source>
+<volume>75</volume>:<fpage>111</fpage>&#x02013;<lpage>121</lpage>.<pub-id pub-id-type="pmid">25381051</pub-id></mixed-citation></ref><ref id="cam41337-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cam41337-cit-0037">
+<string-name>
+<surname>Brown</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Hillmen</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Barrientos</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Reddy</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Coutre</surname>
+</string-name>, et&#x000a0;al. <year>2017</year>
+<article-title>Extended follow&#x02010;up and impact of high&#x02010;risk prognostic factors from the phase 3 RESONATE<sup>&#x02122;</sup> study in patients with previously treated CLL/SLL</article-title>. <source>Leukemia</source>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/leu.2017.175">https://doi.org/10.1038/leu.2017.175</ext-link>.</mixed-citation></ref><ref id="cam41337-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cam41337-cit-0038">
+<string-name>
+<surname>Byrd</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<given-names>R. R.</given-names>
+<surname>Furman</surname>
+</string-name>, <string-name>
+<given-names>S. E.</given-names>
+<surname>Coutre</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Burger</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Blum</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Coleman</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>
+<article-title>Three&#x02010;year follow&#x02010;up of treatment&#x02010;naive and previously treated patients with CLL and SLL receiving single&#x02010;agent ibrutinib</article-title>. <source>Blood</source>
+<volume>125</volume>:<fpage>2497</fpage>&#x02013;<lpage>2506</lpage>.<pub-id pub-id-type="pmid">25700432</pub-id></mixed-citation></ref><ref id="cam41337-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cam41337-cit-0039">
+<string-name>
+<surname>Huhn</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>von Schilling</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wilhelm</surname>
+</string-name>, <string-name>
+<given-names>A. D.</given-names>
+<surname>Ho</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hallek</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kuse</surname>
+</string-name>, et&#x000a0;al. <year>2001</year>
+<article-title>Rituximab therapy of patients with B&#x02010;cell chronic lymphocytic leukemia</article-title>. <source>Blood</source>
+<volume>98</volume>:<fpage>1326</fpage>&#x02013;<lpage>1331</lpage>.<pub-id pub-id-type="pmid">11520778</pub-id></mixed-citation></ref><ref id="cam41337-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cam41337-cit-0040">
+<string-name>
+<surname>Itala</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Geisler</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Kimby</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Juvonen</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Tjonnfjord</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Karlsson</surname>
+</string-name>, et&#x000a0;al. <year>2002</year>
+<article-title>Standard&#x02010;dose anti&#x02010;CD20 antibody rituximab has efficacy in chronic lymphocytic leukaemia: results from a Nordic multicentre study</article-title>. <source>Eur. J. Haematol.</source>
+<volume>69</volume>:<fpage>129</fpage>&#x02013;<lpage>134</lpage>.<pub-id pub-id-type="pmid">12406005</pub-id></mixed-citation></ref><ref id="cam41337-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cam41337-cit-0041">
+<string-name>
+<surname>Nguyen</surname>, <given-names>D. T.</given-names>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Amess</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Doughty</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hendry</surname>
+</string-name>, and <string-name>
+<given-names>L. W.</given-names>
+<surname>Diamond</surname>
+</string-name>. <year>1999</year>
+<article-title>IDEC&#x02010;C2B8 anti&#x02010;CD20 (rituximab) immunotherapy in patients with low&#x02010;grade non&#x02010;Hodgkin's lymphoma and lymphoproliferative disorders: evaluation of response on 48 patients</article-title>. <source>Eur. J. Haematol.</source>
+<volume>62</volume>:<fpage>76</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">10052709</pub-id></mixed-citation></ref><ref id="cam41337-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cam41337-cit-0042">
+<string-name>
+<surname>Winkler</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jensen</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Manzke</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Schulz</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Diehl</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Engert</surname>
+</string-name>. <year>1999</year>
+<article-title>Cytokine&#x02010;release syndrome in patients with B&#x02010;cell chronic lymphocytic leukemia and high lymphocyte counts after treatment with an anti&#x02010;CD20 monoclonal antibody (rituximab, IDEC&#x02010;C2B8)</article-title>. <source>Blood</source>
+<volume>94</volume>:<fpage>2217</fpage>&#x02013;<lpage>2224</lpage>.<pub-id pub-id-type="pmid">10498591</pub-id></mixed-citation></ref><ref id="cam41337-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cam41337-cit-0043">
+<string-name>
+<surname>Burger</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Tedeschi</surname>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Barr</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Robak</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Owen</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Ghia</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>
+<article-title>Ibrutinib as initial therapy for patients with chronic lymphocytic leukemia</article-title>. <source>N. Engl. J. Med.</source>
+<volume>373</volume>:<fpage>2425</fpage>&#x02013;<lpage>2437</lpage>.<pub-id pub-id-type="pmid">26639149</pub-id></mixed-citation></ref><ref id="cam41337-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cam41337-cit-0044">
+<string-name>
+<surname>Shanafelt</surname>, <given-names>T. D.</given-names>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Parikh</surname>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>Noseworthy</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Goede</surname>
+</string-name>, <string-name>
+<given-names>K. G.</given-names>
+<surname>Chaffee</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Bahlo</surname>
+</string-name>, et&#x000a0;al. <year>2017</year>
+<article-title>Atrial fibrillation in patients with chronic lymphocytic leukemia (CLL)</article-title>. <source>Leuk. Lymphoma</source>
+<volume>58</volume>:<fpage>1630</fpage>&#x02013;<lpage>1639</lpage>.<pub-id pub-id-type="pmid">27885886</pub-id></mixed-citation></ref></ref-list></back></article>

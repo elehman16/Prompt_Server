@@ -1,0 +1,848 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">21448267</article-id><article-id pub-id-type="pmc">3063156</article-id><article-id pub-id-type="publisher-id">09-PONE-RA-13643R1</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0014766</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline"><subject>Oncology</subject><subject>Oncology/Gastrointestinal Cancers</subject><subject>Oncology/Gynecological Cancers</subject><subject>Oncology/Supportive and Palliative Cancer Care</subject></subj-group></article-categories><title-group><article-title>Getting the Grip on Nonspecific Treatment Effects: Emesis in Patients
+Randomized to Acupuncture or Sham Compared to Patients Receiving Standard
+Care</article-title><alt-title alt-title-type="running-head">Nonspecific Treatment Effects</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Enblom</surname><given-names>Anna</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lekander</surname><given-names>Mats</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hammar</surname><given-names>Mats</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Johnsson</surname><given-names>Anna</given-names></name><xref ref-type="aff" rid="aff6">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Onel&#x000f6;v</surname><given-names>Erik</given-names></name><xref ref-type="aff" rid="aff7">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ingvar</surname><given-names>Martin</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Steineck</surname><given-names>Gunnar</given-names></name><xref ref-type="aff" rid="aff7">
+<sup>7</sup>
+</xref><xref ref-type="aff" rid="aff8">
+<sup>8</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>B&#x000f6;rjeson</surname><given-names>Sussanne</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff9">
+<sup>9</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Division of Nursing Science, Department of
+Medical and Health Sciences, Link&#x000f6;ping University, Link&#x000f6;ping,
+Sweden</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>The V&#x000e5;rdal Institute, Lund,
+Sweden</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Department of Clinical Neuroscience, Osher
+Centre for Integrative Medicine, Karolinska Institute, Stockholm,
+Sweden</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Stress Research Institute, Stockholm
+University, Stockholm, Sweden</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Department of Clinical and Experimental
+Medicine, Obstetrics and Gynecology, Link&#x000f6;ping University, Link&#x000f6;ping,
+Sweden</addr-line>
+</aff><aff id="aff6">
+<label>6</label>
+<addr-line>Division of Physiotherapy, Department of
+Oncology, University Hospital, Lund, Sweden</addr-line>
+</aff><aff id="aff7">
+<label>7</label>
+<addr-line>Division of Clinical Cancer Epidemiology,
+Department of Oncology, Karolinska Institute, Stockholm, Sweden</addr-line>
+</aff><aff id="aff8">
+<label>8</label>
+<addr-line>Division of Clinical Cancer Epidemiology,
+Department of Oncology, Sahlgrenska Academy, Gothenburg, Sweden</addr-line>
+</aff><aff id="aff9">
+<label>9</label>
+<addr-line>Centre of Surgery and Oncology, Link&#x000f6;ping
+University Hospital, Link&#x000f6;ping, Sweden</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Lowenstein</surname><given-names>Pedro R.</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Cedars-Sinai Medical Center and University of California Los Angeles,
+United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>anna.enblom@ki.se</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: AE MH GS SB. Performed the
+experiments: AE AJ. Analyzed the data: AE EO SB. Contributed
+reagents/materials/analysis tools: AE MH AJ GS SB. Wrote the paper: AE ML MH
+AJ EO MI GS SB.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>23</day><month>3</month><year>2011</year></pub-date><volume>6</volume><issue>3</issue><elocation-id>e14766</elocation-id><history><date date-type="received"><day>17</day><month>10</month><year>2009</year></date><date date-type="accepted"><day>14</day><month>12</month><year>2010</year></date></history><permissions><copyright-statement>Enblom et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Background</title><p>It is not known whether or not delivering acupuncture triggers mechanisms
+cited as placebo and if acupuncture or sham reduces radiotherapy-induced
+emesis more than standard care.</p></sec><sec><title>Methodology/Principal Findings</title><p>Cancer patients receiving radiotherapy over abdominal/pelvic regions were
+randomized to verum (penetrating) acupuncture (n&#x0200a;=&#x0200a;109;
+99 provided data) in the alleged antiemetic acupuncture point PC6 or sham
+acupuncture (n&#x0200a;=&#x0200a;106; 101 provided data) performed with
+a telescopic non-penetrating needle at a sham point 2&#x02013;3 times/week
+during the whole radiotherapy period. The acupuncture cohort was compared to
+a reference cohort receiving standard care (n&#x0200a;=&#x0200a;62; 62
+provided data). The occurrence of emesis in each group was compared after a
+mean dose of 27 Gray. Nausea and vomiting were experienced during the
+preceding week by 37 and 8&#x00025; in the verum acupuncture group, 38 and
+7&#x00025; in the sham acupuncture group and 63 and 15&#x00025; in the
+standard care group, respectively. The lower occurrence of nausea in the
+acupuncture cohort (verum and sham) compared to patients receiving standard
+care (37&#x00025; versus 63&#x00025;, relative risk (RR) 0.6, 95 &#x00025;
+confidence interval (CI) 0.5&#x02013;0.8) was also true after adjustment for
+potential confounding factors for nausea (RR 0.8, CI 0.6 to 0.9). Nausea
+intensity was lower in the acupuncture cohort (78&#x00025; no nausea,
+13&#x00025; a little, 8&#x00025; moderate, 1&#x00025; much) compared to the
+standard care cohort (52&#x00025; no nausea, 32&#x00025; a little, 15&#x00025;
+moderate, 2&#x00025; much) (p&#x0200a;=&#x0200a;0.002). The acupuncture
+cohort expected antiemetic effects from their treatment (95&#x00025;).
+Patients who expected nausea had increased risk for nausea compared to
+patients who expected low risk for nausea (RR 1.6; Cl 1.2&#x02013;2.4).</p></sec><sec><title>Conclusions/Significance</title><p>Patients treated with verum or sham acupuncture experienced less nausea and
+vomiting compared to patients receiving standard care, possibly through a
+general care effect or due to the high level of patient expectancy.</p></sec><sec><title>Trial Registration</title><p>
+<ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrial.gov/ct2/results?term=NCT00621660">ClinicalTrials.gov NCT00621660</ext-link>
+</p></sec></abstract><counts><page-count count="9"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Many cancer patients express interest in acupuncture for nausea <xref rid="pone.0014766-Enblom1" ref-type="bibr">[1]</xref>-<xref rid="pone.0014766-Lu1" ref-type="bibr">[2]</xref> but it is not known if acupuncture
+is more effective for emesis (nausea and vomiting) than standard care during
+radiotherapy. Approximately 60&#x00025; of patients irradiated over abdominal and/or
+pelvic fields experienced emesis during radiotherapy <xref rid="pone.0014766-Enblom1" ref-type="bibr">[1]</xref>, <xref rid="pone.0014766-IGARR1" ref-type="bibr">[3]</xref>&#x02013;<xref rid="pone.0014766-Mystakidou1" ref-type="bibr">[4]</xref>. Antiemetics are effective,
+especially serotonin-receptor antagonists combined with corticosteroids <xref rid="pone.0014766-Feyer1" ref-type="bibr">[5]</xref>. However, some
+patients at risk for nausea do not receive potent antiemetics, do not respond
+satisfactorily <xref rid="pone.0014766-Enblom1" ref-type="bibr">[1]</xref>, <xref rid="pone.0014766-IGARR1" ref-type="bibr">[3]</xref>, <xref rid="pone.0014766-Feyer1" ref-type="bibr">[5]</xref>, or experience side-effects <xref rid="pone.0014766-Feyer1" ref-type="bibr">[5]</xref>. In a previous study we found
+that of 145 nauseous patients irradiated over a variety of regions, one third asked
+for more treatment against nausea while 40&#x00025; rejected antiemetics <xref rid="pone.0014766-Enblom1" ref-type="bibr">[1]</xref>.</p><p>Between two and 31&#x00025; of patients undergoing cancer treatment use acupuncture
+for various kinds of symptoms <xref rid="pone.0014766-Lu1" ref-type="bibr">[2]</xref>. In chemotherapy-induced nausea, acupuncture and
+acupressure reduced nausea more than antiemetics, but those studies did not include
+any sham treated control groups <xref rid="pone.0014766-Aglietti1" ref-type="bibr">[6]</xref>&#x02013;<xref rid="pone.0014766-Molassiotis1" ref-type="bibr">[11]</xref>. In a study of 80
+chemotherapy patients, penetrating acupuncture did not reduce nausea more than
+telescopic non-penetrating sham needles <xref rid="pone.0014766-Streitberger1" ref-type="bibr">[12]</xref>. In our study of
+radiotherapy-induced nausea, 70&#x00025; of patients randomized to penetrating
+acupuncture and 62&#x00025; of patients treated with telescopic sham needles
+experienced nausea during the radiotherapy period <xref rid="pone.0014766-Enblom2" ref-type="bibr">[13]</xref>. Apparently there was a lack of
+effects that could be related to the specific characteristics of verum (genuine)
+acupuncture; i.e. stimulation of skin penetrating needles in traditional acupuncture
+points resulting in a &#x0201c;deqi&#x0201d; sensation. However, as many as 95&#x00025;
+of patients in <italic>both</italic> groups considered the treatment to be
+effective, and 89&#x00025; were interested in receiving the treatments in the future
+<xref rid="pone.0014766-Enblom2" ref-type="bibr">[13]</xref>. In the
+light of the apparent conflict between lack of specific effects from verum
+acupuncture and large subjectively experienced positive effects it seems interesting
+to evaluate if acupuncture has antiemetic effects related to nonspecific
+mechanisms.</p><p>The aims of the study were to compare nausea and vomiting experienced by a cohort
+treated with verum or sham acupuncture with that experienced by a cohort receiving
+standard care during radiotherapy, and to evaluate if expectations of nausea and of
+acupuncture effects were related to the actual occurrence of nausea.</p></sec><sec sec-type="materials|methods" id="s2"><title>Materials and Methods</title><p>The protocol for this trial and supporting CONSORT checklist are available as
+supporting information; see <xref ref-type="supplementary-material" rid="pone.0014766.s001">Protocol S1</xref> and <xref ref-type="supplementary-material" rid="pone.0014766.s002">Checklist
+S1</xref>.</p><sec id="s2a"><title>Inclusion</title><p>Two cohorts of patients treated for cancer in three Swedish oncology departments
+were included: one a standard care and the other an acupuncture cohort, see
+<xref ref-type="fig" rid="pone-0014766-g001">figure 1</xref>. The standard
+care cohort was created by a cross-sectional selection in four different days at
+two oncology departments in 1999 and 2003 <xref rid="pone.0014766-Enblom1" ref-type="bibr">[1]</xref>
+(n&#x0200a;=&#x0200a;62). The acupuncture cohort was created from
+consecutively included patients in 2004 to 2006 at one of the two oncology
+departments referred to above and also in another oncology department <xref rid="pone.0014766-Enblom2" ref-type="bibr">[13]</xref>. Members of
+this cohort were randomized to verum acupuncture (n&#x0200a;=&#x0200a;109)
+or sham acupuncture (n&#x0200a;=&#x0200a;106). Inclusion criteria for both
+cohorts were that patients were at least 18 years of age, had radiotherapy over
+abdominal or pelvic fields and were able to take part in the study procedure.
+Exclusion criteria for the acupuncture cohort only were radiotherapy of less
+than 800 cm<sup>3</sup> volume and 25 Gray dose, antiemetic treatment or
+persistent nausea within 24 hours prior to the start of radiotherapy and
+acupuncture treatment during the past year for any indication or ever for
+nausea.</p><fig id="pone-0014766-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014766.g001</object-id><label>Figure 1</label><caption><title>Selection of the patients in the standard care and the acupuncture
+cohort.</title></caption><graphic xlink:href="pone.0014766.g001"/></fig><p>All patients gave their informed written consent and the Regional Ethical Review
+Board in Link&#x000f6;ping, Sweden, approved the study. The informed consent form
+used in the acupuncture cohort contained the information: &#x0201c;You will
+receive an ordinary acupuncture treatment with needles penetrating the skin or
+another treatment with needles placed just against the skin&#x0201d;. The
+study-evaluator and all health-care professionals, with the exception of the
+acupuncture-providing therapists, were blind to the acupuncture allocation. The
+standard care group knew, of course, that no acupuncture was given. They had
+been informed that the aim of the data collection was to evaluate the prevalence
+of nausea during radiotherapy.</p></sec><sec id="s2b"><title>Treatment regimens</title><p>The acupuncture and the standard care cohort were, except for study
+participation, treated according to clinical routines, including the use of
+rescue antiemetics. The standard care cohort received no acupuncture therapy.
+One physiotherapist at each hospital (performing 1412 and 607 treatments)
+performed both verum and sham acupuncture and they had five deputy
+physiotherapists (performing 228, 75, 54, 32 and 6 treatments). Treatments
+started on the first day of radiotherapy, continued 30 minutes per session three
+times/week for two weeks, and then twice/week, until the end of radiotherapy
+according to a standardised treatment protocol. The patients were in a hotel,
+ward unit or at the radiotherapy department during the treatments, received
+either in a sitting or a supine position. The physiotherapists treated one to
+three patients simultaneously and maintained an everyday conversation, but
+avoided the subject of nausea.</p><p>
+<italic>Verum</italic> acupuncture was administered bilaterally to the
+traditional antiemetic point pericardium six (PC6) <xref rid="pone.0014766-Ezzo1" ref-type="bibr">[14]</xref> between the tendons of
+palmaris longus and flexor carpii radialis at two body-inches proximal of the
+wrist crease. Sharp needles, diameter 0.30 &#x000d7; length 40 millimetres, were
+inserted into a depth of a half body-inch. One body-inch (or a
+&#x0201c;cun&#x0201d;: approximate 1.5 cm) is equivalent to the greatest width of
+the individual patient's thumb at the distal phalanx. The needles were
+manipulated three times/treatment by twirling and lifting until
+&#x0201c;deqi&#x0201d; occurred. &#x0201c;Deqi&#x0201d; is the specific sensation of
+verum acupuncture, involving heaviness, numbness, soreness and a minimal
+muscular contraction around the needle <xref rid="pone.0014766-Hui1" ref-type="bibr">[15]</xref>.</p><p>
+<italic>Sham</italic> acupuncture was administered bilaterally to a sham point
+located two body-inches proximal to PC6, outside traditional acupuncture points.
+&#x0201c;Park's sham devise&#x0201d; <xref rid="pone.0014766-Park1" ref-type="bibr">[16]</xref>, 0.30&#x000d7;40 millimetres
+(extended length) was used. The credible <xref rid="pone.0014766-Enblom2" ref-type="bibr">[13]</xref> blunt telescopic needle
+glides upwards into its handle instead of penetrating the skin, and thus gives
+the illusion of penetration. Double-sticky marking tubes, used in both groups,
+held the sham needles in place. The therapists manipulated the sham needles
+three times/session until the needles touched the skin, but no
+&#x0201c;deqi&#x0201d; occurred. The duration of needle pressure to the skin was
+approximately ten seconds/session.</p></sec><sec id="s2c"><title>Data collection</title><sec id="s2c1"><title>Background data</title><p>Clinical data, listed in <xref ref-type="table" rid="pone-0014766-t001">table
+1</xref>, were extracted from the patients' medical records. Other
+background variables, listed in <xref ref-type="table" rid="pone-0014766-t002">table 2</xref>, were collected in a written
+questionnaire.</p><table-wrap id="pone-0014766-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014766.t001</object-id><label>Table 1</label><caption><title>Clinical characteristics of the patients in the verum
+acupuncture, sham acupuncture or standard care group.</title></caption><alternatives><graphic id="pone-0014766-t001-1" xlink:href="pone.0014766.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Characteristics</td><td colspan="2" align="left" rowspan="1">Acupuncture cohort
+n&#x0200a;=&#x0200a;215</td><td align="left" rowspan="1" colspan="1">Standard care cohort
+n&#x0200a;=&#x0200a;62</td><td align="left" rowspan="1" colspan="1">Experiencing nausea
+n&#x0200a;=&#x0200a;172/total n providing
+data&#x0200a;=&#x0200a;267<sup>1</sup>
+</td><td align="left" rowspan="1" colspan="1">Univariable relative risk (95 &#x00025;
+confidence interval)</td><td align="left" rowspan="1" colspan="1">Multivariable<sup>2</sup> relative risk, (95
+&#x00025; confidence interval) adjusted for three groups</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Verum acupuncture
+n&#x0200a;=&#x0200a;109</td><td align="left" rowspan="1" colspan="1">Sham acupuncture
+n&#x0200a;=&#x0200a;106</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Tumor diagnose</bold>, n (&#x00025;)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;109</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;106</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;62</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;267</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Gynecological-</td><td align="left" rowspan="1" colspan="1">72 (66)</td><td align="left" rowspan="1" colspan="1">75 (71)</td><td align="left" rowspan="1" colspan="1">37 (60)</td><td align="left" rowspan="1" colspan="1">111/178 (62)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td></tr><tr><td align="left" rowspan="1" colspan="1">Colon-/rectal-</td><td align="left" rowspan="1" colspan="1">31 (28)</td><td align="left" rowspan="1" colspan="1">29 (27)</td><td align="left" rowspan="1" colspan="1">11 (18)</td><td align="left" rowspan="1" colspan="1">43/67 (64)</td><td align="left" rowspan="1" colspan="1">1.0 (0.8&#x02013;1.3)</td><td align="left" rowspan="1" colspan="1">1.0 (0.8&#x02013;1.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Testicular-</td><td align="left" rowspan="1" colspan="1">2 (2)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">6 (10)</td><td align="left" rowspan="1" colspan="1">7/8 (88)</td><td align="left" rowspan="1" colspan="1">1.4 (1.1&#x02013;1.8)</td><td align="left" rowspan="1" colspan="1">1.5 (1.0&#x02013;2.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pancreas, stomach or gallbladder-tumor</td><td align="left" rowspan="1" colspan="1">4 (4)</td><td align="left" rowspan="1" colspan="1">2 (2)</td><td align="left" rowspan="1" colspan="1">8 (13)</td><td align="left" rowspan="1" colspan="1">11/14 (79)</td><td align="left" rowspan="1" colspan="1">1.3 (0.9&#x02013;1.7)</td><td align="left" rowspan="1" colspan="1">1.3 (0.9&#x02013;1.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Total radiotherapy dose</bold> (Gray)
+mean &#x000b1; SD</td><td align="left" rowspan="1" colspan="1">47.9 &#x000b1;10.7</td><td align="left" rowspan="1" colspan="1">50.3 &#x000b1; 10.3</td><td align="left" rowspan="1" colspan="1">41.8 &#x000b1; 10.0</td><td align="left" rowspan="1" colspan="1">47.3 &#x000b1; 10.5</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Concomitant chemotherapy</bold>, n
+(&#x00025;)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;100</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;99</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;61</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;260</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">28 (28)</td><td align="left" rowspan="1" colspan="1">29 (29)</td><td align="left" rowspan="1" colspan="1">15 (25)</td><td align="left" rowspan="1" colspan="1">57/72 (79)</td><td align="left" rowspan="1" colspan="1">1.3 (1.1&#x02013;1.6)</td><td align="left" rowspan="1" colspan="1">1.3 (1.1&#x02013;1.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">72 (72)</td><td align="left" rowspan="1" colspan="1">70 (71)</td><td align="left" rowspan="1" colspan="1">46 (75)</td><td align="left" rowspan="1" colspan="1">112/188 (60)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Consumption of antiemetics at least
+once</bold>, n (&#x00025;)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;100</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;101</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;62</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;263</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">67 (67)</td><td align="left" rowspan="1" colspan="1">69 (68)</td><td align="left" rowspan="1" colspan="1">36 (58)</td><td align="left" rowspan="1" colspan="1">74/162 (46)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref)</td></tr><tr><td align="left" rowspan="1" colspan="1">Any type</td><td align="left" rowspan="1" colspan="1">42 (42)</td><td align="left" rowspan="1" colspan="1">37 (37)</td><td align="left" rowspan="1" colspan="1">26 (42)</td><td align="left" rowspan="1" colspan="1">98/105 (93)</td><td align="left" rowspan="1" colspan="1">2.1 (1.7&#x02013;2.4)</td><td align="left" rowspan="1" colspan="1">2.0 (1.7&#x02013;2.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Serotonin-receptor antagonists</td><td align="left" rowspan="1" colspan="1">21 (21)</td><td align="left" rowspan="1" colspan="1">23 (23)</td><td align="left" rowspan="1" colspan="1">7 (11)</td><td align="left" rowspan="1" colspan="1">48/51 (94)</td><td align="left" rowspan="1" colspan="1">2.1 (1.7&#x02013;2.5)</td><td align="left" rowspan="1" colspan="1">1.6 (1.2&#x02013;2.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Dopamine-receptor antagonists</td><td align="left" rowspan="1" colspan="1">24 (24)</td><td align="left" rowspan="1" colspan="1">21 (21)</td><td align="left" rowspan="1" colspan="1">6 (10)</td><td align="left" rowspan="1" colspan="1">48/51 (94)</td><td align="left" rowspan="1" colspan="1">2.1 (1.7&#x02013;2.5)</td><td align="left" rowspan="1" colspan="1">2.1 (1.7&#x02013;2.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Corticosteroids</td><td align="left" rowspan="1" colspan="1">13 (13)</td><td align="left" rowspan="1" colspan="1">25 (25)</td><td align="left" rowspan="1" colspan="1">1 (2)</td><td align="left" rowspan="1" colspan="1">34/39 (87)</td><td align="left" rowspan="1" colspan="1">1.9 (1.6&#x02013;2.3)</td><td align="left" rowspan="1" colspan="1">1.9 (1.5&#x02013;2.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Antihistamines or neuroleptics</td><td align="left" rowspan="1" colspan="1">12 (12)</td><td align="left" rowspan="1" colspan="1">9 (9)</td><td align="left" rowspan="1" colspan="1">18 (29)</td><td align="left" rowspan="1" colspan="1">37/39 (95)</td><td align="left" rowspan="1" colspan="1">2.1 (1.7&#x02013;2.5)</td><td align="left" rowspan="1" colspan="1">1.6 (1.3&#x02013;2.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Medication for any other
+illness/symptom</bold>, n (&#x00025;)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;99</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;100</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;62</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;261</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">80 (80)</td><td align="left" rowspan="1" colspan="1">88 (88)</td><td align="left" rowspan="1" colspan="1">40 (65)</td><td align="left" rowspan="1" colspan="1">140/208 (67)</td><td align="left" rowspan="1" colspan="1">1.2 (0.9&#x02013;1.5)</td><td align="left" rowspan="1" colspan="1">1.2 (0.9&#x02013;1.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">19 (19)</td><td align="left" rowspan="1" colspan="1">12 (12)</td><td align="left" rowspan="1" colspan="1">22 (35)</td><td align="left" rowspan="1" colspan="1">30/53 (57)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>Numbers (n) of patients answering the questions are presented,
+<sup>1</sup>267 of 277 patients provided data regarding
+nausea. Experiencing nausea was defined as any day within the
+radiotherapy period in the acupuncture cohort and within the
+past week in the standard care cohort. <sup>2</sup>Including the
+variables seen in <xref ref-type="table" rid="pone-0014766-t001">table 1</xref> and <xref ref-type="table" rid="pone-0014766-t002">2</xref>.
+SD&#x0200a;=&#x0200a;Standard Deviation.</p></fn></table-wrap-foot></table-wrap><table-wrap id="pone-0014766-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014766.t002</object-id><label>Table 2</label><caption><title>Personal characteristics of the patients in the verum
+acupuncture, sham acupuncture or standard care group.</title></caption><alternatives><graphic id="pone-0014766-t002-2" xlink:href="pone.0014766.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Characteristics</td><td colspan="2" align="left" rowspan="1">Acupuncture cohort
+n&#x0200a;=&#x0200a;215</td><td align="left" rowspan="1" colspan="1">Standard care cohort
+n&#x0200a;=&#x0200a;62</td><td align="left" rowspan="1" colspan="1">Experiencing nausea
+n&#x0200a;=&#x0200a;172/total n providing
+data&#x0200a;=&#x0200a;267<sup>1</sup>
+</td><td align="left" rowspan="1" colspan="1">Univariable relative risk (95 &#x00025;
+confidence interval)</td><td align="left" rowspan="1" colspan="1">Multivariable<sup>2</sup> relative risk, (95
+&#x00025; confidence interval) adjusted for three groups</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Verum acupuncture
+n&#x0200a;=&#x0200a;109</td><td align="left" rowspan="1" colspan="1">Sham acupuncture
+n&#x0200a;=&#x0200a;106</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Sex</bold>, n (&#x00025;)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;109</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;106</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;62</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;267</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Man</td><td align="left" rowspan="1" colspan="1">20 (18)</td><td align="left" rowspan="1" colspan="1">15 (14)</td><td align="left" rowspan="1" colspan="1">19 (31)</td><td align="left" rowspan="1" colspan="1">35/53 (66)</td><td align="left" rowspan="1" colspan="1">1.0 (0.8&#x02013;1.3)</td><td align="left" rowspan="1" colspan="1">1.0 (0.8 1.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Woman</td><td align="left" rowspan="1" colspan="1">89 (82)</td><td align="left" rowspan="1" colspan="1">91 (86)</td><td align="left" rowspan="1" colspan="1">43 (69)</td><td align="left" rowspan="1" colspan="1">137/214 (64)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age in years: mean &#x000b1; SD</td><td align="left" rowspan="1" colspan="1">64 &#x000b1; 13.8</td><td align="left" rowspan="1" colspan="1">63 &#x000b1;13.9</td><td align="left" rowspan="1" colspan="1">63 &#x000b1; 14.5</td><td align="left" rowspan="1" colspan="1">62 &#x000b1; 14.8</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">19&#x02013;40</td><td align="left" rowspan="1" colspan="1">7 (6)</td><td align="left" rowspan="1" colspan="1">6 (6)</td><td align="left" rowspan="1" colspan="1">6 (10)</td><td align="left" rowspan="1" colspan="1">17/19 (89)</td><td align="left" rowspan="1" colspan="1">1.5 (1.2&#x02013;1.8)</td><td align="left" rowspan="1" colspan="1">1.5 (1.2&#x02013;2.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">41&#x02013;60</td><td align="left" rowspan="1" colspan="1">34 (31)</td><td align="left" rowspan="1" colspan="1">34 (32)</td><td align="left" rowspan="1" colspan="1">17 (27)</td><td align="left" rowspan="1" colspan="1">55/82 (67)</td><td align="left" rowspan="1" colspan="1">1.1 (0.9&#x02013;1.4)</td><td align="left" rowspan="1" colspan="1">1.1 (0.9&#x02013;1.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">61&#x02013;89</td><td align="left" rowspan="1" colspan="1">68 (62)</td><td align="left" rowspan="1" colspan="1">66 (62)</td><td align="left" rowspan="1" colspan="1">39 (63)</td><td align="left" rowspan="1" colspan="1">98/164 (60)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Labor status</bold>, n (&#x00025;)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;106</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;104</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;62</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;257</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Employed</td><td align="left" rowspan="1" colspan="1">35 (33)</td><td align="left" rowspan="1" colspan="1">41 (38)</td><td align="left" rowspan="1" colspan="1">21 (34)</td><td align="left" rowspan="1" colspan="1">65/94 (69)</td><td align="left" rowspan="1" colspan="1">1.2 (1.0&#x02013;1.0)</td><td align="left" rowspan="1" colspan="1">1.2 (1.0&#x02013;1.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Retired/Sickness pension</td><td align="left" rowspan="1" colspan="1">69 (65)</td><td align="left" rowspan="1" colspan="1">59 (57)</td><td align="left" rowspan="1" colspan="1">26 (42)</td><td align="left" rowspan="1" colspan="1">82/142 (58)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td></tr><tr><td align="left" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">2 (2)</td><td align="left" rowspan="1" colspan="1">4 (4)</td><td align="left" rowspan="1" colspan="1">15 (24)</td><td align="left" rowspan="1" colspan="1">18/21 (86)</td><td align="left" rowspan="1" colspan="1">1.5 (1.2&#x02013;1.9)</td><td align="left" rowspan="1" colspan="1">1.6 (1.1&#x02013;2.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Previous nausea</bold>, n (&#x00025;)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold><italic>During previous
+chemotherapy</italic></bold>
+</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;96</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;97</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;62</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;256</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Not relevant</td><td align="left" rowspan="1" colspan="1">55 (57)</td><td align="left" rowspan="1" colspan="1">58 (60)</td><td align="left" rowspan="1" colspan="1">43 (69)</td><td align="left" rowspan="1" colspan="1">95/155 (61)</td><td align="left" rowspan="1" colspan="1">1.0 (0.8&#x02013;1.4)</td><td align="left" rowspan="1" colspan="1">1.0 (0.8&#x02013;1.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">11 (11)</td><td align="left" rowspan="1" colspan="1">12 (12)</td><td align="left" rowspan="1" colspan="1">15 (24)</td><td align="left" rowspan="1" colspan="1">23/39 (59)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">30 (31)</td><td align="left" rowspan="1" colspan="1">28 (29)</td><td align="left" rowspan="1" colspan="1">4 (6)</td><td align="left" rowspan="1" colspan="1">47/62 (76)</td><td align="left" rowspan="1" colspan="1">1.3 (1.0&#x02013;1.7)</td><td align="left" rowspan="1" colspan="1">1.3 (0.9&#x02013;1.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold><italic>During
+pregnancy</italic></bold>
+</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;89</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;92</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;61</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;242</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Not relevant</td><td align="left" rowspan="1" colspan="1">26 (29)</td><td align="left" rowspan="1" colspan="1">28 (30)</td><td align="left" rowspan="1" colspan="1">33 (54)</td><td align="left" rowspan="1" colspan="1">56/87 (64)</td><td align="left" rowspan="1" colspan="1">1.3 (0.9&#x02013;1.7)</td><td align="left" rowspan="1" colspan="1">1.3 (1.1&#x02013;1.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">19 (21)</td><td align="left" rowspan="1" colspan="1">24 (26)</td><td align="left" rowspan="1" colspan="1">6 (10)</td><td align="left" rowspan="1" colspan="1">25/49 (51)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">44 (49)</td><td align="left" rowspan="1" colspan="1">40 (43)</td><td align="left" rowspan="1" colspan="1">22 (36)</td><td align="left" rowspan="1" colspan="1">78/106 (74)</td><td align="left" rowspan="1" colspan="1">1.4 (1.1&#x02013;1.9</td><td align="left" rowspan="1" colspan="1">1.4 (1.1&#x02013;1.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold><italic>In any previous
+situation</italic></bold>
+<bold><sup>3</sup></bold>
+</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;96</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;98</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;61</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;256</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">22 (23)</td><td align="left" rowspan="1" colspan="1">29 (30)</td><td align="left" rowspan="1" colspan="1">17 (27)</td><td align="left" rowspan="1" colspan="1">30/74 (41)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">74 (77)</td><td align="left" rowspan="1" colspan="1">69 (70)</td><td align="left" rowspan="1" colspan="1">44 (72)</td><td align="left" rowspan="1" colspan="1">134/182 (74)</td><td align="left" rowspan="1" colspan="1">1.8 (1.4&#x02013;2&#x02013;4)</td><td align="left" rowspan="1" colspan="1">2.0 (1.3&#x02013;3.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold><italic>N of previous nausea
+situations</italic></bold>
+<bold><sup>3</sup></bold>,
+md (25th&#x02013;75th percentile)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;972(1&#x02013;3)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;982(1&#x02013;3)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;612(0&#x02013;3)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;2572(1&#x02013;3)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">0&#x02013;2 situations</td><td align="left" rowspan="1" colspan="1">68 (70)</td><td align="left" rowspan="1" colspan="1">67 (68)</td><td align="left" rowspan="1" colspan="1">44 (71)</td><td align="left" rowspan="1" colspan="1">110/179 (61)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td></tr><tr><td align="left" rowspan="1" colspan="1">3&#x02013;5 situations</td><td align="left" rowspan="1" colspan="1">29 (30)</td><td align="left" rowspan="1" colspan="1">31 (32)</td><td align="left" rowspan="1" colspan="1">18 (29)</td><td align="left" rowspan="1" colspan="1">56/78 (72)</td><td align="left" rowspan="1" colspan="1">1.2 (1.0&#x02013;1.4)</td><td align="left" rowspan="1" colspan="1">1.2 (1.0&#x02013;1.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Patients'</bold>
+<bold>estimation of risk for nausea</bold>, n
+(&#x00025;)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;89</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;94</td><td align="left" rowspan="1" colspan="1">not mea-sured</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;183</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">not relevant</td></tr><tr><td align="left" rowspan="1" colspan="1">Lower than others</td><td align="left" rowspan="1" colspan="1">19 (21)</td><td align="left" rowspan="1" colspan="1">25 (27)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">22/44 (50)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref.)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Similar to others</td><td align="left" rowspan="1" colspan="1">57 (64)</td><td align="left" rowspan="1" colspan="1">55 (59)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">73/112 (65)</td><td align="left" rowspan="1" colspan="1">1.3 (1.0&#x02013;1.9)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Higher than others</td><td align="left" rowspan="1" colspan="1">13 (15)</td><td align="left" rowspan="1" colspan="1">14 (15)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">22/27 (81)</td><td align="left" rowspan="1" colspan="1">1.6 (1.2&#x02013;2.4)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Expectation of antiemetic treatment
+effects</bold>, n (&#x00025;)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;105</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;105</td><td align="left" rowspan="1" colspan="1">not mea-sured</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;201</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">not relevant</td></tr><tr><td align="left" rowspan="1" colspan="1">Do not believe</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0/0 (0)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Believe little</td><td align="left" rowspan="1" colspan="1">5 (5)</td><td align="left" rowspan="1" colspan="1">6 (6)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">4/10 (40)</td><td align="left" rowspan="1" colspan="1">0.64 (0.3&#x02013;1.4)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Believe moderately</td><td align="left" rowspan="1" colspan="1">50 (46)</td><td align="left" rowspan="1" colspan="1">57 (54)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">70/102 (68)</td><td align="left" rowspan="1" colspan="1">1.1 (0.9&#x02013;1.3)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Believe much</td><td align="left" rowspan="1" colspan="1">50 (46)</td><td align="left" rowspan="1" colspan="1">42 (40)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">56/89 (62)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Previous experience of
+acupuncture<sup>4</sup></bold>, n (&#x00025;)</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;109</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;101</td><td align="left" rowspan="1" colspan="1">not mea-sured</td><td align="left" rowspan="1" colspan="1">n&#x0200a;=&#x0200a;209</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">not relevant</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">36 (33)</td><td align="left" rowspan="1" colspan="1">36 (34)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">47/72 (65)</td><td align="left" rowspan="1" colspan="1">1.1 (0.6&#x02013;1.3)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">73 (66)</td><td align="left" rowspan="1" colspan="1">65 (62)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">82/137 (60)</td><td align="left" rowspan="1" colspan="1">1.0 (Ref)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt102"><label/><p>Numbers (n) of patients answering the questions are presented,
+<sup>1</sup>267 of 277 patients provided data regarding
+nausea. Experiencing nausea was defined as any day within the
+radiotherapy period in the acupuncture cohort and within the
+past week in the standard care cohort. <sup>2</sup>Including the
+variables seen in <xref ref-type="table" rid="pone-0014766-t001">table 1</xref> and <xref ref-type="table" rid="pone-0014766-t002">2</xref>. <sup>3</sup>In travelling,
+unpleasant smells/sights, anxiety, chemotherapy or pregnancy.
+<sup>4</sup>For other conditions than emesis.
+SD&#x0200a;=&#x0200a;Standard Deviation.
+Md&#x0200a;=&#x0200a;Median.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s2c2"><title>Nausea, vomiting and use of antiemetics</title><p>Type/dose of antiemetics and emesis during the previous 24-hours were
+measured by written established emesis questions <xref rid="pone.0014766-Enblom1" ref-type="bibr">[1]</xref>, <xref rid="pone.0014766-Brjeson1" ref-type="bibr">[17]</xref>: &#x0201c;Have you
+experienced nausea?&#x0201d;, answered on a four-level category scale:
+&#x0201c;No, not at all&#x0201d; or &#x0201c;Yes, a little/moderate/much&#x0201d;
+and &#x0201c;Have you been vomiting?&#x0201d; answered by &#x0201c;No&#x0201d; or
+&#x0201c;Yes&#x0201d;. In the acupuncture cohort the questions were asked daily
+during the whole radiotherapy period. In the standard care cohort, the
+questions were asked only once (after a mean dose of 27 Gray of
+radiotherapy) and at that time the questions were asked regarding the
+previous 24 hours and also within the time frame of the preceding week.
+Every patient who had experienced nausea at least once within the preceding
+seven days (irrespective of intensity) or vomiting was assigned to the
+groups &#x0201c;Experiencing nausea&#x0201d; or &#x0201c;Experiencing
+vomiting&#x0201d;. The emesis questions showed in pilot studies satisfactory
+face-validity (n&#x0200a;=&#x0200a;9), construct validity
+(Spearman's correlation coefficient (r) 1.0;
+n&#x0200a;=&#x0200a;456 paired observations) and test-retest
+reliability (r 0.98&#x02013;1.0; n&#x0200a;=&#x0200a;36).</p></sec><sec id="s2c3"><title>Expectations of treatment effects and on nausea</title><p>At the end of the first, the sixth and the last verum or sham treatment the
+physiotherapists asked the patients: &#x0201c;Do you believe that the
+treatment that you have just received is effective in preventing or reducing
+nausea?&#x0201d; The four answer categories were &#x0201c;No, I do not think the
+treatment is effective&#x0201d; and &#x0201c;Yes, I believe a
+little/moderately/much that the treatment is effective&#x0201d;. Before
+treatment was started, the verum and sham treated patients answered the
+written question: &#x0201c;In relation to others, how do you estimate your own
+risk for becoming nauseous during the radiotherapy period?&#x0201d; to be
+answered on a five-grade category scale from &#x0201c;Much lower risk&#x0201d;
+to &#x0201c;Much higher risk&#x0201d;.</p></sec></sec><sec id="s2d"><title>Statistical analysis</title><p>The acupuncture cohort was compared with the standard care cohort using
+Student's t-test regarding continuous data, Mann Whitney U-test regarding
+ordinal or continuous, not normally distributed, data and by Fisher's exact
+(two categories), or Chi2-test (three categories or more), regarding category
+data. Relative risk (RR) for nausea with 95&#x00025; confidence intervals (CI)
+was calculated for each of the different subgroups shown in <xref ref-type="table" rid="pone-0014766-t001">table 1</xref> and <xref ref-type="table" rid="pone-0014766-t002">table 2</xref> as compared to a
+reference group (RR 1.0), defined as the subgroup with the lowest prevalence of
+nausea. One exception was made; the subgroup of patients believing
+&#x0201c;little&#x0201d; in antiemetic effects of verum/sham treatment was not
+chosen as a reference group, because it consisted of only ten patients. A
+multivariable logistic regression model was constructed to determine the
+relative importance of the different characteristics seen in and <xref ref-type="table" rid="pone-0014766-t002">table 2</xref> 1 for explaining the
+occurrence of nausea (Logistic procedure, forward selection) and the RR for
+nausea was adjusted in proc Genmod, with a log link and binomial error
+distribution. At the time that both cohorts received a mean radiotherapy dose of
+27 Gray the standard care cohort was compared with the acupuncture cohort
+regarding occurrence of nausea and vomiting. SPSS for Windows (version 15.0.0)
+was used, except for calculating adjusted RR risks for nausea where we used SAS
+(version 9.1.3.). The significance level was set as p&#x0003c;0.05.</p></sec></sec><sec id="s3"><title>Results</title><sec id="s3a"><title>Participants</title><p>Compared to the acupuncture cohort the standard care cohort comprised more men
+(p&#x0200a;=&#x0200a;0.02), more patients with a testicular tumour
+(p&#x0200a;=&#x0200a;0.001) and fewer patients consuming potent
+antiemetics; serotonin-receptor antagonists (p&#x0200a;=&#x0200a;0.09) or
+corticosteroids (p&#x0003c;0.001) (<xref ref-type="table" rid="pone-0014766-t001">table 1</xref>). According to the univariable analysis, nausea was not
+related to gender (<xref ref-type="table" rid="pone-0014766-t002">table
+2</xref>) but was more frequent in patients with testicular tumours and in
+patients treated with serotonin-receptor antagonists or corticosteroids (<xref ref-type="table" rid="pone-0014766-t001">table 1</xref>). In the
+multivariable analysis, concomitant chemotherapy (p&#x0200a;=&#x0200a;0.01,
+<xref ref-type="table" rid="pone-0014766-t001">table 1</xref>), age less
+than 40 years (p&#x0003c;0.001), previous nausea in any situation (p&#x0003c;0.001) and a
+self estimated risk for nausea as higher than others during radiotherapy
+(p&#x0200a;=&#x0200a;0.01) all indicated a significantly increased risk for
+nausea (<xref ref-type="table" rid="pone-0014766-t002">table 2</xref>).</p></sec><sec id="s3b"><title>Emesis in the verum, sham and standard care group</title><p>The patients in the acupuncture cohort the past week and the past 24 hours
+experienced significantly less occurrence of nausea and vomiting than those in
+the standard care cohort. The lower occurrence of nausea in the acupuncture
+cohort (37&#x00025;) compared to the standard care cohort (63&#x00025;) the past
+week (RR 0.6, CI 0.45&#x02013;0.77) was also true when patients taking
+serotonin-receptor antagonists and corticosteroids were excluded (<xref ref-type="fig" rid="pone-0014766-g002">figure 2</xref>) and after adjustment
+for confounding factors for nausea (<xref ref-type="table" rid="pone-0014766-t003">table 3</xref>).</p><fig id="pone-0014766-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014766.g002</object-id><label>Figure 2</label><caption><title>Nausea and vomiting within the past 24 hours and the past
+week.</title><p>Emesis was measured at that time the radiotherapy dose was 27 Gray (mean)
+in the verum, sham and standard care groups. Measured in all patients
+and in patients not receiving potent antiemetics in the verum
+(n&#x0200a;=&#x0200a;88 and n&#x0200a;=&#x0200a;77), sham
+(n&#x0200a;=&#x0200a;95 and n&#x0200a;=&#x0200a;78) and
+standard care group (n&#x0200a;=&#x0200a;62 and
+n&#x0200a;=&#x0200a;55).</p></caption><graphic xlink:href="pone.0014766.g002"/></fig><table-wrap id="pone-0014766-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014766.t003</object-id><label>Table 3</label><caption><title>Comparison of nausea occurrence between the standard care cohort and
+the acupuncture cohort, adjusted for confounding factors for
+nausea.</title></caption><alternatives><graphic id="pone-0014766-t003-3" xlink:href="pone.0014766.t003"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Nausea occurrence the past week</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Acupuncture
+cohort</bold>
+<sup>1</sup>
+<bold>,</bold> number (&#x00025;)
+n&#x0200a;=&#x0200a;183</td><td align="left" rowspan="1" colspan="1">68 (37)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Standard care cohort,</bold> number
+(&#x00025;) n&#x0200a;=&#x0200a;62</td><td align="left" rowspan="1" colspan="1">39 (63)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Relative Risk, unadjusted</bold> (95 &#x00025;
+Confidence Interval)</td><td align="left" rowspan="1" colspan="1">0.6 (0.5<bold>&#x02013;</bold>0.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Relative Risk, adjusted for concomitant
+chemotherapy</bold> (95 &#x00025; Confidence Interval)</td><td align="left" rowspan="1" colspan="1">0.3 (&#x02212;0.7<bold>&#x02013;</bold>0.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Relative Risk, adjusted for age</bold> (95
+&#x00025; Confidence Interval)</td><td align="left" rowspan="1" colspan="1">0.4 (&#x02212;0.1<bold>&#x02013;</bold>0.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Relative Risk, adjusted for nausea in
+previous situations</bold> (95 &#x00025; Confidence
+Interval)</td><td align="left" rowspan="1" colspan="1">0.3 (&#x02212;0.2<bold>&#x02013;</bold>0.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Relative Risk, overall
+adjustment</bold>
+<sup>2</sup> (95 &#x00025; Confidence
+Interval)</td><td align="left" rowspan="1" colspan="1">0.8 (0.6<bold>&#x02013;</bold>0.9)</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt103"><label/><p>Relative risks for nausea (prevalence acupuncture cohort/ standard
+care cohort) during a cross sectional week of radiotherapy (mean
+dose 27 Gray in both cohorts). <sup>1</sup>Verum and sham treated
+patients. <sup>2</sup>Overall adjustment included adjustment for
+concomitant chemotherapy, age and nausea in any previous
+situation.</p></fn></table-wrap-foot></table-wrap><p>The intensity of nausea was lower in the acupuncture cohort (n 140; 78&#x00025;
+experienced no nausea, n&#x0200a;=&#x0200a;24; 13&#x00025; a little nausea,
+n&#x0200a;=&#x0200a;14; 8&#x00025; moderate nausea and
+n&#x0200a;=&#x0200a;2; 1&#x00025; much nausea) than in the standard care
+cohort (n&#x0200a;=&#x0200a;32; 52&#x00025; no nausea,
+n&#x0200a;=&#x0200a;20; 32&#x00025; a little, n 9; 15&#x00025; moderate and n
+1; 2&#x00025; much) (p&#x0200a;=&#x0200a;0.002). Within the acupuncture
+cohort, no statistically significant differences between the verum and the sham
+group were seen regarding nausea occurrence or intensity, vomiting or antiemetic
+consumption the past 24 hours or the past week.</p></sec><sec id="s3c"><title>Expectations of nausea and the effects of treatment in the verum and sham
+acupuncture groups</title><p>The 27 patients in the acupuncture cohort who estimated their own risk for
+becoming nauseous during the radiotherapy as higher than other patients had an
+increased risk for nausea compared to the 44 patients who estimated that they
+had a lower risk for nausea than others (<xref ref-type="table" rid="pone-0014766-t002">table 2</xref>). No statistically significant
+differences in baseline expectations of antiemetic treatment effects were seen
+between the patients who experienced nausea and the patients who stayed free
+from nausea during the radiotherapy period (<xref ref-type="table" rid="pone-0014766-t002">table 2</xref>). The patients who experienced nausea
+between the sixth and last treatments either retained or decreased their
+original belief in the antiemetic effects of the received treatment. The
+patients who stayed free from nausea either retained their original belief that
+the treatment would help or even reported an increase in the extent to which
+they trusted this treatment (<xref ref-type="fig" rid="pone-0014766-g003">figure
+3</xref>). Of the patients mostly treated by therapist A (performing 1412 of
+1700 treatments, 83&#x00025;), 20 of 69 (29&#x00025;) in the verum acupuncture
+group and 25 of 76 (33&#x00025;) in the sham acupuncture group experienced nausea
+the past week. In the patients mostly treated by therapist B (performing 607 of
+693 treatments, 87&#x00025;), corresponding figures were 13 of 41 (32&#x00025;)
+and 10 of 29 (35&#x00025;), respectively.</p><fig id="pone-0014766-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0014766.g003</object-id><label>Figure 3</label><caption><title>Trust in the effect of the received treatment for preventing and
+reducing nausea.</title><p>The trust was stated at the sixth and the last verum or sham treatment in
+patients free from nausea and patients experiencing nausea after the
+sixth verum or sham treatment. Number of patients rating trust in
+antiemetic effects of received treatment at both the sixth and the last
+session was 183.</p></caption><graphic xlink:href="pone.0014766.g003"/></fig></sec></sec><sec id="s4"><title>Discussion</title><p>We found lower occurrence of nausea and vomiting in patients treated with penetrating
+&#x0201c;deqi&#x0201d;-creating acupuncture or sham acupuncture compared to patients who
+had received standard care. Almost all patients in the acupuncture cohort highly
+expected antiemetic effects from the treatment. Patients who expected nausea had
+increased risk for nausea compared to patients who expected low risk for nausea.</p><p>There are many, not sham-controlled studies, reporting emesis-reducing effects of
+acupuncture compared to standard care in chemotherapy-induced nausea <xref rid="pone.0014766-Ezzo1" ref-type="bibr">[14]</xref>. Our results
+indicate that nonspecific factors such as the extra care or the high expectations of
+positive treatment effects, not the specific characteristics of verum acupuncture,
+reduced emesis. Alternatively, the findings could result from flaws in our
+non-randomized design. Since the patients were not randomized to standard care, we
+investigated if an imbalance of confounding factors possibly contributing to emesis
+may have explained the higher prevalence of emesis in the standard care group,
+according to the hierarchical step model <xref rid="pone.0014766-Steineck1" ref-type="bibr">[18]</xref>. The higher risk for nausea
+in the standard care cohort was valid also after adjusting for possible confounding
+factors for emesis and after omitting patients taking serotonin-receptor antagonists
+and corticosteroids, indicating that our findings are valid. We have not identified
+any previous study of the effect of verum or sham acupuncture compared to standard
+care on radiotherapy-induced emesis (Pubmed, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/">http://www.ncbi.nlm.nih.gov/</ext-link> pubmed/accessed 10/11/10, using the
+combined search terms acupuncture, radiotherapy, nausea and vomiting). A Cochrane
+review of acupuncture for chemotherapy<italic>-</italic>induced nausea included
+eleven studies <xref rid="pone.0014766-Ezzo1" ref-type="bibr">[14]</xref>.
+Only two sham-controlled studies were reported, one positive
+(n&#x0200a;=&#x0200a;104) <xref rid="pone.0014766-Shen1" ref-type="bibr">[19]</xref> and one negative (n&#x0200a;=&#x0200a;80) <xref rid="pone.0014766-Streitberger1" ref-type="bibr">[12]</xref>, except
+for a pilot study including only 10 patients <xref rid="pone.0014766-Dundee1" ref-type="bibr">[20]</xref>. As concerns conditions in
+general, there exist positive sham controlled studies, but there are also
+indications that the effect of acupuncture may not be related to the specific
+characters of verum acupuncture. In line with our results, Haake and co-workers
+<xref rid="pone.0014766-Haake1" ref-type="bibr">[21]</xref> found
+substantial improvement of back pain in 48&#x00025; of 387 patients treated by verum
+acupuncture, in 44&#x00025; of 387 patients treated with sham and in 27&#x00025; of
+388 patients receiving standard care. In other studies sham acupuncture reduced
+musculoskeletal arm pain significantly more than verum acupuncture <xref rid="pone.0014766-Goldman1" ref-type="bibr">[22]</xref>.</p><p>The verum and the sham group received extra care compared to the standard care group,
+which may have reduced emesis: patient-therapist communication, the knowledge that
+continuous contact with one single therapist would continue during the whole
+radiotherapy period, the tactile stimulation from the therapists' hands, the
+extra time for rest and relaxation and the extra attention to the patient's
+symptoms through the daily emesis questions all are important elements of this extra
+care. The verum and sham performing therapists in our study might have had a
+supportive attitude. Arving and co-workers <xref rid="pone.0014766-Arving1" ref-type="bibr">[23]</xref> found that chemotherapy
+patients who received supportive conversations reported higher quality of life and
+less nausea than did patients receiving standard care. B&#x000f6;rjeson and co-workers
+<xref rid="pone.0014766-Brjeson2" ref-type="bibr">[24]</xref> also
+found that chemotherapy patients who received extra care comprising information and
+relaxation training increased their well-being compared to patients receiving
+antiemetics only, despite the fact that the extra-care group received a less optimal
+antiemetic treatment.</p><p>Both verum acupuncture and sham-acupuncture like tactile stimulation have been seen
+to activate the limbic system <xref rid="pone.0014766-Hui1" ref-type="bibr">[15]</xref>; did the low dose of sensory stimulation at the
+non-acupuncture point reduce emesis? Kaptchuk and co-workers <xref rid="pone.0014766-Kaptchuk1" ref-type="bibr">[25]</xref> implied that the
+patient-therapist meeting was more important than the needle stimulation. Of 87
+patients who received sham acupuncture from an emphatic committed therapist
+62&#x00025; reported adequate symptom relief of irritable bowel symptoms, compared to
+44&#x00025; of 88 patients receiving sham acupuncture from a non-communicating
+therapist and 28&#x00025; of 87 patients on waiting list. The verum and sham treated
+patients in our study received extra time for rest and relaxation and slightly more
+body-contact than the standard care patients, which may have reduced distress.
+Psychological distress has been seen as a predictor for emesis <xref rid="pone.0014766-Zachariae1" ref-type="bibr">[26]</xref> and studies indicate that
+relaxation <xref rid="pone.0014766-Luebbert1" ref-type="bibr">[27]</xref>
+as well as body-contact (tactile stimulation, massage) <xref rid="pone.0014766-Myers1" ref-type="bibr">[28]</xref> may reduce nausea in cancer
+patients.</p><p>Since almost all patients in the acupuncture cohort expected positive antiemetic
+effects of the treatment, the positive expectation may be another factor that
+reduced emesis. Expectations are known to influence intervention outcomes in general
+<xref rid="pone.0014766-Price1" ref-type="bibr">[29]</xref>. Indeed,
+Pariente and co-workers <xref rid="pone.0014766-Pariente1" ref-type="bibr">[30]</xref> found with the use of positron emission tomography (PET)
+that when individuals were informed that the blunt sham needle they were treated
+with was ineffective, no activity in the pain modulating areas in the mid-brain was
+seen. When a credible telescopic sham needle was used that the individuals believed
+was effective, a large pain-modulating activity was seen. Likewise, Linde and
+co-workers <xref rid="pone.0014766-Linde1" ref-type="bibr">[31]</xref>
+found that acupuncture and sham treated patients with headache, chronic low back
+pain or osteoarthritis who had high expectations on pain-reduction reported better
+effects than patients with low expectations. In our study there were no differences
+in the occurrence of nausea between the patients who believed in the antiemetic
+effects of treatment and those who had a lesser belief in the antiemetic effects of
+treatment. Either expectations about the treatment effect were not important for
+nausea, or the category scale used was not sufficiently sensitive, thus resulting in
+a &#x0201c;roof effect&#x0201d;. The patients' trust in the antiemetic effect of
+verum or sham acupuncture decreased if nausea occurred and increased if nausea did
+not occur. This finding is in concordance with results from experiments indicating
+that the placebo response is a short-time effect; for example if a noxious
+stimulation is performed after taking a placebo pill, the study subject no longer
+believes in the effect of the placebo pill <xref rid="pone.0014766-Price1" ref-type="bibr">[29]</xref>. In our study, patients who
+expected nausea apparently had an increased risk for nausea, in concordance with
+findings regarding chemotherapy-induced nausea <xref rid="pone.0014766-Higgins1" ref-type="bibr">[32]</xref>. Thus, patients are either
+capable of judging their own risk for nausea or the negative expectations per se
+produce nausea. This finding implies that health care professionals might well
+consider asking the patients about their expectations about experiencing nausea and
+might consider the information to decide on appropriate antiemetic treatment.</p><p>Since nausea was prevalent in the standard care group and nausea may be associated
+with a reduced quality of life <xref rid="pone.0014766-Enblom1" ref-type="bibr">[1]</xref>, <xref rid="pone.0014766-Shun1" ref-type="bibr">[33]</xref> treatment using verum or sham acupuncture may be valuable
+and cost-effective since positive effects do occur. A crude calculation of the cost
+for providing the median number of 11 verum or sham sessions lasting 30 minutes each
+results in a mean cost per patient of $69 USD. Two patients (median) were
+treated at the same time, meaning that one patient consumed three therapist
+hours&#x0002a;. In comparison, the approximate costs of the recommended dose <xref rid="pone.0014766-Aglietti1" ref-type="bibr">[6]</xref> of 8 mg of a
+serotonin-receptor antagonists once per day during the radiotherapy period is
+$98 USD&#x0002a;&#x0002a;.</p><p>Emesis was measured using a well-established method <xref rid="pone.0014766-Brjeson1" ref-type="bibr">[17]</xref>. The standard care cohort
+rated emesis only once, covering the preceding week. Some patients in the standard
+care cohort may, by forgetfulness, have underreported emesis, compared to the
+acupuncture cohort, who rated emesis daily. The acupuncture cohort was compared with
+a reference group, not to a third randomized arm. That design requires for a
+thorough investigation of potential imbalance of confounding factors between groups,
+as discussed above, but the design may have the benefit of avoiding the impact of
+the data collection per se on reported emesis. Repeated measurement of emesis per se
+may reduce (through the so called Hawthorne effect) or increase emesis experience
+<xref rid="pone.0014766-Young1" ref-type="bibr">[34]</xref>. Young and
+co-workers found that emesis questions per se increased self-reported occurrence of
+nausea <xref rid="pone.0014766-Young1" ref-type="bibr">[34]</xref>. To pay
+extra attention to emesis through daily data collection, without performing any
+extra emesis-reducing treatment in this frail patient cohort, was therefore
+evaluated as being unethical. We presented a cross sectional comparison at the time
+when the mean radiotherapy dose was the same in the acupuncture and the standard
+care cohorts. If we instead had observed another week of the radiotherapy period, it
+would not have changed the conclusions of this study; the weekly proportion of
+patients experiencing nausea was lower in the acupuncture cohort all radiotherapy
+weeks (varied 22 to 44&#x00025; as described previously <xref rid="pone.0014766-Enblom2" ref-type="bibr">[13]</xref>) compared to the standard care
+cohort. The patients who were treated by verum or sham experienced close to
+50&#x00025; lower occurrence of emesis compared to the patients receiving standard
+care. If the extra care caused the emesis reduction, this indicates that as long as
+the best available antiemetic treatment is offered, patients who believe that
+acupuncture has beneficial effects may be satisfied with treatment with verum
+acupuncture or non-penetrating needles, either of which produces a moment of
+relaxation and attention from the therapist. A next obvious step is to further study
+what components in the acupuncture procedures are of importance for this
+dramatically positive but as yet not fully understood effect, in an effort to make
+possible the use of those components to further increase quality of care.</p><p>&#x0002a; A public hospital employing a physiotherapist for three hours spends $68
+USD (408 SEK to provide the mean salary value for that service according to Swedish
+Association of Registered Physiotherapists 2007, <ext-link ext-link-type="uri" xlink:href="http://www.valuta.se">www.valuta.se</ext-link>, date 080404). Costs
+for needles may be approximately $0.72 USD (24 needles consumed during 12
+sessions, at six US cents according to prices at <ext-link ext-link-type="uri" xlink:href="http://www.acuprime.com">www.acuprime.com</ext-link>, date
+101109).</p><p>&#x0002a;&#x0002a; Consuming one tablet at a cost of 16.25 SEK (<ext-link ext-link-type="uri" xlink:href="http://www.fass.se">www.fass.se</ext-link>) during the mean value of
+36 radiotherapy days in treatment costs $98 USD (based on cost in Sweden of
+850 SEK <ext-link ext-link-type="uri" xlink:href="http://www.valuta.se">www.valuta.se</ext-link>, date 101109).</p></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0014766.s001"><label>Protocol S1</label><caption><p>Trial Protocol.</p><p>(0.05 MB DOC)</p></caption><media xlink:href="pone.0014766.s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0014766.s002"><label>Checklist S1</label><caption><p>CONSORT Checklist.</p><p>(0.22 MB DOC)</p></caption><media xlink:href="pone.0014766.s002.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We are thankful to the participating patients, to Boel Lindberg and Ingrid Tillgren
+for coordinating, to Marianne Frid, Annica Tomasson, Clary Skoglund, Eva Ahlner and
+Lotta Robert for acupuncture treatments and to the health-care professionals at the
+radiotherapy-departments for cooperation.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This study was supported by The Swedish Cancer Society, The Vardal Institute, The
+County Council of Ostergotland, The University of Link&#x000f6;ping, Cancer and
+Traffic Injury Fund and The Vardal Foundation for Health Care Sciences and
+Allergy Research. Mats Lekander and Martin Ingvar are members of Stockholm Brain
+Institute funded by Vinnova and The Swedish Strategic Research Foundation. The
+funders had no role in study design, data collection and analysis, decision to
+publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0014766-Enblom1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Enblom</surname><given-names>A</given-names></name><name><surname>Bergius Axelsson</surname><given-names>B</given-names></name><name><surname>Steineck</surname><given-names>G</given-names></name><name><surname>Hammar</surname><given-names>M</given-names></name><name><surname>B&#x000f6;rjeson</surname><given-names>S</given-names></name></person-group>
+<year>2009</year>
+<article-title>One third of patients with radiotherapy-induced nausea consider
+their antiemetic treatment insufficient.</article-title>
+<source>Support Care Cancer</source>
+<volume>17</volume>
+<fpage>23</fpage>
+<lpage>32</lpage>
+<pub-id pub-id-type="pmid">18528717</pub-id></element-citation></ref><ref id="pone.0014766-Lu1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lu</surname><given-names>W</given-names></name></person-group>
+<year>2005</year>
+<article-title>Acupuncture for side effects of chemoradiation therapy in cancer
+patients.</article-title>
+<source>Seminars in oncology nursing</source>
+<volume>21</volume>
+<fpage>190</fpage>
+<lpage>195</lpage>
+<pub-id pub-id-type="pmid">16092807</pub-id></element-citation></ref><ref id="pone.0014766-IGARR1"><label>3</label><element-citation publication-type="journal">
+<collab>IGARR (the Italian Group for Antiemetic Research in
+Radiotherapy)</collab>
+<year>1999</year>
+<article-title>Radiation-induced emesis: a prospective observational multicenter
+Italian trial.</article-title>
+<source>Int J Radiat Oncol Biol Phys</source>
+<volume>44</volume>
+<fpage>619</fpage>
+<lpage>625</lpage>
+<pub-id pub-id-type="pmid">10348292</pub-id></element-citation></ref><ref id="pone.0014766-Mystakidou1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mystakidou</surname><given-names>K</given-names></name><name><surname>Katsouda</surname><given-names>E</given-names></name><name><surname>Linou</surname><given-names>A</given-names></name><name><surname>Parpa</surname><given-names>E</given-names></name><name><surname>Kouloulias</surname><given-names>V</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Prophylactic tropisetron versus rescue tropisetron in
+fractionated radiotherapy to moderate or high emetogenic areas: a
+prospective randomized open label study in cancer patients.</article-title>
+<source>Med Oncol</source>
+<volume>23</volume>
+<fpage>251</fpage>
+<lpage>262</lpage>
+<pub-id pub-id-type="pmid">16720926</pub-id></element-citation></ref><ref id="pone.0014766-Feyer1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feyer</surname><given-names>PC</given-names></name><name><surname>Maranzano</surname><given-names>E</given-names></name><name><surname>Molassiotis</surname><given-names>A</given-names></name><name><surname>Roila</surname><given-names>F</given-names></name><name><surname>Clark-Snow</surname><given-names>RA</given-names></name><etal/></person-group>
+<article-title>Radiotherapy-induced nausea and vomiting (RINV): MASCC/ESMO
+guideline for antiemetics in radiotherapy: update 2009.</article-title>
+<comment>Support Care Cancer. In press. Available: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/20697746">http://www.ncbi.nlm.nih.gov/pubmed/20697746</ext-link>. Accessed 2010
+Aug 10</comment>
+</element-citation></ref><ref id="pone.0014766-Aglietti1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aglietti</surname><given-names>L</given-names></name><name><surname>Roila</surname><given-names>F</given-names></name><name><surname>Tonato</surname><given-names>M</given-names></name><name><surname>Basurto</surname><given-names>C</given-names></name><name><surname>Bracarda</surname><given-names>S</given-names></name><etal/></person-group>
+<year>1990</year>
+<article-title>A Pilot Study of Metoclopramide, Dexamethasone, Diphenhydramine
+and Acupuncture in Women Treated with Cisplatin.</article-title>
+<source>Cancer Chemotherapy and Pharmacology</source>
+<volume>26</volume>
+<fpage>239</fpage>
+<lpage>240</lpage>
+<pub-id pub-id-type="pmid">2357773</pub-id></element-citation></ref><ref id="pone.0014766-Xia1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xia</surname><given-names>YS</given-names></name><name><surname>Wang</surname><given-names>JH</given-names></name><name><surname>Shan</surname><given-names>LJ</given-names></name></person-group>
+<year>2000</year>
+<article-title>Acupuncture Plus Ear-Point Press in Preventing Vomiting Induced
+by Chemotherapy with Cisplatin.</article-title>
+<source>International Journal of Clinical Acupuncture</source>
+<volume>11</volume>
+<fpage>145</fpage>
+<lpage>154</lpage>
+</element-citation></ref><ref id="pone.0014766-Dibble1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dibble</surname><given-names>SL</given-names></name><name><surname>Chapman</surname><given-names>J</given-names></name><name><surname>Mack</surname><given-names>KA</given-names></name><name><surname>Shih</surname><given-names>A</given-names></name></person-group>
+<year>2000</year>
+<article-title>Acupressure for Nausea: Results of a Pilot Study.</article-title>
+<source>Oncology Nursing Forum</source>
+<volume>27</volume>
+<fpage>41</fpage>
+<lpage>45</lpage>
+<pub-id pub-id-type="pmid">10660922</pub-id></element-citation></ref><ref id="pone.0014766-Roscoe1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roscoe</surname><given-names>JA</given-names></name><name><surname>Morrow</surname><given-names>GR</given-names></name><name><surname>Hickok</surname><given-names>JT</given-names></name><name><surname>Bushunow</surname><given-names>P</given-names></name><name><surname>Pierce</surname><given-names>I</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>The Efficacy of Acupressure and Acustimulation Wrist Bands for
+the Relief of Chemotherapy-Induced Nausea and Vomiting: A University of
+Rochester Cancer Center Community Clinical Oncology Programme Multicenter
+Study.</article-title>
+<source>Journal of Pain and Symptom Management</source>
+<volume>26</volume>
+<fpage>731</fpage>
+<lpage>742</lpage>
+<pub-id pub-id-type="pmid">12906958</pub-id></element-citation></ref><ref id="pone.0014766-Shin1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shin</surname><given-names>YH</given-names></name><name><surname>Kim</surname><given-names>TI</given-names></name><name><surname>Shin</surname><given-names>MS</given-names></name><name><surname>Juon</surname><given-names>HS</given-names></name></person-group>
+<year>2004</year>
+<article-title>Effect of Acupressure on Nausea and Vomiting during Chemotherapy
+Cycle for Korean Postoperative Stomach Cancer Patient.</article-title>
+<source>Cancer Nursing</source>
+<volume>27</volume>
+<fpage>267</fpage>
+<lpage>274</lpage>
+<pub-id pub-id-type="pmid">15292721</pub-id></element-citation></ref><ref id="pone.0014766-Molassiotis1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Molassiotis</surname><given-names>A</given-names></name><name><surname>Helin</surname><given-names>AM</given-names></name><name><surname>Dabbour</surname><given-names>R</given-names></name><name><surname>Hummerston</surname><given-names>S</given-names></name></person-group>
+<year>2007</year>
+<article-title>The effects of P6 acupressure in the prophylaxis of
+chemotherapy-related nausea and vomiting in breast cancer
+patients.</article-title>
+<source>Complement Ther Med</source>
+<volume>15</volume>
+<fpage>3</fpage>
+<lpage>12</lpage>
+<pub-id pub-id-type="pmid">17352966</pub-id></element-citation></ref><ref id="pone.0014766-Streitberger1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Streitberger</surname><given-names>K</given-names></name><name><surname>Friedrich-Rust</surname><given-names>M</given-names></name><name><surname>Bardenheuer</surname><given-names>H</given-names></name><name><surname>Unnebrink</surname><given-names>K</given-names></name><name><surname>Windeler</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Effect of acupuncture compared with placebo-acupuncture at P6 as
+additional antiemetic prophylaxis in high-dose chemotherapy and autologous
+peripheral blood stem cell transplantation: a randomized controlled
+single-blind trial.</article-title>
+<source>Clin Cancer Res</source>
+<volume>9</volume>
+<fpage>2538</fpage>
+<lpage>2544</lpage>
+<pub-id pub-id-type="pmid">12855628</pub-id></element-citation></ref><ref id="pone.0014766-Enblom2"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Enblom</surname><given-names>A</given-names></name><name><surname>Johnsson</surname><given-names>A</given-names></name><name><surname>Hammar</surname><given-names>M</given-names></name><name><surname>Onel&#x000f6;v</surname><given-names>E</given-names></name><name><surname>Steineck</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Acupuncture compared to placebo acupuncture in
+radiotherapy-induced nausea &#x02013; a randomized controlled study. In:
+Enblom A. Nausea and vomiting in patients receiving acupuncture, sham
+acupuncture or standard care during radiotherapy. Link&#x000f6;ping University
+Medical Dissertations No. 1088. Paper 3 pp 1&#x02013;12.</article-title>
+<comment>Available at <ext-link ext-link-type="uri" xlink:href="http://liu.diva-portal.org/smash/record.jsf?searchId=2&#x00026;pid=diva2:207705">http://liu.diva-portal.org/smash/record.jsf?searchId=2&#x00026;pid=diva2:207705</ext-link>.
+Accessed 2009 March 13</comment>
+</element-citation></ref><ref id="pone.0014766-Ezzo1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ezzo</surname><given-names>JM</given-names></name><name><surname>Richardson</surname><given-names>MA</given-names></name><name><surname>Vickers</surname><given-names>A</given-names></name><name><surname>Allen</surname><given-names>C</given-names></name><name><surname>Dibble</surname><given-names>SL</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Acupuncture-point stimulation for chemotherapy-induced nausea or
+vomiting.</article-title>
+<source>Cochrane Database Syst Rev</source>
+<volume>19</volume>
+<fpage>CD002285</fpage>
+</element-citation></ref><ref id="pone.0014766-Hui1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hui</surname><given-names>KK</given-names></name><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Marina</surname><given-names>O</given-names></name><name><surname>Napadow</surname><given-names>V</given-names></name><name><surname>Haselgrove</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>The integrated response of the human cerebro-cerebellar and
+limbic systems to acupuncture stimulation at ST 36 as evidenced by
+fMRI.</article-title>
+<source>Neuroimage</source>
+<volume>27</volume>
+<fpage>479</fpage>
+<lpage>496</lpage>
+<pub-id pub-id-type="pmid">16046146</pub-id></element-citation></ref><ref id="pone.0014766-Park1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>J</given-names></name><name><surname>White</surname><given-names>A</given-names></name><name><surname>Lee</surname><given-names>H</given-names></name><name><surname>Ernst</surname><given-names>E</given-names></name></person-group>
+<year>1999</year>
+<article-title>Development of a new sham needle.</article-title>
+<source>Acupunct Med</source>
+<volume>17</volume>
+<fpage>110</fpage>
+<lpage>112</lpage>
+</element-citation></ref><ref id="pone.0014766-Brjeson1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>B&#x000f6;rjeson</surname><given-names>S</given-names></name><name><surname>Hursti</surname><given-names>TJ</given-names></name><name><surname>Peterson</surname><given-names>C</given-names></name><name><surname>Fredrikson</surname><given-names>M</given-names></name><name><surname>F&#x000fc;rst</surname><given-names>CJ</given-names></name><etal/></person-group>
+<year>1997</year>
+<article-title>Similarities and differences in assessing nausea on a verbal
+category scale and a visual analogue scale.</article-title>
+<source>Cancer Nurs</source>
+<volume>20</volume>
+<fpage>260</fpage>
+<lpage>266</lpage>
+<pub-id pub-id-type="pmid">9265812</pub-id></element-citation></ref><ref id="pone.0014766-Steineck1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Steineck</surname><given-names>G</given-names></name><name><surname>Hunt</surname><given-names>H</given-names></name><name><surname>Adolfsson</surname><given-names>J</given-names></name></person-group>
+<year>2006</year>
+<article-title>A hierarchical step-model for causation of bias-evaluating cancer
+treatment with epidemiological methods.</article-title>
+<source>Acta Oncol</source>
+<volume>45</volume>
+<fpage>421</fpage>
+<lpage>429</lpage>
+<pub-id pub-id-type="pmid">16760178</pub-id></element-citation></ref><ref id="pone.0014766-Shen1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shen</surname><given-names>J</given-names></name><name><surname>Wenger</surname><given-names>N</given-names></name><name><surname>Glaspy</surname><given-names>J</given-names></name><name><surname>Hays</surname><given-names>RD</given-names></name><name><surname>Albert</surname><given-names>PS</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Electroacupuncture for control of myeloablative
+chemotherapy-induced emesis: A randomized controlled trial.</article-title>
+<source>JAMA</source>
+<volume>284</volume>
+<fpage>2755</fpage>
+<lpage>2761</lpage>
+<pub-id pub-id-type="pmid">11105182</pub-id></element-citation></ref><ref id="pone.0014766-Dundee1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dundee</surname><given-names>JW</given-names></name><name><surname>Ghaly</surname><given-names>RG</given-names></name><name><surname>Fitzpatrick</surname><given-names>KT</given-names></name><name><surname>Abram</surname><given-names>WP</given-names></name><name><surname>Lynch</surname><given-names>GA</given-names></name></person-group>
+<year>1989</year>
+<article-title>Acupuncture prophylaxis of cancer chemotherapy-induced
+sickness.</article-title>
+<source>J R Soc Med</source>
+<volume>82</volume>
+<fpage>268</fpage>
+<lpage>271</lpage>
+<pub-id pub-id-type="pmid">2666662</pub-id></element-citation></ref><ref id="pone.0014766-Haake1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haake</surname><given-names>M</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>HH</given-names></name><name><surname>Schade-Brittinger</surname><given-names>C</given-names></name><name><surname>Basler</surname><given-names>HD</given-names></name><name><surname>Sch&#x000e4;fer</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>German Acupuncture Trials (GERAC) for chronic low back pain:
+randomized, multicenter, blinded, parallel-group trial with 3
+groups.</article-title>
+<source>Arch Intern Med</source>
+<volume>167</volume>
+<fpage>1892</fpage>
+<lpage>1898</lpage>
+<pub-id pub-id-type="pmid">17893311</pub-id></element-citation></ref><ref id="pone.0014766-Goldman1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goldman</surname><given-names>RH</given-names></name><name><surname>Stason</surname><given-names>WB</given-names></name><name><surname>Park</surname><given-names>SK</given-names></name><name><surname>Kim</surname><given-names>R</given-names></name><name><surname>Schnyer</surname><given-names>RN</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Acupuncture for treatment of persistent arm pain due to
+repetitive use: a randomized controlled clinical trial.</article-title>
+<source>Clin J Pain</source>
+<volume>24</volume>
+<fpage>211</fpage>
+<lpage>218</lpage>
+<pub-id pub-id-type="pmid">18287826</pub-id></element-citation></ref><ref id="pone.0014766-Arving1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arving</surname><given-names>C</given-names></name><name><surname>Sj&#x000f6;d&#x000e9;n</surname><given-names>PO</given-names></name><name><surname>Bergh</surname><given-names>J</given-names></name><name><surname>Hellbom</surname><given-names>M</given-names></name><name><surname>Johansson</surname><given-names>B</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Individual psychosocial support for breast cancer patients: a
+randomized study of nurse versus psychologist interventions and standard
+care.</article-title>
+<source>Cancer Nurs.</source>
+<volume>30</volume>
+<fpage>E10</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="pmid">17510577</pub-id></element-citation></ref><ref id="pone.0014766-Brjeson2"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>B&#x000f6;rjeson</surname><given-names>S</given-names></name><name><surname>Hursti</surname><given-names>TJ</given-names></name><name><surname>Tishelman</surname><given-names>C</given-names></name><name><surname>Peterson</surname><given-names>C</given-names></name><name><surname>Steineck</surname><given-names>G</given-names></name></person-group>
+<year>2002</year>
+<article-title>Treatment of nausea and emesis during cancer chemotherapy.
+Discrepancies between antiemetic effect and well-being.</article-title>
+<source>J Pain Symptom Manage</source>
+<volume>24</volume>
+<fpage>345</fpage>
+<lpage>358</lpage>
+<pub-id pub-id-type="pmid">12458116</pub-id></element-citation></ref><ref id="pone.0014766-Kaptchuk1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaptchuk</surname><given-names>TJ</given-names></name><name><surname>Kelley</surname><given-names>JM</given-names></name><name><surname>Conboy</surname><given-names>LA</given-names></name><name><surname>Davis</surname><given-names>RB</given-names></name><name><surname>Kerr</surname><given-names>CE</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Components of placebo effect: randomised controlled trial in
+patients with irritable bowel syndrome.</article-title>
+<source>BMJ</source>
+<volume>336</volume>
+<fpage>999</fpage>
+<lpage>1003</lpage>
+<pub-id pub-id-type="pmid">18390493</pub-id></element-citation></ref><ref id="pone.0014766-Zachariae1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zachariae</surname><given-names>R</given-names></name><name><surname>Paulsen</surname><given-names>K</given-names></name><name><surname>Mehlsen</surname><given-names>M</given-names></name><name><surname>Jensen</surname><given-names>AB</given-names></name><name><surname>Johansson</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Chemotherapy-induced nausea, vomiting, and fatigue&#x02013;the role
+of individual differences related to sensory perception and autonomic
+reactivity.</article-title>
+<source>Psychother Psychosom</source>
+<volume>76</volume>
+<fpage>376</fpage>
+<lpage>384</lpage>
+<pub-id pub-id-type="pmid">17917474</pub-id></element-citation></ref><ref id="pone.0014766-Luebbert1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luebbert</surname><given-names>K</given-names></name><name><surname>Dahme</surname><given-names>B</given-names></name><name><surname>Hasenbring</surname><given-names>M</given-names></name></person-group>
+<year>2001</year>
+<article-title>The effectiveness of relaxation training in reducing
+treatment-related symptoms and improving emotional adjustment in acute
+non-surgical cancer treatment: a meta-analytical review.</article-title>
+<source>Psychooncology</source>
+<volume>10</volume>
+<fpage>490</fpage>
+<lpage>502</lpage>
+<pub-id pub-id-type="pmid">11747061</pub-id></element-citation></ref><ref id="pone.0014766-Myers1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Myers</surname><given-names>CD</given-names></name><name><surname>Walton</surname><given-names>T</given-names></name><name><surname>Bratsman</surname><given-names>L</given-names></name><name><surname>Wilson</surname><given-names>J</given-names></name><name><surname>Small</surname><given-names>B</given-names></name></person-group>
+<year>2008</year>
+<article-title>Massage modalities and symptoms reported by cancer patients:
+narrative review.</article-title>
+<source>J Soc Integr Oncol</source>
+<volume>6</volume>
+<fpage>19</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="pmid">18302907</pub-id></element-citation></ref><ref id="pone.0014766-Price1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Price</surname><given-names>DD</given-names></name><name><surname>Finniss</surname><given-names>DG</given-names></name><name><surname>Benedetti</surname><given-names>F</given-names></name></person-group>
+<year>2008</year>
+<article-title>A comprehensive review of the placebo effect: recent advances and
+current thought.</article-title>
+<source>Annu Rev Psychol</source>
+<volume>59</volume>
+<fpage>565</fpage>
+<lpage>590</lpage>
+<pub-id pub-id-type="pmid">17550344</pub-id></element-citation></ref><ref id="pone.0014766-Pariente1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pariente</surname><given-names>J</given-names></name><name><surname>White</surname><given-names>P</given-names></name><name><surname>Frackowiak</surname><given-names>RS</given-names></name><name><surname>Lewith</surname><given-names>G</given-names></name></person-group>
+<year>2005</year>
+<article-title>Expectancy and belief modulate the neuronal substrates of pain
+treated by acupuncture.</article-title>
+<source>Neuroimage</source>
+<volume>25</volume>
+<fpage>1161</fpage>
+<lpage>1167</lpage>
+<pub-id pub-id-type="pmid">15850733</pub-id></element-citation></ref><ref id="pone.0014766-Linde1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Linde</surname><given-names>K</given-names></name><name><surname>Witt</surname><given-names>CM</given-names></name><name><surname>Streng</surname><given-names>A</given-names></name><name><surname>Weidenhammer</surname><given-names>W</given-names></name><name><surname>Wagenpfeil</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>The impact of patient expectations on outcomes in four randomized
+controlled trials of acupuncture in patients with chronic
+pain.</article-title>
+<source>Pain</source>
+<volume>128</volume>
+<fpage>264</fpage>
+<lpage>271</lpage>
+<pub-id pub-id-type="pmid">17257756</pub-id></element-citation></ref><ref id="pone.0014766-Higgins1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Higgins</surname><given-names>SC</given-names></name><name><surname>Montgomery</surname><given-names>GH</given-names></name><name><surname>Bovbjerg</surname><given-names>DH</given-names></name></person-group>
+<year>2007</year>
+<article-title>Distress before chemotherapy predicts delayed but not acute
+nausea.</article-title>
+<source>Support Care Cancer</source>
+<volume>15</volume>
+<fpage>171</fpage>
+<lpage>177</lpage>
+<pub-id pub-id-type="pmid">16896879</pub-id></element-citation></ref><ref id="pone.0014766-Shun1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shun</surname><given-names>SC</given-names></name><name><surname>Chiou</surname><given-names>JF</given-names></name><name><surname>Lai</surname><given-names>YH</given-names></name><name><surname>Yu</surname><given-names>PJ</given-names></name><name><surname>Wei</surname><given-names>LL</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Changes in quality of life and its related factors in liver
+cancer patients receiving stereotactic radiation therapy.</article-title>
+<source>Support Care Cancer</source>
+<volume>16</volume>
+<fpage>1059</fpage>
+<lpage>1065</lpage>
+<pub-id pub-id-type="pmid">18197433</pub-id></element-citation></ref><ref id="pone.0014766-Young1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Young</surname><given-names>SD</given-names></name><name><surname>Adelstein</surname><given-names>BD</given-names></name><name><surname>Ellis</surname><given-names>SR</given-names></name></person-group>
+<year>2007</year>
+<article-title>Demand characteristics in assessing motion sickness in a virtual
+environment: or does taking a motion sickness questionnaire make you
+sick?</article-title>
+<source>IEEE Trans Vis Comput Graph</source>
+<volume>13</volume>
+<fpage>422</fpage>
+<lpage>428</lpage>
+<pub-id pub-id-type="pmid">17356210</pub-id></element-citation></ref></ref-list></back></article>

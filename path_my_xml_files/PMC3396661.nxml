@@ -1,0 +1,603 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22808165</article-id><article-id pub-id-type="pmc">3396661</article-id><article-id pub-id-type="publisher-id">PONE-D-12-09453</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0040461</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Neuroscience</subject><subj-group><subject>Cognitive Neuroscience</subject><subj-group><subject>Decision Making</subject></subj-group></subj-group><subj-group><subject>Developmental Neuroscience</subject><subj-group><subject>Neuroglial Development</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Drugs and Devices</subject><subj-group><subject>Psychopharmacology</subject></subj-group></subj-group><subj-group><subject>Mental Health</subject><subj-group><subject>Psychiatry</subject><subj-group><subject>Adolescent Psychiatry</subject></subj-group></subj-group><subj-group><subject>Psychology</subject><subj-group><subject>Experimental Psychology</subject><subject>Neuropsychology</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Social and Behavioral Sciences</subject><subj-group><subject>Psychology</subject><subj-group><subject>Experimental Psychology</subject><subject>Neuropsychology</subject><subject>Social Psychology</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Minocycline Modulates Human Social Decision-Making: Possible Impact of Microglia on Personality-Oriented Social Behaviors</article-title><alt-title alt-title-type="running-head">Minocycline Modulate Human Social Decision-Making</alt-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><name><surname>Kato</surname><given-names>Takahiro A.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Watabe</surname><given-names>Motoki</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Tsuboi</surname><given-names>Sho</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ishikawa</surname><given-names>Katsuhiko</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hashiya</surname><given-names>Kazuhide</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Monji</surname><given-names>Akira</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Utsumi</surname><given-names>Hideo</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kanba</surname><given-names>Shigenobu</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Neuropsychiatry, Graduate School of Medical Sciences, Kyushu University, Fukuoka, Japan</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Innovation Center for Medical Redox Navigation, Kyushu University, Fukuoka, Japan</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Graduate School of Economics, Waseda University, Waseda, Japan</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Department of Psychology, Graduate School of Letters, Kyoto University, Kyoto, Japan</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Graduate School of Human-Environment Studies, Kyushu University, Fukuoka, Japan</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Krueger</surname><given-names>Frank</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">George Mason University/Krasnow Institute for Advanced Study, United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>takahiro@npsych.med.kyushu-u.ac.jp</email> (TAK); <email>motokiw@gmail.com</email> (MW)</corresp><fn fn-type="con"><p>Conceived and designed the experiments: TAK MW. Performed the experiments: TAK MW ST KI. Analyzed the data: MW. Contributed reagents/materials/analysis tools: TAK MW KH AM HU SK. Wrote the paper: TAK MW.</p></fn></author-notes><pub-date pub-type="collection"><year>2012</year></pub-date><pub-date pub-type="epub"><day>13</day><month>7</month><year>2012</year></pub-date><volume>7</volume><issue>7</issue><elocation-id>e40461</elocation-id><history><date date-type="received"><day>1</day><month>4</month><year>2012</year></date><date date-type="accepted"><day>7</day><month>6</month><year>2012</year></date></history><permissions><copyright-statement>Kato et al.</copyright-statement><copyright-year>2012</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Background</title><p>Microglia, one of the glial cells, play important roles in various brain pathologies including psychiatric disorders. In addition, microglia have recently been proved to monitor synaptic reactions via direct-touching even in normal brain. Human microglia may modulate various social/mental functions, while microglial social/mental roles remain unresolved especially in healthy humans. There is no known drug with the specific effect of modulating microglia. Therefore, using minocycline, a tetracycline antibiotic and the most famous microglial inhibitor, is one of the best alternative approaches to clarify microglial functions on human social/mental activities.</p></sec><sec><title>Methodology/Principal Findings</title><p>We conducted a double-blind randomized trial of trust game, a monetary decision-making experiment, with ninety-nine human adult males who decided how much to trust an anonymous partner after a four-day administration of minocycline. Our previous pilot trial indicated a positive effect of minocycline, while the underlying mechanisms were not clarified. Therefore, in this trial with larger samples, we additionally measured the effects of anxiety and personality. The monetary score in trust game was significantly lower in the minocycline group. Interestingly, participants&#x02019; ways of decision-making were significantly shifted; cooperativeness, one component of personality, proved to be the main modulating factor of decision-making in the placebo group, on the other hand, the minocycline group was mainly modulated by state anxiety and trustworthiness.</p></sec><sec><title>Conclusions/Significance</title><p>Our results suggest that minocycline led to more situation-oriented decision-making, possibly by suppressing the effects of personality traits, and furthermore that personality and social behaviors might be modulated by microglia. Early-life events may activate human microglia, establish a certain neuro-synaptic connection, and this formation may determine each human&#x02019;s personality and personality- oriented social behaviors in later life. To explore these mechanisms, further translational research is needed.</p></sec><sec><title>Trial Registration</title><p>UMIN clinical trial center <ext-link ext-link-type="uri" xlink:href="http://tinyurl.com/7yvmpxb">UMIN000004803</ext-link>
+</p></sec></abstract><counts><page-count count="9"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Microglia are one of the glial cells with immunological/inflammatory functions, and contribute to various brain pathologies; not only in neurodegenerative diseases <xref rid="pone.0040461-Graeber1" ref-type="bibr">[1]</xref>, <xref rid="pone.0040461-Hanisch1" ref-type="bibr">[2]</xref>, <xref rid="pone.0040461-Ransohoff1" ref-type="bibr">[3]</xref> but also in psychiatric disorders such as schizophrenia and autism <xref rid="pone.0040461-Morgan1" ref-type="bibr">[4]</xref>, <xref rid="pone.0040461-Monji1" ref-type="bibr">[5]</xref>, <xref rid="pone.0040461-vanBerckel1" ref-type="bibr">[6]</xref>. Minocycline, a tetracycline antibiotic, is known as the most famous microglial inhibitor <xref rid="pone.0040461-Tikka1" ref-type="bibr">[7]</xref>, which has recently been applied to brain diseases such as stroke and neurodegenerative diseases <xref rid="pone.0040461-Yong1" ref-type="bibr">[8]</xref>, <xref rid="pone.0040461-Lampl1" ref-type="bibr">[9]</xref>. In addition, minocycline has been suggested to be an effective drug for psychiatric disorders <xref rid="pone.0040461-Levkovitz1" ref-type="bibr">[10]</xref>, <xref rid="pone.0040461-Miyaoka1" ref-type="bibr">[11]</xref>. These reports suggest that inhibiting microglial activation may modulate human social and mental activities, and rodent studies have indicated this possibility <xref rid="pone.0040461-Hinwood1" ref-type="bibr">[12]</xref>, <xref rid="pone.0040461-Neigh1" ref-type="bibr">[13]</xref>.</p><p>Rodent microglia have recently been shown to monitor synaptic reactions via direct-touching not only in pathological brain but also in normal brain <xref rid="pone.0040461-Ransohoff2" ref-type="bibr">[14]</xref>, <xref rid="pone.0040461-Graeber2" ref-type="bibr">[15]</xref>, <xref rid="pone.0040461-Wake1" ref-type="bibr">[16]</xref>, <xref rid="pone.0040461-Tremblay1" ref-type="bibr">[17]</xref>, and have proved to play important roles in normal brain development such as synaptic pruning <xref rid="pone.0040461-Paolicelli1" ref-type="bibr">[18]</xref>. Neurons and neuronal networks including synapses have been dominantly believed to play crucial roles in human social/mental activities. The above-mentioned evidence indicates that human microglia may modulate various social/mental functions, while microglial social/mental roles continue to remain unresolved especially in healthy humans.</p><p>There is no known drug with the specific effect of modulating microglia. Therefore, using minocycline, a tetracycline antibiotic and the most famous microglial inhibitor, is one of the best alternative approaches to clarify microglial functions on human social/mental activities. One human study suggests that minocycline attenuates the subjective reward effects of dextroamphetamine <xref rid="pone.0040461-Sofuoglu1" ref-type="bibr">[19]</xref>, while, to our knowledge, the effects of minocycline on human social/mental activities are not well understood.</p><p>Crockett et al have revealed that serotonin modulates behavioral reactions to unfairness, via a monetary decision-making game with healthy volunteers who were administered tryptophan-depleted amino acid which induces lower serotonin levels <xref rid="pone.0040461-Crockett1" ref-type="bibr">[20]</xref>. In order to measure human social/mental activities, these monetary decision-making experiments have been actively applied because such experiments enable the analysis of the interaction between social/mental activities and actual social behaviors <xref rid="pone.0040461-Berg1" ref-type="bibr">[21]</xref>, <xref rid="pone.0040461-KingCasas1" ref-type="bibr">[22]</xref>. Pharmacology-based neuro-economic research is showing that human social behaviors are modulated by neurotransmitters such as serotonin and oxytocin <xref rid="pone.0040461-Crockett1" ref-type="bibr">[20]</xref>, <xref rid="pone.0040461-Barraza1" ref-type="bibr">[23]</xref>, <xref rid="pone.0040461-Kosfeld1" ref-type="bibr">[24]</xref>, <xref rid="pone.0040461-Zak1" ref-type="bibr">[25]</xref>. In addition, a significant link has recently been reported between the dopamine D4 receptor gene and fairness preference in ultimatum game <xref rid="pone.0040461-Zhong1" ref-type="bibr">[26]</xref>. However, the pharmacological interaction of social decision-making beyond neurotransmitters remains to be clarified <xref rid="pone.0040461-Rogers1" ref-type="bibr">[27]</xref>.</p><p>As a first step in this direction, we recently conducted a pilot experiment with trust game, one of the decision-making experiments, with minocycline <xref rid="pone.0040461-Watabe1" ref-type="bibr">[28]</xref>. The forty-nine participants, healthy adult humans, made a monetary decision about whether or not to trust an anonymous partner after a four-day oral administration of minocycline or placebo. The minocycline group showed a strong and positive correlation between their scores in trust game and their pre-evaluation scores in others&#x02019; trustworthiness, but the placebo group did not. These pilot data have suggested that inhibitory effects of microglial activation may sharpen a sense of trust in social behavior, and this effect would enhance situation- oriented behaviors according to immediate social situations. In trust game, a player&#x02019;s optimal decision depends on his/her prediction about the other player&#x02019;s decision. Thus, social environment, including the other&#x02019;s behavior, determines what behavior the player should take. In our actual life, however, our decisions are determined not only by social environment but also by our fundamental mental factors such as temperament and character (i.e. personality), which are independent from situational factors and may strongly impact on decision-making. These factors may act as a &#x0201c;noise&#x0201d; in trust game and during similar human decision-making situations <xref rid="pone.0040461-Vilares1" ref-type="bibr">[29]</xref>. Our pilot data demonstrated that only the minocycline group showed situation- oriented decision-making, which suggests that microglia may be inducing the &#x0201c;noise&#x0201d; consistently and inhibiting microglial activation could reduce this &#x0201c;noise&#x0201d; effect. However, the underlying mechanisms of &#x0201c;noise&#x0201d; were not clarified in our previous trial <xref rid="pone.0040461-Watabe1" ref-type="bibr">[28]</xref>, thus the next appropriate step is the measurement of the effects of not only trustworthiness but also anxiety and personality.</p><p>Therefore, to clarify the microglial &#x0201c;noise&#x0201d; effect during human social decision-making, we newly explored whether anxiety and personality as a &#x0201c;noise&#x0201d; influences outcomes of trust game on humans with minocycline or placebo. To improve the small sample size and the weaker statistical power of our previous trial, we newly conducted the trial with larger samples (about one hundred participants).</p></sec><sec sec-type="materials|methods" id="s2"><title>Methods and Materials</title><p>The protocol for this trial and supporting CONSORT checklist are available as supporting information; see Checklist S1, Protocol S1 and Protocol S2. This double-blind randomized study was approved by the Kyushu University Ethical Committee under the administration of the UMIN clinical trial center (<bold>UMIN000004803</bold>). All the participants of the present experiment, which was conducted in December 2010, were unique to this study and differ from the previous participants who enrolled in an earlier experiment in March 2010 under the administration of the UMIN clinical trial center (UMIN000003281: published in Watabe et al. Psychopharmacology 2012). Flow diagram of this study is listed on <xref ref-type="fig" rid="pone-0040461-g001">
+<bold>Figure 1</bold>
+</xref>. All participants gave written informed consent to participate after a complete description of the study. Participants were administered minocycline or placebo for four days, after which they played a trust game with an anonymous partner.</p><fig id="pone-0040461-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0040461.g001</object-id><label>Figure 1</label><caption><title>Flow Diagram of This Study.</title></caption><graphic xlink:href="pone.0040461.g001"/></fig><sec id="s2a"><title>Subjects</title><p>Participants were recruited by advertisements on campus. Inclusion criterion was as follows; healthy adult males from 20 to 30 years old who can obtain informed consent. Exclusion criteria were the following five items; 1) those who have had side effects to antibiotics including minocycline, 2) those who have severe heart, liver or kidney disease, 3) those who have a tendency to develop allergies, and 4) those who have been diagnosed with psychiatric disorders. Their mental and physical health was confirmed by interview with a psychiatrist (TAK). All the participants were qualified for this study (<bold><xref ref-type="supplementary-material" rid="pone.0040461.s001">Table S1</xref></bold>).</p></sec><sec id="s2b"><title>Drug Administration</title><p>Participants received a sheet describing their detailed dosing schedule. They were then asked to write the exact time of every dosing, and to submit every capsule package as evidence of dosing. Participants started to take a capsule in the evening of the first day and twice daily (morning and evening) for four days afterward. On the day of the game experiment (the fifth day), they were instructed to take the last capsule three-hours prior to the appointment time for the experiment so that all participants played the trust game under the similar drug effect. Each capsule contained 100 mg minocycline (in the treatment group) or 100 mg lactose (in the placebo group). This minocycline dose (200 mg/day) is within the range of the usual daily dose used for treatment of infections <xref rid="pone.0040461-Jonas1" ref-type="bibr">[30]</xref>, and this dose has also been applied in recent clinical trials <xref rid="pone.0040461-Levkovitz1" ref-type="bibr">[10]</xref>, <xref rid="pone.0040461-Sofuoglu1" ref-type="bibr">[19]</xref>. Participants were randomly assigned to the treatment group or to the placebo group in advance, with a double-blind procedure.</p></sec><sec id="s2c"><title>Procedure</title><p>Prior to drug administration, participants completed a set of questionnaires (details in <bold>Scales</bold>). After four days of drug administration, participants were interviewed by physicians regarding side effects, other medications, and adherence to the drug administration protocol. They then played a trust game <xref rid="pone.0040461-Berg1" ref-type="bibr">[21]</xref> and responded to the same set of questionnaires they had completed before administration.</p></sec><sec id="s2d"><title>Trust Game</title><p>
+<xref ref-type="fig" rid="pone-0040461-g002">
+<bold>Figure 2</bold>
+</xref> shows the structure of trust game. In this two-player game, each player was initially given 1300 JPY (nine hundred JPY had been used in our previous trial <xref rid="pone.0040461-Watabe1" ref-type="bibr">[28]</xref>, but to let participants recognized clearer incentive and make their decisions more seriously, we used 1300 JPY (about 15 USD) in this new trial so that we can obtain more reliable behavioral data). The first player then decided how much of the 1300 JPY to give to the second player. The second player then went to another room, where the amount of money given to him by the first player was tripled. The second player then decided whether to split his money equally with the first player or to take all of his money. In this experiment, all the participants were actually assigned to be the first player. The first player&#x02019;s decision as to how much money to give to the second player is thought to be the first player&#x02019;s level of trust in his partner. The amount of money given was expected to be a behavioral measure of the first player&#x02019;s trustfulness.</p><fig id="pone-0040461-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0040461.g002</object-id><label>Figure 2</label><caption><title>Trust Game Structure.</title></caption><graphic xlink:href="pone.0040461.g002"/></fig><p>In this experiment, participants had no information about the partner except that he was male. The participants thus were likely to have made their decisions based primarily on how much they trusted others in general. All the participants&#x02019; partner was actually a research confederate and always the same person, a 22-year-old Japanese male. In order to control the participant&#x02019;s impression of the partner, the partner acted and talked exactly in the same way throughout all the experimental sessions.</p></sec><sec id="s2e"><title>Scales</title><p>Our previous trial showed the positive correlation between participants&#x02019; scores in trust game and their pre-evaluation scores in others&#x02019; trustworthiness, while we did not examined other psychological factors and thus the underlying mechanisms were not clarified <xref rid="pone.0040461-Watabe1" ref-type="bibr">[28]</xref>. Therefore, we examined the effects of anxiety and personality, in addition to the trust scores, in this trial. The following self-rated questionnaires were completed by the participants at pre- and post-treatment.</p></sec><sec id="s2f"><title>Temperament and Character Inventory (TCI)</title><p>TCI is based on the seven-factor model of temperament and character in personality <xref rid="pone.0040461-Cloninger1" ref-type="bibr">[31]</xref>. According to TCI model, personality is classified into temperament, which consists of Novelty Seeking (NS), Harm Avoidance (HA), Reward Dependence (RD), Persistence (PS), and character, which consists of Self-Directedness (SD), Cooperativeness (C), Self-Transcendence (ST) with a four-point Likert type scale. We used a Japanese version with 125 questions (TCI-125) <xref rid="pone.0040461-Kijima1" ref-type="bibr">[32]</xref>, which was kindly provided for use in this study from the HUMAN CAPITAL CONSULTING Corporation, Tokyo, Japan.</p></sec><sec id="s2g"><title>State-Trait Anxiety Inventory (STAI)</title><p>This anxiety scale with 20 questions consists of two factors; state anxiety, which refers to relatively unstable emotional threat to current situations, and trait anxiety, which refers to relatively stable emotional threat consistently felt in daily life <xref rid="pone.0040461-Spielberger1" ref-type="bibr">[33]</xref>.</p></sec><sec id="s2h"><title>General Trust Scale (GTS)</title><p>GTS consists of six questions with a seven-point Likert type scale developed by Yamagishi and Yamagishi <xref rid="pone.0040461-Yamagishi1" ref-type="bibr">[34]</xref>. This scale measures respondents&#x02019; estimation of others&#x02019; trustworthiness. The reliability and validity of GTS have been confirmed across many countries <xref rid="pone.0040461-Gheorghiu1" ref-type="bibr">[35]</xref>. According to past research on GTS, the major confounders of general trust are culture, sex and education level <xref rid="pone.0040461-Yamagishi1" ref-type="bibr">[34]</xref>. To eliminate the effects of these confounders, we recruited a homogenous sample as possible. As a result, all the participants were Japanese males and who had collage/university level educations so that we could test the effect of general trust without these confounders.</p></sec><sec id="s2i"><title>Data Analysis</title><p>Ninety-nine Japanese males, out of 101 entries, completed our experiments (mean age 21.52 years, SD 1.65 years), and analysis was conducted on this data. Among the participants, four (three in the minocycline condition, one in the control condition) failed to complete the questionnaires of STAI and GTS, so the analyses including these two scales were performed with the data of the 95 participants. All of the data analyses were performed with SPSS ver.19.</p></sec></sec><sec id="s3"><title>Results</title><p>In our previous trial, the statistical power was 0.766, and the statistical power in the present trial is 0.847. Therefore, the present trial exceeds the suggested efficient power of 0.8. The following analyses are shown with this more appropriate power.</p><sec id="s3a"><title>Behavior in Trust Game</title><p>We compared the mean amount of participants&#x02019; monetary offers in trust game by a t-test (<xref ref-type="table" rid="pone-0040461-t001">
+<bold>Table 1</bold>
+</xref>). The monetary score in trust game was significantly lower in the minocycline group compared to the placebo group (<italic>t</italic>(97)&#x0200a;=&#x0200a;2.08, <italic>p</italic>&#x0003c;.05). This result is consistent with our pilot study <xref rid="pone.0040461-Watabe1" ref-type="bibr">[28]</xref>.</p><table-wrap id="pone-0040461-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0040461.t001</object-id><label>Table 1</label><caption><title>Behavior in Trust Game, and Effects of Minocycline on Personality, Anxiety and Trust.</title></caption><alternatives><graphic id="pone-0040461-t001-1" xlink:href="pone.0040461.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Category</td><td align="left" rowspan="1" colspan="1">Subcategory</td><td colspan="2" align="left" rowspan="1">Before Treatment</td><td colspan="2" align="left" rowspan="1">After Treatment</td><td align="left" rowspan="1" colspan="1">Before-After</td><td align="left" rowspan="1" colspan="1">Control-Minocycline</td><td align="left" rowspan="1" colspan="1">Interaciton</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Control</td><td align="left" rowspan="1" colspan="1">Minocycline</td><td align="left" rowspan="1" colspan="1">Control</td><td align="left" rowspan="1" colspan="1">Minocycline</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Monetary Score in Trust Game (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02013;</bold>
+</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="left" rowspan="1" colspan="1">61.38 (32.43)</td><td align="left" rowspan="1" colspan="1">48.77 (27.70)</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="left" rowspan="1" colspan="1">
+<italic>t</italic>(97)&#x0200a;=&#x0200a;2.08, <italic>p</italic>&#x0003c;.05</td><td align="left" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TCI (from 1 to 20)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Self-Transcendence</bold>
+</td><td align="left" rowspan="1" colspan="1">10.69 (2.05)</td><td align="left" rowspan="1" colspan="1">10.82 (2.19)</td><td align="left" rowspan="1" colspan="1">10.52 (2.47)</td><td align="left" rowspan="1" colspan="1">10.57 (2.63)</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Cooperative-ness</bold>
+</td><td align="left" rowspan="1" colspan="1">14.98 (1.79)</td><td align="left" rowspan="1" colspan="1">14.98 (1.89)</td><td align="left" rowspan="1" colspan="1">14.80 (1.91)</td><td align="left" rowspan="1" colspan="1">14.79 (1.98)</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Self-Directedness</bold>
+</td><td align="left" rowspan="1" colspan="1">12.87 (0.20)</td><td align="left" rowspan="1" colspan="1">12.71 (0.22)</td><td align="left" rowspan="1" colspan="1">12.62 (1.98)</td><td align="left" rowspan="1" colspan="1">12.22 (2.09)</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Persistence</bold>
+</td><td align="left" rowspan="1" colspan="1">12.86 (2.14)</td><td align="left" rowspan="1" colspan="1">13.54 (2.53)</td><td align="left" rowspan="1" colspan="1">13.31 (2.34)</td><td align="left" rowspan="1" colspan="1">13.76 (2.25)</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Reward Dependence</bold>
+</td><td align="left" rowspan="1" colspan="1">14.07 (1.88)</td><td align="left" rowspan="1" colspan="1">14.28 (2.38)</td><td align="left" rowspan="1" colspan="1">14.10 (1.75)</td><td align="left" rowspan="1" colspan="1">14.10 (2.21)</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Harm Avoidance</bold>
+</td><td align="left" rowspan="1" colspan="1">13.51 (2.47)</td><td align="left" rowspan="1" colspan="1">13.30 (2.37)</td><td align="left" rowspan="1" colspan="1">13.55 (2.50)</td><td align="left" rowspan="1" colspan="1">13.26 (2.56)</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Novelty Seekng</bold>
+</td><td align="left" rowspan="1" colspan="1">12.97 (1.69)</td><td align="left" rowspan="1" colspan="1">12.99 (1.76)</td><td align="left" rowspan="1" colspan="1">12.94 (1.77)</td><td align="left" rowspan="1" colspan="1">13.02 (1.62)</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>STAI (from 1 to 4)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>State Anxiety</bold>
+</td><td align="left" rowspan="1" colspan="1">2.04 (0.45)</td><td align="left" rowspan="1" colspan="1">2.00 (0.53)</td><td align="left" rowspan="1" colspan="1">2.11 (0.51)</td><td align="left" rowspan="1" colspan="1">2.28 (0.57)</td><td align="left" rowspan="1" colspan="1">
+<italic>F</italic>(1, 93)&#x0200a;=&#x0200a;18.60 <italic>p</italic>&#x0003c;.01</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>F</italic>(1, 93)&#x0200a;=&#x0200a;6.57 <italic>p</italic>&#x0003c;.05</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<bold>Trait Anxiety</bold>
+</td><td align="left" rowspan="1" colspan="1">2.33 (0.52)</td><td align="left" rowspan="1" colspan="1">2.21 (0.56)</td><td align="left" rowspan="1" colspan="1">2.27 (0.51)</td><td align="left" rowspan="1" colspan="1">2.27 (0.58)</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">ns.</td><td align="left" rowspan="1" colspan="1">ns.</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>General Trust Score (from 1 to 7)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>-</bold>
+</td><td align="left" rowspan="1" colspan="1">4.31 (1.06)</td><td align="left" rowspan="1" colspan="1">4.51 (1.12)</td><td align="left" rowspan="1" colspan="1">4.41 (1.07)</td><td align="left" rowspan="1" colspan="1">4.53 (1.04)</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>ns.</italic>
+</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>We performed t-test on the behavior (monetary score) in trust game, and the average scores are shown in the Table. The effects of minocycline on personality, anxiety and trust were evaluated with the seven subscales of TCI, the two subscales of STAI, and GTS. We performed ANOVA with a repeated measure; the scores of the subscales as the dependent variable, and drug condition (Minocycline vs. Control), repeated measure of the subscales&#x02019; scores (<italic>Before</italic> vs. <italic>After</italic> treatment) and their interaction as independent variables. As four participants (three for control, one for minocycline group) failed to complete the questions of STAI and GTS, 95 sets of data were analyzed. Significant and/or marginal effects are shown in the Table. Results were expressed as means (S.D.).</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3b"><title>Effects of Minocycline on Personality, Anxiety and Trust</title><p>The effects of minocycline on personality, anxiety and trust were evaluated with the seven subscales of TCI, the two subscales of STAI, and GTS. We performed ANOVA with a repeated measure; the scores of the subscales as the dependent variable, and drug condition (Minocycline vs. Control), repeated measure of the subscales&#x02019; scores (<italic>Before</italic> vs. <italic>After</italic> treatment) and their interaction as independent variables (<xref ref-type="table" rid="pone-0040461-t001">
+<bold>Table 1</bold>
+</xref>).</p><p>There was no significant interaction term on each of the subscale of TCI. The main effect of time (<italic>Before</italic> vs. <italic>After</italic> treatment) was significant for <italic>Persistence</italic>. The score of <italic>Persistence</italic> is higher <italic>After</italic> (mean score&#x0200a;=&#x0200a;13.09, SD&#x0200a;=&#x0200a;.237) than <italic>Before</italic> (mean score&#x0200a;=&#x0200a;13.46, SD&#x0200a;=&#x0200a;.236). No effect was found on the rest of the items. These results indicate that participants&#x02019; personality itself was not significantly affected by minocycline.</p><p>On STAI, interaction effect and main effect were significant on <italic>Before-After</italic> for state anxiety. Compared to the control group, the state anxiety score increased steeply in the minocycline group. According to simple main effect test, the score after the treatment was significantly higher in the minocycline group than in the control group (<italic>p</italic>&#x0003c;.001). Thus, this result may explain the cause of the lower trusting behavior for minocycline group in trust game. We found no significant effect on trait anxiety.</p><p>On GTS, there were no main or interaction effects.</p></sec><sec id="s3c"><title>Effects of Minocycline on Decision-Making Style</title><p>Next, to examine the effects of minocycline on decision-making style, we performed a multiple linear regression analysis of the amount of money offered (monetary score) in trust game as the dependent variable, and subscales of TCI, STAI and GTS as independent variables by conditions (<xref ref-type="table" rid="pone-0040461-t002">
+<bold>Table 2</bold>
+</xref>). We revealed that state anxiety (<italic>&#x003b2;</italic>&#x0200a;=&#x0200a;&#x02212;.795, <italic>t</italic>&#x0200a;=&#x0200a;&#x02212;4.42, <italic>p</italic>&#x0200a;=&#x0200a;.001) and trust (<italic>&#x003b2;</italic>&#x0200a;=&#x0200a;.321, <italic>t</italic>&#x0200a;=&#x0200a;2.35, <italic>p</italic>&#x0200a;=&#x0200a;.023) have significant effects in the minocycline group (<italic>R<sup>2</sup></italic>&#x0200a;=&#x0200a;.288, <italic>F</italic>(3,46)&#x0200a;=&#x0200a;9.30, <italic>p</italic>&#x0200a;=&#x0200a;.001) while only cooperation scale of TCI (<italic>&#x003b2;</italic>&#x0200a;=&#x0200a;.486, <italic>t</italic>&#x0200a;=&#x0200a;2.58, <italic>p</italic>&#x0200a;=&#x0200a;.013) was significant in the control group (<italic>R<sup>2</sup></italic>&#x0200a;=&#x0200a;.092, <italic>F</italic>(3,42)&#x0200a;=&#x0200a;2.51, <italic>p</italic>&#x0200a;=&#x0200a;.078). Our novel finding in the present study is that the effect of state anxiety was stronger than that of trustworthiness. In sum, for the minocycline group, the less state anxiety and the more trustful, the more trusting behavior; while for the control group, the more cooperativeness, the more trusting behavior.</p><table-wrap id="pone-0040461-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0040461.t002</object-id><label>Table 2</label><caption><title>Multiple Regression Analysis on Behavior in Trust Game.</title></caption><alternatives><graphic id="pone-0040461-t002-2" xlink:href="pone.0040461.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Independent Variable</td><td align="left" rowspan="1" colspan="1">Control Group</td><td align="left" rowspan="1" colspan="1">Minocycline Group</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Beta</td><td align="left" rowspan="1" colspan="1">Beta</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Cooperativeness (TCI)</td><td align="left" rowspan="1" colspan="1">.486&#x0002a;</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Reward Dependence(TCI)</td><td align="left" rowspan="1" colspan="1">&#x02212;.281</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Self-Directedness (TCI)</td><td align="left" rowspan="1" colspan="1">&#x02212;.284</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">State Anxiety (STAI)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02212;.583<xref ref-type="table-fn" rid="nt103">&#x0002a;&#x0002a;</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">General Trust</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">.321&#x0002a;</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>N&#x0200a;=&#x0200a;46, R<sup>2</sup>&#x0200a;=&#x0200a;.092, F(3, 42)&#x0200a;=&#x0200a;2.51, p&#x0003c;.10</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>N&#x0200a;=&#x0200a;49, R<sup>2</sup>&#x0200a;=&#x0200a;.288, F(2, 46)&#x0200a;=&#x0200a;9.30, p&#x0003c;.001</italic>
+</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt102"><label/><p>Note: &#x0002a;p&#x0003c;.05,</p></fn><fn id="nt103"><label>&#x0002a;&#x0002a;</label><p>p&#x0003c;.01.</p></fn><fn id="nt104"><label/><p>We performed a multiple linear regression analysis of the amount of money offered in trust game as the dependent variable, and subscales of TCI, STAI and GTS as independent variables by conditions. Remarkable effects are shown in the Table.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="s4"><title>Discussion</title><p>As a first step to explore how microglia modulates human social/mental activities, we showed the novel effect of minocycline, the most famous inhibitor of microglial activation, on human monetary decision-making in trust game. Our previous trial, with smaller sample size and weaker statistical power, indicated the positive effect of minocycline on trust game, while the significant results were limited. In the present trial, we newly revealed that the monetary score in trust game was significantly lower in the minocycline group. Another novel finding was that minocycline treatment itself did not change personality, while, surprisingly participants&#x02019; ways of decision-making were significantly shifted; cooperativeness, one component of personality, was the main modulating factor of decision-making in the placebo group, on the other hand, the minocycline group was mainly modulated by state anxiety and trustworthiness, both of which are known to be mainly dependent on real-time environments such as present social situation. In addition, the effect of state anxiety was stronger than that of trustworthiness. These results suggest that minocycline led to more situation-oriented decision-making, supporting our &#x0201c;noise reduction&#x0201d; hypothesis <xref rid="pone.0040461-Watabe1" ref-type="bibr">[28]</xref>; participants&#x02019; personality may act as a &#x0201c;noise&#x0201d; during human social decision-making and minocycline may mimic personality- oriented behaviors.</p><sec id="s4a"><title>Impact of Microglia on Personality-Oriented Social Behaviors</title><p>The novel effects of minocycline may explain the unknown role of microglia in social/mental activities. Until now, no study has reported microglial activities in healthy human subjects, while microglia have proved to play important roles in normal brain by communicating with neurons via releasing mediators and synaptic direct contact in rodent studies <xref rid="pone.0040461-Ransohoff2" ref-type="bibr">[14]</xref>, <xref rid="pone.0040461-Graeber2" ref-type="bibr">[15]</xref>, <xref rid="pone.0040461-Wake1" ref-type="bibr">[16]</xref>. Therefore, human microglia may perform actively even in healthy brains, and inhibiting microglial activation with minocycline may create a shift from personality-oriented behaviors to situation-oriented behaviors by modulating neuro-synaptic-microglial networks. Rodent microglia play essential roles in synaptic pruning <xref rid="pone.0040461-Paolicelli1" ref-type="bibr">[18]</xref>, which has pointed to the cryptic roles of microglia in human brain development. A recent study suggests that rodent microglial activation by infections during early developmental periods last, and these pre-activated microglia will be re-activated rapidly compared to normal state microglia <xref rid="pone.0040461-Bilbo1" ref-type="bibr">[36]</xref>. Another study has suggested that microglia have a crucial role in the process of early-life memory in rats <xref rid="pone.0040461-Williamson1" ref-type="bibr">[37]</xref>. Early-life events can significantly modulate normal learning-dependent cytokine activity within the hippocampus, via a specific, enduring impact on brain microglial function, and preventing microglial activation by minocycline during learning prevents memory impairment in neonatally infected rats. Microglia are known to be activated not only by infection but also by physical and psychological stress in rodent studies <xref rid="pone.0040461-Hinwood1" ref-type="bibr">[12]</xref>, <xref rid="pone.0040461-Sugama1" ref-type="bibr">[38]</xref>, <xref rid="pone.0040461-Schiavone1" ref-type="bibr">[39]</xref>, <xref rid="pone.0040461-Wohleb1" ref-type="bibr">[40]</xref>. In addition, Wei et al. reported that early life stress inhibits expression of a novel innate immune pathway in the developing hippocampus in pups <xref rid="pone.0040461-Wei1" ref-type="bibr">[41]</xref>. Based on these recent findings, we suggest the possible existence of the following mechanism on personality and social behaviors; early-life environmental experiences such as psychological stress and traumatic events may activate human microglia, establish a certain neuro-synaptic-microglial connection, which may be memorized unconsciously as a primer for an extended period, and this formation in the human brain may determine each human&#x02019;s personality and personality- oriented social behaviors in later life (<xref ref-type="fig" rid="pone-0040461-g003">
+<bold>Figure 3</bold>
+</xref>). In addition, we can interpret the present results as follows; the control group&#x02019;s personality- oriented behaviors could be formulated by microglial priming effects, and the minocycline group&#x02019;s situation- oriented behaviors may be induced by suppressing microglial contribution to social behaviors. Further studies are needed to clarify contributions of microglia to human development including personality formation, and social/mental activities in later life.</p><fig id="pone-0040461-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0040461.g003</object-id><label>Figure 3</label><caption><title>Possible Impact of Microglia on Personality and Social Behaviors.</title><p>Early-life environmental experiences such as psychological stress and traumatic events may activate human microglia, establish a certain neuro-synaptic-microglial connection, which is memorized unconsciously as a primer for an extended period, and this formation in the human brain determines each human&#x02019;s personality and personality- oriented social behaviors in later life. In sum, neuronal networks with active microglia may induce noisy-decision-making, which is equivalent to personality- oriented behaviors (A). On the other hand, decision-making with neuronal dominant networks may induce straightforward behaviors, which are less affected by personality (B). In the present study, the control group&#x02019;s personality- oriented behaviors could be formulated by microglial priming effects (A), and the minocycline group&#x02019;s situation- oriented behaviors may be induced by suppressing microglial contribution to social behaviors (B).</p></caption><graphic xlink:href="pone.0040461.g003"/></fig></sec><sec id="s4b"><title>Clinical Implication</title><p>Minocycline has been suggested to be an effective drug for psychiatric disorders <xref rid="pone.0040461-Levkovitz1" ref-type="bibr">[10]</xref>, <xref rid="pone.0040461-Miyaoka1" ref-type="bibr">[11]</xref>. Disturbed decision-making is a common symptom of various psychiatric disorders <xref rid="pone.0040461-Bjork1" ref-type="bibr">[42]</xref>, <xref rid="pone.0040461-Loughland1" ref-type="bibr">[43]</xref>, and this disturbance is treated by psychotropic drugs such as antipsychotics and antidepressants, which have proved to inhibit microglial activation from <italic>in vitro</italic> studies <xref rid="pone.0040461-Kato1" ref-type="bibr">[44]</xref>, <xref rid="pone.0040461-Kato2" ref-type="bibr">[45]</xref>, <xref rid="pone.0040461-Horikawa1" ref-type="bibr">[46]</xref>, <xref rid="pone.0040461-Kato3" ref-type="bibr">[47]</xref>, <xref rid="pone.0040461-Kato4" ref-type="bibr">[48]</xref>. In addition, a recent study suggests that effort-based decision-making in rat is modulated by estradiol <xref rid="pone.0040461-Uban1" ref-type="bibr">[49]</xref>, a sex hormone, which also has inhibitory effects on microglial activation <xref rid="pone.0040461-Akabori1" ref-type="bibr">[50]</xref>, <xref rid="pone.0040461-Saijo1" ref-type="bibr">[51]</xref>. These data support our minocycline results, and indicate that psychiatric treatments may modulate microglial contribution to disturbed decision-making in social behaviors. To develop our results and these perspectives, animal based decision-making experiments with minocycline (or other microglial inhibitors) and histological analysis of microglia are called for in the near future. In addition, clinical trials of social decision-making experiments focusing on microglia should be attempted.</p></sec><sec id="s4c"><title>Limitation</title><p>First, this study did not examine the dose-dependent effects of minocycline. Second, this study was conducted only with adult males, while there may be a difference when players are female. Third, we did not measure microglia activity in the brain via imaging methods, while minocycline may inhibit some brain regional activities which are thought to be linked to trust and social decision-making <xref rid="pone.0040461-Lee1" ref-type="bibr">[52]</xref>, <xref rid="pone.0040461-Converse1" ref-type="bibr">[53]</xref>. Therefore, brain imaging studies are needed to clarify these regional activation mechanisms. Finally, other possible minocycline effects should be taken into account. Apart from inhibiting microglial activation, minocycline also has been reported to interact with brain glutamate and dopamine neurotransmission <xref rid="pone.0040461-Yrjanheikki1" ref-type="bibr">[54]</xref>, <xref rid="pone.0040461-Du1" ref-type="bibr">[55]</xref> and to have direct effects on neuronal cell line, PC12 <xref rid="pone.0040461-Hashimoto1" ref-type="bibr">[56]</xref>. Some reports suggest positive links between microglia, glutamate and dopamine interaction <xref rid="pone.0040461-Tikka2" ref-type="bibr">[57]</xref>, <xref rid="pone.0040461-Purisai1" ref-type="bibr">[58]</xref>. Further research should be performed to clarify this interaction mechanism. No specific inhibitor of microglia exists to date, therefore we selected minocycline as the most appropriate and safest drug to be used in humans at present. When a safe, specific inhibitor of microglial activation is developed, microglial human function will be clarified more effectively.</p></sec><sec id="s4d"><title>Conclusion</title><p>Based on the results of the present human social decision-making experiment, we have proposed a novel microglial contribution to personality and social behaviors. Our present study may shed new light on microglial roles in the social and mental life of healthy humans and also of people with psychiatric disorders. To explore these perspectives, further <italic>in vitro/in vivo</italic> studies and translational research are needed.</p></sec><sec id="s4e"><title>Ethics Statement</title><p>This double-blind randomized study was approved by the Kyushu University Ethical Committee under the administration of the UMIN clinical trial center (<bold>UMIN000004803</bold>). All participants gave written informed consent to participate after a complete description of the study.</p></sec></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0040461.s001"><label>Table S1</label><caption><p>
+<bold>Participants List.</bold>
+</p><p>(XLS)</p></caption><media xlink:href="pone.0040461.s001.xls"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0040461.s002"><label>Checklist S1</label><caption><p>
+<bold>CONSORT Checklist.</bold>
+</p><p>(DOC)</p></caption><media xlink:href="pone.0040461.s002.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0040461.s003"><label>Protocol S1</label><caption><p>
+<bold>Trial Protocol.</bold>
+</p><p>(DOC)</p></caption><media xlink:href="pone.0040461.s003.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0040461.s004"><label>Protocol S2</label><caption><p>
+<bold>Japanese Version of Trial Protocol.</bold>
+</p><p>(DOC)</p></caption><media xlink:href="pone.0040461.s004.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We thank Prof. Toshinori Kitamura for his kind advice in the usage of TCI. We thank Kaori Ishibashi, Lui Aoki, Fumika Hideshima, Hideki Horikawa, Yoshihiro Seki, Mina Sato-Kasai and Yusuke Yamauchi for their assistance, and are indebted to all our participants.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>All the authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This work was financially supported by Grant-in-Aid from the Japan Society for the Promotion of Science (JSPS) to Dr. Kato, Dr. Watabe, Dr. Hashiya, Dr. Monji, Dr. Utsumi and Dr. Kanba, and a JSPS Research Fellow Grant to Dr. Tsuboi. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0040461-Graeber1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Graeber</surname><given-names>MB</given-names></name><name><surname>Streit</surname><given-names>WJ</given-names></name></person-group>
+<year>2010</year>
+<article-title>Microglia: biology and pathology.</article-title>
+<source>Acta Neuropathol</source>
+<volume>119</volume>
+<fpage>89</fpage>
+<lpage>105</lpage>
+<pub-id pub-id-type="pmid">20012873</pub-id></element-citation></ref><ref id="pone.0040461-Hanisch1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hanisch</surname><given-names>UK</given-names></name><name><surname>Kettenmann</surname><given-names>H</given-names></name></person-group>
+<year>2007</year>
+<article-title>Microglia: active sensor and versatile effector cells in the normal and pathologic brain.</article-title>
+<source>Nat Neurosci</source>
+<volume>10</volume>
+<fpage>1387</fpage>
+<lpage>1394</lpage>
+<pub-id pub-id-type="pmid">17965659</pub-id></element-citation></ref><ref id="pone.0040461-Ransohoff1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ransohoff</surname><given-names>RM</given-names></name><name><surname>Cardona</surname><given-names>AE</given-names></name></person-group>
+<year>2010</year>
+<article-title>The myeloid cells of the central nervous system parenchyma.</article-title>
+<source>Nature</source>
+<volume>468</volume>
+<fpage>253</fpage>
+<lpage>262</lpage>
+<pub-id pub-id-type="pmid">21068834</pub-id></element-citation></ref><ref id="pone.0040461-Morgan1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morgan</surname><given-names>JT</given-names></name><name><surname>Chana</surname><given-names>G</given-names></name><name><surname>Pardo</surname><given-names>CA</given-names></name><name><surname>Achim</surname><given-names>C</given-names></name><name><surname>Semendeferi</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Microglial activation and increased microglial density observed in the dorsolateral prefrontal cortex in autism.</article-title>
+<source>Biol Psychiatry</source>
+<volume>68</volume>
+<fpage>368</fpage>
+<lpage>376</lpage>
+<pub-id pub-id-type="pmid">20674603</pub-id></element-citation></ref><ref id="pone.0040461-Monji1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Monji</surname><given-names>A</given-names></name><name><surname>Kato</surname><given-names>T</given-names></name><name><surname>Kanba</surname><given-names>S</given-names></name></person-group>
+<year>2009</year>
+<article-title>Cytokines and schizophrenia: Microglia hypothesis of schizophrenia.</article-title>
+<source>Psychiatry Clin Neurosci</source>
+<volume>63</volume>
+<fpage>257</fpage>
+<lpage>265</lpage>
+<pub-id pub-id-type="pmid">19579286</pub-id></element-citation></ref><ref id="pone.0040461-vanBerckel1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Berckel</surname><given-names>BN</given-names></name><name><surname>Bossong</surname><given-names>MG</given-names></name><name><surname>Boellaard</surname><given-names>R</given-names></name><name><surname>Kloet</surname><given-names>R</given-names></name><name><surname>Schuitemaker</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Microglia activation in recent-onset schizophrenia: a quantitative (R)-[11C]PK11195 positron emission tomography study.</article-title>
+<source>Biol Psychiatry</source>
+<volume>64</volume>
+<fpage>820</fpage>
+<lpage>822</lpage>
+<pub-id pub-id-type="pmid">18534557</pub-id></element-citation></ref><ref id="pone.0040461-Tikka1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tikka</surname><given-names>T</given-names></name><name><surname>Fiebich</surname><given-names>BL</given-names></name><name><surname>Goldsteins</surname><given-names>G</given-names></name><name><surname>Keinanen</surname><given-names>R</given-names></name><name><surname>Koistinaho</surname><given-names>J</given-names></name></person-group>
+<year>2001</year>
+<article-title>Minocycline, a tetracycline derivative, is neuroprotective against excitotoxicity by inhibiting activation and proliferation of microglia.</article-title>
+<source>J Neurosci</source>
+<volume>21</volume>
+<fpage>2580</fpage>
+<lpage>2588</lpage>
+<pub-id pub-id-type="pmid">11306611</pub-id></element-citation></ref><ref id="pone.0040461-Yong1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yong</surname><given-names>VW</given-names></name><name><surname>Wells</surname><given-names>J</given-names></name><name><surname>Giuliani</surname><given-names>F</given-names></name><name><surname>Casha</surname><given-names>S</given-names></name><name><surname>Power</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>The promise of minocycline in neurology.</article-title>
+<source>Lancet neurology</source>
+<volume>3</volume>
+<fpage>744</fpage>
+<lpage>751</lpage>
+<pub-id pub-id-type="pmid">15556807</pub-id></element-citation></ref><ref id="pone.0040461-Lampl1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lampl</surname><given-names>Y</given-names></name><name><surname>Boaz</surname><given-names>M</given-names></name><name><surname>Gilad</surname><given-names>R</given-names></name><name><surname>Lorberboym</surname><given-names>M</given-names></name><name><surname>Dabby</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Minocycline treatment in acute stroke: an open-label, evaluator-blinded study.</article-title>
+<source>Neurology</source>
+<volume>69</volume>
+<fpage>1404</fpage>
+<lpage>1410</lpage>
+<pub-id pub-id-type="pmid">17909152</pub-id></element-citation></ref><ref id="pone.0040461-Levkovitz1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Levkovitz</surname><given-names>Y</given-names></name><name><surname>Mendlovich</surname><given-names>S</given-names></name><name><surname>Riwkes</surname><given-names>S</given-names></name><name><surname>Braw</surname><given-names>Y</given-names></name><name><surname>Levkovitch-Verbin</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>A double-blind, randomized study of minocycline for the treatment of negative and cognitive symptoms in early-phase schizophrenia.</article-title>
+<source>J Clin Psychiatry</source>
+<volume>71</volume>
+<fpage>138</fpage>
+<lpage>149</lpage>
+<pub-id pub-id-type="pmid">19895780</pub-id></element-citation></ref><ref id="pone.0040461-Miyaoka1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miyaoka</surname><given-names>T</given-names></name><name><surname>Yasukawa</surname><given-names>R</given-names></name><name><surname>Yasuda</surname><given-names>H</given-names></name><name><surname>Hayashida</surname><given-names>M</given-names></name><name><surname>Inagaki</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Minocycline as adjunctive therapy for schizophrenia: an open-label study.</article-title>
+<source>Clin Neuropharmacol</source>
+<volume>31</volume>
+<fpage>287</fpage>
+<lpage>292</lpage>
+<pub-id pub-id-type="pmid">18836347</pub-id></element-citation></ref><ref id="pone.0040461-Hinwood1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hinwood</surname><given-names>M</given-names></name><name><surname>Morandini</surname><given-names>J</given-names></name><name><surname>Day</surname><given-names>TA</given-names></name><name><surname>Walker</surname><given-names>FR</given-names></name></person-group>
+<year>2012</year>
+<article-title>Evidence that Microglia Mediate the Neurobiological Effects of Chronic Psychological Stress on the Medial Prefrontal Cortex.</article-title>
+<source>Cereb Cortex</source>
+<volume>22</volume>
+<fpage>1442</fpage>
+<lpage>1454</lpage>
+<pub-id pub-id-type="pmid">21878486</pub-id></element-citation></ref><ref id="pone.0040461-Neigh1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Neigh</surname><given-names>GN</given-names></name><name><surname>Karelina</surname><given-names>K</given-names></name><name><surname>Glasper</surname><given-names>ER</given-names></name><name><surname>Bowers</surname><given-names>SL</given-names></name><name><surname>Zhang</surname><given-names>N</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Anxiety after cardiac arrest/cardiopulmonary resuscitation: exacerbated by stress and prevented by minocycline.</article-title>
+<source>Stroke</source>
+<volume>40</volume>
+<fpage>3601</fpage>
+<lpage>3607</lpage>
+<pub-id pub-id-type="pmid">19762688</pub-id></element-citation></ref><ref id="pone.0040461-Ransohoff2"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ransohoff</surname><given-names>RM</given-names></name><name><surname>Stevens</surname><given-names>B</given-names></name></person-group>
+<year>2011</year>
+<article-title>Neuroscience. How many cell types does it take to wire a brain?</article-title>
+<source>Science</source>
+<volume>333</volume>
+<fpage>1391</fpage>
+<lpage>1392</lpage>
+<pub-id pub-id-type="pmid">21903801</pub-id></element-citation></ref><ref id="pone.0040461-Graeber2"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Graeber</surname><given-names>MB</given-names></name></person-group>
+<year>2010</year>
+<article-title>Changing face of microglia.</article-title>
+<source>Science</source>
+<volume>330</volume>
+<fpage>783</fpage>
+<lpage>788</lpage>
+<pub-id pub-id-type="pmid">21051630</pub-id></element-citation></ref><ref id="pone.0040461-Wake1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wake</surname><given-names>H</given-names></name><name><surname>Moorhouse</surname><given-names>AJ</given-names></name><name><surname>Jinno</surname><given-names>S</given-names></name><name><surname>Kohsaka</surname><given-names>S</given-names></name><name><surname>Nabekura</surname><given-names>J</given-names></name></person-group>
+<year>2009</year>
+<article-title>Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals.</article-title>
+<source>J Neurosci</source>
+<volume>29</volume>
+<fpage>3974</fpage>
+<lpage>3980</lpage>
+<pub-id pub-id-type="pmid">19339593</pub-id></element-citation></ref><ref id="pone.0040461-Tremblay1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tremblay</surname><given-names>ME</given-names></name><name><surname>Stevens</surname><given-names>B</given-names></name><name><surname>Sierra</surname><given-names>A</given-names></name><name><surname>Wake</surname><given-names>H</given-names></name><name><surname>Bessis</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>The role of microglia in the healthy brain.</article-title>
+<source>J Neurosci</source>
+<volume>31</volume>
+<fpage>16064</fpage>
+<lpage>16069</lpage>
+<pub-id pub-id-type="pmid">22072657</pub-id></element-citation></ref><ref id="pone.0040461-Paolicelli1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paolicelli</surname><given-names>RC</given-names></name><name><surname>Bolasco</surname><given-names>G</given-names></name><name><surname>Pagani</surname><given-names>F</given-names></name><name><surname>Maggi</surname><given-names>L</given-names></name><name><surname>Scianni</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Synaptic pruning by microglia is necessary for normal brain development.</article-title>
+<source>Science</source>
+<volume>333</volume>
+<fpage>1456</fpage>
+<lpage>1458</lpage>
+<pub-id pub-id-type="pmid">21778362</pub-id></element-citation></ref><ref id="pone.0040461-Sofuoglu1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sofuoglu</surname><given-names>M</given-names></name><name><surname>Mooney</surname><given-names>M</given-names></name><name><surname>Kosten</surname><given-names>T</given-names></name><name><surname>Waters</surname><given-names>A</given-names></name><name><surname>Hashimoto</surname><given-names>K</given-names></name></person-group>
+<year>2011</year>
+<article-title>Minocycline attenuates subjective rewarding effects of dextroamphetamine in humans.</article-title>
+<source>Psychopharmacology</source>
+<volume>213</volume>
+<fpage>61</fpage>
+<lpage>68</lpage>
+<pub-id pub-id-type="pmid">20838775</pub-id></element-citation></ref><ref id="pone.0040461-Crockett1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Crockett</surname><given-names>MJ</given-names></name><name><surname>Clark</surname><given-names>L</given-names></name><name><surname>Tabibnia</surname><given-names>G</given-names></name><name><surname>Lieberman</surname><given-names>MD</given-names></name><name><surname>Robbins</surname><given-names>TW</given-names></name></person-group>
+<year>2008</year>
+<article-title>Serotonin modulates behavioral reactions to unfairness.</article-title>
+<source>Science</source>
+<volume>320</volume>
+<fpage>1739</fpage>
+<pub-id pub-id-type="pmid">18535210</pub-id></element-citation></ref><ref id="pone.0040461-Berg1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berg</surname><given-names>J</given-names></name><name><surname>Dickhaut</surname><given-names>J</given-names></name><name><surname>McCabe</surname><given-names>K</given-names></name></person-group>
+<year>1995</year>
+<article-title>Trust, Reciprocity, and Social History.</article-title>
+<source>Games and Economic Behavior</source>
+<volume>10</volume>
+<fpage>122</fpage>
+<lpage>142</lpage>
+</element-citation></ref><ref id="pone.0040461-KingCasas1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>King-Casas</surname><given-names>B</given-names></name><name><surname>Sharp</surname><given-names>C</given-names></name><name><surname>Lomax-Bream</surname><given-names>L</given-names></name><name><surname>Lohrenz</surname><given-names>T</given-names></name><name><surname>Fonagy</surname><given-names>P</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>The rupture and repair of cooperation in borderline personality disorder.</article-title>
+<source>Science</source>
+<volume>321</volume>
+<fpage>806</fpage>
+<lpage>810</lpage>
+<pub-id pub-id-type="pmid">18687957</pub-id></element-citation></ref><ref id="pone.0040461-Barraza1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barraza</surname><given-names>JA</given-names></name><name><surname>McCullough</surname><given-names>ME</given-names></name><name><surname>Ahmadi</surname><given-names>S</given-names></name><name><surname>Zak</surname><given-names>PJ</given-names></name></person-group>
+<year>2011</year>
+<article-title>Oxytocin infusion increases charitable donations regardless of monetary resources.</article-title>
+<source>Horm Behav</source>
+<volume>60</volume>
+<fpage>148</fpage>
+<lpage>151</lpage>
+<pub-id pub-id-type="pmid">21596046</pub-id></element-citation></ref><ref id="pone.0040461-Kosfeld1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kosfeld</surname><given-names>M</given-names></name><name><surname>Heinrichs</surname><given-names>M</given-names></name><name><surname>Zak</surname><given-names>PJ</given-names></name><name><surname>Fischbacher</surname><given-names>U</given-names></name><name><surname>Fehr</surname><given-names>E</given-names></name></person-group>
+<year>2005</year>
+<article-title>Oxytocin increases trust in humans.</article-title>
+<source>Nature</source>
+<volume>435</volume>
+<fpage>673</fpage>
+<lpage>676</lpage>
+<pub-id pub-id-type="pmid">15931222</pub-id></element-citation></ref><ref id="pone.0040461-Zak1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zak</surname><given-names>PJ</given-names></name><name><surname>Stanton</surname><given-names>AA</given-names></name><name><surname>Ahmadi</surname><given-names>S</given-names></name></person-group>
+<year>2007</year>
+<article-title>Oxytocin increases generosity in humans.</article-title>
+<source>PLoS One</source>
+<volume>2</volume>
+<fpage>e1128</fpage>
+<pub-id pub-id-type="pmid">17987115</pub-id></element-citation></ref><ref id="pone.0040461-Zhong1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhong</surname><given-names>S</given-names></name><name><surname>Israel</surname><given-names>S</given-names></name><name><surname>Shalev</surname><given-names>I</given-names></name><name><surname>Xue</surname><given-names>H</given-names></name><name><surname>Ebstein</surname><given-names>RP</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Dopamine D4 receptor gene associated with fairness preference in ultimatum game.</article-title>
+<source>PLoS One</source>
+<volume>5</volume>
+<fpage>e13765</fpage>
+<pub-id pub-id-type="pmid">21072167</pub-id></element-citation></ref><ref id="pone.0040461-Rogers1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rogers</surname><given-names>RD</given-names></name></person-group>
+<year>2011</year>
+<article-title>The roles of dopamine and serotonin in decision making: evidence from pharmacological experiments in humans.</article-title>
+<source>Neuropsychopharmacology</source>
+<volume>36</volume>
+<fpage>114</fpage>
+<lpage>132</lpage>
+<pub-id pub-id-type="pmid">20881944</pub-id></element-citation></ref><ref id="pone.0040461-Watabe1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Watabe</surname><given-names>M</given-names></name><name><surname>Kato</surname><given-names>TA</given-names></name><name><surname>Monji</surname><given-names>A</given-names></name><name><surname>Horikawa</surname><given-names>H</given-names></name><name><surname>Kanba</surname><given-names>S</given-names></name></person-group>
+<year>2012</year>
+<article-title>Does minocycline, an antibiotic with inhibitory effects on microglial activation, sharpen a sense of trust in social interaction?</article-title>
+<source>Psychopharmacology</source>
+<volume>220</volume>
+<fpage>551</fpage>
+<lpage>557</lpage>
+<pub-id pub-id-type="pmid">21956241</pub-id></element-citation></ref><ref id="pone.0040461-Vilares1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vilares</surname><given-names>I</given-names></name><name><surname>Dam</surname><given-names>G</given-names></name><name><surname>Kording</surname><given-names>K</given-names></name></person-group>
+<year>2011</year>
+<article-title>Trust and reciprocity: are effort and money equivalent?</article-title>
+<source>PLoS One</source>
+<volume>6</volume>
+<fpage>e17113</fpage>
+<pub-id pub-id-type="pmid">21364931</pub-id></element-citation></ref><ref id="pone.0040461-Jonas1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jonas</surname><given-names>M</given-names></name><name><surname>Cunha</surname><given-names>BA</given-names></name></person-group>
+<year>1982</year>
+<article-title>Minocycline.</article-title>
+<source>Ther Drug Monit</source>
+<volume>4</volume>
+<fpage>137</fpage>
+<lpage>145</lpage>
+<pub-id pub-id-type="pmid">7048646</pub-id></element-citation></ref><ref id="pone.0040461-Cloninger1"><label>31</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Cloninger</surname><given-names>RC</given-names></name></person-group>
+<year>1994</year>
+<article-title>The temperament and character inventory (TCI): A guide to its development and use. St.</article-title>
+<source>Louis, MO: Center for Psychobiology of Personality, Washington University</source>
+</element-citation></ref><ref id="pone.0040461-Kijima1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kijima</surname><given-names>N</given-names></name><name><surname>Tanaka</surname><given-names>E</given-names></name><name><surname>Suzuki</surname><given-names>N</given-names></name><name><surname>Higuchi</surname><given-names>H</given-names></name><name><surname>Kitamura</surname><given-names>T</given-names></name></person-group>
+<year>2000</year>
+<article-title>Reliability and validity of the Japanese version of the Temperament and Character Inventory.</article-title>
+<source>Psychol Rep</source>
+<volume>86</volume>
+<fpage>1050</fpage>
+<lpage>1058</lpage>
+<pub-id pub-id-type="pmid">10876363</pub-id></element-citation></ref><ref id="pone.0040461-Spielberger1"><label>33</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Spielberger</surname><given-names>CD</given-names></name><name><surname>Gursuch</surname><given-names>RL</given-names></name><name><surname>Lushene</surname><given-names>RE</given-names></name></person-group>
+<year>1970</year>
+<article-title>Manual for the State-Trait Anxiety Inventory (Self-evaluation Questionnaire).</article-title>
+<source>Palo Alto, CA: Consulting Psychologists Press</source>
+</element-citation></ref><ref id="pone.0040461-Yamagishi1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yamagishi</surname><given-names>T</given-names></name><name><surname>Yamagishi</surname><given-names>M</given-names></name></person-group>
+<year>1994</year>
+<article-title>Trust and commitment in the United States and Japan.</article-title>
+<source>Motivation and Emotion</source>
+<volume>18</volume>
+<fpage>9</fpage>
+<lpage>66</lpage>
+</element-citation></ref><ref id="pone.0040461-Gheorghiu1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gheorghiu</surname><given-names>MA</given-names></name><name><surname>Vignoles</surname><given-names>VL</given-names></name><name><surname>Smith</surname><given-names>PB</given-names></name></person-group>
+<year>2009</year>
+<article-title>Beyond the United States and Japan: Testing Yamagishi&#x02019;s Emancipation Theory of Trust across 31 Nation.</article-title>
+<source>Soc Psychol Q</source>
+<volume>72</volume>
+<fpage>365</fpage>
+<lpage>383</lpage>
+</element-citation></ref><ref id="pone.0040461-Bilbo1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bilbo</surname><given-names>SD</given-names></name><name><surname>Schwarz</surname><given-names>JM</given-names></name></person-group>
+<year>2009</year>
+<article-title>Early-life programming of later-life brain and behavior: a critical role for the immune system.</article-title>
+<source>Front Behav Neurosci</source>
+<volume>3</volume>
+<fpage>14</fpage>
+<pub-id pub-id-type="pmid">19738918</pub-id></element-citation></ref><ref id="pone.0040461-Williamson1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Williamson</surname><given-names>LL</given-names></name><name><surname>Sholar</surname><given-names>PW</given-names></name><name><surname>Mistry</surname><given-names>RS</given-names></name><name><surname>Smith</surname><given-names>SH</given-names></name><name><surname>Bilbo</surname><given-names>SD</given-names></name></person-group>
+<year>2011</year>
+<article-title>Microglia and memory: modulation by early-life infection.</article-title>
+<source>J Neurosci</source>
+<volume>31</volume>
+<fpage>15511</fpage>
+<lpage>15521</lpage>
+<pub-id pub-id-type="pmid">22031897</pub-id></element-citation></ref><ref id="pone.0040461-Sugama1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sugama</surname><given-names>S</given-names></name><name><surname>Takenouchi</surname><given-names>T</given-names></name><name><surname>Fujita</surname><given-names>M</given-names></name><name><surname>Conti</surname><given-names>B</given-names></name><name><surname>Hashimoto</surname><given-names>M</given-names></name></person-group>
+<year>2009</year>
+<article-title>Differential microglial activation between acute stress and lipopolysaccharide treatment.</article-title>
+<source>J Neuroimmunol</source>
+<volume>207</volume>
+<fpage>24</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="pmid">19111355</pub-id></element-citation></ref><ref id="pone.0040461-Schiavone1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schiavone</surname><given-names>S</given-names></name><name><surname>Sorce</surname><given-names>S</given-names></name><name><surname>Dubois-Dauphin</surname><given-names>M</given-names></name><name><surname>Jaquet</surname><given-names>V</given-names></name><name><surname>Colaianna</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Involvement of NOX2 in the development of behavioral and pathologic alterations in isolated rats.</article-title>
+<source>Biol Psychiatry</source>
+<volume>66</volume>
+<fpage>384</fpage>
+<lpage>392</lpage>
+<pub-id pub-id-type="pmid">19559404</pub-id></element-citation></ref><ref id="pone.0040461-Wohleb1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wohleb</surname><given-names>ES</given-names></name><name><surname>Hanke</surname><given-names>ML</given-names></name><name><surname>Corona</surname><given-names>AW</given-names></name><name><surname>Powell</surname><given-names>ND</given-names></name><name><surname>Stiner</surname><given-names>LM</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>beta-Adrenergic receptor antagonism prevents anxiety-like behavior and microglial reactivity induced by repeated social defeat.</article-title>
+<source>J Neurosci</source>
+<volume>31</volume>
+<fpage>6277</fpage>
+<lpage>6288</lpage>
+<pub-id pub-id-type="pmid">21525267</pub-id></element-citation></ref><ref id="pone.0040461-Wei1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wei</surname><given-names>L</given-names></name><name><surname>Simen</surname><given-names>A</given-names></name><name><surname>Mane</surname><given-names>S</given-names></name><name><surname>Kaffman</surname><given-names>A</given-names></name></person-group>
+<year>2012</year>
+<article-title>Early life stress inhibits expression of a novel innate immune pathway in the developing hippocampus.</article-title>
+<source>Neuropsychopharmacology</source>
+<volume>37</volume>
+<fpage>567</fpage>
+<lpage>580</lpage>
+<pub-id pub-id-type="pmid">21993208</pub-id></element-citation></ref><ref id="pone.0040461-Bjork1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bjork</surname><given-names>JM</given-names></name><name><surname>Momenan</surname><given-names>R</given-names></name><name><surname>Hommer</surname><given-names>DW</given-names></name></person-group>
+<year>2009</year>
+<article-title>Delay discounting correlates with proportional lateral frontal cortex volumes.</article-title>
+<source>Biol Psychiatry</source>
+<volume>65</volume>
+<fpage>710</fpage>
+<lpage>713</lpage>
+<pub-id pub-id-type="pmid">19121516</pub-id></element-citation></ref><ref id="pone.0040461-Loughland1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Loughland</surname><given-names>CM</given-names></name><name><surname>Williams</surname><given-names>LM</given-names></name><name><surname>Gordon</surname><given-names>E</given-names></name></person-group>
+<year>2002</year>
+<article-title>Schizophrenia and affective disorder show different visual scanning behavior for faces: a trait versus state-based distinction?</article-title>
+<source>Biol Psychiatry</source>
+<volume>52</volume>
+<fpage>338</fpage>
+<lpage>348</lpage>
+<pub-id pub-id-type="pmid">12208641</pub-id></element-citation></ref><ref id="pone.0040461-Kato1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kato</surname><given-names>T</given-names></name><name><surname>Mizoguchi</surname><given-names>Y</given-names></name><name><surname>Monji</surname><given-names>A</given-names></name><name><surname>Horikawa</surname><given-names>H</given-names></name><name><surname>Suzuki</surname><given-names>SO</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Inhibitory effects of aripiprazole on interferon-gamma-induced microglial activation via intracellular Ca2&#x0002b; regulation in vitro.</article-title>
+<source>J Neurochem</source>
+<volume>106</volume>
+<fpage>815</fpage>
+<lpage>825</lpage>
+<pub-id pub-id-type="pmid">18429930</pub-id></element-citation></ref><ref id="pone.0040461-Kato2"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kato</surname><given-names>T</given-names></name><name><surname>Monji</surname><given-names>A</given-names></name><name><surname>Hashioka</surname><given-names>S</given-names></name><name><surname>Kanba</surname><given-names>S</given-names></name></person-group>
+<year>2007</year>
+<article-title>Risperidone significantly inhibits interferon-gamma-induced microglial activation in vitro.</article-title>
+<source>Schizophr Res</source>
+<volume>92</volume>
+<fpage>108</fpage>
+<lpage>115</lpage>
+<pub-id pub-id-type="pmid">17363222</pub-id></element-citation></ref><ref id="pone.0040461-Horikawa1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Horikawa</surname><given-names>H</given-names></name><name><surname>Kato</surname><given-names>TA</given-names></name><name><surname>Mizoguchi</surname><given-names>Y</given-names></name><name><surname>Monji</surname><given-names>A</given-names></name><name><surname>Seki</surname><given-names>Y</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Inhibitory effects of SSRIs on IFN-gamma induced microglial activation through the regulation of intracellular calcium.</article-title>
+<source>Prog Neuropsychopharmacol Biol Psychiatry</source>
+<volume>34</volume>
+<fpage>1306</fpage>
+<lpage>1316</lpage>
+<pub-id pub-id-type="pmid">20654672</pub-id></element-citation></ref><ref id="pone.0040461-Kato3"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kato</surname><given-names>TA</given-names></name><name><surname>Monji</surname><given-names>A</given-names></name><name><surname>Mizoguchi</surname><given-names>Y</given-names></name><name><surname>Hashioka</surname><given-names>S</given-names></name><name><surname>Horikawa</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Anti-Inflammatory properties of antipsychotics via microglia modulations: are antipsychotics a &#x02018;fire extinguisher&#x02019; in the brain of schizophrenia?</article-title>
+<source>Mini Rev Med Chem</source>
+<volume>11</volume>
+<fpage>565</fpage>
+<lpage>574</lpage>
+<pub-id pub-id-type="pmid">21699487</pub-id></element-citation></ref><ref id="pone.0040461-Kato4"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kato</surname><given-names>TA</given-names></name><name><surname>Monji</surname><given-names>A</given-names></name><name><surname>Yasukawa</surname><given-names>K</given-names></name><name><surname>Mizoguchi</surname><given-names>Y</given-names></name><name><surname>Horikawa</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Aripiprazole inhibits superoxide generation from phorbol-myristate-acetate (PMA)-stimulated microglia in vitro: implication for antioxidative psychotropic actions via microglia.</article-title>
+<source>Schizophr Res</source>
+<volume>129</volume>
+<fpage>172</fpage>
+<lpage>182</lpage>
+<pub-id pub-id-type="pmid">21497059</pub-id></element-citation></ref><ref id="pone.0040461-Uban1"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Uban</surname><given-names>KA</given-names></name><name><surname>Rummel</surname><given-names>J</given-names></name><name><surname>Floresco</surname><given-names>SB</given-names></name><name><surname>Galea</surname><given-names>LA</given-names></name></person-group>
+<year>2012</year>
+<article-title>Estradiol modulates effort-based decision making in female rats.</article-title>
+<source>Neuropsychopharmacology</source>
+<volume>37</volume>
+<fpage>390</fpage>
+<lpage>401</lpage>
+<pub-id pub-id-type="pmid">21881567</pub-id></element-citation></ref><ref id="pone.0040461-Akabori1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Akabori</surname><given-names>H</given-names></name><name><surname>Moeinpour</surname><given-names>F</given-names></name><name><surname>Bland</surname><given-names>KI</given-names></name><name><surname>Chaudry</surname><given-names>IH</given-names></name></person-group>
+<year>2010</year>
+<article-title>Mechanism of the anti-inflammatory effect Of 17beta-estradiol on brain following trauma-hemorrhage.</article-title>
+<source>Shock</source>
+<volume>33</volume>
+<fpage>43</fpage>
+<lpage>48</lpage>
+<pub-id pub-id-type="pmid">19536048</pub-id></element-citation></ref><ref id="pone.0040461-Saijo1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Saijo</surname><given-names>K</given-names></name><name><surname>Collier</surname><given-names>JG</given-names></name><name><surname>Li</surname><given-names>AC</given-names></name><name><surname>Katzenellenbogen</surname><given-names>JA</given-names></name><name><surname>Glass</surname><given-names>CK</given-names></name></person-group>
+<year>2011</year>
+<article-title>An ADIOL-ERbeta-CtBP transrepression pathway negatively regulates microglia-mediated inflammation.</article-title>
+<source>Cell</source>
+<volume>145</volume>
+<fpage>584</fpage>
+<lpage>595</lpage>
+<pub-id pub-id-type="pmid">21565615</pub-id></element-citation></ref><ref id="pone.0040461-Lee1"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>D</given-names></name></person-group>
+<year>2008</year>
+<article-title>Game theory and neural basis of social decision making.</article-title>
+<source>Nat Neurosci</source>
+<volume>11</volume>
+<fpage>404</fpage>
+<lpage>409</lpage>
+<pub-id pub-id-type="pmid">18368047</pub-id></element-citation></ref><ref id="pone.0040461-Converse1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Converse</surname><given-names>AK</given-names></name><name><surname>Larsen</surname><given-names>EC</given-names></name><name><surname>Engle</surname><given-names>JW</given-names></name><name><surname>Barnhart</surname><given-names>TE</given-names></name><name><surname>Nickles</surname><given-names>RJ</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>11C-(R)-PK11195 PET imaging of microglial activation and response to minocycline in zymosan-treated rats.</article-title>
+<source>J Nucl Med</source>
+<volume>52</volume>
+<fpage>257</fpage>
+<lpage>262</lpage>
+<pub-id pub-id-type="pmid">21233178</pub-id></element-citation></ref><ref id="pone.0040461-Yrjanheikki1"><label>54</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yrjanheikki</surname><given-names>J</given-names></name><name><surname>Tikka</surname><given-names>T</given-names></name><name><surname>Keinanen</surname><given-names>R</given-names></name><name><surname>Goldsteins</surname><given-names>G</given-names></name><name><surname>Chan</surname><given-names>PH</given-names></name><etal/></person-group>
+<year>1999</year>
+<article-title>A tetracycline derivative, minocycline, reduces inflammation and protects against focal cerebral ischemia with a wide therapeutic window.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>96</volume>
+<fpage>13496</fpage>
+<lpage>13500</lpage>
+<pub-id pub-id-type="pmid">10557349</pub-id></element-citation></ref><ref id="pone.0040461-Du1"><label>55</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Du</surname><given-names>Y</given-names></name><name><surname>Ma</surname><given-names>Z</given-names></name><name><surname>Lin</surname><given-names>S</given-names></name><name><surname>Dodel</surname><given-names>RC</given-names></name><name><surname>Gao</surname><given-names>F</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Minocycline prevents nigrostriatal dopaminergic neurodegeneration in the MPTP model of Parkinson&#x02019;s disease.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>98</volume>
+<fpage>14669</fpage>
+<lpage>14674</lpage>
+<pub-id pub-id-type="pmid">11724929</pub-id></element-citation></ref><ref id="pone.0040461-Hashimoto1"><label>56</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hashimoto</surname><given-names>K</given-names></name><name><surname>Ishima</surname><given-names>T</given-names></name></person-group>
+<year>2010</year>
+<article-title>A novel target of action of minocycline in NGF-induced neurite outgrowth in PC12 cells: translation initiation [corrected] factor eIF4AI.</article-title>
+<source>PLoS One</source>
+<volume>5</volume>
+<fpage>e15430</fpage>
+<pub-id pub-id-type="pmid">21151481</pub-id></element-citation></ref><ref id="pone.0040461-Tikka2"><label>57</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tikka</surname><given-names>TM</given-names></name><name><surname>Koistinaho</surname><given-names>JE</given-names></name></person-group>
+<year>2001</year>
+<article-title>Minocycline provides neuroprotection against N-methyl-D-aspartate neurotoxicity by inhibiting microglia.</article-title>
+<source>J Immunol</source>
+<volume>166</volume>
+<fpage>7527</fpage>
+<lpage>7533</lpage>
+<pub-id pub-id-type="pmid">11390507</pub-id></element-citation></ref><ref id="pone.0040461-Purisai1"><label>58</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Purisai</surname><given-names>MG</given-names></name><name><surname>McCormack</surname><given-names>AL</given-names></name><name><surname>Cumine</surname><given-names>S</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Isla</surname><given-names>MZ</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Microglial activation as a priming event leading to paraquat-induced dopaminergic cell degeneration.</article-title>
+<source>Neurobiol Dis</source>
+<volume>25</volume>
+<fpage>392</fpage>
+<lpage>400</lpage>
+<pub-id pub-id-type="pmid">17166727</pub-id></element-citation></ref></ref-list></back></article>

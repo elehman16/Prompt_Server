@@ -1,0 +1,597 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Trials</journal-id><journal-id journal-id-type="publisher-id">CTJ</journal-id><journal-id journal-id-type="hwp">spctj</journal-id><journal-title-group><journal-title>Clinical Trials (London, England)</journal-title></journal-title-group><issn pub-type="ppub">1740-7745</issn><issn pub-type="epub">1740-7753</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage UK: London, England</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">21478329</article-id><article-id pub-id-type="pmc">3195898</article-id><article-id pub-id-type="doi">10.1177/1740774511398368</article-id><article-id pub-id-type="publisher-id">10.1177_1740774511398368</article-id><article-categories><subj-group subj-group-type="heading"><subject>Design</subject></subj-group></article-categories><title-group><article-title>A point-of-care clinical trial comparing insulin administered using a
+                    sliding scale <italic>versus</italic> a weight-based regimen</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Fiore</surname><given-names>Louis D</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff2-1740774511398368">b</xref><xref ref-type="aff" rid="aff3-1740774511398368">c</xref><xref ref-type="corresp" rid="corresp1-1740774511398368"/></contrib><contrib contrib-type="author"><name><surname>Brophy</surname><given-names>Mary</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff3-1740774511398368">c</xref></contrib><contrib contrib-type="author"><name><surname>Ferguson</surname><given-names>Ryan E</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff2-1740774511398368">b</xref></contrib><contrib contrib-type="author"><name><surname>D&#x02019;Avolio</surname><given-names>Leonard</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff4-1740774511398368">d</xref></contrib><contrib contrib-type="author"><name><surname>Hermos</surname><given-names>John A</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff3-1740774511398368">c</xref><xref ref-type="aff" rid="aff5-1740774511398368">e</xref></contrib><contrib contrib-type="author"><name><surname>Lew</surname><given-names>Robert A</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff6-1740774511398368">f</xref></contrib><contrib contrib-type="author"><name><surname>Doros</surname><given-names>Gheorghe</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff6-1740774511398368">f</xref></contrib><contrib contrib-type="author"><name><surname>Conrad</surname><given-names>Chester H</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff3-1740774511398368">c</xref></contrib><contrib contrib-type="author"><name><surname>O&#x02019;Neil</surname><given-names>Joseph A (&#x0201c;Gus&#x0201d;)</given-names><suffix>Jr</suffix></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref></contrib><contrib contrib-type="author"><name><surname>Sabin</surname><given-names>Thomas P</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref></contrib><contrib contrib-type="author"><name><surname>Kaufman</surname><given-names>James</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff3-1740774511398368">c</xref></contrib><contrib contrib-type="author"><name><surname>Swartz</surname><given-names>Stephen L</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref></contrib><contrib contrib-type="author"><name><surname>Lawler</surname><given-names>Elizabeth</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff7-1740774511398368">g</xref><xref ref-type="aff" rid="aff8-1740774511398368">h</xref></contrib><contrib contrib-type="author"><name><surname>Liang</surname><given-names>Matthew H</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff9-1740774511398368">i</xref></contrib><contrib contrib-type="author"><name><surname>Gaziano</surname><given-names>J Michael</given-names></name><xref ref-type="aff" rid="aff1-1740774511398368">a</xref><xref ref-type="aff" rid="aff7-1740774511398368">g</xref><xref ref-type="aff" rid="aff8-1740774511398368">h</xref></contrib><contrib contrib-type="author"><name><surname>Lavori</surname><given-names>Philip W</given-names></name><xref ref-type="aff" rid="aff10-1740774511398368">j</xref><xref ref-type="aff" rid="aff11-1740774511398368">k</xref></contrib></contrib-group><aff id="aff1-1740774511398368"><label>a</label>Massachusetts Veterans Epidemiology
+                Research and Information Center (MAVERIC), VA Cooperative Studies Program, VA Boston
+                Healthcare System, Boston, MA, USA</aff><aff id="aff2-1740774511398368"><label>b</label>Department of Epidemiology, Boston
+                University School of Public Health, Boston, MA, USA</aff><aff id="aff3-1740774511398368"><label>c</label>Department of Medicine, Boston
+                University School of Medicine, Boston, MA, USA</aff><aff id="aff4-1740774511398368"><label>d</label>Center for Surgery and Public Health at
+                Brigham and Women&#x02019;s Hospital, Harvard Medical School, Boston, MA, USA</aff><aff id="aff5-1740774511398368"><label>e</label>Section of General Internal Medicine,
+                Boston Medical Center, Boston, MA, USA</aff><aff id="aff6-1740774511398368"><label>f</label>Department of Biostatistics, Boston
+                University School of Public Health, Boston, MA, USA</aff><aff id="aff7-1740774511398368"><label>g</label>Department of Medicine, Brigham and
+                Women&#x02019;s Hospital, Boston, MA, USA</aff><aff id="aff8-1740774511398368"><label>h</label>Department of Medicine, Harvard Medical
+                School, Boston, MA, USA</aff><aff id="aff9-1740774511398368"><label>i</label>Division of Rheumatology, Immunology,
+                and Allergy, Brigham and Women&#x02019;s Hospital, Boston, MA, USA</aff><aff id="aff10-1740774511398368"><label>j</label>Health Research and Policy, Stanford
+                University, Palo Alto, CA, USA</aff><aff id="aff11-1740774511398368"><label>k</label>Department of Statistics, Stanford
+                University, Palo Alto, CA, USA</aff><author-notes><corresp id="corresp1-1740774511398368">Louis Fiore, VA Healthcare System, 150 South
+                    Huntington Ave., Boston, MA 02130, USA E-mail:
+                    <email>louis.fiore@va.gov</email></corresp></author-notes><pub-date pub-type="epub-ppub"><month>4</month><year>2011</year></pub-date><!--Fake ppub date generated  by PMC from publisher pub-date/@pub-type='epub-ppub' --><pub-date pub-type="ppub"><month>4</month><year>2011</year></pub-date><volume>8</volume><issue>2</issue><fpage>183</fpage><lpage>195</lpage><permissions><copyright-statement>&#x000a9; The Author(s), 2011. Reprints and permissions:
+                    http://www.sagepub.co.uk/journalsPermissions.nav</copyright-statement><copyright-year>2011</copyright-year><copyright-holder content-type="author">The Author(s), 2011</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+                        Commons Attribution License, which permits unrestricted use, distribution,
+                        and reproduction in any medium, provided the original work is properly
+                        cited.</license-p></license></permissions><abstract><p><bold><italic>Background</italic></bold> Clinical trials are widely considered
+                    the gold standard in comparative effectiveness research (CER) but the high cost
+                    and complexity of traditional trials and concerns about generalizability to
+                    broad patient populations and general clinical practice limit their appeal.
+                    Unsuccessful implementation of CER results limits the value of even the highest
+                    quality trials. Planning for a trial comparing two standard strategies of
+                    insulin administration for hospitalized patients led us to develop a new method
+                    for a clinical trial designed to be embedded directly into the clinical care
+                    setting thereby lowering the cost, increasing the pragmatic nature of the
+                    overall trial, strengthening implementation, and creating an integrated
+                    environment of research-based care.</p><p><bold><italic>Purpose</italic></bold> We describe a novel randomized clinical
+                    trial that uses the informatics and statistics infrastructure of the Veterans
+                    Affairs Healthcare System (VA) to illustrate one key component (called the
+                    point-of-care clinical trial &#x02013; POC-CT) of a &#x02018;learning healthcare
+                    system,&#x02019; and settles a clinical question of interest to the VA.</p><p><bold><italic>Methods</italic></bold> This study is an open-label, randomized
+                    trial comparing sliding scale regular insulin to a weight-based regimen for
+                    control of hyperglycemia, using the primary outcome length of stay, in non-ICU
+                    inpatients within the northeast region of the VA. All non-ICU patients who
+                    require in-hospital insulin therapy are eligible for the trial, and the
+                    VA&#x02019;s automated systems will be used to assess eligibility and present
+                    the possibility of randomization to the clinician at the point of care.
+                    Clinicians will indicate their approval for informed consent to be obtained by
+                    study staff. Adaptive randomization will assign up to 3000 patients,
+                    preferentially to the currently &#x02018;winning&#x02019; strategy, and all care
+                    will proceed according to usual practices. Based on a Bayesian stopping rule,
+                    the study has acceptable frequentist operating characteristics (Type I error
+                    6%, power 86%) against a 12% reduction of median length
+                    of stay from 5 to 4.4 days. The adaptive stopping rule promotes implementation
+                    of a successful treatment strategy.</p><p><bold><italic>Limitations</italic></bold> Despite clinical equipoise, individual
+                    healthcare providers may have strong treatment preferences that jeopardize the
+                    success and implementation of the trial design, leading to low rates of
+                    randomization. Unblinded treatment assignment may bias results. In addition,
+                    generalization of clinical results to other healthcare systems may be limited by
+                    differences in patient population. Generalizability of the POC-CT method depends
+                    on the level of informatics and statistics infrastructure available to a
+                    healthcare system.</p><p><bold><italic>Conclusions</italic></bold> The methods proposed will demonstrate
+                    outcome-based evaluation of control of hyperglycemia in hospitalized veterans.
+                    By institutionalizing a process of statistically sound and efficient learning,
+                    and by integrating that learning with automatic implementation of best practice,
+                    the participating VA Healthcare Systems will accelerate improvements in the
+                    effectiveness of care.</p></abstract></article-meta></front><body><sec sec-type="intro" id="sec1-1740774511398368"><title>Introduction</title><p>Medical decision making is informed by clinical trials and observational studies.
+                Randomization in clinical trials reduces or eliminates biases of observational
+                studies, such as selection by indication and confounding from unmeasured prognostic
+                factors that affect treatment decisions and outcomes. By their purpose, randomized
+                clinical trials (RCTs) can be designed on a spectrum ranging from
+                    <italic>pragmatic</italic> (comparing effectiveness of interventions in the most
+                realistic of situations and with diverse subjects) to <italic>explanatory</italic>
+                (comparing efficacy in precisely described clinical situations and selected
+                patients) [<xref ref-type="bibr" rid="bibr1-1740774511398368">1</xref>,<xref ref-type="bibr" rid="bibr2-1740774511398368">2</xref>]. The goal of explanatory
+                trials is to better understand how and why an intervention works while pragmatic
+                clinical trials are designed to provide information needed to assist healthcare
+                providers make informed clinical decisions [<xref ref-type="bibr" rid="bibr3-1740774511398368">3</xref>].</p><p>The <italic>Pragmatic&#x02013;Explanatory Continuum Indicator Summary
+                    (PRECIS)</italic> is a measure of where on this continuum an individual trial is
+                situated [<xref ref-type="bibr" rid="bibr4-1740774511398368">4</xref>]. It takes
+                under consideration the attributes of an RCT such as flexibility of the
+                interventions, practitioner expertise required, eligibility criteria, intensity of
+                follow-up and adherence monitoring, and the nature and scope of the primary outcome.
+                RCTs are considered on the pragmatic end of the spectrum when these attributes are
+                chosen to allow the trial to more closely mimic conditions encountered in the
+                clinical care arena. Examples include eligibility criteria that reflect the patient
+                population likely to receive the intervention, study investigators with expertise
+                and experiences similar to the healthcare providers who will ultimately administer
+                the treatments, treatment protocols that allow the flexibility required in routine
+                clinical care, and outcome measures, and follow-up procedures that would be part of
+                routine clinical care. Despite their reflection of routine clinical care, pragmatic
+                trials are currently still complicated and expensive to implement, because of the
+                use of dedicated study personnel to recruit participants, administer the
+                intervention and monitor the participants for study outcomes and adverse events.</p><p>We are testing a real implementation of a new methodology for clinical trials, that
+                we have called point-of-care clinical trials (POC-CTs), with features designed to
+                maximize the pragmatic nature of studies. Aspects of the approach we describe here
+                have been proposed or implemented by others [<xref ref-type="bibr" rid="bibr5-1740774511398368">5</xref>&#x02013;<xref ref-type="bibr" rid="bibr8-1740774511398368">8</xref>] and discussed in detail under the name of
+                the &#x02018;clinically integrated randomized trial&#x02019; by Vickers and Scardino
+                    [<xref ref-type="bibr" rid="bibr9-1740774511398368">9</xref>]. The defining
+                characteristic here is that to the maximum extent possible the clinical trial
+                apparatus is embedded in routine clinical care. Optimally, this would include
+                recruitment and randomization of study subjects at their POC by their usual
+                healthcare provider. Once randomized to a treatment arm subjects would continue to
+                be treated by their healthcare provider with minimal or no deviation from usual
+                care. Follow-up of participants would thus reflect current clinical practice.
+                Assessment of subject compliance and practitioner adherence to protocol, and
+                ascertainment of clinically relevant endpoints would be performed through medical
+                record review, with minimal contamination of the clinical care
+                &#x02018;ecosystem&#x02019; by intrusive study dependencies. The intrusiveness of
+                study operations, from randomization through endpoint ascertainment, would be
+                greatly reduced if performed using tools familiar to healthcare providers and data
+                already present in an electronic medical record (EMR).</p><p>A POC-CT shifts away from the asynchronous, distinct, and separate environments of
+                research and clinical care, toward a real-time integrated system of research-based
+                care. The goal of POC-CTs is to deliver the best care to patients while learning
+                from each experience and redefining that care. Under this new paradigm, ongoing
+                results would be more rapidly and more likely adopted by providers who participated
+                in the studies. By synthesizing research with practice and tools to learn from that
+                process, participating facilities can move to the goal of becoming &#x02018;learning
+                healthcare systems.&#x02019;</p><p>In this article, we describe a specific POC-CT designed to test the feasibility and
+                usefulness of the method, in answering a question of relevance to the Veterans
+                Affairs (VA) Healthcare System. The clinical context and issues are described and
+                ethical issues discussed. The use of outcome adaptive randomization to enhance
+                implementation also addresses the frequentist operating characteristics of the
+                design. The kinds of comparativeness questions best suited to POC-CT are argued.</p></sec><sec id="sec2-1740774511398368"><title>Illustrative example: sliding scale insulin regimen <italic>versus</italic>
+                weight-based insulin protocol</title><p>We describe a POC-CT which compares two common regimens of administering insulin
+                therapy to hospitalized patients requiring insulin; the sliding scale and
+                weight-based approach. The VA has an EMR that includes electronic ordering of
+                medications and protocols for both of these insulin regimens. Review of EMR data at
+                the VA Boston Healthcare System demonstrated that each of these two approaches is
+                used with approximately equal frequency and discussions with treating clinicians
+                indicated that choice of method administration is based on personal preference and
+                not on patient specific determinants.</p><p>There are no published data comparing the effectiveness or the adverse effects of the
+                sliding scale or a weight-based insulin protocol in treating inpatients with
+                hyperglycemia. For the sliding scale, short acting insulin is administered three to
+                four times daily according to the degree of hyperglycemia, and no basal insulin is
+                administered. This regimen, therefore, responds to hyperglycemia after it occurs,
+                and does not prevent it. The weight-based insulin protocol is a twice daily regimen
+                of basal intermediate-acting insulin (NPH) plus a pre-meal twice a day regimen of
+                short acting regular insulin, plus a correction dose of regular insulin depending on
+                the degree of hyperglycemia. In addition, depending on the amount of the correction
+                dose, the basal doses are adjusted upward for the next day&#x02019;s NPH insulin
+                dose to manage the hyperglycemia.</p></sec><sec id="sec3-1740774511398368"><title>Study design</title><p>Overall, the study is an open-label, randomized trial comparing sliding scale to a
+                weight-based regimen in non-intensive care units (ICU) inpatients in a single large
+                VA healthcare facility. There will be no modification to the treatment protocols
+                already in use which will be accessed through the existing order entry menu.
+                Consented patients will be randomized to treatment arms using an adaptive
+                randomization method. Subjects are otherwise treated as usual. That is to say, there
+                is no treatment protocol imposed other than insulin regimen beyond randomization.
+                    <italic>There are no required diagnostic procedures and no study-specific
+                    follow-up events required</italic>. Outcomes and covariates data will be
+                collected directly from the computerized patient record system (CPRS). The primary
+                endpoint is hospital length of stay (LOS); secondary endpoints include glycemic
+                control and readmissions for glycemic control within 30 days of hospital discharge.
+                Analysis will be based on intention to treat.</p><p>We considered using a cluster-randomized design, but the number of natural clusters
+                (treatment units) within a hospital is small and having enough clusters to achieve
+                adequate power would require opening the study at many hospitals, posing too many
+                complex issues for a first use of POC-CT. Furthermore, we are interested in testing
+                the feasibility of individual patient-level randomization, and the use of adaptive
+                randomization to &#x02018;close the implementation gap.&#x02019; While it is
+                possible to imagine an adaptive cluster-randomized design, we have little
+                information on the parameters necessary for design of such a study.</p></sec><sec id="sec4-1740774511398368"><title>Eligibility</title><p>All non-ICU patients who require sliding scale or weight-based insulin therapy are
+                eligible. The decision to obtain consent from a given individual will be made by the
+                ordering clinician at the time of an insulin order (see section
+                &#x02018;Methods&#x02019;). There are no exclusions.</p></sec><sec id="sec5-1740774511398368"><title>Treatment regimens</title><p>The treatment regimens are sliding scale and weight-based insulin as currently
+                operationalized at the VA Boston Healthcare System. The ordering clinician finds
+                these protocols under the electronic endocrine order menu and is led through order
+                entry screens that insure standardization of the treatment protocol. The sliding
+                scale and weight-based insulin regimens order menus in place at the medical center
+                were not modified other than to add a third choice allowing for randomization
+                through the POC-CT mechanism.</p></sec><sec id="sec6-1740774511398368"><title>Follow-up</title><p>Consenting subjects will be followed until 30 days of post-randomization. Following
+                informed consent subjects will not be contacted by the study team either during
+                their hospitalization or after discharge. All follow-up data will be collected
+                    <italic>via</italic> the EMR.</p></sec><sec id="sec7-1740774511398368"><title>Data collection</title><p>Variables collected include demographics (age and gender); admission date, discharge
+                date, and bed location (acute <italic>vs.</italic> non-acute); bed service (medical,
+                surgical, and other); admission and other medical diagnoses (ICD-9 classification);
+                glucose, blood counts, creatinine, and estimated glomerular filtration rate (GFR)
+                values; and body temperature, medications, administered blood transfusion products,
+                readmission date, and readmission diagnosis (ICD-9) if within 30 days of discharge.
+                Non-VA hospitalization data for all subjects enrolled in Medicare will be available
+                through a data-sharing agreement between VA and the Centers for Medicare &#x00026;
+                Medicaid Services.</p></sec><sec id="sec8-1740774511398368"><title>Outcomes</title><p>The clinical outcomes of potential relevance that were considered included episodes
+                of suspected hypoglycemia and measures previously used in studies examining
+                potential benefit of improved glycemic control such as: (1) shortened length of
+                hospital stay; (2) fewer infections; (3) fewer episodes of acute kidney injury; (4)
+                less need for renal dialysis; (5) lower blood transfusion requirements; and (6) less
+                neuropathy.</p><p>LOS is selected as the primary outcome, because LOS has important cost implications,
+                lowers the risk of hospital-acquired complications including falls and infections,
+                and might be expected to be shortened if diabetic control can be made more
+                efficient. It is also readily ascertainable from the EMR. Secondary outcome measures
+                include degree of glycemic control and readmission within 30 days of discharge with
+                the primary readmission diagnosis of control of glycemia. Tertiary outcomes include
+                infections, acute kidney injury, and anemia, all of which have been previously used
+                as outcome measures in studies of insulin regimens. Infection will be defined as new
+                antibiotic administration associated with either fever or leukocytosis. Acute kidney
+                injury is defined as a decrease in estimated GFR of greater than 50% and
+                anemia as a drop in the hemoglobin level of at least 2&#x02009;g/dL.</p></sec><sec id="sec9-1740774511398368"><title>Recruitment and enrollment</title><p>The POC-CT process is implemented using software tools available in CPRS. CPRS is the
+                clinical care component of the Veterans Health Information Systems and Technology
+                Architecture (VISTA), which supports clinical as well as administrative
+                applications. Software tools available in CPRS include order sets (predefined
+                customizable sets of orders), templates for clinical notes, decision logic (reminder
+                dialog templates), and defined data objects that extract data from the medical
+                record for display purposes (patient data objects). CPRS also has the ability to
+                store flags (indicators in the data base) known as &#x02018;health factors&#x02019;
+                related to clinical parameters and flags derived from the ordering process. These
+                tools make it possible to identify certain data elements in real time (e.g., an
+                insulin order) and to incorporate programmatic logic into the medical
+                record&#x02019;s workflow based on the value of data elements. The order sets and
+                templates utilized for this project were designed to be consistent in format and
+                process with the existing system.</p><p>The following describes the workflow of the study and demonstrates how CPRS processes
+                already familiar to clinicians were adopted for POC-CT (<xref ref-type="fig" rid="fig1-1740774511398368">Figures 1</xref> and <xref ref-type="fig" rid="fig2-1740774511398368">2</xref>): <list list-type="order"><list-item><p>The VISTA order entry screen for insulin has been modified to include a
+                            third option in addition to the current options to order sliding scale
+                            or the weight-based regimen. The third option is labeled &#x02018;No
+                            preference for insulin regimen, consider enrollment in an inpatient
+                            study of Weight Based vs. Sliding Scale protocols&#x02019; (<xref ref-type="fig" rid="fig3-1740774511398368">Figure 3</xref>).</p></list-item><list-item><p>Clinicians who choose this third option will be presented with a brief
+                            description of the study and given the option to either proceed or not
+                            with consideration of their patient for study enrollment.</p></list-item><list-item><p>Clinicians who choose not to continue will click on the button labeled
+                            &#x02018;No. The patient may not be approached. Proceed with usual
+                            care.&#x02019; and will be returned to the previous order entry screen
+                            to continue without further consideration of this trial.</p></list-item><list-item><p>Clinicians who choose to proceed will click on the button labeled
+                            &#x02018;Yes. The research team may approach this patient for
+                            consideration of enrollment.&#x02019; and will be brought to a consult
+                            entry screen. The consult entry screen will be pre-populated requesting
+                            a &#x02018;Research insulin dosing consent request.&#x02019; After
+                            submitting this consult, the clinician will then be directed to the
+                            order entry menu and will order either sliding scale or weight-based
+                            insulin as per their choice. This order will serve as a holding order to
+                            provide insulin treatment until the patient can be consented and
+                            randomized.</p></list-item><list-item><p>Upon receiving the &#x02018;Research insulin dosing consent
+                            request,&#x02019; the study nurse will discuss the study with the
+                            patient and obtain informed consent. If the patient declines enrollment,
+                            a template progress note completing the consult will be automatically
+                            entered. Patients who refuse randomization will be asked for consent to
+                            allow access to their VISTA data for comparison to the subset of
+                            patients who accepted randomization.</p></list-item><list-item><p>Patients who provide consent will be randomized through the VISTA system
+                            to one of the two insulin regimens. A template progress note activated
+                            by the study nurse will document randomization. This template progress
+                            note will generate &#x02018;health factors&#x02019; that will serve to
+                            identify patients as subjects in the trial for tracking purposes in
+                            VISTA. It will also generate the order for whichever insulin regimen the
+                            subject was randomized to receive.</p></list-item><list-item><p>Progress notes (for both patients accepting and declining participation)
+                            and orders (for those accepting randomization) will be automatically
+                            forwarded to the original ordering clinician.</p></list-item><list-item><p>By signing these documents, the clinician completes the study enrollment
+                            process.</p></list-item></list>
+                <fig id="fig1-1740774511398368" position="float"><label>Figure 1</label><caption><p>Initial order process performed by clinician</p></caption><graphic xlink:href="10.1177_1740774511398368-fig1"/></fig>
+                <fig id="fig2-1740774511398368" position="float"><label>Figure 2</label><caption><p>Workflow beginning when clinician has agreed to consider randomizing
+                            patient into one of two interventions</p></caption><graphic xlink:href="10.1177_1740774511398368-fig2"/></fig>
+                <fig id="fig3-1740774511398368" position="float"><label>Figure 3</label><caption><p>Screen shot of CPRS showing introduction of POC-CT option into the
+                            insulin options menu</p></caption><graphic xlink:href="10.1177_1740774511398368-fig3"/></fig></p><p>The protocol was approved by the VA Boston Institutional Review Board (IRB) who
+                waived Health Insurance Portability and Accountability Act (HIPAA) authorization to
+                allow the study team, once contacted and prior to seeing the patient, to have access
+                to protected health information in the medical record. Importantly, clinicians, in
+                simply referring patients to the study coordinator for recruitment and signing the
+                insulin orders generated by the randomization procedures were not considered by the
+                IRB to be &#x02018;engaged in clinical research&#x02019; and thus were not required
+                to be research credentialed.</p><sec id="sec10-1740774511398368"><title>Statistical issues</title><p>We define three main aims: (1) to determine the physician and patient acceptance
+                    of POC randomization, (2) to test the null hypothesis of no difference against
+                    reasonable alternatives (two-sided), and (3) to demonstrate successful
+                    implementation of the superior strategy. The first aim requires descriptive
+                    statistical approaches, including estimating proportions and defining patient-
+                    and physician-level predictors of acceptance. The second aim requires tuning the
+                    design parameters to achieve acceptable operating characteristics. The third aim
+                    motivates an adaptive randomization, adjusting the assignment probabilities to
+                    increase the chances that patients are assigned to the better treatment.</p></sec><sec id="sec11-1740774511398368"><title>Adaptive design</title><p>In the proposed study, the response or outcome is hospital LOS and the parameters
+                    of interest are the median LOS with each of the two protocols: (1) weight-based
+                    (Protocol A) and (2) sliding scale (Protocol B). We predict that the patients
+                    using the weight-based protocol will have a smaller median LOS than patients
+                    using the sliding scale protocol. To test this hypothesis, we propose using a
+                    Bayesian adaptive design.</p><p>The rules of adaptation considered herein modify the assignment probability each
+                    time the study accrues a new fixed number or &#x02018;batch&#x02019; of
+                    patients, with practical batch sizes of at least 100 patients to allow more time
+                    for review and cleaning of data as is implicit in group sequential designs.</p><p>According to this scheme (<xref ref-type="fig" rid="fig4-1740774511398368">Figure
+                        4</xref>) <list list-type="order"><list-item><p>First, subjects will be assigned to either weight-based protocol
+                                (Group A) with probability &#x003c0;&#x02009;=&#x02009;0.5
+                                or to sliding scale protocol (Group B) with probability
+                                1&#x02009;&#x02212;&#x02009;&#x003c0;&#x02009;=&#x02009;0.5.
+                                This assignment probability is utilized for the first batch of
+                                patients.</p></list-item><list-item><p>Then, the data collected on the first group of subjects are used to
+                                calculate the probability that Protocol A is superior to Protocol B
+                                given the accumulated data, that is<disp-formula><graphic xlink:href="10.1177_1740774511398368-eq1"/></disp-formula>
+                                <fig id="fig4-1740774511398368" position="float"><label>Figure 4</label><caption><p>Diagram representing the flow of the design&#x02003;In
+                                            the figure above, <italic>&#x003c0;</italic> represents
+                                            the probability of assigning the weight-based protocol
+                                            to a patient</p></caption><graphic xlink:href="10.1177_1740774511398368-fig4"/></fig></p></list-item></list></p><p>The &#x02018;<italic>DATA</italic>&#x02019; here refers to the data collected on
+                    the first batch of patients, with allowance for a period (UPDATE strip in <xref ref-type="fig" rid="fig4-1740774511398368">Figure 4</xref>) in which the
+                    investigators clean the data and do the update and
+                        <italic>&#x003b8;<sub>A</sub></italic> and
+                        <italic>&#x003b8;<sub>B</sub></italic> are the median LOS in Groups A and B,
+                    respectively. The &#x02018;posterior&#x02019; probability
+                        <italic>p<sub>A</sub></italic> (&#x02018;<italic>probability of Protocol A
+                        being superior to Protocol B given the data</italic>&#x02019;) is calculated
+                    using Bayesian methods. Bayesian methods use prior information or beliefs, along
+                    with the current data, to guide the search for parameter estimates. Prior
+                    information/beliefs are input as a distribution, and the data then help refine
+                    that distribution and construct the posterior distribution. Our statistical
+                    model is based on an exponential data model for the LOS with conjugate Inverse
+                    Gamma prior for the median LOS [<xref ref-type="bibr" rid="bibr10-1740774511398368">10</xref>]. Prior distributions in each group
+                    were chosen to be centered on the null median value and have a shape parameter
+                        <italic>&#x003b1;</italic>. <list list-type="order"><list-item><p>The posterior probability <italic>p<sub>A</sub></italic> is then used
+                                to evaluate whether the accumulated information overwhelmingly
+                                supports one protocol over the other so that the termination of the
+                                trial is warranted. In particular, we would stop the trial
+                                        if<disp-formula><graphic xlink:href="10.1177_1740774511398368-eq2"/></disp-formula></p></list-item></list>where <italic>&#x003ba;</italic> is the <italic>cutpoint</italic>
+                    reflecting the level of evidence demanded by the investigators to terminate the
+                    trial. If <italic>p<sub>A</sub>&#x0003e;&#x003ba;</italic>, then the study is
+                    terminated and Protocol A is chosen as being superior while if
+                            <italic>p<sub>A</sub>&#x0003c;1-&#x003ba;</italic>, the study is
+                    terminated and Protocol B is chosen to be superior. The value for
+                        <italic>&#x003ba;</italic> is at the investigators&#x02019; disposal and it
+                    is usually a value that is close to 1 (for example 0.9, 0.95, or 0.99). <list list-type="order"><list-item><p>If the decision to terminate is not made, the posterior probability
+                                        <italic>p<sub>A</sub>&#x003ba;</italic> is used to update
+                                the assignment probability to <italic>&#x003c0;</italic><sub>1</sub>
+                                using the transformation [<xref ref-type="bibr" rid="bibr11-1740774511398368">11</xref>]<disp-formula><graphic xlink:href="10.1177_1740774511398368-eq3"/></disp-formula></p></list-item></list>where <italic>&#x003b7;</italic>&#x02009;&#x0003e;&#x02009;0 is a
+                        <italic>calibration parameter</italic>. If <italic>&#x003b7;</italic> is set
+                    to 1, the updated assignment probability is
+                        <italic>&#x003c0;</italic><sub>1</sub> = <italic>p<sub>A</sub></italic>,
+                    while a value of <italic>&#x003b7;</italic>&#x02009;=&#x02009;0 leads to
+                    a balanced randomization design. Values greater than 1 (less than 1) lead to
+                    more aggressive (less aggressive) adaptation. <list list-type="order"><list-item><p>The second batch of patients will then be assigned to Protocol A with
+                                probability <italic>&#x003c0;</italic><sub>1</sub> and to Protocol B
+                                with probability 1-<italic>&#x003c0;</italic><sub>1</sub>. After the
+                                data on the second batch of patients are collected, the assignment
+                                probability <italic>&#x003c0;</italic><sub>1</sub> is updated to
+                                    <italic>&#x003c0;</italic><sub>2</sub> using the above algorithm
+                                and the termination criterion is checked. If the termination
+                                criterion is met, the study is terminated. If not, the assignment
+                                probability <italic>&#x003c0;</italic><sub>1</sub> is updated to
+                                    <italic>&#x003c0;</italic><sub>2</sub> using the above algorithm
+                                and the third batch is then enrolled.</p></list-item><list-item><p>This process is continued until either the termination criterion is
+                                met or the number of subjects enrolled reaches a pre-specified
+                                maximum number of subjects <italic>N</italic><sub>max</sub>.</p></list-item></list></p></sec></sec><sec id="sec12-1740774511398368"><title>Proposed design</title><p>Extensive computer simulations were done to select a design for the study based on
+                their operating characteristics. The following operating characteristics were
+                considered in selecting the final design: <list list-type="order"><list-item><p><italic>Overall Type I error</italic> &#x02013; the chance of declaring
+                            one of the two protocols better at any time during the trial when in
+                            fact there is no difference between the two protocols.</p></list-item><list-item><p><italic>Overall power</italic> &#x02013; the chance of declaring a
+                            protocol better at any time during the trial when in fact that protocol
+                            is better.</p></list-item><list-item><p><italic>The number of patients assigned to each protocol.</italic> The
+                            number of patients enrolled will depend on the data collected and hence
+                            is a random variable.</p></list-item><list-item><p><italic>Time until a decision is made.</italic> The duration of the study
+                            will depend on the data collected and hence is a random variable.</p></list-item></list></p><p>We chose a design with the following parameters: prior shape parameter
+                    <italic>&#x003b1;</italic>=&#x02009;100, batch
+                size&#x02009;=&#x02009;200, cutpoint &#x003ba;=&#x02009;0.99,
+                calibration parameter<italic>&#x003b7;</italic>=&#x02009;0.5, and maximum
+                number of patients to be randomized
+                <italic>N</italic><sub>max</sub>&#x02009;=&#x02009;3000. In addition, the
+                updation occurs after 150 patients of each batch have entered the study, we do not
+                update or allow stopping after the first batch, and we censor the LOS at 30
+                days.</p><p>We studied the above design under various scenarios. Our null hypothesis is that the
+                median LOS with both protocols is 5 days. As alternative, we posit a minimal
+                clinically important reduction of at least 12% in median LOS.</p><p>The operating characteristics of the design are represented in <xref ref-type="table" rid="table1-1740774511398368">Table 1</xref>. <table-wrap id="table1-1740774511398368" position="float"><label>Table 1</label><caption><p>Operating characteristics of the proposed design</p></caption><table frame="hsides" rules="groups"><thead align="left"><tr><th rowspan="1" colspan="1">Difference in median LOS (B&#x02013;A) in days [median under
+                                    Protocol B&#x02009;=&#x02009;5 days]</th><th rowspan="1" colspan="1">Probability of selecting Protocol A as superior (%)</th><th rowspan="1" colspan="1">Probability of selecting Protocol B as superior (%)</th><th rowspan="1" colspan="1">Median number of patients on Protocol A</th><th rowspan="1" colspan="1">Median number of patients on Protocol B</th><th rowspan="1" colspan="1">Median duration (days)<sup><xref ref-type="table-fn" rid="table-fn1-1740774511398368">a</xref></sup></th></tr></thead><tbody align="left"><tr><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">1495</td><td rowspan="1" colspan="1">1461</td><td rowspan="1" colspan="1">599</td></tr><tr><td rowspan="1" colspan="1">0.1</td><td rowspan="1" colspan="1">8</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1634</td><td rowspan="1" colspan="1">1292</td><td rowspan="1" colspan="1">598</td></tr><tr><td rowspan="1" colspan="1">0.2</td><td rowspan="1" colspan="1">17</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1738</td><td rowspan="1" colspan="1">1125</td><td rowspan="1" colspan="1">597</td></tr><tr><td rowspan="1" colspan="1">0.3</td><td rowspan="1" colspan="1">30</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1791</td><td rowspan="1" colspan="1">969</td><td rowspan="1" colspan="1">595</td></tr><tr><td rowspan="1" colspan="1">0.4</td><td rowspan="1" colspan="1">51</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1719</td><td rowspan="1" colspan="1">778</td><td rowspan="1" colspan="1">581</td></tr><tr><td rowspan="1" colspan="1">0.5</td><td rowspan="1" colspan="1">71</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1434</td><td rowspan="1" colspan="1">598</td><td rowspan="1" colspan="1">408</td></tr><tr><td rowspan="1" colspan="1">0.6</td><td rowspan="1" colspan="1">86</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1075</td><td rowspan="1" colspan="1">465</td><td rowspan="1" colspan="1">316</td></tr><tr><td rowspan="1" colspan="1">0.7</td><td rowspan="1" colspan="1">95</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">825</td><td rowspan="1" colspan="1">380</td><td rowspan="1" colspan="1">240</td></tr><tr><td rowspan="1" colspan="1">0.8</td><td rowspan="1" colspan="1">99</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">673</td><td rowspan="1" colspan="1">332</td><td rowspan="1" colspan="1">201</td></tr><tr><td rowspan="1" colspan="1">0.9</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">540</td><td rowspan="1" colspan="1">289</td><td rowspan="1" colspan="1">164</td></tr><tr><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">506</td><td rowspan="1" colspan="1">268</td><td rowspan="1" colspan="1">157</td></tr></tbody></table><table-wrap-foot><fn id="table-fn1-1740774511398368"><label>a</label><p>In calculating the duration of the study, we assumed an accrual rate
+                                of 5 patients per day.</p></fn></table-wrap-foot></table-wrap></p><p><italic>Type I error</italic>: Under the assumption of no difference (first row in
+                    <xref ref-type="table" rid="table1-1740774511398368">Table 1</xref> &#x02013;
+                median LOS is 5 days with both protocols) the probability of (incorrectly) selecting
+                either protocol as superior was 0.06.</p><p><italic>Power</italic>: Under the alternatives (median LOS with Protocol
+                A&#x02009;&#x0003c;&#x02009;median LOS under Protocol B) presented in the remaining
+                rows of the table, the probability of correctly selecting Protocol A represents the
+                power. For a difference of 12% in median LOS, across the interim looks, the
+                design will correctly select Protocol A as superior with 86% probability
+                (power), while the probability of wrongly selecting Protocol B as superior decreases
+                fast to levels close to 0%. The decision to stop increases with time (<xref ref-type="fig" rid="fig5-1740774511398368">Figure 5</xref>); thus, the
+                probability or terminating the trial by the 6th interim look (after 1400 subjects
+                have been enrolled) is 50% and it increases to 86% by the 14th look
+                (after all 3000 subjects have been enrolled). <fig id="fig5-1740774511398368" position="float"><label>Figure 5</label><caption><p>Cumulative probability of stopping the trial across interim looks;
+                            assumed median LOS with Protocols B and A are 5 and 4.4 days,
+                            respectively</p></caption><graphic xlink:href="10.1177_1740774511398368-fig5"/></fig></p><p>From among the many alternatives designs we evaluated, we briefly discuss here the
+                    <italic>balanced</italic> design that has the same parameters as the design
+                presented above. Additional information on the simulation study including the R
+                    [<xref ref-type="bibr" rid="bibr12-1740774511398368">12</xref>] script used in
+                running the simulations can be obtained from the authors.</p><p>With a balanced design, the Type I error is the same, the power is slightly higher
+                (for example, 77% <italic>vs</italic>. 71% to detect a difference
+                with Protocol A of 10% in median LOS), the median number of patients
+                enrolled is about the same (&#x0223c;2000), however, while with the balanced design
+                the enrollment is balanced, with our proposed design the number of patients assigned
+                to the superior treatment is higher.</p><p>The operating characteristic simulation is dependent on the accuracy of the data
+                model used to generate the LOS. In <xref ref-type="table" rid="table1-1740774511398368">Table 1</xref>, we use the exponential model to
+                generate the data, as well as to do the updating. Thus, it makes the assumption that
+                the Bayesian model is correctly specified, as is done in most published work, when
+                estimating (frequentist) operating characteristics. But the LOS data from a
+                historical sample of patients approximating the proposed study intake criteria
+                indicates a heavier tail, such as log-normal. Therefore, we assessed the sensitivity
+                of the assumptions by using the log-normal model to generate the data (but still
+                using the exponential model for the updates; <xref ref-type="table" rid="table2-1740774511398368">Table 2</xref>). <table-wrap id="table2-1740774511398368" position="float"><label>Table 2</label><caption><p>Operating characteristics under lognormal data model</p></caption><table frame="hsides" rules="groups"><thead align="left"><tr><th rowspan="1" colspan="1">Difference in median LOS (B&#x02013;A) in days [median under
+                                    Protocol B&#x02009;=&#x02009;5 days]</th><th rowspan="1" colspan="1">Probability of selecting Protocol A as superior (%)</th><th rowspan="1" colspan="1">Probability of selecting Protocol B as superior (%)</th><th rowspan="1" colspan="1">Median number of patients on Protocol A</th><th rowspan="1" colspan="1">Median number of patients on Protocol B</th><th rowspan="1" colspan="1">Median duration (days)<sup><xref ref-type="table-fn" rid="table-fn2-1740774511398368">a</xref></sup></th></tr></thead><tbody align="left"><tr><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">1469</td><td rowspan="1" colspan="1">1473</td><td rowspan="1" colspan="1">599</td></tr><tr><td rowspan="1" colspan="1">0.1</td><td rowspan="1" colspan="1">8</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">1594</td><td rowspan="1" colspan="1">1317</td><td rowspan="1" colspan="1">599</td></tr><tr><td rowspan="1" colspan="1">0.2</td><td rowspan="1" colspan="1">16</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1711</td><td rowspan="1" colspan="1">1163</td><td rowspan="1" colspan="1">597</td></tr><tr><td rowspan="1" colspan="1">0.3</td><td rowspan="1" colspan="1">28</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1759</td><td rowspan="1" colspan="1">998</td><td rowspan="1" colspan="1">595</td></tr><tr><td rowspan="1" colspan="1">0.4</td><td rowspan="1" colspan="1">46</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1724</td><td rowspan="1" colspan="1">832</td><td rowspan="1" colspan="1">587</td></tr><tr><td rowspan="1" colspan="1">0.5</td><td rowspan="1" colspan="1">62</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1600</td><td rowspan="1" colspan="1">696</td><td rowspan="1" colspan="1">485</td></tr><tr><td rowspan="1" colspan="1">0.6</td><td rowspan="1" colspan="1">78</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1244</td><td rowspan="1" colspan="1">535</td><td rowspan="1" colspan="1">360</td></tr><tr><td rowspan="1" colspan="1">0.7</td><td rowspan="1" colspan="1">90</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">924</td><td rowspan="1" colspan="1">414</td><td rowspan="1" colspan="1">275</td></tr><tr><td rowspan="1" colspan="1">0.8</td><td rowspan="1" colspan="1">96</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">715</td><td rowspan="1" colspan="1">352</td><td rowspan="1" colspan="1">210</td></tr><tr><td rowspan="1" colspan="1">0.9</td><td rowspan="1" colspan="1">99</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">626</td><td rowspan="1" colspan="1">309</td><td rowspan="1" colspan="1">193</td></tr><tr><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">522</td><td rowspan="1" colspan="1">278</td><td rowspan="1" colspan="1">160</td></tr></tbody></table><table-wrap-foot><fn id="table-fn2-1740774511398368"><label>a</label><p>In calculating the duration of the study, we assumed an accrual rate
+                                of 5 patients per day.</p></fn></table-wrap-foot></table-wrap></p><p>The difference between these two simulations illustrates the modest sensitivity of
+                the operating characteristics to misspecification of the data model. For example,
+                the Type I error estimate rises from 6% to 7%, and the power at a
+                difference of 0.5 days drops from 71% to 62%. However, we consider
+                the Type I error less relevant in this context, comparing the effectiveness of two
+                widely used procedures for setting dose. In a different context, the Type I error
+                might be more important. The probability of making the right choice when it matters
+                (a full day difference) is high (100%) in the log-normal scenario, too.
+                These results illustrate the value of a hybrid approach, where the Bayes method is
+                confined to updating the randomization probability (thus closing the implementation
+                gap and maximizing the number of patients receiving the right treatment) and
+                inference is based on operating characteristics from a range of more realistic
+                models.</p></sec><sec sec-type="discussion" id="sec13-1740774511398368"><title>Discussion</title><p>POC-CT methodology is well suited for studies with the following features: <list list-type="bullet"><list-item><p>Interventions already approved by the FDA.</p></list-item><list-item><p>A clinical question where there is equipoise regarding clinically
+                            relevant alternative interventions.</p></list-item><list-item><p>Interventions that are part of routine practice, well tolerated, and have
+                            well-recognized toxicities which mitigates the need for adverse event
+                            monitoring beyond that in routine clinical care.</p></list-item><list-item><p>Subject identification, inclusion and exclusion criteria, and endpoints
+                            that are accurately obtained from the EMR.</p></list-item><list-item><p>Outcomes are objective and require little or no adjudication.</p></list-item><list-item><p>Study protocol requiring minimal deviations from usual care.</p></list-item><list-item><p>No systematic laboratory or clinical follow-up required for either safety
+                            or comparative effectiveness.</p></list-item></list></p><p>This trial is designed to be on the pragmatic extreme of the clinical trial spectrum
+                with the subject consent process being the sole perturbation of the clinical care
+                &#x02018;ecosystem.&#x02019; The absence of study specific interventions,
+                procedures, and monitoring together with passive data capture attempts to maximize
+                the relevance of the findings to current practice at the VA Boston Healthcare
+                System. Adaptive randomization is designed to assign subjects preferentially to the
+                treatment arm that, in real time, appears superior, with an
+                &#x02018;efficacy&#x02019; stopping rule that has acceptable Type I error. If the
+                study terminates without reaching its &#x02018;efficacy&#x02019; boundary, it will
+                reliably rule out a substantial difference, in which case cost, convenience, and
+                other factors will dictate which treatment arms continue to be supported. Such
+                direct translation of study results into clinical practice defines a
+                &#x02018;learning healthcare system.&#x02019;</p><p>The clinical question posed in this protocol, comparison of insulin administration
+                methods, was chosen because it is amenable to a maximally pragmatic study as defined
+                by the PRECIS criteria and because: <list list-type="bullet"><list-item><p>Broad participation by healthcare providers is expected. The clinical
+                            question is compelling and in practice there is apparent equipoise
+                            between the two regimens in that roughly half of patients are currently
+                            treated by each technique.</p></list-item><list-item><p>The inclusion/exclusion criteria will allow enrollment of nearly all the
+                            VA Boston patients who require the intervention.</p></list-item><list-item><p>The study interventions are currently utilized at VA Boston, have known
+                            toxicities that are monitored as part of usual care, and thus require no
+                            specific study related monitoring.</p></list-item><list-item><p>All study data elements are objective, resident in the EMR and do not
+                            require study specific interactions or visits for capture.</p></list-item><list-item><p>Adaptive randomization methodology leads to real-time incorporation of
+                            study results into practice, if one treatment proves superior.</p></list-item></list></p><p>The ability to implement this study is made possible by the VA&#x02019;s EMR
+                environment. CPRS is in use at all the VA&#x02019;s 1500-plus points of care and was
+                designed to incorporate clinical data as part of efforts to improve clinical care.
+                As a result, it features several packages that allow end users to automatically
+                generate reports, &#x02018;listen&#x02019; for certain values associated with
+                patient data objects, consider these values with programmatic logic, and introduce
+                information and workflows directly into the EMR. To capitalize on this level of
+                flexibility, most VA healthcare systems employ Clinical Application Coordinators,
+                who use these tools to create and report measures of the quality of care, to
+                implement guidelines, and to create clinical reminders based on the priorities of
+                each hospital. This infrastructure will allow for the relatively easy roll-out of
+                this and other POC-CT studies system-wide as well as systematic implementation of
+                findings.</p><p>The ability to use existing functionalities, as opposed to developing custom software
+                is important for a number of reasons. First, development of new software
+                functionality is constrained by time for development, testing, and approval, and
+                development resources. Second, by capitalizing on existing system functionality, we
+                increase the likelihood of a successful deployment to other VA hospitals or clinics,
+                each one of which employs CPRS. Finally, although this particular use of CPRS may be
+                novel, the POC-CT processes are presented through familiar interfaces and into a
+                culture of robust CPRS use, which we hope will facilitate adoption of this
+                approach.</p><p>The ability of institutions to implement POC-CTs is dependent on the ability to use
+                the EMR to: (1) identify events as they present in real time; (2) intervene in the
+                clinical care workflow; and (3) track longitudinal data. It is worth noting that
+                these functionalities are critical to the creation and implementation of many novel
+                approaches to learn from and improve healthcare based on real data and that few
+                systems offer such capabilities to end users. The need for such functionalities is
+                of particular relevance in light of the US Federal Government&#x02019;s upcoming
+                investment of $19 billion to support the adoption of EMRs [<xref ref-type="bibr" rid="bibr13-1740774511398368">13</xref>]. Much of this funding
+                is contingent on the adoption of &#x02018;certified&#x02019; EMR systems and the
+                &#x02018;meaningful use&#x02019; of such systems. Definitions that require flexible
+                integration with EMR data and workflows are essential to meeting the goals of such
+                enormous investments [<xref ref-type="bibr" rid="bibr14-1740774511398368">14</xref>].</p><p>The ethical and practical considerations of informed consent have been extensively
+                discussed and debated [<xref ref-type="bibr" rid="bibr15-1740774511398368">15</xref>&#x02013;<xref ref-type="bibr" rid="bibr19-1740774511398368">19</xref>] as have methods such as cluster randomization which might obviate or
+                preclude individual informed consent [<xref ref-type="bibr" rid="bibr20-1740774511398368">20</xref>,<xref ref-type="bibr" rid="bibr21-1740774511398368">21</xref>]. Detailed analyses of these
+                considerations are outside the scope of this article. However, as POC-CTs or
+                similarly designed trials become an important component of clinical research, it
+                will be incumbent on investigators, ethicists, and IRBs to fully consider the
+                potential benefits and apparently minimal incremental risks of a POC-CT, and to take
+                responsibility for helping their healthcare systems to lower the barriers to
+                successful study design and implementation of improvements in care.</p><p>A study coordinator will obtain written informed consent for all subjects entered
+                into this trial. This requirement accounts for a significant proportion of the study
+                cost and introduces the single most tangible perturbation to the usual care
+                workflow. We recognize that replacement of such full written informed consent by an
+                alternative (such as simple &#x02018;notification&#x02019; by the healthcare
+                provider and verbal consent by the subject with subsequent randomization through a
+                fully automated computerized process) would result in an even more efficient design,
+                with a closer match to clinical care. The IRB could consider such a variation on the
+                usual research informed consent, on a study-by-study basis, especially when the
+                POC-CT results in care materially identical to usual clinical practice. Parallel
+                requirements would be a waiver of HIPAA authorization to obtain study data from the
+                EMR and acknowledgement that treating clinicians who authorize automated
+                randomization are not &#x02018;engaged&#x02019; in research.</p><p>A POC-CT will likely require significantly less study-specific infrastructure and
+                cost than traditional RCTs (after the up-front investment in coordinating center and
+                informatics, already made by the VA). These advantages together with an economy of
+                scale once an investment in the methodology has been made could lead to low
+                incremental cost per study as well as allowing study designs of sufficient duration
+                to capture clinically relevant (as opposed to surrogate) endpoints.</p></sec><sec id="sec14-1740774511398368"><title>Limitations</title><p>Several issues may impede adoption of POC-CTs. Some patients may find it surprising
+                and troubling that healthcare providers do not know what is the best treatment for
+                them. This disclosure could make the consent process lengthy and difficult. Although
+                the medical community might be at equipoise regarding treatment options, individual
+                healthcare providers may have strong treatment preferences, either in general or for
+                particular individual patients. Both of these issues could have ramifications for
+                recruitment rates and the success of a POC-CT. We note that &#x02018;reluctance to
+                randomize&#x02019; is an issue for all RCT designs, not just POC-CT.</p><p>Most (if not all) uses of POC-CT we envision would have an open (unblinded) design,
+                which raises the possibility of cross-contamination of treatments, or differential
+                clinical interventions due to physicians&#x02019; perceptions of patients&#x02019;
+                needs, or other failures of the exclusion principle, such as observational bias in
+                the outcome. Therefore, the use of POC-CT may be restricted to clinical situations
+                where the effects are likely to be minimal. We think that the EMR-based protocols we
+                compare here, as well as the outcome of LOS, sharply reduce physician unblinding as
+                a threat. We emphasize that POC-CT is not a universal alternative to the classical
+                double-blind RCT with its many controls for bias; rather, it can be seen as a
+                competitor to observational studies, by removing the particular bias from selection
+                by indication that plagues such non-experimental studies.</p><p>Our pragmatic intent requires us to rely on individual clinician judgment of
+                eligibility, which is another mark of distinction between POC-CT and conventional
+                trials, which often have elaborate procedures for defining &#x02018;inclusion and
+                exclusion.&#x02019; This certainly restricts the use of POC-CT to contexts where
+                such precision is unnecessary. However, it also contributes to the
+                &#x02018;ecological validity&#x02019; of treatment effects.</p><p>Highly pragmatic POC-CTs such as this study may yield results that are locally
+                convincing but are not easily generalized to other healthcare systems. A healthcare
+                system such as the VA, motivated to conduct POC-CTs and with the organization and
+                infrastructure capable of supporting it, could generate &#x02018;locally
+                selfish&#x02019; evidence-based medicine to gain evidence of comparative
+                effectiveness most relevant to its population and systems. In general, comparative
+                effectiveness findings are most applicable to the systems and individuals who
+                participated in its creation rather than to the &#x02018;free riders&#x02019;
+                &#x02013; those who may desire evidence-based medicine but who are unwilling to be a
+                part of that evidence.</p><p>The above may suggest that the POC-CT approach is limited to a narrow range of
+                clinical questions and contexts. We are just now beginning to expand our list of
+                possible use cases, and we do not want to speculate in advance of the facts. We
+                agree with Vickers and Scardino [<xref ref-type="bibr" rid="bibr9-1740774511398368">9</xref>] that features of POC-CT might be implemented in practice in four
+                distinct areas: surgery, &#x02018;me too&#x02019; drugs, rare diseases, and
+                lifestyle interventions. In addition to questions of optimizing care (such as the
+                insulin example described here) use cases currently under consideration include
+                technology introduction (imaging, robotics, and biomarker-guided therapy),
+                pre-hydration with bicarbonate <italic>versus</italic> saline with or without
+                n-acetylcysteine in contrast-induced nephropathy, and comparing prolonged exposure
+                and cognitive processing therapies as alternative treatment strategies for
+                post-traumatic stress disorder.</p><p>Finally, the proposed study design using outcome adaptive randomization leads to
+                real-time implementation into practice, and stimulates reconsideration of the role
+                of the traditional peer review process that subjects study results to expert outside
+                review before planning their implementation in practice.</p></sec></body><back><ack><title>Funding</title><p>This study was supported by the Department of Veterans Affairs Cooperative Studies
+                Program. Dr Lavori&#x02019;s efforts have been supported by grants UL1 RR025744 and
+                R01 MH051481 to Stanford University.</p></ack><ref-list><title>References</title><ref id="bibr1-1740774511398368"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schwartz</surname><given-names>D</given-names></name><name><surname>Lellouch</surname><given-names>J</given-names></name></person-group> <article-title>Explanatory and pragmatic attitudes in
+                        therapeutic trials</article-title>. <source>J Chron Dis</source>
+                    <year>1967</year>; <volume>20</volume>:
+                        <fpage>637</fpage>&#x02013;<lpage>48</lpage><pub-id pub-id-type="pmid">4860352</pub-id></mixed-citation></ref><ref id="bibr2-1740774511398368"><label>2</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Schwartz</surname><given-names>D</given-names></name><name><surname>Flamant</surname><given-names>R</given-names></name><name><surname>Lellouch</surname><given-names>J</given-names></name></person-group> <source>Clinical Trials</source>
+                    <publisher-name>London</publisher-name>, <publisher-loc>Academic
+                        Press</publisher-loc>, <year>1980</year></mixed-citation></ref><ref id="bibr3-1740774511398368"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tunis</surname><given-names>SR</given-names></name><name><surname>Stryer</surname><given-names>DB</given-names></name><name><surname>Clancy</surname><given-names>CM</given-names></name></person-group> <article-title>Practical clinical trials: increasing the value
+                        of clinical research for decision making in clinical and health
+                        policy</article-title>. <source>J Am Med Assoc</source>
+                    <year>2003</year>; <volume>290</volume>:
+                        <fpage>1624</fpage>&#x02013;<lpage>32</lpage></mixed-citation></ref><ref id="bibr4-1740774511398368"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thorpe</surname><given-names>KE</given-names></name><name><surname>Zwarenstein</surname><given-names>M</given-names></name><name><surname>Oxman</surname><given-names>AD</given-names></name><etal/></person-group> <article-title>A pragmatic&#x02013;explanatory continuum
+                        indicator summary (PRECIS): a tool to help trial designers</article-title>.
+                        <source>J Clin Epidemiol</source>
+                    <year>2009</year>; <volume>62</volume>:
+                        <fpage>464</fpage>&#x02013;<lpage>75</lpage><pub-id pub-id-type="pmid">19348971</pub-id></mixed-citation></ref><ref id="bibr5-1740774511398368"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chalmers</surname><given-names>TC</given-names></name></person-group> <article-title>Randomization of the first
+                        patient</article-title>. <source>Med Clin N Amer</source>
+                    <year>1975</year>; <volume>59</volume>:
+                        <fpage>1035</fpage>&#x02013;<lpage>38</lpage><pub-id pub-id-type="pmid">1142862</pub-id></mixed-citation></ref><ref id="bibr6-1740774511398368"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baum</surname><given-names>M</given-names></name></person-group> <article-title>New approach for recruitment into randomized
+                        clinical trials</article-title>. <source>Lancet</source>
+                    <year>1993</year>; <volume>1</volume>:
+                        <fpage>812</fpage>&#x02013;<lpage>13</lpage><pub-id pub-id-type="pmid">8096011</pub-id></mixed-citation></ref><ref id="bibr7-1740774511398368"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Luce</surname><given-names>BR</given-names></name><name><surname>Kramer</surname><given-names>JM</given-names></name><name><surname>Goodman</surname><given-names>SN</given-names></name><etal/></person-group> <article-title>Rethinking randomized clinical trials for
+                        comparative effectiveness research: the need for transformational
+                        change</article-title>. <source>Ann Intern Med</source>
+                    <year>2009</year>; <volume>151</volume>:
+                        <fpage>206</fpage>&#x02013;<lpage>09</lpage><pub-id pub-id-type="pmid">19567619</pub-id></mixed-citation></ref><ref id="bibr8-1740774511398368"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zwarenstein</surname><given-names>MF</given-names></name><name><surname>Dainty</surname><given-names>KN</given-names></name><name><surname>Quan</surname><given-names>S</given-names></name><etal/></person-group> <article-title>A cluster randomized trial evaluating electronic
+                        prescribing in an ambulatory care setting</article-title>.
+                        <source>Trials</source>
+                    <year>2007</year>; <volume>8</volume>:
+                        <fpage>28</fpage>&#x02013;<lpage>28</lpage><pub-id pub-id-type="pmid">17915028</pub-id></mixed-citation></ref><ref id="bibr9-1740774511398368"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vickers</surname><given-names>AJ</given-names></name><name><surname>Scardino</surname><given-names>PT</given-names></name></person-group> <article-title>The clinical-integrated randomized trial:
+                        proposed novel method for conducting large trials at low
+                        cost</article-title>. <source>Trials</source>
+                    <year>2009</year>; <volume>10</volume>:
+                        <fpage>14</fpage>&#x02013;<lpage>14</lpage><pub-id pub-id-type="pmid">19265515</pub-id></mixed-citation></ref><ref id="bibr10-1740774511398368"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Giles</surname><given-names>FJ</given-names></name><name><surname>Kantarjian</surname><given-names>HM</given-names></name><name><surname>Cortes</surname><given-names>JE</given-names></name><etal/></person-group> <article-title>Adaptive randomized study of idarubicin and
+                        cytarabine versus troxacitabine and cytarabine versus troxacitabine and
+                        idarubicin in untreated patients 50 years or older with adverse karyotype
+                        acute myeloid leukemia</article-title>. <source>J Clin Oncol</source>
+                    <year>2003</year>; <volume>21</volume>:
+                        <fpage>1722</fpage>&#x02013;<lpage>27</lpage><pub-id pub-id-type="pmid">12721247</pub-id></mixed-citation></ref><ref id="bibr11-1740774511398368"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thall</surname><given-names>PF</given-names></name><name><surname>Wathen</surname><given-names>JK</given-names></name></person-group> <article-title>Practical Bayesian adaptive randomization in
+                        clinical trials</article-title>. <source>Eur J Cancer</source>
+                    <year>2007</year>; <volume>43</volume>:
+                        <fpage>859</fpage>&#x02013;<lpage>66</lpage><pub-id pub-id-type="pmid">17306975</pub-id></mixed-citation></ref><ref id="bibr12-1740774511398368"><label>12</label><mixed-citation publication-type="other"><comment>R Development Core Team. R: a language and
+                        environment for statistical computing. R Foundation for Statistical
+                        Computing [document on the Internet]. The Institute for Statistics and
+                        Mathematics, Vienna, 2009. Available at: <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org">http://www.R-project.org</ext-link> (accessed 9 June
+                    2010)</comment></mixed-citation></ref><ref id="bibr13-1740774511398368"><label>13</label><mixed-citation publication-type="other"><comment>American Medical Association. American
+                        Recovery and Reinvestment Act of 2009 (ARRA), Summary of Major Health Care
+                        Provisions, 2009</comment></mixed-citation></ref><ref id="bibr14-1740774511398368"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>D&#x02019;Avolio</surname><given-names>L</given-names></name></person-group> <article-title>Electronic medical records at a crossroads;
+                        impetus for change or missed opportunity</article-title>. <source>J Am Med
+                        Assoc</source>
+                    <year>2009</year>; <volume>302</volume>:
+                        <fpage>1109</fpage>&#x02013;<lpage>10</lpage></mixed-citation></ref><ref id="bibr15-1740774511398368"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baum</surname><given-names>M</given-names></name></person-group> <article-title>Do we need informed consent?</article-title>
+                    <source>Lancet</source>
+                    <year>1986</year>; <volume>2</volume>:
+                        <fpage>911</fpage>&#x02013;<lpage>12</lpage><pub-id pub-id-type="pmid">2876339</pub-id></mixed-citation></ref><ref id="bibr16-1740774511398368"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Edwards</surname><given-names>SJL</given-names></name><name><surname>Lilford</surname><given-names>RJ</given-names></name><name><surname>Braunholtz</surname><given-names/></name><etal/></person-group> <article-title>Ethical issues in the design and conduct of
+                        randomized controlled trials</article-title>. <source>Health Technol
+                        Assess</source>
+                    <year>1998</year>; <volume>2</volume>(<issue>15</issue>):
+                        <fpage>i</fpage>&#x02013;<lpage>vi</lpage>,
+                    <comment>1&#x02013;132</comment><pub-id pub-id-type="pmid">10194615</pub-id></mixed-citation></ref><ref id="bibr17-1740774511398368"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Emanuel</surname><given-names>EJ</given-names></name><name><surname>Wendler</surname><given-names>D</given-names></name><name><surname>Grady</surname><given-names>C</given-names></name></person-group> <article-title>What makes clinical research
+                        ethical?</article-title>
+                    <source>J Am Med Assoc</source>
+                    <year>2000</year>; <volume>283</volume>:
+                        <fpage>2701</fpage>&#x02013;<lpage>11</lpage></mixed-citation></ref><ref id="bibr18-1740774511398368"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marco</surname><given-names>CA</given-names></name></person-group> <article-title>Impact of detailed informed consent of research
+                        subjects&#x02019; participation: a prospective, randomized
+                        trial</article-title>. <source>J Emerg Med</source>
+                    <year>2008</year>; <volume>34</volume>:
+                        <fpage>269</fpage>&#x02013;<lpage>75</lpage><pub-id pub-id-type="pmid">18022787</pub-id></mixed-citation></ref><ref id="bibr19-1740774511398368"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Parvizi</surname><given-names>J</given-names></name><name><surname>Chakravarty</surname><given-names>R</given-names></name><name><surname>Og</surname><given-names>B</given-names></name><name><surname>Rodriguez-Paez</surname><given-names>A</given-names></name></person-group> <article-title>Informed consent: is it always
+                        necessary?</article-title>
+                    <source>Injury</source>
+                    <year>2008</year>; <volume>39</volume>:
+                        <fpage>651</fpage>&#x02013;<lpage>55</lpage><pub-id pub-id-type="pmid">18502422</pub-id></mixed-citation></ref><ref id="bibr20-1740774511398368"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hutton</surname><given-names>JL</given-names></name></person-group> <article-title>Are distinctive ethical principles required for
+                        cluster randomized controlled trials?</article-title>
+                    <source>Stat Med</source>
+                    <year>2001</year>; <volume>20</volume>:
+                        <fpage>473</fpage>&#x02013;<lpage>88</lpage><pub-id pub-id-type="pmid">11180314</pub-id></mixed-citation></ref><ref id="bibr21-1740774511398368"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sabin</surname><given-names>JE</given-names></name><name><surname>Mazor</surname><given-names>K</given-names></name><name><surname>Meterko</surname><given-names>V</given-names></name><name><surname>Goff</surname><given-names>SL</given-names></name><name><surname>Platt</surname><given-names>R</given-names></name></person-group> <article-title>Comparing drug effectiveness at health plans:
+                        the ethics of cluster randomized trials</article-title>. <source>Hasting
+                        Cent Rep</source>
+                    <year>2008</year>; <volume>38</volume>:
+                        <fpage>39</fpage>&#x02013;<lpage>48</lpage></mixed-citation></ref></ref-list></back></article>

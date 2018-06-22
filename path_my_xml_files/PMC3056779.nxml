@@ -1,0 +1,955 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">21423758</article-id><article-id pub-id-type="pmc">3056779</article-id><article-id pub-id-type="publisher-id">10-PONE-CT-21522</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0017770</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Neurology</subject><subj-group><subject>Motor Neuron Diseases</subject><subj-group><subject>Amyotrophic Lateral Sclerosis</subject></subj-group></subj-group><subj-group><subject>Neuroimaging</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>G-CSF Prevents the Progression of Structural Disintegration of White
+Matter Tracts in Amyotrophic Lateral Sclerosis: A Pilot Trial</article-title><alt-title alt-title-type="running-head">G-CSF for Treatment of ALS</alt-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><name><surname>Duning</surname><given-names>Thomas</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Schiffbauer</surname><given-names>Hagen</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Warnecke</surname><given-names>Tobias</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Mohammadi</surname><given-names>Siawoosh</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Floel</surname><given-names>Agnes</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kolpatzik</surname><given-names>Katja</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kugel</surname><given-names>Harald</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Schneider</surname><given-names>Armin</given-names></name><xref ref-type="aff" rid="aff6">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Knecht</surname><given-names>Stefan</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Deppe</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Sch&#x000e4;bitz</surname><given-names>Wolf R&#x000fc;diger</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff7">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Neurology, University Hospital
+Muenster, Muenster, Germany</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Department of Clinical Radiology, University
+Hospital Muenster, Muenster, Germany</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Department of Neurology, Charit&#x000e9; -
+Universitaetsmedizin Berlin, Berlin, Germany</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Center for Stroke Research Berlin,
+Charit&#x000e9; - Universitaetsmedizin Berlin, Berlin, Germany</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Cluster of Excellence NeuroCure,
+Charit&#x000e9; - Universitaetsmedizin Berlin, Berlin, Germany</addr-line>
+</aff><aff id="aff6">
+<label>6</label>
+<addr-line>SYGNIS Bioscience, Heidelberg,
+Germany</addr-line>
+</aff><aff id="aff7">
+<label>7</label>
+<addr-line>Department of Neurology, EVK Bielefeld,
+Bielefeld, Germany</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Kleinschnitz</surname><given-names>Christoph</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Julius-Maximilians-Universit&#x000e4;t W&#x000fc;rzburg, Germany</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>duningt@uni-muenster.de</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: TD HS TW HK SK WS. Performed the
+experiments: TD HS KK HK. Analyzed the data: TD TW SM AF KK MD WS.
+Contributed reagents/materials/analysis tools: TW SM AF HK AS SK MD WS.
+Wrote the manuscript: TD WS.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>14</day><month>3</month><year>2011</year></pub-date><volume>6</volume><issue>3</issue><elocation-id>e17770</elocation-id><history><date date-type="received"><day>8</day><month>1</month><year>2011</year></date><date date-type="accepted"><day>14</day><month>2</month><year>2011</year></date></history><permissions><copyright-statement>Duning et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Background</title><p>The hematopoietic protein Granulocyte-colony stimulating factor (G-CSF) has
+neuroprotective and -regenerative properties. The G-CSF receptor is
+expressed by motoneurons, and G-CSF protects cultured motoneuronal cells
+from apoptosis. It therefore appears as an attractive and feasible drug
+candidate for the treatment of amyotrophic lateral sclerosis (ALS). The
+current pilot study was performed to determine whether treatment with G-CSF
+in ALS patients is feasible.</p></sec><sec><title>Methods</title><p>Ten patients with definite ALS were entered into a double-blind,
+placebo-controlled, randomized trial. Patients received either 10
+&#x000b5;g/kg BW G-CSF or placebo subcutaneously for the first 10 days and
+from day 20 to 25 of the study. Clinical outcome was assessed by changes in
+the ALS functional rating scale (ALSFRS), a comprehensive neuropsychological
+test battery, and by examining hand activities of daily living over the
+course of the study (100 days). The total number of adverse events (AE) and
+treatment-related AEs, discontinuation due to treatment-related AEs,
+laboratory parameters including leukocyte, erythrocyte, and platelet count,
+as well as vital signs were examined as safety endpoints.</p><p>Furthermore, we explored potential effects of G-CSF on structural cerebral
+abnormalities on the basis of voxel-wise statistics of Diffusion Tensor
+Imaging (DTI), brain volumetry, and voxel-based morphometry.</p></sec><sec><title>Results</title><p>Treatment was well-tolerated. No significant differences were found between
+groups in clinical tests and brain volumetry from baseline to day 100.
+However, DTI analysis revealed significant reductions of fractional
+anisotropy (FA) encompassing diffuse areas of the brain when patients were
+compared to controls. On longitudinal analysis, the placebo group showed
+significant greater and more widespread decline in FA than the ALS patients
+treated with G-CSF.</p></sec><sec><title>Conclusions</title><p>Subcutaneous G-CSF treatment in ALS patients appears as feasible approach.
+Although exploratory analysis of clinical data showed no significant effect,
+DTI measurements suggest that the widespread and progressive microstructural
+neural damage in ALS can be modulated by G-CSF treatment. These findings may
+carry significant implications for further clinical trials on ALS using
+growth factors.</p></sec><sec><title>Trial Registration</title><p>ClinicalTrials.gov <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov/ct2/show/NCT00298597">NCT00298597</ext-link>
+</p></sec></abstract><counts><page-count count="11"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Amyotrophic lateral sclerosis (ALS) is a devastating and incurable neurodegenerative
+disease with progressive loss of motor neurons. It is characterized by motor
+weakness and muscle wasting finally leading to death due to respiratory failure
+within 2&#x02013;5 years after diagnosis <xref rid="pone.0017770-Mitchell1" ref-type="bibr">[1]</xref>. A causal treatment for ALS is
+currently not available. The only approved pharmacological treatment opportunity is
+a continuous treatment with the NMDA antagonist riluzole. Riluzole prolongs life by
+2&#x02013;3 months, but an improvement in neurological function is barely noticeable
+<xref rid="pone.0017770-Miller1" ref-type="bibr">[2]</xref>. Therefore
+treatment alternatives are urgently needed. A number of different drugs were tested
+in clinical trials but none of them proofed to be effective. The failures have
+mainly been ascribed to the inability of candidate drugs to cross the blood-brain
+barrier (BBB), to problems of insufficient dosing or to intolerable side effects
+<xref rid="pone.0017770-Brooks1" ref-type="bibr">[3]</xref>, <xref rid="pone.0017770-Zoccolella1" ref-type="bibr">[4]</xref>.</p><p>Recent studies have uncovered the neuroprotective and regenerative properties of the
+haematopoietic protein granulocyte-colony stimulating factor (G-CSF) <xref rid="pone.0017770-Schabitz1" ref-type="bibr">[5]</xref>, <xref rid="pone.0017770-Schneider1" ref-type="bibr">[6]</xref>. A number of
+mechanisms of action in the CNS have been identified, the most relevant relating to
+neuroprotection, neuroplasticity, stem cell proliferation and differentiation. Thus,
+G-CSF could be a promising therapeutic candidate for the treatment of
+neurodegenerative diseases. Given that the exact disease-causing mechanism of ALS is
+still unknown, a general trophic support to motoneurons, e.g. by growth factors such
+as G-CSF, could be a rational approach. G-CSF crosses the intact BBB, thus allowing
+an efficient peripheral delivery <xref rid="pone.0017770-Schneider1" ref-type="bibr">[6]</xref>. Moreover, G-CSF is in clinical routine for the treatment
+of haematological disorders for more than a decade and its pharmacological behavior
+and safety profile are well understood.</p><p>The purpose of this pilot study was to assess whether G-CSF treatment in ALS patients
+is feasible, and to explore potential subclinical effects of G-CSF on structural
+cerebral abnormalities by using a combination of voxel-based morphometry (VBM) and
+whole-brain, voxel-based diffusion tensor imaging (DTI) analysis.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><sec id="s2a"><title>Participants and Procedures</title><p>Ten patients (median age 58 years; range 45&#x02013;71 years; 6 men, 4 women) with
+definite ALS based on revised El Escorial criteria were recruited for this
+double-blind, placebo-controlled and randomized study <xref rid="pone.0017770-Brooks2" ref-type="bibr">[7]</xref>. The CONSORT flowchart is
+shown as <xref ref-type="fig" rid="pone-0017770-g001">Figure 1</xref>. The here
+reported study, conducted according to ICH GCP guidelines, was originally
+planned as a larger arm in a registered recovery trial (ClinicalTrials.gov
+NCT00298597), but due to problems in patient recruitment was conducted and
+reported independently with a smaller number of patients. A group of 32 healthy
+subjects (17 women, median age 54.1 years, range 46 to 64 years) served as a
+control group for the cross-sectional image analyses. Patients taking riluzole
+were included if they were on a stable dose for at least 30 days before
+enrolment (for further details on patients, see <xref ref-type="table" rid="pone-0017770-t001">Table 1</xref>). After enrolment, patients were
+randomly assigned to subcutanteous injections of G-CSF or saline solution (10
+&#x000b5;g/KG/day G-CSF or 0.1 mL/KG/day placebo) during the first 10 days and
+from day 20 to 25 of the study. The study drug was given in a double-blind way.
+Study medication, and randomization to either G-CSF or placebo, was provided by
+the pharmacy of the University of Mainz. Filgrastim (recombinant human G-CSF
+produced in E. coli, solubilised in a buffer containing 10 mM acetic acid,
+5&#x00025; (m/v) sorbitol, 0.004&#x00025; Tween 80, ph adjusted to 4.0 with NAOH),
+or saline as placebo were filled in identical-looking glass vials to ensure
+blinding. Vital signs and laboratory parameters were determined repeatedly
+throughout the course of the study.</p><fig id="pone-0017770-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017770.g001</object-id><label>Figure 1</label><caption><title>Consort Flowchart.</title></caption><graphic xlink:href="pone.0017770.g001"/></fig><table-wrap id="pone-0017770-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017770.t001</object-id><label>Table 1</label><caption><title>Patient demographics and clinical characteristics at
+baseline.</title></caption><alternatives><graphic id="pone-0017770-t001-1" xlink:href="pone.0017770.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Parameter</td><td align="left" rowspan="1" colspan="1">G-CSF</td><td align="left" rowspan="1" colspan="1">Placebo</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age [years]</td><td align="left" rowspan="1" colspan="1">51.8&#x000b1;10.1</td><td align="left" rowspan="1" colspan="1">50.0&#x000b1;12.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Gender (male/female)</td><td align="left" rowspan="1" colspan="1">1/4</td><td align="left" rowspan="1" colspan="1">3/2</td></tr><tr><td align="left" rowspan="1" colspan="1">Month since diagnosed</td><td align="left" rowspan="1" colspan="1">13.9&#x000b1;8.1</td><td align="left" rowspan="1" colspan="1">12.5&#x000b1;6.9</td></tr><tr><td align="left" rowspan="1" colspan="1">Duration of symptoms [month]</td><td align="left" rowspan="1" colspan="1">19.5&#x000b1;8.4</td><td align="left" rowspan="1" colspan="1">19.1&#x000b1;7.5</td></tr><tr><td align="left" rowspan="1" colspan="1">Years of education</td><td align="left" rowspan="1" colspan="1">11.9&#x000b1;3.1</td><td align="left" rowspan="1" colspan="1">12.1&#x000b1;2.3</td></tr><tr><td align="left" rowspan="1" colspan="1">ALSFRS at baseline</td><td align="left" rowspan="1" colspan="1">27.4&#x000b1;2.5</td><td align="left" rowspan="1" colspan="1">29.3&#x000b1;4.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Total time for JTT at baseline
+[seconds]</td><td align="left" rowspan="1" colspan="1">52.4&#x000b1;11.3</td><td align="left" rowspan="1" colspan="1">54.6&#x000b1;8.1</td></tr><tr><td align="left" rowspan="1" colspan="1">Riluzole treatment since [month]</td><td align="left" rowspan="1" colspan="1">12.4&#x000b1;5.4</td><td align="left" rowspan="1" colspan="1">11.9&#x000b1;3.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Onset of ALS-Symptoms</td><td align="left" rowspan="1" colspan="1">Bulbar: 0Lower limb: 2Upper limb: 3</td><td align="left" rowspan="1" colspan="1">Bulbar: 1Lower limb: 2Upper limb: 2</td></tr><tr><td align="left" rowspan="1" colspan="1">Blood pressure (systolic/diastolic)
+[mmHg] at baseline</td><td align="left" rowspan="1" colspan="1">134/79&#x000b1;13.5/11.7</td><td align="left" rowspan="1" colspan="1">137/83&#x000b1;14.2/10.7</td></tr><tr><td align="left" rowspan="1" colspan="1">heart rate [beats/minute] at
+baseline</td><td align="left" rowspan="1" colspan="1">78&#x000b1;13.4</td><td align="left" rowspan="1" colspan="1">73&#x000b1;10.9</td></tr><tr><td align="left" rowspan="1" colspan="1">body temperature [&#x000b0;C] at
+baseline</td><td align="left" rowspan="1" colspan="1">35.4&#x000b1;0.5</td><td align="left" rowspan="1" colspan="1">35.9&#x000b1;0.4</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>Differences were not significant for any parameter (all
+<italic>P's</italic>&#x0003e;0.05); mean &#x000b1; SD given.</p></fn></table-wrap-foot></table-wrap><p>Each patient was physically examined and a questionnaire for the ALS functional
+rating scale (ALSFRS) was used to assess disease severity <xref rid="pone.0017770-The1" ref-type="bibr">[8]</xref>. To assess motor hand functions
+and cognitive ability, the Jebsen Taylor Test (JTT) <xref rid="pone.0017770-Alon1" ref-type="bibr">[9]</xref> and a comprehensive
+neuropsychological test battery were conducted, respectively. An experienced
+clinical neuropsychologist, who was unaware of the allocation of the patients,
+conducted the neuropsychological tests. Performances in five major areas of
+cognitive functioning were evaluated. Cognitive domains and their particular
+tests are listed in <xref ref-type="table" rid="pone-0017770-t002">Table
+2</xref>. The same test was not included in more than one cognitive domain
+score. Concerning the Rey Osterrieth Complex Figure Test, we also calculated the
+relative difference between both test results since results of delayed recall
+performance can be influenced by an impairment of initial copying. Due to the
+small number of subjects, we additionally compared mean results of each
+neuropsychological test with standardized normal values, adjusted for age, sex,
+and educational level (see <xref ref-type="table" rid="pone-0017770-t002">Table
+2</xref> for baseline results). Differences were expressed semi
+quantitatively as normal, close below average, or far below average,
+respectively. A detailed description of each test can be found in Lezak et al.
+<xref rid="pone.0017770-Lezak1" ref-type="bibr">[10]</xref>.
+Additionally, safety endpoints were examined, that is, the total number of
+adverse events (AEs), the number of treatment-related AEs, and discontinuation
+due to treatment-related AEs. Secondly, laboratory parameters including
+leukocyte, erythrocyte, and platelet count, and vital signs (body temperature,
+blood pressure, heart rate) were assessed.</p><table-wrap id="pone-0017770-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017770.t002</object-id><label>Table 2</label><caption><title>Neuropsychological test results at baseline.</title></caption><alternatives><graphic id="pone-0017770-t002-2" xlink:href="pone.0017770.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td colspan="3" align="left" rowspan="1">ALS</td><td colspan="3" align="left" rowspan="1">Controls</td></tr><tr><td align="left" rowspan="1" colspan="1">Cognitive domain and tests</td><td align="left" rowspan="1" colspan="1">Score (Percentile)</td><td align="left" rowspan="1" colspan="1">Evaluation</td><td align="left" rowspan="1" colspan="1">z-scores</td><td align="left" rowspan="1" colspan="1">Score (Percentile)</td><td align="left" rowspan="1" colspan="1">Evaluation</td><td align="left" rowspan="1" colspan="1">z-scores</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Dementia screening</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.005</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02212;0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE</td><td align="left" rowspan="1" colspan="1">29.1</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">28.9</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Boston Naming Test</td><td align="left" rowspan="1" colspan="1">13.9</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">14.0</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Attention and Working memory</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02212;0.032</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02212;0.022</td></tr><tr><td align="left" rowspan="1" colspan="1">NAI- Digit Symbol Substitution</td><td align="left" rowspan="1" colspan="1">31.0 (56.2)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">33.1 (60.7)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">- CWIT reading</td><td align="left" rowspan="1" colspan="1">56.8 (44.2)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">60.0 (50.4)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">- CWIT colour naming</td><td align="left" rowspan="1" colspan="1">54.3 (29.0)</td><td align="left" rowspan="1" colspan="1">close below average</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">52.9 (27.9)</td><td align="left" rowspan="1" colspan="1">close below average</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">WMS-R - Digit Span Forward</td><td align="left" rowspan="1" colspan="1">11.7 (51.8)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">12,6 (54.8)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">- Digit Span Backward</td><td align="left" rowspan="1" colspan="1">11.7 (41.6)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">11.9 (42.0)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Trail-making test [A]</td><td align="left" rowspan="1" colspan="1">45.2 (33.4)</td><td align="left" rowspan="1" colspan="1">close below average</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">36.0 (50.1)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Executive function</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02212;0.001</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02212;0.011</td></tr><tr><td align="left" rowspan="1" colspan="1">CWIT - interference condition</td><td align="left" rowspan="1" colspan="1">17.7 (50.9)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">19.8 (52.8)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">RWT - Letter fluency (&#x02018;S&#x02019;)</td><td align="left" rowspan="1" colspan="1">16.2 (47.4)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">16.4 (49.0)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Trail-making test [B]</td><td align="left" rowspan="1" colspan="1">100.1 (49.8)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">96.0 (53.0)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Visuospatial skills</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02212;0.081</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.045</td></tr><tr><td align="left" rowspan="1" colspan="1">ROCF - Copy</td><td align="left" rowspan="1" colspan="1">20.8</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">21.6</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">- Delayed recall</td><td align="left" rowspan="1" colspan="1">12.4 (38.8)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">14.2 (42.0)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">- Difference Copy- Delayed
+[&#x00025;]</td><td align="left" rowspan="1" colspan="1">&#x02212;29.3&#x00025;</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02212;29.9&#x00025;</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Verbal learning and memory</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.027</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02212;0.024</td></tr><tr><td align="left" rowspan="1" colspan="1">AVLT - Recall trial 1</td><td align="left" rowspan="1" colspan="1">6.8 (50.2)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">6.8 (51.3)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">- Recall trial 5</td><td align="left" rowspan="1" colspan="1">12.2 (51.1)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">11.5 (30.5)</td><td align="left" rowspan="1" colspan="1">close below average</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">- Total trials 1 to 5</td><td align="left" rowspan="1" colspan="1">48.2 (54.4)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">45.7 (49.0)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">- Delayed recall</td><td align="left" rowspan="1" colspan="1">10.5 (55.8)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">11.3 (58.4)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">- Recognition (True Positive &#x02013; False
+Positives)</td><td align="left" rowspan="1" colspan="1">13.9 (59.5)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">12.8 (52.1)</td><td align="left" rowspan="1" colspan="1">normal</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt102"><label/><p>Differences were not significant for any domain (all
+<italic>P's</italic>&#x0003e;0.05). SD &#x0200a;=&#x0200a;
+Standard Deviation; NAI &#x0200a;=&#x0200a; Nuremberg
+Gerontopsychological Inventory; CWIT &#x0200a;=&#x0200a;
+Color-Word- Interfer-ence Task; RWT &#x0200a;=&#x0200a;
+Regensburg Word Fluency Test; WMS-R &#x0200a;=&#x0200a;
+Wechsler Memory Scale-Revised; AVLT &#x0200a;=&#x0200a;
+Auditory Verbal Learning Test [German Version]; RCFT
+&#x0200a;=&#x0200a; Rey-Osterrieth Complex Figure; MMSE
+&#x0200a;=&#x0200a; Mini-Mental State Examination.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s2b"><title>Image acquisition and analysis</title><p>Image data were obtained on a 3.0 T system with a high resolution structural
+T1-weighted 3D turbo-field-echo sequence (reconstructed after zero filling to
+512&#x000d7;410&#x000d7;320 cubic voxels, edge length 0.5 mm), as well as
+T2-weighted, and FLAIR imaging. For DTI we employed echo planar imaging (EPI)
+with 20 diffusion directions (36 slices, thickness 3.6 mm, matrix 128&#x000d7;128,
+inplane resolution 1.8&#x000d7;1.8 mm).</p><p>MRI examinations of the ALS patients were performed at Day 0 and Day 100 of the
+study.</p><p>Diffusion tensor and FA (fractional anisotropy) field maps were calculated from
+spatially normalised images. The method was described in detail previously <xref rid="pone.0017770-Deppe1" ref-type="bibr">[11]</xref>. In brief,
+after correction for eddy currents with an in-house software, the EPI images
+were spatially normalized to the Montreal Neurological Institute (MNI)
+coordinate system following an optimized procedure. The diffusion tensor and FA
+field maps of all participants were calculated from the spatially normalized
+images. In a second step, all FA images were normalized to an FA template image
+also corresponding to the MNI coordinate space. Fiber direction maps were
+calculated on the basis of the largest eigenvector.</p><p>Patterns of cerebral atrophy were assessed using the automated and unbiased
+technique of VBM. An optimized method of VBM was applied using both customized
+templates and prior probability maps, implemented using SPM5. The processing
+steps were performed as previously described <xref rid="pone.0017770-Fein1" ref-type="bibr">[12]</xref>. Briefly, all images were
+normalized to a customized template and segmented by the unified segmentation
+procedure in SPM5 using the customized tissue probability maps into gray matter,
+white matter, and CSF, followed by the hidden Markov random field clean-up step.
+All images were modulated, and smoothed with a 12-mm full-width at half maximum
+smoothing kernel.</p><p>Total brain tissue volumes, normalized for subject head size, were calculated
+from the high-resolution T1-weighted images, using the well-established
+cross-sectional version of the Structural Imaging Evaluation of Normalized
+Atrophy (SIENA) software (SIENAx) <xref rid="pone.0017770-Smith1" ref-type="bibr">[13]</xref>.</p></sec><sec id="s2c"><title>Statistical Analysis</title><p>Data were testes for normal distribution with the Wilk-Shapiro test. Changes of
+ALSFRS, JTT and cognitive performance from baseline to Day 30 and 100 were
+examined between groups using a two sample t-test. Fisher's Exact Test was
+used to assess differences in the number of AEs between groups. Differences in
+laboratory parameters and vital signs were assessed with a two sample
+t-test.</p><p>Single neurocognitive test results were Z-transformed with a mean score of 0 and
+standard deviation of 1; mean Z-scores of cognitive domains were then calculated
+by taking the mean of the individual Z-scores. For timed tests, the sign of the
+Z-score was reversed so that improved performance resulted in a higher score in
+all tests. Differences in neurocognitive test results between groups were
+assessed with either two sample t- test or Mann-Whitney <italic>U</italic> test
+as appropriate. All data are given as means &#x000b1; SD, unless stated
+otherwise. A two-tailed P value &#x0003c;0.05 was considered significant. All
+statistical analyses were performed using SPSS 16.</p><p>Voxel-wise statistical tests were performed on FA and gray matter values using
+Factorial ANOVA in SPM5 (<ext-link ext-link-type="uri" xlink:href="http://www.fil.ion.ucl.ac.uk/spm/">http://www.fil.ion.ucl.ac.uk/spm/</ext-link>). We hypothesized that all ALS
+patients (at Visit 1) would show damage to white matter tracts reflected as
+decreased FA when compared to the 32 controls. This hypothesis was tested using
+cross-sectional comparisons, i.e. two-sample t-tests performed on Visit 1 data
+(pre-medication). Differences between both ALS-groups vs. healthy volunteers as
+well as each single ALS-group vs. controls were calculated. Secondly,
+differences in FA changes between ALS patients treated with G-CSF and the
+ALS-Placebo group in the 100 days following Visit 1 were assessed. This was
+tested using a factorial design, with VISIT (Visit 1, Visit 2) as the first
+factor, and GROUP (ALS-GCSF, ALS-Placebo), as the second factor. We hypothesized
+that there would be an overall group difference in FA change between these
+groups, manifesting as a significant interaction between GROUP and VISIT. Age
+was included as covariate because of the known or potential effects on FA.
+Additionally, follow-up paired comparisons (t-tests) were used to investigate
+within group longitudinal changes in FA values.</p><p>VBM data of gray matter were analyzed in accordance to the analyses of FA-maps:
+Both cross-sectional comparisons between ALS patients and controls (two sample
+t-test) and longitudinal GM changes within both ALS groups were tested (paired
+t-test and Factorial ANOVA with VISIT as the first factor and GROUP as the
+second factor).</p><p>Differences in total brain volumes between both ALS groups (GM, WM, relative and
+normalized brain volumes) and to the group of healthy controls were assessed by
+analysis of covariance, modeling the factor age as co-variable.</p></sec><sec id="s2d"><title>Ethics</title><p>The protocol for this trial and supporting CONSORT checklist are available as
+supporting information; see <xref ref-type="supplementary-material" rid="pone.0017770.s001">Checklist S1</xref> and <xref ref-type="supplementary-material" rid="pone.0017770.s002">Protocol
+S1</xref>. This study was carried out in strict accordance with the principles
+expressed in the Declaration of Helsinki. The study was approved by the local
+ethics committee of the University of M&#x000fc;nster and the German Federal
+Institute for Drugs and Medical Products. All participants in this study gave
+written informed consent.</p></sec></sec><sec id="s3"><title>Results</title><p>Five placebo-treated patients and 4 ALS patients treated with G-CSF completed the
+study, including both MRI scans. One patient died of intracranial hemorrhage due to
+an accidental fall shortly after enrolment and randomization, but before being
+treated with G-CSF. All individuals who received at least one dose of study
+medication tolerated the medication well and were able to complete the study.</p><p>Clinical tests (total time of JTT, ALSFRS scores, and z-scores of each cognitive
+domain) did not show a significant difference between both groups in change from
+baseline to day 30 and day 100 (<xref ref-type="table" rid="pone-0017770-t003">Table
+3</xref>). All clinical investigations and MRI scans at the follow-up dates were
+completed by the ALS patients.</p><table-wrap id="pone-0017770-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017770.t003</object-id><label>Table 3</label><caption><title>Primary clinical endpoints during treatment.</title></caption><alternatives><graphic id="pone-0017770-t003-3" xlink:href="pone.0017770.t003"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td colspan="3" align="left" rowspan="1">ALS</td><td colspan="3" align="left" rowspan="1">Controls</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Baseline</td><td align="left" rowspan="1" colspan="1">Day 30</td><td align="left" rowspan="1" colspan="1">Day 100</td><td align="left" rowspan="1" colspan="1">Baseline</td><td align="left" rowspan="1" colspan="1">Day 30</td><td align="left" rowspan="1" colspan="1">Day 100</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>ALSFRS scores (mean &#x000b1; SD)</bold>
+</td><td align="left" rowspan="1" colspan="1">35.4<bold>&#x000b1;</bold>7.6</td><td align="left" rowspan="1" colspan="1">34.6<bold>&#x000b1;</bold>8.5</td><td align="left" rowspan="1" colspan="1">35.3<bold>&#x000b1;</bold>9.4</td><td align="left" rowspan="1" colspan="1">35.8<bold>&#x000b1;</bold>7.0</td><td align="left" rowspan="1" colspan="1">34.1<bold>&#x000b1;</bold>8.9</td><td align="left" rowspan="1" colspan="1">34.4<bold>&#x000b1;</bold>8.2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Jebsen Taylor Test
+[seconds]</bold>
+<xref ref-type="table-fn" rid="nt104">&#x0002a;</xref>
+<bold>(mean &#x000b1; SD)</bold>
+</td><td align="left" rowspan="1" colspan="1">49.5<bold>&#x000b1;</bold>7.1</td><td align="left" rowspan="1" colspan="1">52.1<bold>&#x000b1;</bold>9.2.</td><td align="left" rowspan="1" colspan="1">50.1<bold>&#x000b1;</bold>6.6</td><td align="left" rowspan="1" colspan="1">51.7<bold>&#x000b1;</bold>7.7</td><td align="left" rowspan="1" colspan="1">54.2<bold>&#x000b1;</bold>6.2</td><td align="left" rowspan="1" colspan="1">50.8<bold>&#x000b1;</bold>8.1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cognitive domains</bold>
+<xref ref-type="table-fn" rid="nt105">#</xref>
+<bold>(z-scores)</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Dementia screening</td><td align="left" rowspan="1" colspan="1">0.005</td><td align="left" rowspan="1" colspan="1">0.010</td><td align="left" rowspan="1" colspan="1">&#x02212;0.007</td><td align="left" rowspan="1" colspan="1">&#x02212;0.002</td><td align="left" rowspan="1" colspan="1">&#x02212;0.024</td><td align="left" rowspan="1" colspan="1">0.005</td></tr><tr><td align="left" rowspan="1" colspan="1">Attention and Working memory</td><td align="left" rowspan="1" colspan="1">&#x02212;0.032</td><td align="left" rowspan="1" colspan="1">&#x02212;0.008</td><td align="left" rowspan="1" colspan="1">&#x02212;0.050</td><td align="left" rowspan="1" colspan="1">&#x02212;0.022</td><td align="left" rowspan="1" colspan="1">&#x02212;0.046</td><td align="left" rowspan="1" colspan="1">0.032</td></tr><tr><td align="left" rowspan="1" colspan="1">Executive function</td><td align="left" rowspan="1" colspan="1">&#x02212;0.001</td><td align="left" rowspan="1" colspan="1">&#x02212;0.011</td><td align="left" rowspan="1" colspan="1">&#x02212;0.052</td><td align="left" rowspan="1" colspan="1">&#x02212;0.011</td><td align="left" rowspan="1" colspan="1">0.041</td><td align="left" rowspan="1" colspan="1">0.013</td></tr><tr><td align="left" rowspan="1" colspan="1">Visuospatial skills</td><td align="left" rowspan="1" colspan="1">&#x02212;0.081</td><td align="left" rowspan="1" colspan="1">0.011</td><td align="left" rowspan="1" colspan="1">0.023</td><td align="left" rowspan="1" colspan="1">0.045</td><td align="left" rowspan="1" colspan="1">&#x02212;0.061</td><td align="left" rowspan="1" colspan="1">&#x02212;0.038</td></tr><tr><td align="left" rowspan="1" colspan="1">Verbal learning and memory</td><td align="left" rowspan="1" colspan="1">0.027</td><td align="left" rowspan="1" colspan="1">&#x02212;0.007</td><td align="left" rowspan="1" colspan="1">0.018</td><td align="left" rowspan="1" colspan="1">&#x02212;0.024</td><td align="left" rowspan="1" colspan="1">0.019</td><td align="left" rowspan="1" colspan="1">&#x02212;0.076</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt103"><label/><p>Differences between groups were not significant for any of the
+time-points, nor were improvement from baseline to mean of Day 30 and
+Day 100.</p></fn><fn id="nt104"><label/><p>&#x0002a;Performance in this test was reflected by total time needed to
+complete the six subtests; Number of errors was likewise comparable
+between groups (not significant).</p></fn><fn id="nt105"><label/><p>#See <xref ref-type="table" rid="pone-0017770-t002">table 2</xref> for
+the detailed neuropsychological test batteries of each cognitive
+domain.</p></fn><fn id="nt106"><label/><p>ALSFRS &#x0200a;=&#x0200a; ALS functional rating scale.</p></fn></table-wrap-foot></table-wrap><p>On cross-sectional comparison, voxel-based analysis revealed a widespread decline in
+FA in ALS patients when compared to the healthy controls (<xref ref-type="fig" rid="pone-0017770-g002">Figure 2</xref>, upper row). These symmetrical WM
+changes were most prominent in the corticospinal tracts, in subcortical WM of the
+precentral gyrus, and its connecting fibres in the frontocentral parts of the corpus
+callosum. Anatomic pattern of FA changes were similar in both ALS groups (at visit
+1) were separately compared to the control group.</p><fig id="pone-0017770-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017770.g002</object-id><label>Figure 2</label><caption><title>Voxel based analysis of DTI data.</title><p>SPM &#x0201c;glass brain&#x0201d; representation (left) and slices of voxels
+(right) with a significant decrease in fractional anisotropy (FA) of patient
+compared to the healthy controls (ANOVA, <italic>p</italic>&#x0003c;0.001,
+uncorrected; 50 contiguous voxels). Statistical FA-maps were superimposed on
+an averaged FA template of the control group. Colored bars represent
+t-values; display threshold is set at t value &#x0003e;3.16. <bold>Upper
+row:</bold> Cross-sectional comparison of 10 ALS patients when compared
+to 32 healthy controls (Visit 1). FA of the ALS patients were significantly
+reduced in WM areas covering widespread parts of the brain, most prominent
+in the corticospinal tracts, in subcortical WM of the precentral gyrus, and
+it's connecting fibres in the corpus callosum. Anatomic pattern of FA
+changes did not alter significantly when both ALS groups were compared
+separately to the control group. <bold>Lower and middle row:</bold> Clusters
+of FA decreases from Visit 1 to Visit 2 in ALS patients treated with G-CSF
+(middle row) and in the ALS-control group (lower row). ALS patients treated
+with G-CSF showed small regions of decreased FA, mainly affecting bilateral
+subcortical WM of the precentral gyrus, whereas the placebo group showed a
+greater and more widespread decline in FA during the study period. The
+localization was similar to the clusters of decreased FA in the initial
+voxel-wise analysis (upper row). Hence, white matter tracts that were
+initially detected as deficient continued to lose fibre integrity over
+time.</p></caption><graphic xlink:href="pone.0017770.g002"/></fig><p>On longitudinal analysis, ALS patients treated with placebo showed greater and more
+widespread decline in FA from Visit 1 to Visit 2 (day 100) compared to the ALS
+patients treated with G-CSF. As shown in <xref ref-type="fig" rid="pone-0017770-g003">Figure 3</xref> the corticospinal tracts (ranging from
+subcortical regions to the brainstem), frontal WM including connecting fibres of the
+frontal corpus callosum, and temporal WM showed significantly lower FA values in the
+untreated ALS group. An interaction in the opposite direction (ALS patients treated
+with G-CSF showing a greater decline in FA from Visit 1 to Visit 2 compared to
+ALS-Placebo patients) was also tested. This analysis yielded small symetrical
+clusters of decreased FA in posterior thalamic regions (<xref ref-type="fig" rid="pone-0017770-g003">Figure 3</xref>).</p><fig id="pone-0017770-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017770.g003</object-id><label>Figure 3</label><caption><title>Longitudinal interaction between VISIT and GROUP.</title><p>Placebo-treated ALS patients showed a greater and more widespread decline in
+FA over time, compared to ALS patients treated with G-CSF (shown in orange;
+<italic>p</italic>&#x0003c;0.005, uncorrected; 50 contiguous voxels). These
+FA changes mainly involved the corticospinal tracts, frontal WM including
+connecting fibres of the frontal corpus callosum, and temporal WM.
+Anatomical distribution of decreased FA values in ALS patients treated with
+G-CSF relative to untreated ALS patients over time are shown in blue
+(<italic>p</italic>&#x0003c;0.005, uncorrected; 50 contiguous voxels). These
+clusters were much less widespread, mainly encompassing posterior thalamic
+regions. Slice positions are indicated in the MNI coordinates.</p></caption><graphic xlink:href="pone.0017770.g003"/></fig><p>Post hoc t-test of SPM-ANOVA indicated that FA decreased from Visit 1 to Visit 2
+mainly bilateral in the subcortical WM of the precentral gyrus in the ALS-G-CSF
+group (<xref ref-type="fig" rid="pone-0017770-g002">Figure 2</xref>, middle row). In
+the ALS-Placebo group, post hoc analysis also indicated WM changes in these regions.
+Unlike the G-CSF group the ALS-Placebo patients additionally showed significant
+clusters of decraesed FA over time in several major white matter tracts including
+the occipital lobes, frontal regions, and connecting fibres in the corpus callosum
+(<xref ref-type="fig" rid="pone-0017770-g002">Figure 2</xref>, lower row).
+Interestingly, the localization of FA changes was similar to the clusters of
+decreased FA in the initial voxel-wise analysis between ALS patients and the healthy
+controls (<xref ref-type="fig" rid="pone-0017770-g002">Figure 2</xref>, upper row).
+Thus, in particular white matter tracts that were initially detected as deficient in
+our ALS patients continued to lose fibre integrity over time.</p><p>VBM analysis showed no differences in local GM between ALS patients and controls or
+between both ALS groups. Additionally, no longitudinal GM changes within each ALS
+group were observed during the study period. There were also no differences in brain
+volumes between both ALS groups and to the group of healthy controls.</p><p>Percentage of patients in each group with at least one AE (mild or moderate in
+severity) was 75&#x00025; in the G-CSF, 80&#x00025; in the placebo group (not
+significant); no severe AE that led to discontinuation of the study was reported.
+72&#x00025; of AEs in the G-CSF group and 53&#x00025; in the placebo group were
+classified as possibly or probably related to the treatment. This effect was also
+not significant (see <xref ref-type="table" rid="pone-0017770-t004">Table 4</xref>
+for details). All treatment related events were within the well-described side
+effect profile of G-CSF treatment, most often headache (n&#x0200a;=&#x0200a;3),
+bone pain (n&#x0200a;=&#x0200a;3), and malaise
+(n&#x0200a;=&#x0200a;2).</p><table-wrap id="pone-0017770-t004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017770.t004</object-id><label>Table 4</label><caption><title>All adverse events (AEs) and treatment-related AEs, listed by system
+organ class.</title></caption><alternatives><graphic id="pone-0017770-t004-4" xlink:href="pone.0017770.t004"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Side effects</td><td colspan="2" align="left" rowspan="1">All Adverse Events</td><td colspan="2" align="left" rowspan="1">Treatment-related AEs (probable or
+possible)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Placebo</td><td align="left" rowspan="1" colspan="1">G-CSF</td><td align="left" rowspan="1" colspan="1">Placebo</td><td align="left" rowspan="1" colspan="1">G-CSF</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>General disorders and administration site
+conditions</bold>
+</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Nervous system disorders</bold>
+</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Musculoskeletal and connective tissue
+disorders</bold>
+</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Infections</bold>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Skin and subcutaneous tissue
+disorders</bold>
+</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Investigations</bold>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt107"><label/><p>(n&#x0200a;=&#x0200a;11 in the G-CSF group,
+n&#x0200a;=&#x0200a;15 in the placebo group).</p></fn><fn id="nt108"><label/><p>Incidences of events were not significantly different between both groups
+(Fisher's Exact Test; all P's&#x0003e;0.05).</p></fn></table-wrap-foot></table-wrap><p>Leukozyte count revealed a significant difference between groups for day 2, 4, 6, 8,
+10, and 23 and 25 (<xref ref-type="fig" rid="pone-0017770-g004">Figure 4</xref>).
+Highest leukozyte count, reached in one patient on day 8, was 48,390/&#x000b5;l. For
+platelet count, a reversed pattern was noted, with a slight decrease in the G-CSF
+group starting on study day 2. However, the difference did not reach statistical
+significance at any day of the study, with a lowest platelet count of 124/nL on day
+8. For erythrocyte count, no significant difference between the study groups was
+found. Analysis of blood pressure, heart rate, and body temperature revealed no
+significant difference between groups at any day of the study.</p><fig id="pone-0017770-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017770.g004</object-id><label>Figure 4</label><caption><title>Hematological parameters during the study period.</title><p>Error bars indicate standard errors of the mean (SEM); &#x0002a;
+&#x0200a;=&#x0200a; significant difference between the G-CSF and
+placebo group.</p></caption><graphic xlink:href="pone.0017770.g004"/></fig></sec><sec id="s4"><title>Discussion</title><p>The present study demonstrated feasibility of a subcutaneous treatment of ALS
+patients with G-CSF over a time course of 25 days, and of the tests and MR
+measurements conducted. G-CSF was well tolerated. As expected with the very small
+number of patients, no signals of efficacy could be deducted from the clinical
+parameters measured (ALSFRS, motor hand functions and neurocognition). Surprisingly,
+we did detect signals of efficacy using MR imaging: We discovered a reduction in
+structural disintegration of white matter tracts in ALS patients treated with
+G-CSF.</p><p>So far, only data from one randomized controlled trial with G-CSF in ALS patients are
+available <xref rid="pone.0017770-Nefussy1" ref-type="bibr">[14]</xref>.
+In accordance to our findings on imaging, this trial also noted a trend of slowing
+disease progression following G-CSF treatment. A few other trials demonstrated
+safety of G-CSF application in ALS patients <xref rid="pone.0017770-Cashman1" ref-type="bibr">[15]</xref>&#x02013;<xref rid="pone.0017770-Zhang1" ref-type="bibr">[17]</xref>. However, this is the first
+study using advanced neuroimaging techniques as a biomarker in an ALS trial. DTI
+provides non-invasive information about the integrity of white matter by
+quantitative measurement of directionality of axonal fibres <xref rid="pone.0017770-LeBihan1" ref-type="bibr">[18]</xref>. It has a proven sensitivity
+to detect subtle structural brain changes associated with disintegration of WM and,
+thus, has great diagnostic promise for ALS. Changes in FA have functional relevance
+since they are correlated to clinical symptoms and histopathological changes in
+early stages of neurodegenerative diseases <xref rid="pone.0017770-Gouw1" ref-type="bibr">[19]</xref>. Thus, the slowing of the
+localized FA decrease that was found in the present study is most likely the
+structural correlate of a subclinical benefit of G-CSF. This finding is backed by
+recent studies revealing that DTI has the greatest diagnostic potential for ALS, and
+has a proven sensitivity to progression of the disease <xref rid="pone.0017770-Agosta1" ref-type="bibr">[20]</xref>&#x02013;<xref rid="pone.0017770-Agosta2" ref-type="bibr">[22]</xref>. Furthermore, in a study of
+presymptomatic individuals with familial ALS, FA changes were the earliest
+detectable changes <xref rid="pone.0017770-Ng1" ref-type="bibr">[23]</xref>. DTI changes also showed a good correlation with
+physiological indices and clinical severity in ALS patients <xref rid="pone.0017770-Grosskreutz1" ref-type="bibr">[24]</xref>&#x02013;<xref rid="pone.0017770-Pyra1" ref-type="bibr">[26]</xref>.</p><p>The FA changes were most prominent in the corticospinal tracts, in subcortical WM of
+the precentral gyrus, and its connecting fibres in the corpus callosum. This
+neuroanatomical pattern was in considerable accordance to former studies using
+voxel-based DTI analysis in ALS patients and reflects the presence of
+microstructural damage along motor fibres, which was correlated with the degree of
+motor disability <xref rid="pone.0017770-Dengler1" ref-type="bibr">[21]</xref>, <xref rid="pone.0017770-Grosskreutz1" ref-type="bibr">[24]</xref>, <xref rid="pone.0017770-Stanton1" ref-type="bibr">[27]</xref>. Degeneration of upper motor neurons usually starts in
+the primary motor cortex, and secondary degeneration of motor fibres subsequently
+occurs along the corticospinal tract <xref rid="pone.0017770-Swash1" ref-type="bibr">[28]</xref>. However, in the current study VBM did not show
+significant differences in grey matter between ALS groups or ALS patients and
+controls, whereas DTI revealed reproducible results, even in this small sample of
+patients. These findings support former studies concluding that VBM or other
+volumetric methods might be rather insensitive to image the subtle primary
+involvement of the motor cortex in neurodegenerative disease, and that DTI is
+superior to depict an early involvement by imaging the subsequent degeneration of
+motor fibres <xref rid="pone.0017770-Canu1" ref-type="bibr">[29]</xref>&#x02013;<xref rid="pone.0017770-Sach1" ref-type="bibr">[33]</xref>.</p><p>The extra-motor and widespread FA decline in the untreated patient group during the
+study period supported the notion, that ALS is a multisystem disorder. These changes
+in subcortical regions beyond the limits of the primary motor areas are well-known
+and also clinically relevant <xref rid="pone.0017770-Abrahams1" ref-type="bibr">[34]</xref>&#x02013;<xref rid="pone.0017770-vanderGraaff1" ref-type="bibr">[37]</xref>. Post-mortem studies in
+humans have revealed that lower FA in these regions reflects the extent of
+astrogliosis and of myelin and, in particular, axonal loss in the white matter <xref rid="pone.0017770-Gouw2" ref-type="bibr">[38]</xref>. These structural
+changes have accounted for the slower performance on many motor skills and cognitive
+tasks <xref rid="pone.0017770-Kim1" ref-type="bibr">[39]</xref>, <xref rid="pone.0017770-Mascalchi1" ref-type="bibr">[40]</xref>. Hence, it
+has been repeatedly shown, that FA is the most sensitive MR-imaging correlate of
+executive dysfunction <xref rid="pone.0017770-Nitkunan1" ref-type="bibr">[41]</xref>, <xref rid="pone.0017770-OSullivan1" ref-type="bibr">[42]</xref>, the cognitive domain that is recognized to be
+particularly affected in ALS patients <xref rid="pone.0017770-Giordana1" ref-type="bibr">[43]</xref>, <xref rid="pone.0017770-Phukan1" ref-type="bibr">[44]</xref>. Due to the small number of
+patients, we could not show such correlations. However, although the clinical
+symptoms that are associated with these FA alterations might be limited, they could
+have a relevant impact on overall daily function <xref rid="pone.0017770-Kavcic1" ref-type="bibr">[45]</xref>&#x02013;<xref rid="pone.0017770-Schiavone1" ref-type="bibr">[48]</xref>.</p><p>In previous experimental studies, G-CSF was shown to protect cultured motoneurons
+from apoptosis, led to a significant improvement in motor performance, and prolonged
+overall survival of ALS-mice <xref rid="pone.0017770-Schabitz1" ref-type="bibr">[5]</xref>, <xref rid="pone.0017770-Schneider1" ref-type="bibr">[6]</xref>, <xref rid="pone.0017770-Pitzer1" ref-type="bibr">[49]</xref>. Motoneurons in the spinal cord strongly expressed the
+receptor for G-CSF, and transgenic overexpression of G-CSF in the CNS improved
+outcome <xref rid="pone.0017770-Tanaka1" ref-type="bibr">[50]</xref>.
+Parallel to its functions following cerebral ischemia, G-CSF may act as endogenous
+neuroprotective factor on motoneurons in neurodegenerative diseases. Thus, G-CSF may
+have a potential as disease-modifying drug in ALS. Furthermore, recent studies have
+revealed that G-CSF increases microglial recruitment in ALS model mice and restored
+microglial responses and function <xref rid="pone.0017770-Yamasaki1" ref-type="bibr">[51]</xref>. Since inflammation, including microglial dysfunction and
+T cell infiltration of white matter, is a neuropathological hallmark of ALS <xref rid="pone.0017770-Henkel1" ref-type="bibr">[52]</xref>, G-CSF might
+also directly improve structural integrity of fiber tracts yia these effects.</p><p>The commonly used ALSFRS score is a rather insensitive, non-parametric tool to
+measure activities of daily living in ALS patients, which could explain some of the
+negative results <xref rid="pone.0017770-Turner1" ref-type="bibr">[31]</xref>. Although in this study the clinical tests were extended
+by the JTT and a neuropsychological test battery, we also failed to demonstrate a
+significant clinical benefit of G-CFS treatment, which is due to the small sample
+size. In recent studies, ALS patients were recruited based on the revised El
+Escorial criteria resulting in a patient population at an already progressed and
+relatively late phase of the disease, possibly beyond the therapeutic window. At
+least 30&#x00025; of anterior horn neurons are degenerated when patients are
+recruited at this time of the disease <xref rid="pone.0017770-Swash1" ref-type="bibr">[28]</xref>. Establishing an effective
+treatment at this stage of the disease appears to be very difficult, and indeed
+recent ALS trials were all negative. Our data demonstrate for the first time
+widespread and progressive microstructural damage of white matter tracts assessed by
+FA analysis that can be modulated by drug treatment. Thus, a more intensive training
+regime in earlier phases of the disease as done here, combined with a drug treatment
+might be more promising to achieve clinically significant effects in
+neurodegenerative diseases such as ALS. Future studies should consider a recruitment
+of patients in earlier stages (probable ALS and probable laboratory supported ALS)
+in addition to higher doses or longer application of G-CSF, because both
+experimental and clinical data suggest higher doses of G-CSF to be associated with
+better functional neurological outcome <xref rid="pone.0017770-Schabitz1" ref-type="bibr">[5]</xref>, <xref rid="pone.0017770-Schneider1" ref-type="bibr">[6]</xref>, <xref rid="pone.0017770-Minnerup1" ref-type="bibr">[53]</xref>. For this purpose, sensitive
+biomarkers in addition to an early therapeutic approach might be necessary. FA
+analysis of white matter is sensitive to early therapeutic effects, even in a small
+sample of patients, and thus may represent such an effective marker for therapeutic
+monitoring in ALS <xref rid="pone.0017770-Filippi1" ref-type="bibr">[54]</xref>.</p><p>In conclusion, our results are paving the way for properly powered trials with
+optimized regimes and escalated G-CSF dosages, combined with voxel-wise DTI analysis
+as a sensitive tool to quantify subtle brain tissue alterations.</p></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0017770.s001"><label>Checklist S1</label><caption><p>(DOC)</p></caption><media xlink:href="pone.0017770.s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0017770.s002"><label>Protocol S1</label><caption><p>(DOC)</p></caption><media xlink:href="pone.0017770.s002.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>Armin Schneider is an employee of SYGNIS Bioscience and is an inventor on a
+patent application claiming the use of G-CSF for the treatment of diseases of
+the central nervous system. Patent Cooperation Treaty WO04058287, Patent Number:
+274597, is licensed to the treatment of amyotrophic lateral sclerosis with
+G-CSF. All other authors reported no financial disclosure and no conflicts of
+interest. The mentioned conflicts had no role in study design, data collection
+and analysis, decision to publish, or preparation of the manuscript and this
+does not alter the authors' adherence to all the PLoS ONE policies on
+sharing data and materials.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This investigator-initiated trial was supported by institutional grants (for the
+randomized filling of G-CSF by the pharmacy of the University of Mainz, Germany)
+from SYGNIS Bioscience, Heidelberg, Germany. One of the authors (Armin
+Schneider) is employed by SYGNIS Bioscience, who was involved in the
+organization of the research project and critical review of the manuscript, and
+G-CSF was provided by SYGNIS Bioscience. The funders had no role in study
+design, data collection and analysis, decision to publish, or preparation of the
+manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0017770-Mitchell1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mitchell</surname><given-names>JD</given-names></name><name><surname>Borasio</surname><given-names>GD</given-names></name></person-group>
+<year>2007</year>
+<article-title>Amyotrophic lateral sclerosis.</article-title>
+<source>Lancet</source>
+<volume>369</volume>
+<fpage>2031</fpage>
+<lpage>2041</lpage>
+<pub-id pub-id-type="pmid">17574095</pub-id></element-citation></ref><ref id="pone.0017770-Miller1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>RG</given-names></name><name><surname>Mitchell</surname><given-names>JD</given-names></name><name><surname>Lyon</surname><given-names>M</given-names></name><name><surname>Moore</surname><given-names>DH</given-names></name></person-group>
+<year>2007</year>
+<article-title>Riluzole for amyotrophic lateral sclerosis (ALS)/motor neuron
+disease (MND).</article-title>
+<source>Cochrane Database Syst Rev</source>
+<fpage>CD001447</fpage>
+<pub-id pub-id-type="pmid">17253460</pub-id></element-citation></ref><ref id="pone.0017770-Brooks1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brooks</surname><given-names>BR</given-names></name></person-group>
+<year>2009</year>
+<article-title>Managing amyotrophic lateral sclerosis: slowing disease
+progression and improving patient quality of life.</article-title>
+<source>Ann Neurol</source>
+<volume>65</volume>
+<issue>Suppl 1</issue>
+<fpage>S17</fpage>
+<lpage>S23</lpage>
+<pub-id pub-id-type="pmid">19191306</pub-id></element-citation></ref><ref id="pone.0017770-Zoccolella1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zoccolella</surname><given-names>S</given-names></name><name><surname>Santamato</surname><given-names>A</given-names></name><name><surname>Lamberti</surname><given-names>P</given-names></name></person-group>
+<year>2009</year>
+<article-title>Current and emerging treatments for amyotrophic lateral
+sclerosis.</article-title>
+<source>Neuropsychiatr Dis Treat</source>
+<volume>5</volume>
+<fpage>577</fpage>
+<lpage>595</lpage>
+<pub-id pub-id-type="pmid">19966906</pub-id></element-citation></ref><ref id="pone.0017770-Schabitz1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schabitz</surname><given-names>WR</given-names></name><name><surname>Kruger</surname><given-names>C</given-names></name><name><surname>Pitzer</surname><given-names>C</given-names></name><name><surname>Weber</surname><given-names>D</given-names></name><name><surname>Laage</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>A neuroprotective function for the hematopoietic protein
+granulocyte-macrophage colony stimulating factor (GM-CSF).</article-title>
+<source>J Cereb Blood Flow Metab</source>
+<volume>28</volume>
+<fpage>29</fpage>
+<lpage>43</lpage>
+<pub-id pub-id-type="pmid">17457367</pub-id></element-citation></ref><ref id="pone.0017770-Schneider1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schneider</surname><given-names>A</given-names></name><name><surname>Kruger</surname><given-names>C</given-names></name><name><surname>Steigleder</surname><given-names>T</given-names></name><name><surname>Weber</surname><given-names>D</given-names></name><name><surname>Pitzer</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>The hematopoietic factor G-CSF is a neuronal ligand that
+counteracts programmed cell death and drives neurogenesis.</article-title>
+<source>J Clin Invest</source>
+<volume>115</volume>
+<fpage>2083</fpage>
+<lpage>2098</lpage>
+<pub-id pub-id-type="pmid">16007267</pub-id></element-citation></ref><ref id="pone.0017770-Brooks2"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brooks</surname><given-names>BR</given-names></name><name><surname>Miller</surname><given-names>RG</given-names></name><name><surname>Swash</surname><given-names>M</given-names></name><name><surname>Munsat</surname><given-names>TL</given-names></name></person-group>
+<year>2000</year>
+<article-title>El Escorial revisited: revised criteria for the diagnosis of
+amyotrophic lateral sclerosis.</article-title>
+<source>Amyotroph Lateral Scler Other Motor Neuron Disord</source>
+<volume>1</volume>
+<fpage>293</fpage>
+<lpage>299</lpage>
+<pub-id pub-id-type="pmid">11464847</pub-id></element-citation></ref><ref id="pone.0017770-The1"><label>8</label><element-citation publication-type="journal">
+<collab>The Amyotrophic Lateral Sclerosis Functional Rating Scale</collab>
+<year>1996</year>
+<article-title>Assessment of activities of daily living in patients with
+amyotrophic lateral sclerosis. The ALS CNTF treatment study (ACTS) phase
+I-II Study Group.</article-title>
+<source>Arch Neurol</source>
+<volume>53</volume>
+<fpage>141</fpage>
+<lpage>147</lpage>
+<pub-id pub-id-type="pmid">8639063</pub-id></element-citation></ref><ref id="pone.0017770-Alon1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alon</surname><given-names>G</given-names></name><name><surname>Sunnerhagen</surname><given-names>KS</given-names></name><name><surname>Geurts</surname><given-names>AC</given-names></name><name><surname>Ohry</surname><given-names>A</given-names></name></person-group>
+<year>2003</year>
+<article-title>A home-based, self-administered stimulation program to improve
+selected hand functions of chronic stroke.</article-title>
+<source>NeuroRehabilitation</source>
+<volume>18</volume>
+<fpage>215</fpage>
+<lpage>225</lpage>
+<pub-id pub-id-type="pmid">14530587</pub-id></element-citation></ref><ref id="pone.0017770-Lezak1"><label>10</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lezak</surname><given-names>MD</given-names></name></person-group>
+<year>2004</year>
+<article-title>Neuropsychological assessment. 4th ed.</article-title>
+<publisher-loc>New York, Oxford</publisher-loc>
+<publisher-name>Oxford Univ. Press</publisher-name>
+</element-citation></ref><ref id="pone.0017770-Deppe1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deppe</surname><given-names>M</given-names></name><name><surname>Kellinghaus</surname><given-names>C</given-names></name><name><surname>Duning</surname><given-names>T</given-names></name><name><surname>Moddel</surname><given-names>G</given-names></name><name><surname>Mohammadi</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Nerve fiber impairment of anterior thalamocortical circuitry in
+juvenile myoclonic epilepsy.</article-title>
+<source>Neurology</source>
+<volume>71</volume>
+<fpage>1981</fpage>
+<lpage>1985</lpage>
+<pub-id pub-id-type="pmid">19064879</pub-id></element-citation></ref><ref id="pone.0017770-Fein1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fein</surname><given-names>G</given-names></name><name><surname>Landman</surname><given-names>B</given-names></name><name><surname>Tran</surname><given-names>H</given-names></name><name><surname>Barakos</surname><given-names>J</given-names></name><name><surname>Moon</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Statistical parametric mapping of brain morphology: sensitivity
+is dramatically increased by using brain-extracted images as
+inputs.</article-title>
+<source>Neuroimage</source>
+<volume>30</volume>
+<fpage>1187</fpage>
+<lpage>1195</lpage>
+<pub-id pub-id-type="pmid">16442817</pub-id></element-citation></ref><ref id="pone.0017770-Smith1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>SM</given-names></name><name><surname>Zhang</surname><given-names>Y</given-names></name><name><surname>Jenkinson</surname><given-names>M</given-names></name><name><surname>Chen</surname><given-names>J</given-names></name><name><surname>Matthews</surname><given-names>PM</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Accurate, robust, and automated longitudinal and cross-sectional
+brain change analysis.</article-title>
+<source>Neuroimage</source>
+<volume>17</volume>
+<fpage>479</fpage>
+<lpage>489</lpage>
+<pub-id pub-id-type="pmid">12482100</pub-id></element-citation></ref><ref id="pone.0017770-Nefussy1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nefussy</surname><given-names>B</given-names></name><name><surname>Artamonov</surname><given-names>I</given-names></name><name><surname>Deutsch</surname><given-names>V</given-names></name><name><surname>Naparstek</surname><given-names>E</given-names></name><name><surname>Nagler</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Recombinant human granulocyte-colony stimulating factor
+administration for treating amyotrophic lateral sclerosis: A pilot
+study.</article-title>
+<source>Amyotroph Lateral Scler</source>
+<fpage>1</fpage>
+<lpage>7</lpage>
+<pub-id pub-id-type="pmid">19110986</pub-id></element-citation></ref><ref id="pone.0017770-Cashman1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cashman</surname><given-names>N</given-names></name><name><surname>Tan</surname><given-names>LY</given-names></name><name><surname>Krieger</surname><given-names>C</given-names></name><name><surname>Madler</surname><given-names>B</given-names></name><name><surname>Mackay</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Pilot study of granulocyte colony stimulating factor
+(G-CSF)-mobilized peripheral blood stem cells in amyotrophic lateral
+sclerosis (ALS).</article-title>
+<source>Muscle Nerve</source>
+<volume>37</volume>
+<fpage>620</fpage>
+<lpage>625</lpage>
+<pub-id pub-id-type="pmid">18335482</pub-id></element-citation></ref><ref id="pone.0017770-Tarella1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tarella</surname><given-names>C</given-names></name><name><surname>Rotella</surname><given-names>S</given-names></name><name><surname>Gualandi</surname><given-names>F</given-names></name><name><surname>Melazzini</surname><given-names>M</given-names></name><name><surname>Scime</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Consistent bone marrow-derived cell mobilization following
+repeated short courses of granulocyte-colony-stimulating factor in patients
+with amyotrophic lateral sclerosis: results from a multicenter prospective
+trial.</article-title>
+<source>Cytotherapy</source>
+</element-citation></ref><ref id="pone.0017770-Zhang1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Fu</surname><given-names>Y</given-names></name><name><surname>Song</surname><given-names>H</given-names></name><name><surname>Zhao</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Preliminary investigation of effect of granulocyte colony
+stimulating factor on amyotrophic lateral sclerosis.</article-title>
+<source>Amyotroph Lateral Scler</source>
+<fpage>1</fpage>
+<lpage>2</lpage>
+<pub-id pub-id-type="pmid">18821293</pub-id></element-citation></ref><ref id="pone.0017770-LeBihan1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Le Bihan</surname><given-names>D</given-names></name><name><surname>Mangin</surname><given-names>JF</given-names></name><name><surname>Poupon</surname><given-names>C</given-names></name><name><surname>Clark</surname><given-names>CA</given-names></name><name><surname>Pappata</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Diffusion tensor imaging: concepts and
+applications.</article-title>
+<source>J Magn Reson Imaging</source>
+<volume>13</volume>
+<fpage>534</fpage>
+<lpage>546</lpage>
+<pub-id pub-id-type="pmid">11276097</pub-id></element-citation></ref><ref id="pone.0017770-Gouw1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gouw</surname><given-names>AA</given-names></name><name><surname>Seewann</surname><given-names>A</given-names></name><name><surname>Vrenken</surname><given-names>H</given-names></name><name><surname>van der Flier</surname><given-names>WM</given-names></name><name><surname>Rozemuller</surname><given-names>JM</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Heterogeneity of white matter hyperintensities in
+Alzheimer's disease: post-mortem quantitative MRI and
+neuropathology.</article-title>
+<source>Brain</source>
+<volume>131</volume>
+<fpage>3286</fpage>
+<lpage>3298</lpage>
+<pub-id pub-id-type="pmid">18927145</pub-id></element-citation></ref><ref id="pone.0017770-Agosta1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Agosta</surname><given-names>F</given-names></name><name><surname>Pagani</surname><given-names>E</given-names></name><name><surname>Petrolini</surname><given-names>M</given-names></name><name><surname>Caputo</surname><given-names>D</given-names></name><name><surname>Perini</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Assessment of White Matter Tract Damage in Patients with
+Amyotrophic Lateral Sclerosis: A Diffusion Tensor MR Imaging Tractography
+Study.</article-title>
+<source>AJNR Am J Neuroradiol</source>
+</element-citation></ref><ref id="pone.0017770-Dengler1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dengler</surname><given-names>R</given-names></name><name><surname>von Neuhoff</surname><given-names>N</given-names></name><name><surname>Bufler</surname><given-names>J</given-names></name><name><surname>Krampfl</surname><given-names>K</given-names></name><name><surname>Peschel</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Amyotrophic lateral sclerosis: new developments in diagnostic
+markers.</article-title>
+<source>Neurodegener Dis</source>
+<volume>2</volume>
+<fpage>177</fpage>
+<lpage>184</lpage>
+<pub-id pub-id-type="pmid">16909023</pub-id></element-citation></ref><ref id="pone.0017770-Agosta2"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Agosta</surname><given-names>F</given-names></name><name><surname>Pagani</surname><given-names>E</given-names></name><name><surname>Petrolini</surname><given-names>M</given-names></name><name><surname>Sormani</surname><given-names>MP</given-names></name><name><surname>Caputo</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>MRI predictors of long-term evolution in amyotrophic lateral
+sclerosis.</article-title>
+<source>Eur J Neurosci</source>
+<volume>32</volume>
+<fpage>1490</fpage>
+<lpage>1496</lpage>
+<pub-id pub-id-type="pmid">21044177</pub-id></element-citation></ref><ref id="pone.0017770-Ng1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ng</surname><given-names>MC</given-names></name><name><surname>Ho</surname><given-names>JT</given-names></name><name><surname>Ho</surname><given-names>SL</given-names></name><name><surname>Lee</surname><given-names>R</given-names></name><name><surname>Li</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Abnormal diffusion tensor in nonsymptomatic familial amyotrophic
+lateral sclerosis with a causative superoxide dismutase 1
+mutation.</article-title>
+<source>J Magn Reson Imaging</source>
+<volume>27</volume>
+<fpage>8</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="pmid">18022844</pub-id></element-citation></ref><ref id="pone.0017770-Grosskreutz1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Grosskreutz</surname><given-names>J</given-names></name><name><surname>Peschel</surname><given-names>T</given-names></name><name><surname>Unrath</surname><given-names>A</given-names></name><name><surname>Dengler</surname><given-names>R</given-names></name><name><surname>Ludolph</surname><given-names>AC</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Whole brain-based computerized neuroimaging in ALS and other
+motor neuron disorders.</article-title>
+<source>Amyotroph Lateral Scler</source>
+<volume>9</volume>
+<fpage>238</fpage>
+<lpage>248</lpage>
+<pub-id pub-id-type="pmid">18608107</pub-id></element-citation></ref><ref id="pone.0017770-Iwata1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iwata</surname><given-names>NK</given-names></name></person-group>
+<year>2007</year>
+<article-title>[Objective markers for upper motor neuron involvement in
+amyotrophic lateral sclerosis].</article-title>
+<source>Brain Nerve</source>
+<volume>59</volume>
+<fpage>1053</fpage>
+<lpage>1064</lpage>
+<pub-id pub-id-type="pmid">17969345</pub-id></element-citation></ref><ref id="pone.0017770-Pyra1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pyra</surname><given-names>T</given-names></name><name><surname>Hui</surname><given-names>B</given-names></name><name><surname>Hanstock</surname><given-names>C</given-names></name><name><surname>Concha</surname><given-names>L</given-names></name><name><surname>Wong</surname><given-names>JC</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Combined structural and neurochemical evaluation of the
+corticospinal tract in amyotrophic lateral sclerosis.</article-title>
+<source>Amyotroph Lateral Scler</source>
+<volume>11</volume>
+<fpage>157</fpage>
+<lpage>165</lpage>
+<pub-id pub-id-type="pmid">19242831</pub-id></element-citation></ref><ref id="pone.0017770-Stanton1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanton</surname><given-names>BR</given-names></name><name><surname>Shinhmar</surname><given-names>D</given-names></name><name><surname>Turner</surname><given-names>MR</given-names></name><name><surname>Williams</surname><given-names>VC</given-names></name><name><surname>Williams</surname><given-names>SC</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Diffusion tensor imaging in sporadic and familial (D90A SOD1)
+forms of amyotrophic lateral sclerosis.</article-title>
+<source>Arch Neurol</source>
+<volume>66</volume>
+<fpage>109</fpage>
+<lpage>115</lpage>
+<pub-id pub-id-type="pmid">19139308</pub-id></element-citation></ref><ref id="pone.0017770-Swash1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Swash</surname><given-names>M</given-names></name><name><surname>Ingram</surname><given-names>D</given-names></name></person-group>
+<year>1988</year>
+<article-title>Preclinical and subclinical events in motor neuron
+disease.</article-title>
+<source>J Neurol Neurosurg Psychiatry</source>
+<volume>51</volume>
+<fpage>165</fpage>
+<lpage>168</lpage>
+<pub-id pub-id-type="pmid">3346681</pub-id></element-citation></ref><ref id="pone.0017770-Canu1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Canu</surname><given-names>E</given-names></name><name><surname>McLaren</surname><given-names>DG</given-names></name><name><surname>Fitzgerald</surname><given-names>ME</given-names></name><name><surname>Bendlin</surname><given-names>BB</given-names></name><name><surname>Zoccatelli</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Microstructural Diffusion Changes are Independent of
+Macrostructural Volume Loss in Moderate to Severe Alzheimer's
+Disease.</article-title>
+<source>J Alzheimers Dis</source>
+</element-citation></ref><ref id="pone.0017770-Duning1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duning</surname><given-names>T</given-names></name><name><surname>Warnecke</surname><given-names>T</given-names></name><name><surname>Mohammadi</surname><given-names>S</given-names></name><name><surname>Lohmann</surname><given-names>H</given-names></name><name><surname>Schiffbauer</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Pattern and progression of white-matter changes in a case of
+posterior cortical atrophy using diffusion tensor imaging.</article-title>
+<source>J Neurol Neurosurg Psychiatry</source>
+<volume>80</volume>
+<fpage>432</fpage>
+<lpage>436</lpage>
+<pub-id pub-id-type="pmid">19289480</pub-id></element-citation></ref><ref id="pone.0017770-Turner1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Turner</surname><given-names>MR</given-names></name><name><surname>Kiernan</surname><given-names>MC</given-names></name><name><surname>Leigh</surname><given-names>PN</given-names></name><name><surname>Talbot</surname><given-names>K</given-names></name></person-group>
+<year>2009</year>
+<article-title>Biomarkers in amyotrophic lateral sclerosis.</article-title>
+<source>Lancet Neurol</source>
+<volume>8</volume>
+<fpage>94</fpage>
+<lpage>109</lpage>
+<pub-id pub-id-type="pmid">19081518</pub-id></element-citation></ref><ref id="pone.0017770-Muller1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Muller</surname><given-names>MJ</given-names></name><name><surname>Greverus</surname><given-names>D</given-names></name><name><surname>Weibrich</surname><given-names>C</given-names></name><name><surname>Dellani</surname><given-names>PR</given-names></name><name><surname>Scheurich</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Diagnostic utility of hippocampal size and mean diffusivity in
+amnestic MCI.</article-title>
+<source>Neurobiol Aging</source>
+<volume>28</volume>
+<fpage>398</fpage>
+<lpage>403</lpage>
+<pub-id pub-id-type="pmid">16529847</pub-id></element-citation></ref><ref id="pone.0017770-Sach1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sach</surname><given-names>M</given-names></name><name><surname>Winkler</surname><given-names>G</given-names></name><name><surname>Glauche</surname><given-names>V</given-names></name><name><surname>Liepert</surname><given-names>J</given-names></name><name><surname>Heimbach</surname><given-names>B</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Diffusion tensor MRI of early upper motor neuron involvement in
+amyotrophic lateral sclerosis.</article-title>
+<source>Brain</source>
+<volume>127</volume>
+<fpage>340</fpage>
+<lpage>350</lpage>
+<pub-id pub-id-type="pmid">14607785</pub-id></element-citation></ref><ref id="pone.0017770-Abrahams1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abrahams</surname><given-names>S</given-names></name><name><surname>Goldstein</surname><given-names>LH</given-names></name><name><surname>Suckling</surname><given-names>J</given-names></name><name><surname>Ng</surname><given-names>V</given-names></name><name><surname>Simmons</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Frontotemporal white matter changes in amyotrophic lateral
+sclerosis.</article-title>
+<source>J Neurol</source>
+<volume>252</volume>
+<fpage>321</fpage>
+<lpage>331</lpage>
+<pub-id pub-id-type="pmid">15739047</pub-id></element-citation></ref><ref id="pone.0017770-Mezzapesa1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mezzapesa</surname><given-names>DM</given-names></name><name><surname>Ceccarelli</surname><given-names>A</given-names></name><name><surname>Dicuonzo</surname><given-names>F</given-names></name><name><surname>Carella</surname><given-names>A</given-names></name><name><surname>De Caro</surname><given-names>MF</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Whole-brain and regional brain atrophy in amyotrophic lateral
+sclerosis.</article-title>
+<source>AJNR Am J Neuroradiol</source>
+<volume>28</volume>
+<fpage>255</fpage>
+<lpage>259</lpage>
+<pub-id pub-id-type="pmid">17296989</pub-id></element-citation></ref><ref id="pone.0017770-Senda1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Senda</surname><given-names>J</given-names></name><name><surname>Ito</surname><given-names>M</given-names></name><name><surname>Watanabe</surname><given-names>H</given-names></name><name><surname>Atsuta</surname><given-names>N</given-names></name><name><surname>Kawai</surname><given-names>Y</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Correlation between pyramidal tract degeneration and widespread
+white matter involvement in amyotrophic lateral sclerosis: a study with
+tractography and diffusion-tensor imaging.</article-title>
+<source>Amyotroph Lateral Scler</source>
+<volume>10</volume>
+<fpage>288</fpage>
+<lpage>294</lpage>
+<pub-id pub-id-type="pmid">19922115</pub-id></element-citation></ref><ref id="pone.0017770-vanderGraaff1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van der Graaff</surname><given-names>MM</given-names></name><name><surname>de Jong</surname><given-names>JM</given-names></name><name><surname>Baas</surname><given-names>F</given-names></name><name><surname>de Visser</surname><given-names>M</given-names></name></person-group>
+<year>2009</year>
+<article-title>Upper motor neuron and extra-motor neuron involvement in
+amyotrophic lateral sclerosis: a clinical and brain imaging
+review.</article-title>
+<source>Neuromuscul Disord</source>
+<volume>19</volume>
+<fpage>53</fpage>
+<lpage>58</lpage>
+<pub-id pub-id-type="pmid">19070491</pub-id></element-citation></ref><ref id="pone.0017770-Gouw2"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gouw</surname><given-names>AA</given-names></name><name><surname>Seewann</surname><given-names>A</given-names></name><name><surname>Vrenken</surname><given-names>H</given-names></name><name><surname>van der Flier</surname><given-names>WM</given-names></name><name><surname>Rozemuller</surname><given-names>JM</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Heterogeneity of white matter hyperintensities in
+Alzheimer's disease: post-mortem quantitative MRI and
+neuropathology.</article-title>
+<source>Brain</source>
+<volume>131</volume>
+<fpage>3286</fpage>
+<lpage>3298</lpage>
+<pub-id pub-id-type="pmid">18927145</pub-id></element-citation></ref><ref id="pone.0017770-Kim1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>SH</given-names></name><name><surname>Park</surname><given-names>JS</given-names></name><name><surname>Ahn</surname><given-names>HJ</given-names></name><name><surname>Seo</surname><given-names>SW</given-names></name><name><surname>Lee</surname><given-names>JM</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Voxel-Based Analysis of Diffusion Tensor Imaging in Patients with
+Subcortical Vascular Cognitive Impairment: Correlates with Cognitive and
+Motor Deficits.</article-title>
+<source>J Neuroimaging</source>
+</element-citation></ref><ref id="pone.0017770-Mascalchi1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mascalchi</surname><given-names>M</given-names></name><name><surname>Filippi</surname><given-names>M</given-names></name><name><surname>Floris</surname><given-names>R</given-names></name><name><surname>Fonda</surname><given-names>C</given-names></name><name><surname>Gasparotti</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Diffusion-weighted MR of the brain: methodology and clinical
+application.</article-title>
+<source>Radiol Med</source>
+<volume>109</volume>
+<fpage>155</fpage>
+<lpage>197</lpage>
+<pub-id pub-id-type="pmid">15775887</pub-id></element-citation></ref><ref id="pone.0017770-Nitkunan1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nitkunan</surname><given-names>A</given-names></name><name><surname>Barrick</surname><given-names>TR</given-names></name><name><surname>Charlton</surname><given-names>RA</given-names></name><name><surname>Clark</surname><given-names>CA</given-names></name><name><surname>Markus</surname><given-names>HS</given-names></name></person-group>
+<year>2008</year>
+<article-title>Multimodal MRI in cerebral small vessel disease: its relationship
+with cognition and sensitivity to change over time.</article-title>
+<source>Stroke</source>
+<volume>39</volume>
+<fpage>1999</fpage>
+<lpage>2005</lpage>
+<pub-id pub-id-type="pmid">18436880</pub-id></element-citation></ref><ref id="pone.0017770-OSullivan1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O'Sullivan</surname><given-names>M</given-names></name><name><surname>Morris</surname><given-names>RG</given-names></name><name><surname>Huckstep</surname><given-names>B</given-names></name><name><surname>Jones</surname><given-names>DK</given-names></name><name><surname>Williams</surname><given-names>SC</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Diffusion tensor MRI correlates with executive dysfunction in
+patients with ischaemic leukoaraiosis.</article-title>
+<source>J Neurol Neurosurg Psychiatry</source>
+<volume>75</volume>
+<fpage>441</fpage>
+<lpage>447</lpage>
+<pub-id pub-id-type="pmid">14966162</pub-id></element-citation></ref><ref id="pone.0017770-Giordana1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Giordana</surname><given-names>MT</given-names></name><name><surname>Ferrero</surname><given-names>P</given-names></name><name><surname>Grifoni</surname><given-names>S</given-names></name><name><surname>Pellerino</surname><given-names>A</given-names></name><name><surname>Naldi</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Dementia and cognitive impairment in amyotrophic lateral
+sclerosis: a review.</article-title>
+<source>Neurol Sci</source>
+</element-citation></ref><ref id="pone.0017770-Phukan1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Phukan</surname><given-names>J</given-names></name><name><surname>Pender</surname><given-names>NP</given-names></name><name><surname>Hardiman</surname><given-names>O</given-names></name></person-group>
+<year>2007</year>
+<article-title>Cognitive impairment in amyotrophic lateral
+sclerosis.</article-title>
+<source>Lancet Neurol</source>
+<volume>6</volume>
+<fpage>994</fpage>
+<lpage>1003</lpage>
+<pub-id pub-id-type="pmid">17945153</pub-id></element-citation></ref><ref id="pone.0017770-Kavcic1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kavcic</surname><given-names>V</given-names></name><name><surname>Ni</surname><given-names>H</given-names></name><name><surname>Zhu</surname><given-names>T</given-names></name><name><surname>Zhong</surname><given-names>J</given-names></name><name><surname>Duffy</surname><given-names>CJ</given-names></name></person-group>
+<year>2008</year>
+<article-title>White matter integrity linked to functional impairments in aging
+and early Alzheimer's disease.</article-title>
+<source>Alzheimers Dement</source>
+<volume>4</volume>
+<fpage>381</fpage>
+<lpage>389</lpage>
+<pub-id pub-id-type="pmid">19012862</pub-id></element-citation></ref><ref id="pone.0017770-Charlton1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Charlton</surname><given-names>RA</given-names></name><name><surname>Barrick</surname><given-names>TR</given-names></name><name><surname>McIntyre</surname><given-names>DJ</given-names></name><name><surname>Shen</surname><given-names>Y</given-names></name><name><surname>O'Sullivan</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>White matter damage on diffusion tensor imaging correlates with
+age-related cognitive decline.</article-title>
+<source>Neurology</source>
+<volume>66</volume>
+<fpage>217</fpage>
+<lpage>222</lpage>
+<pub-id pub-id-type="pmid">16434657</pub-id></element-citation></ref><ref id="pone.0017770-Charlton2"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Charlton</surname><given-names>RA</given-names></name><name><surname>Schiavone</surname><given-names>F</given-names></name><name><surname>Barrick</surname><given-names>TR</given-names></name><name><surname>Morris</surname><given-names>RG</given-names></name><name><surname>Markus</surname><given-names>HS</given-names></name></person-group>
+<year>2010</year>
+<article-title>Diffusion tensor imaging detects age related white matter change
+over a 2 year follow-up which is associated with working memory
+decline.</article-title>
+<source>J Neurol Neurosurg Psychiatry</source>
+<volume>81</volume>
+<fpage>13</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="pmid">19710050</pub-id></element-citation></ref><ref id="pone.0017770-Schiavone1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schiavone</surname><given-names>F</given-names></name><name><surname>Charlton</surname><given-names>RA</given-names></name><name><surname>Barrick</surname><given-names>TR</given-names></name><name><surname>Morris</surname><given-names>RG</given-names></name><name><surname>Markus</surname><given-names>HS</given-names></name></person-group>
+<year>2009</year>
+<article-title>Imaging age-related cognitive decline: A comparison of diffusion
+tensor and magnetization transfer MRI.</article-title>
+<source>J Magn Reson Imaging</source>
+<volume>29</volume>
+<fpage>23</fpage>
+<lpage>30</lpage>
+<pub-id pub-id-type="pmid">19097099</pub-id></element-citation></ref><ref id="pone.0017770-Pitzer1"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pitzer</surname><given-names>C</given-names></name><name><surname>Kruger</surname><given-names>C</given-names></name><name><surname>Plaas</surname><given-names>C</given-names></name><name><surname>Kirsch</surname><given-names>F</given-names></name><name><surname>Dittgen</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Granulocyte-colony stimulating factor improves outcome in a mouse
+model of amyotrophic lateral sclerosis.</article-title>
+<source>Brain</source>
+<volume>131</volume>
+<fpage>3335</fpage>
+<lpage>3347</lpage>
+<pub-id pub-id-type="pmid">18835867</pub-id></element-citation></ref><ref id="pone.0017770-Tanaka1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tanaka</surname><given-names>M</given-names></name><name><surname>Kikuchi</surname><given-names>H</given-names></name><name><surname>Ishizu</surname><given-names>T</given-names></name><name><surname>Minohara</surname><given-names>M</given-names></name><name><surname>Osoegawa</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Intrathecal upregulation of granulocyte colony stimulating factor
+and its neuroprotective actions on motor neurons in amyotrophic lateral
+sclerosis.</article-title>
+<source>J Neuropathol Exp Neurol</source>
+<volume>65</volume>
+<fpage>816</fpage>
+<lpage>825</lpage>
+<pub-id pub-id-type="pmid">16896315</pub-id></element-citation></ref><ref id="pone.0017770-Yamasaki1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yamasaki</surname><given-names>R</given-names></name><name><surname>Tanaka</surname><given-names>M</given-names></name><name><surname>Fukunaga</surname><given-names>M</given-names></name><name><surname>Tateishi</surname><given-names>T</given-names></name><name><surname>Kikuchi</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Restoration of microglial function by granulocyte-colony
+stimulating factor in ALS model mice.</article-title>
+<source>J Neuroimmunol</source>
+<volume>229</volume>
+<fpage>51</fpage>
+<lpage>62</lpage>
+<pub-id pub-id-type="pmid">20659772</pub-id></element-citation></ref><ref id="pone.0017770-Henkel1"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Henkel</surname><given-names>JS</given-names></name><name><surname>Beers</surname><given-names>DR</given-names></name><name><surname>Zhao</surname><given-names>W</given-names></name><name><surname>Appel</surname><given-names>SH</given-names></name></person-group>
+<year>2009</year>
+<article-title>Microglia in ALS: the good, the bad, and the
+resting.</article-title>
+<source>J Neuroimmune Pharmacol</source>
+<volume>4</volume>
+<fpage>389</fpage>
+<lpage>398</lpage>
+<pub-id pub-id-type="pmid">19731042</pub-id></element-citation></ref><ref id="pone.0017770-Minnerup1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Minnerup</surname><given-names>J</given-names></name><name><surname>Heidrich</surname><given-names>J</given-names></name><name><surname>Wellmann</surname><given-names>J</given-names></name><name><surname>Rogalewski</surname><given-names>A</given-names></name><name><surname>Schneider</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Meta-analysis of the efficacy of granulocyte-colony stimulating
+factor in animal models of focal cerebral ischemia.</article-title>
+<source>Stroke</source>
+<volume>39</volume>
+<fpage>1855</fpage>
+<lpage>1861</lpage>
+<pub-id pub-id-type="pmid">18403735</pub-id></element-citation></ref><ref id="pone.0017770-Filippi1"><label>54</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Filippi</surname><given-names>M</given-names></name><name><surname>Agosta</surname><given-names>F</given-names></name><name><surname>Abrahams</surname><given-names>S</given-names></name><name><surname>Fazekas</surname><given-names>F</given-names></name><name><surname>Grosskreutz</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>EFNS guidelines on the use of neuroimaging in the management of
+motor neuron diseases.</article-title>
+<source>Eur J Neurol</source>
+</element-citation></ref></ref-list></back></article>

@@ -1,0 +1,534 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Prev Chronic Dis</journal-id><journal-id journal-id-type="iso-abbrev">Prev Chronic Dis</journal-id><journal-id journal-id-type="publisher-id">PCD</journal-id><journal-title-group><journal-title>Preventing Chronic Disease</journal-title></journal-title-group><issn pub-type="epub">1545-1151</issn><publisher><publisher-name>Centers for Disease Control and Prevention</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">23036611</article-id><article-id pub-id-type="pmc">3477899</article-id><article-id pub-id-type="publisher-id">12_0001</article-id><article-id pub-id-type="doi">10.5888/pcd9.120001</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group><series-title>Peer Reviewed</series-title></article-categories><title-group><article-title>Perceived Stress, Behavior, and Body Mass Index Among Adults Participating in a Worksite Obesity Prevention Program, Seattle, 2005&#x02013;2007</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Barrington</surname><given-names>Wendy E.</given-names></name><degrees>PhD</degrees></contrib><contrib contrib-type="author"><name><surname>Ceballos</surname><given-names>Rachel M.</given-names></name><degrees>PhD</degrees></contrib><contrib contrib-type="author"><name><surname>Bishop</surname><given-names>Sonia K.</given-names></name><degrees>BS</degrees></contrib><contrib contrib-type="author"><name><surname>McGregor</surname><given-names>Bonnie A.</given-names></name><degrees>PhD</degrees></contrib><contrib contrib-type="author"><name><surname>Beresford</surname><given-names>Shirley A.A.</given-names></name><degrees>PhD</degrees></contrib><aff id="aff1">Author Affiliations: Rachel M. Ceballos, Bonnie A. McGregor, Shirley A.A. Beresford, University of Washington, School of Public Health and Fred Hutchinson Cancer Research Center, Seattle, Washington; Sonia K. Bishop, Fred Hutchinson Cancer Research Center, Seattle, Washington.</aff></contrib-group><author-notes><corresp id="cor1">Corresponding Author: Wendy E. Barrington, PhD, Department of Epidemiology, University of Washington, Box 357236, Seattle, WA 98195-7236. Telephone: 206-667-2939. E-mail: <email xlink:href="wendybar@uw.edu">wendybar@uw.edu</email>.</corresp></author-notes><pub-date pub-type="collection"><year>2012</year></pub-date><pub-date pub-type="epub"><day>04</day><month>10</month><year>2012</year></pub-date><volume>9</volume><elocation-id>E152</elocation-id><abstract><sec><title>Introduction</title><p>Stress in numerous contexts may affect the risk for obesity through biobehavioral processes. Acute stress has been associated with diet and physical activity in some studies; the relationship between everyday stress and such behavior is not clear. The objective of this study was to examine associations between perceived stress, dietary behavior, physical activity, eating awareness, self-efficacy, and body mass index (BMI) among healthy working adults. Secondary objectives were to explore whether eating awareness modified the relationship between perceived stress and dietary behavior and perceived stress and BMI.</p></sec><sec><title>Methods</title><p>Promoting Activity and Changes in Eating (PACE) was a group-randomized worksite intervention to prevent weight gain in the Seattle metropolitan area from 2005 through 2007. A subset of 621 participants at 33 worksites provided complete information on perceived stress at baseline. Linear mixed models evaluated cross-sectional associations.</p></sec><sec><title>Results</title><p>The mean (standard deviation [SD]) Perceived Stress Scale-10 score among all participants was 12.7 (6.4), and the mean (SD) BMI was 29.2 kg/m<sup>2 </sup>(6.3 kg/m<sup>2</sup>). Higher levels of perceived stress were associated with lower levels of eating awareness, physical activity, and walking. Among participants who had low levels of eating awareness, higher levels of perceived stress were associated with fewer servings of fruit and vegetables and greater consumption of fast food meals. </p></sec><sec><title>Conclusion</title><p>Dietary and physical activity behaviors of workers may be associated with average levels of perceived stress. Longitudinal studies are needed, however, to support inclusion of stress management or mindfulness techniques in workplace obesity prevention efforts.</p></sec></abstract></article-meta></front><body><sec><title>Introduction</title><p>The high prevalence of obesity is a major public health problem because of the association of obesity with chronic health conditions such as coronary heart disease, type 2 diabetes, and some cancers (<xref ref-type="bibr" rid="R1">1</xref>). The increase in prevalence during the last several decades more likely stems from environmental factors at multiple levels than genetic changes (<xref ref-type="bibr" rid="R2">2</xref>). More than one-third of the American adult population is obese (<xref ref-type="bibr" rid="R3">3</xref>); long-term behavior-change interventions that focus on weight reduction have had limited success in reducing overweight and obesity. From a socioecological perspective, behavioral interventions may have limited success because they inadequately consider environmental factors (<xref ref-type="bibr" rid="R4">4</xref>).</p><p>Research interest in the potential role of stress in health is growing. Stress is an individual-level factor associated with environmental phenomena and individual-level disease processes (<xref ref-type="bibr" rid="R5">5</xref>). Stress occurs when environmental demands tax or exceed the adaptive capacity of an organism; the demands result in physiologic or psychological processes that put the organism at risk for disease (<xref ref-type="bibr" rid="R5">5</xref>). Adults experience numerous types of stress (eg, work, finances, family), and each type contributes to overall stress. Although types of stress may vary from person to person and group to group, overall measures of stress allow generalized comparisons. Measures of stress are imperfect, but measures of perceived stress are valuable because they account for differences in the appraisal of what is stressful, exposure to stressors, and coping ability (<xref ref-type="bibr" rid="R6">6</xref>).</p><p>Perceived stress is associated with direct changes to both physiologic (eg, hormonal response) and psychological processes. Chronically elevated levels of perceived stress affect cortisol levels, which have been associated with increased risk for central obesity (<xref ref-type="bibr" rid="R7">7</xref>). Evidence for an association between stress and physical activity behaviors is mixed (<xref ref-type="bibr" rid="R8">8</xref>), and more testing of physical activity theory is needed to identify inconsistencies in the literature (<xref ref-type="bibr" rid="R4">4</xref>,<xref ref-type="bibr" rid="R9">9</xref>). Experimental studies have demonstrated that acute stress affects dietary behaviors, especially among people with certain eating behaviors, such as restrained eating (ie, intentional caloric restriction) (<xref ref-type="bibr" rid="R7">7</xref>,<xref ref-type="bibr" rid="R10">10</xref>). The way in which food is consumed has also been associated with overweight and obesity in epidemiologic settings (<xref ref-type="bibr" rid="R11">11</xref>,<xref ref-type="bibr" rid="R12">12</xref>). Such behaviors include emotional eating (ie, eating to manage feelings) and task eating (ie, eating while doing other activities). These behaviors connote a level of distraction &#x02014; a lack of eating awareness &#x02014; that has also been linked to obesity (<xref ref-type="bibr" rid="R13">13</xref>). A lack of eating awareness may co-occur with a hectic or stressful lifestyle and facilitate unhealthy dietary choices.</p><p>Some types of stress, such as work stress, have been associated with obesity-related behaviors among adults (<xref ref-type="bibr" rid="R14">14</xref>-<xref ref-type="bibr" rid="R16">16</xref>). Evaluating the relationship between perceived stress and obesity-related behaviors in a working population may be especially valuable because this population likely experiences numerous types of stress and a broader range of stress exposure (<xref ref-type="bibr" rid="R17">17</xref>,<xref ref-type="bibr" rid="R18">18</xref>). More than half of adults in the United States and in King County, Washington, our study population, are employed; they typically spend more than half of their waking hours at work (<xref ref-type="bibr" rid="R19">19</xref>). The objective of this study was to examine associations between perceived stress, dietary behavior, physical activity, self-efficacy, and body mass index (BMI) among healthy working adults. Secondary objectives were to explore whether eating awareness modified the relationship between perceived stress and dietary behavior. We hypothesized that behavioral and self-efficacy indices of dietary behavior and physical activity would be associated with overall perceived stress (<xref ref-type="fig" rid="F1">Figure</xref>). </p><fig id="F1" fig-type="figure" orientation="portrait" position="float"><label>Figure</label><caption><p>Hypothesized conceptual model of biobehavioral association of perceived stress with obesity. Bolded arrows indicate relationships assessed in this study.</p></caption><alt-text>Flow chart</alt-text><long-desc>Our analysis evaluated cross-sectional associations between perceived stress and dietary behaviors and physical activity. We hypothesized that differences in eating behavior associated with stress were dependent on eating awareness. We also evaluated an overall association of perceived stress with obesity. At the group level, environmental factors at work and home contribute to perceived stress. At the individual level, obesity can lead to disease risk.</long-desc><graphic xlink:href="PCD-9-E152s01"/></fig></sec><sec sec-type="methods"><title>Methods</title><sec><title>Study participants and procedures</title><p>PACE (Promoting Activity and Changes in Eating) evaluated associations of stress and obesity-related behaviors in a population of sedentary, mostly non-Hispanic white workers in metropolitan Seattle. PACE was a large group-randomized intervention to prevent weight gain in 34 worksites employing 2,900 workers. Baseline data collection took place from 2005 through 2007; design and eligibility criteria are described elsewhere (<xref ref-type="bibr" rid="R11">11</xref>). All study participants completed a standard questionnaire on demographic characteristics, dietary behaviors, eating awareness, physical activity, and self-efficacy. Investigators approached a random subsample of 1,263 employees at 34 worksites to complete additional measures; 864 employees at 34 worksites agreed to participate. Of those, 33 worksites comprising 627 participants completed the 10-item Perceived Stress Scale (PSS-10); 621 participants had no missing data on PSS-10 items. We conducted our analyses among this group. The University of Washington and Fred Hutchinson Cancer Center institutional review boards reviewed and approved all study protocols and materials. All study participants provided written informed consent.</p></sec><sec><title>Measures</title><sec><title>Perceived stress</title><p>We assessed the level of stress perceived by each participant in the past 30 days through the PSS-10 (<xref ref-type="bibr" rid="R20">20</xref>). Each item (eg, &#x0201c;In the last month, how often have you been angered because of things that were outside of your control?&#x0201d;) was rated on a 5-point Likert scale that ranged from 0 (never) to 4 (very often). Possible total scores range from 0 to 40; higher scores indicate higher levels of perceived stress. Studies of human social stress and health outcomes use the PSS-10, which has good reliability (&#x003b1; ranges from 0.84 to 0.86) (<xref ref-type="bibr" rid="R20">20</xref>).</p></sec><sec><title>Body mass index</title><p>We calculated BMI (kg/m<sup>2</sup>) by using heights and weights measured by investigators at worksites during a proctored survey or other assessment or at a height and weight clinic.</p></sec><sec><title>Dietary behavior</title><p>We used indices of dietary behavior instead of actual consumption measurements as our main outcome measures. The average number of fruit and vegetable servings consumed per day by participants was assessed by using the National Cancer Institute 5 A Day 7-question fruit and vegetable assessment tool (<xref ref-type="bibr" rid="R21">21</xref>) and a single-item summary question (<xref ref-type="bibr" rid="R11">11</xref>). Fast food meals and soft-drinks consumed were also measured via single-item (<xref ref-type="bibr" rid="R22">22</xref>,<xref ref-type="bibr" rid="R23">23</xref>).</p></sec><sec><title>Eating awareness</title><p>Eating awareness was assessed by measuring the frequency of task eating. We assessed the frequency of task eating by using a single question: &#x0201c;How often do you eat food (meals or snacks) while doing another activity, for example, watching TV, working at a computer, reading, driving, playing video games?&#x0201d; Respondents chose from a 5-point Likert scale ranging from 1 (never) to 5 (always). We then defined a low level of eating awareness as task eating always or most of the time and a high level of eating awareness as task eating sometimes, seldom, or never. Eating awareness may be a correlate of obesity (<xref ref-type="bibr" rid="R11">11</xref>,<xref ref-type="bibr" rid="R12">12</xref>), but validation and reliability studies are lacking.</p></sec><sec><title>Physical activity </title><p>We used 3 measures of physical activity. Two measures were from the Godin Leisure-Time Exercise Questionnaire (<xref ref-type="bibr" rid="R24">24</xref>). We asked respondents to indicate the number of times in the past 7 days during their free time they engaged for at least 10 minutes in exercise categorized as strenuous (eg, running, jogging), moderate (eg, fast walking, baseball), and mild (eg, yoga, easy walking). We computed a physical activity score according to the recommended protocol, which uses metabolic equivalent task (MET) units; higher scores indicate more activity (<xref ref-type="bibr" rid="R24">24</xref>). Scores ranged from 0 to more than 180, but we capped the maximum at 180 to minimize the effect of outliers. We also asked respondents to indicate the frequency of sweat-inducing activity in the last 7 days as &#x0201c;often,&#x0201d; &#x0201c;sometimes,&#x0201d; or &#x0201c;never/rarely.&#x0201d; We defined regular engagement in sweat-inducing exercise as behavior that occurred often. The third measure of physical activity was frequency of walking. We used a single-item, adapted from the International Physical Activity Questionnaire (IPAQ): &#x0201c;During the last 7 days, on how many days did you walk for at least 10 minutes at a time?&#x0201d; These 3 physical activity measures have been previously validated (<xref ref-type="bibr" rid="R25">25</xref>,<xref ref-type="bibr" rid="R26">26</xref>).</p></sec><sec><title>Self-efficacy for behavior change</title><p>Self-efficacy, a determinant and consequence of behavior change (<xref ref-type="bibr" rid="R9">9</xref>), is integral to fruit and vegetable consumption (<xref ref-type="bibr" rid="R27">27</xref>), the ability to make healthier choices about weight (<xref ref-type="bibr" rid="R28">28</xref>), and the uptake and maintenance of physical activity behaviors (<xref ref-type="bibr" rid="R29">29</xref>) in adults. We assessed self-efficacy to change dietary and physical activity behavior by using 2 items: &#x0201c;How sure are you that you can stick to a plan to monitor your eating choices on a regular basis?&#x0201d; and &#x0201c;How sure are you that you can increase your level of physical activity on a regular basis?&#x0201d; Responses were on a 5-point Likert scale ranging from &#x0201c;not sure&#x0201d; to &#x0201c;extremely sure.&#x0201d;</p></sec></sec><sec><title>Statistical analyses</title><p>We conducted linear mixed-model analyses to examine the hypothesized associations. In all models, we calculated predicted means and 95% confidence intervals, adjusting for age, sex, race, and education (as fixed effects) and a worksite random effect. We additionally included an interaction term between perceived stress and eating awareness in each dietary behavior model to explore whether eating awareness modified the relationship between perceived stress and dietary behavior. Analyses were then stratified by low and high levels of eating awareness. When modeling total walking behavior, we also included manual occupation as a fixed effect because this behavior was not evenly distributed among occupational groups. Variables for BMI and the number of fast food meals and soft drinks consumed per week were log-transformed to avoid heteroscedasticity of residual errors. Variables were then back-transformed. Each predicted mean difference was related to a 9-point increase in the PSS-10 score; the 9 points correspond to the interquartile range (approximately 8.0 to 17.0). We used the Wald test to determine whether predicted mean differences or multiplicative interaction terms were significantly different from zero. We used SAS version 9.2 (SAS Institute Inc<italic>,</italic> Cary, North Carolina<italic>) </italic>for all analyses.</p></sec></sec><sec sec-type="results"><title>Results</title><p>Among PACE participants, 82.7% were non-Hispanic white; almost half were college graduates and had a household income of $75,000 or more (<xref ref-type="table" rid="T1">Table 1</xref>). The mean (SD) PSS-10 score among all participants was 12.7 (6.4), and the mean (SD) BMI was 29.2 (6.3). A higher level of stress was associated with a higher percentage of participants who engaged in task eating always or most of the time, a lower Godin leisure-time exercise score, a lower percentage of participants who regularly engaged in sweat-inducing exercise, and fewer minutes walked per week (<xref ref-type="table" rid="T2">Table 2</xref>). We found a significant interaction between perceived stress and eating awareness in relation to the 5 A Day (<italic>z</italic> = &#x02212;3.01, <italic>P</italic> = .003), single-item summary of fruit and vegetable consumption (<italic>z</italic> = &#x02212;2.77, <italic>P</italic> = .006), and fast food consumption (<italic>z</italic> = 3.00, <italic>P</italic> = .003). Among participants who had a low level of eating awareness, higher levels of perceived stress were associated with fewer servings of fruit and vegetables per day and greater consumption of fast food meals (<xref ref-type="table" rid="T3">Table 3</xref>). We also found a significant interaction between perceived stress and eating awareness in relation to soft drink consumption (<italic>z</italic> = 2.97, <italic>P</italic> = .003); associations between perceived stress and soft drink intake in stratified analyses, however, were not significant.</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><title>Baseline Demographic and Health-Related Characteristics of a Subset of Participants in Promoting Activity and Changes in Eating (PACE), Seattle, 2005&#x02013;2007<sup>a</sup>
+</title></caption><table frame="hsides" rules="groups"><col width="243" span="1"/><col width="74" span="1"/><col width="70" span="1"/><col width="84" span="1"/><thead><tr><th rowspan="2" valign="bottom" align="left" scope="col" colspan="1">Characteristic</th><th rowspan="2" valign="top" align="center" scope="col" colspan="1">Total (n = 621)</th><th rowspan="2" valign="top" align="center" scope="col" colspan="1">Men (n = 264)</th><th rowspan="2" valign="top" align="center" scope="col" colspan="1">Women (n = 357)</th></tr></thead><tbody><tr><td valign="middle" colspan="4" align="center" scope="col" rowspan="1">
+<bold>Demographic</bold>
+</td></tr><tr><td colspan="4" valign="top" align="left" scope="col" rowspan="1">
+<bold>Age, y</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">18&#x02013;34</td><td valign="top" align="right" rowspan="1" colspan="1">141 (22.8)</td><td valign="top" align="right" rowspan="1" colspan="1">48 (18.1)</td><td valign="top" align="right" rowspan="1" colspan="1">93 (26.3)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">35&#x02013;44</td><td valign="top" align="right" rowspan="1" colspan="1">158 (25.5)</td><td valign="top" align="right" rowspan="1" colspan="1">66 (24.9)</td><td valign="top" align="right" rowspan="1" colspan="1">92 (25.9)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">45&#x02013;54</td><td valign="top" align="right" rowspan="1" colspan="1">200 (32.2)</td><td valign="top" align="right" rowspan="1" colspan="1">98 (37.0)</td><td valign="top" align="right" rowspan="1" colspan="1">102 (28.7)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">55&#x02013;65</td><td valign="top" align="right" rowspan="1" colspan="1">121 (19.5)</td><td valign="top" align="right" rowspan="1" colspan="1">53 (20.0)</td><td valign="top" align="right" rowspan="1" colspan="1">68 (19.1)</td></tr><tr><td colspan="4" valign="top" align="left" scope="col" rowspan="1">
+<bold>Race/ethnicity</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">White</td><td valign="top" align="right" rowspan="1" colspan="1">505 (82.7)</td><td valign="top" align="right" rowspan="1" colspan="1">222 (85.5)</td><td valign="top" align="right" rowspan="1" colspan="1">283 (80.6)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">African American</td><td valign="top" align="right" rowspan="1" colspan="1">35 (5.7)</td><td valign="top" align="right" rowspan="1" colspan="1">9 (3.4)</td><td valign="top" align="right" rowspan="1" colspan="1">26 (7.4)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Hispanic/Latino</td><td valign="top" align="right" rowspan="1" colspan="1">25 (4.6)</td><td valign="top" align="right" rowspan="1" colspan="1">9 (3.4)</td><td valign="top" align="right" rowspan="1" colspan="1">16 (4.5)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Asian</td><td valign="top" align="right" rowspan="1" colspan="1">27 (4.5)</td><td valign="top" align="right" rowspan="1" colspan="1">9 (3.4)</td><td valign="top" align="right" rowspan="1" colspan="1">18 (5.2)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Other</td><td valign="top" align="right" rowspan="1" colspan="1">19 (3.1)</td><td valign="top" align="right" rowspan="1" colspan="1">11 (4.2)</td><td valign="top" align="right" rowspan="1" colspan="1">8 (2.3)</td></tr><tr><td colspan="4" valign="top" align="left" scope="col" rowspan="1">
+<bold>Education</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0003c;High school, high school graduate, or GED</td><td valign="top" align="right" rowspan="1" colspan="1">70 (11.3)</td><td valign="top" align="right" rowspan="1" colspan="1">31 (11.7)</td><td valign="top" align="right" rowspan="1" colspan="1">39 (11.0)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Some college or technical college</td><td valign="top" align="right" rowspan="1" colspan="1">250 (40.3)</td><td valign="top" align="right" rowspan="1" colspan="1">94 (35.5)</td><td valign="top" align="right" rowspan="1" colspan="1">156 (43.8)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">College graduate</td><td valign="top" align="right" rowspan="1" colspan="1">213 (34.3)</td><td valign="top" align="right" rowspan="1" colspan="1">92 (34.7)</td><td valign="top" align="right" rowspan="1" colspan="1">121 (34.0)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Postgraduate or professional degree</td><td valign="top" align="right" rowspan="1" colspan="1">87 (14.0)</td><td valign="top" align="right" rowspan="1" colspan="1">47 (17.7)</td><td valign="top" align="right" rowspan="1" colspan="1">40(11.2)</td></tr><tr><td colspan="4" valign="top" align="left" scope="col" rowspan="1">
+<bold>Household income, $</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0003c;50,000</td><td valign="top" align="right" rowspan="1" colspan="1">149 (27.2)</td><td valign="top" align="right" rowspan="1" colspan="1">44 (18.8)</td><td valign="top" align="right" rowspan="1" colspan="1">105 (31.9)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">50,000&#x02013;74,999</td><td valign="top" align="right" rowspan="1" colspan="1">131 (23.6)</td><td valign="top" align="right" rowspan="1" colspan="1">57 (26.2)</td><td valign="top" align="right" rowspan="1" colspan="1">74 (22.1)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">75,000&#x02013;100,000</td><td valign="top" align="right" rowspan="1" colspan="1">105 (18.9)</td><td valign="top" align="right" rowspan="1" colspan="1">43 (18.9)</td><td valign="top" align="right" rowspan="1" colspan="1">62 (19.2)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0003e;100,000</td><td valign="top" align="right" rowspan="1" colspan="1">166 (30.3)</td><td valign="top" align="right" rowspan="1" colspan="1">81 (36.0)</td><td valign="top" align="right" rowspan="1" colspan="1">85 (26.8)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Manual occupation<sup>b</sup></bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">79 (13.6)</td><td valign="top" align="right" rowspan="1" colspan="1">58 (20.9)</td><td valign="top" align="right" rowspan="1" colspan="1">21 (5.8)</td></tr><tr><td valign="middle" colspan="4" align="center" scope="col" rowspan="1">
+<bold>Health-Related</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Perceived Stress Score-10,<sup>c</sup> mean (SD)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">12.7 (6.4)</td><td valign="top" align="right" rowspan="1" colspan="1">11.6 (6.0)</td><td valign="top" align="right" rowspan="1" colspan="1">13.6 (6.4)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Body mass index,<sup>d</sup> mean (SD), kg/m<sup>2</sup></bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">29.2 (6.3)</td><td valign="top" align="right" rowspan="1" colspan="1">28.7 (4.2)</td><td valign="top" align="right" rowspan="1" colspan="1">29.2 (6.7)</td></tr><tr><td colspan="4" valign="top" align="left" scope="col" rowspan="1">
+<bold>Dietary behaviors</bold>
+</td></tr><tr><td colspan="4" valign="top" align="left" scope="col" rowspan="1">No. of fruit and vegetable servings per day, mean (SD)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 5 A Day</td><td valign="top" align="right" rowspan="1" colspan="1">3.2 (3.1)</td><td valign="top" align="right" rowspan="1" colspan="1">3.2 (1.9)</td><td valign="top" align="right" rowspan="1" colspan="1">3.4 (2.1)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Single item summary</td><td valign="top" align="right" rowspan="1" colspan="1">3.1 (1.7)</td><td valign="top" align="right" rowspan="1" colspan="1">2.9 (1.6)</td><td valign="top" align="right" rowspan="1" colspan="1">3.3 (1.6)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">No. of fast food meals consumed per week, mean (SD)</td><td valign="top" align="right" rowspan="1" colspan="1">0.5 (0.6)</td><td valign="top" align="right" rowspan="1" colspan="1">0.6 (0.7)</td><td valign="top" align="right" rowspan="1" colspan="1">0.5 (0.4)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">No. of soft drinks consumed per week, mean (SD)</td><td valign="top" align="right" rowspan="1" colspan="1">3.7 (4.4)</td><td valign="top" align="right" rowspan="1" colspan="1">3.6 (4.0)</td><td valign="top" align="right" rowspan="1" colspan="1">3.9 (4.4)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Eat while doing another activity all or most of the time</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">127 (20.3)</td><td valign="top" align="right" rowspan="1" colspan="1">69 (26.1)</td><td valign="top" align="right" rowspan="1" colspan="1">58 (15.5)</td></tr><tr><td colspan="4" valign="top" align="left" scope="col" rowspan="1">
+<bold>Physical activity</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Godin leisure-time exercise score,<sup>e</sup> mean, (SD)</td><td valign="top" align="right" rowspan="1" colspan="1">28.7 (22.4)</td><td valign="top" align="right" rowspan="1" colspan="1">33.8 (21.0)</td><td valign="top" align="right" rowspan="1" colspan="1">26.2 (20.4)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Regularly engage in free-time sweat-inducing exercise</td><td valign="top" align="right" rowspan="1" colspan="1">155 (24.7)</td><td valign="top" align="right" rowspan="1" colspan="1">81 (33.8)</td><td valign="top" align="right" rowspan="1" colspan="1">74 (21.2)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">No. of walking minutes per week, mean (SD)</td><td valign="top" align="right" rowspan="1" colspan="1">515.2 (502.2)</td><td valign="top" align="right" rowspan="1" colspan="1">547.9 (487.3)</td><td valign="top" align="right" rowspan="1" colspan="1">495.8 (490.8)</td></tr><tr><td colspan="4" valign="top" align="left" scope="col" rowspan="1">
+<bold>Self-efficacy</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Very or extremely sure they can monitor eating choices</td><td valign="top" align="right" rowspan="1" colspan="1">364 (9.0)</td><td valign="top" align="right" rowspan="1" colspan="1">34 (11.5)</td><td valign="top" align="right" rowspan="1" colspan="1">20 (6.3)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Very or extremely sure they can increase physical activity</td><td valign="top" align="right" rowspan="1" colspan="1">57 (9.5)</td><td valign="top" align="right" rowspan="1" colspan="1">31 (12.4)</td><td valign="top" align="right" rowspan="1" colspan="1">26 (7.0)</td></tr></tbody></table><table-wrap-foot><p>Abbreviations: GED, General Educational Development; SD, standard deviation.</p><p>
+<sup>a</sup> Employees at 33 worksites completed Perceived Stress Scale-10. Characteristics were averaged within and among worksites for those that provided data from Perceived Stress Scale-10; totals may not add to total sample because of missing data. Values are n (%) unless otherwise indicated.</p><p>
+<sup>b</sup> Includes machine operators, mechanics/technicians, building trade, construction and labor, and service workers.</p><p>
+<sup>c</sup> Perceived Stress Score-10 ranges from 0 to 40; 40 represents the greatest level of perceived stress.</p><p>
+<sup>d</sup> Body mass index calculated from measured height and weight.</p><p>
+<sup>e</sup> Godin Leisure-Time Exercise Questionnaire (24) was scored by number of times in past week spent in strenuous, moderate, or mild exercise for at least 10 minutes. Score ranges from 0 to 180 metabolic equivalent task (MET) units; 180 represents the greatest level of physical activity.</p></table-wrap-foot></table-wrap><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2</label><caption><title>Predicted Mean Differences in Health-Related Characteristics According to Difference in Perceived Stress,<sup>a</sup> Promoting Activity and Changes in Eating (PACE), Seattle, 2005&#x02013;2007 </title></caption><table frame="hsides" rules="groups"><col width="315" span="1"/><col width="124" span="1"/><col width="48" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Characteristic</th><th valign="top" align="center" scope="col" rowspan="1" colspan="1">Mean Difference (95% CI)</th><th valign="top" align="center" scope="col" rowspan="1" colspan="1">
+<italic>P</italic> Value<sup>b</sup>
+</th></tr></thead><tbody><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Body mass index<sup>c</sup>, kg/m<sup>2</sup></bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.31 (&#x02212;0.31 to 0.97)</td><td valign="top" align="right" rowspan="1" colspan="1">.33</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Dietary behavior</bold>
+</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">No. of fruit and vegetable servings per day</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 5 A Day</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.19 (&#x02212;0.41 to 0.04)</td><td valign="top" align="right" rowspan="1" colspan="1">.11</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Single-item summary</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.12 (&#x02212;0.27 to 0.04)</td><td valign="top" align="right" rowspan="1" colspan="1">.11</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">No. of fast food meals consumed per week</td><td valign="top" align="right" rowspan="1" colspan="1">0.02 (&#x02212;0.02 to 0.07)</td><td valign="top" align="right" rowspan="1" colspan="1">.34</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">No. of soft drinks consumed per week, n</td><td valign="top" align="right" rowspan="1" colspan="1">0.14 (&#x02212;0.10 to 0.50)</td><td valign="top" align="right" rowspan="1" colspan="1">.32</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Eat while doing other activities all or most of the time, percentage point</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">7.1 (1.4 to 13.1)</td><td valign="top" align="right" rowspan="1" colspan="1">.01</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Physical activity</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Godin leisure-time exercise score score<sup>d</sup>
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;3.1 (&#x02212;5.7 to &#x02212;0.4)</td><td valign="top" align="right" rowspan="1" colspan="1">.02</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Regularly engage in free-time sweat-inducing exercise, percentage point</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;5.3 (&#x02212;7.9 to &#x02212;0.01)</td><td valign="top" align="right" rowspan="1" colspan="1">.02</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">No. of walking minutes per week<sup>e</sup>
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;49.8 (&#x02212;80.7 to &#x02212;7.7)</td><td valign="top" align="right" rowspan="1" colspan="1">.02</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Self-efficacy</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Very or extremely sure they can monitor eating choices, percentage point</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.04 (&#x02212;10.5 to 0.01)</td><td valign="top" align="right" rowspan="1" colspan="1">.14</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Very or extremely sure they can increase physical activity, percentage point</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.05 (&#x02212;0.12 to 0.001)</td><td valign="top" align="right" rowspan="1" colspan="1">.06</td></tr></tbody></table><table-wrap-foot><p>Abbreviation: CI, confidence interval.</p><p>
+<sup>a</sup> Predicted mean differences were calculated by linear mixed models using a link function adjusted for individual age, sex, race, and education and a worksite random effect. Each mean value corresponds to a 9-point increase in the Perceived Stress Score-10 (PSS-10). For example, for each 9-point increase in the PSS-10, the percentage of study participants who were categorized as task eaters (eat while doing other activities all or most of the time) increased by 7.1 percentage points.</p><p>
+<sup>b</sup> Determined by the Wald test.</p><p>
+<sup>c</sup> Body mass index calculated from measured height and weight.</p><p>
+<sup>d</sup> Godin Leisure-Time Exercise Questionnaire (24) was scored by measuring number of times in past week spent in strenuous, moderate, or mild exercise for at least 10 minutes. Score ranges from 0 to 180 metabolic equivalent task (MET) units; 180 represents the greatest level of physical activity.</p><p>
+<sup>e</sup> Adjusted for manual occupation.</p></table-wrap-foot></table-wrap><table-wrap id="T3" orientation="portrait" position="float"><label>Table 3</label><caption><title>Predicted Mean Difference in Dietary Behaviors According to Difference in Perceived Stress,<sup>a</sup> by Level of Eating Awareness, Promoting Activity and Changes in Eating (PACE), Seattle, 2005&#x02013;2007</title></caption><table frame="hsides" rules="groups"><col width="175" span="1"/><col width="124" span="1"/><col width="47" span="1"/><col width="124" span="1"/><col width="47" span="1"/><thead><tr><th rowspan="2" valign="top" align="left" scope="col" colspan="1"/><th colspan="2" valign="top" align="center" scope="colgroup" rowspan="1">Low Level of Eating Awareness<sup>b</sup>
+<hr/>
+</th><th colspan="2" valign="top" align="center" scope="colgroup" rowspan="1">High Level of Eating Awareness<sup>b</sup>
+<hr/>
+</th></tr><tr><th valign="top" colspan="1" align="center" scope="colgroup" rowspan="1">Mean Difference (95% CI)</th><th valign="top" align="center" scope="col" rowspan="1" colspan="1">
+<italic>P</italic> Value<sup>c</sup>
+</th><th valign="top" align="center" scope="col" rowspan="1" colspan="1">Mean Difference (95% CI)</th><th valign="top" align="center" scope="col" rowspan="1" colspan="1">
+<italic>P</italic> Value<sup>c</sup>
+</th></tr></thead><tbody><tr><td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+<bold>No. of fruit and vegetable servings per day</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">5 A Day<sup>d</sup>
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.54 (&#x02212;0.93 to &#x02212;0.15)</td><td valign="top" align="right" rowspan="1" colspan="1">.007</td><td valign="top" align="right" rowspan="1" colspan="1">0.10 (&#x02212;0.25 to 0.45)</td><td valign="top" align="right" rowspan="1" colspan="1">.59</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Single item summary<sup>e</sup>
+</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.44 (&#x02212;0.70 to &#x02212;0.18)</td><td valign="top" align="right" rowspan="1" colspan="1">.001</td><td valign="top" align="right" rowspan="1" colspan="1">0.15 (&#x02212;0.09 to 0.38)</td><td valign="top" align="right" rowspan="1" colspan="1">.23</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>No. of fast food meals consumed per week<sup>f</sup></bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.13 (0.05 to 0.22)</td><td valign="top" align="right" rowspan="1" colspan="1">.001</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.05 (&#x02212;0.10 to 0.01)</td><td valign="top" align="right" rowspan="1" colspan="1">.07</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>No. of soft drinks consumed per week<sup>g</sup></bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">0.41 (&#x02212;0.09 to 1.41)</td><td valign="top" align="right" rowspan="1" colspan="1">.14</td><td valign="top" align="right" rowspan="1" colspan="1">&#x02212;0.04 (&#x02212;0.25 to 0.32)</td><td valign="top" align="right" rowspan="1" colspan="1">.79</td></tr></tbody></table><table-wrap-foot><p>Abbreviation: CI, confidence interval.</p><p>
+<sup>a</sup> Predicted mean differences were calculated by linear mixed models using a link function adjusted for individual age, sex, race, and education and a worksite random effect. Each mean value corresponds to a 9-point increase in the Perceived Stress Score-10 (PSS-10).</p><p>
+<sup>b</sup> Low level of eating awareness defined as task eating (eating while doing other activities such as reading or watching television) always or most of the time and a high level of eating awareness as task eating sometimes, seldom, or never.</p><p>
+<sup>c</sup>
+<italic>P</italic> values determined by the Wald test.</p><p>
+<sup>d</sup>
+<italic>P</italic> value for interaction = .003.</p><p>
+<sup>e</sup>
+<italic>P</italic> value for interaction = .006.</p><p>
+<sup>f</sup>
+<italic>P</italic> value for interaction = .003.</p><p>
+<sup>g</sup>
+<italic>P</italic> value for interaction = .003.</p></table-wrap-foot></table-wrap></sec><sec sec-type="discussion"><title>Discussion</title><p>Our sample of working adults was similar to US adults in terms of BMI (<xref ref-type="bibr" rid="R1">1</xref>) and perceived stress (<xref ref-type="bibr" rid="R30">30</xref>). Compared with the US population, however, our sample had a higher level of income and education and a higher proportion of non-Hispanic whites (<xref ref-type="bibr" rid="R11">11</xref>). BMI in our sample was not associated with perceived stress. The distribution of perceived stress scores, however, indicated average levels of stress (ie, levels experienced in everyday living) and does not reflect a highly stressed population (eg, shift-workers, racial/ethnic minority groups) where we would expect to find an association (<xref ref-type="bibr" rid="R31">31</xref>). In other words, the range of perceived stress scores in our sample setting was likely too low to detect an association. However, this same range was sufficient to detect associations with more proximal obesity-related behavioral indices.</p><p>Higher frequency of task eating was associated with higher levels of perceived stress, but overall dietary behavior and perceived stress was not associated. We also did not detect a sex interaction in the relationship between perceived stress and dietary behavior and physical activity. The relationship between perceived stress and dietary behavior may be modified by several factors, including overweight or obesity, sex, and domains of eating behavior (eg, restrained or emotional eating) (<xref ref-type="bibr" rid="R32">32</xref>). Women and overweight or obese people may be more likely to eat in ways in which dietary choice is influenced by stress. In controlled laboratory studies, participants, particularly women and restrained eaters, have responded to high levels of stress by consuming foods high in calories, sugar, and fat (ie, more palatable foods), fewer main meals, and fewer portions of vegetables (<xref ref-type="bibr" rid="R7">7</xref>,<xref ref-type="bibr" rid="R10">10</xref>,<xref ref-type="bibr" rid="R33">33</xref>,<xref ref-type="bibr" rid="R34">34</xref>).</p><p>Growing evidence suggests that stress&#x02019;s influence on <italic>what</italic> you eat depends on <italic>how</italic> you eat. People characterized as stress- or emotional-eaters tend to choose calorically dense foods to blunt their stress response or reduce negative emotions (<xref ref-type="bibr" rid="R7">7</xref>). The relationship between restrained eating and stress is more complex; retrained eaters tend to eat less during normal conditions and overeat when stressed (<xref ref-type="bibr" rid="R7">7</xref>). We propose that variables used to operationalize these eating behaviors share the underlying construct of lack of eating awareness. That is, when energy-dense eating serves as reward during times of stress or negative emotions, assessment and moderation (ie, awareness) of caloric intake is absent. The interaction of low eating awareness on the association between stress and dietary behaviors in our data supports this line of thinking.</p><p>Higher levels of perceived stress were also associated with lower levels of physical activity. These findings are consistent with those found in most previous studies (<xref ref-type="bibr" rid="R8">8</xref>), although the direction of the relationship has not been determined. Stress may inhibit people from engaging in physical activity, or lack of physical activity may lead to increased stress levels, or both of these scenarios may occur. Numerous cross-sectional studies document both a presence and lack of an association between higher levels of stress and lower levels of physical activity (<xref ref-type="bibr" rid="R8">8</xref>). Of the null studies, however, two (<xref ref-type="bibr" rid="R35">35</xref>,<xref ref-type="bibr" rid="R36">36</xref>) measured perceived stress among older persons, who tend to have lower levels of stress (<xref ref-type="bibr" rid="R30">30</xref>), which decreased the likelihood of detecting an association. A pos thoc analysis (<xref ref-type="bibr" rid="R37">37</xref>) found that stress was more strongly associated with physical activity among people aged 30 to 44 (a group hypothesized as having higher levels of stress) than among people aged 18 to 29 or 45 or older. Higher levels of stress also predicted lower levels of physical activity among a prospective cohort of people at risk for diabetes (<xref ref-type="bibr" rid="R38">38</xref>).</p><p>Higher levels of stress have been associated with a lack of adherence to physical activity (<xref ref-type="bibr" rid="R35">35</xref>). Among a study of postmenopausal women, stress was modestly associated with failure to return to activity among those who had stopped (<xref ref-type="bibr" rid="R35">35</xref>). Studies on middle-aged women (<xref ref-type="bibr" rid="R39">39</xref>) and university students (<xref ref-type="bibr" rid="R39">39</xref>) found a decrease in exercise duration and an increase in the number of missed exercise opportunities as stress increased. Self-efficacy for dietary behavior and physical activity has also been negatively associated (but not significantly) with perceived stress (<xref ref-type="bibr" rid="R8">8</xref>,<xref ref-type="bibr" rid="R38">38</xref>). These findings support the idea that stress inhibits positive health behaviors, ultimately affecting one&#x02019;s risk for obesity; they are also consistent with studies on stress and obesogenic behaviors among adults. Lower levels of social support among workers were associated with lower fruit and vegetable intake and lower levels of leisure-time physical activity (<xref ref-type="bibr" rid="R14">14</xref>), whereas greater work demands were associated with lower levels of physical activity (<xref ref-type="bibr" rid="R16">16</xref>), higher levels of task eating (women only) (<xref ref-type="bibr" rid="R15">15</xref>), and higher levels of fast food consumption (men only) (<xref ref-type="bibr" rid="R15">15</xref>) among working adults.</p><p>This study has several limitations, including its secondary cross-sectional design and the potential issue of multiple comparisons. Confirmatory analyses are needed, especially within a longitudinal setting. We did not include other measures of stress-related eating behaviors (eg, emotional eating) because evaluating the relationship between stress and eating was not the primary objective of the PACE intervention. Alcohol consumption, a potentially confounding variable in the relationship between stress and BMI, was also not measured (<xref ref-type="bibr" rid="R22">22</xref>). Using single items may also have been a disadvantage and perhaps relevant to our measures of self-efficacy. It may be important, for example, to measure both confidence in and barriers to self-efficacy because each may relate to different aspects of adopting behaviors in this population (<xref ref-type="bibr" rid="R4">4</xref>,<xref ref-type="bibr" rid="R9">9</xref>). Finally, most of our data were based on self-report. By using behavioral indices, we sought to minimize the biases potentially introduced by self-report and decrease the burden on the participant. Strengths of the study included adjustment for the multilevel data, analyses accounting for variance at worksite and individual levels, and use of physical measurements for BMI calculation.</p><p>In this study, perceived stress was associated with several obesogenic behaviors among mostly non-Hispanic white working adults with average levels of everyday stress. Our data provide insight into the potential role of even average levels of everyday stress in dietary, eating, and physical activity behaviors. The association of perceived stress and these behaviors is likely greater in people who have higher levels of stress. Further exploration of the role of stress in occupational groups in which excessive obesity-related behaviors have been documented may benefit future intervention strategies. Our findings may also suggest that including stress management and/or mindfulness techniques in worksite behavior-change interventions could improve program effectiveness.</p></sec></body><back><ack><title>Acknowledgments</title><p>Research efforts were supported in part by the National Heart Lung &#x00026; Blood Institute (R01 HL079491) and by the National Cancer Institute Biobehavioral Cancer Prevention and Control Training Program (R25 CA092408) at the University of Washington. We thank Nicole Brunner for her work with intervention delivery and data collection as well as Dale McLerran and Yingye Zheng for advice on statistical analysis. We are grateful to the liaisons at our collaborating worksites and to the employees participating in the surveys.</p></ack><fn-group><fn><p>The opinions expressed by authors contributing to this journal do not necessarily reflect the opinions of the U.S. Department of Health and Human Services, the Public Health Service, the Centers for Disease Control and Prevention, or the authors' affiliated institutions.</p></fn><fn><p>
+<italic>Suggested citation for this article:</italic> Barrington WE, Ceballos RM, Bishop SK, McGregor BA, Beresford SAA. Perceived Stress, Behavior, and Body Mass Index Among Adults Participating in a Worksite Obesity Prevention Program, Seattle, 2005&#x02013;2007. Prev Chronic Dis 2012;9:120001. DOI: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5888/pcd9.120001">http://dx.doi.org/10.5888/pcd9.120001</ext-link>.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1. </label><mixed-citation publication-type="web"><collab>NIH, NHLBI Obesity Education Initiative</collab> Clinical guidelines on the identification, evaluation, and treatment of overweight and obesity in adults. <ext-link ext-link-type="uri" xlink:href="http://www.nhlbi.nih.gov/guidelines/obesity/ob_gdlns.pdf.Accessed">http://www.nhlbi.nih.gov/guidelines/obesity/ob_gdlns.pdf. Accessed</ext-link> December 14, 2011.</mixed-citation></ref><ref id="R2"><label>2. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Sallis</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Bauman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pratt</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Environment and policy interventions to promote physical activity.</article-title><source>Am J Prev Med</source><year>1998</year>;<volume>15</volume>(<issue>4</issue>):<fpage>379</fpage>-<lpage>97</lpage>
+<pub-id pub-id-type="doi">10.1016/S0749-3797(98)00076-2</pub-id><pub-id pub-id-type="pmid">9838979</pub-id></mixed-citation></ref><ref id="R3"><label>3. </label><mixed-citation publication-type="book"><string-name>
+<surname>Ogden</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Carroll</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McDowell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Flegal</surname>
+<given-names>K</given-names>
+</string-name>. Obesity among adults in the United States &#x02014; no change since 2003&#x02013;2004. Hyattsville (MD): National Center for Health Statistics; <year>2007</year></mixed-citation></ref><ref id="R4"><label>4. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Nigg</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Borrelli</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Maddock</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dishman</surname>
+<given-names>RK</given-names>
+</string-name>. <article-title>The theory of physical activity maintenance.</article-title><source>Appl Psychol</source><year>2008</year>;<volume>57</volume>(<issue>4</issue>):<fpage>544</fpage>-<lpage>60</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1464-0597.2008.00343.x</pub-id></mixed-citation></ref><ref id="R5"><label>5. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Cohen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Janicki-Deverts</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>GE</given-names>
+</string-name>. <article-title>Psychological stress and disease.</article-title><source>JAMA</source><year>2007</year>;<volume>298</volume>(<issue>14</issue>):<fpage>1685</fpage>-<lpage>7</lpage>
+<pub-id pub-id-type="doi">10.1001/jama.298.14.1685</pub-id><pub-id pub-id-type="pmid">17925521</pub-id></mixed-citation></ref><ref id="R6"><label>6. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Mimura</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>A Japanese version of the Perceived Stress Scale: cross-cultural translation and equivalence assessment.</article-title><source>BMC Psychiatry</source><year>2008</year>;<volume>8</volume>:<fpage>85</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-244X-8-85</pub-id><pub-id pub-id-type="pmid">18826581</pub-id></mixed-citation></ref><ref id="R7"><label>7. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Adam</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Epel</surname>
+<given-names>ES</given-names>
+</string-name>. <article-title>Stress, eating and the reward system.</article-title><source>Physiol Behav</source><year>2007</year>;<volume>91</volume>(<issue>4</issue>):<fpage>449</fpage>-<lpage>58</lpage>
+<pub-id pub-id-type="doi">10.1016/j.physbeh.2007.04.011</pub-id><pub-id pub-id-type="pmid">17543357</pub-id></mixed-citation></ref><ref id="R8"><label>8. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Trost</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bauman</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Sallis</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Correlates of adults&#x02019; participation in physical activity: review and update.</article-title><source>Med Sci Sports Exerc</source><year>2002</year>;<volume>34</volume>(<issue>12</issue>):<fpage>1996</fpage>-<lpage>2001</lpage>
+<pub-id pub-id-type="doi">10.1097/00005768-200212000-00020</pub-id><pub-id pub-id-type="pmid">12471307</pub-id></mixed-citation></ref><ref id="R9"><label>9. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Rhodes</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Nigg</surname>
+<given-names>CR</given-names>
+</string-name>. <article-title>Advancing physical activity theory: a review and future directions.</article-title><source>Exerc Sport Sci Rev</source><year>2011</year>;<volume>39</volume>(<issue>3</issue>):<fpage>113</fpage>-<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1097/JES.0b013e31821b94c8</pub-id><pub-id pub-id-type="pmid">21705861</pub-id></mixed-citation></ref><ref id="R10"><label>10. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Teegarden</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Bale</surname>
+<given-names>TL</given-names>
+</string-name>. <article-title>Effects of stress on dietary preference and intake are dependent on access and stress sensitivity.</article-title><source>Physiol Behav</source><year>2008</year>;<volume>93</volume>(<issue>4-5</issue>):<fpage>713</fpage>-<lpage>23</lpage>
+<pub-id pub-id-type="doi">10.1016/j.physbeh.2007.11.030</pub-id><pub-id pub-id-type="pmid">18155095</pub-id></mixed-citation></ref><ref id="R11"><label>11. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Beresford</surname>
+<given-names>SAA</given-names>
+</string-name>, <string-name>
+<surname>Locke</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bishop</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>West</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>McGregor</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Bruemmer</surname>
+<given-names>B</given-names>
+</string-name>, <etal/><article-title>Worksite study Promoting Activity and Changes in Eating (PACE): design and baseline results.</article-title><source>Obesity (Silver Spring)</source><year>2007</year>;<volume>15</volume>(<issue>Suppl 1</issue>)<fpage>4S</fpage>-<lpage>15S</lpage>
+<pub-id pub-id-type="doi">10.1038/oby.2007.383</pub-id><pub-id pub-id-type="pmid">18073337</pub-id></mixed-citation></ref><ref id="R12"><label>12. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Liebman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pelican</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Holmes</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wardlaw</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Melcher</surname>
+<given-names>L</given-names>
+</string-name>, <etal/><article-title>Dietary intake, eating behavior, and physical activity-related determinants of high body mass index in rural communities in Wyoming, Montana, and Idaho.</article-title><source>Int J Obes Relat Metab Disord</source><year>2003</year>;<volume>27</volume>(<issue>6</issue>):<fpage>684</fpage>-<lpage>92</lpage>
+<pub-id pub-id-type="doi">10.1038/sj.ijo.0802277</pub-id><pub-id pub-id-type="pmid">12833112</pub-id></mixed-citation></ref><ref id="R13"><label>13. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Kumari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Badrick</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Chandola</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Adler</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Epel</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Seeman</surname>
+<given-names>T</given-names>
+</string-name>, <etal/><article-title>Measures of social position and cortisol secretion in an aging population: findings from the Whitehall II study.</article-title><source>Psychosom Med</source><year>2010</year>;<volume>72</volume>(<issue>1</issue>):<fpage>27</fpage>-<lpage>34</lpage>
+<pub-id pub-id-type="doi">10.1097/PSY.0b013e3181c85712</pub-id><pub-id pub-id-type="pmid">19995885</pub-id></mixed-citation></ref><ref id="R14"><label>14. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Tamers</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Beresford</surname>
+<given-names>SAA</given-names>
+</string-name>, <string-name>
+<surname>Cheadle</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Bishop</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>The association between worksite social support, diet, physical activity and body mass index.</article-title><source>Prev Med</source><year>2011</year>;<volume>53</volume>(<issue>1-2</issue>):<fpage>53</fpage>-<lpage>6</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ypmed.2011.04.012</pub-id><pub-id pub-id-type="pmid">21570422</pub-id></mixed-citation></ref><ref id="R15"><label>15. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Cash</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Beresford</surname>
+<given-names>SAA</given-names>
+</string-name>, <string-name>
+<surname>Henderson</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>McTiernan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>CY</given-names>
+</string-name>, <etal/><article-title>Dietary and physical activity behaviors related to obesity-specific quality of life and work productivity: baseline results from a worksite trial.</article-title><source>Br J Nutr</source><year>2011</year>;<volume>6</volume>:<fpage>1</fpage>-<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1017/S0007114511006258</pub-id><pub-id pub-id-type="pmid">22142517</pub-id></mixed-citation></ref><ref id="R16"><label>16. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Choi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Schnall</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Dobson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Landsbergis</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Israel</surname>
+<given-names>L</given-names>
+</string-name>, <etal/><article-title>Psychosocial working conditions and active leisure-time physical activity in middle-aged US workers.</article-title><source>Int J Occup Med Environ Health</source><year>2010</year>;<volume>23</volume>(<issue>3</issue>):<fpage>239</fpage>-<lpage>53</lpage>
+<pub-id pub-id-type="doi">10.2478/v10001-010-0029-0</pub-id><pub-id pub-id-type="pmid">20934957</pub-id></mixed-citation></ref><ref id="R17"><label>17. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Johnson</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name>
+<surname>Lipscomb</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Long working hours, occupational health and the changing nature of work organization.</article-title><source>Am J Ind Med</source><year>2006</year>;<volume>49</volume>(<issue>11</issue>):<fpage>921</fpage>-<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1002/ajim.20383</pub-id><pub-id pub-id-type="pmid">16986150</pub-id></mixed-citation></ref><ref id="R18"><label>18. </label><mixed-citation publication-type="book"><string-name>
+<surname>Lepore</surname>
+<given-names>S</given-names>
+</string-name>. Measurement of chronic stressors. In: Cohen S, Kessler R, Underwood Gordon L, editors. Measuring stress. New York (NY): Oxford University Press; <year>1995</year> p. 102-21.</mixed-citation></ref><ref id="R19"><label>19. </label><mixed-citation publication-type="web"><collab>US Department of Labor Statistics</collab> Current employee statistics (CES). <ext-link ext-link-type="uri" xlink:href="http://www.bls.gov/ces/">http://www.bls.gov/ces/</ext-link>
+<comment>Accessed January 23, 2007</comment></mixed-citation></ref><ref id="R20"><label>20. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Cohen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kamarck</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mermelstein</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>A global measure of perceived stress.</article-title><source>J Health Soc Behav</source><year>1983</year>;<volume>24</volume>(<issue>4</issue>):<fpage>385</fpage>-<lpage>96</lpage>
+<pub-id pub-id-type="doi">10.2307/2136404</pub-id><pub-id pub-id-type="pmid">6668417</pub-id></mixed-citation></ref><ref id="R21"><label>21. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Thompson</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Byers</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Dietary assessment resource manual.</article-title><source>J Nutr</source><year>1994</year>;<volume>124</volume>(<issue>11 Suppl</issue>): <fpage>2245S</fpage>-<lpage>317S</lpage><pub-id pub-id-type="pmid">7965210</pub-id></mixed-citation></ref><ref id="R22"><label>22. </label><mixed-citation publication-type="journal"><string-name>
+<surname>French</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Harnack</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Jeffery</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Fast food restaurant use among women in the Pound of Prevention study: dietary, behavioral and demographic correlates</article-title>. <source>Int J Obes Relat Metab Disord</source><year>2000</year>;<volume>24</volume>(<issue>10</issue>):<fpage>1353</fpage>-<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1038/sj.ijo.0801429</pub-id><pub-id pub-id-type="pmid">11093299</pub-id></mixed-citation></ref><ref id="R23"><label>23. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Bleich</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gortmaker</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>Increasing consumption of sugar-sweetened beverages among US adults: 1988-1994 and 1999-2004.</article-title><source>Am J Clin Nutr</source><year>2009</year>;<volume>89</volume>(<issue>1</issue>):<fpage>372</fpage>-<lpage>81</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.2008.26883</pub-id><pub-id pub-id-type="pmid">19056548</pub-id></mixed-citation></ref><ref id="R24"><label>24. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Godin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Shephard</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>A simple method to assess exercise behavior in the community.</article-title><source>Can J Appl Sport Sci</source><year>1985</year>;<volume>10</volume>(<issue>3</issue>):<fpage>141</fpage>-<lpage>6</lpage><pub-id pub-id-type="pmid">4053261</pub-id></mixed-citation></ref><ref id="R25"><label>25. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Jacobs</surname>
+<given-names>DR Jr</given-names>
+</string-name>, <string-name>
+<surname>Ainsworth</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Hartman</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Leon</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>A simultaneous evaluation of 10 commonly used physical activity questionnaires.</article-title><source>Med Sci Sports Exerc</source><year>1993</year>;<volume>25</volume>(<issue>1</issue>):<fpage>81</fpage>-<lpage>91</lpage>
+<pub-id pub-id-type="doi">10.1249/00005768-199301000-00012</pub-id><pub-id pub-id-type="pmid">8423759</pub-id></mixed-citation></ref><ref id="R26"><label>26. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Nordstrom</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name>
+<surname>Diez Roux</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Gardin</surname>
+<given-names>JM</given-names>
+</string-name>; <collab>Cardiovascular Health Study</collab>
+<article-title>The association of personal and neighborhood socioeconomic indicators with subclinical cardiovascular disease in an elderly cohort. The cardiovascular health study.</article-title><source>Soc Sci Med</source><year>2004</year>;<volume>59</volume>(<issue>10</issue>):<fpage>2139</fpage>-<lpage>47</lpage>
+<pub-id pub-id-type="doi">10.1016/j.socscimed.2004.03.017</pub-id><pub-id pub-id-type="pmid">15351479</pub-id></mixed-citation></ref><ref id="R27"><label>27. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Shaikh</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Yaroch</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Nebling</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yeh</surname>
+<given-names>M-C</given-names>
+</string-name>, <string-name>
+<surname>Resnicow</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Psychosocial predictors of fruit and vegetable consumption in adults: a review of the literature.</article-title><source>Am J Prev Med</source><year>2008</year>;<volume>34</volume>(<issue>6</issue>):<fpage>535</fpage>-<lpage>43</lpage>
+<pub-id pub-id-type="doi">10.1016/j.amepre.2007.12.028</pub-id><pub-id pub-id-type="pmid">18471592</pub-id></mixed-citation></ref><ref id="R28"><label>28. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Cochrane</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Role for sense of self-worth in weight-less treatments: helping patients develop self-efficacy.</article-title><source>Can Fam Physician</source><year>2008</year>;<volume>54</volume>(<issue>4</issue>):<fpage>543</fpage>-<lpage>7</lpage><pub-id pub-id-type="pmid">18411382</pub-id></mixed-citation></ref><ref id="R29"><label>29. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Lee</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Arthur</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Avis</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Using self-efficacy theory to develop interventions that help older people overcome psychological barriers to physical activity: a discussion paper.</article-title><source>Int J Nurs Stud</source><year>2008</year>;<volume>45</volume>(<issue>11</issue>):<fpage>1690</fpage>-<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ijnurstu.2008.02.012</pub-id><pub-id pub-id-type="pmid">18501359</pub-id></mixed-citation></ref><ref id="R30"><label>30. </label><mixed-citation publication-type="book"><string-name>
+<surname>Cohen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Williamson</surname>
+<given-names>GM</given-names>
+</string-name>. Perceived stress in a probability sample of the United States. In: Spacapan S, Oskamp S, editors. The social psychology of health. Newbury Park (CA): Sage; <year>1988</year> p. 31-67.</mixed-citation></ref><ref id="R31"><label>31. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Dowd</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Simanek</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Aiello</surname>
+<given-names>AE</given-names>
+</string-name>. <article-title>Socio-economic status, cortisol and allostatic load: a review of the literature.</article-title><source>Int J Epidemiol</source><year>2009</year>;<volume>38</volume>(<issue>5</issue>):<fpage>1297</fpage>-<lpage>309</lpage>
+<pub-id pub-id-type="doi">10.1093/ije/dyp277</pub-id><pub-id pub-id-type="pmid">19720725</pub-id></mixed-citation></ref><ref id="R32"><label>32. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Oliver</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Wardle</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Perceived effects of stress on food choice.</article-title><source>Physiol Behav</source><year>1999</year>;<volume>66</volume>(<issue>3</issue>):<fpage>511</fpage>-<lpage>5</lpage>
+<pub-id pub-id-type="doi">10.1016/S0031-9384(98)00322-9</pub-id><pub-id pub-id-type="pmid">10357442</pub-id></mixed-citation></ref><ref id="R33"><label>33. </label><mixed-citation publication-type="journal"><string-name>
+<surname>O&#x02019;Connor</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Connor</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McMillan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Effects of daily hassles and eating style on eating behavior.</article-title><source>Health Psychol</source><year>2008</year>;<volume>27</volume>(<issue>1 Suppl</issue>):<fpage>S20</fpage>-<lpage>31</lpage>
+<pub-id pub-id-type="doi">10.1037/0278-6133.27.1.S20</pub-id><pub-id pub-id-type="pmid">18248102</pub-id></mixed-citation></ref><ref id="R34"><label>34. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Wardle</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Steptoe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Oliver</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lipsey</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Stress, dietary restraint and food intake.</article-title><source>J Psychosom Res</source><year>2000</year>;<volume>48</volume>(<issue>2</issue>):<fpage>195</fpage>-<lpage>202</lpage>
+<pub-id pub-id-type="doi">10.1016/S0022-3999(00)00076-3</pub-id><pub-id pub-id-type="pmid">10719137</pub-id></mixed-citation></ref><ref id="R35"><label>35. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Conroy</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Simkin-Silverman</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Pettee</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Hess</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Lapses and psychological factors related to physical activity in early postmenopause.</article-title><source>Med Sci Sports Exerc</source><year>2007</year>;<volume>39</volume>(<issue>10</issue>):<fpage>1858</fpage>-<lpage>66</lpage>
+<pub-id pub-id-type="doi">10.1249/mss.0b013e318137388d</pub-id><pub-id pub-id-type="pmid">17909416</pub-id></mixed-citation></ref><ref id="R36"><label>36. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Burton</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Shapiro</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>German</surname>
+<given-names>PS</given-names>
+</string-name>. <article-title>Determinants of physical activity inititation and maintenance among community-dwelling older persons.</article-title><source>Prev Med</source><year>1999</year>;<volume>29</volume>(<issue>5</issue>):<fpage>422</fpage>-<lpage>30</lpage>
+<pub-id pub-id-type="doi">10.1006/pmed.1999.0561</pub-id><pub-id pub-id-type="pmid">10564634</pub-id></mixed-citation></ref><ref id="R37"><label>37. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Major</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Doubeni</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Freedman</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lian</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hollenbeck</surname>
+<given-names>AR</given-names>
+</string-name>, <etal/><article-title>Neighborhood socioeconomic deprivation and mortality: NIH-AARP diet and health study.</article-title><source>PLoS ONE</source><year>2010</year>;<volume>5</volume>(<issue>11</issue>):<fpage>e15538</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0015538</pub-id><pub-id pub-id-type="pmid">21124858</pub-id></mixed-citation></ref><ref id="R38"><label>38. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Delahanty</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Conroy</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Nathan</surname>
+<given-names>DM</given-names>
+</string-name>, <collab>Diabetes Prevention Program Research Group</collab>
+<article-title>Psychological predictors of physical activity in the diabetes prevention program.</article-title><source>J Am Diet Assoc</source><year>2006</year>;<volume>106</volume>(<issue>5</issue>):<fpage>698</fpage>-<lpage>705</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jada.2006.02.011</pub-id><pub-id pub-id-type="pmid">16647327</pub-id></mixed-citation></ref><ref id="R39"><label>39. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Steptoe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wardle</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pollard</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Canaan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Stress, social support and health-related behavior: a study of smoking, alcohol consumption and physical exercise.</article-title><source>J Psychosom Res</source><year>1996</year>;<volume>41</volume>(<issue>2</issue>):<fpage>171</fpage>-<lpage>80</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-3999(96)00095-5</pub-id><pub-id pub-id-type="pmid">8887830</pub-id></mixed-citation></ref><ref id="R40"><label>40. </label><mixed-citation publication-type="journal"><string-name>
+<surname>Stetson</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Rahn</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Dubbert</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Wilner</surname>
+<given-names>BI</given-names>
+</string-name>, <string-name>
+<surname>Mercury</surname>
+<given-names>MG</given-names>
+</string-name>. <article-title>Prospective evaluation of the effects of stress on exercise adherence in community-residing women.</article-title><source>Health Psychol</source><year>1997</year>;<volume>16</volume>(<issue>6</issue>):<fpage>515</fpage>-<lpage>20</lpage>
+<pub-id pub-id-type="doi">10.1037/0278-6133.16.6.515</pub-id><pub-id pub-id-type="pmid">9386996</pub-id></mixed-citation></ref></ref-list></back></article>

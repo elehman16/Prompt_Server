@@ -1,0 +1,667 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Mol Sci</journal-id><journal-id journal-id-type="iso-abbrev">Int J Mol Sci</journal-id><journal-id journal-id-type="publisher-id">ijms</journal-id><journal-title-group><journal-title>International Journal of Molecular Sciences</journal-title></journal-title-group><issn pub-type="epub">1422-0067</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26501260</article-id><article-id pub-id-type="pmc">4632760</article-id><article-id pub-id-type="doi">10.3390/ijms161024475</article-id><article-id pub-id-type="publisher-id">ijms-16-24475</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Adding Sarcosine to Antipsychotic Treatment in Patients with Stable Schizophrenia Changes the Concentrations of Neuronal and Glial Metabolites in the Left Dorsolateral Prefrontal Cortex</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Strzelecki</surname><given-names>Dominik</given-names></name><xref ref-type="aff" rid="af1-ijms-16-24475">1</xref><xref rid="c1-ijms-16-24475" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Podg&#x000f3;rski</surname><given-names>Micha&#x00142;</given-names></name><xref ref-type="aff" rid="af2-ijms-16-24475">2</xref></contrib><contrib contrib-type="author"><name><surname>Ka&#x00142;u&#x0017c;y&#x00144;ska</surname><given-names>Olga</given-names></name><xref ref-type="aff" rid="af1-ijms-16-24475">1</xref></contrib><contrib contrib-type="author"><name><surname>Stefa&#x00144;czyk</surname><given-names>Ludomir</given-names></name><xref ref-type="aff" rid="af2-ijms-16-24475">2</xref></contrib><contrib contrib-type="author"><name><surname>Kotlicka-Antczak</surname><given-names>Magdalena</given-names></name><xref ref-type="aff" rid="af1-ijms-16-24475">1</xref></contrib><contrib contrib-type="author"><name><surname>Gmitrowicz</surname><given-names>Agnieszka</given-names></name><xref ref-type="aff" rid="af3-ijms-16-24475">3</xref></contrib><contrib contrib-type="author"><name><surname>Grzelak</surname><given-names>Piotr</given-names></name><xref ref-type="aff" rid="af2-ijms-16-24475">2</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Hashimoto</surname><given-names>Kenji</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-ijms-16-24475"><label>1</label>Department of Affective and Psychotic Disorders, Medical University of &#x00141;&#x000f3;d&#x0017a;, Central Clinical Hospital, &#x00141;&#x000f3;d&#x0017a; 92-213, Poland; E-Mails: <email>okaluzynska@gmail.com</email> (O.K.); <email>magdalena.kotlicka-antczak@umed.lodz.pl</email> (M.K.-A.)</aff><aff id="af2-ijms-16-24475"><label>2</label>Department of Radiology-Diagnostic Imaging, Medical University of &#x00141;&#x000f3;d&#x0017a;, Barlicki University Hospital No. 1, &#x00141;&#x000f3;d&#x0017a; 90-153, Poland; E-Mails: <email>chilam@tlen.pl</email> (M.P.); <email>ludomir.stefanczyk@umed.lodz.pl</email> (L.S.); <email>piotr.grzelak@umed.lodz.pl</email> (P.G.)</aff><aff id="af3-ijms-16-24475"><label>3</label>Department of Adolescent Psychiatry, Medical University of &#x00141;&#x000f3;d&#x0017a;, Central Clinical Hospital, &#x00141;&#x000f3;d&#x0017a; 92-213, Poland; E-Mail: <email>agnieszka.gmitrowicz@umed.lodz.pl</email></aff><author-notes><corresp id="c1-ijms-16-24475"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>dominik.strzelecki@umed.lodz.pl</email>; Tel.: +48-426-757-236; Fax: +48-426-757-403.</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>10</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2015</year></pub-date><volume>16</volume><issue>10</issue><fpage>24475</fpage><lpage>24489</lpage><history><date date-type="received"><day>01</day><month>5</month><year>2015</year></date><date date-type="accepted"><day>18</day><month>8</month><year>2015</year></date></history><permissions><copyright-statement>&#x000a9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2015</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>The glutamatergic system is a key point in pathogenesis of schizophrenia. Sarcosine (<italic>N</italic>-methylglycine) is an exogenous amino acid that acts as a glycine transporter inhibitor. It modulates glutamatergic transmission by increasing glycine concentration around NMDA (<italic>N</italic>-methyl-<sc>d</sc>-aspartate) receptors. In patients with schizophrenia, the function of the glutamatergic system in the prefrontal cortex is impaired, which may promote negative and cognitive symptoms. Proton nuclear magnetic resonance (<sup>1</sup>H-NMR) spectroscopy is a non-invasive imaging method enabling the evaluation of brain metabolite concentration, which can be applied to assess pharmacologically induced changes. The aim of the study was to evaluate the influence of a six-month course of sarcosine therapy on the concentration of metabolites (NAA, <italic>N</italic>-acetylaspartate; Glx, complex of glutamate, glutamine and &#x003b3;-aminobutyric acid (GABA); mI, myo-inositol; Cr, creatine; Cho, choline) in the left dorso-lateral prefrontal cortex (DLPFC) in patients with stable schizophrenia. Fifty patients with schizophrenia, treated with constant antipsychotics doses, in stable clinical condition were randomly assigned to administration of sarcosine (25 patients) or placebo (25 patients) for six months. Metabolite concentrations in DLPFC were assessed with 1.5 Tesla <sup>1</sup>H-NMR spectroscopy. Clinical symptoms were evaluated with the Positive and Negative Syndrome Scale (PANSS). The first spectroscopy revealed no differences in metabolite concentrations between groups. After six months, NAA/Cho, mI/Cr and mI/Cho ratios in the left DLPFC were significantly higher in the sarcosine than the placebo group. In the sarcosine group, NAA/Cr, NAA/Cho, mI/Cr, mI/Cho ratios also significantly increased compared to baseline values. In the placebo group, only the NAA/Cr ratio increased. The addition of sarcosine to antipsychotic therapy for six months increased markers of neurons viability (NAA) and neurogilal activity (mI) with simultaneous improvement of clinical symptoms. Sarcosine, two grams administered daily, seems to be an effective adjuvant in the pharmacotherapy of schizophrenia.</p></abstract><kwd-group><kwd>schizophrenia</kwd><kwd>dorso-lateral prefrontal cortex</kwd><kwd>glutamate</kwd><kwd>sarcosine</kwd><kwd>NMDA receptor</kwd><kwd><sup>1</sup>H-NMR spectroscopy</kwd></kwd-group></article-meta></front><body><sec id="sec1-ijms-16-24475"><title>1. Introduction</title><p>Schizophrenia is one of the most devastating mental diseases, with lifetime prevalence from 0.30% to 0.66% and incidence between 10.2 and 22.0 per 100,000 person-years [<xref rid="B1-ijms-16-24475" ref-type="bibr">1</xref>]. It is considered a heterogeneous group of psychoses, caused by a constellation of genetic and environmental factors, with documented heritability [<xref rid="B2-ijms-16-24475" ref-type="bibr">2</xref>,<xref rid="B3-ijms-16-24475" ref-type="bibr">3</xref>]. A few regions of the central nervous system (CNS) are known to play an important role in pathogenesis of schizophrenia. Mostly reported is the prefrontal cortex (PFC), with its dorso-lateral (DLPFC) and medial (MPFC) regions [<xref rid="B4-ijms-16-24475" ref-type="bibr">4</xref>,<xref rid="B5-ijms-16-24475" ref-type="bibr">5</xref>]. DLPFC dysfunction is responsible for the negative symptoms of schizophrenia, called &#x0201c;axial symptoms&#x0201d;: autistic behavior, anhedonia and avolition, emotional flattening and social withdrawal [<xref rid="B6-ijms-16-24475" ref-type="bibr">6</xref>]. DLPFC also plays a substantial role in cognition, including executive functions that are particularly important in daily life, such as working memory, abstract thinking, task flexibility, planning, and impulse control [<xref rid="B7-ijms-16-24475" ref-type="bibr">7</xref>,<xref rid="B8-ijms-16-24475" ref-type="bibr">8</xref>]. Cognitive impairment is better predictor of long-term functional outcome in schizophrenia than severity of positive, negative or affective symptoms [<xref rid="B9-ijms-16-24475" ref-type="bibr">9</xref>].</p><p>From the neurochemical perspective, negative and cognitive symptoms are associated with impairment of the glutamatergic system, especially in the PFC, where ionotropic NMDA receptors are abundant [<xref rid="B10-ijms-16-24475" ref-type="bibr">10</xref>,<xref rid="B11-ijms-16-24475" ref-type="bibr">11</xref>,<xref rid="B12-ijms-16-24475" ref-type="bibr">12</xref>]. Glycine is a necessary co-agonist of the NMDA receptor, and sarcosine (<italic>N</italic>-methylglycine) is an exogenous amino acid that acts as an inhibitor of glycine transporter type 1 (GlyT-1) [<xref rid="B13-ijms-16-24475" ref-type="bibr">13</xref>]. Thus, sarcosine should improve the inadequate function of NMDA receptors [<xref rid="B12-ijms-16-24475" ref-type="bibr">12</xref>]: a hypothesis confirmed by the observed reduction of schizophrenia symptoms (negative and total symptomatology) associated with the augmentation of antipsychotic therapy with sarcosine [<xref rid="B14-ijms-16-24475" ref-type="bibr">14</xref>,<xref rid="B15-ijms-16-24475" ref-type="bibr">15</xref>,<xref rid="B16-ijms-16-24475" ref-type="bibr">16</xref>,<xref rid="B17-ijms-16-24475" ref-type="bibr">17</xref>,<xref rid="B18-ijms-16-24475" ref-type="bibr">18</xref>] excluding clozapine [<xref rid="B19-ijms-16-24475" ref-type="bibr">19</xref>] or treatment with sarcosine alone [<xref rid="B20-ijms-16-24475" ref-type="bibr">20</xref>].</p><p>In schizophrenia, there is no consensus on the association between changes in CNS metabolites and exacerbation of symptoms, phase of the disease, treatment strategy or analyzed brain region [<xref rid="B21-ijms-16-24475" ref-type="bibr">21</xref>,<xref rid="B22-ijms-16-24475" ref-type="bibr">22</xref>,<xref rid="B23-ijms-16-24475" ref-type="bibr">23</xref>,<xref rid="B24-ijms-16-24475" ref-type="bibr">24</xref>]. Decreased concentrations of <italic>N</italic>-acetylaspartate (NAA), a marker of neuron viability and integrity, are commonly observed [<xref rid="B25-ijms-16-24475" ref-type="bibr">25</xref>], and reflect neuronal loss and/or mitochondrial dysfunction [<xref rid="B26-ijms-16-24475" ref-type="bibr">26</xref>,<xref rid="B27-ijms-16-24475" ref-type="bibr">27</xref>]. However, meta-analyses performed by Steen and Brugger [<xref rid="B21-ijms-16-24475" ref-type="bibr">21</xref>,<xref rid="B22-ijms-16-24475" ref-type="bibr">22</xref>] found that the NAA concentration in the PFC was similar in patients with a first episode of schizophrenia and in the chronic phase of the disease. It was also not affected by the duration of untreated schizophrenia (DUP) [<xref rid="B28-ijms-16-24475" ref-type="bibr">28</xref>] and had already decreased during the pre-psychotic period [<xref rid="B29-ijms-16-24475" ref-type="bibr">29</xref>]. Concentrations of NAA, glutamic acid (Glu) and glutamine (Gln) are important in the pathogenesis of schizophrenia, however, many studies have failed to confirm any correlation between metabolite concentration and clinical symptoms [<xref rid="B30-ijms-16-24475" ref-type="bibr">30</xref>,<xref rid="B31-ijms-16-24475" ref-type="bibr">31</xref>,<xref rid="B32-ijms-16-24475" ref-type="bibr">32</xref>,<xref rid="B33-ijms-16-24475" ref-type="bibr">33</xref>,<xref rid="B34-ijms-16-24475" ref-type="bibr">34</xref>,<xref rid="B35-ijms-16-24475" ref-type="bibr">35</xref>,<xref rid="B36-ijms-16-24475" ref-type="bibr">36</xref>]. Nevertheless, a few studies have noted an association between negative symptoms and concentration of NAA in the PFC, thalamus and anterior cingulate cortex (ACC) [<xref rid="B37-ijms-16-24475" ref-type="bibr">37</xref>,<xref rid="B38-ijms-16-24475" ref-type="bibr">38</xref>,<xref rid="B39-ijms-16-24475" ref-type="bibr">39</xref>,<xref rid="B40-ijms-16-24475" ref-type="bibr">40</xref>].</p><p>Although the influence of medications was also evaluated spectroscopically, the findings are ambiguous. In some studies, antipsychotics increased levels of NAA after treatment [<xref rid="B34-ijms-16-24475" ref-type="bibr">34</xref>,<xref rid="B41-ijms-16-24475" ref-type="bibr">41</xref>], while in others, there were no significant changes [<xref rid="B28-ijms-16-24475" ref-type="bibr">28</xref>,<xref rid="B42-ijms-16-24475" ref-type="bibr">42</xref>,<xref rid="B43-ijms-16-24475" ref-type="bibr">43</xref>,<xref rid="B44-ijms-16-24475" ref-type="bibr">44</xref>]. It remains unclear if substances modifying glutamatergic transmission cause changes in concentrations of CNS metabolites detectable in spectroscopy.</p><p>The aim of the study is to evaluate the influence of sarcosine therapy on the concentrations of NAA, Glx (complex of glutamate, glutamine and &#x003b3;-aminobutyric acid GABA), mI (myo-inositol), Cho (choline-containing compounds) and Cr (creatine plus phosphocreatine) in the DLPFC of the left frontal lobe in patients with schizophrenia. Our experiment can support new data on the pharmacokinetics, pharmacodynamics and psychopharmacological value of sarcosine, as well as glutamatergic agents in general. It can also reveal new aspects of the role played by the glutamatergic system in the pathogenesis of schizophrenia.</p></sec><sec id="sec2-ijms-16-24475"><title>2. Results and Discussion</title><p>At baseline, spectroscopy revealed no significant differences in metabolite concentrations between the groups (<xref ref-type="table" rid="ijms-16-24475-t001">Table 1</xref>).</p><table-wrap id="ijms-16-24475-t001" position="float"><object-id pub-id-type="pii">ijms-16-24475-t001_Table 1</object-id><label>Table 1</label><caption><p>Comparison of substances concentrations ratios in study groups.</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" align="center" valign="middle" colspan="1">Compared Ratios</th><th colspan="3" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">Baseline</th><th colspan="3" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">After 6 Months</th><th align="center" valign="middle" rowspan="1" colspan="1">Baseline <italic>vs.</italic> after 6 Months</th><th align="center" valign="middle" rowspan="1" colspan="1">Baseline <italic>vs.</italic> after 6 Months</th></tr><tr><th align="center" valign="middle" rowspan="1" colspan="1">Sarcosine (Mean &#x000b1; SD)</th><th align="center" valign="middle" rowspan="1" colspan="1">Placebo (Mean &#x000b1; SD)</th><th align="center" valign="middle" rowspan="1" colspan="1"><italic>p</italic>-Level</th><th align="center" valign="middle" rowspan="1" colspan="1">Sarcosine (Mean &#x000b1; SD)</th><th align="center" valign="middle" rowspan="1" colspan="1">Placebo (Mean &#x000b1; SD)</th><th align="center" valign="middle" rowspan="1" colspan="1"><italic>p</italic>-Level</th><th align="center" valign="middle" rowspan="1" colspan="1">Sarcosine <italic>p</italic>-Level</th><th align="center" valign="middle" rowspan="1" colspan="1">Placebo <italic>p</italic>-Level</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">NAA/Cr</td><td align="center" valign="middle" rowspan="1" colspan="1">1.50 (0.65)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.61 (0.55)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">1.77 (0.30)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.69 (0.27)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">0.0171</td><td align="center" valign="middle" rowspan="1" colspan="1">0.0468</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Cho/Cr</td><td align="center" valign="middle" rowspan="1" colspan="1">0.75 (0.24)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.72 (0.38)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">0.72 (0.15)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.83 (0.51)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">mI/Cr</td><td align="center" valign="middle" rowspan="1" colspan="1">0.28 (0.13)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.26 (0.11)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">0.38 (0.13)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.28 (0.09)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.0310</td><td align="center" valign="middle" rowspan="1" colspan="1">0.0309</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Glx/Cr</td><td align="center" valign="middle" rowspan="1" colspan="1">1.10 (0.76)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.94 (0.30)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">0.77 (0.29)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.80 (0.29)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">NAA/Cho</td><td align="center" valign="middle" rowspan="1" colspan="1">2.23 (1.12)</td><td align="center" valign="middle" rowspan="1" colspan="1">2.08 (0.72)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">2.61 (0.69)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.93 (0.58)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.0061</td><td align="center" valign="middle" rowspan="1" colspan="1">0.0468</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">mI/Cho</td><td align="center" valign="middle" rowspan="1" colspan="1">0.43 (0.16)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.46 (0.64)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">0.71 (0.25)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.49 (0.19)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.0075</td><td align="center" valign="middle" rowspan="1" colspan="1">0.0064</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Glx/Cho</td><td align="center" valign="middle" rowspan="1" colspan="1">0.99 (0.66)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.81 (0.20)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">0.99 (0.13)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.01 (0.34)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr></tbody></table><table-wrap-foot><fn><p>NAA, <italic>N</italic>-acetylaspartate; Cr, creatine; Cho, choline; mI, myo-inositol; Glx, glutamate, glutamine and GABA.</p></fn></table-wrap-foot></table-wrap><p>In a second spectroscopy NAA/Cho, mI/Cr and mI/Cho ratios were significantly higher in patients receiving sarcosine. Moreover in experimental group after the therapy NAA/Cr, NAA/Cho, mI/Cr, mI/Cho ratios increased significantly, comparing to baseline values.</p><p>Only NAA/Cr ratio increased after therapy in the placebo group, although to a lesser extent than in the sarcosine group (4.9% <italic>vs.</italic> 18%).</p><p>At the beginning of the study, no significant difference was noted between groups with regard to PANSS score (71.4 &#x000b1; 14 <italic>vs.</italic> 73.3 &#x000b1; 13 points in total score for sarcosine and placebo groups, respectively; <italic>p</italic> = 0.6736). However, at the end of the experiment, patients treated with sarcosine had significantly lower results (57.7 &#x000b1; 15 <italic>vs.</italic> 71.5 &#x000b1; 13 points for sarcosine and placebo group, respectively; <italic>p</italic> = 0.00487). Changes in the negative PANSS subscale followed the trends of the total PANSS subscale. At the beginning of the study there was no significant difference between groups (25.4 &#x000b1; 5.2 <italic>vs.</italic> 26.1 &#x000b1; 5 points for sarcosine and placebo groups, respectively; <italic>p</italic> = 0.45085). While the negative PANSS score decreased significantly in both groups (25.4 &#x000b1; 5.2 <italic>vs.</italic> 18.6 &#x000b1; 6.1 for the sarcosine group, <italic>p</italic> = 0.0000; and 26.1 &#x000b1; 5 <italic>vs.</italic> 25.4 &#x000b1; 4.7 for the placebo group, <italic>p</italic> = 0.03031), this decrease was greater in the sarcosine group (18.6 &#x000b1; 6.1 <italic>vs.</italic> 25.4 &#x000b1; 4.7; <italic>p</italic> = 0.00001). The difference in metabolite ratios and negative PANSS subscale scores were calculated between the start-point and end-point of the experiment. Correlations between these differences are presented in <xref ref-type="table" rid="ijms-16-24475-t002">Table 2</xref> and in <xref ref-type="fig" rid="ijms-16-24475-f001">Figure 1</xref>.</p><p>At the time of writing, this paper was the first attempt to spectroscopically assess the impact of the glutamatergic system modulators, particularly sarcosine, on metabolite concentrations in the DLPFC in patients with schizophrenia. Significant changes in the spectral characteristics co-occurring with alleviation of symptoms, assessed with the PANSS scale, imply that two grams of sarcosine daily sufficiently penetrates the blood-brain barrier to modify the neuronal activity in patients with schizophrenia. Moreover, significant negative correlations between differences in negative PANSS subscale score and spectroscopic parameters (NAA/Cho and mI/Cho ratios) suggest that these ratios might quantitatively correspond with clinical outcomes of therapeutic intervention.</p><fig id="ijms-16-24475-f001" position="float"><label>Figure 1</label><caption><p>Correlation between the differences in metabolite ratios (<bold>A</bold>) NAA/Cho; (<bold>B</bold>) NAA/Cr; (<bold>C</bold>) mI/Cho; (<bold>D</bold>) mI/Cr and differences in negative PANSS subscale score.</p></caption><graphic xlink:href="ijms-16-24475-g001"/></fig><table-wrap id="ijms-16-24475-t002" position="float"><object-id pub-id-type="pii">ijms-16-24475-t002_Table 2</object-id><label>Table 2</label><caption><p>Correlation between differences in the score of the negative PANSS subscale and metabolite ratios assessed at the beginning and at the end of the experiment.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1">Differences in Metabolite Ratios Correlated with the PANSS Negative Subscale Score</th><th align="center" valign="middle" rowspan="1" colspan="1">Spearman&#x02019;s Correlation Coefficient</th><th align="center" valign="middle" rowspan="1" colspan="1"><italic>p</italic>-Value</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">NAA/Cr</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;0.130768</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Cho/Cr</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;0.200251</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">mI/Cr</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;0.089075</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Glx/Cr</td><td align="center" valign="middle" rowspan="1" colspan="1">0.630062</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">NAA/Cho</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;0.562891</td><td align="center" valign="middle" rowspan="1" colspan="1">0.000026</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">mI/Cho</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;0.288039</td><td align="center" valign="middle" rowspan="1" colspan="1">0.044752</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Glx/Cho</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;0.200251</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr></tbody></table></table-wrap><sec id="sec2dot1-ijms-16-24475"><title>2.1. NAA (N-Acetylaspartate)</title><p><italic>N</italic>-acetylaspartate is one of the most common amino acid in the human brain. It is synthesized in neuronal mitochondria and its production closely correlates with glucose metabolism. Due to the fact that it is not present in glial cells, it reflects neuronal activity well [<xref rid="B45-ijms-16-24475" ref-type="bibr">45</xref>].</p><p>In our study, both NAA ratios (NAA/Cr and NAA/Cho) in the sarcosine group were significantly higher after six months, indicating an increase of neuronal viability in the DLPFC. In the placebo group, the NAA/Cr ratio was also significantly raised, however, the change was less distinct. Our findings indicate that sarcosine (and probably other GlyT1 inhibitors) might normalize disturbances in brain metabolism and reverse the tendency for NAA levels to decline in schizophrenia. Increased NAA concentrations were also described as an effect of the antipsychotic drugs [<xref rid="B34-ijms-16-24475" ref-type="bibr">34</xref>], which may confirm the value of glutamatergic therapy in the management of schizophrenia. Further investigations should assess whether they act synergistically, and if NAA concentration can be used as a marker of clinical outcome.</p></sec><sec id="sec2dot2-ijms-16-24475"><title>2.2. Glx (Complex of Glutamate, Glutamine and GABA)</title><p>An evaluation of Glx level was performed instead of separate glutamine, glutamate and GABA evaluations, as their peaks closely overlap in 1.5 Tesla spectroscopy. Glx is a surrogate of glutamatergic transmission in grey matter as the concentration of glutamate is five times higher than that of glutamine, and 10 times higher than GABA [<xref rid="B46-ijms-16-24475" ref-type="bibr">46</xref>].</p><p>In schizophrenia, hypofunction of the NMDA receptor may involve GABAergic interneurons, which would result in disturbed glutamatergic transmission [<xref rid="B47-ijms-16-24475" ref-type="bibr">47</xref>]. Moreover, there is a decrease of glutamate receptor density on GABAergic interneurons [<xref rid="B48-ijms-16-24475" ref-type="bibr">48</xref>]. The summary effect is the inadequate inhibition of glutamatergic neurons, observed in electroencephalography as disturbances of coherent neuronal oscillation at a rate below 0.1 Hz [<xref rid="B49-ijms-16-24475" ref-type="bibr">49</xref>] and &#x003b3; rhythms (25&#x02013;100 Hz) in PFC [<xref rid="B47-ijms-16-24475" ref-type="bibr">47</xref>,<xref rid="B50-ijms-16-24475" ref-type="bibr">50</xref>,<xref rid="B51-ijms-16-24475" ref-type="bibr">51</xref>,<xref rid="B52-ijms-16-24475" ref-type="bibr">52</xref>]. This information noise negatively affects the concentration process and cognitive functions [<xref rid="B53-ijms-16-24475" ref-type="bibr">53</xref>,<xref rid="B54-ijms-16-24475" ref-type="bibr">54</xref>,<xref rid="B55-ijms-16-24475" ref-type="bibr">55</xref>]. Furthermore it can promote hallucinations [<xref rid="B56-ijms-16-24475" ref-type="bibr">56</xref>], delusions, and disturbances of the thinking processes and cognitive functions typical of acute psychosis. One of the causes of these pathological conditions is a dysfunction of default mode network (DMN), the &#x0201c;rest system&#x02019; of the brain, which should be switched off when working memory networks such as the external attention system (EAS) are activated [<xref rid="B53-ijms-16-24475" ref-type="bibr">53</xref>]. In schizophrenia, DMN deactivation is impaired, increasing information noise, intensifying cognitive dysfunction [<xref rid="B53-ijms-16-24475" ref-type="bibr">53</xref>,<xref rid="B57-ijms-16-24475" ref-type="bibr">57</xref>] and general functioning problems [<xref rid="B58-ijms-16-24475" ref-type="bibr">58</xref>].</p><p>There is no consensus on the glutamate concentration in the DLPFC of patients with schizophrenia [<xref rid="B59-ijms-16-24475" ref-type="bibr">59</xref>]. Kegeles <italic>et al.</italic> showed no significant differences in Glx concentrations between healthy volunteers and groups of medicated and unmedicated patients with schizophrenia [<xref rid="B60-ijms-16-24475" ref-type="bibr">60</xref>]. Only three studies have assessed effects of antipsychotics on Glx parameters in the DLPFC before and after treatment. Two studies explored the first episode of schizophrenia: Stanley <italic>et al.</italic> report a decrease in glutamine levels after 14 weeks of antipsychotic therapy [<xref rid="B61-ijms-16-24475" ref-type="bibr">61</xref>], and Goto <italic>et al.</italic> note decreased Glx levels in patients after six months of treatment with second-generation antipsychotics [<xref rid="B62-ijms-16-24475" ref-type="bibr">62</xref>]. Research conducted in a Polish population showed no changes in Glx levels between baseline assessment and after 40 days of antipsychotic treatment in patients with chronic stage of schizophrenia. However, responders had lower Glx levels at baseline when compared to non-responders [<xref rid="B46-ijms-16-24475" ref-type="bibr">46</xref>,<xref rid="B63-ijms-16-24475" ref-type="bibr">63</xref>].</p><p>On the other hand, the administration of ketamine, an NMDA receptor antagonist whose effect is opposite to sarcosine, resulted in increased glutamatergic transmission in ACC [<xref rid="B64-ijms-16-24475" ref-type="bibr">64</xref>,<xref rid="B65-ijms-16-24475" ref-type="bibr">65</xref>].</p><p>Most studies have failed to find any significant correlation between glutamatergic parameters and PANSS score [<xref rid="B46-ijms-16-24475" ref-type="bibr">46</xref>,<xref rid="B60-ijms-16-24475" ref-type="bibr">60</xref>,<xref rid="B66-ijms-16-24475" ref-type="bibr">66</xref>,<xref rid="B67-ijms-16-24475" ref-type="bibr">67</xref>,<xref rid="B68-ijms-16-24475" ref-type="bibr">68</xref>]. Kegeles <italic>et al.</italic> report that PANSS positive symptoms subscale scores significantly correlated with levels of GABA and Glx only in MPFC but not in DLPFC [<xref rid="B60-ijms-16-24475" ref-type="bibr">60</xref>].</p><p>In the present study, a trend was observed towards a decrease of Glx/Cr ratio in both groups. Although it was more expressed in the sarcosine group, the differences were not significant. Further studies using discreet analysis with a stronger magnetic field are required to support more reliable conclusions.</p></sec><sec id="sec2dot3-ijms-16-24475"><title>2.3. mI (myo-Inositol)</title><p>Myoinositol is a precursor in the transmission of phosphatidylinositol, which is a widely accepted glial marker [<xref rid="B69-ijms-16-24475" ref-type="bibr">69</xref>]. In neurodegenerative processes, increased mI concentrations co-occur with reduced NAA concentrations.</p><p>Significant increases of mI/Cr and mI/Cho ratios in the sarcosine group between two spectroscopies, and in comparison with the placebo group, might indicate unfavourable changes. However, some researchers report greater mI concentrations to be associated with treatment [<xref rid="B41-ijms-16-24475" ref-type="bibr">41</xref>,<xref rid="B70-ijms-16-24475" ref-type="bibr">70</xref>]. Thus, administration of sarcosine may secondarily activate glial cells, mostly astrocytes, because glycine transporters and other glutamatergic system transporters are abundant in their cell membranes [<xref rid="B71-ijms-16-24475" ref-type="bibr">71</xref>].</p></sec><sec id="sec2dot4-ijms-16-24475"><title>2.4. Limitations of the Study</title><p>Due to the limited number of patients and application of 1.5 Tesla magnetic resonance, conclusions should be formulated moderately, as precise separation of glutamate, glutamine and GABA spectra requires a 3 Tesla magnetic field, or higher. Analysis of GABA concentration could be of special interest, because sarcosine indirectly acts on the NMDA receptors located also on GABAergic interneurons. A few studies have found that GABA concentrations varied depending on the analyzed region, including different parts of the frontal cortex [<xref rid="B60-ijms-16-24475" ref-type="bibr">60</xref>,<xref rid="B72-ijms-16-24475" ref-type="bibr">72</xref>]. On the other hand, prior research has revealed an absence of abnormalities in glutamate or glutamine concentrations in the DLPFC of unmedicated patients with schizophrenia. Thus, the absence of schizophrenia-related glutamate abnormalities in this region may limit the ability to detect a treatment-related change in Glx ratios, which could be detectable in other regions where baseline abnormalities were found, such as the MPFC, striatum, hippocampus or thalamus.</p><p>Another important limitation of this work is its application of ratios of metabolites concentrations instead of exact concentrations. Despite changes of Cr and Cho concentrations, depending on duration of schizophrenia, it has previously be demonstrated that treatment with either atypical or typical medication does not alter Cr or Cho levels [<xref rid="B73-ijms-16-24475" ref-type="bibr">73</xref>]. Thus, ratios might have a good intra-subject validity [<xref rid="B73-ijms-16-24475" ref-type="bibr">73</xref>].</p><p>Finally, it should be noted that applied statistical methods did not protect against Type I errors associated with multiple testing. However, although significant differences in particular metabolites could be obtained by chance, the clinical improvement seems to confirm their relevance.</p></sec></sec><sec id="sec3-ijms-16-24475"><title>3. Experimental Section</title><p>Subjects with schizophrenia, aged 18&#x02013;60 years who were physically, neurologically and endocrinologically healthy and had normal laboratory values (routine blood tests, biochemical tests including thyroid stimulating hormone, lipid profile, liver and kidney parameters) and electrocardiogram were eligible to enter the study. Patients in acute psychosis, on clozapine treatment or declaring suicidal tendencies were excluded from the study. This study is a part of the Polish Sarcosine Study in Schizophrenia (PULSAR); for further details, please see acknowledgments.</p><p>Fifty right-handed patients diagnosed with schizophrenia (according to Diagnostic and Statistical Manual of Mental Disorders, 4th Edition, Text Revision (DSM-IV-TR) criteria) with dominant negative symptoms, and who were in a stable clinical condition, were randomly assigned to a sarcosine or placebo group. <sup>1</sup>H-NMR spectroscopy was performed according to the protocol described below at the beginning of the study and six months later. Sarcosine or placebo were added to the ongoing antipsychotic treatment in a double-blind manner. Patients in the study group were given plastic capsules containing 2 grams of the amino acid, while subjects in the placebo group (similar age, sex, clinical presentation, duration of schizophrenia and treatment, <xref ref-type="table" rid="ijms-16-24475-t003">Table 3</xref>) received capsules with microcrystalline cellulose. Subjects in both groups were ordered to drink the dissolved contents of one capsule once a day in the morning. All patients were treated with stable doses of antipsychotic and other medication for a minimum of three months before the baseline visit. Doses of antipsychotic and antidepressive drugs were calculated for defined daily dose (DDD) developed by the World Health Organization. Antidepressants were used as a supportive therapy [<xref rid="B74-ijms-16-24475" ref-type="bibr">74</xref>] in 14 patients from the sarcosine group and 11 from the placebo group. The differences in the numbers of treated patients and doses in each group were not significant (<italic>p</italic> &#x0003e; 0.05). The severity of schizophrenia symptoms was assessed with the Positive and Negative Syndrome Scale (PANSS) [<xref rid="B75-ijms-16-24475" ref-type="bibr">75</xref>].</p><p>Subjects were recruited from the outpatient clinic. All patients included in the study have been informed about the aims and methods of the study, and had expressed their written informed consent for participation in this study. The study protocol was approved by the Bioethics Committee of the Medical University of &#x00141;&#x000f3;d&#x0017a; (permission number and date: RNN/153/08/KE, 15.07.2008). There was no financial involvement from industry.</p><table-wrap id="ijms-16-24475-t003" position="float"><object-id pub-id-type="pii">ijms-16-24475-t003_Table 3</object-id><label>Table 3</label><caption><p>Group characteristics.</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" colspan="2" align="center" valign="middle">Features</th><th colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">Group</th><th rowspan="2" align="center" valign="middle" colspan="1"><italic>p</italic>-Value</th></tr><tr><th align="center" valign="middle" rowspan="1" colspan="1">Sarcosine (<italic>n</italic> = 25)</th><th align="center" valign="middle" rowspan="1" colspan="1">Placebo (<italic>n</italic> = 25)</th></tr></thead><tbody><tr style="border-bottom:solid thin"><td rowspan="2" align="center" valign="middle" colspan="1">Gender</td><td align="center" valign="middle" rowspan="1" colspan="1">Female</td><td align="center" valign="middle" rowspan="1" colspan="1">14</td><td align="center" valign="middle" rowspan="1" colspan="1">12</td><td rowspan="2" align="center" valign="middle" colspan="1">&#x0003e;0.05</td></tr><tr style="border-bottom:solid thin"><td align="center" valign="middle" rowspan="1" colspan="1">Male</td><td align="center" valign="middle" rowspan="1" colspan="1">11</td><td align="center" valign="middle" rowspan="1" colspan="1">13</td></tr><tr style="border-bottom:solid thin"><td colspan="2" align="center" valign="middle" rowspan="1">Age (mean)</td><td align="center" valign="middle" rowspan="1" colspan="1">36.5</td><td align="center" valign="middle" rowspan="1" colspan="1">40</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr style="border-bottom:solid thin"><td colspan="2" align="center" valign="middle" rowspan="1">Mean number of hospitalizations</td><td align="center" valign="middle" rowspan="1" colspan="1">5</td><td align="center" valign="middle" rowspan="1" colspan="1">4</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr style="border-bottom:solid thin"><td colspan="2" align="center" valign="middle" rowspan="1">Mean duration of the illness (years)</td><td align="center" valign="middle" rowspan="1" colspan="1">12.3</td><td align="center" valign="middle" rowspan="1" colspan="1">13.2</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr style="border-bottom:solid thin"><td colspan="2" align="center" valign="middle" rowspan="1">Mean timespan of education per patient</td><td align="center" valign="middle" rowspan="1" colspan="1">14.2</td><td align="center" valign="middle" rowspan="1" colspan="1">14.4</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr style="border-bottom:solid thin"><td colspan="2" align="center" valign="middle" rowspan="1">Antipsychotic treatment (DDD)</td><td align="center" valign="middle" rowspan="1" colspan="1">1.94</td><td align="center" valign="middle" rowspan="1" colspan="1">1.97</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr style="border-bottom:solid thin"><td colspan="2" align="center" valign="middle" rowspan="1">Antidepressive treatment (DDD)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.58</td><td align="center" valign="middle" rowspan="1" colspan="1">0.6</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr><tr><td colspan="2" align="center" valign="middle" rowspan="1">PANSS total (&#x000b1;SD)</td><td align="center" valign="middle" rowspan="1" colspan="1">71.4 &#x000b1; 14</td><td align="center" valign="middle" rowspan="1" colspan="1">73.3 &#x000b1; 13</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;0.05</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviations: <italic>n</italic>, number of patients; DDD, defined daily dose; PANSS, the Positive and Negative Syndrome Scale; SD, standard deviation.</p></fn></table-wrap-foot></table-wrap><sec id="sec3dot1-ijms-16-24475"><title>3.1. Spectroscopy</title><p>Imaging was performed using 1.5 Tesla MR scanner (Siemens Avanto 1.5, Siemens AG, Munich, Germany) equipped with a standard head coil.</p><p>NMR acquisition:</p><p>(1) FLAIR sequences in axial plane with following parameters: Repetition Time (TR), 9000 ms; Echo Time (TE), 105 ms; inversion time (TI), 2500 ms; flip angle, 150&#x000b0;; voxel size 1.4 mm &#x000d7; 1.3 mm &#x000d7; 3 mm.</p><p>(2) T2-weighted sequences were obtained in coronal plane with following parameters: TR = 5000 ms; TE = 100 ms; flip angle, 50&#x000b0;; voxel size 0.6 mm &#x000d7; 0.6 mm &#x000d7; 5.0 mm.</p><p>(3) T1-weighted sequences in transverse plane with following parameters: TR = 400 ms; TE = 7.8 ms; flip angle, 90&#x000b0;; voxel size 0.9 mm &#x000d7; 0.9 mm &#x000d7; 0.5 mm.</p><p><sup>1</sup>H-MRS data was acquired by single voxel spectroscopy (SVS) using a point resolved spin echo (PRESS) sequence 128 averages; TR, 3000 ms; TE, 30 ms; voxel size was 15 mm &#x000d7; 15 mm &#x000d7; 15 mm. The region of interest was placed in the left DLPFC by the neuroradiologist (<xref ref-type="fig" rid="ijms-16-24475-f002">Figure 2</xref>). During the second spectroscopy, voxel localization parameters were copied and adjusted to the position of patient. Automated procedures were used to optimize radiofrequency pulse power, field homogeneity, and water suppression, as well as to convert the lines into a Gaussian shape. Spectroscopy data was processed by means of Avanto Syngo MR Software (Siemens AG, Munich, Germany), Level B15. The processing included: k-space Fourier transformation and a spatial 50 Hz Hanning filter; subtraction of the residual water signal; time domain 1 Hz exponential apodization; zero filling to 2048 points; Fourier transformation of the time domain signals; frequency shift correction, phase correction and baseline correction. The fitting error was automatically computed as a deviation between theoretical and measured spectrum determined using the last squares method. Values less than 0.5 were considered satisfactory, however, in the whole group mean fitting error was 0.36 (SD, standard deviation 0.07). The following metabolites were assessed: NAA, Glx, mI, Cho and Cr. No absolute concentrations of metabolites were determined, but their ratios to Cr and Cho.</p><fig id="ijms-16-24475-f002" position="float"><label>Figure 2</label><caption><p>Images showing voxel location in the left DLPFC (dorso-lateral prefrontal cortex) area and an example before (white line) and after (red line) fitting. Peak areas for <italic>N</italic>-acetylaspartate (NAA); creatine (Cr and Cr2); choline (Cho); and myo-inositol (Ins dd1) are labelled.</p></caption><graphic xlink:href="ijms-16-24475-g002"/></fig></sec><sec id="sec3dot2-ijms-16-24475"><title>3.2. Statistical Analysis</title><p>Continuous variables are expressed as the mean &#x000b1; standard deviation (SD). The Shapiro-Wilk test was used to determine the normality of the data. As the distribution was skewed in one or both compared groups in all cases, the Mann-Whitney test was employed to compare the ratios of substance concentrations between groups, and the Wilcoxon sign-rank test was used for comparisons within the same group. To evaluate the association between changes in concentrations ratios and differences in PANSS score, the Spearman&#x02019;s rank correlation test was applied. Statistical analysis was performed using Statistica for Windows (version 12.0, StatSoft, Tulsa, OK, USA). A <italic>p</italic>-value of &#x02264;0.05 was considered significant.</p></sec></sec><sec id="sec4-ijms-16-24475"><title>4. Conclusions</title><p>Our findings demonstrate that addition of sarcosine to antipsychotic treatment can cause increases of NAA and mI in DLPFC. These changes were associated with clinical improvement. It indicates that sarcosine improves neuron viability and integrity, and may activate neuroglial cells in brain regions essential for the pathogenesis of schizophrenia. It highlights the role of glutamatergic transmission in the pathogenesis of schizophrenia and confirms that two grams of sarcosine administered daily may become an effective adjuvant in the management of schizophrenia.</p></sec></body><back><ack><title>Acknowledgments</title><p>The NMR study described here is a part of a larger project: the PULSAR study (Polish Sarcosine Study in Schizophrenia) supported by the Polish Ministry of Science and Higher Education (grant N402 268836). More details about the project is available on the Clinicaltrials.gov site, number NCT01503359.</p></ack><notes><title>Author Contributions</title><p>Dominik Strzelecki, Piotr Grzelak and Ludomir Stefa&#x00144;czyk conceived and designed the experiments; Dominik Strzelecki, Olga Ka&#x00142;u&#x0017c;y&#x00144;ska, Magdalena Kotlicka-Antczak, Agnieszka Gmitrowicz, Piotr Grzelak and Micha&#x00142; Podg&#x000f3;rski performed the experiments; Dominik Strzelecki and Micha&#x00142; Podg&#x000f3;rski analyzed the data and wrote the paper.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-ijms-16-24475"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGrath</surname><given-names>J.</given-names></name><name><surname>Saha</surname><given-names>S.</given-names></name><name><surname>Chant</surname><given-names>D.</given-names></name><name><surname>Welham</surname><given-names>J.</given-names></name></person-group>
+<article-title>Schizophrenia: A concise overview of incidence, prevalence, and mortality</article-title>
+<source>Epidemiol. Rev.</source>
+<year>2008</year>
+<volume>30</volume>
+<fpage>67</fpage>
+<lpage>76</lpage>
+<pub-id pub-id-type="doi">10.1093/epirev/mxn001</pub-id>
+<pub-id pub-id-type="pmid">18480098</pub-id></element-citation></ref><ref id="B2-ijms-16-24475"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lewis</surname><given-names>D.A.</given-names></name><name><surname>Lieberman</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Catching up on schizophrenia: Natural history and neurobiology</article-title>
+<source>Neuron</source>
+<year>2000</year>
+<volume>28</volume>
+<fpage>325</fpage>
+<lpage>334</lpage>
+<pub-id pub-id-type="doi">10.1016/S0896-6273(00)00111-2</pub-id>
+<pub-id pub-id-type="pmid">11144342</pub-id></element-citation></ref><ref id="B3-ijms-16-24475"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wahlberg</surname><given-names>K.E.</given-names></name><name><surname>Wynne</surname><given-names>L.C.</given-names></name><name><surname>Hakko</surname><given-names>H.</given-names></name><name><surname>Laksy</surname><given-names>K.</given-names></name><name><surname>Moring</surname><given-names>J.</given-names></name><name><surname>Miettunen</surname><given-names>J.</given-names></name><name><surname>Tienari</surname><given-names>P.</given-names></name></person-group>
+<article-title>Interaction of genetic risk and adoptive parent communication deviance: Longitudinal prediction of adoptee psychiatric disorders</article-title>
+<source>Psychol. Med.</source>
+<year>2004</year>
+<volume>34</volume>
+<fpage>1531</fpage>
+<lpage>1541</lpage>
+<pub-id pub-id-type="doi">10.1017/S0033291704002661</pub-id>
+<pub-id pub-id-type="pmid">15724883</pub-id></element-citation></ref><ref id="B4-ijms-16-24475"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Potkin</surname><given-names>S.G.</given-names></name><name><surname>Turner</surname><given-names>J.A.</given-names></name><name><surname>Brown</surname><given-names>G.G.</given-names></name><name><surname>McCarthy</surname><given-names>G.</given-names></name><name><surname>Greve</surname><given-names>D.N.</given-names></name><name><surname>Glover</surname><given-names>G.H.</given-names></name><name><surname>Manoach</surname><given-names>D.S.</given-names></name><name><surname>Belger</surname><given-names>A.</given-names></name><name><surname>Diaz</surname><given-names>M.</given-names></name><name><surname>Wible</surname><given-names>C.G.</given-names></name><etal/></person-group>
+<article-title>Working memory and DLPFC inefficiency in schizophrenia: the FBIRN study</article-title>
+<source>Schizophr. Bull.</source>
+<year>2009</year>
+<volume>35</volume>
+<fpage>19</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="doi">10.1093/schbul/sbn162</pub-id>
+<pub-id pub-id-type="pmid">19042912</pub-id></element-citation></ref><ref id="B5-ijms-16-24475"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morgane</surname><given-names>P.J.</given-names></name><name><surname>Galler</surname><given-names>J.R.</given-names></name><name><surname>Mokler</surname><given-names>D.J.</given-names></name></person-group>
+<article-title>A review of systems and networks of the limbic forebrain/limbic midbrain</article-title>
+<source>Prog. Neurobiol.</source>
+<year>2005</year>
+<volume>75</volume>
+<fpage>143</fpage>
+<lpage>160</lpage>
+<pub-id pub-id-type="doi">10.1016/j.pneurobio.2005.01.001</pub-id>
+<pub-id pub-id-type="pmid">15784304</pub-id></element-citation></ref><ref id="B6-ijms-16-24475"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mattson</surname><given-names>D.T.</given-names></name><name><surname>Berk</surname><given-names>M.</given-names></name><name><surname>Lucas</surname><given-names>M.D.</given-names></name></person-group>
+<article-title>A neuropsychological study of prefrontal lobe function in the positive and negative subtypes of schizophrenia</article-title>
+<source>J. Genet. Psychol.</source>
+<year>1997</year>
+<volume>158</volume>
+<fpage>487</fpage>
+<lpage>494</lpage>
+<pub-id pub-id-type="doi">10.1080/00221329709596685</pub-id>
+<pub-id pub-id-type="pmid">9423278</pub-id></element-citation></ref><ref id="B7-ijms-16-24475"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alvarez</surname><given-names>J.A.</given-names></name><name><surname>Emory</surname><given-names>E.</given-names></name></person-group>
+<article-title>Executive function and the frontal lobes: A meta-analytic review</article-title>
+<source>Neuropsychol. Rev.</source>
+<year>2006</year>
+<volume>16</volume>
+<fpage>17</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="doi">10.1007/s11065-006-9002-x</pub-id>
+<pub-id pub-id-type="pmid">16794878</pub-id></element-citation></ref><ref id="B8-ijms-16-24475"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Etkin</surname><given-names>A.</given-names></name><name><surname>Gyurak</surname><given-names>A.</given-names></name><name><surname>O&#x02019;Hara</surname><given-names>R.</given-names></name></person-group>
+<article-title>A neurobiological approach to the cognitive deficits of psychiatric disorders</article-title>
+<source>Dialogues Clin. Neurosci.</source>
+<year>2013</year>
+<volume>15</volume>
+<fpage>419</fpage>
+<lpage>429</lpage>
+<pub-id pub-id-type="pmid">24459409</pub-id></element-citation></ref><ref id="B9-ijms-16-24475"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Green</surname><given-names>M.F.</given-names></name><name><surname>Kern</surname><given-names>R.S.</given-names></name><name><surname>Heaton</surname><given-names>R.K.</given-names></name></person-group>
+<article-title>Longitudinal studies of cognition and functional outcome in schizophrenia: Implications for MATRICS</article-title>
+<source>Schizophr. Res.</source>
+<year>2004</year>
+<volume>72</volume>
+<fpage>41</fpage>
+<lpage>51</lpage>
+<pub-id pub-id-type="doi">10.1016/j.schres.2004.09.009</pub-id>
+<pub-id pub-id-type="pmid">15531406</pub-id></element-citation></ref><ref id="B10-ijms-16-24475"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carlsson</surname><given-names>A.</given-names></name><name><surname>Waters</surname><given-names>N.</given-names></name><name><surname>Waters</surname><given-names>S.</given-names></name><name><surname>Carlsson</surname><given-names>M.L.</given-names></name></person-group>
+<article-title>Network interactions in schizophrenia&#x02014;Therapeutic implications</article-title>
+<source>Brain Res. Rev.</source>
+<year>2000</year>
+<volume>31</volume>
+<fpage>342</fpage>
+<lpage>349</lpage>
+<pub-id pub-id-type="doi">10.1016/S0165-0173(99)00050-8</pub-id>
+<pub-id pub-id-type="pmid">10719161</pub-id></element-citation></ref><ref id="B11-ijms-16-24475"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coyle</surname><given-names>J.T.</given-names></name></person-group>
+<article-title>The glutamatergic dysfunction hypothesis for schizophrenia</article-title>
+<source>Harv. Rev. Psychiatry</source>
+<year>1996</year>
+<volume>3</volume>
+<fpage>241</fpage>
+<lpage>253</lpage>
+<pub-id pub-id-type="doi">10.3109/10673229609017192</pub-id>
+<pub-id pub-id-type="pmid">9384954</pub-id></element-citation></ref><ref id="B12-ijms-16-24475"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olney</surname><given-names>J.W.</given-names></name><name><surname>Newcomer</surname><given-names>J.W.</given-names></name><name><surname>Farber</surname><given-names>N.B.</given-names></name></person-group>
+<article-title>NMDA receptor hypofunction model of schizophrenia</article-title>
+<source>J. Psychiatr. Res.</source>
+<year>1999</year>
+<volume>33</volume>
+<fpage>523</fpage>
+<lpage>533</lpage>
+<pub-id pub-id-type="doi">10.1016/S0022-3956(99)00029-1</pub-id>
+<pub-id pub-id-type="pmid">10628529</pub-id></element-citation></ref><ref id="B13-ijms-16-24475"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kantrowitz</surname><given-names>J.</given-names></name><name><surname>Javitt</surname><given-names>D.C.</given-names></name></person-group>
+<article-title>Glutamatergic transmission in schizophrenia: From basic research to clinical practice</article-title>
+<source>Curr. Opin. Psychiatry</source>
+<year>2012</year>
+<volume>25</volume>
+<fpage>96</fpage>
+<lpage>102</lpage>
+<pub-id pub-id-type="doi">10.1097/YCO.0b013e32835035b2</pub-id>
+<pub-id pub-id-type="pmid">22297716</pub-id></element-citation></ref><ref id="B14-ijms-16-24475"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsai</surname><given-names>G.</given-names></name><name><surname>Lane</surname><given-names>H.Y.</given-names></name><name><surname>Yang</surname><given-names>P.</given-names></name><name><surname>Chong</surname><given-names>M.Y.</given-names></name><name><surname>Lange</surname><given-names>N.</given-names></name></person-group>
+<article-title>Glycine transporter I inhibitor, <italic>N</italic>-methylglycine (sarcosine), added to antipsychotics for the treatment of schizophrenia</article-title>
+<source>Biol. Psychiatry</source>
+<year>2004</year>
+<volume>55</volume>
+<fpage>452</fpage>
+<lpage>456</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2003.09.012</pub-id>
+<pub-id pub-id-type="pmid">15023571</pub-id></element-citation></ref><ref id="B15-ijms-16-24475"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lane</surname><given-names>H.Y.</given-names></name><name><surname>Chang</surname><given-names>Y.C.</given-names></name><name><surname>Liu</surname><given-names>Y.C.</given-names></name><name><surname>Chiu</surname><given-names>C.C.</given-names></name><name><surname>Tsai</surname><given-names>G.E.</given-names></name></person-group>
+<article-title>Sarcosine or <sc>d</sc>-serine add-on treatment for acute exacerbation of schizophrenia: A randomized, double-blind, placebo-controlled study</article-title>
+<source>Arch. Gen. Psychiatry</source>
+<year>2005</year>
+<volume>62</volume>
+<fpage>1196</fpage>
+<lpage>1204</lpage>
+<pub-id pub-id-type="doi">10.1001/archpsyc.62.11.1196</pub-id>
+<pub-id pub-id-type="pmid">16275807</pub-id></element-citation></ref><ref id="B16-ijms-16-24475"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lane</surname><given-names>H.Y.</given-names></name><name><surname>Lin</surname><given-names>C.H.</given-names></name><name><surname>Huang</surname><given-names>Y.J.</given-names></name><name><surname>Liao</surname><given-names>C.H.</given-names></name><name><surname>Chang</surname><given-names>Y.C.</given-names></name><name><surname>Tsai</surname><given-names>G.E.</given-names></name></person-group>
+<article-title>A randomized, double-blind, placebo-controlled comparison study of sarcosine (<italic>N</italic>-methylglycine) and <sc>d</sc>-serine add-on treatment for schizophrenia</article-title>
+<source>Int. J. Neuropsychopharmacol.</source>
+<year>2010</year>
+<volume>13</volume>
+<fpage>451</fpage>
+<lpage>460</lpage>
+<pub-id pub-id-type="doi">10.1017/S1461145709990939</pub-id>
+<pub-id pub-id-type="pmid">19887019</pub-id></element-citation></ref><ref id="B17-ijms-16-24475"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Amiaz</surname><given-names>R.</given-names></name><name><surname>Kent</surname><given-names>I.</given-names></name><name><surname>Rubinstein</surname><given-names>K.</given-names></name><name><surname>Sela</surname><given-names>B.A.</given-names></name><name><surname>Javitt</surname><given-names>D.</given-names></name><name><surname>Weiser</surname><given-names>M.</given-names></name></person-group>
+<article-title>Safety, tolerability and pharmacokinetics of open label sarcosine added on to anti-psychotic treatment in schizophrenia&#x02013;preliminary study</article-title>
+<source>Isr. J. Psychiatry Relat. Sci.</source>
+<year>2015</year>
+<volume>52</volume>
+<fpage>12</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="pmid">25841105</pub-id></element-citation></ref><ref id="B18-ijms-16-24475"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Singh</surname><given-names>S.P.</given-names></name><name><surname>Singh</surname><given-names>V.</given-names></name></person-group>
+<article-title>Meta-analysis of the efficacy of adjunctive NMDA receptor modulators in chronic schizophrenia</article-title>
+<source>CNS Drugs</source>
+<year>2011</year>
+<volume>25</volume>
+<fpage>859</fpage>
+<lpage>885</lpage>
+<pub-id pub-id-type="doi">10.2165/11586650-000000000-00000</pub-id>
+<pub-id pub-id-type="pmid">21936588</pub-id></element-citation></ref><ref id="B19-ijms-16-24475"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lane</surname><given-names>H.Y.</given-names></name><name><surname>Huang</surname><given-names>C.L.</given-names></name><name><surname>Wu</surname><given-names>P.L.</given-names></name><name><surname>Liu</surname><given-names>Y.C.</given-names></name><name><surname>Chang</surname><given-names>Y.C.</given-names></name><name><surname>Lin</surname><given-names>P.Y.</given-names></name><name><surname>Chen</surname><given-names>P.W.</given-names></name><name><surname>Tsai</surname><given-names>G.</given-names></name></person-group>
+<article-title>Glycine transporter I inhibitor, <italic>N</italic>-methylglycine (sarcosine), added to clozapine for the treatment of schizophrenia</article-title>
+<source>Biol. Psychiatry</source>
+<year>2006</year>
+<volume>60</volume>
+<fpage>645</fpage>
+<lpage>649</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2006.04.005</pub-id>
+<pub-id pub-id-type="pmid">16780811</pub-id></element-citation></ref><ref id="B20-ijms-16-24475"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lane</surname><given-names>H.Y.</given-names></name><name><surname>Liu</surname><given-names>Y.C.</given-names></name><name><surname>Huang</surname><given-names>C.L.</given-names></name><name><surname>Chang</surname><given-names>Y.C.</given-names></name><name><surname>Liau</surname><given-names>C.H.</given-names></name><name><surname>Perng</surname><given-names>C.H.</given-names></name><name><surname>Tsai</surname><given-names>G.E.</given-names></name></person-group>
+<article-title>Sarcosine (<italic>N</italic>-methylglycine) treatment for acute schizophrenia: A randomized, double-blind study</article-title>
+<source>Biol. Psychiatry</source>
+<year>2008</year>
+<volume>63</volume>
+<fpage>9</fpage>
+<lpage>12</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2007.04.038</pub-id>
+<pub-id pub-id-type="pmid">17659263</pub-id></element-citation></ref><ref id="B21-ijms-16-24475"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Steen</surname><given-names>R.G.</given-names></name><name><surname>Hamer</surname><given-names>R.M.</given-names></name><name><surname>Lieberman</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Measurement of brain metabolites by <sup>1</sup>H magnetic resonance spectroscopy in patients with schizophrenia: A systematic review and meta-analysis</article-title>
+<source>Neuropsychopharmacology</source>
+<year>2005</year>
+<volume>30</volume>
+<fpage>1949</fpage>
+<lpage>1962</lpage>
+<pub-id pub-id-type="doi">10.1038/sj.npp.1300850</pub-id>
+<pub-id pub-id-type="pmid">16123764</pub-id></element-citation></ref><ref id="B22-ijms-16-24475"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brugger</surname><given-names>S.</given-names></name><name><surname>Davis</surname><given-names>J.M.</given-names></name><name><surname>Leucht</surname><given-names>S.</given-names></name><name><surname>Stone</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Proton magnetic resonance spectroscopy and illness stage in schizophrenia&#x02014;A systematic review and meta-analysis</article-title>
+<source>Biol. Psychiatry</source>
+<year>2011</year>
+<volume>69</volume>
+<fpage>495</fpage>
+<lpage>503</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2010.10.004</pub-id>
+<pub-id pub-id-type="pmid">21145039</pub-id></element-citation></ref><ref id="B23-ijms-16-24475"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kraguljac</surname><given-names>N.V.</given-names></name><name><surname>Reid</surname><given-names>M.</given-names></name><name><surname>White</surname><given-names>D.</given-names></name><name><surname>Jones</surname><given-names>R.</given-names></name><name><surname>den Hollander</surname><given-names>J.</given-names></name><name><surname>Lowman</surname><given-names>D.</given-names></name><name><surname>Lahti</surname><given-names>A.C.</given-names></name></person-group>
+<article-title>Neurometabolites in schizophrenia and bipolar disorder&#x02014;A systematic review and meta-analysis</article-title>
+<source>Psychiatry Res.</source>
+<year>2012</year>
+<volume>203</volume>
+<fpage>111</fpage>
+<lpage>125</lpage>
+<pub-id pub-id-type="doi">10.1016/j.pscychresns.2012.02.003</pub-id>
+<pub-id pub-id-type="pmid">22981426</pub-id></element-citation></ref><ref id="B24-ijms-16-24475"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marsman</surname><given-names>A.</given-names></name><name><surname>van den Heuvel</surname><given-names>M.P.</given-names></name><name><surname>Klomp</surname><given-names>D.W.</given-names></name><name><surname>Kahn</surname><given-names>R.S.</given-names></name><name><surname>Luijten</surname><given-names>P.R.</given-names></name><name><surname>Hulshoff Pol</surname><given-names>H.E.</given-names></name></person-group>
+<article-title>Glutamate in schizophrenia: A focused review and meta-analysis of &#x000b9;H-MRS studies</article-title>
+<source>Schizophr. Bull.</source>
+<year>2013</year>
+<volume>39</volume>
+<fpage>120</fpage>
+<lpage>129</lpage>
+<pub-id pub-id-type="doi">10.1093/schbul/sbr069</pub-id>
+<pub-id pub-id-type="pmid">21746807</pub-id></element-citation></ref><ref id="B25-ijms-16-24475"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moffett</surname><given-names>J.R.</given-names></name><name><surname>Ross</surname><given-names>B.</given-names></name><name><surname>Arun</surname><given-names>P.</given-names></name><name><surname>Madhavarao</surname><given-names>C.N.</given-names></name><name><surname>Namboodiri</surname><given-names>A.M.</given-names></name></person-group>
+<article-title><italic>N</italic>-acetylaspartate in the CNS: From neurodiagnostics to neurobiology</article-title>
+<source>Prog. Neurobiol.</source>
+<year>2007</year>
+<volume>81</volume>
+<fpage>89</fpage>
+<lpage>131</lpage>
+<pub-id pub-id-type="doi">10.1016/j.pneurobio.2006.12.003</pub-id>
+<pub-id pub-id-type="pmid">17275978</pub-id></element-citation></ref><ref id="B26-ijms-16-24475"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meyerhoff</surname><given-names>D.J.</given-names></name><name><surname>MacKay</surname><given-names>S.</given-names></name><name><surname>Bachman</surname><given-names>L.</given-names></name><name><surname>Poole</surname><given-names>N.</given-names></name><name><surname>Dillon</surname><given-names>W.P.</given-names></name><name><surname>Weiner</surname><given-names>M.W.</given-names></name><name><surname>Fein</surname><given-names>G.</given-names></name></person-group>
+<article-title>Reduced brain <italic>N</italic>-acetylaspartate suggests neuronal loss in cognitively impaired human immunodeficiency virus-seropositive individuals: <italic>In vivo</italic>
+<sup>1</sup>H magnetic resonance spectroscopic imaging</article-title>
+<source>Neurology</source>
+<year>1993</year>
+<volume>43</volume>
+<fpage>509</fpage>
+<lpage>515</lpage>
+<pub-id pub-id-type="doi">10.1212/WNL.43.3_Part_1.509</pub-id>
+<pub-id pub-id-type="pmid">8450992</pub-id></element-citation></ref><ref id="B27-ijms-16-24475"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sager</surname><given-names>T.N.</given-names></name><name><surname>Topp</surname><given-names>S.</given-names></name><name><surname>Torup</surname><given-names>L.</given-names></name><name><surname>Hanson</surname><given-names>L.G.</given-names></name><name><surname>Egestad</surname><given-names>B.</given-names></name><name><surname>Moller</surname><given-names>A.</given-names></name></person-group>
+<article-title>Evaluation of CA1 damage using single-voxel 1H-MRS and un-biased stereology: Can non-invasive measures of <italic>N</italic>-acetyl-asparate following global ischemia be used as a reliable measure of neuronal damage?</article-title>
+<source>Brain Res.</source>
+<year>2001</year>
+<volume>892</volume>
+<fpage>166</fpage>
+<lpage>175</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-8993(00)03274-1</pub-id>
+<pub-id pub-id-type="pmid">11172761</pub-id></element-citation></ref><ref id="B28-ijms-16-24475"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bustillo</surname><given-names>J.R.</given-names></name><name><surname>Rowland</surname><given-names>L.M.</given-names></name><name><surname>Jung</surname><given-names>R.</given-names></name><name><surname>Brooks</surname><given-names>W.M.</given-names></name><name><surname>Qualls</surname><given-names>C.</given-names></name><name><surname>Hammond</surname><given-names>R.</given-names></name><name><surname>Hart</surname><given-names>B.</given-names></name><name><surname>Lauriello</surname><given-names>J.</given-names></name></person-group>
+<article-title>Proton magnetic resonance spectroscopy during initial treatment with antipsychotic medication in schizophrenia</article-title>
+<source>Neuropsychopharmacology</source>
+<year>2008</year>
+<volume>33</volume>
+<fpage>2456</fpage>
+<lpage>2466</lpage>
+<pub-id pub-id-type="doi">10.1038/sj.npp.1301631</pub-id>
+<pub-id pub-id-type="pmid">18094668</pub-id></element-citation></ref><ref id="B29-ijms-16-24475"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mondino</surname><given-names>M.</given-names></name><name><surname>Brunelin</surname><given-names>J.</given-names></name><name><surname>Saoud</surname><given-names>M.</given-names></name></person-group>
+<article-title><italic>N</italic>-acetyl-aspartate level is decreased in the prefrontal cortex in subjects at-risk for schizophrenia</article-title>
+<source>Front. Psychiatry</source>
+<year>2013</year>
+<volume>4</volume>
+<fpage>99</fpage>
+<pub-id pub-id-type="doi">10.3389/fpsyt.2013.00099</pub-id>
+<pub-id pub-id-type="pmid">24046751</pub-id></element-citation></ref><ref id="B30-ijms-16-24475"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fukuzako</surname><given-names>H.</given-names></name><name><surname>Kodama</surname><given-names>S.</given-names></name><name><surname>Fukuzako</surname><given-names>T.</given-names></name><name><surname>Yamada</surname><given-names>K.</given-names></name><name><surname>Doi</surname><given-names>W.</given-names></name><name><surname>Sato</surname><given-names>D.</given-names></name><name><surname>Takigawa</surname><given-names>M.</given-names></name></person-group>
+<article-title>Subtype-associated metabolite differences in the temporal lobe in schizophrenia detected by proton magnetic resonance spectroscopy</article-title>
+<source>Psychiatry Res.</source>
+<year>1999</year>
+<volume>92</volume>
+<fpage>45</fpage>
+<lpage>56</lpage>
+<pub-id pub-id-type="doi">10.1016/S0925-4927(99)00035-9</pub-id>
+<pub-id pub-id-type="pmid">10688159</pub-id></element-citation></ref><ref id="B31-ijms-16-24475"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fukuzako</surname><given-names>H.</given-names></name></person-group>
+<article-title>Heritability heightens brain metabolite differences in schizophrenia</article-title>
+<source>J. Neuropsychiatry Clin. Neurosci.</source>
+<year>2000</year>
+<volume>12</volume>
+<fpage>95</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="doi">10.1176/jnp.12.1.95</pub-id>
+<pub-id pub-id-type="pmid">10678520</pub-id></element-citation></ref><ref id="B32-ijms-16-24475"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bartha</surname><given-names>R.</given-names></name><name><surname>Williamson</surname><given-names>P.C.</given-names></name><name><surname>Drost</surname><given-names>D.J.</given-names></name><name><surname>Malla</surname><given-names>A.</given-names></name><name><surname>Carr</surname><given-names>T.J.</given-names></name><name><surname>Cortese</surname><given-names>L.</given-names></name><name><surname>Canaran</surname><given-names>G.</given-names></name><name><surname>Rylett</surname><given-names>R.J.</given-names></name><name><surname>Neufeld</surname><given-names>R.W.</given-names></name></person-group>
+<article-title>Measurement of glutamate and glutamine in the medial prefrontal cortex of never-treated schizophrenic patients and healthy controls by proton resonance spectroscopy</article-title>
+<source>Arch. Gen. Psychiatry</source>
+<year>1997</year>
+<volume>54</volume>
+<fpage>959</fpage>
+<lpage>965</lpage>
+<pub-id pub-id-type="doi">10.1001/archpsyc.1997.01830220085012</pub-id>
+<pub-id pub-id-type="pmid">9337777</pub-id></element-citation></ref><ref id="B33-ijms-16-24475"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bartha</surname><given-names>R.</given-names></name><name><surname>Al-Semaan</surname><given-names>Y.M.</given-names></name><name><surname>Williamson</surname><given-names>P.C.</given-names></name><name><surname>Drost</surname><given-names>D.J.</given-names></name><name><surname>Malla</surname><given-names>A.K.</given-names></name><name><surname>Carr</surname><given-names>T.J.</given-names></name><name><surname>Densmore</surname><given-names>M.</given-names></name><name><surname>Canaran</surname><given-names>G.</given-names></name><name><surname>Neufeld</surname><given-names>R.W.</given-names></name></person-group>
+<article-title>A short echo proton magnetic resonance spectroscopy study of the left mesial-temporal lobe in first-onset schizophrenic patients</article-title>
+<source>Biol. Psychiatry</source>
+<year>1999</year>
+<volume>45</volume>
+<fpage>1403</fpage>
+<lpage>1411</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-3223(99)00007-4</pub-id>
+<pub-id pub-id-type="pmid">10356621</pub-id></element-citation></ref><ref id="B34-ijms-16-24475"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bertolino</surname><given-names>A.</given-names></name><name><surname>Callicott</surname><given-names>J.H.</given-names></name><name><surname>Mattay</surname><given-names>V.S.</given-names></name><name><surname>Weidenhammer</surname><given-names>K.M.</given-names></name><name><surname>Rakow</surname><given-names>R.</given-names></name><name><surname>Egan</surname><given-names>M.F.</given-names></name><name><surname>Weinberger</surname><given-names>D.R.</given-names></name></person-group>
+<article-title>The effect of treatment with antipsychotic drugs on brain <italic>N</italic>-acetylaspartate measures in patients with schizophrenia</article-title>
+<source>Biol. Psychiatry</source>
+<year>2001</year>
+<volume>49</volume>
+<fpage>39</fpage>
+<lpage>46</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-3223(00)00997-5</pub-id>
+<pub-id pub-id-type="pmid">11163778</pub-id></element-citation></ref><ref id="B35-ijms-16-24475"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bustillo</surname><given-names>J.R.</given-names></name><name><surname>Lauriello</surname><given-names>J.</given-names></name><name><surname>Rowland</surname><given-names>L.M.</given-names></name><name><surname>Thomson</surname><given-names>L.M.</given-names></name><name><surname>Petropoulos</surname><given-names>H.</given-names></name><name><surname>Hammond</surname><given-names>R.</given-names></name><name><surname>Hart</surname><given-names>B.</given-names></name><name><surname>Brooks</surname><given-names>W.M.</given-names></name></person-group>
+<article-title>Longitudinal follow-up of neurochemical changes during the first year of antipsychotic treatment in schizophrenia patients with minimal previous medication exposure</article-title>
+<source>Schizophr. Res.</source>
+<year>2002</year>
+<volume>58</volume>
+<fpage>313</fpage>
+<lpage>321</lpage>
+<pub-id pub-id-type="doi">10.1016/S0920-9964(02)00210-4</pub-id>
+<pub-id pub-id-type="pmid">12409172</pub-id></element-citation></ref><ref id="B36-ijms-16-24475"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fannon</surname><given-names>D.</given-names></name><name><surname>Simmons</surname><given-names>A.</given-names></name><name><surname>Tennakoon</surname><given-names>L.</given-names></name><name><surname>O&#x02019;C&#x000e9;allaigh</surname><given-names>S.</given-names></name><name><surname>Sumich</surname><given-names>A.</given-names></name><name><surname>Doku</surname><given-names>V.</given-names></name><name><surname>Shew</surname><given-names>C.</given-names></name><name><surname>Sharma</surname><given-names>T.</given-names></name></person-group>
+<article-title>Selective deficit of hippocampal <italic>N</italic>-acetylaspartate in antipsychotic-naive patients with schizophrenia</article-title>
+<source>Biol. Psychiatry</source>
+<year>2003</year>
+<volume>54</volume>
+<fpage>587</fpage>
+<lpage>598</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-3223(03)00185-9</pub-id>
+<pub-id pub-id-type="pmid">13129653</pub-id></element-citation></ref><ref id="B37-ijms-16-24475"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Callicot</surname><given-names>J.H.</given-names></name><name><surname>Bertolino</surname><given-names>A.</given-names></name><name><surname>Egan</surname><given-names>M.F.</given-names></name><name><surname>Egan</surname><given-names>M.F.</given-names></name><name><surname>Mattay</surname><given-names>V.S.</given-names></name><name><surname>Langheim</surname><given-names>F.J.</given-names></name><name><surname>Weinberger</surname><given-names>D.R.</given-names></name></person-group>
+<article-title>Selective relationship between prefrontal <italic>N</italic>-acetylaspartate measures and negative symptoms in schizophrenia</article-title>
+<source>Am. J. Psychiatry</source>
+<year>2000</year>
+<volume>157</volume>
+<fpage>1646</fpage>
+<lpage>1651</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.157.10.1646</pub-id>
+<pub-id pub-id-type="pmid">11007719</pub-id></element-citation></ref><ref id="B38-ijms-16-24475"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Delamillieure</surname><given-names>P.</given-names></name><name><surname>Fernandez</surname><given-names>J.</given-names></name><name><surname>Constans</surname><given-names>J.M.</given-names></name><name><surname>Brazo</surname><given-names>P.</given-names></name><name><surname>Benali</surname><given-names>K.</given-names></name><name><surname>Abadie</surname><given-names>P.</given-names></name><name><surname>Vasse</surname><given-names>T.</given-names></name><name><surname>Thibaut</surname><given-names>F.</given-names></name><name><surname>Courth&#x000e9;oux</surname><given-names>P.</given-names></name><name><surname>Petit</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>Proton magnetic resonance spectroscopy of the medial prefrontal cortex in patients with deficit schizophrenia: Preliminary report</article-title>
+<source>Am. J. Psychiatry</source>
+<year>2000</year>
+<volume>157</volume>
+<fpage>641</fpage>
+<lpage>643</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.157.4.641</pub-id>
+<pub-id pub-id-type="pmid">10739430</pub-id></element-citation></ref><ref id="B39-ijms-16-24475"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tanaka</surname><given-names>Y.</given-names></name><name><surname>Obata</surname><given-names>T.</given-names></name><name><surname>Sassa</surname><given-names>T.</given-names></name><name><surname>Yoshitome</surname><given-names>E.</given-names></name><name><surname>Asai</surname><given-names>Y.</given-names></name><name><surname>Ikehira</surname><given-names>H.</given-names></name><name><surname>Suhara</surname><given-names>T.</given-names></name><name><surname>Okubo</surname><given-names>Y.</given-names></name><name><surname>Nishikawa</surname><given-names>T.</given-names></name></person-group>
+<article-title>Quantitative magnetic resonance spectroscopy of schizophrenia: Relationship between decreased <italic>N</italic>-acetylaspartate and frontal lobe dysfunction</article-title>
+<source>Psychiatry Clin. Neurosci.</source>
+<year>2006</year>
+<volume>60</volume>
+<fpage>365</fpage>
+<lpage>372</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1440-1819.2006.01515.x</pub-id>
+<pub-id pub-id-type="pmid">16732755</pub-id></element-citation></ref><ref id="B40-ijms-16-24475"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yamasue</surname><given-names>H.C.</given-names></name><name><surname>Fukui</surname><given-names>T.</given-names></name><name><surname>Fukuda</surname><given-names>R.</given-names></name><name><surname>Yamada</surname><given-names>H.</given-names></name><name><surname>Yamasaki</surname><given-names>S.</given-names></name><name><surname>Kuroki</surname><given-names>N.</given-names></name><name><surname>Abe</surname><given-names>O.</given-names></name><name><surname>Kasai</surname><given-names>K.</given-names></name><name><surname>Tsujii</surname><given-names>K.</given-names></name><name><surname>Iwanami</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title><sup>1</sup>H-MR spectroscopy and gray matter volume of the anterior cingulate cortex in schizophrenia</article-title>
+<source>Neuroreport</source>
+<year>2002</year>
+<volume>13</volume>
+<fpage>2133</fpage>
+<lpage>2137</lpage>
+<pub-id pub-id-type="doi">10.1097/00001756-200211150-00029</pub-id>
+<pub-id pub-id-type="pmid">12438941</pub-id></element-citation></ref><ref id="B41-ijms-16-24475"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Szulc</surname><given-names>A.</given-names></name><name><surname>Gali&#x00144;ska</surname><given-names>B.</given-names></name><name><surname>Taras&#x000f3;w</surname><given-names>E.</given-names></name><name><surname>Dzienis</surname><given-names>W.</given-names></name><name><surname>Kubas</surname><given-names>B.</given-names></name><name><surname>Konarzewska</surname><given-names>B.</given-names></name><name><surname>Walecki</surname><given-names>J.</given-names></name><name><surname>Alathiaki</surname><given-names>A.S.</given-names></name><name><surname>Czernikiewicz</surname><given-names>A.</given-names></name></person-group>
+<article-title>The effect of risperidone on metabolite measures in the frontal lobe, temporal lobe, and thalamus in schizophrenic patients: A proton magnetic resonance spectroscopy (<sup>1</sup>H MRS)</article-title>
+<source>Pharmacopsychiatry</source>
+<year>2005</year>
+<volume>38</volume>
+<fpage>214</fpage>
+<lpage>219</lpage>
+<pub-id pub-id-type="doi">10.1055/s-2005-873156</pub-id>
+<pub-id pub-id-type="pmid">16189748</pub-id></element-citation></ref><ref id="B42-ijms-16-24475"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Braus</surname><given-names>D.F.</given-names></name><name><surname>Ende</surname><given-names>G.</given-names></name><name><surname>Weber-Fahr</surname><given-names>W.</given-names></name><name><surname>Demirakca</surname><given-names>T.</given-names></name><name><surname>Tost</surname><given-names>H.</given-names></name><name><surname>Henn</surname><given-names>F.A.</given-names></name></person-group>
+<article-title>Functioning and neuronal viability of the anterior cingulate neurons following antipsychotic treatment: MR-spectroscopic imaging in chronic schizophrenia</article-title>
+<source>Eur. Neuropsychopharmacol.</source>
+<year>2002</year>
+<volume>12</volume>
+<fpage>145</fpage>
+<lpage>152</lpage>
+<pub-id pub-id-type="doi">10.1016/S0924-977X(02)00003-2</pub-id>
+<pub-id pub-id-type="pmid">11872332</pub-id></element-citation></ref><ref id="B43-ijms-16-24475"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Braus</surname><given-names>D.F.</given-names></name><name><surname>Ende</surname><given-names>G.</given-names></name><name><surname>Weber-Fahr</surname><given-names>W.</given-names></name><name><surname>Demirakca</surname><given-names>T.</given-names></name><name><surname>Henn</surname><given-names>F.A.</given-names></name></person-group>
+<article-title>Favorable effect on neuronal viability in the anterior cingulate gyrus due to long-term treatment with atypical antipsychotics: An MRSI study</article-title>
+<source>Pharmacopsychiatry</source>
+<year>2001</year>
+<volume>34</volume>
+<fpage>251</fpage>
+<lpage>253</lpage>
+<pub-id pub-id-type="doi">10.1055/s-2001-18037</pub-id>
+<pub-id pub-id-type="pmid">11778146</pub-id></element-citation></ref><ref id="B44-ijms-16-24475"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Szulc</surname><given-names>A.</given-names></name><name><surname>Gali&#x00144;ska</surname><given-names>B.</given-names></name><name><surname>Taras&#x000f3;w</surname><given-names>E.</given-names></name><name><surname>Kubas</surname><given-names>B.</given-names></name><name><surname>Dzienis</surname><given-names>W.</given-names></name><name><surname>Konarzewska</surname><given-names>B.</given-names></name><name><surname>Poplawska</surname><given-names>R.</given-names></name><name><surname>Tomczak</surname><given-names>A.A.</given-names></name><name><surname>Czernikiewicz</surname><given-names>A.</given-names></name><name><surname>Walecki</surname><given-names>J.</given-names></name></person-group>
+<article-title><italic>N</italic>-acetylaspartate (NAA) levels in selected areas of the brain in patients with chronic schizophrenia treated with typical and atypical neuroleptics: A proton magnetic resonance spectroscopy (<sup>1</sup>H-MRS) study</article-title>
+<source>Med. Sci. Monit.</source>
+<year>2007</year>
+<volume>13</volume>
+<fpage>17</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="pmid">17507880</pub-id></element-citation></ref><ref id="B45-ijms-16-24475"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moreno</surname><given-names>A.</given-names></name><name><surname>Ross</surname><given-names>B.D.</given-names></name><name><surname>Bluml</surname><given-names>S.</given-names></name></person-group>
+<article-title>Direct determination of the <italic>N</italic>-acetyl-<sc>l</sc>-aspartate synthesis rate in the human brain by <sup>13</sup>C MRS and [1-<sup>13</sup>C] glucose infusion</article-title>
+<source>J. Neurochem.</source>
+<year>2001</year>
+<volume>77</volume>
+<fpage>347</fpage>
+<lpage>350</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1471-4159.2001.t01-1-00282.x</pub-id>
+<pub-id pub-id-type="pmid">11279290</pub-id></element-citation></ref><ref id="B46-ijms-16-24475"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Szulc</surname><given-names>A.</given-names></name><name><surname>Konarzewska</surname><given-names>B.</given-names></name><name><surname>Gali&#x00144;ska-Skok</surname><given-names>B.</given-names></name><name><surname>&#x00141;azarczyk</surname><given-names>J.</given-names></name><name><surname>Waszkiewicz</surname><given-names>N.</given-names></name><name><surname>Taras&#x000f3;w</surname><given-names>E.</given-names></name><name><surname>Milewski</surname><given-names>R.</given-names></name><name><surname>Walecki</surname><given-names>J.</given-names></name></person-group>
+<article-title>Proton magnetic resonance spectroscopy measures related to short-term symptomatic outcome in chronic schizophrenia</article-title>
+<source>Neurosci. Lett.</source>
+<year>2013</year>
+<volume>547</volume>
+<fpage>37</fpage>
+<lpage>41</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neulet.2013.04.051</pub-id>
+<pub-id pub-id-type="pmid">23665527</pub-id></element-citation></ref><ref id="B47-ijms-16-24475"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lisman</surname><given-names>J.E.</given-names></name><name><surname>Coyle</surname><given-names>J.T.</given-names></name><name><surname>Green</surname><given-names>R.W.</given-names></name><name><surname>Javitt</surname><given-names>D.C.</given-names></name><name><surname>Benes</surname><given-names>F.M.</given-names></name><name><surname>Heckers</surname><given-names>S.</given-names></name><name><surname>Grace</surname><given-names>A.A.</given-names></name></person-group>
+<article-title>Circuit-based framework for understanding neurotransmitter and risk gene interactions in schizophrenia</article-title>
+<source>Trends Neurosci.</source>
+<year>2008</year>
+<volume>31</volume>
+<fpage>234</fpage>
+<lpage>242</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tins.2008.02.005</pub-id>
+<pub-id pub-id-type="pmid">18395805</pub-id></element-citation></ref><ref id="B48-ijms-16-24475"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bitanihirwe</surname><given-names>B.K.</given-names></name><name><surname>Lim</surname><given-names>M.P.</given-names></name><name><surname>Kelley</surname><given-names>J.F.</given-names></name><name><surname>Kaneko</surname><given-names>T.</given-names></name><name><surname>Woo</surname><given-names>T.U.</given-names></name></person-group>
+<article-title>Glutamatergic deficits and parvalbumin-containing inhibitory neurons in the prefrontal cortex in schizophrenia</article-title>
+<source>BMC Psychiatry</source>
+<year>2009</year>
+<volume>9</volume>
+<fpage>71</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-244X-9-71</pub-id>
+<pub-id pub-id-type="pmid">19917116</pub-id></element-citation></ref><ref id="B49-ijms-16-24475"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fox</surname><given-names>M.D.</given-names></name><name><surname>Raichle</surname><given-names>M.E.</given-names></name></person-group>
+<article-title>Spontaneous fluctuations in brain activity observed with functional magnetic resonance imaging</article-title>
+<source>Nat. Neurosci. Rev.</source>
+<year>2007</year>
+<volume>8</volume>
+<fpage>700</fpage>
+<lpage>711</lpage>
+<pub-id pub-id-type="doi">10.1038/nrn2201</pub-id>
+<pub-id pub-id-type="pmid">17704812</pub-id></element-citation></ref><ref id="B50-ijms-16-24475"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gonzalez-Burgos</surname><given-names>G.</given-names></name><name><surname>Lewis</surname><given-names>D.A.</given-names></name></person-group>
+<article-title>NMDA receptor hypofunction, parvalbumin-positive neurons, and cortical &#x003b3; oscillations in schizophrenia</article-title>
+<source>Schizophr. Bull.</source>
+<year>2012</year>
+<volume>38</volume>
+<fpage>950</fpage>
+<lpage>957</lpage>
+<pub-id pub-id-type="doi">10.1093/schbul/sbs010</pub-id>
+<pub-id pub-id-type="pmid">22355184</pub-id></element-citation></ref><ref id="B51-ijms-16-24475"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carl&#x000e9;n</surname><given-names>M.</given-names></name><name><surname>Meletis</surname><given-names>K.</given-names></name><name><surname>Siegle</surname><given-names>J.H.</given-names></name><name><surname>Cardin</surname><given-names>J.A.</given-names></name><name><surname>Futai</surname><given-names>K.</given-names></name><name><surname>Vierling-Claassen</surname><given-names>D.</given-names></name><name><surname>R&#x000fc;hlmann</surname><given-names>C.</given-names></name><name><surname>Jones</surname><given-names>S.R.</given-names></name><name><surname>Deisseroth</surname><given-names>K.</given-names></name><name><surname>Sheng</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>A critical role for NMDA receptors in parvalbumin interneurons for &#x003b3; rhythm induction and behavior</article-title>
+<source>Mol. Psychiatry</source>
+<year>2012</year>
+<volume>17</volume>
+<fpage>537</fpage>
+<lpage>548</lpage>
+<pub-id pub-id-type="doi">10.1038/mp.2011.31</pub-id>
+<pub-id pub-id-type="pmid">21468034</pub-id></element-citation></ref><ref id="B52-ijms-16-24475"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kocsis</surname><given-names>B.</given-names></name></person-group>
+<article-title>Differential role of NR2A and NR2B subunits in <italic>N</italic>-methyl-<sc>d</sc>-aspartate receptor antagonist-induced aberrant cortical &#x003b3; oscillations</article-title>
+<source>Biol. Psychiatry</source>
+<year>2012</year>
+<volume>71</volume>
+<fpage>987</fpage>
+<lpage>995</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2011.10.002</pub-id>
+<pub-id pub-id-type="pmid">22055014</pub-id></element-citation></ref><ref id="B53-ijms-16-24475"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fornito</surname><given-names>A.</given-names></name><name><surname>Harrison</surname><given-names>B.J.</given-names></name><name><surname>Zalesky</surname><given-names>A.</given-names></name><name><surname>Simons</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Competitive and cooperative dynamics of large-scale brain functional networks supporting recollection</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2012</year>
+<volume>109</volume>
+<fpage>12788</fpage>
+<lpage>12793</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1204185109</pub-id>
+<pub-id pub-id-type="pmid">22807481</pub-id></element-citation></ref><ref id="B54-ijms-16-24475"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garrity</surname><given-names>A.G.</given-names></name><name><surname>Pearlson</surname><given-names>G.D.</given-names></name><name><surname>McKiernan</surname><given-names>K.</given-names></name><name><surname>Lloyd</surname><given-names>D.</given-names></name><name><surname>Kiehl</surname><given-names>K.A.</given-names></name><name><surname>Calhoun</surname><given-names>V.D.</given-names></name></person-group>
+<article-title>Aberrant &#x0201c;default mode&#x0201d; functional connectivity in schizophrenia</article-title>
+<source>Am. J. Psychiatry</source>
+<year>2007</year>
+<volume>164</volume>
+<fpage>450</fpage>
+<lpage>457</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.164.3.450</pub-id>
+<pub-id pub-id-type="pmid">17329470</pub-id></element-citation></ref><ref id="B55-ijms-16-24475"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Landin-Romero</surname><given-names>R.</given-names></name><name><surname>McKenna</surname><given-names>P.J.</given-names></name><name><surname>Salgado-Pineda</surname><given-names>P.</given-names></name><name><surname>Sarr&#x000f3;</surname><given-names>S.</given-names></name><name><surname>Aguirre</surname><given-names>C.</given-names></name><name><surname>Sarri</surname><given-names>C.</given-names></name><name><surname>Compte</surname><given-names>A.</given-names></name><name><surname>Bosque</surname><given-names>C.</given-names></name><name><surname>Blanch</surname><given-names>J.</given-names></name><name><surname>Salvador</surname><given-names>R.</given-names></name><etal/></person-group>
+<article-title>Failure of deactivation in the default mode network: A trait marker for schizophrenia?</article-title>
+<source>Psychol. Med.</source>
+<year>2015</year>
+<volume>45</volume>
+<fpage>1315</fpage>
+<lpage>1325</lpage>
+<pub-id pub-id-type="doi">10.1017/S0033291714002426</pub-id>
+<pub-id pub-id-type="pmid">25331916</pub-id></element-citation></ref><ref id="B56-ijms-16-24475"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cohen</surname><given-names>S.M.</given-names></name><name><surname>Tsien</surname><given-names>R.W.</given-names></name><name><surname>Goff</surname><given-names>D.C.</given-names></name><name><surname>Halassa</surname><given-names>M.M.</given-names></name></person-group>
+<article-title>The impact of NMDA receptor hypofunction on GABAergic neurons in the pathophysiology of schizophrenia</article-title>
+<source>Schizophr. Res.</source>
+<year>2015</year>
+<pub-id pub-id-type="doi">10.1016/j.schres.2014.12.026</pub-id>
+<pub-id pub-id-type="pmid">25583246</pub-id></element-citation></ref><ref id="B57-ijms-16-24475"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meda</surname><given-names>S.A.</given-names></name><name><surname>Rua&#x000f1;o</surname><given-names>G.</given-names></name><name><surname>Windemuth</surname><given-names>A.</given-names></name><name><surname>O&#x02019;Neil</surname><given-names>K.</given-names></name><name><surname>Berwise</surname><given-names>C.</given-names></name><name><surname>Dunn</surname><given-names>S.M.</given-names></name><name><surname>Boccaccio</surname><given-names>L.E.</given-names></name><name><surname>Narayanan</surname><given-names>B.</given-names></name><name><surname>Kocherla</surname><given-names>M.</given-names></name><name><surname>Sprooten</surname><given-names>E.</given-names></name><etal/></person-group>
+<article-title>Multivariate analysis reveals genetic associations of the resting default mode network in psychotic bipolar disorder and schizophrenia</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2014</year>
+<volume>111</volume>
+<fpage>E2066</fpage>
+<lpage>E2075</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1313093111</pub-id>
+<pub-id pub-id-type="pmid">24778245</pub-id></element-citation></ref><ref id="B58-ijms-16-24475"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dodell-Feder</surname><given-names>D.</given-names></name><name><surname>Delisi</surname><given-names>L.E.</given-names></name><name><surname>Hooker</surname><given-names>C.I.</given-names></name></person-group>
+<article-title>The relationship between default mode network connectivity and social functioning in individuals at familial high-risk for schizophrenia</article-title>
+<source>Schizophr. Res.</source>
+<year>2014</year>
+<volume>156</volume>
+<fpage>87</fpage>
+<lpage>95</lpage>
+<pub-id pub-id-type="doi">10.1016/j.schres.2014.03.031</pub-id>
+<pub-id pub-id-type="pmid">24768131</pub-id></element-citation></ref><ref id="B59-ijms-16-24475"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Poels</surname><given-names>E.M.P.</given-names></name><name><surname>Kegeles</surname><given-names>L.S.</given-names></name><name><surname>Kantrowitz</surname><given-names>J.T.</given-names></name><name><surname>Javitt</surname><given-names>D.C.</given-names></name><name><surname>Lieberman</surname><given-names>J.A.</given-names></name><name><surname>Abi-Dargham</surname><given-names>A.</given-names></name><name><surname>Girgis</surname><given-names>R.R.</given-names></name></person-group>
+<article-title>Glutamatergic abnormalities in schizophrenia: A review of proton MRS findings</article-title>
+<source>Schizophr. Res.</source>
+<year>2014</year>
+<volume>152</volume>
+<fpage>325</fpage>
+<lpage>332</lpage>
+<pub-id pub-id-type="doi">10.1016/j.schres.2013.12.013</pub-id>
+<pub-id pub-id-type="pmid">24418122</pub-id></element-citation></ref><ref id="B60-ijms-16-24475"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kegeles</surname><given-names>L.S.</given-names></name><name><surname>Mao</surname><given-names>X.</given-names></name><name><surname>Stanford</surname><given-names>A.D.</given-names></name><name><surname>Girgis</surname><given-names>R.</given-names></name><name><surname>Ojeil</surname><given-names>N.</given-names></name><name><surname>Xu</surname><given-names>X.</given-names></name><name><surname>Gil</surname><given-names>R.</given-names></name><name><surname>Slifstein</surname><given-names>M.</given-names></name><name><surname>Abi-Dargham</surname><given-names>A.</given-names></name><name><surname>Lisanby</surname><given-names>S.H.</given-names></name><etal/></person-group>
+<article-title>Elevated prefrontal cortex &#x003b3;-aminobutyric acid and glutamate-glutamine levels in schizophrenia measured <italic>in vivo</italic> with proton magnetic resonance spectroscopy</article-title>
+<source>Arch. Gen. Psychiatry</source>
+<year>2012</year>
+<volume>69</volume>
+<fpage>449</fpage>
+<lpage>459</lpage>
+<pub-id pub-id-type="pmid">22213769</pub-id></element-citation></ref><ref id="B61-ijms-16-24475"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanley</surname><given-names>J.A.</given-names></name><name><surname>Williamson</surname><given-names>P.C.</given-names></name><name><surname>Drost</surname><given-names>D.J.</given-names></name><name><surname>Rylett</surname><given-names>R.J.</given-names></name><name><surname>Carr</surname><given-names>T.J.</given-names></name><name><surname>Malla</surname><given-names>A.</given-names></name><name><surname>Thompson</surname><given-names>R.T.</given-names></name></person-group>
+<article-title>An <italic>in vivo</italic> proton magnetic resonance spectroscopy study of schizophrenia patients</article-title>
+<source>Schizophr. Bull.</source>
+<year>1996</year>
+<volume>22</volume>
+<fpage>597</fpage>
+<lpage>609</lpage>
+<pub-id pub-id-type="doi">10.1093/schbul/22.4.597</pub-id>
+<pub-id pub-id-type="pmid">8938914</pub-id></element-citation></ref><ref id="B62-ijms-16-24475"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goto</surname><given-names>N.</given-names></name><name><surname>Yoshimura</surname><given-names>R.</given-names></name><name><surname>Kakeda</surname><given-names>S.</given-names></name><name><surname>Nishimura</surname><given-names>J.</given-names></name><name><surname>Moriya</surname><given-names>J.</given-names></name><name><surname>Hayashi</surname><given-names>K.</given-names></name><name><surname>Katsuki</surname><given-names>A.</given-names></name><name><surname>Hori</surname><given-names>H.</given-names></name><name><surname>Umene-Nakano</surname><given-names>W.</given-names></name><name><surname>Ikenouchi-Sugita</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title>Six-month treatment with atypical antipsychotic drugs decreased frontal-lobe levels of glutamate plus glutamine in early-stage first-episode schizophrenia</article-title>
+<source>Neuropsychiatr. Dis. Treat.</source>
+<year>2012</year>
+<volume>8</volume>
+<fpage>119</fpage>
+<lpage>122</lpage>
+<pub-id pub-id-type="pmid">22536067</pub-id></element-citation></ref><ref id="B63-ijms-16-24475"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Szulc</surname><given-names>A.</given-names></name><name><surname>Gali&#x00144;ska</surname><given-names>B.</given-names></name><name><surname>Taras&#x000f3;w</surname><given-names>E.</given-names></name><name><surname>Waszkiewicz</surname><given-names>N.</given-names></name><name><surname>Konarzewska</surname><given-names>B.</given-names></name><name><surname>Poplawska</surname><given-names>R.</given-names></name><name><surname>Bibu&#x00142;owicz</surname><given-names>D.</given-names></name><name><surname>Simonienko</surname><given-names>K.</given-names></name><name><surname>Walecki</surname><given-names>J.</given-names></name></person-group>
+<article-title>Proton magnetic resonance spectroscopy study of brain metabolite changes after antipsychotic treatment</article-title>
+<source>Pharmacopsychiatry</source>
+<year>2011</year>
+<volume>44</volume>
+<fpage>148</fpage>
+<lpage>157</lpage>
+<pub-id pub-id-type="doi">10.1055/s-0031-1279739</pub-id>
+<pub-id pub-id-type="pmid">21710405</pub-id></element-citation></ref><ref id="B64-ijms-16-24475"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stone</surname><given-names>J.</given-names></name><name><surname>Dietrich</surname><given-names>C.</given-names></name><name><surname>Edden</surname><given-names>R.</given-names></name><name><surname>Mehta</surname><given-names>M.A.</given-names></name><name><surname>de Simoni</surname><given-names>S.</given-names></name><name><surname>Reed</surname><given-names>L.J.</given-names></name><name><surname>Krystal</surname><given-names>J.H.</given-names></name><name><surname>Nutt</surname><given-names>D.</given-names></name><name><surname>Barker</surname><given-names>G.J.</given-names></name></person-group>
+<article-title>Ketamine effects on brain GABA and glutamate levels with 1H-MRS: Relationship to ketamine-induced psychopathology</article-title>
+<source>Mol. Psychiatry</source>
+<year>2012</year>
+<volume>17</volume>
+<fpage>664</fpage>
+<lpage>665</lpage>
+<pub-id pub-id-type="doi">10.1038/mp.2011.171</pub-id>
+<pub-id pub-id-type="pmid">22212598</pub-id></element-citation></ref><ref id="B65-ijms-16-24475"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rowland</surname><given-names>L.M.</given-names></name><name><surname>Bustillo</surname><given-names>J.R.</given-names></name><name><surname>Mullins</surname><given-names>P.G.</given-names></name><name><surname>Jung</surname><given-names>R.E.</given-names></name><name><surname>Lenroot</surname><given-names>R.</given-names></name><name><surname>Landgraf</surname><given-names>E.</given-names></name><name><surname>Barrow</surname><given-names>R.</given-names></name><name><surname>Yeo</surname><given-names>R.</given-names></name><name><surname>Lauriello</surname><given-names>J.</given-names></name><name><surname>Brooks</surname><given-names>W.M.</given-names></name></person-group>
+<article-title>Effects of ketamine on anterior cingulate glutamate metabolism in healthy humans: A 4-T proton MRS study</article-title>
+<source>Am. J. Psychiatry</source>
+<year>2005</year>
+<volume>162</volume>
+<fpage>394</fpage>
+<lpage>396</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.162.2.394</pub-id>
+<pub-id pub-id-type="pmid">15677610</pub-id></element-citation></ref><ref id="B66-ijms-16-24475"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ohrmann</surname><given-names>P.</given-names></name><name><surname>Siegmund</surname><given-names>A.</given-names></name><name><surname>Suslow</surname><given-names>T.</given-names></name><name><surname>Spitzberg</surname><given-names>K.</given-names></name><name><surname>Kersting</surname><given-names>A.</given-names></name><name><surname>Arolt</surname><given-names>V.</given-names></name><name><surname>Heindel</surname><given-names>W.</given-names></name><name><surname>Pfleiderer</surname><given-names>B.</given-names></name></person-group>
+<article-title>Evidence for glutamatergic neuronal dysfunction in the prefrontal cortex in chronic but not in first-episode patients with schizophrenia: A proton magnetic resonance spectroscopy study</article-title>
+<source>Schizophr. Res.</source>
+<year>2005</year>
+<volume>73</volume>
+<fpage>153</fpage>
+<lpage>157</lpage>
+<pub-id pub-id-type="doi">10.1016/j.schres.2004.08.021</pub-id>
+<pub-id pub-id-type="pmid">15653258</pub-id></element-citation></ref><ref id="B67-ijms-16-24475"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yoo</surname><given-names>S.Y.</given-names></name><name><surname>Yeon</surname><given-names>S.</given-names></name><name><surname>Choi</surname><given-names>C.H.</given-names></name><name><surname>Kang</surname><given-names>D.H.</given-names></name><name><surname>Lee</surname><given-names>J.M.</given-names></name><name><surname>Shin</surname><given-names>N.Y.</given-names></name><name><surname>Jung</surname><given-names>W.H.</given-names></name><name><surname>Choi</surname><given-names>J.S.</given-names></name><name><surname>Jang</surname><given-names>D.P.</given-names></name><name><surname>Kwon</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Proton magnetic resonance spectroscopy in subjects with high genetic risk of schizophrenia: Investigation of anterior cingulate, dorsolateral prefrontal cortex and thalamus</article-title>
+<source>Schizophr. Res.</source>
+<year>2009</year>
+<volume>111</volume>
+<fpage>86</fpage>
+<lpage>93</lpage>
+<pub-id pub-id-type="doi">10.1016/j.schres.2009.03.036</pub-id>
+<pub-id pub-id-type="pmid">19406622</pub-id></element-citation></ref><ref id="B68-ijms-16-24475"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Szulc</surname><given-names>A.</given-names></name><name><surname>Gali&#x00144;ska-Skok</surname><given-names>B.</given-names></name><name><surname>Taras&#x000f3;w</surname><given-names>E.</given-names></name><name><surname>Konarzewska</surname><given-names>B.</given-names></name><name><surname>Waszkiewicz</surname><given-names>N.</given-names></name><name><surname>Hykiel</surname><given-names>R.</given-names></name><name><surname>Walecki</surname><given-names>J.</given-names></name></person-group>
+<article-title>Clinical and cognitive correlates of the proton magnetic resonance spectroscopy measures in chronic schizophrenia</article-title>
+<source>Med. Sci. Monit.</source>
+<year>2012</year>
+<volume>18</volume>
+<fpage>CR390</fpage>
+<lpage>CR398</lpage>
+<pub-id pub-id-type="doi">10.12659/MSM.882909</pub-id>
+<pub-id pub-id-type="pmid">22648255</pub-id></element-citation></ref><ref id="B69-ijms-16-24475"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bustillo</surname><given-names>J.R.</given-names></name></person-group>
+<article-title>Use of proton magnetic resonance spectroscopy in the treatment of psychiatric disorders: A critical update</article-title>
+<source>Dialogues Clin. Neurosci.</source>
+<year>2013</year>
+<volume>15</volume>
+<fpage>329</fpage>
+<lpage>337</lpage>
+<pub-id pub-id-type="pmid">24174904</pub-id></element-citation></ref><ref id="B70-ijms-16-24475"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wood</surname><given-names>S.J.</given-names></name><name><surname>Berger</surname><given-names>G.E.</given-names></name><name><surname>Wellard</surname><given-names>R.M.</given-names></name><name><surname>Proffitt</surname><given-names>T.</given-names></name><name><surname>McConchie</surname><given-names>M.</given-names></name><name><surname>Velakoulis</surname><given-names>D.</given-names></name><name><surname>McGorry</surname><given-names>P.D.</given-names></name><name><surname>Pantelis</surname><given-names>C.</given-names></name></person-group>
+<article-title>A <sup>1</sup>H-MRS investigation of the medial temporal lobe in antipsychotic-naive and early-treated first episode psychosis</article-title>
+<source>Schizophr. Res.</source>
+<year>2008</year>
+<volume>102</volume>
+<fpage>163</fpage>
+<lpage>170</lpage>
+<pub-id pub-id-type="doi">10.1016/j.schres.2008.03.012</pub-id>
+<pub-id pub-id-type="pmid">18456460</pub-id></element-citation></ref><ref id="B71-ijms-16-24475"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moraga-Amaro</surname><given-names>R.</given-names></name><name><surname>Jerez-Baraona</surname><given-names>J.M.</given-names></name><name><surname>Simon</surname><given-names>F.</given-names></name><name><surname>Stehberg</surname><given-names>J.</given-names></name></person-group>
+<article-title>Role of astrocytes in memory and psychiatric disorders</article-title>
+<source>J. Physiol. Paris</source>
+<year>2014</year>
+<volume>108</volume>
+<fpage>240</fpage>
+<lpage>251</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jphysparis.2014.08.005</pub-id>
+<pub-id pub-id-type="pmid">25169821</pub-id></element-citation></ref><ref id="B72-ijms-16-24475"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marsman</surname><given-names>A.</given-names></name><name><surname>Mandl</surname><given-names>R.C.W.</given-names></name><name><surname>Klomp</surname><given-names>D.W.J.</given-names></name><name><surname>Bohlken</surname><given-names>M.M.</given-names></name><name><surname>Boer</surname><given-names>V.O.</given-names></name><name><surname>Andreychenko</surname><given-names>A.</given-names></name><name><surname>Cahn</surname><given-names>W.</given-names></name><name><surname>Kahn</surname><given-names>R.S.</given-names></name><name><surname>Luijten</surname><given-names>P.R.</given-names></name><name><surname>Hulshoff Pol</surname><given-names>H.E.</given-names></name></person-group>
+<article-title>GABA and glutamate in schizophrenia: A 7 T <sup>1</sup>H-MRS study</article-title>
+<source>NeuroImage Clin.</source>
+<year>2014</year>
+<volume>6</volume>
+<fpage>398</fpage>
+<lpage>407</lpage>
+<pub-id pub-id-type="doi">10.1016/j.nicl.2014.10.005</pub-id>
+<pub-id pub-id-type="pmid">25379453</pub-id></element-citation></ref><ref id="B73-ijms-16-24475"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwerk</surname><given-names>A.</given-names></name><name><surname>Alves</surname><given-names>F.D.</given-names></name><name><surname>Pouwels</surname><given-names>P.J.</given-names></name><name><surname>van Amelsvoort</surname><given-names>T.</given-names></name></person-group>
+<article-title>Metabolic alterations associated with schizophrenia: A critical evaluation of proton magnetic resonance spectroscopy studies</article-title>
+<source>J. Neurochem.</source>
+<year>2014</year>
+<volume>128</volume>
+<fpage>1</fpage>
+<lpage>87</lpage>
+<pub-id pub-id-type="doi">10.1111/jnc.12398</pub-id>
+<pub-id pub-id-type="pmid">23937509</pub-id></element-citation></ref><ref id="B74-ijms-16-24475"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Singh</surname><given-names>S.P.</given-names></name><name><surname>Singh</surname><given-names>V.</given-names></name><name><surname>Kar</surname><given-names>N.</given-names></name><name><surname>Chan</surname><given-names>K.</given-names></name></person-group>
+<article-title>Efficacy of antidepressants in treating the negative symptoms of chronic schizophrenia: Meta-analysis</article-title>
+<source>Br. J. Psychiatry</source>
+<year>2010</year>
+<volume>197</volume>
+<fpage>174</fpage>
+<lpage>179</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.bp.109.067710</pub-id>
+<pub-id pub-id-type="pmid">20807960</pub-id></element-citation></ref><ref id="B75-ijms-16-24475"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kay</surname><given-names>S.R.</given-names></name><name><surname>Fiszbein</surname><given-names>A.</given-names></name><name><surname>Opfer</surname><given-names>L.A.</given-names></name></person-group>
+<article-title>The positive and negative syndrome scale (PANSS) for schizophrenia</article-title>
+<source>Schizophr. Bull.</source>
+<year>1987</year>
+<volume>13</volume>
+<fpage>261</fpage>
+<lpage>276</lpage>
+<pub-id pub-id-type="doi">10.1093/schbul/13.2.261</pub-id>
+<pub-id pub-id-type="pmid">3616518</pub-id></element-citation></ref></ref-list></back></article>

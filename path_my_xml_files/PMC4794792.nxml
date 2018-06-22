@@ -1,0 +1,964 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">FEBS Open Bio</journal-id><journal-id journal-id-type="iso-abbrev">FEBS Open Bio</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2211-5463</journal-id><journal-id journal-id-type="publisher-id">FEB4</journal-id><journal-title-group><journal-title>FEBS Open Bio</journal-title></journal-title-group><issn pub-type="epub">2211-5463</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27047743</article-id><article-id pub-id-type="pmc">4794792</article-id><article-id pub-id-type="doi">10.1002/2211-5463.12024</article-id><article-id pub-id-type="publisher-id">FEB412024</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Intestinal removal of free fatty acids from hosts by <italic>Lactobacilli</italic> for the treatment of obesity</article-title><alt-title alt-title-type="left-running-head">H.&#x02010;J. Chung <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="feb412024-cr-0001" contrib-type="author"><name><surname>Chung</surname><given-names>Hea&#x02010;Jong</given-names></name><xref ref-type="aff" rid="feb412024-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-note" rid="feb412024-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="feb412024-cr-0002" contrib-type="author"><name><surname>Yu</surname><given-names>Jae G.</given-names></name><xref ref-type="aff" rid="feb412024-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-note" rid="feb412024-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="feb412024-cr-0003" contrib-type="author"><name><surname>Lee</surname><given-names>In&#x02010;Ah</given-names></name><xref ref-type="aff" rid="feb412024-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="feb412024-cr-0004" contrib-type="author"><name><surname>Liu</surname><given-names>Ming&#x02010;Jie</given-names></name><xref ref-type="aff" rid="feb412024-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412024-cr-0005" contrib-type="author"><name><surname>Shen</surname><given-names>Yan&#x02010;Fei</given-names></name><xref ref-type="aff" rid="feb412024-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412024-cr-0006" contrib-type="author"><name><surname>Sharma</surname><given-names>Satya P.</given-names></name><xref ref-type="aff" rid="feb412024-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412024-cr-0007" contrib-type="author"><name><surname>Jamal</surname><given-names>Mohammad A. H. M.</given-names></name><xref ref-type="aff" rid="feb412024-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412024-cr-0008" contrib-type="author"><name><surname>Yoo</surname><given-names>Jun&#x02010;Hyun</given-names></name><xref ref-type="aff" rid="feb412024-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="feb412024-cr-0009" contrib-type="author" corresp="yes"><name><surname>Kim</surname><given-names>Hyeon&#x02010;Jin</given-names></name><xref ref-type="aff" rid="feb412024-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="feb412024-cr-0010" contrib-type="author" corresp="yes"><name><surname>Hong</surname><given-names>Seong&#x02010;Tshool</given-names></name><xref ref-type="aff" rid="feb412024-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="feb412024-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Biomedical Sciences and Institute for Medical Science</named-content><institution>Chonbuk National University Medical School</institution><named-content content-type="city">Jeonju</named-content><named-content content-type="country-part">Chonbuk</named-content><country country="KP">Korea</country></aff><aff id="feb412024-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">JINIS BDRD institute</named-content><institution>JINIS Biopharmaceuticals Co.</institution><named-content content-type="city">Wanju</named-content><named-content content-type="country-part">Chonbuk</named-content><country country="KP">Korea</country></aff><aff id="feb412024-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Family Medicine</named-content><named-content content-type="organisation-division">Samsung Medical Center</named-content><institution>Sungkyunkwan University School of Medicine</institution><named-content content-type="city">Seoul</named-content><country country="KP">Korea</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+S.&#x02010;T.&#x000a0;Hong, Department of Biomedical Sciences and Institute for Medical Science, Chonbuk National University Medical School, Keumam&#x02010;Dong San 2&#x02010;20, Jeonju, Chonbuk 561&#x02010;180, South Korea<break/>
+Fax: +82632703105<break/>
+Tel: +82632703105<break/>
+E&#x02010;mail: <email>seonghong@JBNU.ac.kr</email><break/>
+and<break/>
+H.&#x02010;J.&#x000a0;Kim, JINIS BDRD institute, JINIS Biopharmaceuticals Co., 913 Kwahak&#x02010;Ro, Bongdong, Wanju, Chonbuk 565&#x02010;902, South Korea<break/>
+Fax: +82632143934<break/>
+Tel: +82632143935<break/>
+E&#x02010;mail: <email>hjkim@jinisbio.com</email><break/></corresp><fn fn-type="equal" id="feb412024-note-0001"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>18</day><month>1</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2016</year></pub-date><volume>6</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/feb4.2016.6.issue-1</issue-id><fpage>64</fpage><lpage>76</lpage><history><date date-type="received"><day>21</day><month>8</month><year>2015</year></date><date date-type="rev-recd"><day>11</day><month>11</month><year>2015</year></date><date date-type="accepted"><day>10</day><month>12</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 Federation of European Biochemical Societies <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. Published by FEBS Press and John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:FEB4-6-64.pdf"/><abstract id="feb412024-abs-0001"><p>Recent findings on the association of gut microbiota with various diseases, including obesity, prompted us to investigate the possibility of using a certain type of gut bacteria as a safe therapeutic for obesity. <italic>Lactobacillus</italic> mutants with enhanced capacity in absorption of free fatty acids (<styled-content style="fixed-case">FFA</styled-content>s) were isolated to show reduced absorption of <styled-content style="fixed-case">FFA</styled-content>s by the administered host, attributing to inhibition of body weight gain and body fat accumulation as well as amelioration of blood profiles. Consequently, high throughput screening of natural <styled-content style="fixed-case">FFA</styled-content>s&#x02010;absorbing intestinal microbes led to the isolation of <italic>Lactobacillus</italic>&#x000a0;<italic>reuteri </italic>
+<styled-content style="fixed-case">JBD</styled-content>30&#x000a0;l. The administration of <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>30l lowered the concentration of <styled-content style="fixed-case">FFA</styled-content>s in the gut fluid content of small intestine, thus reducing intestinal absorption of <styled-content style="fixed-case">FFA</styled-content>s whereas promoting fecal excretion of <styled-content style="fixed-case">FFA</styled-content>s. Animal data also confirmed that the efficacy of <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>30l on body weight similar to that of orlistat, an <styled-content style="fixed-case">FDA</styled-content>&#x02010;approved pharmaceutical for long&#x02010;term use to treat obesity. In a subsequent random, double&#x02010;blind, placebo&#x02010;controlled clinical trial (<styled-content style="fixed-case">KCT</styled-content>0000452 at Clinical Research Information Service of Korea), there was a statistically significant difference in the percentage change in body weight between the <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 and the placebo group (<italic>P</italic>&#x000a0;=&#x000a0;0.026) as well as in the <styled-content style="fixed-case">BMI</styled-content> (<italic>P&#x000a0;</italic>=&#x000a0;0.036) from the 0&#x02010;week assessment to the 12&#x02010;week assessment. Our results show that <styled-content style="fixed-case">FFA</styled-content>&#x02010;absorbing <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 effectively reduces dietary fat absorption, providing an ideal treatment for obesity with inherent safety.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="feb412024-kwd-0001">absorption</kwd><kwd id="feb412024-kwd-0002">free fatty acid</kwd><kwd id="feb412024-kwd-0003">intestinal</kwd><kwd id="feb412024-kwd-0004"><italic>Lactobacillus</italic></kwd><kwd id="feb412024-kwd-0005">obesity</kwd></kwd-group><funding-group><award-group><funding-source>Technology Development Program for Agriculture and Forestry</funding-source><award-id>313040&#x02010;3</award-id></award-group></funding-group><funding-group><award-group><funding-source>Ministry for Food, Agriculture, Forestry and Fisheries, Republic of Korea</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Biofood Material Trial Evaluation Certification Supporting Project for Department of Ministry of Knowledge Economy, Republic of Korea</funding-source></award-group></funding-group><counts><page-count count="13"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>feb412024</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.8.5 mode:remove_FC converted:17.03.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><def-list list-content="abbreviations" id="feb412024-dl-0001"><title>Abbreviations</title><def-item><term>BMI</term><def><p>body mass index</p></def></def-item><def-item><term>CFU</term><def><p>colony&#x02010;forming unit</p></def></def-item><def-item><term>CNS</term><def><p>central nervous system</p></def></def-item><def-item><term>CT</term><def><p>computerized tomography</p></def></def-item><def-item><term>DEXA</term><def><p>dual&#x02010;emission X&#x02010;ray absorptiometry</p></def></def-item><def-item><term>DIO</term><def><p>diet&#x02010;induced obesity</p></def></def-item><def-item><term>FFAs</term><def><p>free fatty acids</p></def></def-item><def-item><term>GI</term><def><p>gastrointestinal</p></def></def-item><def-item><term>HDL</term><def><p>high&#x02010;density lipoprotein cholesterol</p></def></def-item><def-item><term>HFD</term><def><p>high&#x02010;fat diet</p></def></def-item><def-item><term>LDL</term><def><p>low&#x02010;density lipoprotein cholesterol</p></def></def-item><def-item><term>MRI</term><def><p>magnetic resonance imaging</p></def></def-item><def-item><term>MRS</term><def><p>Man&#x02013;Rogosa&#x02013;Sharpe</p></def></def-item><def-item><term>NTG</term><def><p>
+<italic>N</italic>&#x02010;methyl&#x02010;<italic>N</italic>&#x02010;nitro&#x02010;<italic>N</italic>&#x02010;nitrosoguanidine</p></def></def-item><def-item><term>SCFA</term><def><p>short&#x02010;chain fatty acids</p></def></def-item><def-item><term>SD</term><def><p>Sprague&#x02013;Dawley</p></def></def-item><def-item><term>TC</term><def><p>total cholesterol</p></def></def-item><def-item><term>TG</term><def><p>triacylglycerol</p></def></def-item><def-item><term>USFA</term><def><p>unsaturated fatty acids</p></def></def-item></def-list><p>Obesity is a disease of energy balance, characterized by a chronic disequilibrium between energy intake and expenditure <xref rid="feb412024-bib-0001" ref-type="ref">1</xref>. It is associated with an increased risk of various chronic diseases, including hypertension, dyslipidemia, type 2 diabetes, cardiovascular disease, obstructive sleep apnea, osteoarthritis and cancer <xref rid="feb412024-bib-0002" ref-type="ref">2</xref>. Because obesity is rarely curable and its prevalence has increased over several decades, intensive research has been conducted to develop anti&#x02010;obesity drugs, resulting in many candidates with very interesting anti&#x02010;obesity effects at preclinical levels <xref rid="feb412024-bib-0003" ref-type="ref">3</xref>, <xref rid="feb412024-bib-0004" ref-type="ref">4</xref>, <xref rid="feb412024-bib-0005" ref-type="ref">5</xref>. The path to drug development for obesity, however, has been littered with failures in clinical development and withdrawals from the market due to severe side effects <xref rid="feb412024-bib-0006" ref-type="ref">6</xref>, <xref rid="feb412024-bib-0007" ref-type="ref">7</xref>, <xref rid="feb412024-bib-0008" ref-type="ref">8</xref>. Orlistat, the major FDA&#x02010;approved pharmaceutical for long&#x02010;term use to treat obesity, is a gastric and pancreatic lipase inhibitor that prevents fat hydrolysis, thus reducing dietary fat absorption by ~&#x000a0;30% <xref rid="feb412024-bib-0009" ref-type="ref">9</xref>, <xref rid="feb412024-bib-0010" ref-type="ref">10</xref>, <xref rid="feb412024-bib-0011" ref-type="ref">11</xref>. Despite substantial anti&#x02010;obesity effects, the inhibition of lipase activity by orlistat generates undigested fat in the gastrointestinal (GI) tract, which causes side effects that are not only uncomfortable but also socially unacceptable <xref rid="feb412024-bib-0012" ref-type="ref">12</xref>.</p><p>Unlike orlistat, several appetite suppression drugs were successfully approved and marketed for obesity treatment, but these drugs have been withdrawn due to severe psychiatric and/or cardiovascular side effects, all common adverse effects of central nervous system (CNS)&#x02010;acting drugs <xref rid="feb412024-bib-0013" ref-type="ref">13</xref>. The FDA recently approved two new anti&#x02010;obesity drugs that work on the CNS, lorcaserin and phentermine/topiramate, driven by high demand for anti&#x02010;obesity drugs <xref rid="feb412024-bib-0014" ref-type="ref">14</xref>, <xref rid="feb412024-bib-0015" ref-type="ref">15</xref>, <xref rid="feb412024-bib-0016" ref-type="ref">16</xref>; however, the future of these new drugs remains uncertain, considering the history of anti&#x02010;obesity drugs that work on the CNS. Because of the safety issues with anti&#x02010;obesity drugs that work on the CNS <xref rid="feb412024-bib-0017" ref-type="ref">17</xref>, anti&#x02010;obesity drugs with different modes of action are under investigation <xref rid="feb412024-bib-0018" ref-type="ref">18</xref>, <xref rid="feb412024-bib-0019" ref-type="ref">19</xref>. Drugs targeting pathways in the metabolic tissues, the peptidergic signaling systems of hunger and satiety, and the homeostatic mechanisms related to leptin have shown potential in preclinical studies, but none of the drugs has been safe and effective in clinical development thus far. Therefore, a new type of anti&#x02010;obesity treatment must be actively sought because the current pharmaceutical drugs are not ideal for the treatment of obesity.</p><p>A new paradigm is obviously necessary to develop anti&#x02010;obesity drugs engendering sustained weight loss with minimal side effects. Recent evidence showed that the gut microbiota play an intricate role in the regulation of body weight <xref rid="feb412024-bib-0020" ref-type="ref">20</xref>, <xref rid="feb412024-bib-0021" ref-type="ref">21</xref>, <xref rid="feb412024-bib-0022" ref-type="ref">22</xref>. Transplantation experiments using microbiotas from either obese or lean mice and from either obese or lean humans into germ&#x02010;free mice proved that the compositional change in microbiota in the GI tract resulted in differences in the efficiency of caloric extraction from food, eventually contributing to different body weights <xref rid="feb412024-bib-0021" ref-type="ref">21</xref>, <xref rid="feb412024-bib-0022" ref-type="ref">22</xref>. These results suggest that small changes in caloric extraction from the GI tract by transplanting a specific intestinal bacterium can lead to a meaningful reduction in body weight. In fact, attempts have been made to identify specific intestinal bacterium to control obesity. Interestingly, a few probiotic strains have been shown to ameliorate obesity and metabolic disorders, without clear understanding of underlying mechanisms <xref rid="feb412024-bib-0023" ref-type="ref">23</xref>, <xref rid="feb412024-bib-0024" ref-type="ref">24</xref>.</p><p>Dietary fat is the major contributor in our caloric extraction from food. Because fat is degraded into FFAs before absorption into the body, the removal of FFAs in the GI tract by the transplantation of a FFAs&#x02010;absorbing bacterium might be an ideal choice for treating obesity by decreasing fat uptake by the host body. Transplanted microbes with enhanced capacity in FFA absorption would compete for FFAs with enterocytes in the intestinal epithelium, resulting reduced FFA absorption and thus lowered caloric intake into host. In fact, recent study have shown that microbiota contribute obesity by stimulating intestinal FFA absorption in the zebrafish model, suggesting inhibition of intestinal FFA absorption and lipid droplet formation to regulate host obesity <xref rid="feb412024-bib-0025" ref-type="ref">25</xref>. Considering that increased FFA along with hyperglycemia are the key hallmarks of obesity, metabolic syndrome and diabetes, FFA provides an excellent metabolic target to reduce dietary energy harvest and thus prevent and counteract obesity. In addition, reduction in caloric extraction with FFAs&#x02010;absorbing bacteria may be a better choice than inhibiting fat hydrolysis by orlistat, which results in an unavoidable problem with undigested fat.</p><p>Based on the fact that orlistat, which inhibits digestion of dietary fat to FFAs, is currently the best anti&#x02010;obesity drug, as well as the fact that small changes in caloric extraction affected by intestinal microbiota could lead to large body weight differences, we investigated whether the inhibition of FFAs absorption into the human body by using an intestinal bacterium would lead to the development of anti&#x02010;obesity drugs producing sustained weight loss without side effects. As expected, the administration of FFAs&#x02010;absorbing lactobacilli that remove intestinal FFAs before absorption to host showed significant anti&#x02010;obesity effects, with efficacy as high as orlistat in animal experiments and a clinical trial. Our results not only provide a novel Lactobacillus approach as a safe way to prevent or treat obesity but also suggest the feasibility of developing treatments by modulating the metabolic activities of the intestinal microbes.</p><sec id="feb412024-sec-0002"><title>Materials and methods</title><sec id="feb412024-sec-0003"><title>Materials</title><p>Reagents and kits were purchased from Sigma, except for the following: [1&#x02010;<sup>14</sup>C]&#x02010;palmitic acid (PerkinElmer Life Sciences, Santa Clara, CA, USA), liquid scintillation cocktail (LSC, PerkinElmer Life Sciences), [carboxyl&#x02010;<sup>14</sup>C]&#x02010;triolein (PerkinElmer Life Sciences), Man&#x02013;Rogosa&#x02013;Sharpe (MRS, Becton Dickinson, NJ, USA), orlistat (Xenical, Roche, Basel, Switzerland), EnzyChrom<sup>&#x02122;</sup> Free Fatty Acid Assay Kit (BioAssay Systems, Hayward, CA, USA). The sterilizable 384&#x02010;well plate and 384&#x02010;pin replicator were from Nunc. The membrane semidry system was from Bio&#x02010;Rad, and the X&#x02010;ray film was from Kodak. The <sc>gel&#x02010;pro analyzer</sc> software was from Media cybernetics. The magnetic resonance imaging (MRI) images were obtained with a Bruker Biospec 47/40 4.7&#x02010;Tesla instrument (Bruker, Billerica, MA, USA) and analyzed with <sc>image j</sc> software (NIH, Bethesda, MD, USA). The serum was analyzed with a Rat/Mouse ELISA kit (LINCO research, St. Charles, MO, USA), a Leptin ELISA kit (R&#x00026;D System, Minneapolis, MN, USA), a blood glucose meter (Accu&#x02010;Chek, Roche) and Cholesterol ELISA kits (Asan Pharmaceutical, Seoul, Korea).</p></sec><sec id="feb412024-sec-0004"><title>Isolation of FFAs&#x02010;absorbing <italic>Lactobacillus</italic> mutants</title><p>
+<italic>Lactobacillus&#x000a0;acidophilus</italic> KCTC 3179 is a human&#x02010;derived <italic>Lactobacillus</italic> strain from the Korea Collection for Type Cultures (KCTC, Daejeon, Korea). Anaerobic culture was carried out in an anaerobic jar (BBL Gas&#x02010;Pack anaerobic systems, Apeldoorn, Netherland). <italic>Lactobacillus&#x000a0;acidophilus</italic> KCTC 3179 were chemically mutagenized by using <italic>N</italic>&#x02010;methyl&#x02010;<italic>N</italic>&#x02010;nitro&#x02010;<italic>N</italic>&#x02010;nitrosoguanidine (NTG) to select the <italic>Lactobacillus</italic> mut1 followed by 2nd&#x02010;round mutagenesis by using 4&#x02010;nitroquinoline&#x02010;1&#x02010;oxide to select <italic>Lactobacillus</italic> mut2 that absorbs FFAs strongly. FFAs&#x02010;absorption ability of the mutants was evaluated <italic>in&#x000a0;vitro</italic> by measuring radioactivity with liquid scintillation spectrophotometry after incubation for 30&#x000a0;min with <sup>14</sup>C&#x02010;labeled palmitic acid. For <italic>in&#x000a0;vivo</italic> evaluation, Sprague&#x02013;Dawley (SD) rats had been fed standard diet (60% complex carbohydrates, 22% protein, 3.5% fat, 5% fiber, 8% crude ash, 0.6% calcium and 1.2% phosphorus) supplemented with testing mutants at 10<sup>7</sup>&#x000a0;CFU&#x000b7;day<sup>&#x02212;1</sup> for 8&#x000a0;weeks. Intestinal colonization of mutants was confirmed by counting. Then, blood at 2&#x000a0;h, 4&#x000a0;h, 6&#x000a0;h, 8&#x000a0;h and 10&#x000a0;h were analyzed for radioactivity after feeding <sup>14</sup>C&#x02010;labeled triolein whereas FFAs were analyzed with fecal fluid content with GC/MS.</p></sec><sec id="feb412024-sec-0005"><title>Animal experiments</title><p>All animal care and use were performed strictly in accordance with the ethical guidelines by the Ethics Committee of Chonbuk National University Laboratory Animal Center and the animal study protocol was approved by the institution (CBU No. 2012&#x02010;0040).</p></sec><sec id="feb412024-sec-0006"><title>Anti&#x02010;obesity effects of FFAs&#x02010;absorbing <italic>Lactobacillus</italic> mutants</title><p>The anti&#x02010;obesity effects were assessed under diet&#x02010;induced obesity (DIO) condition with SD rats fed high&#x02010;fat diet (HFD, 48% complex carbohydrates, 17.6% protein, 22.8% fat, 4% fiber, 6.4% crude ash, 0.48% calcium, and 0.96% phosphorus) supplemented with testing mutants at 10<sup>7</sup>&#x000a0;CFU&#x000b7;day<sup>&#x02212;1</sup> for 22&#x000a0;weeks. The body weights of the SD rats were measured weekly. At the end of the experiments, MRI analysis was performed to measure the visceral (or abdominal) fat with a Bruker Biospec 47/40 4.7&#x02010;Tesla instrument. Blood samples from the experimental rats were collected with overnight fasting at 0 and 22&#x000a0;weeks. The sera were analyzed for biochemical characteristics using commercially available kits. The serum total cholesterol (TC), high&#x02010;density lipoprotein cholesterol (HDL), low&#x02010;density lipoprotein cholesterol (LDL) levels as well as the triacylglycerol (TG) concentrations were detected with the ELISA kits described in the Reagents section above.</p></sec><sec id="feb412024-sec-0007"><title>Identification of intestinal FFAs&#x02010;absorbing <italic>Lactobacillus</italic> JBD301</title><p>
+<italic>Lactobacillus</italic> strains were isolated from the feces of healthy lean adult volunteers. For individual lactobacilli overnight cultures, the quantities of FFAs in the cultured media were determined using the EnzyChrom<sup>&#x02122;</sup> free fatty acid assay kit (Bio&#x02010;Assay Systems, Hayward, CA, USA) as described by the manufacturer. Using the concentration of FFAs in the media, the quantity of FFAs uptake from the media was calculated. A natural <italic>Lactobacillus</italic> strain with the strongest FFAs&#x02010;absorbing ability was identified, taxonomically classified and phylogenetically analyzed by 16S rDNA sequences (NCBI GenBank, DNA data bank of Japan, European Nucleotide Archive, <ext-link ext-link-type="uri" xlink:href="http://www.phylogeny.fr">www.phylogeny.fr</ext-link>).</p></sec><sec id="feb412024-sec-0008"><title>Animal studies of <italic>Lactobacillus</italic> JBD301</title><p>Seven&#x02010;week&#x02010;old female C57BL/6 mice were fed HFD supplemented daily with 10<sup>7</sup>&#x000a0;CFU of <italic>Lactobacillus</italic> JBD301 for 3&#x000a0;weeks. Then, gut fluid contents were collected and analyzed for total FFAs concentration at small intestine and large intestine of the mice with the EnzyChrom<sup>&#x02122;</sup> FFAs assay kit. To evaluate changes in FFAs absorption and excretion by host fed <italic>Lactobacillus</italic> JBD301, the radioactivities of the bloods as well as feces were measured after feeding 1&#x000a0;&#x003bc;Ci of <sup>14</sup>C&#x02010;labeled triolein.</p></sec><sec id="feb412024-sec-0009"><title>Clinical trial of <italic>Lactobacillus</italic> JBD301</title><p>A phase 2, double&#x02010;blind, placebo&#x02010;controlled human study was conducted with <italic>Lactobacillus</italic> JBD301 at the Samsung Medical Center (Seoul, Korea). The research protocol was approved by the Clinical Trial Center at the Samsung Medical Center and the methods were carried out in accordance with the approved guidelines (SMC No. 2011&#x02010;04&#x02010;061&#x02010;002). This trial was registered with Clinical Research Information Service of Korea as KCT0000452 (<ext-link ext-link-type="uri" xlink:href="https://cris.nih.go.kr">https://cris.nih.go.kr</ext-link>). The purpose of this study was to evaluate the safety and tolerability of <italic>Lactobacillus</italic> JBD301 and to evaluate the efficacy of <italic>Lactobacillus</italic> JBD301 compared to placebo for the reduction in body fat or weight in adults with 25&#x000a0;&#x02264;&#x000a0;BMI&#x000a0;&#x0003c;&#x000a0;35. Among the recruited subjects, 37 subjects were randomly assigned to either the placebo group or experimental group. Placebo group (<italic>n</italic>&#x000a0;=&#x000a0;19) were administered single capsule of vegetable cream as control whereas experimental group (<italic>n</italic>&#x000a0;=&#x000a0;18) were administered <italic>Lactobacillus</italic> JBD301 at dose of 1&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>&#x000a0;CFU&#x000b7;day<sup>&#x02212;1</sup> for 12&#x000a0;weeks. For the clinical data, the statistical analysis was performed using procedures in <sc>sas</sc> (Version 9.2) and <sc>medcalc</sc> (Version 11.6.0). Depending on the normality of the underlying data, the Mann&#x02013;Whitney <italic>U</italic> test and the Wilcoxon signed rank test were used to perform statistical analysis.</p><p>Further details of the materials and methods used in this study can be found in the supplementary material.</p></sec></sec><sec id="feb412024-sec-0010"><title>Results</title><sec id="feb412024-sec-0011"><title>
+<italic>Lactobacillus</italic> mutants with enhanced FFAs absorption reduced FFAs absorption by host</title><p>To test the hypothesis that obesity can be controlled by an intestinal bacterium that removes obesity&#x02010;causative metabolites, i.e. FFAs, in the gut, a commercial probiotic strain, <italic>L.&#x000a0;acidophilus</italic> KCTC 3179, was mutagenized by NTG to isolate mutants that strongly absorb palmitates, the most common form of FFAs. We initially isolated a mutant that absorbed 2.1 times more <sup>14</sup>C&#x02010;palmitate from its surrounding environment than the parental strain (Fig.&#x000a0;<xref rid="feb412024-fig-0001" ref-type="fig">1</xref>A). The identified mutant, mut1, was further mutagenized by 4&#x02010;nitroquinoline 1&#x02010;oxide, resulting in mut2, which absorbed FFAs 3.2 times more strongly than the parental strain (Fig.&#x000a0;<xref rid="feb412024-fig-0001" ref-type="fig">1</xref>A). For the identified mutants, the acidification abilities during growth and colonization in the host GI tract after consumption were examined because these are the most important characteristics of edible <italic>Lactobacillus</italic>
+<xref rid="feb412024-bib-0026" ref-type="ref">26</xref>. Both mutant strains showed normal growth and acidification activities during milk fermentation (Table&#x000a0;S1). They also successfully colonized the GI tract of rats (Table&#x000a0;S2). These results indicate that both mutants function as normal lactobacilli, except for their stronger absorption of FFAs.</p><fig fig-type="Figure" xml:lang="en" id="feb412024-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Administration of the <styled-content style="fixed-case">FFA</styled-content>s&#x02010;absorbing <italic>Lactobacillus</italic> mutants significantly reduced the absorption of <styled-content style="fixed-case">FFA</styled-content>s by the host. (A) The <styled-content style="fixed-case">FFA</styled-content>s absorption by lactobacilli (<italic>L.&#x000a0;acidophilus </italic>
+<styled-content style="fixed-case">KCTC</styled-content> 3179, mut1 or mut2) was determined by measuring the radioactivity in lactobacilli after incubation with <sup>14</sup>C&#x02010;labeled palmitic acid for 30&#x000a0;min. Values are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;4). (B) Three&#x02010;month&#x02010;old male <styled-content style="fixed-case">SD</styled-content> rats were randomized and fed a standard diet only (control) or a diet&#x02010;supplemented daily with 10<sup>7</sup>
+<styled-content style="fixed-case">CFU</styled-content> of tested lactobacilli (<italic>L.&#x000a0;acidophilus </italic>
+<styled-content style="fixed-case">KCTC</styled-content> 3179, mut1 or mut2). After 8&#x000a0;weeks, rat feed containing radiolabeled fat, <sup>14</sup>C&#x02010;triolein, was administered. Blood samples were collected at the indicated times and radioactivity was analyzed to quantify the amount of <styled-content style="fixed-case">FFA</styled-content>s from absorbed dietary fat in the blood of hosts. Values are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;9). (C) <styled-content style="fixed-case">FFA</styled-content>s in the fecal fluid contents from the hosts were analyzed by <styled-content style="fixed-case">GC</styled-content>/<styled-content style="fixed-case">MS</styled-content>. Major saturated fatty acids, stearic acid and palmitic acid, were indicated in the bar. Unsaturated Fatty Acid (<styled-content style="fixed-case">USFA</styled-content>) includes oleic acid, arachidonic acid. Short&#x02010;chain Fatty Acid (<styled-content style="fixed-case">SCFA</styled-content>) includes acetic acid, propanoic acid, butanoic acid, valeric acid, pentanoic acid, hexanoic acid. Values are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;4). Statistical significance is shown as *<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.05, **<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.01 and ***<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.001 versus control by <styled-content style="fixed-case">ANOVA</styled-content>.</p></caption><graphic id="nlm-graphic-1" xlink:href="FEB4-6-64-g001"/></fig><p>When consuming lactobacilli, the bacteria transiently colonize the small intestine <xref rid="feb412024-bib-0027" ref-type="ref">27</xref>, where most of FFAs are absorbed into the body. Therefore, the administered mutants could actively remove intestinal FFAs by functioning as a bio&#x02010;sequestrant, reducing the amount of FFAs available to be absorbed into the host body and thereby reducing dietary fat absorption. To test whether the mutants actually reduce the amount of absorbable FFAs in the GI tract of the host, SD rats were fed <italic>Lactobacillus</italic> for daily administration of 10<sup>7</sup>&#x000a0;CFU for 8&#x000a0;weeks. After colonization, rat feed containing radiolabeled dietary fat, <sup>14</sup>C&#x02010;triolein, was orally administered to the rats so that the amount of FFAs absorbed from dietary fat could be measured by measuring the radioactivity of the FFAs in their blood (Fig.&#x000a0;<xref rid="feb412024-fig-0001" ref-type="fig">1</xref>B). Compared to the high&#x02010;fat diet (HFD) control, the rats colonized with the both mutant strains showed a significant decrease in the amount of absorbed FFAs, whereas those colonized with parental strain 3179 showed no significant change. At 240&#x000a0;min after administration of radiolabeled dietary fat, the radioactivity of absorbed FFAs in the blood of the rat colonized with mut1 and mut2 were down to 298.4&#x000a0;cpm and 206.6&#x000a0;cpm, whereas control and parental strain 3179 group were 546.9 and 446.6&#x000a0;cpm respectively. As shown in Fig.&#x000a0;<xref rid="feb412024-fig-0001" ref-type="fig">1</xref>B, the rats colonized with mut1 and mut2, but not parental strain, absorbed significantly less FFAs than the uncolonized controls.</p><p>If those mutants absorb FFAs strongly in the GI tract and thus remove FFAs available for the GI tract of the host, the FFAs quantities in the feces should decrease in the rats colonized with the mutants. We performed GC/MS analysis on the fecal fluid contents from <italic>Lactobacillus</italic>&#x02010;fed rat, as described previously <xref rid="feb412024-bib-0028" ref-type="ref">28</xref>. As expected, the total FFAs quantities in the fecal fluid content were significantly lowered in the rats colonized with the mutants compared to the uncolonized control whereas parental strain show some reduction (Fig.&#x000a0;<xref rid="feb412024-fig-0001" ref-type="fig">1</xref>C). Most dramatic changes were with saturated fatty acids, particularly, stearic acid and palmitic acid. Unsaturated fatty acids (USFA), such as oleic acid and arachidonic acid were also reduced as well as short&#x02010;chain fatty acids (SCFA), such as acetic acid, propanoic acid, butanoic acid, valeic acid, pentanoic acid and hexanoic acid. Particularly, pentadecanoic acid, palmitelaidic acid, nonadecanoic acid, heptanoic&#x000a0;acid, heneicosanoic acid, sebacic acid, dodecanoic acid were reduced to undetectable ranges in the mut2 group. This overall decrease in FFAs including short&#x02010;chain FA in the liquid portion of the fecal matter indicates that the mutants actively absorbed and removed intestinal FFAs in the colonized GI tract as shown in fecal fluid, thereby reducing the amount of FFAs available to be absorbed by the host.</p></sec><sec id="feb412024-sec-0012"><title>FFAs&#x02010;absorbing <italic>Lactobacillus</italic> mutants ameliorated obesity in rats</title><p>After confirming the ability of the mutants to remove FFAs in the GI tract, the anti&#x02010;obesity effect of the FFAs&#x02010;absorbing mutants was evaluated by feeding the mutant to rats under diet&#x02010;induced obesity (DIO) conditions (Fig.&#x000a0;<xref rid="feb412024-fig-0002" ref-type="fig">2</xref>A). Daily administration of parental strain 3179 or its mutants resulted in successful colonization in the GI tract of the rats after 4&#x000a0;weeks (Table&#x000a0;S3). Daily administration of mut1 and mut2 for 22&#x000a0;weeks resulted in consistent reduction in body weight gain (Fig.&#x000a0;<xref rid="feb412024-fig-0002" ref-type="fig">2</xref>A). At the end, the body weights of uncolonized control, parental 3179, mut1 and mut2 were 514&#x000a0;g (100%), 507&#x000a0;g (101.4%), 435&#x000a0;g (85%) and 424&#x000a0;g (82%), respectively, with maximum difference of 15% for mut1 and 18% for mut2, respectively, compared to the uncolonized control.</p><fig fig-type="Figure" xml:lang="en" id="feb412024-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<styled-content style="fixed-case">FFA</styled-content>s&#x02010;absorbing <italic>Lactobacillus</italic> mutants effectively inhibited weight gain and body fat accumulation and also ameliorated blood profiles under diet&#x02010;induced obesity condition. Three&#x02010;month&#x02010;old male <styled-content style="fixed-case">SD</styled-content> rats were randomized and fed a <styled-content style="fixed-case">HFD</styled-content> only (control) or a <styled-content style="fixed-case">HFD</styled-content> diet supplemented daily for 22&#x000a0;weeks with 10<sup>7</sup>
+<styled-content style="fixed-case">CFU</styled-content> of tested lactobacilli (<italic>L.&#x000a0;acidophilus </italic>
+<styled-content style="fixed-case">KCTC</styled-content> 3179, mut1, or mut2). (A) Body weights were monitored weekly. (B) The change in visceral fat areas of the rats. The representative <styled-content style="fixed-case">MRI</styled-content> images of visceral fat accumulation were shown. (C) The change in plasma lipid profiles. <styled-content style="fixed-case">TG</styled-content>, triacylglycerol; <styled-content style="fixed-case">TC</styled-content>, total cholesterol; <styled-content style="fixed-case">HDL</styled-content>, high&#x02010;density lipoprotein cholesterol; <styled-content style="fixed-case">LDL</styled-content>, low&#x02010;density lipoprotein cholesterol. (D) The change in plasma insulin and leptin concentrations. (E) The change in blood glucose concentrations. Values are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;14). Statistical significance is shown as *<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.05, **<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.01 and ***<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.001 versus control by <styled-content style="fixed-case">ANOVA</styled-content>.</p></caption><graphic id="nlm-graphic-3" xlink:href="FEB4-6-64-g002"/></fig><p>In addition to body weight, visceral fat is correlated with obesity as the intake of excess calories in mammals primarily accumulates as visceral fat <xref rid="feb412024-bib-0029" ref-type="ref">29</xref>, <xref rid="feb412024-bib-0030" ref-type="ref">30</xref>. The visceral fat areas from untreated control, parental strain, mut1 and mut2 were measured 27%, 24%, 14% and 13%, respectively, at 22&#x000a0;weeks using an open&#x02010;type 0.3 Tesla MRI (Fig.&#x000a0;<xref rid="feb412024-fig-0002" ref-type="fig">2</xref>B). These results indicated that the administration of the FFAs&#x02010;absorbing <italic>Lactobacillus</italic> mutants could reduce FFAs absorption by the host and thus reduce body weight as well as visceral fat accumulation.</p><p>As the body gains weight, it becomes less sensitive to insulin and leptin, which leads to increased plasma concentrations of leptin, insulin and glucose as well as increased LDL and TC <xref rid="feb412024-bib-0031" ref-type="ref">31</xref>, <xref rid="feb412024-bib-0032" ref-type="ref">32</xref>. The blood profile with respect to the obesity markers was also analyzed at the beginning and end of the feeding experiments. There were significant differences in the lipid profiles within the experimental groups whereas parental 3179 strain failed to show significant differences (Fig.&#x000a0;<xref rid="feb412024-fig-0002" ref-type="fig">2</xref>C). TG levels of mut1 and mut2 were 63% and 49% of the control respectively. In TC, HDL and LDL, however, only mut2 showed significant difference compared to the uncolonized control. TC levels of mut1 and mut2 were 91% and 74% of the control whereas LDL levels were 104.5% and 58.8% of the control respectively. HDL levels of mut1 and mut2 were 103.1 and 124.9% of the control respectively.</p><p>Feeding the rat mut1 and mut2 also significantly reduced the serum insulin levels by 23% and 30%, and serum leptin levels by 30% and 45%, respectively, compared to the uncolonized control (Fig.&#x000a0;<xref rid="feb412024-fig-0002" ref-type="fig">2</xref>D). The mutant strains also exhibited glucose&#x02010;lowering effect, which was expected from their anti&#x02010;obesity effect (Fig.&#x000a0;<xref rid="feb412024-fig-0002" ref-type="fig">2</xref>E). The serum glucose levels were lower in the mut1 and mut2 groups (107.6&#x000a0;mg&#x000b7;dL<sup>&#x02212;1</sup> and 108.4&#x000a0;mg&#x000b7;dL<sup>&#x02212;1</sup>, respectively) than in the uncolonized control and parental strain groups (122.1&#x000a0;mg&#x000b7;dL<sup>&#x02212;1</sup> and 123.4&#x000a0;mg&#x000b7;dL<sup>&#x02212;1</sup>, respectively). Taken together, our FFAs&#x02010;absorbing lactobacilli not only inhibited weight gain and body fat accumulation but also improved blood profiles, ameliorating obesity.</p></sec><sec id="feb412024-sec-0013"><title>Isolation and characterization of intestinal FFAs&#x02010;absorbing <italic>Lactobacillus</italic> JBD301</title><p>Because the mutant experiments proved our hypothesis that energy intake can be reduced with the FFAs&#x02010;absorbing <italic>Lactobacillus</italic>, we performed high throughput screening to identify intestinal FFAs&#x02010;absorbing <italic>Lactobacillus</italic> strains. Fecal samples from lean volunteers were inoculated on MRS agar plates, a selective media for <italic>Lactobacillus</italic>. By screening more than 20&#x000a0;000 strains, we were able to find various <italic>Lactobacillus</italic> strains that absorbed FFAs stronger than the common <italic>Lactobacillus</italic> strains in a FFAs quantitative assay. Animal experiments using the identified FFAs&#x02010;absorbing <italic>Lactobacillus</italic> strains in C57BL/6 mice showed that the degree of efficacy on weight gain was positively correlated with the FFAs absorption degree of the <italic>Lactobacillus</italic> strains (Fig.&#x000a0;S1). One <italic>Lactobacillus</italic> strain in particular, G5&#x02010;1, was shown to absorb FFAs strongly (Fig.&#x000a0;S1). Microscopic observations and molecular identification by 16S rDNA sequence analysis identified this strain as an unknown subspecies of <italic>Lactobacillus reuteri</italic> (Fig.&#x000a0;<xref rid="feb412024-fig-0003" ref-type="fig">3</xref>); thus, it was named <italic>Lactobacillus</italic> JBD301 and deposited into the Korean Collection for Type Cultures (KCTC 12606BP).</p><fig fig-type="Figure" xml:lang="en" id="feb412024-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The morphological and molecular characterization of natural <styled-content style="fixed-case">FFA</styled-content>s&#x02010;absorbing <italic>Lactobacillus</italic> strain, <italic>L.&#x000a0;reuteri </italic>
+<styled-content style="fixed-case">JBD</styled-content>301. (A) Gram staining of <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301. (B) <styled-content style="fixed-case">TEM</styled-content> images of <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301. (C) Phylogenic tree of <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301. Accession numbers of bacterial strains are marked by an underscore next to the strain number. The phylogenetic tree was constructed by Phylogeny.fr set to build maximum&#x02010;likelihood phylogenetic trees (Phy<styled-content style="fixed-case">ML</styled-content>). The scale bar represents an evolutionary distance.</p></caption><graphic id="nlm-graphic-5" xlink:href="FEB4-6-64-g003"/></fig></sec><sec id="feb412024-sec-0014"><title>FFAs&#x02010;absorbing <italic>Lactobacillus</italic> JBD301 lowered the intestinal FFAs concentrations and thus reduced absorption of FFAs by host whereas increased fecal excretion of FFAs</title><p>It was shown that FFAs&#x02010;absorbing <italic>Lactobacillus</italic> JBD301 was able to absorb FFAs up to 10 times more than other <italic>Lactobacillus</italic> (Fig.&#x000a0;<xref rid="feb412024-fig-0004" ref-type="fig">4</xref>A, Fig.&#x000a0;S1). Next, we investigated whether <italic>Lactobacillus</italic> JBD301 can reduce the absorption of FFAs into host as in the case of the mutant strains. The FFAs absorptions by <italic>Lactobacillus</italic> JBD301 and resulting removals of FFAs from absorbable pool of intestinal FFAs was determined by measuring the FFAs concentration in the gut fluid content where absorption of most FFAs occurs (Fig.&#x000a0;<xref rid="feb412024-fig-0004" ref-type="fig">4</xref>B). In C57BL/6 mice colonized with <italic>Lactobacillus</italic> JBD301, the FFAs concentrations in fluid contents at small intestine were reduced to 69% of control whereas the FFAs concentrations at large intestine were not much different. The changes in absorption and excretion of dietary fat in the <italic>Lactobacillus</italic> JBD301&#x02010;fed host were also determined (Fig.&#x000a0;<xref rid="feb412024-fig-0004" ref-type="fig">4</xref>C and D). After 3&#x02010;week administration of <italic>Lactobacillus</italic> JBD301, radiolabeled dietary fat, <sup>14</sup>C&#x02010;triolein, was orally administered to the mice. The radioactivities from absorbed fat in the blood of <italic>Lactobacillus</italic> JBD301&#x02010;fed host were significantly decreased, down to 62% of control at 4&#x000a0;h after intake of radiolabeled food (Fig.&#x000a0;<xref rid="feb412024-fig-0004" ref-type="fig">4</xref>C). The changes in the amount of excreted dietary fats, which were absorbed into <italic>Lactobacillus</italic> JBD301, were also measured by quantitating the radioactivities in the feces of <italic>Lactobacillus</italic> JBD301&#x02010;fed mice (Fig.&#x000a0;<xref rid="feb412024-fig-0004" ref-type="fig">4</xref>D). Compared to the unfed control, the radioactivities in the feces of JBD301&#x02010;fed host were significantly increased, up to 176% of the control after 1&#x000a0;day from radiolabeled food intake.</p><fig fig-type="Figure" xml:lang="en" id="feb412024-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The <styled-content style="fixed-case">FFA</styled-content>s&#x02010;absorbing <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 lowered the intestinal <styled-content style="fixed-case">FFA</styled-content>s concentration and limited the absorbable <styled-content style="fixed-case">FFA</styled-content>s quantities into host, inhibiting absorption of <styled-content style="fixed-case">FFA</styled-content>s by host but promoting excretion of <styled-content style="fixed-case">FFA</styled-content>s. (A) The <styled-content style="fixed-case">FFA</styled-content>s absorption by <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 was compared with common <italic>Lactobacillus</italic> strain by measuring the <styled-content style="fixed-case">FFA</styled-content>s concentration in the conditioned media. Values are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;5). (B) The intestinal <styled-content style="fixed-case">FFA</styled-content>s concentrations in the gut fluid of <styled-content style="fixed-case">JBD</styled-content>301&#x02010;fed host was determined. Seven&#x02010;week&#x02010;old female C57<styled-content style="fixed-case">BL</styled-content>/6 mice were randomized and fed a <styled-content style="fixed-case">HFD</styled-content> only (control) or a <styled-content style="fixed-case">HFD</styled-content> supplemented daily with 10<sup>7</sup>
+<styled-content style="fixed-case">CFU</styled-content> of <styled-content style="fixed-case">JBD</styled-content>301. After 3&#x000a0;weeks of administration, gut fluid contents were analyzed for total <styled-content style="fixed-case">FFA</styled-content>s concentration. Values are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;3). (C) The <styled-content style="fixed-case">FFA</styled-content>s absorption from dietary fat was determined by measuring the radioactivity in the blood of <styled-content style="fixed-case">JBD</styled-content>301&#x02010;fed host. Seven&#x02010;week&#x02010;old female C57<styled-content style="fixed-case">BL</styled-content>/6 mice were fed a <styled-content style="fixed-case">HFD</styled-content> only (control) or a <styled-content style="fixed-case">HFD</styled-content> supplemented daily with 10<sup>7</sup>
+<styled-content style="fixed-case">CFU</styled-content> of <styled-content style="fixed-case">JBD</styled-content>301. After 3&#x000a0;weeks of administration, feed containing radiolabeled fat, <sup>14</sup>C&#x02010;triolein, was administered and radioactivities of the blood samples were analyzed. Values are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;7). (D) The <styled-content style="fixed-case">FFA</styled-content>s excretion was determined by measuring the radioactivity in the feces of <styled-content style="fixed-case">JBD</styled-content>301&#x02010;fed host. Seven&#x02010;week&#x02010;old female C57<styled-content style="fixed-case">BL</styled-content>/6 mice were randomized and fed a <styled-content style="fixed-case">HFD</styled-content> only (control) or a <styled-content style="fixed-case">HFD</styled-content> diet supplemented daily with 10<sup>7</sup>
+<styled-content style="fixed-case">CFU</styled-content> of <styled-content style="fixed-case">JBD</styled-content>301. After 3&#x000a0;weeks of administration, feed containing radiolabeled fat, <sup>14</sup>C&#x02010;triolein, was administered and radioactivities of the feces were analyzed. Values are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;7). Statistical significance is shown as *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 and **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 versus control by <styled-content style="fixed-case">ANOVA</styled-content>.</p></caption><graphic id="nlm-graphic-7" xlink:href="FEB4-6-64-g004"/></fig></sec><sec id="feb412024-sec-0015"><title>FFAs&#x02010;absorbing <italic>Lactobacillus</italic> JBD301 inhibited weight gain in host, both in mice and humans</title><p>In accordance with observed inhibition of FFAs absorption, administration of FFAs&#x02010;absorbing <italic>Lactobacillus</italic> JBD301 resulted in a significant decrease in body weight of host animal (Fig.&#x000a0;<xref rid="feb412024-fig-0005" ref-type="fig">5</xref>A). After 4&#x000a0;weeks, the body weight of control groups was 32.7&#x000a0;g with 4.3&#x000a0;g of weight gain. In contrast, JBD301&#x000a0;group was 28.1 g with 0.2&#x000a0;g of weight gain and orlistat group was 27.3&#x000a0;g with 0.8&#x000a0;g of weight loss. The most significant finding in this experiment was that the degree of body weight reduction by <italic>Lactobacillus</italic> JBD301 was as much as that of the mice that had been administered a pharmaceutically effective dose of orlistat.</p><fig fig-type="Figure" xml:lang="en" id="feb412024-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Administration of the <styled-content style="fixed-case">FFA</styled-content>s&#x02010;absorbing <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 significantly reduced body weight of the colonized hosts in both animals and humans. The diet&#x02010;induced obese C57<styled-content style="fixed-case">BL</styled-content>/6 mice were administered the <styled-content style="fixed-case">HFD</styled-content> control diet (&#x025cb;) or the <styled-content style="fixed-case">HFD</styled-content> supplemented with <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 (&#x025cf;) or orlistat (&#x02206;) daily. Seven&#x02010;week&#x02010;old female C57<styled-content style="fixed-case">BL</styled-content>/6 mice were randomized and fed a <styled-content style="fixed-case">HFD</styled-content> for 12&#x000a0;weeks to induce obesity. After 12&#x000a0;weeks on the <styled-content style="fixed-case">HFD</styled-content>, administration, the animals were randomly divided into groups that received <styled-content style="fixed-case">HFD</styled-content> only (control), <styled-content style="fixed-case">HFD</styled-content> supplemented with <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 (1&#x000a0;&#x000d7;&#x000a0;10<sup>7</sup>&#x000a0;<styled-content style="fixed-case">CFU</styled-content>&#x000b7;day<sup>&#x02212;1</sup>), or <styled-content style="fixed-case">HFD</styled-content> supplemented with orlistat (Xenical<sup>&#x000ae;</sup> at 50&#x000a0;mg&#x000b7;kg<sup>&#x02212;1</sup> diet). (A) Body weights were monitored weekly. Values are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;5). Statistical significance is shown as **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 versus control by <styled-content style="fixed-case">ANOVA</styled-content>. (B) A random, double&#x02010;blind, placebo&#x02010;controlled human study was conducted to determine the anti&#x02010;obesity efficacy of <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 in adults with 25&#x000a0;&#x02264;&#x000a0;<styled-content style="fixed-case">BMI</styled-content>&#x000a0;&#x0003c;&#x000a0;35. Placebo group (<italic>n</italic>&#x000a0;=&#x000a0;19) were administered single capsule of vegetable cream as control while experimental group (<italic>n</italic>&#x000a0;=&#x000a0;18) were administered <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 at dose of 1&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>&#x000a0;<styled-content style="fixed-case">CFU</styled-content>&#x000b7;day<sup>&#x02212;1</sup> for 12&#x000a0;weeks. Values are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content>. Statistical significance of clinical data, body weight at 12&#x000a0;weeks, is shown as *<italic>P</italic>&#x000a0;&#x0003c; 0.05 versus control by Wilcoxon signed rank test (<italic>P</italic>&#x000a0;=&#x000a0;0.028).</p></caption><graphic id="nlm-graphic-9" xlink:href="FEB4-6-64-g005"/></fig><p>After confirming that the degree of weight loss by <italic>Lactobacillus</italic> JBD301 could be up to that of a current pharmaceutical drug, a phase 2 clinical trial was conducted to determine the efficacy of <italic>Lactobacillus</italic> JBD301 in obese adults with 25&#x000a0;&#x02264;&#x000a0;BMI&#x000a0;&#x0003c;&#x000a0;35 (Fig.&#x000a0;S2). This trial was registered with Clinical Research Information Service of Korea as KCT0000452 (<ext-link ext-link-type="uri" xlink:href="https://cris.nih.go.kr">https://cris.nih.go.kr</ext-link>). Recruited subjects were included in the trial after screening with inclusion and exclusion criteria. Randomized subjects were daily administered a 450&#x000a0;mg capsule containing either <italic>Lactobacillus</italic> JBD301 at 10<sup>9</sup>&#x000a0;CFU/capsule as experimental ingredient or nondairy creamer as placebo for 12&#x000a0;weeks. In this study, subgroup was analyzed in which 37 subjects received double&#x02010;blinded materials which contain either the nondairy creamer as placebo (<italic>n</italic>&#x000a0;=&#x000a0;19) or <italic>Lactobacillus</italic> JBD301 as the experimental treatment (<italic>n</italic>&#x000a0;=&#x000a0;18) (Fig.&#x000a0;S3 and Table&#x000a0;S4).</p><p>Without any dietary restrictions or additional exercise, changes in the body weight from baseline to endpoint were 0.31% (0.21&#x000a0;kg) in the <italic>Lactobacillus</italic> JBD301 group and 1.77% (1.45&#x000a0;kg) in the placebo group, resulting in a 1.46% (1.24&#x000a0;kg) between&#x02010;group difference (Table&#x000a0;S5). A Mann&#x02013;Whitney <italic>U</italic> test showed that there was a statistically significant difference in the percentage change in weight between the <italic>Lactobacillus</italic> JBD301 and the placebo group (<italic>P</italic>&#x000a0;=&#x000a0;0.026) as well as in the BMI (<italic>P</italic>&#x000a0;=&#x000a0;0.036) from the 0&#x02010;week assessment to the 12&#x02010;week assessment (Table&#x000a0;S5). A Wilcoxon signed rank test also confirmed that there was a statistically significant difference in the pairwise comparison of the percentage of the control between 0 and 12&#x000a0;weeks (<italic>P</italic>&#x000a0;=&#x000a0;0.028) (Fig.&#x000a0;<xref rid="feb412024-fig-0005" ref-type="fig">5</xref>B and Table&#x000a0;S6). There were no adverse events related to the treatment.</p><p>Because the body weight of humans is heavily affected by food intake and lifestyle, and thus, the body weight of an obese person fluctuates, between&#x02010;group differences, <italic>i.e</italic>. weight differences between the control and the experimental group, could be a more important parameter than the value of body weight reduction in obesity clinical trials. In our clinical trial, the weight difference between the placebo and FFAs&#x02010;absorbing <italic>Lactobacillus</italic> JBD301 groups was 1.24&#x000a0;kg without calorie restriction, which is far greater than that of the orlistat trial, where 0.71&#x000a0;kg was the weight difference compared to placebo after 180&#x000a0;mg of orlistat for 12&#x000a0;weeks under a hypocaloric diet <xref rid="feb412024-bib-0033" ref-type="ref">33</xref>. Therefore, this work shows that the <italic>Lactobacillus</italic> strains with the ability to actively remove intestinal FFAs have anti&#x02010;obesity effects as great as the most popular anti&#x02010;obesity pharmaceutical drug, orlistat, in animal experiments as well as in a clinical trial.</p><p>However, abdominal fat, blood lipid profile, fasting blood glucose, blood insulin,= and HbA1c failed to show significant difference between placebo and experimental group in this trial. Further clinical trials need to consider more numbers of subjects with longer periods of intervention, if possible, with strict control of diet and exercise.</p></sec></sec><sec id="feb412024-sec-0016"><title>Discussion</title><p>Excess caloric intake from dietary fat is the most important determining factor for obesity, which has become more prevalent throughout the developed world <xref rid="feb412024-bib-0034" ref-type="ref">34</xref>, <xref rid="feb412024-bib-0035" ref-type="ref">35</xref>. For the vast majority of humans, caloric intake that exceeds caloric expenditure by as little as 1% could result in the accumulation of body fat and eventual obesity <xref rid="feb412024-bib-0036" ref-type="ref">36</xref>. Therefore, the 30% reduction in FFAs absorption by orlistat produces significant weight loss <xref rid="feb412024-bib-0037" ref-type="ref">37</xref>.</p><p>In this work, we demonstrated that the <italic>Lactobacillus</italic> strains that lower intestinal FFAs concentration in the guts show anti&#x02010;obesity effects almost as much as the most popular anti&#x02010;obesity pharmaceutical drug, orlistat, in animal experiments as well as in a clinical trial (Fig.&#x000a0;<xref rid="feb412024-fig-0005" ref-type="fig">5</xref>). Although orlistat inhibits FFAs generation for absorption, JBD301 absorbs FFAs and lowers FFA concentration in the gut fluid contents and thus reduces the amount of FFAs available for absorption. Eventually, they both reduce the FFAs uptake into the body and, thus can result in significant weight loss. In addition, <italic>Lactobacillus</italic> JBD301 strains have obvious advantages over the current pharmaceuticals for obesity. The <italic>Lactobacillus</italic> strains do not act on the brain but instead act peripherally and, therefore, have a superior risk&#x02010;benefit profile to the current centrally acting drugs. Second, <italic>Lactobacillus</italic> does not act on lipid hydrolysis as orlistat does, which can cause unavoidable side effects in the GI tract, such as anal leakage and oily spotting. Third, <italic>Lactobacillus</italic> is a beneficial probiotic that conveys considerable safety as a drug for long&#x02010;term administration.</p><p>Despite numerous studies, the direct impact of intestinal microbiota at the genus and species levels on the body weight of host remains unclear until now. Some <italic>Lactobacillus</italic> species are associated with weight gain whereas others are associated with weight loss <xref rid="feb412024-bib-0038" ref-type="ref">38</xref>, <xref rid="feb412024-bib-0039" ref-type="ref">39</xref>. For instance, administration of <italic>L.&#x000a0;acidophillus, L.&#x000a0;fermentum</italic> and <italic>L.&#x000a0;ingluviei</italic> was associated with weight gain, whereas <italic>L.&#x000a0;plantarum</italic> and <italic>L.&#x000a0;gasseri</italic> were associated with weight loss. More complicatedly, different strains from the same species often showed different effects on weight <xref rid="feb412024-bib-0038" ref-type="ref">38</xref>. Although some strains of <italic>L.&#x000a0;reuteri</italic> were associated with obesity, other strains of <italic>L.&#x000a0;reuteri</italic> prevent diet&#x02010;induced obesity in a strain&#x02010;dependent fashion <xref rid="feb412024-bib-0039" ref-type="ref">39</xref>, <xref rid="feb412024-bib-0040" ref-type="ref">40</xref>. In this study, we showed that lactobacilli either acquired or naturally having the ability to remove FFAs in the GI tract showed anti&#x02010;obesity phenotypes, which implies that metabolic activities rather than microbial composition in the intestinal microbiota play determining roles in host phenotypes. These results were further supported by the recent finding that administration of <italic>L.&#x000a0;gasseri</italic> SBT2055, a <italic>Lactobacillus</italic> strain having anti&#x02010;obesity phenotype, decreased significantly the serum concentration of FFAs in hyperglycemic subject <xref rid="feb412024-bib-0041" ref-type="ref">41</xref>. Considering that microbiota seems to affect host obesity by modulating nutrient uptake and energy metabolism, lactobacilli regulating intestinal absorption of FFAs could be the ideal approaches for anti&#x02010;obesity phenotypes <xref rid="feb412024-bib-0042" ref-type="ref">42</xref>, <xref rid="feb412024-bib-0043" ref-type="ref">43</xref>, <xref rid="feb412024-bib-0044" ref-type="ref">44</xref>.</p><p>Recently, it has been acknowledged that the intestinal microbiota is associated with various human diseases, including obesity, diabetes, metabolic syndrome, inflammatory bowel disease, cognitive functions, cholelithiasis and autism <xref rid="feb412024-bib-0045" ref-type="ref">45</xref>, <xref rid="feb412024-bib-0046" ref-type="ref">46</xref>, <xref rid="feb412024-bib-0047" ref-type="ref">47</xref>. Metagenomic studies demonstrated that the composition of the intestinal microbiota differs in control and disease groups in humans as well as animals <xref rid="feb412024-bib-0048" ref-type="ref">48</xref>, <xref rid="feb412024-bib-0049" ref-type="ref">49</xref>, <xref rid="feb412024-bib-0050" ref-type="ref">50</xref>, <xref rid="feb412024-bib-0051" ref-type="ref">51</xref>. However, investigations into the microbial species responsible for diseases have frequently produced conflicting results with no successful attempts to develop a treatment for these diseases by modulating the composition of the intestinal microbiota <xref rid="feb412024-bib-0052" ref-type="ref">52</xref>, <xref rid="feb412024-bib-0053" ref-type="ref">53</xref>. One possible explanation for the inconsistent correlation between the composition of the intestinal microbiota and the resultant diseases might be due to the intraspecies heterogeneity of bacterial genomes <xref rid="feb412024-bib-0054" ref-type="ref">54</xref>. Even within a species, bacterial genomes are highly heterogeneous because of their haploid genomes and the presence of extrachromosomal elements; thus, metabolic activities within a species of bacteria frequently differ from each other <xref rid="feb412024-bib-0055" ref-type="ref">55</xref>. To elucidate the determining role of the intestinal microbiota in obesity, based on our results, it is reasonable to investigate the metabolic differences of the intestinal microbiota rather than the compositional differences. We also believe that this approach will lead to the development of living microbial drugs to treat various diseases associated with microbiota.</p></sec><sec id="feb412024-sec-0018"><title>Author contributions</title><p>S.T.H. and H.J.K. designed research; H.J.C., J.G.Y., I.A.L., M.J.L., Y.F.S., S.P.S., M.A.H.M.J. and J.H.Y. performed research; S.T.H., H.J.K., H.J.C. and J.G.Y. analyzed data; and S.T.H. and H.J.K. wrote the paper.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Fig.&#x000a0;S1.</bold> Identification of natural <italic>Lactobacillus</italic> strains that strongly absorb <styled-content style="fixed-case">FFA</styled-content>s.</p><p>
+<bold>Fig.&#x000a0;S2.</bold> Study protocol for randomized controlled trial of effects of <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 on obesity.</p><p>
+<bold>Fig.&#x000a0;S3.</bold> Flow chart for randomized controlled trial of effects of <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301on weight loss in obesity.</p><p>
+<bold>Table&#x000a0;S1.</bold> The acidification characteristics of milk by <italic>L.&#x000a0;acidophilus </italic>
+<styled-content style="fixed-case">KCTC</styled-content> 3179<italic>,</italic> mut1 and mut2.</p><p>
+<bold>Table&#x000a0;S2.</bold> Confirmation of colonized <italic>L.&#x000a0;acidophilus </italic>
+<styled-content style="fixed-case">KCTC</styled-content> 3179<italic>,</italic> mut1 and mut2 in the <styled-content style="fixed-case">GI</styled-content> tract of rats.</p><p>
+<bold>Table&#x000a0;S3.</bold> Confirmation of colonized <italic>L.&#x000a0;acidophilus </italic>
+<styled-content style="fixed-case">KCTC</styled-content> 3179<italic>,</italic> mut1 and mut2 in the <styled-content style="fixed-case">GI</styled-content> tract of the diet&#x02010;induced obese rats.</p><p>
+<bold>Table&#x000a0;S4.</bold> Study participants' baseline characteristics.</p><p>
+<bold>Table&#x000a0;S5.</bold> Comparison of % change in outcome variables at 12th week between the placebo control and the experimental <italic>Lactobacillus </italic>
+<styled-content style="fixed-case">JBD</styled-content>301 groups.</p><p>
+<bold>Table&#x000a0;S6.</bold> Comparison of % control in body weight between 0 and 12th week.</p><p>
+<bold>Data S1.</bold> Methods.</p></caption><media xlink:href="FEB4-6-64-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="feb412024-sec-0017"><title>Acknowledgements</title><p>The authors thank Yun&#x02010;Jo Chung and Eun&#x02010;Jin Choi in the Center for University&#x02010;Wide Research for Facilities (CURF) at the Chonbuk National University for GC/MS analyzes and TEM image. This research was supported by the Technology Development Program for Agriculture and Forestry No. 313040&#x02010;3, Ministry for Food, Agriculture, Forestry and Fisheries, Republic of Korea. This research was also supported in part by the Biofood Material Trial Evaluation Certification Supporting Project for Department of Ministry of Knowledge Economy, Republic of Korea.</p></ack><ref-list content-type="cited-references" id="feb412024-bibl-0001"><title>References</title><ref id="feb412024-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="feb412024-cit-0001">
+<string-name>
+<surname>Wells</surname>
+<given-names>JC</given-names>
+</string-name> and <string-name>
+<surname>Siervo</surname>
+<given-names>M</given-names>
+</string-name> (<year>2011</year>) <article-title>Obesity and energy balance: is the tail wagging the dog?</article-title>
+<source>Eur J Clin Nutr</source>
+<volume>65</volume>, <fpage>1173</fpage>&#x02013;<lpage>1189</lpage>.<pub-id pub-id-type="pmid">21772313</pub-id></mixed-citation></ref><ref id="feb412024-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="feb412024-cit-0002">
+<string-name>
+<surname>Visscher</surname>
+<given-names>TL</given-names>
+</string-name> and <string-name>
+<surname>Seidell</surname>
+<given-names>JC</given-names>
+</string-name> (<year>2001</year>) <article-title>The public health impact of&#x000a0;obesity</article-title>. <source>Annu Rev Public Health</source>
+<volume>22</volume>, <fpage>355</fpage>&#x02013;<lpage>375</lpage>.<pub-id pub-id-type="pmid">11274526</pub-id></mixed-citation></ref><ref id="feb412024-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="feb412024-cit-0003">
+<string-name>
+<surname>Holes&#x02010;Lewis</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Malcolm</surname>
+<given-names>R</given-names>
+</string-name> and <string-name>
+<surname>O'Neil</surname>
+<given-names>PM</given-names>
+</string-name> (<year>2013</year>) <article-title>Pharmacotherapy of obesity: clinical treatments and considerations</article-title>. <source>Am J Med Sci</source>
+<volume>345</volume>, <fpage>284</fpage>&#x02013;<lpage>288</lpage>.<pub-id pub-id-type="pmid">23531960</pub-id></mixed-citation></ref><ref id="feb412024-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="feb412024-cit-0004">
+<string-name>
+<surname>Kang</surname>
+<given-names>JG</given-names>
+</string-name> and <string-name>
+<surname>Park</surname>
+<given-names>CY</given-names>
+</string-name> (<year>2012</year>) <article-title>Anti&#x02010;obesity drugs: a review about their effects and safety</article-title>. <source>Diabetes Metab J</source>
+<volume>36</volume>, <fpage>13</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">22363917</pub-id></mixed-citation></ref><ref id="feb412024-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="feb412024-cit-0005">
+<string-name>
+<surname>Powell</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Apovian</surname>
+<given-names>CM</given-names>
+</string-name> and <string-name>
+<surname>Aronne</surname>
+<given-names>LJ</given-names>
+</string-name> (<year>2011</year>) <article-title>New drug targets for the treatment of obesity</article-title>. <source>Clin Pharmacol Ther</source>
+<volume>90</volume>, <fpage>40</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">21654742</pub-id></mixed-citation></ref><ref id="feb412024-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="feb412024-cit-0006">
+<string-name>
+<surname>Wright</surname>
+<given-names>SM</given-names>
+</string-name> and <string-name>
+<surname>Aronne</surname>
+<given-names>LJ</given-names>
+</string-name> (<year>2011</year>) <article-title>Obesity in 2010: the future of obesity medicine: where do we go from here?</article-title>
+<source>Nat Rev Endocrinol</source>
+<volume>7</volume>, <fpage>69</fpage>&#x02013;<lpage>70</lpage>.<pub-id pub-id-type="pmid">21263435</pub-id></mixed-citation></ref><ref id="feb412024-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="feb412024-cit-0007">
+<string-name>
+<surname>Poirier</surname>
+<given-names>P</given-names>
+</string-name> (<year>2011</year>) <article-title>Weight loss drugs and cardiovascular risks</article-title>. <source>Curr Cardiovasc Risk Rep</source>
+<volume>5</volume>, <fpage>138</fpage>&#x02013;<lpage>144</lpage>.</mixed-citation></ref><ref id="feb412024-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="feb412024-cit-0008">
+<string-name>
+<surname>James</surname>
+<given-names>WPT</given-names>
+</string-name>, <string-name>
+<surname>Caterson</surname>
+<given-names>ID</given-names>
+</string-name>, <string-name>
+<surname>Coutinho</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Finer</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gaal</surname>
+<given-names>LFV</given-names>
+</string-name>, <string-name>
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Torp&#x02010;Pedersen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Shepherd</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Rode</surname>
+<given-names>RA</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Effect of sibutramine on cardiovascular outcomes in overweight and obese subjects</article-title>. <source>N Engl J Med</source>
+<volume>363</volume>, <fpage>905</fpage>&#x02013;<lpage>917</lpage>.<pub-id pub-id-type="pmid">20818901</pub-id></mixed-citation></ref><ref id="feb412024-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="feb412024-cit-0009">
+<string-name>
+<surname>Yanovski</surname>
+<given-names>SZ</given-names>
+</string-name> and <string-name>
+<surname>Yanovski</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2014</year>) <article-title>Long&#x02010;term drug treatment for obesity: a systematic and clinical review</article-title>. <source>JAMA</source>
+<volume>311</volume>, <fpage>74</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">24231879</pub-id></mixed-citation></ref><ref id="feb412024-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="feb412024-cit-0010">
+<string-name>
+<surname>Guercolini</surname>
+<given-names>R</given-names>
+</string-name> (<year>1997</year>) <article-title>Mode of action of orlistat</article-title>. <source>Int J Obes Relat Metab Disord</source>
+<volume>21</volume>, <fpage>S12</fpage>&#x02013;<lpage>S23</lpage>.<pub-id pub-id-type="pmid">9225172</pub-id></mixed-citation></ref><ref id="feb412024-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="feb412024-cit-0011">
+<string-name>
+<surname>Hauptman</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Jeunet</surname>
+<given-names>FS</given-names>
+</string-name> and <string-name>
+<surname>Hartmann</surname>
+<given-names>D</given-names>
+</string-name> (<year>1992</year>) <article-title>Initial studies in humans with the novel gastrointestinal lipase inhibitor Ro 18&#x02010;0647 (tetrahydrolipstatin)</article-title>. <source>Am J Clin Nutr</source>
+<volume>55</volume>, <fpage>309S</fpage>&#x02013;<lpage>313S</lpage>.<pub-id pub-id-type="pmid">1728845</pub-id></mixed-citation></ref><ref id="feb412024-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="feb412024-cit-0012">
+<string-name>
+<surname>Hill</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hauptman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ken Fujioka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>O'Neil</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zavoral</surname>
+<given-names>J</given-names>
+</string-name> and <string-name>
+<surname>Aronne</surname>
+<given-names>L</given-names>
+</string-name> (<year>1999</year>) <article-title>Orlistat, a lipase inhibitor, for weight maintenance after conventional dieting: a 1&#x02010;y study</article-title>. <source>Am J Clin Nutr</source>
+<volume>69</volume>, <fpage>1108</fpage>&#x02013;<lpage>1116</lpage>.<pub-id pub-id-type="pmid">10357727</pub-id></mixed-citation></ref><ref id="feb412024-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="feb412024-cit-0013">
+<string-name>
+<surname>Jain</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Khurana</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lau</surname>
+<given-names>SWJ</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Vaidyanathan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zadezensky</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Choe</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Sahajwalla</surname>
+<given-names>CG</given-names>
+</string-name> (<year>2011</year>) <article-title>Implications of obesity for drug therapy: limitations and challenges</article-title>. <source>Clin Pharmacol Ther</source>
+<volume>90</volume>, <fpage>77</fpage>&#x02013;<lpage>89</lpage>.<pub-id pub-id-type="pmid">21633345</pub-id></mixed-citation></ref><ref id="feb412024-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="feb412024-cit-0014">
+<string-name>
+<surname>Colman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Golden</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Egan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Weaver</surname>
+<given-names>J</given-names>
+</string-name> and <string-name>
+<surname>Rosebraugh</surname>
+<given-names>C</given-names>
+</string-name> (<year>2012</year>) <article-title>The FDA's assessment of two drugs for chronic weight management</article-title>. <source>N Engl J Med</source>
+<volume>367</volume>, <fpage>1577</fpage>&#x02013;<lpage>1579</lpage>.<pub-id pub-id-type="pmid">23050510</pub-id></mixed-citation></ref><ref id="feb412024-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="feb412024-cit-0015">
+<string-name>
+<surname>Bays</surname>
+<given-names>HE</given-names>
+</string-name> (<year>2011</year>) <article-title>Lorcaserin: drug profile and illustrative model of the regulatory challenges of weight&#x02010;loss drug development</article-title>. <source>Expert Rev Cardiovasc Ther</source>
+<volume>9</volume>, <fpage>265</fpage>&#x02013;<lpage>277</lpage>.<pub-id pub-id-type="pmid">21438803</pub-id></mixed-citation></ref><ref id="feb412024-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="feb412024-cit-0016">
+<string-name>
+<surname>Gadde</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Allison</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Troupin</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Schwiers</surname>
+<given-names>ML</given-names>
+</string-name> and <string-name>
+<surname>Day</surname>
+<given-names>WW</given-names>
+</string-name> (<year>2011</year>) <article-title>Effects of low&#x02010;dose, controlled&#x02010;release, phentermine plus topiramate combination on weight and associated comorbidities in overweight and obese adults (CONQUER): a randomised, placebo&#x02010;controlled, phase 3 trial</article-title>. <source>Lancet</source>
+<volume>377</volume>, <fpage>1341</fpage>&#x02013;<lpage>1352</lpage>.<pub-id pub-id-type="pmid">21481449</pub-id></mixed-citation></ref><ref id="feb412024-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="feb412024-cit-0017">
+<string-name>
+<surname>Halford</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Boyland</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Blundell</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Kirkham</surname>
+<given-names>TC</given-names>
+</string-name> and <string-name>
+<surname>Harrold</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2010</year>) <article-title>Pharmacological management of appetite expression in obesity</article-title>. <source>Nat Rev Endocrinol</source>
+<volume>6</volume>, <fpage>255</fpage>&#x02013;<lpage>269</lpage>.<pub-id pub-id-type="pmid">20234354</pub-id></mixed-citation></ref><ref id="feb412024-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="feb412024-cit-0018">
+<string-name>
+<surname>Dietrich</surname>
+<given-names>MO</given-names>
+</string-name> and <string-name>
+<surname>Horvath</surname>
+<given-names>TL</given-names>
+</string-name> (<year>2012</year>) <article-title>Limitations in anti&#x02010;obesity drug development: the critical role of hunger&#x02010;promoting neurons</article-title>. <source>Nat Rev Drug Discov</source>
+<volume>11</volume>, <fpage>675</fpage>&#x02013;<lpage>691</lpage>.<pub-id pub-id-type="pmid">22858652</pub-id></mixed-citation></ref><ref id="feb412024-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="feb412024-cit-0019">
+<string-name>
+<surname>Rueda&#x02010;Clausen</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Padwal</surname>
+<given-names>RS</given-names>
+</string-name> and <string-name>
+<surname>Sharma</surname>
+<given-names>AM</given-names>
+</string-name> (<year>2013</year>) <article-title>New pharmacological approaches for obesity management</article-title>. <source>Nat Rev Endocrinol</source>
+<volume>9</volume>, <fpage>467</fpage>&#x02013;<lpage>478</lpage>.<pub-id pub-id-type="pmid">23752772</pub-id></mixed-citation></ref><ref id="feb412024-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="feb412024-cit-0020">
+<string-name>
+<surname>Ley</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Turnbaugh</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Gordon</surname>
+<given-names>JI</given-names>
+</string-name> (<year>2006</year>) <article-title>Microbial ecology: human gut microbes associated with obesity</article-title>. <source>Nature</source>
+<volume>444</volume>, <fpage>1022</fpage>&#x02013;<lpage>1023</lpage>.<pub-id pub-id-type="pmid">17183309</pub-id></mixed-citation></ref><ref id="feb412024-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="feb412024-cit-0021">
+<string-name>
+<surname>Turnbaugh</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>B&#x000e4;ckhed</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fulton</surname>
+<given-names>L</given-names>
+</string-name> and <string-name>
+<surname>Gordon</surname>
+<given-names>JI</given-names>
+</string-name> (<year>2008</year>) <article-title>Diet&#x02010;induced obesity is linked to marked but reversible alterations in the mouse distal gut microbiome</article-title>. <source>Cell Host Microbe</source>
+<volume>3</volume>, <fpage>213</fpage>&#x02013;<lpage>223</lpage>.<pub-id pub-id-type="pmid">18407065</pub-id></mixed-citation></ref><ref id="feb412024-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="feb412024-cit-0022">
+<string-name>
+<surname>Ridaura</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Faith</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Rey</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Kau</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Griffin</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Lombard</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Henrissat</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bain</surname>
+<given-names>JR</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Gut microbiota from twins discordant for obesity modulate metabolism in mice</article-title>. <source>Science</source>
+<volume>341</volume>, <fpage>1241214</fpage>.<pub-id pub-id-type="pmid">24009397</pub-id></mixed-citation></ref><ref id="feb412024-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="feb412024-cit-0023">
+<string-name>
+<surname>Kadooka</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Imaizumi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ogawa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ikuyama</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Akai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Okano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kagoshima</surname>
+<given-names>M</given-names>
+</string-name> and <string-name>
+<surname>Tsuchida</surname>
+<given-names>T</given-names>
+</string-name> (<year>2010</year>) <article-title>Regulation of abdominal adiposity by probiotics (<italic>Lactobacillus gasseri</italic> SBT2055) in adults with obese tendencies in a randomized controlled trial</article-title>. <source>Eur J Clin Nutr</source>
+<volume>64</volume>, <fpage>636</fpage>&#x02013;<lpage>643</lpage>.<pub-id pub-id-type="pmid">20216555</pub-id></mixed-citation></ref><ref id="feb412024-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="feb412024-cit-0024">
+<string-name>
+<surname>Le Barz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Anh&#x000ea;</surname>
+<given-names>FF</given-names>
+</string-name>, <string-name>
+<surname>Varin</surname>
+<given-names>TV</given-names>
+</string-name>, <string-name>
+<surname>Desjardins</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>
+<given-names>D</given-names>
+</string-name> and <string-name>
+<surname>Marette</surname>
+<given-names>A</given-names>
+</string-name> (<year>2015</year>) <article-title>Probiotics as complementary treatment for metabolic disorders</article-title>. <source>Diabetes Metab J</source>
+<volume>39</volume>, <fpage>291</fpage>&#x02013;<lpage>303</lpage>.<pub-id pub-id-type="pmid">26301190</pub-id></mixed-citation></ref><ref id="feb412024-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="feb412024-cit-0025">
+<string-name>
+<surname>Semova</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Carten</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Stombaugh</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mackey</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Farber</surname>
+<given-names>SA</given-names>
+</string-name> and <string-name>
+<surname>Rawls</surname>
+<given-names>JF</given-names>
+</string-name> (<year>2012</year>) <article-title>Microbiota regulate intestinal absorption and metabolism of fatty acids in the zebrafish</article-title>. <source>Cell Host Microbe</source>
+<volume>12</volume>, <fpage>277</fpage>&#x02013;<lpage>288</lpage>.<pub-id pub-id-type="pmid">22980325</pub-id></mixed-citation></ref><ref id="feb412024-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="feb412024-cit-0026">
+<string-name>
+<surname>Lin</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>LW</given-names>
+</string-name> and <string-name>
+<surname>Tsen</surname>
+<given-names>HY</given-names>
+</string-name> (<year>2006</year>) <article-title>Viable counts, characteristic evaluation for commercial lactic acid bacteria products</article-title>. <source>Food Microbiol</source>
+<volume>23</volume>, <fpage>74</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">16942989</pub-id></mixed-citation></ref><ref id="feb412024-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="feb412024-cit-0027">
+<string-name>
+<surname>Johansson</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Molin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Jeppsson</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Nobaek</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ahrn&#x000e9;</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Bengmark</surname>
+<given-names>S</given-names>
+</string-name> (<year>1993</year>) <article-title>Administration of different <italic>Lactobacillus</italic> strains in fermented oatmeal soup: in&#x000a0;vivo colonization of human intestinal mucosa and effect on the indigenous flora</article-title>. <source>Appl Environ Microbiol</source>
+<volume>59</volume>, <fpage>15</fpage>&#x02013;<lpage>20</lpage>.<pub-id pub-id-type="pmid">8439146</pub-id></mixed-citation></ref><ref id="feb412024-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="feb412024-cit-0028">
+<string-name>
+<surname>Baek</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>D'Souza</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jeon</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Kweon</surname>
+<given-names>SJ</given-names>
+</string-name> and <string-name>
+<surname>Hong</surname>
+<given-names>ST</given-names>
+</string-name> (<year>2014</year>) <article-title>Treatment of obesity with the resveratrol&#x02010;enriched rice DJ&#x02010;526</article-title>. <source>Sci Rep</source>
+<volume>4</volume>, <fpage>3879</fpage>.<pub-id pub-id-type="pmid">24464364</pub-id></mixed-citation></ref><ref id="feb412024-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="feb412024-cit-0029">
+<string-name>
+<surname>Leenen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>van der Kooy</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Deurenberg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Seidell</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Weststrate</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Schouten</surname>
+<given-names>FJ</given-names>
+</string-name> and <string-name>
+<surname>Hautvast</surname>
+<given-names>JG</given-names>
+</string-name> (<year>1992</year>) <article-title>Visceral fat accumulation in obese subjects: relation to energy expenditure and response to weight loss</article-title>. <source>Am J Physiol</source>
+<volume>263</volume>, <fpage>E913</fpage>&#x02013;<lpage>E919</lpage>.<pub-id pub-id-type="pmid">1443124</pub-id></mixed-citation></ref><ref id="feb412024-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="feb412024-cit-0030">
+<string-name>
+<surname>Keno</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Matsuzawa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tokunaga</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fujioka</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kawamoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kobatake</surname>
+<given-names>T</given-names>
+</string-name> and <string-name>
+<surname>Tarui</surname>
+<given-names>S</given-names>
+</string-name> (<year>1991</year>) <article-title>High sucrose diet increases visceral fat accumulation in VMH&#x02010;lesioned obese rats</article-title>. <source>Int J Obes</source>
+<volume>15</volume>, <fpage>205</fpage>&#x02013;<lpage>211</lpage>.<pub-id pub-id-type="pmid">2045213</pub-id></mixed-citation></ref><ref id="feb412024-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="feb412024-cit-0031">
+<string-name>
+<surname>Despr&#x000e9;s</surname>
+<given-names>JP</given-names>
+</string-name> and <string-name>
+<surname>Lemieux</surname>
+<given-names>I</given-names>
+</string-name> (<year>2006</year>) <article-title>Abdominal obesity and metabolic syndrome</article-title>. <source>Nature</source>
+<volume>444</volume>, <fpage>881</fpage>&#x02013;<lpage>887</lpage>.<pub-id pub-id-type="pmid">17167477</pub-id></mixed-citation></ref><ref id="feb412024-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="feb412024-cit-0032">
+<string-name>
+<surname>Molavi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rasouli</surname>
+<given-names>N</given-names>
+</string-name> and <string-name>
+<surname>Kern</surname>
+<given-names>PA</given-names>
+</string-name> (<year>2006</year>) <article-title>The prevention and treatment of metabolic syndrome and high&#x02010;risk obesity</article-title>. <source>Curr Opin Cardiol</source>
+<volume>21</volume>, <fpage>479</fpage>&#x02013;<lpage>485</lpage>.<pub-id pub-id-type="pmid">16900012</pub-id></mixed-citation></ref><ref id="feb412024-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="feb412024-cit-0033">
+<string-name>
+<surname>Drent</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Larsson</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>William&#x02010;Olsson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Quaade</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Czubayko</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>von Bergmann</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Strobel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sj&#x000f6;str&#x000f6;m</surname>
+<given-names>L</given-names>
+</string-name> and <string-name>
+<surname>van der Veen</surname>
+<given-names>EA</given-names>
+</string-name> (<year>1995</year>) <article-title>Orlistat (RO 18&#x02010;0647), a lipase inhibitor, in the treatment of human obesity: a multiple dose study</article-title>. <source>Int J Obes Relat Metab Disord</source>
+<volume>19</volume>, <fpage>221</fpage>&#x02013;<lpage>226</lpage>.<pub-id pub-id-type="pmid">7627244</pub-id></mixed-citation></ref><ref id="feb412024-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="feb412024-cit-0034">
+<string-name>
+<surname>Rand</surname>
+<given-names>CS</given-names>
+</string-name> (<year>1987</year>) <article-title>Obesity and caloric intake</article-title>. <source>J Chronic Dis</source>
+<volume>40</volume>, <fpage>911</fpage>&#x02013;<lpage>912</lpage>.<pub-id pub-id-type="pmid">3597693</pub-id></mixed-citation></ref><ref id="feb412024-bib-0035"><label>35</label><mixed-citation publication-type="book" id="feb412024-cit-0035">
+<collab collab-type="authors">National Institutes of Health (NIH), National Heart, Lung, and Blood Institute (NHLBI)</collab>
+(<year>1998</year>) <source>Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity: the Evidence Report</source>. <publisher-name>US Government Press</publisher-name>, <publisher-loc>Washington, DC, USA</publisher-loc>.</mixed-citation></ref><ref id="feb412024-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="feb412024-cit-0036">
+<string-name>
+<surname>Hill</surname>
+<given-names>JO</given-names>
+</string-name> (<year>2006</year>) <article-title>Understanding and addressing the epidemic of obesity: an energy balance perspective</article-title>. <source>Endocr Rev</source>
+<volume>27</volume>, <fpage>750</fpage>&#x02013;<lpage>761</lpage>.<pub-id pub-id-type="pmid">17122359</pub-id></mixed-citation></ref><ref id="feb412024-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="feb412024-cit-0037">
+<string-name>
+<surname>Davidson</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Hauptman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>DiGirolamo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Foreyt</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Halsted</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Heber</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Heimburger</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Lucas</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Robbins</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>1999</year>) <article-title>Weight control and risk factor reduction in obese subjects treated for 2&#x000a0;years with orlistat: a randomized controlled trial</article-title>. <source>JAMA</source>
+<volume>281</volume>, <fpage>235</fpage>&#x02013;<lpage>242</lpage>.<pub-id pub-id-type="pmid">9918478</pub-id></mixed-citation></ref><ref id="feb412024-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="feb412024-cit-0038">
+<string-name>
+<surname>Million</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Angelakisa</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Paulb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Armougoma</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Leibovicic</surname>
+<given-names>L</given-names>
+</string-name> and <string-name>
+<surname>Raoulta</surname>
+<given-names>D</given-names>
+</string-name> (<year>2012</year>) <article-title>Comparative meta&#x02010;analysis of the effect of <italic>Lactobacillus</italic> species on weight gain in humans and animals</article-title>. <source>Microb Pathog</source>
+<volume>53</volume>, <fpage>100</fpage>&#x02013;<lpage>108</lpage>.<pub-id pub-id-type="pmid">22634320</pub-id></mixed-citation></ref><ref id="feb412024-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="feb412024-cit-0039">
+<string-name>
+<surname>Fak</surname>
+<given-names>F</given-names>
+</string-name> and <string-name>
+<surname>Backhed</surname>
+<given-names>F</given-names>
+</string-name> (<year>2012</year>) <article-title>
+<italic>Lactobacillus reuteri</italic> prevents diet&#x02010;induced obesity, but not atherosclerosis, in a strain dependent fashion in Apoe&#x02010;/&#x02010; mice</article-title>. <source>PLoS One</source>
+<volume>7</volume>, <fpage>e46837</fpage>.<pub-id pub-id-type="pmid">23056479</pub-id></mixed-citation></ref><ref id="feb412024-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="feb412024-cit-0040">
+<string-name>
+<surname>Qiao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name> and <string-name>
+<surname>Le</surname>
+<given-names>G</given-names>
+</string-name> (<year>2015</year>) <article-title>Effects of different <italic>Lactobacillus reuteri</italic> on inflammatory and fat storage in high&#x02010;fat diet&#x02010;induced obesity mice model</article-title>. <source>J Funct Foods</source>
+<volume>14</volume>, <fpage>424</fpage>&#x02013;<lpage>434</lpage>.</mixed-citation></ref><ref id="feb412024-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="feb412024-cit-0041">
+<string-name>
+<surname>Ogawa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kadooka</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shirouchi</surname>
+<given-names>B</given-names>
+</string-name> and <string-name>
+<surname>Sato</surname>
+<given-names>M</given-names>
+</string-name> (<year>2014</year>) <article-title>
+<italic>Lactobacillus gasseri</italic> SBT2055 reduces postprandial and fasting serum non&#x02010;esterified fatty acid levels in Japanese hypertriacylglycerolemic subjects</article-title>. <source>Lipids Health Dis</source>
+<volume>13</volume>, <fpage>36</fpage>.<pub-id pub-id-type="pmid">24548293</pub-id></mixed-citation></ref><ref id="feb412024-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="feb412024-cit-0042">
+<string-name>
+<surname>Caesar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>F&#x000e5;k</surname>
+<given-names>F</given-names>
+</string-name> and <string-name>
+<surname>B&#x000e4;ckhed</surname>
+<given-names>F</given-names>
+</string-name> (<year>2010</year>) <article-title>Effects&#x000a0;of&#x000a0;gut&#x000a0;microbiota&#x000a0;on&#x000a0;obesity&#x000a0;and atherosclerosis via modulation of inflammation and lipid&#x000a0;metabolism</article-title>. <source>J Intern Med</source>
+<volume>268</volume>, <fpage>320</fpage>&#x02013;<lpage>328</lpage>.<pub-id pub-id-type="pmid">21050286</pub-id></mixed-citation></ref><ref id="feb412024-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="feb412024-cit-0043">
+<string-name>
+<surname>Krajmalnik&#x02010;Brown</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ilhan</surname>
+<given-names>ZE</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>DW</given-names>
+</string-name> and <string-name>
+<surname>DiBaise</surname>
+<given-names>JK</given-names>
+</string-name> (<year>2012</year>) <article-title>Effects&#x000a0;of&#x000a0;gut microbes&#x000a0;on nutrient absorption and energy regulation</article-title>. <source>Nutr Clin Pract</source>
+<volume>27</volume>, <fpage>201</fpage>&#x02013;<lpage>214</lpage>.<pub-id pub-id-type="pmid">22367888</pub-id></mixed-citation></ref><ref id="feb412024-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="feb412024-cit-0044">
+<string-name>
+<surname>Collins</surname>
+<given-names>SM</given-names>
+</string-name> and <string-name>
+<surname>Bercik</surname>
+<given-names>P</given-names>
+</string-name> (<year>2009</year>) <article-title>The relationship between intestinal microbiota and the central nervous system in normal gastrointestinal function and disease</article-title>. <source>Gastroenterology</source>
+<volume>136</volume>, <fpage>2003</fpage>&#x02013;<lpage>2014</lpage>.<pub-id pub-id-type="pmid">19457424</pub-id></mixed-citation></ref><ref id="feb412024-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="feb412024-cit-0045">
+<string-name>
+<surname>Tilg</surname>
+<given-names>H</given-names>
+</string-name> and <string-name>
+<surname>Kaser</surname>
+<given-names>A</given-names>
+</string-name> (<year>2011</year>) <article-title>Gut microbiome, obesity, and metabolic dysfunction</article-title>. <source>J Clin Invest</source>
+<volume>121</volume>, <fpage>2126</fpage>&#x02013;<lpage>2132</lpage>.<pub-id pub-id-type="pmid">21633181</pub-id></mixed-citation></ref><ref id="feb412024-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="feb412024-cit-0046">
+<string-name>
+<surname>Sekirov</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Antunes</surname>
+<given-names>LC</given-names>
+</string-name> and <string-name>
+<surname>Finlay</surname>
+<given-names>BB</given-names>
+</string-name> (<year>2010</year>) <article-title>Gut microbiota in health and disease</article-title>. <source>Physiol Rev</source>
+<volume>90</volume>, <fpage>859</fpage>&#x02013;<lpage>904</lpage>.<pub-id pub-id-type="pmid">20664075</pub-id></mixed-citation></ref><ref id="feb412024-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="feb412024-cit-0047">
+<string-name>
+<surname>DiBaise</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Frank</surname>
+<given-names>DN</given-names>
+</string-name> and <string-name>
+<surname>Mathur</surname>
+<given-names>R</given-names>
+</string-name> (<year>2012</year>) <article-title>Impact&#x000a0;of the gut microbiota on the development of obesity: current concepts</article-title>. <source>Am J Gastroenterol Suppl</source>
+<volume>1</volume>, <fpage>22</fpage>&#x02013;<lpage>27</lpage>.</mixed-citation></ref><ref id="feb412024-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="feb412024-cit-0048">
+<string-name>
+<surname>Qin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>D</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>A metagenome&#x02010;wide association study of gut microbiota in type 2 diabetes</article-title>. <source>Nature</source>
+<volume>490</volume>, <fpage>55</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">23023125</pub-id></mixed-citation></ref><ref id="feb412024-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="feb412024-cit-0049">
+<string-name>
+<surname>Turnbaugh</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Ley</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Mahowald</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Magrini</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Mardis</surname>
+<given-names>ER</given-names>
+</string-name> and <string-name>
+<surname>Gordon</surname>
+<given-names>JI</given-names>
+</string-name> (<year>2006</year>) <article-title>An obesity&#x02010;associated gut microbiome with increased capacity for energy harvest</article-title>. <source>Nature</source>
+<volume>444</volume>, <fpage>1027</fpage>&#x02013;<lpage>1031</lpage>.<pub-id pub-id-type="pmid">17183312</pub-id></mixed-citation></ref><ref id="feb412024-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="feb412024-cit-0050">
+<string-name>
+<surname>Turnbaugh</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Ley</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Hamady</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fraser&#x02010;Liggett</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</string-name> and <string-name>
+<surname>Gordon</surname>
+<given-names>JI</given-names>
+</string-name> (<year>2007</year>) <article-title>The human microbiome project: exploring the microbial part of&#x000a0;ourselves in a changing world</article-title>. <source>Nature</source>
+<volume>449</volume>, <fpage>804</fpage>&#x02013;<lpage>810</lpage>.<pub-id pub-id-type="pmid">17943116</pub-id></mixed-citation></ref><ref id="feb412024-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="feb412024-cit-0051">
+<string-name>
+<surname>B&#x000e4;ckhed</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fraser</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Ringel</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Sartor</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Sherman</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Versalovic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>V</given-names>
+</string-name> and <string-name>
+<surname>Finlay</surname>
+<given-names>BB</given-names>
+</string-name> (<year>2012</year>) <article-title>Defining a healthy human gut microbiome: current concepts, future directions, and clinical applications</article-title>. <source>Cell Host Microbe</source>
+<volume>12</volume>, <fpage>611</fpage>&#x02013;<lpage>620</lpage>.<pub-id pub-id-type="pmid">23159051</pub-id></mixed-citation></ref><ref id="feb412024-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="feb412024-cit-0052">
+<string-name>
+<surname>Clemente</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Ursell</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name>
+<surname>Parfrey</surname>
+<given-names>LW</given-names>
+</string-name> and <string-name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</string-name> (<year>2012</year>) <article-title>The impact of the gut microbiota on human health: an integrative view</article-title>. <source>Cell</source>
+<volume>148</volume>, <fpage>1258</fpage>&#x02013;<lpage>1270</lpage>.<pub-id pub-id-type="pmid">22424233</pub-id></mixed-citation></ref><ref id="feb412024-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="feb412024-cit-0053">
+<string-name>
+<surname>Delzenne</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Neyrinck</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>B&#x000e4;ckhed</surname>
+<given-names>F</given-names>
+</string-name> and <string-name>
+<surname>Cani</surname>
+<given-names>PD</given-names>
+</string-name> (<year>2011</year>) <article-title>Targeting gut microbiota in obesity: effects of prebiotics and probiotics</article-title>. <source>Nat Rev Endocrinol</source>
+<volume>7</volume>, <fpage>639</fpage>&#x02013;<lpage>646</lpage>.<pub-id pub-id-type="pmid">21826100</pub-id></mixed-citation></ref><ref id="feb412024-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="feb412024-cit-0054">
+<string-name>
+<surname>Musso</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Gambino</surname>
+<given-names>R</given-names>
+</string-name> and <string-name>
+<surname>Cassader</surname>
+<given-names>M</given-names>
+</string-name> (<year>2011</year>) <article-title>Interactions between gut microbiota and host metabolism predisposing to obesity and diabetes</article-title>. <source>Ann Rev Med</source>
+<volume>62</volume>, <fpage>361</fpage>&#x02013;<lpage>380</lpage>.<pub-id pub-id-type="pmid">21226616</pub-id></mixed-citation></ref><ref id="feb412024-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="feb412024-cit-0055">
+<string-name>
+<surname>Oliverio</surname>
+<given-names>AM</given-names>
+</string-name> and <string-name>
+<surname>Katz</surname>
+<given-names>LA</given-names>
+</string-name> (<year>2014</year>) <article-title>The dynamic nature of genomes across the tree of life</article-title>. <source>Genome Biol Evol</source>
+<volume>6</volume>, <fpage>482</fpage>&#x02013;<lpage>488</lpage>.<pub-id pub-id-type="pmid">24500971</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1375 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Internet Res</journal-id><journal-id journal-id-type="publisher-id">JMIR</journal-id><journal-title-group><journal-title>Journal of Medical Internet Research</journal-title></journal-title-group><issn pub-type="ppub">1439-4456</issn><issn pub-type="epub">1438-8871</issn><publisher><publisher-name>JMIR Publications Inc.</publisher-name><publisher-loc>Toronto, Canada</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">24642037</article-id><article-id pub-id-type="pmc">3978557</article-id><article-id pub-id-type="publisher-id">v16i3e80</article-id><article-id pub-id-type="doi">10.2196/jmir.2895</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Paper</subject></subj-group><subj-group subj-group-type="article-type"><subject>Original Paper</subject></subj-group></article-categories><title-group><article-title>Animated Randomness, Avatars, Movement, and Personalization in Risk Graphics</article-title></title-group><contrib-group><contrib contrib-type="editor"><name><surname>Eysenbach</surname><given-names>Gunther</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="reviewer"><name><surname>Ancker</surname><given-names>Jessica</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Han</surname><given-names>Paul</given-names></name></contrib></contrib-group><contrib-group><contrib id="contrib1" contrib-type="author" corresp="yes"><name><surname>Witteman</surname><given-names>Holly O</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff01">1</xref><address><institution>Department of Family and Emergency Medicine</institution><institution>Faculty of Medicine</institution><institution>Laval University</institution><addr-line>1050 avenue de la M&#x000e9;decine</addr-line><addr-line>Pavillon Ferdinand-Vandry 2881-F</addr-line><addr-line>Quebec City, QC, G1V 0A6</addr-line><country>Canada</country><phone>1 418 656 2131 ext 3981</phone><fax>1 418 656 2465</fax><email>holly@witteman.ca</email></address><xref ref-type="aff" rid="aff02">2</xref><xref ref-type="aff" rid="aff03">3</xref><xref ref-type="aff" rid="aff04">4</xref></contrib><contrib id="contrib2" contrib-type="author"><name><surname>Fuhrel-Forbis</surname><given-names>Andrea</given-names></name><degrees>MA</degrees><xref ref-type="aff" rid="aff04">4</xref><xref ref-type="aff" rid="aff05">5</xref></contrib><contrib id="contrib3" contrib-type="author"><name><surname>Wijeysundera</surname><given-names>Harindra C</given-names></name><degrees>MD, PhD, FRCGP</degrees><xref ref-type="aff" rid="aff06">6</xref><xref ref-type="aff" rid="aff07">7</xref><xref ref-type="aff" rid="aff08">8</xref></contrib><contrib id="contrib4" contrib-type="author"><name><surname>Exe</surname><given-names>Nicole</given-names></name><degrees>MPH</degrees><xref ref-type="aff" rid="aff04">4</xref></contrib><contrib id="contrib5" contrib-type="author"><name><surname>Dickson</surname><given-names>Mark</given-names></name><degrees>MA</degrees><xref ref-type="aff" rid="aff04">4</xref></contrib><contrib id="contrib6" contrib-type="author"><name><surname>Holtzman</surname><given-names>Lisa</given-names></name><degrees>MPH</degrees><xref ref-type="aff" rid="aff04">4</xref><xref ref-type="aff" rid="aff09">9</xref></contrib><contrib id="contrib7" contrib-type="author"><name><surname>Kahn</surname><given-names>Valerie C</given-names></name><degrees>MPH</degrees><xref ref-type="aff" rid="aff04">4</xref></contrib><contrib id="contrib8" contrib-type="author"><name><surname>Zikmund-Fisher</surname><given-names>Brian J</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff04">4</xref><xref ref-type="aff" rid="aff10">10</xref><xref ref-type="aff" rid="aff11">11</xref><xref ref-type="aff" rid="aff12">12</xref></contrib></contrib-group><aff id="aff01"><sup>1</sup><institution>Department of Family and Emergency Medicine</institution><institution>Faculty of Medicine</institution><institution>Laval University</institution><addr-line>Quebec City, QC</addr-line><country>Canada</country></aff><aff id="aff02"><sup>2</sup><institution>Office of Education and Continuing Professional Development</institution><institution>Faculty of Medicine</institution><institution>Laval University</institution><addr-line>Quebec City, QC</addr-line><country>Canada</country></aff><aff id="aff03"><sup>3</sup><institution>Research Centre of the CHU de Qu&#x000e9;bec</institution><addr-line>Quebec City, QC</addr-line><country>Canada</country></aff><aff id="aff04"><sup>4</sup><institution>Center for Bioethics and Social Sciences in Medicine</institution><institution>University of Michigan</institution><addr-line>Ann Arbor, MI</addr-line><country>United States</country></aff><aff id="aff05"><sup>5</sup><institution>Research Center for Group Dynamics</institution><institution>Institute for Social Research</institution><institution>University of Michigan</institution><addr-line>Ann Arbor, MI</addr-line><country>United States</country></aff><aff id="aff06"><sup>6</sup><institution>Schulich Heart Centre</institution><institution>Sunnybrook Health Sciences Centre</institution><addr-line>Toronto, ON</addr-line><country>Canada</country></aff><aff id="aff07"><sup>7</sup><institution>Division of Cardiology</institution><institution>Department of Medicine</institution><institution>University of Toronto</institution><addr-line>Toronto, ON</addr-line><country>Canada</country></aff><aff id="aff08"><sup>8</sup><institution>Toronto Health Economics and Technology Assessment (THETA) Collaborative</institution><institution>University of Toronto</institution><addr-line>Toronto, ON</addr-line><country>Canada</country></aff><aff id="aff09"><sup>9</sup><institution>ReThink Health</institution><institution>Fannie E Rippel Foundation</institution><addr-line>Morristown, NJ</addr-line><country>United States</country></aff><aff id="aff10"><sup>10</sup><institution>Department of Health Behavior and Health Education</institution><institution>School of Public Health</institution><institution>University of Michigan</institution><addr-line>Ann Arbor, MI</addr-line><country>United States</country></aff><aff id="aff11"><sup>11</sup><institution>Department of Internal Medicine</institution><institution>University of Michigan</institution><addr-line>Ann Arbor, MI</addr-line><country>United States</country></aff><aff id="aff12"><sup>12</sup><institution>Risk Science Center</institution><institution>School of Public Health</institution><institution>University of Michigan</institution><addr-line>Ann Arbor, MI</addr-line><country>United States</country></aff><author-notes><corresp>Corresponding Author: Holly O Witteman <email>holly@witteman.ca</email></corresp></author-notes><pub-date pub-type="collection"><month>3</month><year>2014</year></pub-date><pub-date pub-type="epub"><day>18</day><month>3</month><year>2014</year></pub-date><volume>16</volume><issue>3</issue><elocation-id>e80</elocation-id><history><date date-type="received"><day>21</day><month>8</month><year>2013</year></date><date date-type="rev-request"><day>19</day><month>9</month><year>2013</year></date><date date-type="rev-recd"><day>16</day><month>1</month><year>2014</year></date><date date-type="accepted"><day>30</day><month>1</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9;Holly O Witteman, Andrea Fuhrel-Forbis, Harindra C Wijeysundera, Nicole Exe, Mark Dickson, Lisa Holtzman, Valerie C Kahn, Brian J Zikmund-Fisher. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 18.03.2014. </copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/"><license-p><!--CREATIVE COMMONS-->This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0/">http://creativecommons.org/licenses/by/2.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/,">http://www.jmir.org/,</ext-link> as well as this copyright and license information must be included.</license-p></license></permissions><self-uri xlink:type="simple" xlink:href="http://www.jmir.org/2014/3/e80/"/><abstract><sec sec-type="background"><title>Background</title><p>Risk communication involves conveying two inherently difficult concepts about the nature of risk: the underlying random distribution of outcomes and how a population-based proportion applies to an individual.</p></sec><sec sec-type="objective"><title>Objective</title><p>The objective of this study was to test whether 4 design factors in icon arrays&#x02014;animated random dispersal of risk events, avatars to represent an individual, personalization (operationalized as choosing the avatar&#x02019;s color), and a moving avatar&#x02014;might help convey randomness and how a given risk applies to an individual, thereby better aligning risk perceptions with risk estimates.</p></sec><sec sec-type="methods"><title>Methods</title><p>A diverse sample of 3630 adults with no previous heart disease or stroke completed an online nested factorial experiment in which they entered personal health data into a risk calculator that estimated 10-year risk of cardiovascular disease based on a robust and validated model. We randomly assigned them to view their results in 1 of 10 risk graphics that used different combinations of the 4 design factors. We measured participants&#x02019; risk perceptions as our primary outcome, as well as behavioral intentions and recall of the risk estimate. We also assessed subjective numeracy, whether or not participants knew anyone who had died of cardiovascular causes, and whether or not they knew their blood pressure and cholesterol as potential moderators.</p></sec><sec sec-type="results"><title>Results</title><p>Animated randomness was associated with better alignment between risk estimates and risk perceptions (<italic>F</italic>
+<sub>1,3576</sub>=6.12, <italic>P</italic>=.01); however, it also led to lower scores on healthy lifestyle intentions (<italic>F</italic>
+<sub>1,3572</sub>=11.1, <italic>P</italic>&#x0003c;.001). Using an avatar increased risk perceptions overall (<italic>F</italic>
+<sub>1,3576</sub>=4.61, <italic>P</italic>=.03) and most significantly increased risk perceptions among those who did not know a particular person who had experienced the grave outcomes of cardiovascular disease (<italic>F</italic>
+<sub>1,3576</sub>=5.88, <italic>P</italic>=.02). Using an avatar also better aligned actual risk estimates with intentions to see a doctor (<italic>F</italic>
+<sub>1,3556</sub>=6.38, <italic>P</italic>=.01). No design factors had main effects on recall, but animated randomness was associated with better recall for those at lower risk and worse recall for those at higher risk (<italic>F</italic>
+<sub>1,3544</sub>=7.06, <italic>P</italic>=.01).</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>Animated randomness may help people better understand the random nature of risk. However, in the context of cardiovascular risk, such understanding may result in lower healthy lifestyle intentions. Therefore, whether or not to display randomness may depend on whether one&#x02019;s goal is to persuade or to inform. Avatars show promise for helping people grasp how population-based statistics map to an individual case.</p></sec></abstract><kwd-group><kwd>risk graphics</kwd><kwd>health communication</kwd><kwd>cardiovascular disease</kwd><kwd>animation</kwd><kwd>avatar</kwd><kwd>pictograph</kwd><kwd>icon array</kwd></kwd-group></article-meta></front><body><sec sec-type="introduction"><title>Introduction</title><p>Health risk communication is an inherently challenging proposition. People&#x02019;s risk perceptions are shaped by powerful cognitive and affective biases [<xref rid="ref1" ref-type="bibr">1</xref>,<xref rid="ref2" ref-type="bibr">2</xref>] and often align poorly with their actual risk [<xref rid="ref3" ref-type="bibr">3</xref>-<xref rid="ref5" ref-type="bibr">5</xref>], even when they are provided with accurate risk estimates [<xref rid="ref6" ref-type="bibr">6</xref>]. In other words, people at low risk may feel at considerable risk, whereas people at high risk may not perceive themselves as such.</p><p>Lack of alignment between actual and perceived risk may be partly due to barriers to comprehension, such as low health literacy or, in the case of communication about numbers, low numeracy [<xref rid="ref7" ref-type="bibr">7</xref>,<xref rid="ref8" ref-type="bibr">8</xref>]. Across levels of education and expertise, many people, particularly those with poor numeracy, have trouble interpreting numbers in health risk communications [<xref rid="ref9" ref-type="bibr">9</xref>,<xref rid="ref10" ref-type="bibr">10</xref>] and demonstrate biased interpretations of proportions [<xref rid="ref11" ref-type="bibr">11</xref>,<xref rid="ref12" ref-type="bibr">12</xref>].</p><p>Icon arrays (or pictographs) are graphical displays, often with 100 or 1000 icons arranged in rows and columns and in which each icon represents one unit in the population of interest. They have been shown to help people overcome natural tendencies toward misinterpretation [<xref rid="ref13" ref-type="bibr">13</xref>] and, for people with low numeracy, maximize comprehension compared to other graphic types and text or numbers alone [<xref rid="ref14" ref-type="bibr">14</xref>-<xref rid="ref18" ref-type="bibr">18</xref>]. However, despite their advantages, they can still fall short of facilitating full comprehension [<xref rid="ref19" ref-type="bibr">19</xref>].</p><p>One of the key challenges to such comprehension is adequately conveying the inherent uncertainty of risk statistics. In this study, we aimed to address the issue of aleatory or first-order uncertainty, which has been highlighted as an entrenched conceptual problem and a key challenge when communicating risk. First-order uncertainty arises from the &#x0201c;fundamental indeterminacy&#x0201d; of future events [<xref rid="ref20" ref-type="bibr">20</xref>]. We operationalized the communication of such indeterminacy as consisting of 2 related challenges: conveying the randomness of events and helping people grasp how population-based statistics map onto individual circumstances.</p><p>Randomness is conceptually challenging, especially for people with little training in statistics. For example, many people believe that their iPod&#x02019;s shuffle feature does not actually choose songs randomly because the algorithm may play several songs from the same album in a row, or the user may not hear a new song within their expected time frame. These perceptions persist even though such behaviors on the part of the algorithm are perfectly reasonable within a random ordering [<xref rid="ref21" ref-type="bibr">21</xref>]. In health communication, previous work suggests that using randomly dispersed events in pictographs may help to better convey the randomness inherent in population-based risk estimates; however, this work also suggests that people may find such graphics confusing, may find the estimate less certain, and may have a more difficult time interpreting the magnitude of the risk when it is scattered randomly in the display [<xref rid="ref22" ref-type="bibr">22</xref>-<xref rid="ref28" ref-type="bibr">28</xref>]. Our research group previously tested methods of simultaneous animated randomness in the context of 2 side-by-side icon arrays and found, similarly, that many methods of displaying randomness resulted in confusion, but that at least one method had promise [<xref rid="ref29" ref-type="bibr">29</xref>].</p><p>In addition to the challenge of interpreting the meaning of background randomness, it is difficult for people to map population-based statistics, which are often proportions, onto individual circumstances, which are often whole numbers. No matter how average they might be, a family cannot, after all, actually have 2.3 children [<xref rid="ref30" ref-type="bibr">30</xref>]. When it comes to health risks, it can be conceptually difficult to apply the information that a side effect occurs 16% of the time and is randomly distributed within a population to an individual&#x02019;s binary experience of either having the side effect or not. Although less work in health risk communication has focused on this issue than on randomness, a gamified design&#x02014;in which participants clicked concealed icons in an array to reveal whether or not the event occurred for each individual in the population&#x02014;showed promise, with a positive trend toward helping people understand the risks [<xref rid="ref31" ref-type="bibr">31</xref>].</p><p>In this study, we considered another potential approach for helping people understand what population-based statistics mean for individual risk: the use of avatars. People understand avatars to represent individuals and react to them accordingly; for example, by putting more trust in more relatable avatars [<xref rid="ref32" ref-type="bibr">32</xref>] or those with a more professional appearance [<xref rid="ref33" ref-type="bibr">33</xref>]. Further, people perceive their avatar as representing them [<xref rid="ref34" ref-type="bibr">34</xref>-<xref rid="ref36" ref-type="bibr">36</xref>] and have been shown to identify strongly with their avatars in a variety of online applications [<xref rid="ref37" ref-type="bibr">37</xref>-<xref rid="ref39" ref-type="bibr">39</xref>]. The phenomenon of integrating one&#x02019;s avatar into one&#x02019;s identity, dubbed the Proteus Effect, is demonstrated in the way that social gaming players exhibit gender role behavior that aligns more strongly with the gender of their avatar than with their actual gender identity [<xref rid="ref40" ref-type="bibr">40</xref>] and in experimental studies where people who are assigned a taller or more attractive avatar in a simulation subsequently show more confident or more intimate behavior in a face-to-face interaction [<xref rid="ref41" ref-type="bibr">41</xref>].</p><p>In this study, we evaluated 4 specific risk graphic design factors dealing with the display of randomness and the use of avatars that, in principle, might better convey these challenging concepts&#x02014;the randomness of events and how population-based statistics apply to an individual&#x02014;with the goal of helping people better understand the nature of a health risk.</p><p>In addition to these experimental factors, we also examined the potential moderating effects of 3 planned individual factors: (1) an individual&#x02019;s actual level of risk, (2) his or her numeracy, and (3) whether or not she or he has known someone who has experienced the negative health event in question. Each of these may influence how people respond to different risk graphics by moderating the personal salience of the risk information or the way people understand risk numbers.</p><p>Regarding the first moderator, to our knowledge, no literature exists concerning the different responses to the same risk graphic formats at different levels of risk. However, it seems plausible that someone receiving a low risk estimate might respond to a particular risk presentation format differently than someone receiving a high risk estimate. Regarding the second moderator, different risk graphic formats have been shown to generate different responses in people at different levels of numeracy [<xref rid="ref15" ref-type="bibr">15</xref>]. Most importantly, a previous study by our group that set the stage for this study demonstrated, among other findings, that interactive elements were associated with lower understanding among people with higher numeracy, but not among those with lower numeracy [<xref rid="ref29" ref-type="bibr">29</xref>]. Regarding the third moderator, we speculated that personal familiarity with the negative health outcomes being presented (eg, knowing someone who has experienced grave outcomes) might provide a concrete personal example of how a statistical probability can map onto individual circumstances and, thus, make the risk more salient. People are more sensitive to risks associated with events that they can more easily call to mind [<xref rid="ref42" ref-type="bibr">42</xref>] or that have stronger emotions associated with them [<xref rid="ref43" ref-type="bibr">43</xref>] (eg, due to personal loss).</p><p>We further investigated the effects of 2 additional potential moderators whose importance emerged from our observed data: whether or not people know their (1) blood pressure and (2) cholesterol and are thus able to choose from a drop-down menu of potential ranges for such values. Although this information was not required in order for participants to receive a risk estimate, having entered more information relevant to one&#x02019;s own individual health may well increase the salience of the risk information.</p><p>Ultimately, our aim is to improve understanding of risk estimates, which we operationalized in this study as alignment between subjective risk perception and an objective risk estimate along with accurate recall of the risk estimate. Therefore, we investigated the following specific research questions: (1) which design factors might help to increase alignment between perceptions of risk and actual risk, (2) which design factors might help to encourage intentions toward actions associated with healthy living, and (3) do any of the design factors affect recall of risk numbers? The first and third of these specifically addressed our primary goal of improving comprehension; the second addressed questions around the applicability of these design factors to different purposes.</p></sec><sec sec-type="methods"><title>Methods</title><sec><title>Recruitment</title><p>We invited a random sample of US adults aged 35 to 74 years from a panel of Internet users administered by Survey Sampling International (SSI), stratified by gender, age, and race to ensure demographic diversity in similar proportions to the US population, to participate in an online survey. The number of email invitations sent to each stratum was dynamically adjusted to maintain demographic balance despite varying response rates. Participants who completed this experiment as well as another unrelated cross-randomized study contained within the same survey were entered into both an instant-win contest and a monthly drawing administered by SSI for modest prizes. The study was deemed exempt by the University of Michigan Health Sciences and Behavioral Sciences Institutional Review Board as anonymous survey research. All participants viewed a consent page before clicking to begin the study in which they were informed that the survey would involve learning about their personal risk of heart disease and stroke, and that if they did not want to learn about their risk, they should not participate in the study. At the conclusion of the survey, participants were provided with a list of resources for learning more about cardiovascular health and ways to prevent cardiovascular disease.</p></sec><sec><title>Design of Experiment</title><p>To explore our research questions, we chose the clinical context of general cardiovascular disease because of the availability of a robust simple model [<xref rid="ref44" ref-type="bibr">44</xref>] that estimates an individual&#x02019;s risk of general cardiovascular disease within the next 10 years based largely on information that laypeople would be likely to know. Namely, it allows for the input of height and weight if blood lipids results are not known. It is widely applicable and returns a large range of risk numbers, thus providing a fruitful context for investigating risk communication methods. The model was originally developed for clinical use and uses blood pressure as one of the predictors. In our study, because we were deploying the model in a survey of laypeople, we allowed for the fact that people may not know their blood pressure. When people indicated this was the case, we made conservative assumptions. If these participants responded that they were not taking any medication to treat high blood pressure, we assigned the lowest possible number of model points (ie, lowest risk) using average blood pressure for the person&#x02019;s age. If they responded that they were taking medication to treat high blood pressure, we allotted 2 model points from the potential ranges of 0 to 5 for men and -1 to 7 for women (higher points mean higher risk). This corresponds to a treated systolic blood pressure between 120 and 129 mm Hg.</p><p>Estimates returned by the model range from a risk of less than 1% to a risk greater than 30%. Risk estimates between the lower and upper limits are returned as integer percent values. In other words, the vast majority of risk estimates were numbers such as 4% or 21%, but results at the upper and lower ends of the range were not simple integers. For the risk graphics, we described these less specific values in the legend and introductory text as being &#x0201c;less than 1%&#x0201d; and &#x0201c;more than 30%,&#x0201d; and used 1 and 31 event rectangles, respectively, in the array of 100. Similarly, in our analyses, we used the values .999 and 31 as conservative estimates of these cases, respectively. Throughout the experiment, rather than the term, &#x0201c;general cardiovascular disease,&#x0201d; we used the more familiar terminology &#x0201c;heart disease and stroke.&#x0201d;</p><p>The model applies only to people who have not already experienced general cardiovascular disease, so we screened out those who had a history of cardiovascular disease (448/4124, 11%). Remaining participants were asked to enter their information to calculate their personal risk estimate, which they subsequently viewed in an animated risk graphic randomly assigned from 10 possible versions created from the 4 risk graphic design factors (see Design of Risk Graphics section). We only presented absolute numbers and did not provide any context of expected levels of risk. In other words, we did not give participants any indication of whether their risk was higher or lower than might be expected for their age and gender before we assessed their risk perceptions.</p></sec><sec><title>Design of Risk Graphics</title><p>For all designs, we used a 10&#x000d7;10 matrix of rectangle icons and animated the construction of the icon array (as previously tested [<xref rid="ref29" ref-type="bibr">29</xref>]) to visually introduce each event rectangle one at a time. This animation served to signal several concepts to people viewing the risk graphic. First, it highlighted the discrete and, hence, countable nature of events within the population of 100. This is a strength of both natural frequency and icon array formats. Second, it served as a temporal signal about the size of an individual&#x02019;s risk. A person given the risk estimate &#x0201c;1 in 100&#x0201d; had only to wait briefly for the 1 event rectangle representing a risk event to appear before moving on. By contrast, someone whose risk was &#x0201c;30 in 100&#x0201d; had to wait 30 times longer for the animation to add all the event rectangles. Signaling is frequently used in multimedia to draw attention to important ideas and elements [<xref rid="ref45" ref-type="bibr">45</xref>,<xref rid="ref46" ref-type="bibr">46</xref>].</p><p>In keeping with our goal of conveying 2 key concepts (ie, the underlying randomness of events and the mapping of population-based statistics onto individuals), we used 2 main experimental design factors in our graphics. The first of these was animated randomness, a factor that showed promise when previously explored in combination with a different set of design factors [<xref rid="ref29" ref-type="bibr">29</xref>]. Participants randomized to graphics with the random design factor observed the event rectangles appear one at a time as in the standard condition, but in a random spatial position throughout the array. Once all event rectangles appeared, the animation concluded with all the randomly dispersed event rectangles settling into a standard grouped display. The goal of this settling was to avoid the comprehension problems observed in previous research on randomly dispersed events in icon arrays [<xref rid="ref22" ref-type="bibr">22</xref>-<xref rid="ref29" ref-type="bibr">29</xref>].</p><p>The second main design factor was the use of an avatar. We designed this factor to give more explicit signals about how such risks apply to a single individual. Graphics that included a standard avatar had a generic avatar shape animated to drop into the icon array and disappear, then emerge with a question mark at the conclusion of the animation. The disappearance and re-emergence with a question mark were intended to convey that we do not know which event out of the 100 will apply to a single individual. Within the avatar design factor, we also had 2 other nested factors. The first of these (avatar moves) specified that after the avatar was dropped into the array, it would move within the array, randomly landing on either event rectangles or nonevent rectangles to further emphasize how the randomness inherent in the risk statistic applies to a single individual. The second nested factor (color choice), designed to help participants identify with the avatar, offered participants the chance to choose a different color from a palette of Web colors, instead of the default color, which was standard Web black (#000000).</p><p>These factors created a 2&#x000d7;2 factorial design nested within another 2&#x000d7;2 factorial design. See <xref ref-type="fig" rid="figure1">Figure 1</xref> for a chart illustrating the experimental design, and <xref ref-type="fig" rid="figure2">Figure 2</xref> for a still image of a sample graphic. See <xref ref-type="app" rid="app1">Multimedia Appendix 1</xref> to view a video (.mp4 version) of a graphic with the random factor and a nonmoving default color avatar (see <xref ref-type="app" rid="app2">Multimedia Appendix 2</xref> for the same video in .avi format).</p><fig id="figure1" position="float"><label>Figure 1</label><caption><p>Randomization and graphics factors.</p></caption><graphic xlink:href="jmir_v16i3e80_fig1"/></fig><fig id="figure2" position="anchor"><label>Figure 2</label><caption><p>Sample risk graphic (random, avatar moves, color choice).</p></caption><graphic xlink:href="jmir_v16i3e80_fig2"/></fig></sec><sec><title>Technologies</title><p>We programmed the risk graphics and an avatar color-chooser in ActionScript 3.0 and integrated them into a custom survey system programmed in Ruby on Rails. The number of event rectangles in the icon array were set dynamically via JavaScript, using participants&#x02019; risk numbers as calculated by the model algorithm implemented in the survey system.</p></sec><sec><title>Measures</title><sec><title>Independent Variables</title><p>There were 4 independent dichotomous variables. The random variable describes whether or not the event rectangles were dispersed randomly in the pictograph (random condition) or whether they are grouped together at the bottom of the page (standard condition). The avatar variable describes whether or not an avatar was used in the risk graphic. The avatar moves variable indicates whether or not the avatar moved around randomly within the pictograph, randomly landing on event rectangles or not, as the animation proceeded. The color choice variable refers to whether or not participants were asked to select a color for the avatar that they felt best represented themselves.</p></sec><sec><title>Primary Outcome</title><p>The primary outcome variable for this study, risk perception, was created from 3 questions, all asked together on the same page immediately after viewing the risk graphic. These questions were intended to capture people&#x02019;s immediate reactions to the risk number and graphic presentation. We first asked participants to answer the question, &#x0201c;How big or small does this risk feel to you?&#x0201d; on a 10-point Likert scale with anchors &#x0201c;extremely small&#x0201d; on the left and &#x0201c;extremely big&#x0201d; on the right. We then asked people to indicate, &#x0201c;How worried do you feel about your chance of getting heart disease or stroke in the next 10 years?&#x0201d; on a 10-point Likert scale anchored by &#x0201c;not at all worried&#x0201d; on the left and &#x0201c;extremely worried&#x0201d; on the right. Values for 10-point Likert scales were assigned as 0-9 but survey responses were not labeled numerically, meaning that participants did not see any numbers, only a horizontal visual array of equally-spaced radio buttons. Finally, we asked them, &#x0201c;How likely does it feel to you that you will actually get heart disease or stroke in the next 10 years?&#x0201d; which we assessed on a horizontal slider. The slider recorded integer values between 0 (label &#x0201c;extremely unlikely&#x0201d;) and 100 (label &#x0201c;extremely likely&#x0201d;). Participants saw only the visual position of the slider, not the numeric values representing their response. Because we wanted to capture participants&#x02019; subjective risk sense, we used this measure rather than asking for a numeric estimate of their risk. We surmised that if we asked for a numeric estimate, many participants would simply return the risk estimate they had been given. We further suspected that this would be most likely to occur among participants with higher numeracy; thus, this measure could bias the potential effects of numeracy on the subjective feeling of being at risk. To combine these 3 measures with equal weight accorded to each, we rescaled the likelihood question by multiplying values by 9/100. We then averaged responses to the 3 questions (Cronbach alpha=.88) to calculate risk perception.</p></sec><sec><title>Secondary Outcomes</title><p>We considered 3 secondary outcome variables in this study: 2 behavioral intention measures and a recall task.</p><p>Behavioral intentions were all collected together on 1 page. Participants were given the text, &#x0201c;There are ways to improve your heart health and reduce your risk of heart disease and stroke. How likely are you to do the following things in the next 30 days?&#x0201d; This was followed by a list of 4 or 5 potential actions: quit smoking (presented only to participants who indicated in the risk calculator they had smoked in the last month); exercise 30 to 60 minutes a day, at least 5 days a week; eat a diet that is low in salt, low in fat, and has at least 5 to 10 servings of fruits and vegetables each day; start a weight loss program; and make an appointment to see a doctor about your heart health. Responses were collected for each action on a 10-point Likert scale with anchors &#x0201c;not at all likely&#x0201d; on the left and &#x0201c;extremely likely&#x0201d; on the right. Again, responses were not labeled with their numeric value, meaning that participants did not see any numbers, only a horizontal visual array of equally-spaced radio buttons. Participants were not provided with details about these behaviors beyond their verbal label, nor were they given any information about the extent to which engaging in such behaviors might lower their risk. At the conclusion of the survey, after the study was complete, participants were provided with links to webpages by reputable sources about healthy lifestyles for reducing cardiovascular risk. (See also <xref ref-type="app" rid="app3">Multimedia Appendix 3</xref> for results of a small secondary study that was conducted within this study about the effects of a &#x0201c;heart age&#x0201d; message on behavioral intentions.)</p><p>The first 4 behavioral statements (3 for nonsmokers) are typical behavioral outcomes in interventions addressing cardiovascular health. We averaged them to form the lifestyle intentions scale (nonsmokers: Cronbach alpha=.68; smokers: Cronbach alpha=.70). We added the final variable, see a doctor, because we postulated that intentions to see a doctor for personalized counsel would be a more appropriate measure of the effects of a brief online risk calculator. In other words, an increased understanding of one&#x02019;s risk may not be sufficient to provoke behavior change, but it may prompt people to seek more information via a medical consultation.</p><p>Recall was collected on the last page of the survey (participants had been presented with 14 to 22 pages since receiving their risk estimate) by asking participants, &#x0201c;Please answer the following question based on your memory of the numbers you were given by the risk calculator earlier in this study. If you are unsure, please take your best guess. Please do not go back to check your answers. If there were 100 people exactly like you, how many of them would have heart disease or stroke in the next 10 years?&#x0201d; Participants entered their recalled value in a text box. To analyze the effects of experimental and moderating factors on recall, we defined the dependent variable recall as the absolute difference between the recalled estimate and the correct value. However, to maximize clarity for readers when tabulating descriptive results about recall in this paper, we define correct recall as a recalled risk within 5 percentage points in either direction of the risk estimate.</p></sec><sec><title>Moderators</title><p>We planned for the inclusion of 3 attributes in our model that might moderate participants&#x02019; responses. First, we considered the impact of the participant&#x02019;s actual estimated 10-year risk of cardiovascular disease as presented to them (actual risk). We used the original quasi-continuous variable in our analyses, but to facilitate readers&#x02019; interpretation of descriptive statistics in this paper, we present data according to whether a participant&#x02019;s risk was below the median risk (8%) or not. We further distinguish participants at either end of the spectrum of risk estimates for whom the model provided a less precise numeric risk estimate. Thus, the levels for reporting are very low risk (&#x0003c;1%), lower risk (1%-7%), higher risk (8-30%), and very high risk (&#x0003e;30%). We emphasize that these labels were not shown to study participants nor were they used for analysis; they are simply for readers&#x02019; comprehension. We further note that because so few participants were in the very low risk group (n=7; see <xref ref-type="table" rid="table1">Table 1</xref>), in the Results sections of this paper, we report mean values only for the latter 3 risk levels: lower risk, higher risk, and very high risk.</p><p>We collected 2 self-report individual difference measures, selected because of their potential moderating effect on individuals&#x02019; responses to different ways of presenting risk numbers and graphics about cardiovascular disease. Participants completed a validated measure of numeracy, the Subjective Numeracy Scale, which asks people how confident they feel with numbers and how much they prefer information be presented numerically [<xref rid="ref47" ref-type="bibr">47</xref>,<xref rid="ref48" ref-type="bibr">48</xref>]. We also asked participants an ad hoc question, &#x0201c;Have you ever known anyone who died of heart problems or stroke?&#x0201d; to assess their personal familiarity with the potential impact of cardiovascular disease. We hypothesized that familiarity would provide a concrete personal example of how a statistical probability can map onto individual circumstances.</p><p>In addition to these planned moderators, we noted in our data that a sizeable proportion of participants indicated that they did not know their blood pressure and/or cholesterol. Given that the input of such personal information might affect the salience of the risk, we also included 2 additional variables, blood pressure known and cholesterol known, in our analyses. For the latter, we classified participants who knew either 1 or both of their total or high-density lipoprotein (HDL) cholesterol as knowing their cholesterol.</p></sec></sec><sec><title>Statistical Analyses</title><p>The effects of risk graphic factors and individual difference measures on outcomes were examined via nested factorial ANOVA. All main effects were analyzed, as were all possible interactions. For the primary outcome, we used an alpha level of .05. For the 3 secondary outcomes, to control for Type I error, we applied a Bonferroni correction, yielding an alpha level of .017. All tests were 2-tailed. To present results, we give <italic>F</italic> statistics and <italic>P</italic> values, as well as mean values to provide a sense of the size of differences observed. Exploratory correlations were calculated as Pearson&#x02019;s correlations. Data were entered and analyzed in R, version 2.15.2 [<xref rid="ref49" ref-type="bibr">49</xref>] with use of the package psy, version 1.1 [<xref rid="ref50" ref-type="bibr">50</xref>], to calculate Cronbach alpha scores, and the package car, version 2.0-18 [<xref rid="ref51" ref-type="bibr">51</xref>] for conducting Levene&#x02019;s test of homogeneity of variances. Because participants whose actual risk was less than 1% or greater than 30% were not given an exact number in the text (although they were given an exact number of event rectangles in the graphic), we conducted analyses on all outcomes both with and without those participants to explore the impact of the upper and lower limits of the underlying risk model on our findings.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Study Participants</title><p>Of the 4859 people who received an invitation email and clicked the link to the survey, 4124 (85%) completed the survey. Of these, 3676 (89%) were eligible for this study, meaning that they were between ages 35 and 74 years and had neither been diagnosed with heart disease nor had a stroke. For analysis, we included participants who completed the full survey, which included this study, a second unrelated study, demographic questions, and other measures of individual differences. The median time to complete the full survey was 16 minutes and the interquartile range (IQR) was 11 minutes. We excluded participants who completed the full survey in less than 6 minutes from analysis because this speed suggested that they may not have been paying attention to the content. Thus, the final sample for analysis comprised responses from 3630 people (99% of eligible respondents).</p><p>Participants were diverse in terms of gender, age, ethnicity, race, and level of education. The median 10-year risk of general cardiovascular disease was 8% (IQR 11%). See <xref ref-type="table" rid="table1">Table 1</xref> for details of study participant characteristics. None of these characteristics varied significantly between the different graphics (all <italic>P</italic>&#x0003e;.05).</p><table-wrap id="table1" position="float"><label>Table 1</label><caption><p>Study participant characteristics (N=3630).</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="14" span="1"/><col width="18" span="1"/><col width="262" span="1"/><col width="76" span="1"/><thead><tr valign="top"><td colspan="3" rowspan="1">Characteristic</td><td rowspan="1" colspan="1">Statistic</td></tr></thead><tbody><tr valign="top"><td colspan="3" rowspan="1">Age (years), mean (SD)</td><td rowspan="1" colspan="1">53 (10)</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Gender, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Female</td><td rowspan="1" colspan="1">2000 (55)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Male</td><td rowspan="1" colspan="1">1630 (45)</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Ethnicity, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Hispanic</td><td rowspan="1" colspan="1">404 (11)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Middle Eastern</td><td rowspan="1" colspan="1">44 (1)</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Race, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">White or Caucasian</td><td rowspan="1" colspan="1">2827 (78)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Black or African American</td><td rowspan="1" colspan="1">514 (14)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">American Indian or Alaska Native</td><td rowspan="1" colspan="1">48 (1)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Asian or Asian-American</td><td rowspan="1" colspan="1">145 (4)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Pacific Islander or Native Hawaiian</td><td rowspan="1" colspan="1">10 (&#x0003c;1)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Other</td><td rowspan="1" colspan="1">124 (3)</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Highest education level reached, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">None</td><td rowspan="1" colspan="1">1 (&#x0003c;1)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Elementary school</td><td rowspan="1" colspan="1">3 (&#x0003c;1)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Some high school, but no diploma</td><td rowspan="1" colspan="1">73 (2)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">High school (diploma or GED)</td><td rowspan="1" colspan="1">681 (19)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Trade school</td><td rowspan="1" colspan="1">216 (6)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Some college, but no degree</td><td rowspan="1" colspan="1">975 (27)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Associate&#x02019;s degree (eg, AA, AS)</td><td rowspan="1" colspan="1">384 (11)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Bachelor&#x02019;s degree (eg, BS, BA)</td><td rowspan="1" colspan="1">871 (24)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Master&#x02019;s degree (eg, MA, MPH)</td><td rowspan="1" colspan="1">335 (9)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Doctoral/professional degree (eg, PhD, MD)</td><td rowspan="1" colspan="1">88 (2)</td></tr><tr valign="top"><td colspan="3" rowspan="1">General cardiovascular disease 10-year risk, median (IQR)</td><td rowspan="1" colspan="1">8 (11)</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>General cardiovascular disease 10-year risk, n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Very low risk (&#x0003c;1%)</td><td rowspan="1" colspan="1">7 (0.2)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Lower risk (&#x0003c;median risk or 1-7%)</td><td rowspan="1" colspan="1">1714 (47)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Higher risk (&#x02265;median risk or 8-30%)</td><td rowspan="1" colspan="1">1630 (45)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Very high risk (&#x0003e;30%)</td><td rowspan="1" colspan="1">279 (8)</td></tr><tr valign="bottom"><td colspan="3" rowspan="1">
+<bold>Risk estimate factors</bold>
+<sup>a</sup>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>HDL (&#x0201c;good&#x0201d;) cholesterol (mg/dL), n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;35</td><td rowspan="1" colspan="1">160 (4)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">35-44</td><td rowspan="1" colspan="1">304 (8)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">45-49</td><td rowspan="1" colspan="1">218 (6)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">50-59</td><td rowspan="1" colspan="1">231 (6)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02265;60</td><td rowspan="1" colspan="1">321 (9)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">I don&#x02019;t know</td><td rowspan="1" colspan="1">2396 (66)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Total cholesterol (mg/dL), n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;160</td><td rowspan="1" colspan="1">566 (16)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">160-199</td><td rowspan="1" colspan="1">622 (17)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">200-239</td><td rowspan="1" colspan="1">368 (10)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">240-279</td><td rowspan="1" colspan="1">70 (2)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02265;280</td><td rowspan="1" colspan="1">24 (1)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">I don&#x02019;t know</td><td rowspan="1" colspan="1">1980 (55)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Systolic blood pressure (mm Hg), n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;120</td><td rowspan="1" colspan="1">989 (27)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">120-129</td><td rowspan="1" colspan="1">1095 (30)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">130-139</td><td rowspan="1" colspan="1">478 (13)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">140-149</td><td rowspan="1" colspan="1">186 (5)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">150-159</td><td rowspan="1" colspan="1">59 (2)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02265;160</td><td rowspan="1" colspan="1">36 (1)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">I don&#x02019;t know</td><td rowspan="1" colspan="1">789 (22)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Currently taking medication to treat high blood pressure, n (%)</td><td rowspan="1" colspan="1">1182 (33)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Has diabetes, n (%)</td><td rowspan="1" colspan="1">469 (13)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Has smoked in the past month, n (%)</td><td rowspan="1" colspan="1">974 (27)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Body mass index (BMI), n (%)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;18 (underweight)</td><td rowspan="1" colspan="1">30 (1)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">18-24.9 (normal weight)</td><td rowspan="1" colspan="1">690 (19)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">25-29.9 (overweight)</td><td rowspan="1" colspan="1">794 (22)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x02265;30 (obese)</td><td rowspan="1" colspan="1">932 (26)</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Height and/or weight not given<sup>b</sup>
+</td><td rowspan="1" colspan="1">1184 (33)</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Other individual difference measures</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Subjective numeracy (out of possible 6-48), median (IQR)</td><td rowspan="1" colspan="1">35 (10)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Knows someone who died because of heart problems, n (%)</td><td rowspan="1" colspan="1">2702 (75)</td></tr></tbody></table><table-wrap-foot><fn id="table1fn1"><p>
+<sup>a</sup>HDL: high-density lipoprotein.</p></fn><fn id="table1fn2"><p>
+<sup>b</sup>Height and weight were only asked of participants who did not know their cholesterol counts.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Primary Outcome: Risk Perception</title><p>We first explored relationships between actual risk and risk perception via Pearson correlations, stratifying by all possible combinations of design factors as shown in <xref ref-type="table" rid="table2">Table 2</xref>. We observed that correlation values appear to be larger overall in the random condition than in the standard condition, and that nonmoving avatars also appeared to possibly increase correlations.</p><p>Testing the risk graphic factors and moderators for their effects on risk perception, we observed an interaction between the actual risk and the random variables in their association with risk perception. Adding the element of randomness resulted in lower risk feeling smaller, higher risk feeling slightly larger, and very high risk feeling larger (see details in <xref ref-type="table" rid="table3">Table 3</xref>).</p><table-wrap id="table2" position="float"><label>Table 2</label><caption><p>Correlations between actual risk and risk perception by study arm.</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="242" span="1"/><col width="53" span="1"/><col width="51" span="1"/><col width="51" span="1"/><col width="50" span="1"/><thead><tr valign="top"><td rowspan="1" colspan="1">Type of Avatar</td><td colspan="2" rowspan="1">Standard</td><td colspan="2" rowspan="1">Random</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">.13</td><td rowspan="1" colspan="1">.02</td><td rowspan="1" colspan="1">.25</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">Avatar moves: no; color choice: no</td><td rowspan="1" colspan="1">.25</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">.30</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">Avatar moves: no; color choice: yes</td><td rowspan="1" colspan="1">.23</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">.18</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">Avatar moves: yes; color choice: no</td><td rowspan="1" colspan="1">.13</td><td rowspan="1" colspan="1">.01</td><td rowspan="1" colspan="1">.28</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">Avatar moves: yes; color choice: yes</td><td rowspan="1" colspan="1">.11</td><td rowspan="1" colspan="1">.03</td><td rowspan="1" colspan="1">.21</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr></tbody></table></table-wrap><table-wrap id="table3" position="float"><label>Table 3</label><caption><p>Summary of findings for primary outcome risk perception.</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="15" span="1"/><col width="15" span="1"/><col width="160" span="1"/><col width="80" span="1"/><col width="70" span="1"/><col width="50" span="1"/><thead><tr valign="bottom"><td colspan="4" rowspan="1">Effects</td><td rowspan="1" colspan="1">Mean values<sup>a</sup> (SD)</td><td rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>1,3576</sub>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="4" rowspan="1">
+<bold>Effects of experimental design factors</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Interaction between actual risk and random</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">6.12</td><td rowspan="1" colspan="1">.01<sup>b</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Lower risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Standard</td><td rowspan="1" colspan="1">3.2 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Random</td><td rowspan="1" colspan="1">3.0 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Higher risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Standard</td><td rowspan="1" colspan="1">3.7 (2.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Random</td><td rowspan="1" colspan="1">3.8 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Very high risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Standard</td><td rowspan="1" colspan="1">4.1 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Random</td><td rowspan="1" colspan="1">4.6 (1.9)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Main effect of avatar</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">4.61</td><td rowspan="1" colspan="1">0.03<sup>b</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">No avatar</td><td rowspan="1" colspan="1">3.3 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Avatar</td><td rowspan="1" colspan="1">3.5 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Interaction between avatar and familiarity</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">5.88</td><td rowspan="1" colspan="1">.02</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>No familiarity</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">2.7 (2.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Avatar</td><td rowspan="1" colspan="1">3.2 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Familiarity</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">3.5 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Avatar</td><td rowspan="1" colspan="1">3.6 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="4" rowspan="1">
+<bold>Interaction between avatar, color choice, and blood pressure known</bold>
+</td><td rowspan="1" colspan="1">4.57</td><td rowspan="1" colspan="1">.03</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Blood pressure unknown</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">3.5 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Generic avatar</td><td rowspan="1" colspan="1">3.3 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Avatar with color choice</td><td rowspan="1" colspan="1">3.6 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Blood pressure known</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">3.3 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Generic avatar</td><td rowspan="1" colspan="1">3.6 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Avatar with color choice</td><td rowspan="1" colspan="1">3.5 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="4" rowspan="1">
+<bold>Effects of moderating variables</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Main effect of actual risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">166</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Lower risk</td><td rowspan="1" colspan="1">3.1 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Higher risk</td><td rowspan="1" colspan="1">3.7 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Very high risk</td><td rowspan="1" colspan="1">4.4 (2.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Main effect of numeracy</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">86.2</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Low numeracy</td><td rowspan="1" colspan="1">3.8 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">High numeracy</td><td rowspan="1" colspan="1">3.2 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Main effect of familiarity</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">28.3</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">No familiarity</td><td rowspan="1" colspan="1">3.1 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Familiarity</td><td rowspan="1" colspan="1">3.6 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="4" rowspan="1">
+<bold>Interaction between actual risk and blood pressure known</bold>
+</td><td rowspan="1" colspan="1">7.56</td><td rowspan="1" colspan="1">.006</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Lower risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure unknown</td><td rowspan="1" colspan="1">3.3 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure known</td><td rowspan="1" colspan="1">3.0 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Higher risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure unknown</td><td rowspan="1" colspan="1">3.5 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure known</td><td rowspan="1" colspan="1">3.8 (2.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Very high risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure unknown</td><td rowspan="1" colspan="1">4.3 (2.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure known</td><td rowspan="1" colspan="1">4.4 (2.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Interaction between numeracy and blood pressure known</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">4.36</td><td rowspan="1" colspan="1">.04</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Lower numeracy</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure unknown</td><td rowspan="1" colspan="1">3.6 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure known</td><td rowspan="1" colspan="1">3.8 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Higher numeracy</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure unknown</td><td rowspan="1" colspan="1">3.2 (2.3)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure known</td><td rowspan="1" colspan="1">3.2 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table><table-wrap-foot><fn id="table3fn1"><p>
+<sup>a</sup>Assessed on scale of 0 (lowest risk perception) to 9 (highest risk perception).</p></fn><fn id="table3fn2"><p>
+<sup>b</sup>No longer significant when participants at very low or very high risk were removed from the sample.</p></fn></table-wrap-foot></table-wrap><p>We observed a main effect for the design factor avatar, with slightly higher overall risk perceptions when an avatar was used, as well as another interaction between avatar and familiarity on this outcome. This interaction suggested that for people who knew someone who had died of cardiovascular problems, the use of an avatar was associated with a minimal increase in risk perceptions, but for people who lacked such familiarity, an avatar significantly increased their risk perceptions.</p><p>As expected, all 3 planned moderators had significant main effects, with risk perception increasing with actual risk and decreasing with increasing numeracy. People who knew someone who had died of cardiovascular problems (familiarity) perceived their risk as larger. Neither additional moderator (blood pressure known and cholesterol known) had a significant main effect on risk perception. There was, however, a significant interaction between blood pressure known and actual risk on this outcome. Among participants at lower risk, knowing one&#x02019;s blood pressure was associated with lower risk perception whereas the reverse was true for participants at higher risk and, to a certain extent, those at very high risk. We also observed an interaction between blood pressure known and numeracy. For participants with higher numeracy, knowing one&#x02019;s blood pressure did not appear to affect risk perception whereas for those with lower numeracy, knowing one&#x02019;s blood pressure was associated with somewhat higher risk perception.</p><p>Finally, we observed an interaction between blood pressure known, avatar, and color choice in their association with this outcome. Among people who knew their blood pressure, the presence of a generic avatar was associated with somewhat higher risk perception but no additional increase was observed for a personalized avatar. However, among people who did not know their blood pressure, a generic avatar was associated with a small decrease in risk perception whereas a personalized avatar was associated with a small increase.</p><p>When we explored these analyses on the middle 2 subsets of participants, removing all participants with risk estimates less than 1% or greater than 30%. Findings remained similar overall; however, the observed interaction between actual risk and random was no longer significant (<italic>F</italic>
+<sub>1,3291</sub>=2.58, <italic>P</italic>=.10) nor was the observed main effect of avatar (<italic>F</italic>
+<sub>1,3291</sub>=3.62, <italic>P</italic>=.06).</p></sec><sec><title>Secondary Outcomes</title><sec><title>Lifestyle Intentions</title><p>Examining the effects of different variables on lifestyle intentions, we observed that the factor random had a main effect: participants who received randomly dispersed events were less likely to indicate intentions toward healthy behaviors in the next 30 days (see details in <xref ref-type="table" rid="table4">Table 4</xref>).</p><p>In addition, nearly all moderating variables had significant main effects. Greater intentions toward healthy lifestyles were observed among participants with lower actual risk, those with higher numeracy, and those who knew their blood pressure and cholesterol.</p><p>No significant interactions were observed on this outcome. When we explored these analyses within the subgroup of participants that remained after removing all participants with risk estimates less than 1% or greater than 30%, all findings remained similar.</p><table-wrap id="table4" position="float"><label>Table 4</label><caption><p>Summary of findings for secondary outcome lifestyle intentions.</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="15" span="1"/><col width="208" span="1"/><col width="100" span="1"/><col width="85" span="1"/><col width="50" span="1"/><thead><tr valign="bottom"><td colspan="3" rowspan="1">Effects</td><td rowspan="1" colspan="1">Mean values<sup>a</sup> (SD)</td><td rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>1,3572</sub>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Effects of experimental design factors</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Main effect of random</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">11.1</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Standard</td><td rowspan="1" colspan="1">5.2 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Random</td><td rowspan="1" colspan="1">4.9 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Effects of moderating variables</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Main effect of actual risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">17.4</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Lower risk</td><td rowspan="1" colspan="1">5.2 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Higher risk</td><td rowspan="1" colspan="1">5.0 (2.3)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Very high risk</td><td rowspan="1" colspan="1">4.7 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Main effect of numeracy</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">25.4</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Lower numeracy</td><td rowspan="1" colspan="1">4.9 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Higher numeracy</td><td rowspan="1" colspan="1">5.2 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Main effect of blood pressure known</bold>
+</td><td rowspan="1" colspan="1">30.8</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure unknown</td><td rowspan="1" colspan="1">4.7 (2.4)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Blood pressure known</td><td rowspan="1" colspan="1">5.2 (2.2)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Main effect of cholesterol known</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">34.9</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Cholesterol unknown</td><td rowspan="1" colspan="1">4.8 (2.3)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Cholesterol known</td><td rowspan="1" colspan="1">5.4 (2.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table><table-wrap-foot><fn id="table4fn1"><p>
+<sup>a</sup>Assessed on scale of 0 (lowest intentions) to 9 (highest intentions).</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Intentions to See a Doctor</title><p>We observed a significant interaction between actual risk and avatar in which the use of an avatar appeared to increase the spread, making those at lower risk less likely to plan to see a doctor, and those at higher risk more likely (see details in <xref ref-type="table" rid="table5">Table 5</xref>).</p><p>The 3 moderating variables having to do with medical data all had significant main effects in expected directions on participants&#x02019; intentions to see a doctor in the next 30 days. Participants with higher actual risk indicated stronger intentions, as did those who knew their blood pressure and cholesterol.</p><p>We observed another interaction between numeracy, avatar, and color choice. Among those with higher numeracy, personalization via color choice was associated with somewhat increased intentions to see a doctor, whereas this difference was not observed for those with lower numeracy.</p><p>When we explored these analyses within the subgroup of participants that remained after removing all participants with risk estimates &#x0003c;1% or &#x0003e;30%, all findings described previously remained similar; however, an interaction that did not reach significance in the analysis of the full dataset (<italic>P</italic>=.06) was significant in the restricted dataset. Specifically, within the restricted set, we observed an interaction between actual risk and blood pressure known (<italic>F</italic>
+<sub>1,3273</sub>=6.73, <italic>P</italic>=.01). Among those who did not know their blood pressure, intentions to see a doctor were similar across levels of risk, whereas for those who knew their blood pressure, increased risk was associated with increased intentions (blood pressure unknown: mean 4.2 (SD 3.0) for lower risk vs mean 4.1 (SD 3.2) for higher risk; blood pressure known: mean 4.5 for lower risk (SD 3.0) vs mean 5.4 (SD 2.9) for higher risk).</p><table-wrap id="table5" position="float"><label>Table 5</label><caption><p>Summary of findings for secondary outcome see a doctor.</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="15" span="1"/><col width="15" span="1"/><col width="180" span="1"/><col width="100" span="1"/><col width="85" span="1"/><col width="50" span="1"/><thead><tr valign="bottom"><td colspan="4" rowspan="1">Effects</td><td rowspan="1" colspan="1">Mean values<sup>a</sup> (SD)</td><td rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>1,3556</sub>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="4" rowspan="1">
+<bold>Effects of experimental design factors</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Interaction between avatar and actual risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">6.38</td><td rowspan="1" colspan="1">.01</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Lower risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">4.7 (3.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Avatar</td><td rowspan="1" colspan="1">4.4 (3.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Higher risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">4.8 (2.9)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Avatar</td><td rowspan="1" colspan="1">5.2 (3.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Very high risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">4.9 (3.4)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Avatar</td><td rowspan="1" colspan="1">5.8 (2.6)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Interaction between numeracy, avatar, and color choice</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">10.1</td><td rowspan="1" colspan="1">.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Lower numeracy</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">4.8 (2.9)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Generic avatar</td><td rowspan="1" colspan="1">4.9 (3.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Avatar with color choice</td><td rowspan="1" colspan="1">4.8 (3.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Higher numeracy</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">4.7 (3.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Generic avatar</td><td rowspan="1" colspan="1">4.8 (3.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Avatar with color choice</td><td rowspan="1" colspan="1">5.1 (3.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="4" rowspan="1">
+<bold>Effects of moderating variables</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Main effect of actual risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">81.6</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Lower risk</td><td rowspan="1" colspan="1">4.5 (3.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Higher risk</td><td rowspan="1" colspan="1">5.1 (3.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Very high risk</td><td rowspan="1" colspan="1">5.7 (2.8)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Main effect of blood pressure known</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">44.5</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Blood pressure unknown</td><td rowspan="1" colspan="1">4.2 (3.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Blood pressure known</td><td rowspan="1" colspan="1">5.0 (3.0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Main effect of cholesterol known</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">63.0</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Cholesterol unknown</td><td rowspan="1" colspan="1">4.4 (3.1)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Cholesterol known</td><td rowspan="1" colspan="1">5.4 (2.9)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table><table-wrap-foot><fn id="table5fn1"><p>
+<sup>a</sup>Assessed on scale of 0 (lowest intentions) to 9 (highest intentions).</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Recall</title><p>We observed an interaction between random and actual risk in their association with recall. Participants at lower risk demonstrated a slight increase in correct recall in the random condition, those at higher risk showed a slight decrease, and those at very high risk had a larger decrease (see details in <xref ref-type="table" rid="table6">Table 6</xref>).</p><p>Differences in numeracy were also associated with differences in recall. Participants with lower numeracy had more trouble accurately recalling their risk estimate. We also observed a similar main effect for blood pressure known. Participants who knew their blood pressure were also more able to recall their risk estimate.</p><p>Rerunning these analyses after removing the participants who had received a less precise estimate in the text (ie, those who received an estimate of &#x0201c;less than 1%&#x0201d; or &#x0201c;more than 30%&#x0201d; but who nonetheless received a risk graphic with a discrete number of event rectangles), we found that the main effects of moderating variables remained similar, but the interaction between random and actual risk was no longer significant (<italic>F</italic>
+<sub>1,3260</sub>=4.73, <italic>P</italic>=.03). There was also a complex interaction between random, avatar, and avatar moves that did not reach significance in the larger dataset (<italic>F</italic>
+<sub>1,3544</sub>=5.16, <italic>P</italic>=.02) but did so in the restricted set (<italic>F</italic>
+<sub>1,3260</sub>=6.27, <italic>P</italic>=.01). In this interaction, we observed that in the standard condition, presence of an avatar was associated with a decrease in correct recall, more so with a moving avatar (correct recall: 85% without avatar, 82% with nonmoving avatar, 78% with moving avatar). On the other hand, in the random condition, correct recall was somewhat lower to begin with and remained relatively consistent, regardless of the presence or absence of an avatar and whether or not it moved randomly within the graphic (correct recall: 80% without avatar, 80% with nonmoving avatar, 79% with moving avatar). <xref ref-type="table" rid="table7">Table 7</xref> presents participants&#x02019; recall by study arm.</p><table-wrap id="table6" position="float"><label>Table 6</label><caption><p>Summary of findings for secondary outcome recall.</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="15" span="1"/><col width="15" span="1"/><col width="15" span="1"/><col width="160" span="1"/><col width="100" span="1"/><col width="60" span="1"/><col width="40" span="1"/><thead><tr valign="bottom"><td colspan="4" rowspan="1">Effects</td><td rowspan="1" colspan="1">Participants with correct recall<sup>a</sup>
+</td><td rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>1,3544</sub>
+</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="4" rowspan="1">
+<bold>Effects of experimental design factors</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="4" rowspan="1">
+<bold>Interaction between random and actual risk</bold>
+</td><td rowspan="1" colspan="1">7.06</td><td rowspan="1" colspan="1">.008<sup>b</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Lower risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Standard</td><td rowspan="1" colspan="1">83%</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Random</td><td rowspan="1" colspan="1">85%</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Higher risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Standard</td><td rowspan="1" colspan="1">79%</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Random</td><td rowspan="1" colspan="1">76%</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Very high risk</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Standard</td><td rowspan="1" colspan="1">76%</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Random</td><td rowspan="1" colspan="1">64%</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="4" rowspan="1">
+<bold>Effects of moderating variables</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Main effect of numeracy</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">75.7</td><td rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Lower numeracy</td><td rowspan="1" colspan="1">74%</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Higher numeracy</td><td rowspan="1" colspan="1">86%</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="4" rowspan="1">
+<bold>Main effect of blood pressure known</bold>
+</td><td rowspan="1" colspan="1">10.6</td><td rowspan="1" colspan="1">.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Blood pressure unknown</td><td rowspan="1" colspan="1">74%</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Blood pressure known</td><td rowspan="1" colspan="1">82%</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></tbody></table><table-wrap-foot><fn id="table6fn1"><p>
+<sup>a</sup>Analysis used quasi-continuous difference between recalled value and actual risk. Correct recall for reporting purposes defined as within 5 percentage points.</p></fn><fn id="table6fn2"><p>
+<sup>b</sup>No longer significant when participants at very low or very high risk were removed from the sample.</p></fn></table-wrap-foot></table-wrap><table-wrap id="table7" position="float"><label>Table 7</label><caption><p>Percent correct recall<sup>a</sup> by study arm.</p></caption><table frame="hsides" rules="groups" width="800" border="1" cellpadding="7" cellspacing="0"><col width="252" span="1"/><col width="68" span="1"/><col width="68" span="1"/><col width="75" span="1"/><col width="76" span="1"/><thead><tr valign="top"><td rowspan="1" colspan="1">Type of Avatar</td><td colspan="2" rowspan="1">All data included (n=3597)</td><td colspan="2" rowspan="1">&#x0003c;1 and &#x0003e;30 removed (n=3312)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Standard</td><td rowspan="1" colspan="1">Random</td><td rowspan="1" colspan="1">Standard</td><td rowspan="1" colspan="1">Random</td></tr></thead><tbody><tr valign="top"><td rowspan="1" colspan="1">No avatar</td><td rowspan="1" colspan="1">85%</td><td rowspan="1" colspan="1">80%</td><td rowspan="1" colspan="1">85%</td><td rowspan="1" colspan="1">82%</td></tr><tr valign="top"><td rowspan="1" colspan="1">Avatar moves: no, color choice: no</td><td rowspan="1" colspan="1">86%</td><td rowspan="1" colspan="1">82%</td><td rowspan="1" colspan="1">86%</td><td rowspan="1" colspan="1">82%</td></tr><tr valign="top"><td rowspan="1" colspan="1">Avatar moves: no, color choice: yes</td><td rowspan="1" colspan="1">78%</td><td rowspan="1" colspan="1">77%</td><td rowspan="1" colspan="1">78%</td><td rowspan="1" colspan="1">78%</td></tr><tr valign="top"><td rowspan="1" colspan="1">Avatar moves: yes, color choice: no</td><td rowspan="1" colspan="1">78%</td><td rowspan="1" colspan="1">83%</td><td rowspan="1" colspan="1">79%</td><td rowspan="1" colspan="1">84%</td></tr><tr valign="top"><td rowspan="1" colspan="1">Avatar moves: yes, color choice: yes</td><td rowspan="1" colspan="1">77%</td><td rowspan="1" colspan="1">75%</td><td rowspan="1" colspan="1">78%</td><td rowspan="1" colspan="1">78%</td></tr></tbody></table><table-wrap-foot><fn id="table7fn1"><p>
+<sup>a</sup>Correct recall for reporting purposes defined as recall within 5 percentage points of given estimate.</p></fn></table-wrap-foot></table-wrap></sec></sec></sec><sec sec-type="discussion"><title>Discussion</title><sec><title>Principal Results</title><p>Our results demonstrate several key findings. First, consistent with our earlier work [<xref rid="ref29" ref-type="bibr">29</xref>], by animating event rectangles in an icon array to appear one at a time scattered randomly throughout the array and then having them settle at the bottom of the array, we were able to convey the randomness of events without sacrificing overall indications of comprehension of the risk estimate. Further, this design factor helped to increase the concordance between actual risk and risk perceptions, with people at lower risk perceiving themselves to be at lower risk, and people at higher risk perceiving themselves at higher risk. This suggests that animated randomness of this sort may help people better understand their individual risk. It may be that random dispersion of the colored rectangles may reinforce the rareness of small risks and also the magnitude of large ones (eg, &#x0201c;There are colored blocks everywhere!&#x0201d;) This finding is especially notable given that we did not provide participants with any indication of whether their risk was low or high.</p><p>The observed effect of animated randomness was driven by the strength of the effect for the 8% of participants who were at very high risk and whose risk estimate was presented in text as &#x0201c;more than 30%.&#x0201d; These participants had to wait as 31 event rectangles appeared randomly in the graphic one by one, never quite knowing where the next one would appear or when the process would stop. The combined uncertainty of the text statement, random positioning of the event rectangles, and uncertainty around how many event rectangles would appear may well compound each other and lead to a heightened sense of being at risk. Because it is common for models of health risk to be mathematically convergent only within certain boundary conditions and/or to generate ranges of risk estimates rather than point estimates, this design technique of animated randomness combined with the temporal signaling of one event appearing at a time may be broadly applicable. Nonetheless, further research will be needed to determine its effectiveness&#x02014;or lack thereof&#x02014;across a range of situations.</p><p>We further note that although there was no main effect of animated randomness on recall, those at higher risk demonstrated a small decrease in their ability to precisely recall the risk estimate they were given whereas those at lower risk demonstrated a small increase. As with the interaction discussed previously, this relationship was driven by the strength of effect in those at very high risk, who were not given a precise numerical risk estimate in text and thus had the more challenging task of recalling the number of event rectangles in their risk graphic. This additional difficulty may have contributed to the lower recall in this group. We further speculate that people who are reassured by a risk estimate may find it somewhat easier to remember the number whereas those who are alarmed may be less likely to remember an exact number because of distracting emotions, such as fear.</p><p>Despite the overall welcome finding that animated randomness may help better align risk perceptions with actual risk, we note that in the study context of lifestyle-preventable disease, emphasizing the haphazard and random distribution of negative outcomes led to lower intentions of behavior that might prevent such events. Visually depicting randomness may cause people to focus on the role of chance in health outcomes, drawing their attention to the fact that one&#x02019;s behavior does not completely determine one&#x02019;s health outcomes. We note that we did not present visual depictions of the potential for health behaviors to change the risk estimate. Doing so might possibly have reduced the negative effects of animated randomness on healthy behavior intentions. Further research will be necessary to fully understand this aspect of our findings. Such research should explore the role of potential moderators of health behavior, such as beliefs about the efficacy of lifestyle changes as well as self-efficacy and fatalism in health.</p><p>Ultimately, these findings suggest that the value of explicitly showing randomness may depend on whether one&#x02019;s goal is to persuade or inform. Helping people understand randomness may be less useful in persuasive contexts such as promoting lifestyle change. However, it may be more useful in cases in which the primary objective is to inform; for example, in preference-sensitive decisions or when informing people about the risk of a side effect. Importantly, aiming to fully inform people is arguably more ethical than aiming to persuade them. This design factor will need to be tested in other contexts and may also require some unpacking to determine the effects of design choices that did not vary across experimental conditions, such as the fact that higher risks took a longer time to appear.</p><p>Second, using an avatar increased overall risk perceptions, and showed promise particularly for people who did not personally know anyone who had experienced grave outcomes in this context. Thus, avatars may be especially useful for drawing attention to risks related to rare or hidden conditions. This interaction, combined with the fact that the main effects of familiarity were similar to the effects of an avatar in the absence of familiarity, suggests that the avatar achieved our design goal of helping people better grasp how population-based statistics can apply to an individual. This conclusion is bolstered by the fact that use of an avatar significantly shifted intentions to see a physician in sensible directions, with people at lower and higher risk indicating, respectively, lower and higher intentions to see a doctor in the next 30 days.</p><p>However, other design factors related to the presentation of the avatar showed mixed results. Having the avatar move around randomly in the risk graphic appeared to simply confuse most participants. Allowing people to choose the color of their avatar may have increased identification with the avatar among those with higher numeracy, as they were more likely to indicate intentions to see a doctor when they were encouraged to choose the color. We speculate that those with higher numeracy may be better equipped to understand the risk graphic and thus, adding an extra element that draws their attention can be helpful. By contrast, the extra factor may have added a level of confusion or overwhelm for those with lower numeracy. Allowing people to choose the color of their avatar also appeared to make up for the loss of personal salience among participants who did not know their blood pressure and thus, slightly encouraged intentions to engage in health lifestyle behaviors and see a doctor. However, for those who knew their blood pressure, it tended to have the opposite effect. Taken together, these results suggest that when risk salience may be low, using a personalized avatar may help people feel like the risk applies to them, individually. However, these effects were small; moreover, if risk salience is higher, such basic attempts at personalization may backfire. Therefore, using color choice as a method of personalization, although efficient and quick, appears to be insufficient to allow all people to identify with their avatar and may even lead to undesirable results. Further research will be required to investigate the effects of different forms of personalization.</p><p>Third, we note that all 3 planned moderating factors had significant effects. For example, people at higher risk perceived their risk as higher and indicated stronger intentions to see a doctor in the next 30 days; people scoring lower on numeracy indicated higher overall risk perceptions, lower intentions toward healthy behaviors, and lower recall, and participants who knew someone who had died of cardiovascular causes had higher risk perceptions. We also observed that people at higher risk tended to indicate lower intentions toward healthy behavior. This latter finding&#x02014;that people at higher risk have lower intentions to do such things as quit smoking, exercise, and eat well in the next 30 days&#x02014;may reflect that those at lower risk may already be engaging in those behaviors and thus can easily indicate higher intentions toward such behaviors in the next 30 days. It also aligns with findings about how negative feedback can discourage people, whereas positive feedback can motivate people in a success breeds success cycle [<xref rid="ref52" ref-type="bibr">52</xref>]. These findings support the need for extra attention when considering how to design better risk communication for those at higher risk, lower numeracy, and with more or less personal familiarity with the condition. We highlight that the fact that many of the observed interactions with actual risk were driven by the participants at the highest level of risk suggests that risk communication methods should be tested across the full range of possible risk values to ensure that studies capture relevant findings.</p><p>Analyses of participants who did or did not know their blood pressure and/or cholesterol suggested that these were important moderators, particularly the former. People who knew their blood pressure had greater alignment between their actual and perceived risk, overall higher intentions toward healthy lifestyle actions and seeing a doctor, and more accurately recalled their risk estimate. It may be that this latter finding is reflective of an underlying ability to recall numbers; however, in such a case, we would expect to see an interaction with numeracy, which was not present. Numeracy did interact with knowledge of one&#x02019;s blood pressure when it came to risk perceptions and behavioral intentions. For people with higher numeracy, risk perception was consistent whether they knew their blood pressure or not, whereas for those with lower numeracy, their overall higher risk perceptions were further increased with knowledge of their blood pressure. In addition, for those with lower numeracy, knowing one&#x02019;s blood pressure was more influential in increasing behavioral intentions than it was for those with higher numeracy. We speculate that people with lower numeracy may accord more importance to their blood pressure number. Similar to the results for blood pressure, people who knew their cholesterol were more likely to indicate intentions to engage in healthy behaviors and see a doctor in the next 30 days. These findings support the idea that risk estimates are likely to be more impactful when they are more individually tailored.</p></sec><sec><title>Limitations</title><p>This study was limited by the fact that we used an Internet survey panel to recruit participants. Although this recruitment choice allows us to ensure a more diverse sample, it necessarily introduces selection bias in that participants are those who registered on a panel to take surveys; thus, they may not be representative of the broader population.</p><p>In addition, we observed small effects. This is expected in a study with outcomes such as risk perceptions and behavioral intentions because such outcomes have significant variation in individual responses. Even the actual risk estimate was associated with only a 1.4-point difference on a 10-point scale of risk perception between those at high and very low risk, suggesting that there is little room on the scale within which to work. This limits the overall utility of these design factors, as it may not be worth the additional design complexity and development time to make small gains. Such small gains, however, may be worth pursuing when one considers cumulative effects within a population.</p><p>The underlying risk model also limited this study in 2 ways. First, because the risk estimate for cardiovascular disease uses age as an important predictor, we were not able to isolate the effects of age on participants&#x02019; reactions to the different risk communication designs. It is possible, for example, that older adults might have different reactions to randomization or avatars. Further research will be needed to explore the effects of these kinds of design factors in older versus younger adults. Second, because the model does not provide numerical risk estimates below 1% or above 30%, approximately 8% of the sample population in this study did not receive a precise numerical text estimate. Instead, these participants received a risk estimate of &#x0201c;less than 1%&#x0201d; (7 participants) or &#x0201c;more than 30%&#x0201d; (279 participants) along with 1 or 31 event rectangles in their risk graphic, respectively. This additional ambiguity in the textual risk estimate appeared to amplify findings regarding randomization in the risk graphic. As discussed previously, this is a realistic portrait of many risk calculators, as many risk analysis models are mathematically convergent only within certain boundary conditions. However, the observed interaction between risk level and animated randomness may not translate to calculators that yield precise estimates across a full range of potential risk.</p><p>Finally, it is important to note that because this study was conducted in the United States before the introduction of the Affordable Care Act (&#x0201c;ObamaCare&#x0201d;), findings about participants who did not know their blood pressure or cholesterol and findings concerning intentions to see a doctor may reflect an underlying issue of lack of access to medical care rather than effects that would translate to other settings.</p></sec><sec><title>Comparison With Prior Work</title><p>Previous work has suggested that randomly displaying events in an icon array can increase understanding of the random nature of such events, but at the expense of comprehension of the numerical risk estimate [<xref rid="ref22" ref-type="bibr">22</xref>-<xref rid="ref27" ref-type="bibr">27</xref>]. Our study, along with our previous work [<xref rid="ref29" ref-type="bibr">29</xref>], demonstrated that animating the randomly distributed events to ultimately settle into a standard display can convey randomness without such a sacrifice.</p><p>A previous study by Ancker and colleagues [<xref rid="ref31" ref-type="bibr">31</xref>] tested a somewhat similar interface in which participants were shown 1 of 4 risk graphics to display a risk of heart disease and also a risk of infectious disease: a static standard icon array, a static random icon array, an interactive display in which participants switched back and forth between the static standard and static random array, and an interactive display in which participants began with all icons covered and clicked to uncover a static random display. The third of these, which the authors dubbed &#x0201c;switch,&#x0201d; had the most similarities with our random condition in that it alternated between random and standard displays of risk. The key differences between our design of randomness and the switch design were in our use of animation to signal quantity by adding one event rectangle at a time and having the rectangles dynamically settle into a standard display at the conclusion of the animation automatically, unlike the interactive nature of Ancker and colleagues&#x02019; design [<xref rid="ref31" ref-type="bibr">31</xref>].</p><p>Another study conducted by Han and colleagues [<xref rid="ref28" ref-type="bibr">28</xref>] examined different methods for representing randomness by experimentally varying the presentation of a hypothetical risk of colon cancer. After introducing participants to the National Cancer Institute Colorectal Cancer Risk Assessment Tool, they tested 5 representation formats for risk; namely, a static standard icon array, a static random icon array, a dynamic random icon array in which the event rectangles changed location randomly (and did not settle into a standard display at the conclusion of the animation), and text with and without cues about randomness.</p><p>In comparing our study to previous work, we note that the studies by both Ancker et al [<xref rid="ref31" ref-type="bibr">31</xref>] and Han et al [<xref rid="ref28" ref-type="bibr">28</xref>] used hypothetical contexts and assigned risks that did not vary by participant, a common practice in the field of risk communication research when the goal is to evaluate the utility of a given communication format. In contrast, our study had participants enter their personal information into a risk calculator and receive their actual risk estimate. Both previous studies found no differences in risk perceptions by graphic format. We observed a similar lack of main effect of randomness; however, because our study used varying levels of risk, we were able to observe an interaction in which randomness was associated with lower risk perception at lower levels of risk, and higher risk perception at higher levels of risk, suggesting that randomness helps align risk perceptions with actual risk. We note that both of these previous studies included a measure or method of assessing perceived uncertainty in the risk estimate. We did not measure such an outcome; therefore, we are unable to compare our findings to theirs on that construct.</p><p>To the best of our knowledge, ours is the first study to test the effects of including an avatar as a design factor in risk communication graphics. Previous work in other contexts has suggested that people identify strongly with their avatar [<xref rid="ref34" ref-type="bibr">34</xref>-<xref rid="ref41" ref-type="bibr">41</xref>]. Our results, which suggest that including an avatar helped increase realization of personal risk, are in line with these findings. More research is needed to study the use of avatars and other embodied agents in health risk communication.</p><p>More recent research has also suggested that graphical displays may not always outperform simple percentages or absolute frequencies in risk communication [<xref rid="ref53" ref-type="bibr">53</xref>] and that their utility may depend on graphical literacy, with people who score low on graphical literacy performing better with numbers alone [<xref rid="ref54" ref-type="bibr">54</xref>]. Because the data for our study were collected before publication of the graphical literacy scale, we did not measure graphical literacy and were unable to examine this issue. Graphical literacy will be an important moderating factor to include in future research, and the question of whether or not to use graphics when communicating risk remains open.</p><p>The present study continues a program of research by our group in which we previously noted that 2 animated displays side by side were problematic [<xref rid="ref29" ref-type="bibr">29</xref>]. In this study, we deliberately used one signal at a time and did not observe the same deleterious effects of animation and randomness on performance. Our findings about the generally negative effects of a moving avatar, however, continue to encourage careful design when including animation and motion in risk graphics.</p></sec><sec><title>Conclusions</title><p>An animated display of risk that adds events one at a time in a randomly dispersed icon array and where they settle at the bottom of the display at the conclusion of the animation may help align risk perceptions with actual risk estimates without sacrificing number sense. This method shows promise for helping people better understand the random nature of risk. Such understanding may come at a cost of discouraging behavioral intentions, suggesting that the use of this method may depend on whether the goal of the risk communication is to persuade or to inform.</p><p>The use of an avatar in a risk graphic also shows promise for helping people to grasp how population-based statistics can apply to an individual, particularly in cases when the person does not know anyone who has experienced the outcome under consideration. An avatar that is animated to move randomly within the graphic does not appear to be helpful. Personalization via color choice shows mixed effects, suggesting that personalization of an avatar may be an interesting avenue for further study, but that this particular method of personalization does not appear to be optimal.</p></sec></sec></body><back><ack><p>This work was funded by a grant from The Foundation for Informed Medical Decision Making (FIMDM), now the Informed Medical Decisions Foundation (IIG 0126-1, PI: Zikmund-Fisher). Dr Zikmund-Fisher was supported by a career development award from the American Cancer Society (MRSG-06-130-01-CPPB). The funding agreements ensured the authors&#x02019; independence in designing the study, in collecting, analyzing, and interpreting the data, in writing the manuscript, and in the decision to submit the manuscript for publication. The authors thank Mark Swanson for programming the Flash-based animations for this study and the manuscript reviewers for their constructive comments.</p></ack><fn-group><fn fn-type="con"><p>Authors' Contributions: All authors contributed to the conception and design of the study. HOW, AFF, MD, NE, VK, and BJZ-F contributed to technical design and HCW contributed clinical insight about use of the model and wording. MD programmed the application and survey. HOW, MD, LH, NE, and BJZ-F were involved in data acquisition. HOW analyzed and interpreted data with insight from HCW and BJZ-F. HOW wrote the first draft of the article; all authors revised it critically for important intellectual content, saw, and approved the final version submitted.</p></fn><fn fn-type="conflict"><p>Conflicts of Interest: None declared.</p></fn></fn-group><app-group><app id="app1"><title>Multimedia Appendix 1</title><p>Video of risk graphic (.mp4 version).</p><fig id="d35e4942" position="anchor"><media xlink:href="jmir_v16i3e80_app1.mp4"/></fig></app><app id="app2"><title>Multimedia Appendix 2</title><p>Video of risk graphic (.avi version).</p><fig id="d35e4948" position="anchor"><media xlink:href="jmir_v16i3e80_app2.avi"/></fig></app><app id="app3"><title>Multimedia Appendix 3</title><p>Secondary study: effects of heart age message.</p><fig id="d35e4954" position="anchor"><media xlink:href="jmir_v16i3e80_app3.pdf"/></fig></app></app-group><glossary><title>Abbreviations</title><def-list><def-item><term id="abb1">AA</term><def><p>Associate of Arts</p></def></def-item><def-item><term id="abb2">AS</term><def><p>Associate of Science</p></def></def-item><def-item><term id="abb3">BA</term><def><p>Bachelor of Arts</p></def></def-item><def-item><term id="abb4">BS</term><def><p>Bachelor of Science</p></def></def-item><def-item><term id="abb5">GED</term><def><p>General Educational Development</p></def></def-item><def-item><term id="abb6">HDL</term><def><p>high-density lipoprotein</p></def></def-item><def-item><term id="abb7">MA</term><def><p>Master of Arts</p></def></def-item><def-item><term id="abb8">MD</term><def><p>Doctor of Medicine</p></def></def-item><def-item><term id="abb9">MPH</term><def><p>Master of Public Health</p></def></def-item><def-item><term id="abb10">PhD</term><def><p>Doctor of Philosophy</p></def></def-item><def-item><term id="abb11">SD</term><def><p>sample standard deviation</p></def></def-item><def-item><term id="abb12">SSI</term><def><p>Survey Sampling International</p></def></def-item></def-list></glossary><ref-list><ref id="ref1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Klein</surname><given-names>WMP</given-names></name><name><surname>Stefanek</surname><given-names>ME</given-names></name></person-group><article-title>Cancer risk elicitation and communication: lessons from the psychology of risk perception</article-title><source>CA: A Cancer Journal for Clinicians</source><year>2007</year><month>5</month><day>01</day><volume>57</volume><issue>3</issue><fpage>147</fpage><lpage>167</lpage><pub-id pub-id-type="doi">10.3322/canjclin.57.3.147</pub-id><pub-id pub-id-type="pmid">17507441</pub-id></element-citation></ref><ref id="ref2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fagerlin</surname><given-names>A</given-names></name><name><surname>Ubel</surname><given-names>PA</given-names></name><name><surname>Smith</surname><given-names>DM</given-names></name><name><surname>Zikmund-Fisher</surname><given-names>BJ</given-names></name></person-group><article-title>Making numbers matter: present and future research in risk communication</article-title><source>Am J Health Behav</source><year>2007</year><volume>31 Suppl 1</volume><fpage>S47</fpage><lpage>56</lpage><pub-id pub-id-type="medline">17931136</pub-id><pub-id pub-id-type="pmid">17931136</pub-id></element-citation></ref><ref id="ref3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Weinstein</surname><given-names>ND</given-names></name></person-group><article-title>Accuracy of smokers' risk perceptions</article-title><source>Ann Behav Med</source><year>1998</year><volume>20</volume><issue>2</issue><fpage>135</fpage><lpage>40</lpage><pub-id pub-id-type="medline">9989319</pub-id><pub-id pub-id-type="pmid">9989319</pub-id></element-citation></ref><ref id="ref4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alwan</surname><given-names>H</given-names></name><name><surname>William</surname><given-names>J</given-names></name><name><surname>Viswanathan</surname><given-names>B</given-names></name><name><surname>Paccaud</surname><given-names>F</given-names></name><name><surname>Bovet</surname><given-names>P</given-names></name></person-group><article-title>Perception of cardiovascular risk and comparison with actual cardiovascular risk</article-title><source>Eur J Cardiovasc Prev Rehabil</source><year>2009</year><month>10</month><volume>16</volume><issue>5</issue><fpage>556</fpage><lpage>61</lpage><pub-id pub-id-type="doi">10.1097/HJR.0b013e32832d194d</pub-id><pub-id pub-id-type="medline">19587602</pub-id><pub-id pub-id-type="pmid">19587602</pub-id></element-citation></ref><ref id="ref5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harle</surname><given-names>CA</given-names></name><name><surname>Downs</surname><given-names>JS</given-names></name><name><surname>Padman</surname><given-names>R</given-names></name></person-group><article-title>A clustering approach to segmenting users of internet-based risk calculators</article-title><source>Methods Inf Med</source><year>2011</year><month>3</month><volume>50</volume><issue>3</issue><fpage>244</fpage><lpage>52</lpage><pub-id pub-id-type="doi">10.3414/ME09-01-0080</pub-id><pub-id pub-id-type="medline">20300681</pub-id><!--<pub-id pub-id-type="pii">09-01-0080</pub-id>--><pub-id pub-id-type="pmid">20300681</pub-id></element-citation></ref><ref id="ref6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Senay</surname><given-names>I</given-names></name><name><surname>Kaphingst</surname><given-names>KA</given-names></name></person-group><article-title>Anchoring-and-adjustment bias in communication of disease risk</article-title><source>Med Decis Making</source><year>2009</year><month>10</month><volume>29</volume><issue>2</issue><fpage>193</fpage><lpage>201</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/19279297"/></comment><pub-id pub-id-type="doi">10.1177/0272989X08327395</pub-id><pub-id pub-id-type="medline">19279297</pub-id><!--<pub-id pub-id-type="pii">0272989X08327395</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2668745</pub-id>--><pub-id pub-id-type="pmid">19279297</pub-id></element-citation></ref><ref id="ref7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Peters</surname><given-names>EM</given-names></name><name><surname>V&#x000e4;stfj&#x000e4;ll</surname><given-names>D</given-names></name><name><surname>Slovic</surname><given-names>P</given-names></name><name><surname>Mertz</surname><given-names>CK</given-names></name><name><surname>Mazzocco</surname><given-names>K</given-names></name></person-group><article-title>Numeracydecision making</article-title><source>Psychological science : a journal of the American Psychological Society / APS</source><year>2006</year><volume>17</volume><pub-id pub-id-type="doi">10.1111/j.1467-9280.2006.01720.x</pub-id></element-citation></ref><ref id="ref8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reyna</surname><given-names>VF</given-names></name><name><surname>Nelson</surname><given-names>WL</given-names></name><name><surname>Han</surname><given-names>PK</given-names></name><name><surname>Dieckmann</surname><given-names>NF</given-names></name></person-group><article-title>How numeracy influences risk comprehension and medical decision making</article-title><source>Psychol Bull</source><year>2009</year><month>11</month><volume>135</volume><issue>6</issue><fpage>943</fpage><lpage>73</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/19883143"/></comment><pub-id pub-id-type="doi">10.1037/a0017327</pub-id><pub-id pub-id-type="medline">19883143</pub-id><!--<pub-id pub-id-type="pii">2009-19763-007</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2844786</pub-id>--><pub-id pub-id-type="pmid">19883143</pub-id></element-citation></ref><ref id="ref9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nelson</surname><given-names>W</given-names></name><name><surname>Reyna</surname><given-names>VF</given-names></name><name><surname>Fagerlin</surname><given-names>A</given-names></name><name><surname>Lipkus</surname><given-names>I</given-names></name><name><surname>Peters</surname><given-names>E</given-names></name></person-group><article-title>Clinical implications of numeracy: theory and practice</article-title><source>Ann Behav Med</source><year>2008</year><month>6</month><volume>35</volume><issue>3</issue><fpage>261</fpage><lpage>74</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/18677452"/></comment><pub-id pub-id-type="doi">10.1007/s12160-008-9037-8</pub-id><pub-id pub-id-type="medline">18677452</pub-id><!--<pub-id pub-id-type="pmcid">PMC3694344</pub-id>--><pub-id pub-id-type="pmid">18677452</pub-id></element-citation></ref><ref id="ref10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Woloshin</surname><given-names>S</given-names></name><name><surname>Schwartz</surname><given-names>LM</given-names></name><name><surname>Byram</surname><given-names>S</given-names></name><name><surname>Fischhoff</surname><given-names>B</given-names></name><name><surname>Welch</surname><given-names>HG</given-names></name></person-group><article-title>A new scale for assessing perceptions of chance: A validation study</article-title><source>Medical Decision Making</source><year>2000</year><month>7</month><day>01</day><volume>20</volume><issue>3</issue><fpage>298</fpage><lpage>307</lpage><pub-id pub-id-type="doi">10.1177/0272989X0002000306</pub-id><pub-id pub-id-type="pmid">10929852</pub-id></element-citation></ref><ref id="ref11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Weinstein</surname><given-names>ND</given-names></name></person-group><article-title>What does it mean to understand a risk? Evaluating risk comprehension</article-title><source>J Natl Cancer Inst Monogr</source><year>1999</year><issue>25</issue><fpage>15</fpage><lpage>20</lpage><pub-id pub-id-type="medline">10854451</pub-id><pub-id pub-id-type="pmid">10854451</pub-id></element-citation></ref><ref id="ref12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lipkus</surname><given-names>IM</given-names></name><name><surname>Samsa</surname><given-names>G</given-names></name><name><surname>Rimer</surname><given-names>BK</given-names></name></person-group><article-title>General performance on a numeracy scale among highly educated samples</article-title><source>Med Decis Making</source><year>2001</year><volume>21</volume><issue>1</issue><fpage>37</fpage><lpage>44</lpage><pub-id pub-id-type="medline">11206945</pub-id><pub-id pub-id-type="pmid">11206945</pub-id></element-citation></ref><ref id="ref13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garcia-Retamero</surname><given-names>R</given-names></name><name><surname>Galesic</surname><given-names>M</given-names></name><name><surname>Gigerenzer</surname><given-names>G</given-names></name></person-group><article-title>Do icon arrays help reduce denominator neglect?</article-title><source>Med Decis Making</source><year>2010</year><month>5</month><volume>30</volume><issue>6</issue><fpage>672</fpage><lpage>84</lpage><pub-id pub-id-type="doi">10.1177/0272989X10369000</pub-id><pub-id pub-id-type="medline">20484088</pub-id><!--<pub-id pub-id-type="pii">0272989X10369000</pub-id>--><pub-id pub-id-type="pmid">20484088</pub-id></element-citation></ref><ref id="ref14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Price</surname><given-names>M</given-names></name><name><surname>Cameron</surname><given-names>R</given-names></name><name><surname>Butow</surname><given-names>P</given-names></name></person-group><article-title>Communicating risk information: the influence of graphical display format on quantitative information perception-Accuracy, comprehension and preferences</article-title><source>Patient Educ Couns</source><year>2007</year><month>12</month><volume>69</volume><issue>1-3</issue><fpage>121</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1016/j.pec.2007.08.006</pub-id><pub-id pub-id-type="medline">17905553</pub-id><!--<pub-id pub-id-type="pii">S0738-3991(07)00311-4</pub-id>--><pub-id pub-id-type="pmid">17905553</pub-id></element-citation></ref><ref id="ref15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hawley</surname><given-names>ST</given-names></name><name><surname>Zikmund-Fisher</surname><given-names>B</given-names></name><name><surname>Ubel</surname><given-names>P</given-names></name><name><surname>Jancovic</surname><given-names>A</given-names></name><name><surname>Lucas</surname><given-names>T</given-names></name><name><surname>Fagerlin</surname><given-names>A</given-names></name></person-group><article-title>The impact of the format of graphical presentation on health-related knowledge and treatment choices</article-title><source>Patient Educ Couns</source><year>2008</year><month>12</month><volume>73</volume><issue>3</issue><fpage>448</fpage><lpage>55</lpage><pub-id pub-id-type="doi">10.1016/j.pec.2008.07.023</pub-id><pub-id pub-id-type="medline">18755566</pub-id><!--<pub-id pub-id-type="pii">S0738-3991(08)00343-1</pub-id>--><pub-id pub-id-type="pmid">18755566</pub-id></element-citation></ref><ref id="ref16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galesic</surname><given-names>M</given-names></name><name><surname>Garcia-Retamero</surname><given-names>R</given-names></name><name><surname>Gigerenzer</surname><given-names>G</given-names></name></person-group><article-title>Using icon arrays to communicate medical risks: overcoming low numeracy</article-title><source>Health Psychol</source><year>2009</year><month>3</month><volume>28</volume><issue>2</issue><fpage>210</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1037/a0014474</pub-id><pub-id pub-id-type="medline">19290713</pub-id><!--<pub-id pub-id-type="pii">2009-03297-009</pub-id>--><pub-id pub-id-type="pmid">19290713</pub-id></element-citation></ref><ref id="ref17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garcia-Retamero</surname><given-names>R</given-names></name><name><surname>Galesic</surname><given-names>M</given-names></name></person-group><article-title>Who profits from visual aids: overcoming challenges in people's understanding of risks [corrected]</article-title><source>Soc Sci Med</source><year>2010</year><month>4</month><volume>70</volume><issue>7</issue><fpage>1019</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.1016/j.socscimed.2009.11.031</pub-id><pub-id pub-id-type="medline">20116159</pub-id><!--<pub-id pub-id-type="pii">S0277-9536(10)00002-X</pub-id>--><pub-id pub-id-type="pmid">20116159</pub-id></element-citation></ref><ref id="ref18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tait</surname><given-names>AR</given-names></name><name><surname>Voepel-Lewis</surname><given-names>T</given-names></name><name><surname>Zikmund-Fisher</surname><given-names>BJ</given-names></name><name><surname>Fagerlin</surname><given-names>A</given-names></name></person-group><article-title>Presenting research risks and benefits to parents: does format matter?</article-title><source>Anesth Analg</source><year>2010</year><month>9</month><volume>111</volume><issue>3</issue><fpage>718</fpage><lpage>23</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/20686011"/></comment><pub-id pub-id-type="doi">10.1213/ANE.0b013e3181e8570a</pub-id><pub-id pub-id-type="medline">20686011</pub-id><!--<pub-id pub-id-type="pii">ANE.0b013e3181e8570a</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3293178</pub-id>--><pub-id pub-id-type="pmid">20686011</pub-id></element-citation></ref><ref id="ref19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zikmund-Fisher</surname><given-names>BJ</given-names></name><name><surname>Fagerlin</surname><given-names>A</given-names></name><name><surname>Ubel</surname><given-names>PA</given-names></name></person-group><article-title>Improving understanding of adjuvant therapy options by using simpler risk graphics</article-title><source>Cancer</source><year>2008</year><month>12</month><day>15</day><volume>113</volume><issue>12</issue><fpage>3382</fpage><lpage>90</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/cncr.23959"/></comment><pub-id pub-id-type="doi">10.1002/cncr.23959</pub-id><pub-id pub-id-type="medline">19012353</pub-id><!--<pub-id pub-id-type="pmcid">PMC2716049</pub-id>--><pub-id pub-id-type="pmid">19012353</pub-id></element-citation></ref><ref id="ref20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Han</surname><given-names>PK</given-names></name></person-group><article-title>Conceptual, methodological, and ethical problems in communicating uncertainty in clinical evidence</article-title><source>Med Care Res Rev</source><year>2013</year><month>2</month><volume>70</volume><issue>1 Suppl</issue><fpage>14S</fpage><lpage>36S</lpage><pub-id pub-id-type="doi">10.1177/1077558712459361</pub-id><pub-id pub-id-type="medline">23132891</pub-id><!--<pub-id pub-id-type="pii">1077558712459361</pub-id>--><pub-id pub-id-type="pmid">23132891</pub-id></element-citation></ref><ref id="ref21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Froelich</surname><given-names>AG</given-names></name><name><surname>Duckworth</surname><given-names>WM</given-names></name><name><surname>Culhane</surname><given-names>J</given-names></name></person-group><article-title>Does your iPod really play favorites?</article-title><source>The American Statistician</source><year>2009</year><month>8</month><volume>63</volume><issue>3</issue><fpage>263</fpage><lpage>268</lpage><pub-id pub-id-type="doi">10.1198/tast.2009.07073</pub-id></element-citation></ref><ref id="ref22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baty</surname><given-names>BJ</given-names></name><name><surname>Venne</surname><given-names>VL</given-names></name><name><surname>McDonald</surname><given-names>J</given-names></name><name><surname>Croyle</surname><given-names>RT</given-names></name><name><surname>Halls</surname><given-names>C</given-names></name><name><surname>Nash</surname><given-names>JE</given-names></name><name><surname>Botkin</surname><given-names>JR</given-names></name></person-group><article-title>BRCA1 Testing: Genetic Counseling Protocol Development and Counseling Issues</article-title><source>J Genet Couns</source><year>1997</year><volume>6</volume><issue>2</issue><fpage>223</fpage><lpage>244</lpage><pub-id pub-id-type="doi">10.1023/A:1025620404473</pub-id></element-citation></ref><ref id="ref23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lenert</surname><given-names>LA</given-names></name><name><surname>Cher</surname><given-names>DJ</given-names></name></person-group><article-title>Use of meta-analytic results to facilitate shared decision making</article-title><source>J Am Med Inform Assoc</source><year>1999</year><volume>6</volume><issue>5</issue><fpage>412</fpage><lpage>9</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://jamia.bmj.com/cgi/pmidlookup?view=long&#x00026;pmid=10495100"/></comment><pub-id pub-id-type="medline">10495100</pub-id><!--<pub-id pub-id-type="pmcid">PMC61383</pub-id>--><pub-id pub-id-type="pmid">10495100</pub-id></element-citation></ref><ref id="ref24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Feldman-Stewart</surname><given-names>D</given-names></name><name><surname>Kocovski</surname><given-names>N</given-names></name><name><surname>McConnell</surname><given-names>BA</given-names></name><name><surname>Brundage</surname><given-names>MD</given-names></name><name><surname>Mackillop</surname><given-names>WJ</given-names></name></person-group><article-title>Perception of quantitative information for treatment decisions</article-title><source>Medical Decision Making</source><year>2000</year><month>4</month><day>01</day><volume>20</volume><issue>2</issue><fpage>228</fpage><lpage>238</lpage><pub-id pub-id-type="doi">10.1177/0272989X0002000208</pub-id><pub-id pub-id-type="pmid">10772360</pub-id></element-citation></ref><ref id="ref25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schapira</surname><given-names>MM</given-names></name><name><surname>Nattinger</surname><given-names>AB</given-names></name><name><surname>McHorney</surname><given-names>CA</given-names></name></person-group><article-title>Frequency or probability? A qualitative study of risk communication formats used in health care</article-title><source>Medical Decision Making</source><year>2001</year><month>12</month><day>01</day><volume>21</volume><issue>6</issue><fpage>459</fpage><lpage>467</lpage><pub-id pub-id-type="doi">10.1177/0272989X0102100604</pub-id><pub-id pub-id-type="pmid">11760103</pub-id></element-citation></ref><ref id="ref26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ancker</surname><given-names>JS</given-names></name><name><surname>Chan</surname><given-names>C</given-names></name><name><surname>Kukafka</surname><given-names>R</given-names></name></person-group><article-title>Interactive graphics for expressing health risks: development and qualitative evaluation</article-title><source>J Health Commun</source><year>2009</year><month>7</month><volume>14</volume><issue>5</issue><fpage>461</fpage><lpage>75</lpage><pub-id pub-id-type="doi">10.1080/10810730903032960</pub-id><pub-id pub-id-type="medline">19657926</pub-id><!--<pub-id pub-id-type="pii">913654706</pub-id>--><pub-id pub-id-type="pmid">19657926</pub-id></element-citation></ref><ref id="ref27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ancker</surname><given-names>JS</given-names></name><name><surname>Weber</surname><given-names>EU</given-names></name><name><surname>Kukafka</surname><given-names>R</given-names></name></person-group><article-title>Effect of arrangement of stick figures on estimates of proportion in risk graphics</article-title><source>Med Decis Making</source><year>2011</year><month>7</month><volume>31</volume><issue>1</issue><fpage>143</fpage><lpage>50</lpage><pub-id pub-id-type="doi">10.1177/0272989X10369006</pub-id><pub-id pub-id-type="medline">20671209</pub-id><!--<pub-id pub-id-type="pii">0272989X10369006</pub-id>--><pub-id pub-id-type="pmid">20671209</pub-id></element-citation></ref><ref id="ref28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Han</surname><given-names>PK</given-names></name><name><surname>Klein</surname><given-names>WM</given-names></name><name><surname>Killam</surname><given-names>B</given-names></name><name><surname>Lehman</surname><given-names>T</given-names></name><name><surname>Massett</surname><given-names>H</given-names></name><name><surname>Freedman</surname><given-names>AN</given-names></name></person-group><article-title>Representing randomness in the communication of individualized cancer risk estimates: effects on cancer risk perceptions, worry, and subjective uncertainty about risk</article-title><source>Patient Educ Couns</source><year>2012</year><month>1</month><volume>86</volume><issue>1</issue><fpage>106</fpage><lpage>13</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/21377311"/></comment><pub-id pub-id-type="doi">10.1016/j.pec.2011.01.033</pub-id><pub-id pub-id-type="medline">21377311</pub-id><!--<pub-id pub-id-type="pii">S0738-3991(11)00074-7</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3132425</pub-id>--><pub-id pub-id-type="pmid">21377311</pub-id></element-citation></ref><ref id="ref29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zikmund-Fisher</surname><given-names>BJ</given-names></name><name><surname>Witteman</surname><given-names>HO</given-names></name><name><surname>Fuhrel-Forbis</surname><given-names>A</given-names></name><name><surname>Exe</surname><given-names>NL</given-names></name><name><surname>Kahn</surname><given-names>VC</given-names></name><name><surname>Dickson</surname><given-names>M</given-names></name></person-group><article-title>Animated graphics for comparing two risks: a cautionary tale</article-title><source>J Med Internet Res</source><year>2012</year><month>7</month><volume>14</volume><issue>4</issue><fpage>e106</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/2012/4/e106/"/></comment><pub-id pub-id-type="doi">10.2196/jmir.2030</pub-id><pub-id pub-id-type="medline">22832208</pub-id><!--<pub-id pub-id-type="pii">v14i4e106</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3409597</pub-id>--><pub-id pub-id-type="pmid">22832208</pub-id></element-citation></ref><ref id="ref30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kennedy</surname><given-names>C</given-names></name><name><surname>Stanley</surname><given-names>J</given-names></name></person-group><article-title>On &#x0201c;Average</article-title><source>&#x0201d; Mind</source><year>2009</year><volume>118</volume><pub-id pub-id-type="doi">10.1093/mind/fzp094</pub-id></element-citation></ref><ref id="ref31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ancker</surname><given-names>JS</given-names></name><name><surname>Weber</surname><given-names>EU</given-names></name><name><surname>Kukafka</surname><given-names>R</given-names></name></person-group><article-title>Effects of game-like interactive graphics on risk perceptions and decisions</article-title><source>Med Decis Making</source><year>2011</year><month>4</month><volume>31</volume><issue>1</issue><fpage>130</fpage><lpage>42</lpage><pub-id pub-id-type="doi">10.1177/0272989X10364847</pub-id><pub-id pub-id-type="medline">20393103</pub-id><!--<pub-id pub-id-type="pii">0272989X10364847</pub-id>--><pub-id pub-id-type="pmid">20393103</pub-id></element-citation></ref><ref id="ref32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Vugt</surname><given-names>H</given-names></name><name><surname>Konijn</surname><given-names>E</given-names></name><name><surname>Hoorn</surname><given-names>J</given-names></name><name><surname>Veldhuis</surname><given-names>J</given-names></name></person-group><article-title>When too heavy is just fine: Creating trustworthy e-health advisors</article-title><source>International Journal of Human-Computer Studies</source><year>2009</year><month>7</month><volume>67</volume><issue>7</issue><fpage>571</fpage><lpage>583</lpage><pub-id pub-id-type="doi">10.1016/j.ijhcs.2009.02.005</pub-id></element-citation></ref><ref id="ref33"><label>33</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Hussain</surname><given-names>M</given-names></name><name><surname>Nakamura</surname><given-names>B</given-names></name><name><surname>Marino</surname><given-names>J</given-names></name></person-group><article-title>Avatar appearance &#x00026; information credibility in Second Life</article-title><source>Proceedings of the 2011 iConference</source><year>2011</year><conf-name>iConference</conf-name><conf-date>February 8-11, 2011</conf-date><conf-loc>Seattle, WA</conf-loc><publisher-loc>New York</publisher-loc><publisher-name>The Association for Computing Machinery</publisher-name><fpage>682</fpage><lpage>683</lpage><pub-id pub-id-type="doi">10.1145/1940761.1940868</pub-id></element-citation></ref><ref id="ref34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kafai</surname><given-names>YB</given-names></name><name><surname>Fields</surname><given-names>DA</given-names></name><name><surname>Cook</surname><given-names>MS</given-names></name></person-group><article-title>Your second selves: Player-designed avatars</article-title><source>Games and Culture</source><year>2009</year><month>12</month><day>29</day><volume>5</volume><issue>1</issue><fpage>23</fpage><lpage>42</lpage><pub-id pub-id-type="doi">10.1177/1555412009351260</pub-id></element-citation></ref><ref id="ref35"><label>35</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Inkpen</surname><given-names>KM</given-names></name><name><surname>Sedlins</surname><given-names>M</given-names></name></person-group><article-title>Me and my avatar: exploring users' comfort with avatars for workplace communication</article-title><source>Proceedings of the ACM Conference on Computer Supported Cooperative Work</source><year>2011</year><conf-name>CSCW</conf-name><conf-date>March 19&#x02013;23, 2011</conf-date><conf-loc>Hangzhou, China</conf-loc><publisher-loc>New York</publisher-loc><publisher-name>The Association for Computing Machinery</publisher-name><pub-id pub-id-type="doi">10.1145/1958824.1958883</pub-id></element-citation></ref><ref id="ref36"><label>36</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>McManus</surname><given-names>EA</given-names></name><name><surname>Bodenheimer</surname><given-names>B</given-names></name><name><surname>Streuber</surname><given-names>S</given-names></name><name><surname>la Rosa de</surname><given-names>S</given-names></name><name><surname>B&#x000fc;lthoff</surname><given-names>HH</given-names></name><name><surname>Mohler</surname><given-names>BJ</given-names></name></person-group><article-title>The influence of avatar (self and character) animations on distance estimation, object interaction and locomotion in immersive virtual environments</article-title><source>Proceedings of the ACM SIGGRAPH Symposium on Applied Perception in Graphics and Visualization</source><year>2011</year><conf-name>APGV</conf-name><conf-date>August 27-28, 2011</conf-date><conf-loc>Toulouse, France</conf-loc><publisher-loc>New York</publisher-loc><publisher-name>The Association for Computing Machinery</publisher-name><fpage>37</fpage><lpage>44</lpage><pub-id pub-id-type="doi">10.1145/2077451.2077458</pub-id></element-citation></ref><ref id="ref37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vasalou</surname><given-names>A</given-names></name><name><surname>Joinson</surname><given-names>AN</given-names></name></person-group><article-title>Me, myself and I: The role of interactional context on self-presentation through avatars</article-title><source>Computers in Human Behavior</source><year>2009</year><volume>25</volume><pub-id pub-id-type="doi">10.1016/j.chb.2008.11.007</pub-id></element-citation></ref><ref id="ref38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fox</surname><given-names>J</given-names></name><name><surname>Bailenson</surname><given-names>J</given-names></name></person-group><article-title>Virtual self-modeling: The effects of vicarious reinforcement and identification on exercise behaviors</article-title><source>Media Psychology</source><year>2009</year><month>2</month><day>26</day><volume>12</volume><issue>1</issue><fpage>1</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.1080/15213260802669474</pub-id></element-citation></ref><ref id="ref39"><label>39</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Ducheneaut</surname><given-names>N</given-names></name><name><surname>Wen</surname><given-names>MH</given-names></name><name><surname>Yee</surname><given-names>N</given-names></name><name><surname>Wadley</surname><given-names>G</given-names></name></person-group><article-title>Body and mind: a study of avatar personalization in three virtual worlds</article-title><source>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</source><year>2009</year><conf-name>CHI 2009</conf-name><conf-date>April 4&#x02013;9, 2009</conf-date><conf-loc>Boston, MA</conf-loc><publisher-loc>New York</publisher-loc><publisher-name>The Association for Computing Machinery</publisher-name><fpage>1151</fpage><lpage>1160</lpage><pub-id pub-id-type="doi">10.1145/1518701.1518877</pub-id></element-citation></ref><ref id="ref40"><label>40</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Yee</surname><given-names>N</given-names></name><name><surname>Ducheneaut</surname><given-names>N</given-names></name><name><surname>Yao</surname><given-names>M</given-names></name><name><surname>Nelson</surname><given-names>L</given-names></name></person-group><article-title>Do men heal more when in drag?: Conflicting identity cues between user and avatar</article-title><source>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</source><year>2011</year><conf-name>CHI 2011</conf-name><conf-date>May 7&#x02013;12, 2011</conf-date><conf-loc>Vancouver, BC</conf-loc><publisher-loc>New York</publisher-loc><publisher-name>The Association for Computing Machinery</publisher-name><fpage>773</fpage><lpage>776</lpage><pub-id pub-id-type="doi">10.1145/1978942.1979054</pub-id></element-citation></ref><ref id="ref41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yee</surname><given-names>N</given-names></name><name><surname>Bailenson</surname><given-names>J</given-names></name></person-group><article-title>The Proteus Effect: The effect of transformed self-representation on behavior</article-title><source>Human Comm Res</source><year>2007</year><month>7</month><volume>33</volume><issue>3</issue><fpage>271</fpage><lpage>290</lpage><pub-id pub-id-type="doi">10.1111/j.1468-2958.2007.00299.x</pub-id></element-citation></ref><ref id="ref42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tversky</surname><given-names>A</given-names></name><name><surname>Kahneman</surname><given-names>D</given-names></name></person-group><article-title>Judgment under Uncertainty: Heuristics and Biases</article-title><source>Science</source><year>1974</year><month>9</month><day>27</day><volume>185</volume><issue>4157</issue><fpage>1124</fpage><lpage>31</lpage><pub-id pub-id-type="doi">10.1126/science.185.4157.1124</pub-id><pub-id pub-id-type="medline">17835457</pub-id><!--<pub-id pub-id-type="pii">185/4157/1124</pub-id>--><pub-id pub-id-type="pmid">17835457</pub-id></element-citation></ref><ref id="ref43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Slovic</surname><given-names>P</given-names></name><name><surname>Peters</surname><given-names>EM</given-names></name></person-group><article-title>Risk perception and affect</article-title><source>Current Directions in Psychological Science</source><year>2006</year><volume>15</volume><issue>6</issue><fpage>322</fpage><lpage>325</lpage></element-citation></ref><ref id="ref44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>D'Agostino</surname><given-names>RB</given-names></name><name><surname>Vasan</surname><given-names>RS</given-names></name><name><surname>Pencina</surname><given-names>MJ</given-names></name><name><surname>Wolf</surname><given-names>PA</given-names></name><name><surname>Cobain</surname><given-names>M</given-names></name><name><surname>Massaro</surname><given-names>JM</given-names></name><name><surname>Kannel</surname><given-names>WB</given-names></name></person-group><article-title>General cardiovascular risk profile for use in primary care: the Framingham Heart Study</article-title><source>Circulation</source><year>2008</year><month>2</month><day>12</day><volume>117</volume><issue>6</issue><fpage>743</fpage><lpage>53</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://circ.ahajournals.org/cgi/pmidlookup?view=long&#x00026;pmid=18212285"/></comment><pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.107.699579</pub-id><pub-id pub-id-type="medline">18212285</pub-id><!--<pub-id pub-id-type="pii">CIRCULATIONAHA.107.699579</pub-id>--><pub-id pub-id-type="pmid">18212285</pub-id></element-citation></ref><ref id="ref45"><label>45</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Sutcliffe</surname><given-names>A</given-names></name><name><surname>Namoune</surname><given-names>A</given-names></name></person-group><article-title>Getting the message across: visual attention, aesthetic design and what users remember</article-title><source>Proceedings of the 7th ACM conference on Designing interactive systems</source><year>2008</year><conf-name>DIS &#x02019;08: Proceedings of the 7th ACM conference on Designing interactive systems</conf-name><conf-date>February 25-27, 2008</conf-date><conf-loc>Cape Town, South Africa</conf-loc><publisher-loc>New York</publisher-loc><publisher-name>The Association for Computing Machinery</publisher-name><pub-id pub-id-type="doi">10.1145/1394445.1394447</pub-id></element-citation></ref><ref id="ref46"><label>46</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hong</surname><given-names>W</given-names></name><name><surname>Thong</surname><given-names>JYL</given-names></name><name><surname>Tam</surname><given-names>KY</given-names></name></person-group><article-title>Does animation attract online users&#x02019; attention? The effects of flash on information search performance and perceptions</article-title><source>Information Systems Research</source><year>2004</year><month>3</month><volume>15</volume><issue>1</issue><fpage>60</fpage><lpage>86</lpage><pub-id pub-id-type="doi">10.1287/isre.1040.0017</pub-id></element-citation></ref><ref id="ref47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fagerlin</surname><given-names>A</given-names></name><name><surname>Zikmund-Fisher</surname><given-names>BJ</given-names></name><name><surname>Ubel</surname><given-names>PA</given-names></name><name><surname>Jankovic</surname><given-names>A</given-names></name><name><surname>Derry</surname><given-names>HA</given-names></name><name><surname>Smith</surname><given-names>DM</given-names></name></person-group><article-title>Measuring numeracy without a math test: development of the Subjective Numeracy Scale</article-title><source>Med Decis Making</source><year>2007</year><month>9</month><volume>27</volume><issue>5</issue><fpage>672</fpage><lpage>80</lpage><pub-id pub-id-type="doi">10.1177/0272989X07304449</pub-id><pub-id pub-id-type="medline">17641137</pub-id><!--<pub-id pub-id-type="pii">0272989X07304449</pub-id>--><pub-id pub-id-type="pmid">17641137</pub-id></element-citation></ref><ref id="ref48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zikmund-Fisher</surname><given-names>BJ</given-names></name><name><surname>Smith</surname><given-names>DM</given-names></name><name><surname>Ubel</surname><given-names>PA</given-names></name><name><surname>Fagerlin</surname><given-names>A</given-names></name></person-group><article-title>Validation of the Subjective Numeracy Scale: effects of low numeracy on comprehension of risk communications and utility elicitations</article-title><source>Med Decis Making</source><year>2007</year><month>9</month><volume>27</volume><issue>5</issue><fpage>663</fpage><lpage>71</lpage><pub-id pub-id-type="doi">10.1177/0272989X07303824</pub-id><pub-id pub-id-type="medline">17652180</pub-id><!--<pub-id pub-id-type="pii">0272989X07303824</pub-id>--><pub-id pub-id-type="pmid">17652180</pub-id></element-citation></ref><ref id="ref49"><label>49</label><element-citation publication-type="book"><person-group person-group-type="author"><collab>R Development Core Team</collab></person-group><source>R: A language and environment for statistical computing</source><year>2013</year><publisher-loc>Vienna, Austria</publisher-loc><publisher-name>R Foundation for Statistical Computing</publisher-name><comment><ext-link ext-link-type="uri" xlink:href="http://www.R-project.org/">http://www.R-project.org/</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6NuCjRBCh"/></element-citation></ref><ref id="ref50"><label>50</label><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Falissard</surname><given-names>B</given-names></name></person-group><source>psy: Various procedures used in psychometry. R package version 1.1</source><year>2012</year><date-in-citation>2014-03-07</date-in-citation><comment><ext-link ext-link-type="uri" xlink:href="http://cran.r-project.org/web/packages/psy/index.html">http://cran.r-project.org/web/packages/psy/index.html</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6NuCrUugY"/></element-citation></ref><ref id="ref51"><label>51</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Fox</surname><given-names>J</given-names></name><name><surname>Weisberg</surname><given-names>S</given-names></name></person-group><source>An {R} Companion to Applied Regression. 2nd ed</source><year>2010</year><publisher-loc>Thousand Oaks, CA</publisher-loc><publisher-name>Sage Publications, Inc</publisher-name></element-citation></ref><ref id="ref52"><label>52</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fishbach</surname><given-names>A</given-names></name><name><surname>Eyal</surname><given-names>T</given-names></name><name><surname>Finkelstein</surname><given-names>SR</given-names></name></person-group><article-title>How positive and negative feedback motivate goal pursuit</article-title><source>Social and Personality Psychology Compass</source><year>2010</year><volume>4</volume><issue>8</issue><fpage>517</fpage><lpage>530</lpage><pub-id pub-id-type="doi">10.1111/j.1751-9004.2010.00285.x</pub-id></element-citation></ref><ref id="ref53"><label>53</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ruiz</surname><given-names>JG</given-names></name><name><surname>Andrade</surname><given-names>AD</given-names></name><name><surname>Garcia-Retamero</surname><given-names>R</given-names></name><name><surname>Anam</surname><given-names>R</given-names></name><name><surname>Rodriguez</surname><given-names>R</given-names></name><name><surname>Sharit</surname><given-names>J</given-names></name></person-group><article-title>Communicating global cardiovascular risk: are icon arrays better than numerical estimates in improving understanding, recall and perception of risk?</article-title><source>Patient Educ Couns</source><year>2013</year><month>12</month><volume>93</volume><issue>3</issue><fpage>394</fpage><lpage>402</lpage><pub-id pub-id-type="doi">10.1016/j.pec.2013.06.026</pub-id><pub-id pub-id-type="medline">23916416</pub-id><!--<pub-id pub-id-type="pii">S0738-3991(13)00271-1</pub-id>--><pub-id pub-id-type="pmid">23916416</pub-id></element-citation></ref><ref id="ref54"><label>54</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gaissmaier</surname><given-names>W</given-names></name><name><surname>Wegwarth</surname><given-names>O</given-names></name><name><surname>Skopec</surname><given-names>D</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>AS</given-names></name><name><surname>Broschinski</surname><given-names>S</given-names></name><name><surname>Politi</surname><given-names>MC</given-names></name></person-group><article-title>Numbers can be worth a thousand pictures: individual differences in understanding graphical and numerical representations of health-related information</article-title><source>Health Psychol</source><year>2012</year><month>5</month><volume>31</volume><issue>3</issue><fpage>286</fpage><lpage>96</lpage><pub-id pub-id-type="doi">10.1037/a0024850</pub-id><pub-id pub-id-type="medline">21842998</pub-id><!--<pub-id pub-id-type="pii">2011-17462-001</pub-id>--><pub-id pub-id-type="pmid">21842998</pub-id></element-citation></ref><ref id="ref55"><label>55</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rabi</surname><given-names>DM</given-names></name><name><surname>Daskalopoulou</surname><given-names>SS</given-names></name><name><surname>Padwal</surname><given-names>RS</given-names></name><name><surname>Khan</surname><given-names>NA</given-names></name><name><surname>Grover</surname><given-names>SA</given-names></name><name><surname>Hackam</surname><given-names>DG</given-names></name><name><surname>Myers</surname><given-names>MG</given-names></name><name><surname>McKay</surname><given-names>DW</given-names></name><name><surname>Quinn</surname><given-names>RR</given-names></name><name><surname>Hemmelgarn</surname><given-names>BR</given-names></name><name><surname>Cloutier</surname><given-names>L</given-names></name><name><surname>Bolli</surname><given-names>P</given-names></name><name><surname>Hill</surname><given-names>MD</given-names></name><name><surname>Wilson</surname><given-names>T</given-names></name><name><surname>Penner</surname><given-names>B</given-names></name><name><surname>Burgess</surname><given-names>E</given-names></name><name><surname>Lamarre-Clich&#x000e9;</surname><given-names>M</given-names></name><name><surname>McLean</surname><given-names>D</given-names></name><name><surname>Schiffrin</surname><given-names>EL</given-names></name><name><surname>Honos</surname><given-names>G</given-names></name><name><surname>Mann</surname><given-names>K</given-names></name><name><surname>Tremblay</surname><given-names>G</given-names></name><name><surname>Milot</surname><given-names>A</given-names></name><name><surname>Chockalingam</surname><given-names>A</given-names></name><name><surname>Rabkin</surname><given-names>SW</given-names></name><name><surname>Dawes</surname><given-names>M</given-names></name><name><surname>Touyz</surname><given-names>RM</given-names></name><name><surname>Burns</surname><given-names>KD</given-names></name><name><surname>Ruzicka</surname><given-names>M</given-names></name><name><surname>Campbell</surname><given-names>NR</given-names></name><name><surname>Vall&#x000e9;e</surname><given-names>M</given-names></name><name><surname>Prasad</surname><given-names>GV</given-names></name><name><surname>Lebel</surname><given-names>M</given-names></name><name><surname>Campbell</surname><given-names>TS</given-names></name><name><surname>Lindsay</surname><given-names>MP</given-names></name><name><surname>Herman</surname><given-names>RJ</given-names></name><name><surname>Larochelle</surname><given-names>P</given-names></name><name><surname>Feldman</surname><given-names>RD</given-names></name><name><surname>Arnold</surname><given-names>JM</given-names></name><name><surname>Moe</surname><given-names>GW</given-names></name><name><surname>Howlett</surname><given-names>JG</given-names></name><name><surname>Trudeau</surname><given-names>L</given-names></name><name><surname>Bacon</surname><given-names>SL</given-names></name><name><surname>Petrella</surname><given-names>RJ</given-names></name><name><surname>Lewanczuk</surname><given-names>R</given-names></name><name><surname>Stone</surname><given-names>JA</given-names></name><name><surname>Drouin</surname><given-names>D</given-names></name><name><surname>Boulanger</surname><given-names>JM</given-names></name><name><surname>Sharma</surname><given-names>M</given-names></name><name><surname>Hamet</surname><given-names>P</given-names></name><name><surname>Fodor</surname><given-names>G</given-names></name><name><surname>Dresser</surname><given-names>GK</given-names></name><name><surname>Carruthers</surname><given-names>SG</given-names></name><name><surname>Pylypchuk</surname><given-names>G</given-names></name><name><surname>Gilbert</surname><given-names>RE</given-names></name><name><surname>Leiter</surname><given-names>LA</given-names></name><name><surname>Jones</surname><given-names>C</given-names></name><name><surname>Ogilvie</surname><given-names>RI</given-names></name><name><surname>Woo</surname><given-names>V</given-names></name><name><surname>McFarlane</surname><given-names>PA</given-names></name><name><surname>Hegele</surname><given-names>RA</given-names></name><name><surname>Poirier</surname><given-names>L</given-names></name><name><surname>Tobe</surname><given-names>SW</given-names></name><collab>Canadian Hypertension Education Program</collab></person-group><article-title>The 2011 Canadian Hypertension Education Program recommendations for the management of hypertension: blood pressure measurement, diagnosis, assessment of risk, and therapy</article-title><source>Can J Cardiol</source><year>2011</year><month>7</month><volume>27</volume><issue>4</issue><fpage>415</fpage><lpage>433.e1</lpage><pub-id pub-id-type="doi">10.1016/j.cjca.2011.03.015</pub-id><pub-id pub-id-type="medline">21801975</pub-id><!--<pub-id pub-id-type="pii">S0828-282X(11)00256-X</pub-id>--><pub-id pub-id-type="pmid">21801975</pub-id></element-citation></ref><ref id="ref56"><label>56</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Soureti</surname><given-names>A</given-names></name><name><surname>Hurling</surname><given-names>R</given-names></name><name><surname>Murray</surname><given-names>P</given-names></name><name><surname>van Mechelen</surname><given-names>W</given-names></name><name><surname>Cobain</surname><given-names>M</given-names></name></person-group><article-title>Evaluation of a cardiovascular disease risk assessment tool for the promotion of healthier lifestyles</article-title><source>Eur J Cardiovasc Prev Rehabil</source><year>2010</year><month>10</month><volume>17</volume><issue>5</issue><fpage>519</fpage><lpage>23</lpage><pub-id pub-id-type="doi">10.1097/HJR.0b013e328337ccd3</pub-id><pub-id pub-id-type="medline">20195154</pub-id><pub-id pub-id-type="pmid">20195154</pub-id></element-citation></ref><ref id="ref57"><label>57</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goldman</surname><given-names>RE</given-names></name><name><surname>Parker</surname><given-names>DR</given-names></name><name><surname>Eaton</surname><given-names>CB</given-names></name><name><surname>Borkan</surname><given-names>JM</given-names></name><name><surname>Gramling</surname><given-names>R</given-names></name><name><surname>Cover</surname><given-names>RT</given-names></name><name><surname>Ahern</surname><given-names>DK</given-names></name></person-group><article-title>Patients' perceptions of cholesterol, cardiovascular disease risk, and risk communication strategies</article-title><source>Ann Fam Med</source><year>2006</year><month>5</month><volume>4</volume><issue>3</issue><fpage>205</fpage><lpage>12</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.annfammed.org/cgi/pmidlookup?view=long&#x00026;pmid=16735521"/></comment><pub-id pub-id-type="doi">10.1370/afm.534</pub-id><pub-id pub-id-type="medline">16735521</pub-id><!--<pub-id pub-id-type="pii">4/3/205</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC1479442</pub-id>--><pub-id pub-id-type="pmid">16735521</pub-id></element-citation></ref><ref id="ref58"><label>58</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grover</surname><given-names>SA</given-names></name><name><surname>Lowensteyn</surname><given-names>I</given-names></name><name><surname>Joseph</surname><given-names>L</given-names></name><name><surname>Kaouache</surname><given-names>M</given-names></name><name><surname>Marchand</surname><given-names>S</given-names></name><name><surname>Coupal</surname><given-names>L</given-names></name><name><surname>Boudreau</surname><given-names>G</given-names></name><collab>Cardiovascular Health Evaluation to Improve ComplianceKnowledge Among Uninformed Patients (CHECK-UP) Study Group</collab></person-group><article-title>Patient knowledge of coronary risk profile improves the effectiveness of dyslipidemia therapy: the CHECK-UP study: a randomized controlled trial</article-title><source>Arch Intern Med</source><year>2007</year><month>11</month><day>26</day><volume>167</volume><issue>21</issue><fpage>2296</fpage><lpage>303</lpage><pub-id pub-id-type="doi">10.1001/archinte.167.21.2296</pub-id><pub-id pub-id-type="medline">18039987</pub-id><!--<pub-id pub-id-type="pii">167/21/2296</pub-id>--><pub-id pub-id-type="pmid">18039987</pub-id></element-citation></ref><ref id="ref59"><label>59</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grover</surname><given-names>SA</given-names></name><name><surname>Lowensteyn</surname><given-names>I</given-names></name><name><surname>Joseph</surname><given-names>L</given-names></name><name><surname>Kaouache</surname><given-names>M</given-names></name><name><surname>Marchand</surname><given-names>S</given-names></name><name><surname>Coupal</surname><given-names>L</given-names></name><name><surname>Boudreau</surname><given-names>G</given-names></name></person-group><article-title>Discussing coronary risk with patients to improve blood pressure treatment: secondary results from the CHECK-UP study</article-title><source>J Gen Intern Med</source><year>2009</year><month>1</month><volume>24</volume><issue>1</issue><fpage>33</fpage><lpage>9</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/18937013"/></comment><pub-id pub-id-type="doi">10.1007/s11606-008-0825-4</pub-id><pub-id pub-id-type="medline">18937013</pub-id><!--<pub-id pub-id-type="pmcid">PMC2607501</pub-id>--><pub-id pub-id-type="pmid">18937013</pub-id></element-citation></ref><ref id="ref60"><label>60</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Parkes</surname><given-names>G</given-names></name><name><surname>Greenhalgh</surname><given-names>T</given-names></name><name><surname>Griffin</surname><given-names>M</given-names></name><name><surname>Dent</surname><given-names>R</given-names></name></person-group><article-title>Effect on smoking quit rate of telling patients their lung age: the Step2quit randomised controlled trial</article-title><source>BMJ</source><year>2008</year><month>3</month><day>15</day><volume>336</volume><issue>7644</issue><fpage>598</fpage><lpage>600</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.bmj.com/cgi/pmidlookup?view=long&#x00026;pmid=18326503"/></comment><pub-id pub-id-type="doi">10.1136/bmj.39503.582396.25</pub-id><pub-id pub-id-type="medline">18326503</pub-id><!--<pub-id pub-id-type="pii">bmj.39503.582396.25</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2267989</pub-id>--><pub-id pub-id-type="pmid">18326503</pub-id></element-citation></ref></ref-list></back></article>

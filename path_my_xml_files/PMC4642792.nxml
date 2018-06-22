@@ -1,0 +1,693 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Internet Res</journal-id><journal-id journal-id-type="iso-abbrev">J. Med. Internet Res</journal-id><journal-id journal-id-type="publisher-id">JMIR</journal-id><journal-title-group><journal-title>Journal of Medical Internet Research</journal-title></journal-title-group><issn pub-type="ppub">1439-4456</issn><issn pub-type="epub">1438-8871</issn><publisher><publisher-name>JMIR Publications Inc.</publisher-name><publisher-loc>Toronto, Canada</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26519106</article-id><article-id pub-id-type="pmc">4642792</article-id><article-id pub-id-type="publisher-id">v17i10e241</article-id><article-id pub-id-type="doi">10.2196/jmir.4025</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Paper</subject></subj-group><subj-group subj-group-type="article-type"><subject>Original Paper</subject></subj-group></article-categories><title-group><article-title>Web-Based STAR E-Learning Course Increases Empathy and Understanding in Dementia Caregivers: Results from a Randomized Controlled Trial in the Netherlands and the United Kingdom</article-title></title-group><contrib-group><contrib contrib-type="editor"><name><surname>Eysenbach</surname><given-names>Gunther</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="reviewer"><name><surname>Kazmer</surname><given-names>Michelle</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Fauth</surname><given-names>Beth</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Chiu</surname><given-names>Mary</given-names></name></contrib></contrib-group><contrib-group><contrib id="contrib1" contrib-type="author" corresp="yes"><name><surname>Hattink</surname><given-names>Bart</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="aff1">1</xref><address><institution>VU University medical center Amsterdam</institution><institution>Department of Psychiatry</institution><addr-line>GGZ inGeest Dienst Onderzoek en Innovatie - Overschiestraat</addr-line><addr-line>Postbus 74077</addr-line><addr-line>Amsterdam, 1070BB</addr-line><country>Netherlands</country><phone>31 207885622</phone><fax>31 207885622</fax><email>b.hattink@vumc.nl</email></address><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9472-2201</contrib-id></contrib><contrib id="contrib2" contrib-type="author"><name><surname>Meiland</surname><given-names>Franka</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1">1</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6219-5390</contrib-id></contrib><contrib id="contrib3" contrib-type="author"><name><surname>van der Roest</surname><given-names>Henri&#x000eb;tte</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1">1</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9898-923X</contrib-id></contrib><contrib id="contrib4" contrib-type="author"><name><surname>Kevern</surname><given-names>Peter</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff2">2</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9874-8874</contrib-id></contrib><contrib id="contrib5" contrib-type="author"><name><surname>Abiuso</surname><given-names>Francesca</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff3">3</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8456-7957</contrib-id></contrib><contrib id="contrib6" contrib-type="author"><name><surname>Bengtsson</surname><given-names>Johan</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="aff4">4</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1568-6562</contrib-id></contrib><contrib id="contrib7" contrib-type="author"><name><surname>Giuliano</surname><given-names>Angele</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="aff5">5</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2281-6970</contrib-id></contrib><contrib id="contrib8" contrib-type="author"><name><surname>Duca</surname><given-names>Annalise</given-names></name><degrees>BSc</degrees><xref ref-type="aff" rid="aff5">5</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2340-4580</contrib-id></contrib><contrib id="contrib9" contrib-type="author"><name><surname>Sanders</surname><given-names>Jennifer</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="aff2">2</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7556-7739</contrib-id></contrib><contrib id="contrib10" contrib-type="author"><name><surname>Basnett</surname><given-names>Fern</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="aff2">2</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3526-6170</contrib-id></contrib><contrib id="contrib11" contrib-type="author"><name><surname>Nugent</surname><given-names>Chris</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff6">6</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0882-7902</contrib-id></contrib><contrib id="contrib12" contrib-type="author"><name><surname>Kingston</surname><given-names>Paul</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff7">7</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8726-6084</contrib-id></contrib><contrib id="contrib13" contrib-type="author"><name><surname>Dr&#x000f6;es</surname><given-names>Rose-Marie</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1">1</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4812-1229</contrib-id></contrib></contrib-group><aff id="aff1"><sup>1</sup><institution>VU University medical center Amsterdam</institution><institution>Department of Psychiatry</institution><addr-line>Amsterdam</addr-line><country>Netherlands</country></aff><aff id="aff2"><sup>2</sup><institution>Staffordshire University</institution><institution>Faculty of Health Sciences</institution><addr-line>Stafford</addr-line><country>United Kingdom</country></aff><aff id="aff3"><sup>3</sup><institution>Medea</institution><addr-line>Firenze</addr-line><country>Italy</country></aff><aff id="aff4"><sup>4</sup><institution>Internit</institution><addr-line>Lulea</addr-line><country>Sweden</country></aff><aff id="aff5"><sup>5</sup><institution>Across Limits</institution><addr-line>Hamrun</addr-line><country>Malta</country></aff><aff id="aff6"><sup>6</sup><institution>University of Ulster</institution><institution>Faculty of Computing and Engineering</institution><addr-line>Newtownabbey</addr-line><country>United Kingdom</country></aff><aff id="aff7"><sup>7</sup><institution>University of Chester</institution><institution>Department of Health &#x00026; Social Care</institution><addr-line>Chester</addr-line><country>United Kingdom</country></aff><author-notes><corresp>Corresponding Author: Bart Hattink <email>b.hattink@vumc.nl</email></corresp></author-notes><pub-date pub-type="collection"><month>10</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>30</day><month>10</month><year>2015</year></pub-date><volume>17</volume><issue>10</issue><elocation-id>e241</elocation-id><history><date date-type="received"><day>12</day><month>11</month><year>2014</year></date><date date-type="rev-request"><day>12</day><month>2</month><year>2015</year></date><date date-type="rev-recd"><day>7</day><month>4</month><year>2015</year></date><date date-type="accepted"><day>21</day><month>6</month><year>2015</year></date></history><permissions><copyright-statement>&#x000a9;Bart Hattink, Franka Meiland, Henri&#x000eb;tte van der Roest, Peter Kevern, Francesca Abiuso, Johan Bengtsson, Angele Giuliano, Annalise Duca, Jennifer Sanders, Fern Basnett, Chris Nugent, Paul Kingston, Rose-Marie Dr&#x000f6;es. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 30.10.2015. </copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/"><license-p><!--CREATIVE COMMONS-->This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0/">http://creativecommons.org/licenses/by/2.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link ext-link-type="uri" xlink:href="http://www.jmir.org/,">http://www.jmir.org/,</ext-link> as well as this copyright and license information must be included.</license-p></license></permissions><self-uri xlink:type="simple" xlink:href="http://www.jmir.org/2015/10/e241/"/><abstract><sec sec-type="Background"><title>Background</title><p>The doubling of the number of people with dementia in the coming decades coupled with the rapid decline in the working population in our graying society is expected to result in a large decrease in the number of professionals available to provide care to people with dementia. As a result, care will be supplied increasingly by untrained informal caregivers and volunteers. To promote effective care and avoid overburdening of untrained and trained caregivers, they must become properly skilled. To this end, the European Skills Training and Reskilling (STAR) project, which comprised experts from the domains of education, technology, and dementia care from 6 countries (the Netherlands, Sweden, Italy, Malta, Romania, and the United Kingdom), worked together to create and evaluate a multilingual e-learning tool. The STAR training portal provides dementia care training both for informal and formal caregivers.</p></sec><sec sec-type="Objective"><title>Objective</title><p>The objective of the current study was to evaluate the user friendliness, usefulness, and impact of STAR with informal caregivers, volunteers, and professional caregivers.</p></sec><sec sec-type="Methods"><title>Methods</title><p>For 2 to 4 months, the experimental group had access to the STAR training portal, a Web-based portal consisting of 8 modules, 2 of which had a basic level and 6 additional modules at intermediate and advanced levels. The experimental group also had access to online peer and expert communities for support and information exchange. The control group received free access to STAR after the research had ended. The STAR training portal was evaluated in a randomized controlled trial among informal caregivers and volunteers in addition to professional caregivers (N=142) in the Netherlands and the United Kingdom. Assessments were performed with self-assessed, online, standardized questionnaires at baseline and after 2 to 4 months. Primary outcome measures were user friendliness, usefulness, and impact of STAR on knowledge, attitudes, and approaches of caregivers regarding dementia. Secondary outcome measures were empathy, quality of life, burden, and caregivers&#x02019; sense of competence.</p></sec><sec sec-type="Results"><title>Results</title><p>STAR was rated positively by all user groups on both usefulness and user friendliness. Significant effects were found on a person-centered care approach and on the total score on positive attitudes to dementia; both the experimental and the control group increased in score. Regarding empathy, significant improvements were found in the STAR training group on distress, empathic concern, and taking the perspective of the person with dementia. In the experimental group, however, there was a significant reduction in self-reported sense of competence.</p></sec><sec sec-type="Conclusions"><title>Conclusions</title><p>The STAR training portal is a useful and user-friendly e-learning method, which has demonstrated its ability to provide significant positive effects on caregiver attitudes and empathy.</p></sec></abstract><kwd-group><kwd>dementia</kwd><kwd>caregivers</kwd><kwd>distance-learning</kwd><kwd>empathy</kwd></kwd-group></article-meta></front><body><sec sec-type="introduction"><title>Introduction</title><p>The European Union (EU) is set to face major demographic challenges in the coming decades. Two main drivers for this are the (expected) doubling of the number of people with dementia and a rapid relative decline in the working population. In the Netherlands, for example, this is expected to change from a ratio of 1:42 for people with dementia to working people in 2010 to 1:16 in 2050 [<xref rid="ref1" ref-type="bibr">1</xref>]. As a result, the task of caring for people with dementia will be provided increasingly by relatives or friends, the so-called informal caregivers, who provide this care unpaid and generally with minimal or no professional assistance. Additionally, many EU countries draft their health care policies toward an increased use of volunteers in the provision of care in addition to prolonging community-based dementia care. Therefore, to sustain and promote effective care for people with dementia, to avoid overburdening of informal and professional caregivers, and to prevent premature admission of people with dementia to long-term care settings, caregivers need to become properly skilled and feel competent in their care provision.</p><p>In an attempt to address this, e-learning interventions could prove to be a useful tool to assist informal caregivers, untrained volunteers, and professionals by offering them relevant education, training, and support [<xref rid="ref2" ref-type="bibr">2</xref>,<xref rid="ref3" ref-type="bibr">3</xref>] at a significantly lower cost than through face-to-face training or print distribution [<xref rid="ref4" ref-type="bibr">4</xref>]. Interventions offered through the Internet are likely to have a lower threshold for participation given that participants can use these interventions at any time they wish, from their own homes, and with little effort. This will also help to offer access to people who would otherwise be put off by long travel times, avoid costs for visiting regular teaching sessions (eg, people living in remote areas [<xref rid="ref5" ref-type="bibr">5</xref>]), or to people who cannot leave their home due to their caregiving role. Finally, the possibilities of the Internet allow for effective use of multimedia delivery of information (eg, graphics, animations, and interactive course material), which has been reported to enhance learning and make the material more attractive during the process of engagement [<xref rid="ref6" ref-type="bibr">6</xref>]. Recent research has found beneficial effects from Internet-based interventions. A Cochrane review in 2005 found that &#x0201c;interactive health communication applications&#x0201d; were effective for increasing knowledge and may improve outcomes in patients and caregivers [<xref rid="ref7" ref-type="bibr">7</xref>]. A typical means for distributing interactive health communication apps is the Internet. In another review, it was found that personalized (tailored to the individual) Internet-based interventions led to improved health in users [<xref rid="ref8" ref-type="bibr">8</xref>].</p><p>Pilot studies offering an Internet-based program of learning for dementia caregivers found that the caregivers who evaluated it reported it as useful, educational, and convenient [<xref rid="ref9" ref-type="bibr">9</xref>] and found positive results relating to knowledge, attitudes, self-efficacy, and empathy [<xref rid="ref10" ref-type="bibr">10</xref>]. Among professional caregivers, e-learning was also found to be enjoyable and was reported to help acquire new skills for collaboration among professionals [<xref rid="ref11" ref-type="bibr">11</xref>]. E-learning was also found to help staff in nursing homes to gain specific skills, such as delirium screening [<xref rid="ref12" ref-type="bibr">12</xref>]. A review of the state-of-the-art of online course provision for providing care for people with dementia in 2011 for 4 European countries (Netherlands, the United Kingdom, Malta, and Romania) showed that 14% of the dementia courses were offered online in the Netherlands, 17% in the United Kingdom, and in both Malta and Romania there were no online courses relating to care provision for persons with dementia [<xref rid="ref13" ref-type="bibr">13</xref>]. These findings formed the basis for the development and evaluation of a multilingual online learning platform for all types of dementia caregivers, within the EU Skills Training and Reskilling (STAR) project [<xref rid="ref14" ref-type="bibr">14</xref>].</p><p>The European STAR project (2010-2014), funded by the European Commission in the Leonardo da Vinci Life Long Learning Programme, aimed to improve the knowledge about dementia for informal caregivers, volunteers, and professionals in dementia care by developing and evaluating an online training program in different languages and at different difficulty levels. The course content was developed from 3 theoretical perspectives: (1) the medical model of dementia, including information on types of dementia, symptoms, and diagnostics based on the <italic>Diagnostic and Statistical Manual of Mental Disorders</italic> (Fourth Edition, Text Revision) [<xref rid="ref15" ref-type="bibr">15</xref>]; (2) the perspective of functional consequences in daily life based on the International Classification of Functioning, Disability and Health model from the World Health Organization [<xref rid="ref16" ref-type="bibr">16</xref>] and how to compensate for disabilities; and (3) the perspective of dealing with the psychosocial consequences for the person with dementia and his family as described by the adaption-coping model of Dr&#x000f6;es et al [<xref rid="ref17" ref-type="bibr">17</xref>]. The content was composed by internationally recognized dementia experts. The platform aims to provide opportunities for collaboration, discussion, and sharing experiences between users across the EU. The main focus was to provide relevant content that was easy to find. Additionally, STAR aimed to promote accessibility to specialized knowledge by experts in the field and to offer an online community of caregivers and other stakeholders.</p><p>To this end, the STAR training portal was designed and developed (<xref ref-type="fig" rid="figure1">Figure 1</xref>) to offer the following functionalities:</p><list list-type="order"><list-item><p>A collection of 8 modules on different topics in dementia care: 2 at a basic level and 6 at an intermediate and advanced level (<xref ref-type="fig" rid="figure2">Figures 2</xref> and <xref ref-type="fig" rid="figure3">3</xref>);</p></list-item><list-item><p>A Learning Path Advisor through an online tool integrated in STAR that assesses baseline knowledge and confidence to help people decide at which point to start the course; and</p></list-item><list-item><p>Facebook and LinkedIn communities to promote peer support and provide opportunities to contact other dementia care professionals.</p></list-item></list><p>The developed course is currently available for a nominal fee. It is fully available in English and Dutch with translation into Swedish, Italian, and Romanian underway at the time of writing this paper.</p><p>After development and testing of the training portal and e-learning course material during the first phase of the STAR project, the STAR training portal was evaluated in a randomized controlled trial (RCT) in the Netherlands and the United Kingdom from May 2013 to March 2014. The primary aim of this evaluation was to assess STAR&#x02019;s usefulness, user friendliness, and impact on knowledge. Because the themes of the course, in addition to factual knowledge on the dementia syndrome, focus greatly on dealing with dementia and understanding dementia (eg, themes such as &#x0201c;adaptation and coping,&#x0201d; &#x0201c;positive and empathic communication,&#x0201d; and &#x0201c;emotional impact and looking after yourself as a caregiver&#x0201d;), the impact on empathy, attitudes, and sense of competence were studied as well. The aim of this paper is to describe the results of these different types of user evaluations.</p><fig id="figure1" position="float"><label>Figure 1</label><caption><p>The main project page.</p></caption><graphic xlink:href="jmir_v17i10e241_fig1"/></fig><fig id="figure2" position="float"><label>Figure 2</label><caption><p>Overview of modules.</p></caption><graphic xlink:href="jmir_v17i10e241_fig2"/></fig><fig id="figure3" position="float"><label>Figure 3</label><caption><p>Example of a module (module 1: What is dementia?).</p></caption><graphic xlink:href="jmir_v17i10e241_fig3"/></fig></sec><sec sec-type="methods"><title>Methods</title><sec><title>Design</title><p>An RCT design was used to assess the effectiveness of STAR among Dutch and English users. Participants were randomly assigned to either a group that could participate directly in the STAR training or to a group that had to wait for 4 months before they could register (free of charge) for the STAR training. Participants followed the course at their own pace; however, within a specified period of 4 months. Pretest data were gathered and follow-up data were collected after 2 to 4 months of finalizing the course in the experimental condition and after the same period in the waiting list group (control condition).</p></sec><sec><title>Setting and Participants</title><p>Participants were caring for someone with dementia as an informal caregiver, a volunteer in dementia care, or a professional caregiver, and were living in either the Netherlands or in the United Kingdom. Participants in the Netherlands were recruited through meeting centers for people with dementia and their caregivers, regional branches of the national Alzheimer&#x02019;s organizations, case managers, care organizations, and via announcements through several informative websites targeted at informal caregivers, volunteers, and those with an interest in dementia. In the United Kingdom, participants were recruited through caregivers&#x02019; cafes, church groups, university service users and caregiver groups, and local dementia care and welfare organizations.</p><p>Because STAR was developed both for informal caregivers (family caregivers and volunteers) as well as professional caregivers, participants who fulfilled the following criteria were recruited for the evaluation study: (1) were sufficiently computer literate to utilize the STAR website and (2) were currently an informal caregiver for someone with dementia living in the community, or a volunteer working with people with dementia with direct contact with community-dwelling people with dementia, or a professional caregiver for people with dementia with direct contact with community-dwelling people with dementia.</p></sec><sec><title>The STAR Training Portal</title><p>The STAR platform was designed to be accessible through any Internet-enabled device so users could access the course at any time and place of their convenience. The STAR training portal consists of an online course with 8 modules relating to different topics. These topics were selected to cover a wide range of topics relating to dementia and dementia care. The modules consist of text, videos, interactive exercises, knowledge tests, and also include references to other websites, literature, and videos.</p><p>The themes covered in the modules are as follows:</p><list list-type="order"><list-item><p>What is dementia?</p></list-item><list-item><p>Living with dementia</p></list-item><list-item><p>Getting a diagnosis and why it is important</p></list-item><list-item><p>Practical difficulties in daily life and how to help by best practice</p></list-item><list-item><p>The emotional impact of dementia: how adaptation and coping influences behavior and mood</p></list-item><list-item><p>Support strategies to help people cope with consequences of dementia</p></list-item><list-item><p>Positive and empathic communication</p></list-item><list-item><p>Emotional impact and looking after yourself</p></list-item></list><p>By answering questions from an interactive &#x0201c;learning advisor,&#x0201d; participants are provided with advice relating to which module and level to start with so they may follow what may be considered a personalized learning path through the modules. For example, professionals with earlier experience in dementia care could be directed to the advanced levels of the course (including modules such as &#x0201c;Practical difficulties in daily life and how to help by best practice&#x0201d;), whereas informal caregivers who have never had to deal with dementia will be suggested to start their course with the basic modules on &#x0201c;What is dementia?&#x0201d; and &#x0201c;Living with dementia.&#x0201d; Caregivers can then follow their own learning path, either gradually working their way up to the more advanced levels or they can choose not to progress beyond the basic modules/knowledge.</p><p>To ascertain what participants learn from the modules and to make the content more appealing, interactive exercises are included in the modules. These are used after each module at the basic and intermediate levels as quizzes to test level of knowledge. If an insufficient score is achieved in the quiz, participants are encouraged to reread the material and to try the quiz again following further learning.</p><p>Participants randomly allocated to the STAR training group could follow all STAR modules and were invited to take part in their national community (communities were created for all nationalities of users) on Facebook. They were explicitly asked to follow at least 4 modules, take part in the knowledge tests offered at the end of the modules, to complete the interactive exercises during the modules, and to watch a selection of videos that were offered in the modules.</p></sec><sec><title>Measurement Instruments</title><p>All questionnaires were offered online and were self-assessed in the participants&#x02019; own language. Background characteristics were inventoried for all participants. These were age, sex, relation to the person with dementia (in case of informal caregivers), time involved in care for the person with dementia, and prior experience with courses on dementia.</p><p>For assessing usefulness and user friendliness, a questionnaire was composed specifically for this study, based on the Usefulness, Satisfaction, and Ease of use (USE) questionnaire [<xref rid="ref18" ref-type="bibr">18</xref>] and online course evaluations used by the site programmers (AcrossLimits, Malta). This questionnaire contained 29 questions with 2 open questions, 20 other questions that could be answered on a 5-point scale ranging from &#x0201c;strongly agree&#x0201d; to &#x0201c;strongly disagree&#x0201d; (eg, &#x0201c;I instantly knew where to click&#x0201d;), and 7 questions on usefulness in which participants rated the usefulness of specific parts of STAR on a 4-point scale from &#x0201c;very useful&#x0201d; to &#x0201c;useless.&#x0201d; Also, users were asked to indicate which modules they had followed and to grade each module on usefulness (1-10) to account for the fact that not all participants may have followed all modules of the course.</p><p>The primary outcome measures were knowledge on dementia and attitudes regarding dementia. Knowledge was measured with the Alzheimer&#x02019;s Disease Knowledge Scale (ADKS) [<xref rid="ref19" ref-type="bibr">19</xref>] (internal consistency &#x003b1;=.71, test-retest reliability=0.81). The ADKS consisted of 30 questions on different aspects of Alzheimer&#x02019;s disease that could be answered with &#x0201c;true&#x0201d; or &#x0201c;false&#x0201d; (range 0-30), such as &#x0201c;People in their thirties can have Alzheimer&#x02019;s disease.&#x0201d;</p><p>Attitudes toward dementia were assessed with 2 questions from the Alzheimer&#x02019;s disease survey [<xref rid="ref20" ref-type="bibr">20</xref>] and approaches to dementia with the Approaches to Dementia Questionnaire (ADQ) [<xref rid="ref21" ref-type="bibr">21</xref>] (&#x003b1;=.85 for person-centered care scale; &#x003b1;=.76 for hope scale; &#x003b1;=.83 total score). The latter questionnaire was also administered among informal caregivers with one question omitted (&#x0201c;It is important not to become too attached to people with dementia&#x0201d;) because it was deemed inappropriate. The ADQ consisted of 19 questions on attitudes toward dementia and could be answered on a 5-point scale ranging from &#x0201c;completely agree&#x0201d; to &#x0201c;completely disagree&#x0201d; (range 19-95), such as &#x0201c;People with dementia are like children.&#x0201d;</p><p>The secondary outcome measures were empathy, quality of life, burden, and sense of competence. The latter 3 were only administered among informal caregivers. Empathy was assessed with the Interpersonal Reactivity Index (IRI) [<xref rid="ref22" ref-type="bibr">22</xref>]. This questionnaire consists of 28 items that were answered on a 5-point scale ranging from &#x0201c;does not describe me well&#x0201d; to &#x0201c;describes me very well&#x0201d; and with 4 subscales: (1) perspective taking (tendency to adopt the psychological point of view of others), (2) fantasy (tendency to imagine oneself into fictitious characters in books and movies), (3) empathic concern (&#x0201c;other-oriented&#x0201d; feelings of sympathy and concern for unfortunate others), and (4) personal distress (&#x0201c;self-oriented&#x0201d; feelings of anxiety and unease in tense interpersonal settings). The range was 0 to 28 for each subscale.</p><p>Quality of life was assessed with 2 distinct questions (eg, &#x0201c;how would you rate your quality of life on a scale from 1 to 10?&#x0201d;) and burden was assessed with 1 question. Finally, for sense of competence, the Short Sense of Competence Questionnaire (SSCQ; &#x003b1;=.77) [<xref rid="ref23" ref-type="bibr">23</xref>] was used. The total score for the SSCQ was calculated by dichotomizing answers to 7 questions (eg, &#x0201c;I feel strained in my interactions with my...&#x0201d;) on a 5-point scale, counting only values of 4 or 5 (range 0-7).</p></sec><sec><title>Procedure</title><p>Participants, including informal caregivers (72/142, 50.7%), volunteers (24/142, 16.9%), and professional caregivers (46/142, 32.4%), in the Netherlands and United Kingdom were recruited through different partners (refer to Setting and Participants), both in person and through email. When people were interested in participating, a researcher provided them with additional written and oral information and a consent form. When a signed informed consent form was returned, the participants received a link to the online baseline questionnaire by email.</p><p>After having filled in the questionnaires, participants in the Netherlands and the United Kingdom were randomized to either the experimental or the control group. Participants were randomized based on the following variables. In each country, strata for each participant group&#x02014;informal caregiver, volunteer, and professional&#x02014;and within these strata (1) for informal caregivers, spouse of a person with dementia or not and knowledge regarding dementia being low (ADKS score &#x0003c;19), average (ADKS 20-26), or high (ADKS &#x0003e;27), and (2) for volunteers, shorter or longer than half a year of work experience and, for professionals, education level high or low.</p><p>Randomization software [<xref rid="ref24" ref-type="bibr">24</xref>] was used to classify participants into either the experimental or control group. Participants in the experimental group received a link to the STAR registration webpage. People were free to choose the number of modules they followed with a baseline minimum of at least 4 to obtain a good impression of the course. People in the control group were informed that they were assigned to the group that could follow the course free of charge after post-test measurements 4 months later. At the end of the project, 2 to 4 months after the baseline measurement, all participants received a link to the questionnaires for post-test measurement. All personal data collected were anonymized. Participants were allocated a code number that was retained in a secured database under supervision of the project leaders at the evaluation sites.</p></sec><sec><title>Analyses</title><p>Descriptive analyses were performed to describe the baseline characteristics of the study population. Differences between the experimental group and the control group at baseline were analyzed with relevant difference tests (chi-square and <italic>t</italic> tests).</p><p>The usefulness and user friendliness of the STAR training were analyzed with descriptive statistics. Impact on the outcome measures was assessed with univariate covariance analyses (ANCOVAs) on the post-test data of the participants at 4 months, whereas pretest data were included as covariates. The background variables with baseline values that differed significantly between the experimental and control group and appeared to be related to one or more of the outcome measures (ie, potential confounding variables) were also included in the analyses as covariates.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Description of Participants</title><p>In total, 142 persons participated in the STAR evaluation study. In the Netherlands, 85 people took part in the research. Of these, 50 persons were informal caregivers, 7 were volunteers in dementia care, and 28 were professional caregivers. In the United Kingdom, 57 people participated; 22 were informal caregivers, 17 were volunteers in dementia care, and 18 were professional caregivers. We grouped the informal caregivers and volunteers together as laypeople because of the relatively small number of volunteers. The background characteristics of the participants that completed both pretest and post-test measurements are detailed in <xref ref-type="table" rid="table1">Table 1</xref>.</p><table-wrap id="table1" position="float"><label>Table 1</label><caption><p>Background characteristics of participants at baseline for laypeople (informal caregivers and volunteers) and professional caregivers that finished pretest and post-tests.</p></caption><table frame="hsides" rules="groups" width="631" border="0" cellpadding="7" cellspacing="0"><col width="10" span="1"/><col width="10" span="1"/><col width="112" span="1"/><col width="130" span="1"/><col width="100" span="1"/><col width="76" span="1"/><col width="52" span="1"/><col width="46" span="1"/><thead><tr valign="bottom"><td colspan="3" rowspan="1">Characteristic</td><td rowspan="1" colspan="1">Experimental group</td><td rowspan="1" colspan="1">Control group</td><td rowspan="1" colspan="1">
+<italic>F</italic> (<italic>df1,df2</italic>)</td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> (<italic>df</italic>)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr></thead><tbody><tr valign="top"><td colspan="3" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Laypeople</bold>
+</td><td rowspan="1" colspan="1">n=27</td><td rowspan="1" colspan="1">n=32</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Age (years), mean (SD)</td><td rowspan="1" colspan="1">52.93 (11.43)</td><td rowspan="1" colspan="1">54.69 (14.36)</td><td rowspan="1" colspan="1">2.02 (1,57)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.16</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Sex, n (%)</bold>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">0.2 (58)</td><td rowspan="1" colspan="1">.65</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">7 (26)</td><td rowspan="1" colspan="1">10 (31)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">20 (74)</td><td rowspan="1" colspan="1">22 (69)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Relationship, n (%)</bold>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">4.0 (58)</td><td rowspan="1" colspan="1">.41</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Partner</td><td rowspan="1" colspan="1">9 (33)</td><td rowspan="1" colspan="1">9 (28)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Child</td><td rowspan="1" colspan="1">8 (30)</td><td rowspan="1" colspan="1">5 (16)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Sister/brother</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">1 (3)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Other</td><td rowspan="1" colspan="1">4 (15)</td><td rowspan="1" colspan="1">10 (30)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">6 (22)</td><td rowspan="1" colspan="1">7 (22)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Duration of care, n (%)</bold>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">7.3 (58)</td><td rowspan="1" colspan="1">.17</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;3 months</td><td rowspan="1" colspan="1">2 (7)</td><td rowspan="1" colspan="1">6 (19)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">3-12 months</td><td rowspan="1" colspan="1">2 (7)</td><td rowspan="1" colspan="1">1 (3)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">1-2 years</td><td rowspan="1" colspan="1">2 (7)</td><td rowspan="1" colspan="1">9 (28)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">2-5 years</td><td rowspan="1" colspan="1">15 (58)</td><td rowspan="1" colspan="1">12 (38)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003e;5 years</td><td rowspan="1" colspan="1">6 (21)</td><td rowspan="1" colspan="1">4 (12)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">ADKS score,<sup>a</sup> mean (SD)</td><td rowspan="1" colspan="1">24.67 (3.43)</td><td rowspan="1" colspan="1">24.13 (3.32)</td><td rowspan="1" colspan="1">0.01 (1,57)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.92</td></tr><tr valign="top"><td colspan="3" rowspan="1">
+<bold>Professionals</bold>
+</td><td rowspan="1" colspan="1">n=10</td><td rowspan="1" colspan="1">n=14</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Age (years), mean (SD)</td><td rowspan="1" colspan="1">46.90 (12.12)</td><td rowspan="1" colspan="1">48.07 (9.11)</td><td rowspan="1" colspan="1">1.04 (1,22)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.32</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Sex, n (%)</bold>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">3.1 (23)</td><td rowspan="1" colspan="1">.08</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">2 (20)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">8 (80)</td><td rowspan="1" colspan="1">14 (100)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Duration of care, n (%)</bold>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">3.5 (23)</td><td rowspan="1" colspan="1">.62</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003c;3 months</td><td rowspan="1" colspan="1">1 (10)</td><td rowspan="1" colspan="1">2 (14)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">3-12months</td><td rowspan="1" colspan="1">1 (10)</td><td rowspan="1" colspan="1">4 (29)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">1-2 years</td><td rowspan="1" colspan="1">1 (10)</td><td rowspan="1" colspan="1">2 (14)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">2-5 years</td><td rowspan="1" colspan="1">3 (30)</td><td rowspan="1" colspan="1">1 (7)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x0003e;5 years</td><td rowspan="1" colspan="1">4 (40)</td><td rowspan="1" colspan="1">5 (36)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">ADKS score,<sup>a</sup> mean (SD)</td><td rowspan="1" colspan="1">23.60 (3.40)</td><td rowspan="1" colspan="1">24.36 (3.52)</td><td rowspan="1" colspan="1">0.15 (1,22)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">.70</td></tr></tbody></table><table-wrap-foot><fn id="table1fn1"><p>
+<sup>a</sup>ADKS: Alzheimer&#x02019;s Disease Knowledge Scale.</p></fn></table-wrap-foot></table-wrap><p>During the pilot, 59 participants dropped out. The total response at post-test was 61%. Reasons for dropouts in the Netherlands (n=29) were no time (n=4) or unknown (n=25; no response to repeated emails of researchers to remind them of filling in the questionnaires). Reasons for dropouts in the United Kingdom (n=30) were no time (n=1), no computer at home (n=1), or unknown (n=28; no response to repeated requests by researchers to fill in the questionnaires). Due to a technical issue (the rule forcing participants to fill in all usefulness and user friendliness questions before continuing did not function), one Dutch participant did not fill in the questions on usefulness and user friendliness, although he filled in all impact questions. Analyses to test differences in background characteristics between completers and dropouts indicated that for both formal and informal caregivers and volunteers there were no significant differences in age, gender, relationship, and duration of care/work between these groups. Furthermore, at baseline there were no statistically significant differences in background characteristics and primary outcome measures, such as knowledge, empathy, and approaches between the experimental and control group. For an overview of participants, refer to the flowchart in <xref ref-type="app" rid="app1">Multimedia Appendix 1</xref>. The CONSORT checklist for this study is shown in <xref ref-type="app" rid="app2">Multimedia Appendix 2</xref>.</p></sec><sec><title>Results of the Evaluation of Usefulness and User Friendliness of the STAR Training</title><p>At post-test, participants from the experimental group (following the STAR training) were asked to indicate if they followed a particular module and, if so, to rate its usefulness on a scale from 0 to 10. These ratings are presented in <xref ref-type="table" rid="table2">Table 2</xref>. Participants in the Netherlands and the United Kingdom were positive overall about the usefulness of the different modules. On average across the countries, the modules that were assessed as most useful were modules 4 (practical difficulties in daily life and how to help) and 6 (support strategies to help people cope with the consequences of dementia). The modules considered least useful were modules 1 (what is dementia?) and 3 (getting a diagnosis and why it is important).</p><table-wrap id="table2" position="float"><label>Table 2</label><caption><p>Rating of usefulness of the modules by the participants at post-test (mean score on scale 1-10).<sup>a</sup>
+</p></caption><table frame="hsides" rules="groups" width="625" border="0" cellpadding="7" cellspacing="0"><col width="10" span="1"/><col width="112" span="1"/><col width="109" span="1"/><col width="100" span="1"/><col width="106" span="1"/><col width="112" span="1"/><thead><tr valign="top"><td colspan="2" rowspan="1">Module</td><td colspan="2" rowspan="1">Laypeople, mean (SD), n</td><td colspan="2" rowspan="1">Professionals, mean (SD), n</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Netherlands<break/>n=17</td><td rowspan="1" colspan="1">UK<break/>n=9</td><td rowspan="1" colspan="1">Netherlands<break/>n=8</td><td rowspan="1" colspan="1">UK<break/>n=2</td></tr></thead><tbody><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Baseline</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">1. What is dementia?</td><td rowspan="1" colspan="1">8.07 (1.03), 15</td><td rowspan="1" colspan="1">8.22 (1.92), 9</td><td rowspan="1" colspan="1">8.40 (1.61), 7</td><td rowspan="1" colspan="1">6.00 (&#x02014;), 1</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">2 Living with dementia</td><td rowspan="1" colspan="1">8.13 (1.13), 15</td><td rowspan="1" colspan="1">9.00 (0.76), 8</td><td rowspan="1" colspan="1">8.30 (1.80), 7</td><td rowspan="1" colspan="1">&#x02014;</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Intermediate</bold>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">3. Getting a diagnosis</td><td rowspan="1" colspan="1">7.76 (1.35), 17</td><td rowspan="1" colspan="1">8.88 (0.84), 8</td><td rowspan="1" colspan="1">7.75 (1.75), 8</td><td rowspan="1" colspan="1">&#x02014;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">4. Practical difficulties</td><td rowspan="1" colspan="1">7.76 (1.30), 17</td><td rowspan="1" colspan="1">9.14 (0.69), 7</td><td rowspan="1" colspan="1">7.55 (1.75), 7</td><td rowspan="1" colspan="1">&#x02014;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">5. Emotional impact of dementia</td><td rowspan="1" colspan="1">7.76 (1.56), 17</td><td rowspan="1" colspan="1">9.00 (0.82), 7</td><td rowspan="1" colspan="1">7.80 (1.67), 6</td><td rowspan="1" colspan="1">7.00 (&#x02014;), 1</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">6. Support strategies</td><td rowspan="1" colspan="1">7.71 (1.45), 17</td><td rowspan="1" colspan="1">8.57 (0.98), 7</td><td rowspan="1" colspan="1">8.40 (1.51), 5</td><td rowspan="1" colspan="1">9.00 (&#x02014;), 1</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">7. Empathic communication</td><td rowspan="1" colspan="1">7.53 (1.40), 15</td><td rowspan="1" colspan="1">9.00 (1.00), 5</td><td rowspan="1" colspan="1">8.00 (1.41), 4</td><td rowspan="1" colspan="1">10.00 (&#x02014;), 1</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">8. Emotional impact for caregiver</td><td rowspan="1" colspan="1">7.86 (1,41), 14</td><td rowspan="1" colspan="1">9.00 (1.00), 5</td><td rowspan="1" colspan="1">8.00 (1.41), 4</td><td rowspan="1" colspan="1">10.00 (&#x02014;), 1</td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<bold>Advanced</bold>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">3. Getting a diagnosis</td><td rowspan="1" colspan="1">7.71 (0.76), 7</td><td rowspan="1" colspan="1">6.40 (3,64), 5</td><td rowspan="1" colspan="1">6.83 (1.17), 6</td><td rowspan="1" colspan="1">&#x02014;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">4. Practical difficulties</td><td rowspan="1" colspan="1">7.63 (1.19), 8</td><td rowspan="1" colspan="1">8.00 (1.00), 3</td><td rowspan="1" colspan="1">6.00 (1.00), 3</td><td rowspan="1" colspan="1">&#x02014;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">5. Emotional impact of dementia</td><td rowspan="1" colspan="1">7.75 (1.04), 8</td><td rowspan="1" colspan="1">7.67 (0.58), 3</td><td rowspan="1" colspan="1">8.33 (1.53), 3</td><td rowspan="1" colspan="1">10.00 (&#x02014;), 1</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">6. Support strategies</td><td rowspan="1" colspan="1">7.29 (0.76), 7</td><td rowspan="1" colspan="1">8.00 (1.00), 3</td><td rowspan="1" colspan="1">7.50 (0.71), 2</td><td rowspan="1" colspan="1">&#x02014;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">7. Empathic communication</td><td rowspan="1" colspan="1">7.50 (0.84), 6</td><td rowspan="1" colspan="1">7.50 (0.71), 2</td><td rowspan="1" colspan="1">7.50 (0.71), 2</td><td rowspan="1" colspan="1">&#x02014;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">8. Emotional impact for caregiver</td><td rowspan="1" colspan="1">7.88 (0.84), 8</td><td rowspan="1" colspan="1">7.50 (0.71), 2</td><td rowspan="1" colspan="1">7.67, 3</td><td rowspan="1" colspan="1">&#x02014;</td></tr><tr valign="top"><td colspan="2" rowspan="1">Mean overall rating</td><td rowspan="1" colspan="1">7.74 (0.87)</td><td rowspan="1" colspan="1">8.27 (0.41)</td><td rowspan="1" colspan="1">7.16 (0.66)</td><td rowspan="1" colspan="1">8.67 (&#x02014;)</td></tr></tbody></table><table-wrap-foot><fn id="table2fn1"><p>
+<sup>a</sup>A higher score means participants considered it to be more useful.</p></fn></table-wrap-foot></table-wrap><p>The results on the opinions about usefulness of the different elements, (eg, text or videos) of the STAR training are shown in <xref ref-type="table" rid="table3">Table 3</xref>. Opinions on user friendliness are shown in <xref ref-type="table" rid="table4">Table 4</xref>.</p><table-wrap id="table3" position="float"><label>Table 3</label><caption><p>Ratings on usefulness of specific elements of the STAR training (range 1-4).<sup>a</sup>
+</p></caption><table frame="hsides" rules="groups" width="625" border="0" cellpadding="7" cellspacing="0"><col width="173" span="1"/><col width="100" span="1"/><col width="94" span="1"/><col width="94" span="1"/><col width="94" span="1"/><thead><tr valign="top"><td rowspan="1" colspan="1">Element</td><td colspan="2" rowspan="1">Laypeople, median (interquartile range)</td><td colspan="2" rowspan="1">Professionals, median (interquartile range)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Netherlands<break/>n=17</td><td rowspan="1" colspan="1">UK<break/>n=9</td><td rowspan="1" colspan="1">Netherlands<break/>n=8</td><td rowspan="1" colspan="1">UK<break/>n=2</td></tr></thead><tbody><tr valign="top"><td rowspan="1" colspan="1">The text of the modules</td><td rowspan="1" colspan="1">3.0 (0.0)</td><td rowspan="1" colspan="1">4.0 (1.0)</td><td rowspan="1" colspan="1">3.0 (1.0)</td><td rowspan="1" colspan="1">3.5 (&#x02014;)</td></tr><tr valign="top"><td rowspan="1" colspan="1">The interactive exercises</td><td rowspan="1" colspan="1">3.0 (1.0)</td><td rowspan="1" colspan="1">4.0 (1.0)</td><td rowspan="1" colspan="1">3.0 (0.0)</td><td rowspan="1" colspan="1">3.5 (&#x02014;)</td></tr><tr valign="top"><td rowspan="1" colspan="1">The knowledge questions</td><td rowspan="1" colspan="1">3.0 (1.0)</td><td rowspan="1" colspan="1">4.0 (1.0)</td><td rowspan="1" colspan="1">3.0 (1.0)</td><td rowspan="1" colspan="1">3.5 (&#x02014;)</td></tr><tr valign="top"><td rowspan="1" colspan="1">The videos</td><td rowspan="1" colspan="1">4.0 (1.0)</td><td rowspan="1" colspan="1">2.0 (2.0)</td><td rowspan="1" colspan="1">3.0 (1.0)</td><td rowspan="1" colspan="1">3.0 (&#x02014;)</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">The online community<sup>b</sup>
+</td><td rowspan="1" colspan="1">3.0 (1.0)</td><td rowspan="1" colspan="1">3.0 (&#x02014;)</td><td rowspan="1" colspan="1">4.5 (2.0)</td><td rowspan="1" colspan="1">3.0 (&#x02014;)</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">The comments from the expert community<sup>c</sup>
+</td><td rowspan="1" colspan="1">3.0 (1.0)</td><td rowspan="1" colspan="1">3.0 (0.0)</td><td rowspan="1" colspan="1">5.0 (2.0)</td><td rowspan="1" colspan="1">3.0 (&#x02014;)</td></tr></tbody></table><table-wrap-foot><fn id="table3fn1"><p>
+<sup>a</sup>Scoring: 1=useless; 2=a little useful; 3=useful; 4=very useful; NA=not applicable.</p></fn><fn id="table3fn2"><p>
+<sup>b</sup>N/A in NL: n=8; N/A in UK: n=7.</p></fn><fn id="table3fn3"><p>
+<sup>c</sup>N/A in NL: n=7; N/A in UK: n=2.</p></fn></table-wrap-foot></table-wrap><table-wrap id="table4" position="float"><label>Table 4</label><caption><p>Opinions on user friendliness (range 1-5).<sup>a,</sup>
+<sup>b</sup>
+</p></caption><table frame="hsides" rules="groups" width="625" border="0" cellpadding="7" cellspacing="0"><col width="173" span="1"/><col width="100" span="1"/><col width="94" span="1"/><col width="94" span="1"/><col width="94" span="1"/><thead><tr valign="top"><td rowspan="1" colspan="1">Question</td><td colspan="2" rowspan="1">Laypeople, median (interquartile range)</td><td colspan="2" rowspan="1">Professionals, median (interquartile range)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Netherlands<break/>n=17</td><td rowspan="1" colspan="1">UK<break/>n=9</td><td rowspan="1" colspan="1">Netherlands<break/>n=8</td><td rowspan="1" colspan="1">UK<break/>n=2</td></tr></thead><tbody><tr valign="top"><td rowspan="1" colspan="1">Logging in was easy</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">2.0 (&#x02014;)</td></tr><tr valign="top"><td rowspan="1" colspan="1">I immediately noticed where I have to click</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">1.5 (1.0)</td><td rowspan="1" colspan="1">2.0 (&#x02014;)</td></tr><tr valign="top"><td rowspan="1" colspan="1">The overall layout is simple to follow</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.5 (&#x02014;)</td></tr><tr valign="top"><td rowspan="1" colspan="1">The STAR training was easy to do</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.5 (&#x02014;)</td></tr><tr valign="top"><td rowspan="1" colspan="1">The material has been well thought out</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">1.0 (&#x02014;)</td></tr><tr valign="top"><td rowspan="1" colspan="1">The length of the modules and exercises was just right</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.0 (&#x02014;)</td></tr><tr valign="top"><td rowspan="1" colspan="1">The course was nice to do</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">1.5 (&#x02014;)</td></tr><tr valign="top"><td rowspan="1" colspan="1">I knew what I had to do in the STAR training (navigating, exercises, etc)</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">1.0 (0.0)</td><td rowspan="1" colspan="1">1.0 (1.0)</td><td rowspan="1" colspan="1">1.0 (&#x02014;)</td></tr></tbody></table><table-wrap-foot><fn id="table4fn1"><p>
+<sup>a</sup>Scoring: 1=completely agree; 2=agree a little; 3=agree/disagree; 4=disagree a little; 5=completely disagree.</p></fn><fn id="table4fn2"><p>
+<sup>b</sup>In the UK cases where there's only 2 participants, the interquartile range could not be computed.
+</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Use of the Learning Path Advisor</title><p>Analysis of logging files of the STAR training indicated that most of the STAR participants in the experimental group used the Learning Path Advisor. In the Netherlands, 73% of informal caregivers and 91% of professional caregivers used the Learning Path Advisor to obtain a personalized suggestion where to start in the course. In the United Kingdom, 9% of informal caregivers and 17% of professionals used the Learning Path Advisor.</p></sec><sec><title>Impact on Outcome Measures</title><p>In <xref ref-type="table" rid="table5">Table 5</xref> are the results of the ANCOVA analysis to assess the impact of STAR training compared to a waiting list condition on the primary and secondary outcome measures of participants in the Netherlands and the United Kingdom.</p><table-wrap id="table5" position="float"><label>Table 5</label><caption><p>Impact of STAR training on outcome measures for laypeople and professionals (Netherlands and United Kingdom together).</p></caption><table frame="hsides" rules="groups" width="688" border="0" cellpadding="8" cellspacing="0"><col width="10" span="1"/><col width="10" span="1"/><col width="10" span="1"/><col width="85" span="1"/><col width="87" span="1"/><col width="62" span="1"/><col width="86" span="1"/><col width="56" span="1"/><col width="68" span="1"/><col width="38" span="1"/><col width="29" span="1"/><thead><tr valign="bottom"><td colspan="4" rowspan="1">Outcomes<sup>a</sup>
+</td><td colspan="2" rowspan="1">Pretest, mean (SD)</td><td colspan="2" rowspan="1">Post-test, mean (SD)</td><td rowspan="1" colspan="1">
+<italic>F</italic> (<italic>df1</italic>,<italic>df2</italic>)</td><td rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td rowspan="1" colspan="1">&#x003b7;<sup>2b</sup>
+</td></tr><tr valign="top"><td colspan="4" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Experimental</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">Experimental</td><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr></thead><tbody><tr valign="top"><td colspan="4" rowspan="1">
+<bold>Primary outcomes</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>ADQ</bold>
+<sup>c</sup>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Laypeople</bold>
+</td><td rowspan="1" colspan="1">(n=27)</td><td rowspan="1" colspan="1">(n=32)</td><td rowspan="1" colspan="1">(n=27)</td><td rowspan="1" colspan="1">(n=32)</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Total (score 18-90)</td><td rowspan="1" colspan="1">69.15 (6.74)</td><td rowspan="1" colspan="1">60.13 (10.4)</td><td rowspan="1" colspan="1">71.59 (6.48)</td><td rowspan="1" colspan="1">64.66 (4.90)</td><td rowspan="1" colspan="1">12.98 (1,57)</td><td rowspan="1" colspan="1">.001</td><td rowspan="1" colspan="1">0.19</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Hope scale (score 8-40)</td><td rowspan="1" colspan="1">20.48 (4.26)</td><td rowspan="1" colspan="1">18.25 (3.89)</td><td rowspan="1" colspan="1">22.33 (5.33)</td><td rowspan="1" colspan="1">19.13 (3.68)</td><td rowspan="1" colspan="1">3.54 (1,57)</td><td rowspan="1" colspan="1">.07</td><td rowspan="1" colspan="1">0.06</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Person scale (score 10-50)</td><td rowspan="1" colspan="1">48.67 (4.45)</td><td rowspan="1" colspan="1">41.87 (9.50)</td><td rowspan="1" colspan="1">49.26 (3.49)</td><td rowspan="1" colspan="1">45.53 (3.56)</td><td rowspan="1" colspan="1">7.48 (1,57)</td><td rowspan="1" colspan="1">.008</td><td rowspan="1" colspan="1">0.12</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Professionals</bold>
+</td><td rowspan="1" colspan="1">(n=10)</td><td rowspan="1" colspan="1">(n=14)</td><td rowspan="1" colspan="1">(n=10)</td><td rowspan="1" colspan="1">(n=14)</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Total (score 19-95)</td><td rowspan="1" colspan="1">76.30 (5.42)</td><td rowspan="1" colspan="1">56.78 (19.6)</td><td rowspan="1" colspan="1">77.70 (5.42)</td><td rowspan="1" colspan="1">77.21 (8.12)</td><td rowspan="1" colspan="1">2.32 (1,22)</td><td rowspan="1" colspan="1">.14</td><td rowspan="1" colspan="1">0.10</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Hope scale (score 8-40)</td><td rowspan="1" colspan="1">27.50 (3.89)</td><td rowspan="1" colspan="1">21.21 (5.74)</td><td rowspan="1" colspan="1">27.80 (3.68)</td><td rowspan="1" colspan="1">27.86 (4.59)</td><td rowspan="1" colspan="1">0.31 (1,22)</td><td rowspan="1" colspan="1">.59</td><td rowspan="1" colspan="1">0.01</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Person scale (score 11-55)<sup>d</sup>
+</td><td rowspan="1" colspan="1">48.80 (2.78)</td><td rowspan="1" colspan="1">35.57 (14.4)</td><td rowspan="1" colspan="1">49.90 (3.03)</td><td rowspan="1" colspan="1">49.36 (4.41)</td><td rowspan="1" colspan="1">1.23 (1,22)</td><td rowspan="1" colspan="1">.28</td><td rowspan="1" colspan="1">0.06</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>ADKS</bold>
+<sup>e</sup>
+<bold>(score 1-30)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Laypeople</bold>
+</td><td rowspan="1" colspan="1">(n=27)</td><td rowspan="1" colspan="1">(n=32)</td><td rowspan="1" colspan="1">(n=27)</td><td rowspan="1" colspan="1">(n=32)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Total</td><td rowspan="1" colspan="1">24.67 (3.43)</td><td rowspan="1" colspan="1">24.13 (3.32)</td><td rowspan="1" colspan="1">24.44 (3.11)</td><td rowspan="1" colspan="1">24.28 (3.12)</td><td rowspan="1" colspan="1">0.02 (1,57)</td><td rowspan="1" colspan="1">.90</td><td rowspan="1" colspan="1">0.00</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Professionals</bold>
+</td><td rowspan="1" colspan="1">(n=10)</td><td rowspan="1" colspan="1">(n=14)</td><td rowspan="1" colspan="1">(n=10)</td><td rowspan="1" colspan="1">(n=14)</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Total</td><td rowspan="1" colspan="1">23.60 (3.41)</td><td rowspan="1" colspan="1">24.36 (3.52)</td><td rowspan="1" colspan="1">24.20 (2.57)</td><td rowspan="1" colspan="1">24.64 (2.40)</td><td rowspan="1" colspan="1">0.00 (1,22)</td><td rowspan="1" colspan="1">.97</td><td rowspan="1" colspan="1">0.00</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Attitudes (score 1-7)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Laypeople</bold>
+</td><td rowspan="1" colspan="1">(n=24)</td><td rowspan="1" colspan="1">(n=30)</td><td rowspan="1" colspan="1">(n=24)</td><td rowspan="1" colspan="1">(n=30)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Total</td><td rowspan="1" colspan="1">2.91 (1.78)</td><td rowspan="1" colspan="1">2.59 (1.82)</td><td rowspan="1" colspan="1">2.75 (1.85)</td><td rowspan="1" colspan="1">2.10 (1.67)</td><td rowspan="1" colspan="1">1.74 (1,52)</td><td rowspan="1" colspan="1">.19</td><td rowspan="1" colspan="1">0.03</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Professionals</bold>
+</td><td rowspan="1" colspan="1">(n=2)</td><td rowspan="1" colspan="1">(n=4)</td><td rowspan="1" colspan="1">(n=2)</td><td rowspan="1" colspan="1">(n=4)</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Total</td><td rowspan="1" colspan="1">3.33 (1.32)</td><td rowspan="1" colspan="1">2.67 (1.61)</td><td rowspan="1" colspan="1">3.22 (1.39)</td><td rowspan="1" colspan="1">2.92 (1.68)</td><td rowspan="1" colspan="1">0.01 (1,4)</td><td rowspan="1" colspan="1">.93</td><td rowspan="1" colspan="1">0.00</td></tr><tr valign="top"><td colspan="4" rowspan="1">
+<bold>Secondary outcomes</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Empathy (score 0-28)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Laypeople</bold>
+</td><td rowspan="1" colspan="1">(n=27)</td><td rowspan="1" colspan="1">(n=32)</td><td rowspan="1" colspan="1">(n=27)</td><td rowspan="1" colspan="1">(n=32)</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Distress</td><td rowspan="1" colspan="1">14.33 (6.20)</td><td rowspan="1" colspan="1">14.25 (5.85)</td><td rowspan="1" colspan="1">9.74 (5.33)</td><td rowspan="1" colspan="1">13.59 (5.63)</td><td rowspan="1" colspan="1">9.89 (1,22)</td><td rowspan="1" colspan="1">.003</td><td rowspan="1" colspan="1">0.15</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Empathy</td><td rowspan="1" colspan="1">12.56 (6.45)</td><td rowspan="1" colspan="1">12.81 (6.60)</td><td rowspan="1" colspan="1">20.40 (4.06)</td><td rowspan="1" colspan="1">13.03 (5.63)</td><td rowspan="1" colspan="1">47.63 (1,22)</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.46</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Fantasy</td><td rowspan="1" colspan="1">13.70 (5.19)</td><td rowspan="1" colspan="1">13.75 (4.24)</td><td rowspan="1" colspan="1">14.30 (5.24)</td><td rowspan="1" colspan="1">12.84 (4.43)</td><td rowspan="1" colspan="1">1.41 (1,22)</td><td rowspan="1" colspan="1">.24</td><td rowspan="1" colspan="1">0.03</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Perspective</td><td rowspan="1" colspan="1">13.11 (5.66)</td><td rowspan="1" colspan="1">13.06 (5.79)</td><td rowspan="1" colspan="1">18.81 (3.45)</td><td rowspan="1" colspan="1">13.75 (4.45)</td><td rowspan="1" colspan="1">25.90 (1,22)</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.32</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">
+<bold>Professionals</bold>
+</td><td rowspan="1" colspan="1">(n=10)</td><td rowspan="1" colspan="1">(n=14)</td><td rowspan="1" colspan="1">(n=10)</td><td rowspan="1" colspan="1">(n=14)</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Distress</td><td rowspan="1" colspan="1">13.30 (7.69)</td><td rowspan="1" colspan="1">13.86 (7.68)</td><td rowspan="1" colspan="1">7.50 (2.80)</td><td rowspan="1" colspan="1">14.57 (7.00)</td><td rowspan="1" colspan="1">17.95 (1,57)</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.46</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Empathy</td><td rowspan="1" colspan="1">12.90 (6.56)</td><td rowspan="1" colspan="1">14.85 (8.59)</td><td rowspan="1" colspan="1">20.30 (2.50)</td><td rowspan="1" colspan="1">14.15 (8.12)</td><td rowspan="1" colspan="1">19.37 (1,57)</td><td rowspan="1" colspan="1">&#x0003c;.001</td><td rowspan="1" colspan="1">0.49</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Fantasy</td><td rowspan="1" colspan="1">13.20 (3.49)</td><td rowspan="1" colspan="1">13.57 (4.18)</td><td rowspan="1" colspan="1">12.50 (4.35)</td><td rowspan="1" colspan="1">14.64 (5.37)</td><td rowspan="1" colspan="1">1.11 (1,57)</td><td rowspan="1" colspan="1">.23</td><td rowspan="1" colspan="1">0.05</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Perspective</td><td rowspan="1" colspan="1">13.30 (5.74)</td><td rowspan="1" colspan="1">12.93 (6.06)</td><td rowspan="1" colspan="1">19.10 (3.21)</td><td rowspan="1" colspan="1">13.93 (7.43)</td><td rowspan="1" colspan="1">6.58 (1,57)</td><td rowspan="1" colspan="1">.02</td><td rowspan="1" colspan="1">0.24</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Quality of life</bold>
+<sup>f</sup>
+<bold>(grade 1-10)</bold>
+</td><td rowspan="1" colspan="1">(n=21)</td><td rowspan="1" colspan="1">(n=25)</td><td rowspan="1" colspan="1">(n=21)</td><td rowspan="1" colspan="1">(n=25)</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Informal caregivers</td><td rowspan="1" colspan="1">7.24 (1.58)</td><td rowspan="1" colspan="1">6.23 (1.75)</td><td rowspan="1" colspan="1">7.05 (1.77)</td><td rowspan="1" colspan="1">6.48 (1.58)</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">.97</td><td rowspan="1" colspan="1">0.00</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Burden</bold>
+<sup>f</sup>
+<bold>(score 1-5)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Informal caregivers</td><td rowspan="1" colspan="1">2.67 (1.11)</td><td rowspan="1" colspan="1">3.08 (1.13)</td><td rowspan="1" colspan="1">2.43 (0.98)</td><td rowspan="1" colspan="1">2.80 (0.96)</td><td rowspan="1" colspan="1">0.63</td><td rowspan="1" colspan="1">.43</td><td rowspan="1" colspan="1">0.02</td></tr><tr valign="bottom"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="3" rowspan="1">
+<bold>Sense of competence (SSCQ)</bold>
+<sup><bold>f,g</bold></sup>
+<bold>(score 0-7)</bold>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="2" rowspan="1">Informal caregivers</td><td rowspan="1" colspan="1">4.43 (1.25)</td><td rowspan="1" colspan="1">4.54 (1.56)</td><td rowspan="1" colspan="1">4.67 (1.06)</td><td rowspan="1" colspan="1">4.04 (1.49)</td><td rowspan="1" colspan="1">5.50</td><td rowspan="1" colspan="1">.02</td><td rowspan="1" colspan="1">0.11</td></tr></tbody></table><table-wrap-foot><fn id="table5fn1"><p>
+<sup>a</sup>For all scores except distress, burden, and sense of competence, the higher score is the more favorable.</p></fn><fn id="table5fn2"><p>
+<sup>b</sup>Effect size (&#x003b7;<sup>2</sup>) is considered small at 0.01, medium at 0.06, and large at 0.14.</p></fn><fn id="table5fn3"><p>
+<sup>c</sup>ADQ: Approaches to Dementia Questionnaire</p></fn><fn id="table5fn4"><p>
+<sup>d</sup>For professional caregivers, score is 11-55 because they had one additional question compared to informal caregivers.</p></fn><fn id="table5fn5"><p>
+<sup>e</sup>ADKS: Alzheimer&#x02019;s Disease Knowledge Scale</p></fn><fn id="table5fn6"><p>
+<sup>f</sup>These were questionnaires specifically relevant to informal caregivers; they were not applied in volunteers.</p></fn><fn id="table5fn7"><p>
+<sup>g</sup>SSCQ: Short Sense of Competence Questionnaire</p></fn></table-wrap-foot></table-wrap><p>For the primary outcome measures, we found a statistically significant effect on attitudes toward dementia (ADQ total score) with a large effect size (&#x003b7;<sup>2</sup>) and on its subscale, person-centered care among laypeople (informal caregivers and volunteers), with a large effect size. For both cases, both the experimental group and the control group increased in score. Differences in baseline scores were accounted for by adding these as a covariate in the analyses. We did not find outliers at baseline that could explain this result. For the remaining primary outcomes (knowledge about and attitudes toward dementia), we did not find statistically significant differences in the experimental or control group among laypeople and professionals.</p><p>There were 2 separate questions relating to attitudes toward dementia. The first question related to which disease people were most afraid of developing (diabetes, stroke, heart disease, dementia, cancer, depression, or influenza). At pretest, 31% of laypeople were most afraid of developing dementia; for professionals, this was 13%. At post-test, 46% of laypeople and 8% of professionals were most afraid of developing dementia. This indicates that after completing the course, laypersons were more afraid of developing dementia, whereas this fear decreased in professionals. The second question on attitudes toward dementia was &#x0201c;if you had a family member who was exhibiting confusion and memory loss, would you want the person to see a doctor to determine if the cause of the symptoms was Alzheimer&#x02019;s disease or not?&#x0201d;. This was answered positively by all who completed the research, both at pretest and at post-test.</p><p>For the secondary outcome measures, we found statistically significant differences between the experimental and control group in the expected direction on several subscales of empathy: the distress subscale, empathy subscale, and perspective subscale. Although the scores on these scales remained largely the same in the control group at pretest and post-test, we witnessed a significant improvement in the experimental group, indicating that they felt less distressed in tense situations, had more empathy and concern for the well-being of other people, and were better able to understand situations and the actions of other people. On the other hand, we found a medium-sized, significant negative effect on sense of competence of informal caregivers, which declined in the experimental group compared to the control group, implying that participants in the course felt less competent to fulfill their care task after following the course. Post hoc analysis revealed that this decline in sense of competence was related to a higher age of the caregivers (<italic>r</italic>=&#x02013;.34, <italic>P</italic>=.02).</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>The STAR training, an online e-learning course developed to skill/reskill informal caregivers, volunteers, and professional caregivers of persons with dementia, was evaluated in the Netherlands and the United Kingdom on its usefulness, user friendliness, and effectiveness. This evaluation was undertaken in an RCT, comparing participants who followed the STAR training to a waiting list control group. The evaluation results indicated that, in general, the 8 modules of the STAR training were positively/very positively valued with regard to usefulness and user friendliness. The course was considered easy to undertake and the material was considered well thought out. Participants indicated that the course made them feel more secure about their quality as a caregiver. Although all modules were assessed positively, some modules, such as modules 1 and 3, scored lower than others did. The content of these modules will need to be reviewed for future versions of STAR.</p><p>The results of the RCT in the Netherlands and the United Kingdom demonstrated a significant positive impact of the STAR training course on maintaining feelings of empathy among informal caregivers and volunteers. Also, an effect was found on a person-centered care approach; both the person-centered care approach and the total score on positive approaches toward dementia increased among laypeople in both the experimental and the control group. The sense of competence declined slightly in the informal caregivers who followed the course, which appeared to be related to the higher age of the caregivers. The decline in sense of competence is in contrast to the finding that a large number of the participants who followed the STAR training indicated that they felt more secure about their qualities as caregivers.</p><p>For professional caregivers, empathy improved among those who followed the course. This is an indication that after following the course they became better able to view situations from another&#x02019;s perspective (eg, a person with dementia) and that they showed more sympathy and concern, which may help them to provide better care for people with dementia. No effects were found on knowledge about Alzheimer&#x02019;s disease. This was likely because the selected instrument, the ADKS, mostly has factual questions on symptoms and prevalence, although the STAR course predominantly focused on informing caregivers how to deal and cope with the consequences of dementia. Therefore, positive outcomes related to dealing with dementia (eg, empathy and attitudes), rather than an increase in knowledge, were in-line with our expectations. On other outcome measures, such as quality of life and burden, no effects were found.</p><p>These results are in-line with recent research, which has also found beneficial effects from Internet-based interventions [<xref rid="ref7" ref-type="bibr">7</xref>], among others on attitudes and empathy [<xref rid="ref10" ref-type="bibr">10</xref>]. One of the explanations for the effectiveness of STAR is the opportunity to choose &#x0201c;personalized learning paths,&#x0201d; which make it possible for each individual caregiver to tailor the content of the training to their own needs and skill level by recommending which modules are most relevant to them. According to earlier research by Lustria et al [<xref rid="ref8" ref-type="bibr">8</xref>], tailored computer-based health interventions lead to improved health in caregivers. Previous research also indicates that increasing empathy in caregivers is highly relevant because it increases the well-being of the person with dementia [<xref rid="ref25" ref-type="bibr">25</xref>].</p><p>Review studies on the effectiveness of psychosocial and technology-driven interventions to support family caregivers show that interventions using a psychoeducational or psychotherapeutic approach appear to be among the most powerful psychosocial interventions to improve quality of life of persons with dementia and their caregivers, and delay patient institutionalization [<xref rid="ref26" ref-type="bibr">26</xref>-<xref rid="ref28" ref-type="bibr">28</xref>]. Nevertheless, many studies suffered from serious methodological problems, such as unclear randomization methods, inadequate power calculation, selectively reported outcomes, and no use of an intention-to-treat analysis [<xref rid="ref29" ref-type="bibr">29</xref>-<xref rid="ref31" ref-type="bibr">31</xref>]. In addition, interventions were difficult to compare because type and intensity varied [<xref rid="ref32" ref-type="bibr">32</xref>]. STAR adds to this research by offering an RCT with clear randomization methods and adequate numbers for sufficient statistical power. Additionally, all outcomes of STAR are clearly reported.</p><p>A strength of this study is that the STAR training portal was tested in an RCT design in 2 countries. A limitation of the study was the high number of dropouts in the RCT (34% in the Netherlands, 53% in the United Kingdom), especially in the experimental group; 43% (Netherlands) and 64% (United Kingdom) dropped out of the study. It seems likely that participants in the control group were more motivated to participate in the post-test because participating in the questionnaires would offer them free access to the course afterward. Furthermore, given that the STAR training portal was still in late development at the time of testing, some errors occurred when people followed the course. Another limitation was the fact that the online communities were not used often by participants, making them less informative and supportive than originally anticipated. The communities only contained a small number of participants because access was limited to only those in the experimental group of the research. However, they are expected to become more active and supportive in the future. This expectation is based on the fact that the STAR website has recently been updated to show links to the community websites more clearly. Additionally, when STAR gets more users, more users will potentially visit these communities, making them more lively and, therefore, more interesting to use for other visitors. We found little use for the Learning Path Advisor in the United Kingdom compared to use of it in the Netherlands. One explanation for this could be that the British group consisted of more volunteers with less experience in dementia care, who may have been more interested to follow the entire course, whereas the Dutch group consisted largely of informal caregivers and the majority (79%) had been caring for a person with dementia for 2 years or longer. It is likely that these experienced caregivers tended to use the Learning Path Advisor more frequently to find out which modules would provide them with new information, taking into account the knowledge they already had.</p><p>In conclusion, based on the promising results of our study, especially the positive effects of the STAR training portal on empathy for both laypeople (informal caregivers and volunteers) and professionals, it is recommended to repeat the RCT on a larger scale and in more countries. STAR is currently available in Dutch and English; the basic and intermediate modules are available in Italian and Romanian, and some are available in Swedish as well.</p><p>The positive effects of STAR on attitudes and empathy of caregivers may contribute to appropriate and high-quality dementia care in the community now and in the future. Therefore, an Internet-based intervention such as STAR can be a very useful alternative for face-to-face education and support for caregivers/informal caregivers and low-/unschooled professionals [<xref rid="ref2" ref-type="bibr">2</xref>,<xref rid="ref3" ref-type="bibr">3</xref>] and at lower costs [<xref rid="ref9" ref-type="bibr">9</xref>], thus providing a means to cope with the challenge of taking care of the growing number of people with dementia in our society.</p></sec></body><back><ack><p>We gratefully acknowledge all participants in the RCTs in both the Netherlands and United Kingdom who participated in the course and supplied us with their opinions. We also gratefully acknowledge the writers of the course material. The STAR project was funded by the Leonardo da Vinci Life Long Learning Programme of the European Union (no. 510364-2010) and the BAVO Foundation in the Netherlands.</p></ack><fn-group><fn fn-type="conflict"><p>Conflicts of Interest: None declared.</p></fn></fn-group><app-group><app id="app1"><title>Multimedia Appendix 1</title><p>Participant flowchart for CONSORT.</p><fig id="d36e3509" position="anchor"><media xlink:href="jmir_v17i10e241_app1.pdf"/></fig></app><app id="app2"><title>Multimedia Appendix 2</title><p>CONSORT checklist PDF.</p><fig id="d36e3515" position="anchor"><media xlink:href="jmir_v17i10e241_app2.pdf"/></fig></app></app-group><glossary><title>Abbreviations</title><def-list><def-item><term id="abb1">ADKS</term><def><p>Alzheimer&#x02019;s Disease Knowledge Scale</p></def></def-item><def-item><term id="abb2">ADQ</term><def><p>Approaches to Dementia Questionnaire</p></def></def-item><def-item><term id="abb3">DSM-IV</term><def><p>Diagnostics and Statistics Manual, IV (4th) Edition</p></def></def-item><def-item><term id="abb4">EU</term><def><p>European Union</p></def></def-item><def-item><term id="abb5">IRI</term><def><p>Interpersonal Reactivity Index</p></def></def-item><def-item><term id="abb6">RCT</term><def><p>randomized controlled trial</p></def></def-item><def-item><term id="abb7">SSCQ</term><def><p>Short Sense of Competence Questionnaire</p></def></def-item><def-item><term id="abb8">STAR</term><def><p>Skills Training And Reskilling</p></def></def-item><def-item><term id="abb9">USE</term><def><p>Usefulness, Satisfaction, and Ease of use</p></def></def-item></def-list></glossary><ref-list><ref id="ref1"><label>1</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Prince</surname><given-names>M</given-names></name><name><surname>Bryce</surname><given-names>R</given-names></name><name><surname>Ferri</surname><given-names>C</given-names></name></person-group><source>World Alzheimer Day Report, Alzheimer&#x02019;s Disease International</source><year>2011</year><month>9</month><day>01</day><publisher-loc>London, UK</publisher-loc><publisher-name>Alzheimer's Disease International (ADI)</publisher-name></element-citation></ref><ref id="ref2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Glueckauf</surname><given-names>R</given-names></name><name><surname>Ketterson</surname><given-names>T</given-names></name><name><surname>Loomis</surname><given-names>J</given-names></name><name><surname>Dages</surname><given-names>P</given-names></name></person-group><article-title>Online support and education for dementia caregivers: overview, utilization, and initial program evaluation</article-title><source>Telemed J E Health</source><year>2004</year><volume>10</volume><issue>2</issue><fpage>223</fpage><lpage>32</lpage><pub-id pub-id-type="medline">15319052</pub-id><pub-id pub-id-type="pmid">15319052</pub-id></element-citation></ref><ref id="ref3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mart&#x000ed;n-Carrasco</surname><given-names>M</given-names></name><name><surname>Mart&#x000ed;n</surname><given-names>MF</given-names></name><name><surname>Valero</surname><given-names>CP</given-names></name><name><surname>Mill&#x000e1;n</surname><given-names>PR</given-names></name><name><surname>Garc&#x000ed;a</surname><given-names>CI</given-names></name><name><surname>Montalb&#x000e1;n</surname><given-names>SR</given-names></name><name><surname>V&#x000e1;zquez</surname><given-names>AL</given-names></name><name><surname>Piris</surname><given-names>SP</given-names></name><name><surname>Vilanova</surname><given-names>MB</given-names></name></person-group><article-title>Effectiveness of a psychoeducational intervention program in the reduction of caregiver burden in Alzheimer's disease patients' caregivers</article-title><source>Int J Geriatr Psychiatry</source><year>2009</year><month>5</month><volume>24</volume><issue>5</issue><fpage>489</fpage><lpage>99</lpage><pub-id pub-id-type="doi">10.1002/gps.2142</pub-id><pub-id pub-id-type="medline">18949763</pub-id><pub-id pub-id-type="pmid">18949763</pub-id></element-citation></ref><ref id="ref4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mitchell</surname><given-names>R</given-names></name></person-group><article-title>Planning for instructional technology in the classroom</article-title><source>New Directions for Community Colleges</source><year>2011</year><month>6</month><day>22</day><volume>2011</volume><issue>154</issue><fpage>45</fpage><lpage>52</lpage><pub-id pub-id-type="doi">10.1002/cc.445</pub-id></element-citation></ref><ref id="ref5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Serafini</surname><given-names>JD</given-names></name><name><surname>Damianakis</surname><given-names>T</given-names></name><name><surname>Marziali</surname><given-names>E</given-names></name></person-group><article-title>Clinical practice standards and ethical issues applied to a virtual group intervention for spousal caregivers of people with Alzheimer's</article-title><source>Soc Work Health Care</source><year>2007</year><volume>44</volume><issue>3</issue><fpage>225</fpage><lpage>43</lpage><pub-id pub-id-type="doi">10.1300/J010v44n03_07</pub-id><pub-id pub-id-type="medline">17548277</pub-id><pub-id pub-id-type="pmid">17548277</pub-id></element-citation></ref><ref id="ref6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ruiz</surname><given-names>JG</given-names></name><name><surname>Mintzer</surname><given-names>MJ</given-names></name><name><surname>Leipzig</surname><given-names>RM</given-names></name></person-group><article-title>The impact of E-learning in medical education</article-title><source>Acad Med</source><year>2006</year><month>3</month><volume>81</volume><issue>3</issue><fpage>207</fpage><lpage>12</lpage><pub-id pub-id-type="medline">16501260</pub-id><!--<pub-id pub-id-type="pii">81/3/207</pub-id>--><pub-id pub-id-type="pmid">16501260</pub-id></element-citation></ref><ref id="ref7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Murray</surname><given-names>E</given-names></name><name><surname>Burns</surname><given-names>J</given-names></name><name><surname>See</surname><given-names>T</given-names></name><name><surname>Lai</surname><given-names>R</given-names></name><name><surname>Nazareth</surname><given-names>I</given-names></name></person-group><article-title>Interactive health communication applications for people with chronic disease</article-title><source>Cochrane Database Syst Rev</source><year>2005</year><issue>4</issue><fpage>CD004274</fpage><pub-id pub-id-type="doi">10.1002/14651858.CD004274.pub4</pub-id><pub-id pub-id-type="medline">16235356</pub-id><pub-id pub-id-type="pmid">16235356</pub-id></element-citation></ref><ref id="ref8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lustria</surname><given-names>ML</given-names></name><name><surname>Cortese</surname><given-names>J</given-names></name><name><surname>Noar</surname><given-names>SM</given-names></name><name><surname>Glueckauf</surname><given-names>RL</given-names></name></person-group><article-title>Computer-tailored health interventions delivered over the Web: review and analysis of key components</article-title><source>Patient Educ Couns</source><year>2009</year><month>2</month><volume>74</volume><issue>2</issue><fpage>156</fpage><lpage>73</lpage><pub-id pub-id-type="doi">10.1016/j.pec.2008.08.023</pub-id><pub-id pub-id-type="medline">18947966</pub-id><!--<pub-id pub-id-type="pii">S0738-3991(08)00469-2</pub-id>--><pub-id pub-id-type="pmid">18947966</pub-id></element-citation></ref><ref id="ref9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lewis</surname><given-names>ML</given-names></name><name><surname>Hobday</surname><given-names>JV</given-names></name><name><surname>Hepburn</surname><given-names>KW</given-names></name></person-group><article-title>Internet-based program for dementia caregivers</article-title><source>Am J Alzheimers Dis Other Demen</source><year>2010</year><month>12</month><volume>25</volume><issue>8</issue><fpage>674</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1177/1533317510385812</pub-id><pub-id pub-id-type="medline">21131674</pub-id><!--<pub-id pub-id-type="pii">25/8/674</pub-id>--><pub-id pub-id-type="pmid">21131674</pub-id></element-citation></ref><ref id="ref10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Irvine</surname><given-names>AB</given-names></name><name><surname>Billow</surname><given-names>MB</given-names></name><name><surname>Gates</surname><given-names>DM</given-names></name><name><surname>Fitzwater</surname><given-names>EL</given-names></name><name><surname>Seeley</surname><given-names>JR</given-names></name><name><surname>Bourgeois</surname><given-names>M</given-names></name></person-group><article-title>Internet training to respond to aggressive resident behaviors</article-title><source>Gerontologist</source><year>2012</year><month>2</month><volume>52</volume><issue>1</issue><fpage>13</fpage><lpage>23</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/22038338"/></comment><pub-id pub-id-type="doi">10.1093/geront/gnr069</pub-id><pub-id pub-id-type="medline">22038338</pub-id><!--<pub-id pub-id-type="pii">gnr069</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3265553</pub-id>--><pub-id pub-id-type="pmid">22038338</pub-id></element-citation></ref><ref id="ref11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Macdonald</surname><given-names>C</given-names></name><name><surname>Stodel</surname><given-names>E</given-names></name><name><surname>Chambers</surname><given-names>LW</given-names></name></person-group><article-title>An online interprofessional learning resource for physicians, pharmacists, nurse practitioners, and nurses in long-term care: benefits, barriers, and lessons learned</article-title><source>Inform Health Soc Care</source><year>2008</year><month>3</month><volume>33</volume><issue>1</issue><fpage>21</fpage><lpage>38</lpage><pub-id pub-id-type="doi">10.1080/14639230801886824</pub-id><pub-id pub-id-type="medline">18604760</pub-id><!--<pub-id pub-id-type="pii">791264673</pub-id>--><pub-id pub-id-type="pmid">18604760</pub-id></element-citation></ref><ref id="ref12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van de Steeg</surname><given-names>L</given-names></name><name><surname>Langelaan</surname><given-names>M</given-names></name><name><surname>Ijkema</surname><given-names>R</given-names></name><name><surname>Wagner</surname><given-names>C</given-names></name></person-group><article-title>The effect of a complementary e-learning course on implementation of a quality improvement project regarding care for elderly patients: a stepped wedge trial</article-title><source>Implement Sci</source><year>2012</year><volume>7</volume><fpage>13</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.implementationscience.com/content/7//13"/></comment><pub-id pub-id-type="doi">10.1186/1748-5908-7-13</pub-id><pub-id pub-id-type="medline">22385554</pub-id><!--<pub-id pub-id-type="pii">1748-5908-7-13</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC3310782</pub-id>--><pub-id pub-id-type="pmid">22385554</pub-id></element-citation></ref><ref id="ref13"><label>13</label><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Van der Roest</surname><given-names>H</given-names></name></person-group><source>STAR: Skills Training and Re-skilling for Carers of People with Dementia</source><year>2011</year><date-in-citation>2015-10-13</date-in-citation><comment>Deliverable D2.1: reporting on existing courses<ext-link ext-link-type="uri" xlink:href="http://www.startraining.eu/index.php/en/">http://www.startraining.eu/index.php/en/</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6cFZvivC7"/></element-citation></ref><ref id="ref14"><label>14</label><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Hattink</surname><given-names>B</given-names></name></person-group><source>STAR: Skills Training and Re-skilling for Carers of People with Dementia</source><year>2014</year><date-in-citation>2014-11-11</date-in-citation><comment>STAR training portal<ext-link ext-link-type="uri" xlink:href="http://courses.startraining.eu/">http://courses.startraining.eu/</ext-link></comment><ext-link ext-link-type="webcite" xlink:href="6U0DrH9wm"/></element-citation></ref><ref id="ref15"><label>15</label><element-citation publication-type="book"><source>Diagnostic and Statistical Manual of Mental Disorders (4th edition)</source><year>2000</year><publisher-loc>Arlington, VA</publisher-loc><publisher-name>American Psychiatric Pub</publisher-name></element-citation></ref><ref id="ref16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jette</surname><given-names>AM</given-names></name></person-group><article-title>Toward a common language for function, disability, and health</article-title><source>Phys Ther</source><year>2006</year><month>5</month><volume>86</volume><issue>5</issue><fpage>726</fpage><lpage>34</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.ptjournal.org/cgi/pmidlookup?view=long&#x00026;pmid=16649895"/></comment><pub-id pub-id-type="medline">16649895</pub-id><pub-id pub-id-type="pmid">16649895</pub-id></element-citation></ref><ref id="ref17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dr&#x000f6;es</surname><given-names>RM</given-names></name><name><surname>Roest</surname><given-names>HG</given-names></name><name><surname>Mierlo</surname><given-names>L</given-names></name><name><surname>Meiland</surname><given-names>FJM</given-names></name></person-group><article-title>Memory problems in dementia: adaptation and coping strategies and psychosocial treatments</article-title><source>Expert Rev Neurother</source><year>2011</year><month>12</month><volume>11</volume><issue>12</issue><fpage>1769</fpage><lpage>81; quiz 1782</lpage><pub-id pub-id-type="doi">10.1586/ern.11.167</pub-id><pub-id pub-id-type="medline">22091600</pub-id><pub-id pub-id-type="pmid">22091600</pub-id></element-citation></ref><ref id="ref18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lund</surname><given-names>A</given-names></name></person-group><article-title>Measuring Usability with the USE Questionnaire</article-title><source>STC Usability SIG Newsletter</source><year>2001</year><month>1</month><volume>8</volume><issue>2</issue><fpage>1</fpage></element-citation></ref><ref id="ref19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carpenter</surname><given-names>BD</given-names></name><name><surname>Balsis</surname><given-names>S</given-names></name><name><surname>Otilingam</surname><given-names>PG</given-names></name><name><surname>Hanson</surname><given-names>PK</given-names></name><name><surname>Gatz</surname><given-names>M</given-names></name></person-group><article-title>The Alzheimer's Disease Knowledge Scale: development and psychometric properties</article-title><source>Gerontologist</source><year>2009</year><month>4</month><volume>49</volume><issue>2</issue><fpage>236</fpage><lpage>47</lpage><comment><ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/19363018"/></comment><pub-id pub-id-type="doi">10.1093/geront/gnp023</pub-id><pub-id pub-id-type="medline">19363018</pub-id><!--<pub-id pub-id-type="pii">gnp023</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC2667675</pub-id>--><pub-id pub-id-type="pmid">19363018</pub-id></element-citation></ref><ref id="ref20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blendon</surname><given-names>RJ</given-names></name><name><surname>Benson</surname><given-names>JM</given-names></name><name><surname>Wikler</surname><given-names>EM</given-names></name><name><surname>Weldon</surname><given-names>KJ</given-names></name><name><surname>Georges</surname><given-names>J</given-names></name><name><surname>Baumgart</surname><given-names>M</given-names></name><name><surname>Kallmyer</surname><given-names>BA</given-names></name></person-group><article-title>The impact of experience with a family member with Alzheimer's Disease on views about the disease across five countries</article-title><source>Int J Alzheimers Dis</source><year>2012</year><volume>2012</volume><fpage>903645</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1155/2012/903645"/></comment><pub-id pub-id-type="doi">10.1155/2012/903645</pub-id><pub-id pub-id-type="medline">22997601</pub-id><!--<pub-id pub-id-type="pmcid">PMC3446668</pub-id>--><pub-id pub-id-type="pmid">22997601</pub-id></element-citation></ref><ref id="ref21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lintern</surname><given-names>T</given-names></name><name><surname>Woods</surname><given-names>B</given-names></name><name><surname>Phair</surname><given-names>L</given-names></name></person-group><article-title>Training is not enough to change care practice</article-title><source>J Dem Care</source><year>2000</year><month>1</month><day>01</day><volume>8</volume><issue>2</issue><fpage>15</fpage><lpage>17</lpage></element-citation></ref><ref id="ref22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Davis</surname><given-names>M</given-names></name></person-group><article-title>Measuring individual differences in empathy: evidence for a multidimensional approach</article-title><source>Journal of Personality and Social Psychology</source><year>1983</year><volume>44</volume><issue>1</issue><fpage>113</fpage><lpage>126</lpage><pub-id pub-id-type="doi">10.1037/0022-3514.44.1.113</pub-id></element-citation></ref><ref id="ref23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vernooij-Dassen</surname><given-names>MJ</given-names></name><name><surname>Felling</surname><given-names>AJ</given-names></name><name><surname>Brummelkamp</surname><given-names>E</given-names></name><name><surname>Dauzenberg</surname><given-names>MG</given-names></name><name><surname>van den Bos</surname><given-names>GA</given-names></name><name><surname>Grol</surname><given-names>R</given-names></name></person-group><article-title>Assessment of caregiver's competence in dealing with the burden of caregiving for a dementia patient: a Short Sense of Competence Questionnaire (SSCQ) suitable for clinical practice</article-title><source>J Am Geriatr Soc</source><year>1999</year><month>2</month><volume>47</volume><issue>2</issue><fpage>256</fpage><lpage>7</lpage><pub-id pub-id-type="medline">9988301</pub-id><pub-id pub-id-type="pmid">9988301</pub-id></element-citation></ref><ref id="ref24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saghaei</surname><given-names>M</given-names></name></person-group><article-title>Random allocation software for parallel group randomized trials</article-title><source>BMC Med Res Methodol</source><year>2004</year><month>11</month><day>9</day><volume>4</volume><fpage>26</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2288/4/26"/></comment><pub-id pub-id-type="doi">10.1186/1471-2288-4-26</pub-id><pub-id pub-id-type="medline">15535880</pub-id><!--<pub-id pub-id-type="pii">1471-2288-4-26</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC533876</pub-id>--><pub-id pub-id-type="pmid">15535880</pub-id></element-citation></ref><ref id="ref25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Norton</surname><given-names>M</given-names></name><name><surname>Fauth</surname><given-names>E</given-names></name><name><surname>Piercy</surname><given-names>K</given-names></name><name><surname>Corcoran</surname><given-names>C</given-names></name><name><surname>Hess</surname><given-names>K</given-names></name><name><surname>Morrison</surname><given-names>A</given-names></name><name><surname>Rabins</surname><given-names>PV</given-names></name><name><surname>Lyketsos</surname><given-names>CG</given-names></name></person-group><article-title>Higher caregiver agreeableness predicts slower cognitive decline in persons with Alzheimer's disease: The dementia progression study</article-title><source>Alzheimer's &#x00026; Dementia</source><year>2010</year><month>7</month><volume>6</volume><issue>4</issue><fpage>S463</fpage><pub-id pub-id-type="doi">10.1016/j.jalz.2010.05.1541</pub-id></element-citation></ref><ref id="ref26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smits</surname><given-names>CH</given-names></name><name><surname>Lange</surname><given-names>LJ</given-names></name><name><surname>Dr&#x000f6;es</surname><given-names>RM</given-names></name><name><surname>Meiland</surname><given-names>FJ</given-names></name><name><surname>Vernooij-Dassen</surname><given-names>M</given-names></name><name><surname>Pot</surname><given-names>AM</given-names></name></person-group><article-title>Effects of combined intervention programmes for people with dementia living at home and their caregivers: a systematic review</article-title><source>Int J Geriatr Psychiatry</source><year>2007</year><month>12</month><volume>22</volume><issue>12</issue><fpage>1181</fpage><lpage>93</lpage><pub-id pub-id-type="doi">10.1002/gps.1805</pub-id><pub-id pub-id-type="medline">17457793</pub-id><pub-id pub-id-type="pmid">17457793</pub-id></element-citation></ref><ref id="ref27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moniz-Cook</surname><given-names>E</given-names></name><name><surname>Vernooij-Dassen</surname><given-names>M</given-names></name><name><surname>Woods</surname><given-names>B</given-names></name><name><surname>Orrell</surname><given-names>M</given-names></name></person-group><article-title>Psychosocial interventions in dementia care research: the INTERDEM manifesto</article-title><source>Aging Ment Health</source><year>2011</year><month>4</month><volume>15</volume><issue>3</issue><fpage>283</fpage><lpage>90</lpage><pub-id pub-id-type="doi">10.1080/13607863.2010.543665</pub-id><pub-id pub-id-type="medline">21491215</pub-id><!--<pub-id pub-id-type="pii">936246947</pub-id>--><pub-id pub-id-type="pmid">21491215</pub-id></element-citation></ref><ref id="ref28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dr&#x000f6;es</surname><given-names>RM</given-names></name><name><surname>Breebaart</surname><given-names>E</given-names></name><name><surname>Meiland</surname><given-names>FJ</given-names></name><name><surname>Tilburg</surname><given-names>W</given-names></name><name><surname>Mellenbergh</surname><given-names>GJ</given-names></name></person-group><article-title>Effect of Meeting Centres Support Program on feelings of competence of family carers and delay of institutionalization of people with dementia</article-title><source>Aging Ment Health</source><year>2004</year><month>5</month><volume>8</volume><issue>3</issue><fpage>201</fpage><lpage>11</lpage><pub-id pub-id-type="doi">10.1080/13607860410001669732</pub-id><pub-id pub-id-type="medline">15203401</pub-id><!--<pub-id pub-id-type="pii">2CGLGKKCDDRRCEQF</pub-id>--><pub-id pub-id-type="pmid">15203401</pub-id></element-citation></ref><ref id="ref29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schoenmakers</surname><given-names>B</given-names></name><name><surname>Buntinx</surname><given-names>F</given-names></name><name><surname>DeLepeleire</surname><given-names>J</given-names></name></person-group><article-title>Supporting the dementia family caregiver: the effect of home care intervention on general well-being</article-title><source>Aging Ment Health</source><year>2010</year><month>1</month><volume>14</volume><issue>1</issue><fpage>44</fpage><lpage>56</lpage><pub-id pub-id-type="doi">10.1080/13607860902845533</pub-id><pub-id pub-id-type="medline">20155520</pub-id><!--<pub-id pub-id-type="pii">919232335</pub-id>--><pub-id pub-id-type="pmid">20155520</pub-id></element-citation></ref><ref id="ref30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thompson</surname><given-names>C</given-names></name><name><surname>Spilsbury</surname><given-names>K</given-names></name><name><surname>Hall</surname><given-names>J</given-names></name><name><surname>Birks</surname><given-names>Y</given-names></name><name><surname>Barnes</surname><given-names>C</given-names></name><name><surname>Adamson</surname><given-names>J</given-names></name></person-group><article-title>Systematic review of information and support interventions for caregivers of people with dementia</article-title><source>BMC Geriatr</source><year>2007</year><volume>7</volume><fpage>18</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2318/7/18"/></comment><pub-id pub-id-type="doi">10.1186/1471-2318-7-18</pub-id><pub-id pub-id-type="medline">17662119</pub-id><!--<pub-id pub-id-type="pii">1471-2318-7-18</pub-id>--><!--<pub-id pub-id-type="pmcid">PMC1951962</pub-id>--><pub-id pub-id-type="pmid">17662119</pub-id></element-citation></ref><ref id="ref31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cooke</surname><given-names>D</given-names></name><name><surname>McNally</surname><given-names>L</given-names></name><name><surname>Mulligan</surname><given-names>K</given-names></name><name><surname>Harrison</surname><given-names>MJ</given-names></name><name><surname>Newman</surname><given-names>SP</given-names></name></person-group><article-title>Psychosocial interventions for caregivers of people with dementia: a systematic review</article-title><source>Aging Ment Health</source><year>2001</year><month>5</month><volume>5</volume><issue>2</issue><fpage>120</fpage><lpage>35</lpage><pub-id pub-id-type="doi">10.1080/713650019</pub-id><pub-id pub-id-type="medline">11511059</pub-id><pub-id pub-id-type="pmid">11511059</pub-id></element-citation></ref><ref id="ref32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Godwin</surname><given-names>K</given-names></name><name><surname>Mills</surname><given-names>W</given-names></name><name><surname>Anderson</surname><given-names>J</given-names></name><name><surname>Kunik</surname><given-names>ME</given-names></name></person-group><article-title>Technology-driven interventions for caregivers of persons with dementia: a systematic review</article-title><source>Am J Alzheimers Dis Other Demen</source><year>2013</year><month>5</month><volume>28</volume><issue>3</issue><fpage>216</fpage><lpage>22</lpage><pub-id pub-id-type="doi">10.1177/1533317513481091</pub-id><pub-id pub-id-type="medline">23528881</pub-id><!--<pub-id pub-id-type="pii">1533317513481091</pub-id>--><pub-id pub-id-type="pmid">23528881</pub-id></element-citation></ref></ref-list></back></article>

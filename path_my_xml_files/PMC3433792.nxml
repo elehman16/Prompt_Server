@@ -1,0 +1,797 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22970105</article-id><article-id pub-id-type="pmc">3433792</article-id><article-id pub-id-type="publisher-id">PONE-D-12-11386</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0043803</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Genetics</subject><subj-group><subject>Human Genetics</subject><subj-group><subject>Genetic Association Studies</subject><subject>Mitochondrial Diseases</subject></subj-group></subj-group><subj-group><subject>Population Genetics</subject><subj-group><subject>Haplotypes</subject></subj-group></subj-group><subj-group><subject>Genetics of Disease</subject></subj-group></subj-group><subj-group><subject>Immunology</subject><subj-group><subject>Immune Cells</subject><subj-group><subject>T Cells</subject></subj-group></subj-group><subj-group><subject>Genetics of the Immune System</subject></subj-group></subj-group><subj-group><subject>Microbiology</subject><subj-group><subject>Virology</subject><subj-group><subject>Antivirals</subject></subj-group></subj-group></subj-group><subj-group><subject>Population Biology</subject><subj-group><subject>Population Genetics</subject><subj-group><subject>Haplotypes</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Clinical Genetics</subject><subj-group><subject>Mitochondrial Diseases</subject></subj-group></subj-group><subj-group><subject>Clinical Immunology</subject><subj-group><subject>Immune Cells</subject><subj-group><subject>T Cells</subject></subj-group></subj-group><subj-group><subject>Immunity</subject><subj-group><subject>Immune Activation</subject></subj-group></subj-group><subj-group><subject>Genetics of the Immune System</subject></subj-group></subj-group><subj-group><subject>Infectious diseases</subject><subj-group><subject>Sexually Transmitted Diseases</subject><subj-group><subject>AIDS</subject></subj-group></subj-group><subj-group><subject>Viral diseases</subject><subj-group><subject>HIV</subject><subj-group><subject>Retrovirology and HIV immunopathogenesis</subject></subj-group></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>T Cell Activation Markers and African Mitochondrial DNA Haplogroups
+among Non-Hispanic Black Participants in AIDS Clinical Trials Group Study
+384</article-title><alt-title alt-title-type="running-head">mtDNA Variation and T Cell Activation in
+HIV</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Hulgan</surname><given-names>Todd</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Robbins</surname><given-names>Gregory K.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kalams</surname><given-names>Spyros A.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Samuels</surname><given-names>David C.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Grady</surname><given-names>Benjamin</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Shafer</surname><given-names>Robert</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Murdock</surname><given-names>Deborah G.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Selph</surname><given-names>Doug</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Haas</surname><given-names>David W.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Pollard</surname><given-names>Richard B.</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref><on-behalf-of>for the AIDS Clinical Trials Group</on-behalf-of></contrib><contrib contrib-type="author"><collab>AIDS Clinical Trials Group<contrib-group><contrib contrib-type="author"><name><surname>De Gruttola</surname><given-names>Victor</given-names></name><aff>Harvard School of Public Health</aff></contrib><contrib contrib-type="author"><name><surname>Snyder</surname><given-names>Sally</given-names></name></contrib><contrib contrib-type="author"><name><surname>Nevin</surname><given-names>Thomas</given-names></name><aff>Social &#x00026; Scientific Systems</aff></contrib><contrib contrib-type="author"><name><surname>Pettinelli</surname><given-names>Carla</given-names></name><aff>National Institutes of Health</aff></contrib><contrib contrib-type="author"><name><surname>Dube</surname><given-names>Michael</given-names></name><aff>Indiana University</aff></contrib><contrib contrib-type="author"><name><surname>Fischl</surname><given-names>Margaret</given-names></name><aff>Miami University</aff></contrib><contrib contrib-type="author"><name><surname>Delaphna</surname><given-names>Robert</given-names></name><aff>Howard University</aff></contrib><contrib contrib-type="author"><name><surname>Gideon</surname><given-names>Linda</given-names></name><aff>Frontier Science and Technology Foundation</aff></contrib><contrib contrib-type="author"><name><surname>D&#x02019;Aquila</surname><given-names>Richard</given-names></name><aff>Vanderbilt University</aff></contrib><contrib contrib-type="author"><name><surname>Vella</surname><given-names>Stefano</given-names></name><aff>Istituto Superiore de Sanita</aff></contrib><contrib contrib-type="author"><name><surname>Merigan</surname><given-names>Thomas</given-names></name><aff>Stanford University</aff></contrib><contrib contrib-type="author"><name><surname>Hirsch</surname><given-names>Martin</given-names></name><aff>Harvard Medical School</aff></contrib></contrib-group></collab><xref ref-type="author-notes" rid="fn1">
+<sup>&#x000b6;</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Vanderbilt University School of Medicine,
+Nashville, Tennessee, United States of America</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Massachusetts General Hospital/Harvard
+University, Boston, Massachusetts, United States of America</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Stanford University Medical Center, Stanford,
+California, United States of America</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>University of California Davis, Sacramento,
+California, United States of America</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Unutmaz</surname><given-names>Derya</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">
+<addr-line>New York University, United States of
+America</addr-line>
+</aff><author-notes><corresp id="cor1">* E-mail: <email>todd.hulgan@vanderbilt.edu</email></corresp><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have read the journal&#x02019;s policy and have the following
+conflicts: TH has received research support from Merck. GKR has received
+research support from Gilead Sciences, Schering-Plough. DWH has received
+research grants from Boehringer-Ingelheim, Bristol-Myers Squibb, Gilead
+Sciences, and Merck, and has served as a consultant for
+Boehringer-Ingelheim. AIDS Clinical Trials Group (ACTG) Study 384 was also
+supported in part by Agouron/Pfizer, Bristol Myers Squibb, and
+GlaxoSmithKline. This does not alter the authors&#x02019; adherence to all the
+PLOS ONE policies on sharing data and materials.</p></fn><fn fn-type="con"><p>Conceived and designed the experiments: TH GKR SAK DCS RS DGM DWH RBP.
+Performed the experiments: GKR DCS BG RS DS RBP. Analyzed the data: TH DCS
+BG DS. Contributed reagents/materials/analysis tools: TH DCS BG DS. Wrote
+the paper: TH GKR DCS RBP. Critically revised the manuscript: TH GKR SAK DCS
+BG RS DGM DS DWH RBP. Approved the final version to be published: TH GKR SAK
+DCS BG RS DGM DS DWH RBP.</p></fn><fn id="fn1" fn-type="other"><p>&#x000b6; Membership of the AIDS Clinical Trials Group is provided in the
+Acknowledgments.</p></fn></author-notes><pub-date pub-type="collection"><year>2012</year></pub-date><pub-date pub-type="epub"><day>27</day><month>8</month><year>2012</year></pub-date><volume>7</volume><issue>8</issue><elocation-id>e43803</elocation-id><history><date date-type="received"><day>30</day><month>3</month><year>2012</year></date><date date-type="accepted"><day>26</day><month>7</month><year>2012</year></date></history><permissions><copyright-statement>&#x000a9; 2012 Hulgan et al</copyright-statement><copyright-year>2012</copyright-year><copyright-holder>Hulgan et al</copyright-holder><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Introduction</title><p>Mitochondrial function influences T cell dynamics and is affected by
+mitochondrial DNA (mtDNA) variation. We previously reported an association
+between African mtDNA haplogroup L2 and less robust CD4 cell recovery on
+antiretroviral therapy (ART) in non-Hispanic black ACTG 384 subjects. We
+explored whether additional T cell parameters in this cohort differed by
+mtDNA haplogroup.</p></sec><sec><title>Methods</title><p>ACTG 384 randomized ART-na&#x000ef;ve subjects to two different nucleoside
+regimens with efavirenz, nelfinavir, or both. CD4 and CD8 memory and
+activation markers were available at baseline and week 48 on most subjects.
+mtDNA sequencing was performed on whole blood DNA, and haplogroups were
+determined. We studied non-Hispanic black subjects with HIV RNA &#x0003c;400
+copies/mL at week 48. Analyses included Wilcoxon ranksum test and linear
+regression.</p></sec><sec><title>Results</title><p>Data from 104 subjects were included. Major African mtDNA haplogroups
+included L1 (N&#x0200a;=&#x0200a;25), L2 (N&#x0200a;=&#x0200a;31),
+and L3 (N&#x0200a;=&#x0200a;32). Baseline age, HIV RNA, and CD4 cells
+did not differ between L2 and non-L2 haplogroups. Compared to non-L2
+haplogroups, L2 subjects had lower baseline activated CD4 cells (median
+12% vs. 17%; p&#x0200a;=&#x0200a;0.03) and tended toward
+lower activated CD8 cells (41% vs. 47%;
+p&#x0200a;=&#x0200a;0.06). At 48 weeks of ART, L2 subjects had smaller
+decreases in activated CD4 cells (&#x02212;4% vs. &#x02212;11%;
+p&#x0200a;=&#x0200a;0.01), and smaller CD4 cell increases (+95 vs.
++178; p&#x0200a;=&#x0200a;0.002). In models adjusting for baseline
+age, CD4 cells, HIV RNA, and na&#x000ef;ve-to-memory CD4 cell ratio, haplogroup
+L2 was associated with lower baseline (p&#x0200a;=&#x0200a;0.04) and
+48-week change in (p&#x0200a;=&#x0200a;0.01) activated CD4 cells.</p></sec><sec><title>Conclusions</title><p>Among ART-na&#x000ef;ve non-Hispanic blacks, mtDNA haplogroup L2 was associated
+with baseline and 48-week change in T cell activation, and poorer CD4 cell
+recovery. These data suggest mtDNA variation may influence CD4 T cell
+dynamics by modulating T cell activation. Further study is needed to
+replicate these associations and identify mechanisms.</p></sec></abstract><funding-group><funding-statement>Funding for the genomic sequencing was provided by the National
+Institutes of Health (NIH)/National Institute of Neurological Diseases and
+Stroke grant NS059330. The project described was also supported by Award Number
+U01AI068636 from the National Institute of Allergy and Infectious Diseases and
+supported by National Institute of Mental Health (NIMH), and National Institute
+of Dental and Craniofacial Research (NIDCR). AIDS Clinical Trials Group (ACTG)
+Study 384 was also supported by grant AI38858, and by Agouron/Pfizer, Bristol
+Myers Squibb, and GlaxoSmithKline. The ACTG sites contributing DNA for these
+analyses were funded by NIH grants AI069513, AI34835, AI069432, AI069423,
+AI069477, AI069501, AI069474, AI069428, AI69467, AI069415, Al32782, AI27661,
+AI25859, AI069495, AI069471, AI069532, AI069452, AI069450, AI069556, AI069484,
+AI069472, AI34853, AI069465, AI069511, AI38844, AI069424, AI069434, AI46370,
+AI069502, and AI069419. The ACTG Human DNA Repository is also supported in part
+by the National Center for Advancing Translational Sciences of the National
+Institutes of Health under Award Number UL1 TR000445. Additional NIH grant
+support included: AI077505, AI54999, HL087726, AI69495, 5T32GM80178 and
+AI062435. The content is solely the responsibility of the authors and does not
+necessarily represent the official views of the National Institute of Allergy
+and Infectious Diseases or the National Institutes of Health. The funders had no
+role in study design, data collection and analysis, decision to publish, or
+preparation of the manuscript.</funding-statement></funding-group><counts><page-count count="8"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>The CD4<sup>+</sup> T-lymphocyte is the primary cellular target of HIV, and the
+absolute CD4<sup>+</sup> T lymphocyte count is a reliable determinant of
+disease progression and opportunistic infection risk among HIV-infected persons. The
+CD4 count is also a major factor in the decision to initiate antiretroviral therapy
+(ART) in asymptomatic HIV-infected individuals <xref rid="pone.0043803-Kitahata1" ref-type="bibr">[1]</xref>. After initiating ART, there
+is substantial interindividual variability in the rate and magnitude of CD4 recovery
+<xref rid="pone.0043803-Gutierrez1" ref-type="bibr">[2]</xref>. Many
+ART-treated patients (as many as 30%) fail to attain substantial increases in
+CD4 count <xref rid="pone.0043803-Gutierrez1" ref-type="bibr">[2]</xref>&#x02013;<xref rid="pone.0043803-Gazzola1" ref-type="bibr">[3]</xref>, and poorer CD4 count responses on ART are associated with
+disease progression despite adequate virologic responses <xref rid="pone.0043803-Gutierrez1" ref-type="bibr">[2]</xref>, <xref rid="pone.0043803-Grabar1" ref-type="bibr">[4]</xref>. Host genetic variation appears
+to play a role in CD4 count recovery. Studies have suggested possible associations
+between CD4 count recovery on ART and single nucleotide polymorphisms (SNPs) in
+chemokine receptor <xref rid="pone.0043803-Rigato1" ref-type="bibr">[5]</xref>&#x02013;<xref rid="pone.0043803-Ahuja1" ref-type="bibr">[6]</xref>, human leukocyte antigen <xref rid="pone.0043803-Rauch1" ref-type="bibr">[7]</xref>&#x02013;<xref rid="pone.0043803-Soria1" ref-type="bibr">[8]</xref>, cytokine <xref rid="pone.0043803-Haas1" ref-type="bibr">[9]</xref>, and apoptosis-related <xref rid="pone.0043803-Nasi1" ref-type="bibr">[10]</xref> genes. These
+results highlight the possibility that an important host factor that influences
+HIV-infected CD4 cell turnover is regulation of apoptosis <xref rid="pone.0043803-Varbanov1" ref-type="bibr">[11]</xref>&#x02013;<xref rid="pone.0043803-Petit1" ref-type="bibr">[12]</xref>.</p><p>T cell activation is a highly energy-dependent process that is a hallmark of chronic
+HIV-1 infection and is a predictor of CD4 T cell recovery on ART <xref rid="pone.0043803-Hunt1" ref-type="bibr">[13]</xref>&#x02013;<xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref>. T cell
+activation is associated with cellular apoptosis <xref rid="pone.0043803-Gougeon1" ref-type="bibr">[18]</xref>&#x02013;<xref rid="pone.0043803-Gougeon2" ref-type="bibr">[20]</xref> and can be attenuated with
+ART, but not completely or to the same degree in all persons <xref rid="pone.0043803-Nakanjako1" ref-type="bibr">[21]</xref>&#x02013;<xref rid="pone.0043803-Robbins1" ref-type="bibr">[22]</xref>. Given that mitochondria play
+critical roles in energy production, oxidative stress, and apoptosis, their
+importance in cellular immune responses and T cell turnover seems apparent. Indeed,
+the importance of mitochondria-mediated, intrinsic apoptotic pathways in normal T
+cell homeostasis <xref rid="pone.0043803-Bouillet1" ref-type="bibr">[23]</xref>&#x02013;<xref rid="pone.0043803-Grimaldi1" ref-type="bibr">[24]</xref>, and in dysregulated CD4 T cell recovery during HIV-1
+infection <xref rid="pone.0043803-Negredo1" ref-type="bibr">[25]</xref>
+have been described. Other investigations have identified associations between T
+cell activation and apoptosis that influence CD4 T cell depletion during HIV-1
+infection and are improved by ART <xref rid="pone.0043803-Badley1" ref-type="bibr">[26]</xref>&#x02013;<xref rid="pone.0043803-Johnson1" ref-type="bibr">[28]</xref>.</p><p>Within mtDNA, combinations of SNPs allow for categorization of individuals into
+haplogroups <xref rid="pone.0043803-Wallace1" ref-type="bibr">[29]</xref>.
+Haplogroups and other mtDNA variants have been associated with differences in
+mitochondrial function <xref rid="pone.0043803-GomezDuran1" ref-type="bibr">[30]</xref>&#x02013;<xref rid="pone.0043803-Brown1" ref-type="bibr">[31]</xref>, and the clinical relevance of haplogroups- and mtDNA
+variation in general- for disease risk is well described <xref rid="pone.0043803-DeBenedictis1" ref-type="bibr">[32]</xref>&#x02013;<xref rid="pone.0043803-Raule1" ref-type="bibr">[35]</xref>, Few studies
+have examined mitochondrial DNA (mtDNA) in T cell subsets in HIV-1-infected subjects
+in the absence of ART toxicity. One described decreased mtDNA quantity in activated
+(CD8&#x0003e;CD4) T cells compared with non-activated subsets from HIV-1 seroconverters
+<xref rid="pone.0043803-Casula1" ref-type="bibr">[36]</xref>. In
+another recent study, loss of mtDNA that correlated with activation was seen in CD8
+T cells of HIV-1-infected, ART-na&#x000ef;ve subjects <xref rid="pone.0043803-Maagaard1" ref-type="bibr">[37]</xref>.</p><p>With respect to genotypic mtDNA variation, a study from the Multicenter AIDS Cohort
+Study (MACS) recently reported that mtDNA variants were associated with progression
+to AIDS and/or death in untreated, HIV-1-infected Caucasians <xref rid="pone.0043803-Hendrickson1" ref-type="bibr">[38]</xref>. We previously reported
+associations between several mtDNA SNPs- and with the major African mtDNA haplogroup
+L2 defined by several of these SNPs- and magnitude of CD4 T cell recovery after ART
+initiation in non-Hispanic black participants in AIDS Clinical Trials Group (ACTG)
+study 384 <xref rid="pone.0043803-Grady1" ref-type="bibr">[39]</xref>. It
+is plausible that functional variation in mtDNA would influence T cell dynamics such
+as apoptosis in response to environmental stressors (e.g. HIV infection and/or ART).
+We hypothesized that among individuals with control of HIV replication following
+initiation of ART, mtDNA variation would influence CD4 count recovery through
+mechanisms that modulate the efficiency of CD4 cell proliferation, one of these
+being T cell activation. In ACTG 384, persistent T cell activation was associated
+with impaired CD4 recovery <xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref>. To more fully characterize relationships between
+mitochondrial genomics, T cell activation, and CD4 count recovery, we utilized mtDNA
+sequence data and comprehensive immunologic data from a subset of ACTG 384
+participants.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><sec id="s2a"><title>Ethics Statement</title><p>All ACTG 384 sites obtained local institutional review board (IRB) approval, and
+all study subjects provided written, informed consent. The ACTG Human DNA
+Repository (HDR) protocol (A5128) underwent separate IRB review at each ACTG
+site, and subjects provided separate written, informed consent for inclusion of
+samples in the HDR. The Vanderbilt Committee for the Protection of Human
+Subjects and the ACTG approved the use of de-identified genetic and clinical
+data used in these analyses.</p></sec><sec id="s2b"><title>Study Population</title><p>ACTG 384 (NCT00000919) was a multicenter, double-blind, prospective randomized
+clinical trial comparing the efficacy of ART regimens consisting of three or
+four drugs in antiretroviral-na&#x000ef;ve adults <xref rid="pone.0043803-Robbins2" ref-type="bibr">[40]</xref>&#x02013;<xref rid="pone.0043803-Shafer1" ref-type="bibr">[41]</xref>.
+Participants were randomized to one of six treatment arms consisting of either
+didanosine and stavudine or zidovudine and lamivudine combined with either
+efavirenz, nelfinavir of both. A secondary end point of ACTG 384 was change in
+CD4 cell count from baseline over 48, 96 and 144 weeks. A subset of individuals
+underwent comprehensive immunologic assessments including proportions of memory
+(CD45RO+/CD45RA&#x02212;) and na&#x000ef;ve (CD45RA+/CD62L+) CD4 cells
+and activated (CD38+/HLA-DR+) T cells by flow cytometry <xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref>. Baseline
+characteristics for the subjects undergoing comprehensive immunologic
+assessments were not different than the overall study population, with the
+exception of inclusion of fewer Hispanic individuals <xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref>. For the current study,
+absolute CD4 counts and immunologic T cell assessments at baseline and week 48
+from self-reported non-Hispanic black ACTG 384 participants who consented to
+provide DNA to the ACTG HDR <xref rid="pone.0043803-Haas2" ref-type="bibr">[42]</xref> were analyzed. Individuals with HIV-1 RNA &#x02265;400
+copies/mL at week 48 were excluded from analyses. Previous publications have
+reported results from genetic association analysis in the ACTG 384 cohort, and
+demonstrated no significant differences between ACTG participants who provided
+DNA as part of the HDR and those who did not <xref rid="pone.0043803-Hulgan1" ref-type="bibr">[43]</xref>&#x02013;<xref rid="pone.0043803-Motsinger1" ref-type="bibr">[45]</xref>.</p></sec><sec id="s2c"><title>Mitochondrial DNA Isolation and Sequencing</title><p>DNA was isolated from study participants using PUREGENE (Gentra Systems Inc.,
+Minneapolis, MN, USA). Full mtDNA sequencing was performed using the GeneChip
+Human Mitochondrial Resequencing Array v2.0 (Affymetrix, Inc., Santa Clara, CA,
+USA) <xref rid="pone.0043803-Maitra1" ref-type="bibr">[46]</xref>.
+Mitochondrial DNA variants were defined by comparison with the revised Cambridge
+Reference Sequence (rCRS) <xref rid="pone.0043803-Andrews1" ref-type="bibr">[47]</xref>. Haplogroups were assigned using Herrnstadt
+classification <xref rid="pone.0043803-Herrnstadt1" ref-type="bibr">[48]</xref>, and collapsed into higher branch haplogroups for
+analyses.</p></sec><sec id="s2d"><title>Statistical Analysis</title><p>The primary outcome of interest was change in percentage CD4 cell activation at
+week 48. Additional outcomes of interest included baseline and 48 week changes
+in other CD4 cell immunologic parameters, and CD8 cell counts and activation.
+Baseline parameters were compared by haplogroups using Wilcoxon ranksum,
+Fisher&#x02019;s exact, or chi-squared tests as appropriate. Wilcoxon ranksum test
+was used to compare distribution of the outcomes by major African mtDNA
+haplogroups. Multivariate linear regression was used to assess associations
+between mtDNA haplogroups and CD4 cell activation adjusting for baseline age,
+absolute CD4 count, HIV RNA, and na&#x000ef;ve-to-memory CD4 cell ratio. In the
+primary and immunologic analyses of ACTG 384 <xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref>, <xref rid="pone.0043803-Robbins2" ref-type="bibr">[40]</xref>, ART regimen was not found
+to be a significant predictor of CD4 cell recovery following ART initiation and
+thus was not adjusted for during analysis. Secondary outcomes included an
+increase of &#x02265;100 CD4 cells/mm<sup>3</sup> at week 48. In order to maximize
+power, primary analyses compared non-Hispanic black persons belonging to the L2
+major haplogroup with all other non-Hispanic blacks. We also explored
+differences between L2 and other individual major haplogroups L1 and L3.
+Analyses were performed using STATA/SE 10.1 (StataCorp, College Station,
+TX).</p></sec></sec><sec id="s3"><title>Results</title><p>ACTG 384 enrolled a total of 980 participants, 35% of whom were
+self-identified non-Hispanic black race/ethnicity <xref rid="pone.0043803-Robbins2" ref-type="bibr">[40]</xref>. Of these, 623 (64%)
+underwent comprehensive immunophenotyping; 39% of non-Hispanic black
+race/ethnicity <xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref>. For initial mtDNA analyses, 423 participants (126
+[30%] non-Hispanic black) had mtDNA sequencing that passed all
+genotyping quality filters, HIV RNA &#x0003c;400 copies/mL at week 48, and CD4 cell
+counts available <xref rid="pone.0043803-Grady1" ref-type="bibr">[39]</xref>. Analyses presented here include 104 of these 126
+non-Hispanic black participants with available T cell activation data. Baseline
+demographics, T cell immunologic assessments, and randomized ART for these subjects
+are shown in <xref ref-type="table" rid="pone-0043803-t001">Table 1</xref>. The
+median age was 37 years (range 17, 72). Median baseline CD4 count was 283
+cells/mm<sup>3</sup> (interquartile range [IQR] 111, 453);
+log<sub>10</sub> HIV-1 copies/mL was 4.8 (IQR 4.1, 5.4), and percentage
+activated CD4 and CD8 cells were 15 (IQR 8, 29) and 45 (IQR 33, 58), respectively.
+Baseline na&#x000ef;ve-to-memory cell ratio was available for 91 (88%) subjects,
+with a median of 0.47 (IQR 0.19, 0.87) among these. CD4 cells correlated with
+percentage activated CD4 cells at baseline (rho&#x0200a;=&#x0200a;&#x02212;0.68;
+p&#x0003c;0.001) and week 48 (&#x02212;0.53; p&#x0003c;0.001).</p><table-wrap id="pone-0043803-t001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0043803.t001</object-id><label>Table 1</label><caption><title>Baseline demographic data, T cell parameters, HIV RNA, and ART
+randomization arms among the black, non-Hispanic ACTG 384 population with
+baseline CD4 activation markers and 48 week HIV RNA &#x0003c;400 copies/mL, total
+and by African L2 and non-L2 mtDNA haplogroups.</title></caption><alternatives><graphic id="pone-0043803-t001-1" xlink:href="pone.0043803.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Parameter</td><td align="left" rowspan="1" colspan="1">Total (N&#x0200a;=&#x0200a;104)</td><td align="left" rowspan="1" colspan="1">L2 (N&#x0200a;=&#x0200a;31)</td><td align="left" rowspan="1" colspan="1">Non-L2 (N&#x0200a;=&#x0200a;73)</td><td align="left" rowspan="1" colspan="1">p-value<xref ref-type="table-fn" rid="nt102">a</xref>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (years)</td><td align="left" rowspan="1" colspan="1">37 (32, 46)</td><td align="left" rowspan="1" colspan="1">35 (31, 43)</td><td align="left" rowspan="1" colspan="1">39 (32, 46)</td><td align="left" rowspan="1" colspan="1">0.44</td></tr><tr><td align="left" rowspan="1" colspan="1">Female sex, N (%)</td><td align="left" rowspan="1" colspan="1">29 (28)</td><td align="left" rowspan="1" colspan="1">6 (19)</td><td align="left" rowspan="1" colspan="1">23 (32)</td><td align="left" rowspan="1" colspan="1">0.24</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4+ (cells/mm<sup>3</sup>)</td><td align="left" rowspan="1" colspan="1">283 (111, 453)</td><td align="left" rowspan="1" colspan="1">299 (117, 469)</td><td align="left" rowspan="1" colspan="1">280 (105, 420)</td><td align="left" rowspan="1" colspan="1">0.63</td></tr><tr><td align="left" rowspan="1" colspan="1">Na&#x000ef;ve CD4+ (cells/mm<sup>3</sup>)
+[N&#x0200a;=&#x0200a;95]<xref ref-type="table-fn" rid="nt103">b</xref>
+</td><td align="left" rowspan="1" colspan="1">78 (14, 168)</td><td align="left" rowspan="1" colspan="1">60 (16, 139)</td><td align="left" rowspan="1" colspan="1">86 (14, 186)</td><td align="left" rowspan="1" colspan="1">0.47</td></tr><tr><td align="left" rowspan="1" colspan="1">Memory CD4+ (cells/mm<sup>3</sup>)
+[N&#x0200a;=&#x0200a;91]<xref ref-type="table-fn" rid="nt103">b</xref>
+</td><td align="left" rowspan="1" colspan="1">154 (53, 238)</td><td align="left" rowspan="1" colspan="1">154 (97, 352)</td><td align="left" rowspan="1" colspan="1">154 (41, 217)</td><td align="left" rowspan="1" colspan="1">0.37</td></tr><tr><td align="left" rowspan="1" colspan="1">Na&#x000ef;ve/memory CD4+ cell
+[N&#x0200a;=&#x0200a;91]<xref ref-type="table-fn" rid="nt103">b</xref>
+</td><td align="left" rowspan="1" colspan="1">0.47 (0.19, 0.87)</td><td align="left" rowspan="1" colspan="1">0.41 (0.13, 0.72)</td><td align="left" rowspan="1" colspan="1">0.48 (0.22, 1.00)</td><td align="left" rowspan="1" colspan="1">0.32</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4+ CD38+/DR+ (cells)
+[N&#x0200a;=&#x0200a;95]<xref ref-type="table-fn" rid="nt103">b</xref>
+</td><td align="left" rowspan="1" colspan="1">31 (15, 46)</td><td align="left" rowspan="1" colspan="1">25 (15, 40)</td><td align="left" rowspan="1" colspan="1">34 (17, 51)</td><td align="left" rowspan="1" colspan="1">0.11</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4+ CD38+/DR+ (%)</td><td align="left" rowspan="1" colspan="1">15 (8, 29)</td><td align="left" rowspan="1" colspan="1">12 (6, 22)</td><td align="left" rowspan="1" colspan="1">17 (8, 32)</td><td align="left" rowspan="1" colspan="1">0.03</td></tr><tr><td align="left" rowspan="1" colspan="1">CD8+ (cells/mm<sup>3</sup>)</td><td align="left" rowspan="1" colspan="1">777 (471, 1212)</td><td align="left" rowspan="1" colspan="1">907 (436, 1349)</td><td align="left" rowspan="1" colspan="1">775 (481, 1101)</td><td align="left" rowspan="1" colspan="1">0.80</td></tr><tr><td align="left" rowspan="1" colspan="1">CD8+ CD38+/DR+ (cells)
+[N&#x0200a;=&#x0200a;95]<xref ref-type="table-fn" rid="nt103">b</xref>
+</td><td align="left" rowspan="1" colspan="1">315 (183, 548)</td><td align="left" rowspan="1" colspan="1">301 (137, 521)</td><td align="left" rowspan="1" colspan="1">343 (221, 548)</td><td align="left" rowspan="1" colspan="1">0.34</td></tr><tr><td align="left" rowspan="1" colspan="1">CD8+ CD38+/DR+ (%)</td><td align="left" rowspan="1" colspan="1">45 (33, 58)</td><td align="left" rowspan="1" colspan="1">41 (26, 54)</td><td align="left" rowspan="1" colspan="1">47 (35, 59)</td><td align="left" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">HIV RNA</td><td align="left" rowspan="1" colspan="1">4.8 (4.1, 5.4)</td><td align="left" rowspan="1" colspan="1">4.8 (4.1, 5.3)</td><td align="left" rowspan="1" colspan="1">4.8 (4.0, 5.4)</td><td align="left" rowspan="1" colspan="1">0.79</td></tr><tr><td align="left" rowspan="1" colspan="1">Randomized ART, N (%)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ZDV+3TC<xref ref-type="table-fn" rid="nt104">c</xref>
+</td><td align="left" rowspan="1" colspan="1">56 (54)</td><td align="left" rowspan="1" colspan="1">20 (65)</td><td align="left" rowspan="1" colspan="1">36 (49)</td><td align="left" rowspan="1" colspan="1">0.20</td></tr><tr><td align="left" rowspan="1" colspan="1">NFV</td><td align="left" rowspan="1" colspan="1">17 (30)</td><td align="left" rowspan="1" colspan="1">6 (30)</td><td align="left" rowspan="1" colspan="1">11 (31)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">EFV</td><td align="left" rowspan="1" colspan="1">16 (29)</td><td align="left" rowspan="1" colspan="1">5 (25)</td><td align="left" rowspan="1" colspan="1">11 (31)</td><td align="left" rowspan="1" colspan="1">0.88</td></tr><tr><td align="left" rowspan="1" colspan="1">NFV+EFV</td><td align="left" rowspan="1" colspan="1">23 (41)</td><td align="left" rowspan="1" colspan="1">9 (45)</td><td align="left" rowspan="1" colspan="1">14 (39)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ddI+d4T<xref ref-type="table-fn" rid="nt104">c</xref>
+</td><td align="left" rowspan="1" colspan="1">48 (46)</td><td align="left" rowspan="1" colspan="1">11 (35)</td><td align="left" rowspan="1" colspan="1">37 (51)</td><td align="left" rowspan="1" colspan="1">0.20</td></tr><tr><td align="left" rowspan="1" colspan="1">NFV</td><td align="left" rowspan="1" colspan="1">13 (27)</td><td align="left" rowspan="1" colspan="1">4 (36)</td><td align="left" rowspan="1" colspan="1">9 (24)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">EFV</td><td align="left" rowspan="1" colspan="1">16 (33)</td><td align="left" rowspan="1" colspan="1">6 (55)</td><td align="left" rowspan="1" colspan="1">10 (29)</td><td align="left" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">NFV+EFV</td><td align="left" rowspan="1" colspan="1">19 (40)</td><td align="left" rowspan="1" colspan="1">1 (9)</td><td align="left" rowspan="1" colspan="1">18 (49)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><p>Data are median (IQR) except where noted.</p></fn><fn id="nt102"><label>a</label><p>Wilcoxon ranksum, Fisher&#x02019;s exact, or Pearson Chi<sup>2</sup> tests,
+L2 vs. non-L2;</p></fn><fn id="nt103"><label>b</label><p>N with available baseline data shown;</p></fn><fn id="nt104"><label>c</label><p>p-values for NRTI backbone comparison shown.</p></fn></table-wrap-foot></table-wrap><p>Haplogroup distributions (including subhaplogroups) are shown in <xref ref-type="table" rid="pone-0043803-t002">Table 2</xref>. Major African
+haplogroups included L1 (N&#x0200a;=&#x0200a;25 [24%]), L2
+(N&#x0200a;=&#x0200a;31 [30%]), and L3 (32
+[31%]). Non-African haplogroups were observed in 14 (13%)
+individuals included in analyses of non-L2 comparison groups. Secondary analyses
+limited to persons having African haplogroups yielded similar results (data not
+shown). Baseline age, absolute CD4 count, and plasma HIV RNA were not statistically
+different between haplogroup L2 individuals and others (<xref ref-type="table" rid="pone-0043803-t001">Table 1</xref>). Randomized NRTIs did not differ
+statistically by haplogroup (p&#x0200a;=&#x0200a;0.20), but L2 individuals
+randomized to didanosine plus stavudine tended to be randomized to the efavirenz arm
+more often than non-L2 individuals (p&#x0200a;=&#x0200a;0.06).</p><table-wrap id="pone-0043803-t002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0043803.t002</object-id><label>Table 2</label><caption><title>Mitochondrial DNA haplogroup frequencies among black, non-Hispanic ACTG
+384 participants.</title></caption><alternatives><graphic id="pone-0043803-t002-2" xlink:href="pone.0043803.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Haplogroup/Subhaplogroup- N (%)<xref ref-type="table-fn" rid="nt105">a</xref>
+</td><td align="left" rowspan="1" colspan="1">Total non-Hispanic black with mtDNA sequence data
+(N&#x0200a;=&#x0200a;126) <xref rid="pone.0043803-Grady1" ref-type="bibr">[39]</xref>
+</td><td align="left" rowspan="1" colspan="1">Non-Hispanic black with mtDNA sequence and baseline
+CD4+ activation data (N&#x0200a;=&#x0200a;104)</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">African Haplogroups</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">L1</td><td align="left" rowspan="1" colspan="1">31 (25)</td><td align="left" rowspan="1" colspan="1">25 (24)</td></tr><tr><td align="left" rowspan="1" colspan="1">L1a</td><td align="left" rowspan="1" colspan="1">7 (6)</td><td align="left" rowspan="1" colspan="1">4 (4)</td></tr><tr><td align="left" rowspan="1" colspan="1">L1b</td><td align="left" rowspan="1" colspan="1">10 (8)</td><td align="left" rowspan="1" colspan="1">9 (9)</td></tr><tr><td align="left" rowspan="1" colspan="1">L1c</td><td align="left" rowspan="1" colspan="1">14 (11)</td><td align="left" rowspan="1" colspan="1">12 (12)</td></tr><tr><td align="left" rowspan="1" colspan="1">L1/L2</td><td align="left" rowspan="1" colspan="1">2 (2)</td><td align="left" rowspan="1" colspan="1">2 (2)</td></tr><tr><td align="left" rowspan="1" colspan="1">L2</td><td align="left" rowspan="1" colspan="1">40 (32)</td><td align="left" rowspan="1" colspan="1">31 (30)</td></tr><tr><td align="left" rowspan="1" colspan="1">L2a</td><td align="left" rowspan="1" colspan="1">25 (20)</td><td align="left" rowspan="1" colspan="1">22 (21)</td></tr><tr><td align="left" rowspan="1" colspan="1">L2b</td><td align="left" rowspan="1" colspan="1">15 (12)</td><td align="left" rowspan="1" colspan="1">9 (9)</td></tr><tr><td align="left" rowspan="1" colspan="1">L3</td><td align="left" rowspan="1" colspan="1">36 (29)<xref ref-type="table-fn" rid="nt106">b</xref>
+</td><td align="left" rowspan="1" colspan="1">32 (31)<xref ref-type="table-fn" rid="nt106">b</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">L3b</td><td align="left" rowspan="1" colspan="1">12 (10)</td><td align="left" rowspan="1" colspan="1">11 (11)</td></tr><tr><td align="left" rowspan="1" colspan="1">L3e</td><td align="left" rowspan="1" colspan="1">8 (6)</td><td align="left" rowspan="1" colspan="1">7 (7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Non-African Haplogroups</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">4 (3)</td><td align="left" rowspan="1" colspan="1">3 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">H2</td><td align="left" rowspan="1" colspan="1">4 (3)</td><td align="left" rowspan="1" colspan="1">4 (4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Others<xref ref-type="table-fn" rid="nt107">c</xref>
+</td><td align="left" rowspan="1" colspan="1">9 (7)</td><td align="left" rowspan="1" colspan="1">7 (7)</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt105"><label>a</label><p>Totals may not &#x0200a;=&#x0200a;100% due to rounding;</p></fn><fn id="nt106"><label>b</label><p>Total includes haplogroup L3, not sub-haplogrouped;</p></fn><fn id="nt107"><label>c</label><p>Includes haplogroups H, I, J1, T1, T2b, U6, U9 (N&#x02264;2 each).</p></fn></table-wrap-foot></table-wrap><p>When comparing mtDNA haplogroup L2 with all other haplogroups (<xref ref-type="table" rid="pone-0043803-t001">Table 1</xref>), baseline median percentage activated
+(CD38+/HLA-DR+) CD4 cells was significantly lower (12% [IQR 6,
+22] vs. 17% <xref rid="pone.0043803-Soria1" ref-type="bibr">[8]</xref>, <xref rid="pone.0043803-DeBenedictis1" ref-type="bibr">[32]</xref>; p&#x0200a;=&#x0200a;0.03) in persons belonging to
+the L2 haplogroup. Median absolute activated CD4 cells was lower (25 <xref rid="pone.0043803-Goicoechea1" ref-type="bibr">[15]</xref>, <xref rid="pone.0043803-Robbins2" ref-type="bibr">[40]</xref> vs. 34 <xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref>, <xref rid="pone.0043803-Miura1" ref-type="bibr">[51]</xref>
+cells/mm<sup>3</sup>; p&#x0200a;=&#x0200a;0.11), but was not statistically
+different. Median percentage activated CD8 cells also tended to be lower (41%
+<xref rid="pone.0043803-Badley1" ref-type="bibr">[26]</xref>, <xref rid="pone.0043803-Karamchand1" ref-type="bibr">[54]</xref> vs.
+47% <xref rid="pone.0043803-Raule1" ref-type="bibr">[35]</xref>,
+<xref rid="pone.0043803-Geromel1" ref-type="bibr">[59]</xref>;
+p&#x0200a;=&#x0200a;0.06). After 48 weeks of ART, median CD4 cells was not
+statistically different in the L2 versus non-L2 haplogroups (399 [IQR 168,
+670] vs. 472 [292, 732]; p&#x0200a;=&#x0200a;0.13; <xref ref-type="table" rid="pone-0043803-t003">Table 3</xref>). However, the median
+change from baseline was significantly less among L2 versus non-L2 haplogroups
+(+95 [&#x02212;3, +182] cells vs. +178 [+105,
++312]; p&#x0200a;=&#x0200a;0.002; <xref ref-type="fig" rid="pone-0043803-g001">Figure 1A</xref>). Similarly, although 48 week
+percentage activated CD4 cells did not differ (7% <xref rid="pone.0043803-Grabar1" ref-type="bibr">[4]</xref>, <xref rid="pone.0043803-Varbanov1" ref-type="bibr">[11]</xref> vs. 6% <xref rid="pone.0043803-Grabar1" ref-type="bibr">[4]</xref>, <xref rid="pone.0043803-Haas1" ref-type="bibr">[9]</xref>;
+p&#x0200a;=&#x0200a;0.57), the median change in percentage activated CD4 cells
+was significantly less in the L2 compared with the non-L2 haplogroups
+(&#x02212;4% [&#x02212;8, &#x02212;2] vs. &#x02212;11%
+[&#x02212;26, &#x02212;4]; p&#x0200a;=&#x0200a;0.01; <xref ref-type="fig" rid="pone-0043803-g001">Figure 1B</xref>). Correlations between CD4 cells and
+percentage activated CD4 cells at baseline and week 48 were similar among L2 and
+non-L2 haplogroups (data not shown).</p><table-wrap id="pone-0043803-t003" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0043803.t003</object-id><label>Table 3</label><caption><title>T cell parameters at 48 weeks and 48 week changes among the black,
+non-Hispanic ACTG 384 population with baseline CD4 activation markers and 48
+week HIV RNA &#x0003c;400 copies/mL, total and by African L2 and non-L2 mtDNA
+haplogroups.</title></caption><alternatives><graphic id="pone-0043803-t003-3" xlink:href="pone.0043803.t003"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Parameter</td><td align="left" rowspan="1" colspan="1">Total non-Hispanic black
+(N&#x0200a;=&#x0200a;104)</td><td colspan="2" align="left" rowspan="1">L2 (N&#x0200a;=&#x0200a;31)</td><td colspan="2" align="left" rowspan="1">Non-L2
+(N&#x0200a;=&#x0200a;73)</td><td align="left" rowspan="1" colspan="1">p-value<xref ref-type="table-fn" rid="nt109">a</xref>
+</td></tr></thead><tbody><tr><td colspan="7" align="left" rowspan="1">
+<bold>Week 48</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4+ (cells/mm<sup>3</sup>)</td><td align="left" rowspan="1" colspan="1">460 (230, 711)</td><td colspan="2" align="left" rowspan="1">399 (168, 670)</td><td colspan="2" align="left" rowspan="1">472 (292, 732)</td><td align="left" rowspan="1" colspan="1">0.13</td></tr><tr><td align="left" rowspan="1" colspan="1">Na&#x000ef;ve CD4+ (cells/mm<sup>3</sup>)
+[N&#x0200a;=&#x0200a;98]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td align="left" rowspan="1" colspan="1">148 (70, 323)</td><td colspan="2" align="left" rowspan="1">96 (48, 253)</td><td colspan="2" align="left" rowspan="1">165 (79, 346)</td><td align="left" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">Memory CD4+ (cells/mm<sup>3</sup>)
+[N&#x0200a;=&#x0200a;98]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td align="left" rowspan="1" colspan="1">247 (133, 326)</td><td colspan="2" align="left" rowspan="1">228 (113, 359)</td><td colspan="2" align="left" rowspan="1">251 (134, 317)</td><td align="left" rowspan="1" colspan="1">0.89</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4+ CD38+/DR+ (cells)
+[N&#x0200a;=&#x0200a;97]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td align="left" rowspan="1" colspan="1">24 (15, 43)</td><td colspan="2" align="left" rowspan="1">20 (12, 37)</td><td colspan="2" align="left" rowspan="1">24 (17, 44)</td><td align="left" rowspan="1" colspan="1">0.17</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4+ CD38+/DR+ (%)
+[N&#x0200a;=&#x0200a;97]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td align="left" rowspan="1" colspan="1">6 (4, 10)</td><td colspan="2" align="left" rowspan="1">7 (4, 11)</td><td colspan="2" align="left" rowspan="1">6 (4, 9)</td><td align="left" rowspan="1" colspan="1">0.57</td></tr><tr><td align="left" rowspan="1" colspan="1">CD8+ (cells/mm3)</td><td align="left" rowspan="1" colspan="1">812 (554, 1031)</td><td colspan="2" align="left" rowspan="1">726 (470&#x02013;914)</td><td colspan="2" align="left" rowspan="1">855 (575, 1072)</td><td align="left" rowspan="1" colspan="1">0.07</td></tr><tr><td align="left" rowspan="1" colspan="1">CD8+ CD38+/DR+ (cells)
+[N&#x0200a;=&#x0200a;99]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td align="left" rowspan="1" colspan="1">127 (88, 252)</td><td colspan="2" align="left" rowspan="1">115 (90, 182)</td><td colspan="2" align="left" rowspan="1">141 (88, 273)</td><td align="left" rowspan="1" colspan="1">0.34</td></tr><tr><td align="left" rowspan="1" colspan="1">CD8+ CD38+/DR+ (%)
+[N&#x0200a;=&#x0200a;112]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td align="left" rowspan="1" colspan="1">21 (13, 29)</td><td colspan="2" align="left" rowspan="1">20 (14, 28)</td><td colspan="2" align="left" rowspan="1">21 (11, 30)</td><td align="left" rowspan="1" colspan="1">0.87</td></tr><tr><td colspan="7" align="left" rowspan="1">
+<bold>Week 48-Week 0</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4+ change (cells/mm<sup>3</sup>)</td><td colspan="2" align="left" rowspan="1">+135 (+79, +271)</td><td colspan="2" align="left" rowspan="1">+95 (&#x02212;3, +182)</td><td align="left" rowspan="1" colspan="1">+178 (+105,+312)</td><td align="left" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">N (%) with &#x02265;100 CD4 cell increase</td><td colspan="2" align="left" rowspan="1">68 (65)</td><td colspan="2" align="left" rowspan="1">13 (42)</td><td align="left" rowspan="1" colspan="1">55 (75)</td><td align="left" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">Na&#x000ef;ve CD4+ change (cells)
+[N&#x0200a;=&#x0200a;90]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td colspan="2" align="left" rowspan="1">+74 (+29, +161)</td><td colspan="2" align="left" rowspan="1">+43 (+20, +80)</td><td align="left" rowspan="1" colspan="1">+87 (+31, +171)</td><td align="left" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">Memory CD4+ change (cells)
+[N&#x0200a;=&#x0200a;86]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td colspan="2" align="left" rowspan="1">+82 (+30, +135)</td><td colspan="2" align="left" rowspan="1">+50 (+15, +125)</td><td align="left" rowspan="1" colspan="1">+104 (+35, +139)</td><td align="left" rowspan="1" colspan="1">0.11</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4+ CD38+/DR+ change (cells)
+[N&#x0200a;=&#x0200a;89]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td colspan="2" align="left" rowspan="1">&#x02212;2.3 (&#x02212;18, +10)</td><td colspan="2" align="left" rowspan="1">&#x02212;4.5 (&#x02212;11.8,
++13.7)</td><td align="left" rowspan="1" colspan="1">&#x02212;2.3 (&#x02212;23.6, +7.5)</td><td align="left" rowspan="1" colspan="1">0.37</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4+ CD38+/DR+ change (%)
+[N&#x0200a;=&#x0200a;97]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td colspan="2" align="left" rowspan="1">&#x02212;8 (&#x02212;22, &#x02212;3)</td><td colspan="2" align="left" rowspan="1">&#x02212;4 (&#x02212;8, &#x02212;2)</td><td align="left" rowspan="1" colspan="1">&#x02212;11 (&#x02212;26, &#x02212;4)</td><td align="left" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">CD8+ change (cells/mm3)</td><td colspan="2" align="left" rowspan="1">&#x02212;67 (&#x02212;320, +223)</td><td colspan="2" align="left" rowspan="1">&#x02212;148 (&#x02212;540, +116)</td><td align="left" rowspan="1" colspan="1">&#x02212;61 (&#x02212;255, +260)</td><td align="left" rowspan="1" colspan="1">0.17</td></tr><tr><td align="left" rowspan="1" colspan="1">CD8+ CD38+/DR+ change (cells)
+[N&#x0200a;=&#x0200a;90]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td colspan="2" align="left" rowspan="1">&#x02212;188 (&#x02212;324, &#x02212;51)</td><td colspan="2" align="left" rowspan="1">&#x02212;143 (&#x02212;307, &#x02212;48)</td><td align="left" rowspan="1" colspan="1">&#x02212;204 (&#x02212;333, &#x02212;60)</td><td align="left" rowspan="1" colspan="1">0.46</td></tr><tr><td align="left" rowspan="1" colspan="1">CD8+ CD38+/DR+ change (%)
+[N&#x0200a;=&#x0200a;99]<xref ref-type="table-fn" rid="nt110">b</xref>
+</td><td colspan="2" align="left" rowspan="1">&#x02212;26 (&#x02212;33, &#x02212;13)</td><td colspan="2" align="left" rowspan="1">&#x02212;17 (&#x02212;33, &#x02212;10)</td><td align="left" rowspan="1" colspan="1">&#x02212;27 (&#x02212;33, &#x02212;17)</td><td align="left" rowspan="1" colspan="1">0.09</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt108"><p>Data are median (IQR) except where noted.</p></fn><fn id="nt109"><label>a</label><p>Wilcoxon ranksum, Fisher&#x02019;s exact, or Pearson Chi<sup>2</sup> tests,
+L2 vs. non-L2;</p></fn><fn id="nt110"><label>b</label><p>N with available data shown.</p></fn></table-wrap-foot></table-wrap><fig id="pone-0043803-g001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0043803.g001</object-id><label>Figure 1</label><caption><title>Scatter plots of 48 week changes in CD4 cells (Panel A), and percentage
+activated (CD38+/HLA-DR+) CD4 cells (Panel B).</title><p>Haplogroup L2 individuals had a significantly lower median increase in CD4
+cells and a lower decrease in percentage activated CD4 cells. Unadjusted
+p-values by Wilcoxon ranksum test shown. x-lines &#x0200a;=&#x0200a;
+median; dashed lines&#x0200a;=&#x0200a;25<sup>th</sup> and
+75<sup>th</sup> percentiles.</p></caption><graphic xlink:href="pone.0043803.g001"/></fig><p>Among other T cell measures, median na&#x000ef;ve CD4 cells
+(p&#x0200a;=&#x0200a;0.06) and absolute CD8 cell counts
+(p&#x0200a;=&#x0200a;0.07) at 48 weeks both tended to be lower among
+individuals belonging to the L2 haplogroup (<xref ref-type="table" rid="pone-0043803-t003">Table 3</xref>). Median week 48 increases in na&#x000ef;ve
+CD4 cells also tended to be lower (+43 [+20, +80] vs.
++87 [+31, +171]; p&#x0200a;=&#x0200a;0.06) among
+haplogroup L2 individuals, as were decreases in activated CD8 cells
+(&#x02212;17% [&#x02212;33, &#x02212;10]; &#x02212;27 [&#x02212;33,
+&#x02212;17]; p&#x0200a;=&#x0200a;0.09), but these differences were not
+statistically significant. As observed in our earlier study, <xref rid="pone.0043803-Grady1" ref-type="bibr">[39]</xref> persons in this sub-analysis
+belonging to haplogroup L2 were significantly less likely to have an increase of
+&#x02265;100 CD4 cells over the first 48 weeks of suppressive ART compared to non-L2
+individuals (42% vs. 75%; p&#x0200a;=&#x0200a;0.002).</p><p>In separate multivariate models, associations between mtDNA haplogroup L2 and
+baseline (pre-ART) and 48-week changes in percentage activated CD4 cells were
+assessed with adjustment for baseline age, absolute CD4 count, HIV RNA, and
+na&#x000ef;ve-to-memory CD4 cell ratio. <xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref> In both models, baseline CD4
+count was strongly associated with percentage activated CD4 cells (p&#x0003c;0.001; <xref ref-type="table" rid="pone-0043803-t004">Table 4</xref>). Haplogroup L2 was also
+associated with lower baseline (&#x003b2;&#x0200a;=&#x0200a;&#x02212;6.7
+[95% CI &#x02212;12.8, &#x02212;0.50]; p&#x0200a;=&#x0200a;0.035)
+and smaller 48-week change (&#x003b2;&#x0200a;=&#x0200a;7.5 [1.6,13.5];
+p&#x0200a;=&#x0200a;0.013) in percentage activated CD4 cells.</p><table-wrap id="pone-0043803-t004" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0043803.t004</object-id><label>Table 4</label><caption><title>Multivariate models of associations between baseline covariates,
+haplogroup L2, and percentage CD4 cell activation.</title></caption><alternatives><graphic id="pone-0043803-t004-4" xlink:href="pone.0043803.t004"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td colspan="2" align="left" rowspan="1">Model 1: Baseline % activated
+CD4 cells (N&#x0200a;=&#x0200a;91)</td><td colspan="2" align="left" rowspan="1">Model 2: 48 week change in %
+activated CD4 cells (N&#x0200a;=&#x0200a;85)</td></tr><tr><td align="left" rowspan="1" colspan="1">Covariates</td><td align="left" rowspan="1" colspan="1">&#x003b2; (95% CI)</td><td align="left" rowspan="1" colspan="1">p-value</td><td align="left" rowspan="1" colspan="1">&#x003b2; (95% CI)</td><td align="left" rowspan="1" colspan="1">p-value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (per year increase)</td><td align="left" rowspan="1" colspan="1">&#x02212;0.02 (&#x02212;0.29, +0.25)</td><td align="left" rowspan="1" colspan="1">0.88</td><td align="left" rowspan="1" colspan="1">+0.10 (&#x02212;0.15, +0.36)</td><td align="left" rowspan="1" colspan="1">0.42</td></tr><tr><td align="left" rowspan="1" colspan="1">Baseline plasma HIV RNA (per log<sub>10</sub>
+copies/mL increase)</td><td align="left" rowspan="1" colspan="1">+2.04 (&#x02212;1.53, +5.61)</td><td align="left" rowspan="1" colspan="1">0.26</td><td align="left" rowspan="1" colspan="1">&#x02212;2.11 (&#x02212;5.46, +1.23)</td><td align="left" rowspan="1" colspan="1">0.21</td></tr><tr><td align="left" rowspan="1" colspan="1">Na&#x000ef;ve-to-memory CD4 cell ratio (per unit
+increase)</td><td align="left" rowspan="1" colspan="1">&#x02212;0.46 (&#x02212;1.40, +0.48)</td><td align="left" rowspan="1" colspan="1">0.33</td><td align="left" rowspan="1" colspan="1">+0.24 (&#x02212;0.62, +1.10)</td><td align="left" rowspan="1" colspan="1">0.58</td></tr><tr><td align="left" rowspan="1" colspan="1">Baseline CD4 cells (per 10 cell increase)</td><td align="left" rowspan="1" colspan="1">&#x02212;0.40 (&#x02212;0.54, &#x02212;0.25)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">+0.27 (+0.13, +0.40)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Haplogroup L2 (vs. others)</td><td align="left" rowspan="1" colspan="1">&#x02212;6.67 (&#x02212;12.84, &#x02212;0.50)</td><td align="left" rowspan="1" colspan="1">0.035</td><td align="left" rowspan="1" colspan="1">+7.54 (+1.62, +13.46)</td><td align="left" rowspan="1" colspan="1">0.013</td></tr></tbody></table></alternatives></table-wrap></sec><sec id="s4"><title>Discussion</title><p>This analysis expands a previous study of mitochondrial genomic predictors of CD4
+cell recovery in ACTG Study 384 <xref rid="pone.0043803-Grady1" ref-type="bibr">[39]</xref>. Differences in T cell subsets and activation markers
+were observed within the African mtDNA haplogroup that also demonstrated impaired
+CD4 cell recovery despite suppressed HIV RNA after 48 weeks on ART. The most notable
+differences included lower CD4 cell activation at baseline despite similar absolute
+CD4 counts and HIV RNA, and less decrease in percentage activated CD4 cells together
+with a less robust increase in absolute CD4 cells after 48 weeks of ART (as was
+previously reported <xref rid="pone.0043803-Grady1" ref-type="bibr">[39]</xref>). There were also several intriguing trends- including in
+na&#x000ef;ve CD4 cell populations, and absolute and activated CD8 cell subsets- that
+did not reach statistical significance in this small sample but deserve additional
+study. Although replication in larger studies and mechanistic validation are needed
+to confirm these findings, we interpret these results as suggesting that mtDNA
+variation among these non-Hispanic black clinical trial participants influenced the
+magnitude of CD4 cell recovery in the first year after ART by modulating T cell
+activation through as-yet-unknown mechanisms. This modulation was independent of
+other baseline predictors of short-term CD4 recovery, including age, CD4 count, and
+na&#x000ef;ve-to-memory CD4 cell ratio.</p><p>The role of the mitochondrion as an apoptotic regulator is well recognized, and its
+specific relevance in T cells during HIV-infection has been studied <xref rid="pone.0043803-Garg1" ref-type="bibr">[49]</xref>. In a recent
+study, peripheral blood mononuclear cells (PBMCs) from HIV-infected long-term
+non-progressors demonstrated less mitochondrial dysfunction and
+mitochondria-mediated apoptosis than typical progressors <xref rid="pone.0043803-Peraire1" ref-type="bibr">[50]</xref>. Studies have also observed
+reduced mtDNA quantity in PBMCs from ART-na&#x000ef;ve, HIV-infected compared with
+HIV-negative individuals <xref rid="pone.0043803-Maagaard1" ref-type="bibr">[37]</xref>, <xref rid="pone.0043803-Miura1" ref-type="bibr">[51]</xref>. One study reported decreased mtDNA that correlated with
+increased T cell activation in chronically infected, untreated men <xref rid="pone.0043803-Casula1" ref-type="bibr">[36]</xref>. Another found
+decreased mitochondrial membrane potential and increased apoptosis in PBMCs from
+HIV-infected, ART-naive compared with uninfected subjects <xref rid="pone.0043803-Sternfeld1" ref-type="bibr">[52]</xref>&#x02013;<xref rid="pone.0043803-Sternfeld2" ref-type="bibr">[53]</xref>. These measures correlated
+with each other, and lower mitochondrial membrane potential correlated with lower
+CD4 T cell counts. In black South Africans <xref rid="pone.0043803-Karamchand1" ref-type="bibr">[54]</xref>, total T cell mitochondrial
+depolarization and CD4 T cell apoptosis were increased in ART-naive compared with
+treated subjects, and a positive correlation between these parameters was observed
+among treated subjects, suggesting relationships between mitochondrial function and
+T cell apoptosis in patients. Finally, recent work from one group has characterized
+mechanisms by which mitochondria might regulate activation in Jurkat T cell lines in
+the absence of HIV infection <xref rid="pone.0043803-Quintana1" ref-type="bibr">[55]</xref>&#x02013;<xref rid="pone.0043803-Quintana2" ref-type="bibr">[56]</xref>.Taken together, these data strongly suggest that adverse
+mitochondrial phenotypes prior to ART can contribute to peripheral T cell activation
+and apoptosis. Published data on the direct effects of mtDNA variation on cellular
+apoptosis are still limited, but include a murine model of mtDNA depletion <xref rid="pone.0043803-Wang1" ref-type="bibr">[57]</xref>, and a small
+study of patients with mtDNA tRNA point mutations showing an increase in apoptotic
+muscle fibers (by TUNEL staining) <xref rid="pone.0043803-Mirabella1" ref-type="bibr">[58]</xref>. An <italic>in
+vitro</italic> study in fibroblasts demonstrated massive ROS-induced apoptosis
+in the presence of a mtDNA point mutation <xref rid="pone.0043803-Geromel1" ref-type="bibr">[59]</xref>.</p><p>Based on this emerging literature and our results, one could speculate regarding
+several possible mechanisms by which mtDNA variants (in this case, those
+specifically marking the L2 haplogroup) might influence CD4 cell recovery. First, T
+cells harboring specific L2-associated mtDNA variants may have differential ability
+to become and/or remain activated in the presence of antigenic stimulation. Second,
+mtDNA variation could lead to differential susceptibility to cell death (via the
+intrinsic apoptotic pathway) in the setting of chronic T cell activation prior to
+suppression of HIV replication with ART. This could lead to a lower percentage of
+activated T cells prior to starting ART, as was observed here. We also observed a
+less robust decrease in percentage activated CD4 (and to a lesser extent, CD8) cells
+during the first 48 weeks of ART. If a greater proportion of activated cells
+progress to apoptotic cell death among persons with haplogroup L2, this could
+explain a less robust gain in absolute CD4 cells over the same time period. This
+less robust CD4 cell increase may also be related to fewer numbers of na&#x000ef;ve CD4
+cells- an important component of CD4 recovery after suppression of viral replication
+in this population <xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref>, <xref rid="pone.0043803-Robbins1" ref-type="bibr">[22]</xref>- both at baseline and after 48 weeks of ART.</p><p>CD4 cell activation has been associated with CD4 cell recovery <xref rid="pone.0043803-Goicoechea1" ref-type="bibr">[15]</xref>&#x02013;<xref rid="pone.0043803-Massanella1" ref-type="bibr">[16]</xref>. In the overall immunologic
+analysis of this population <xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref>, there was no correlation between baseline CD4 cell
+activation and CD4 recovery on ART, but higher CD4 and CD8 activation at week 48
+correlated with CD4 recovery at week 48. Although the direction of associations were
+similar in our subgroup, we did not observe significant correlations between 48-week
+CD4 or CD8 activation and CD4 recovery (data not shown), perhaps due to the smaller
+sample size. However, absolute CD4 cells were strongly correlated with percentage
+activated CD4 cells at both time points.</p><p>A recent analysis using data from several U.S. cohorts reported associations between
+European haplogroups and increased prevalence of pre-ART progression to AIDS and/or
+CD4 count &#x0003c;200 cells/mm<sup>3</sup> among Caucasians <xref rid="pone.0043803-Hendrickson1" ref-type="bibr">[38]</xref>. These findings are also
+consistent with a role for mtDNA variation in CD4 T cell dynamics. Another study did
+not find cross-sectional associations between mtDNA haplogroups and current CD4
+counts or viral load among a population of predominantly ART-treated HIV-infected
+Italians <xref rid="pone.0043803-Nasi2" ref-type="bibr">[60]</xref>. The
+present study is, to our knowledge, the first to assess relationships between
+<italic>ex vivo</italic> measures of T cell activation and mitochondrial genomic
+variation in a population with longitudinal data from before and after ART.</p><p>Limitations of our data include a small sample size which may have impaired our
+ability to detect less robust associations. We elected to use self-identified
+race/ethnicity to define our analysis group instead of genetic ancestry. Secondary
+analyses that included only non-Hispanic black individuals with an African L
+haplogroup yielded similar results (data not shown). Because of the focused nature
+of these analyses, results are not generalizable to other racial/ethnic groups. We
+defined virologic suppression as HIV RNA &#x0003c;400 copies/mL; it is possible that
+lower levels of viral replication influenced T cell activation in these subjects.
+However, plasma viral load at week 48 (median [IQR] 1.38
+[1.23&#x02013;1.53] log<sub>10</sub> copies/mL) was not correlated with
+either CD4 or CD8 activation at week 48 or 48-week changes in activation (data not
+shown). Additionally, in a secondary analysis of 89 (86%) persons with
+48-week HIV RNA &#x0003c;50 copies/mL, results were also similar (data not shown). All
+subjects included in these analyses received older NRTI combinations: stavudine plus
+didanosine, or zidovudine plus lamivudine. Given the lack of association of CD4 cell
+recovery with study arm in prior analyses of this population <xref rid="pone.0043803-Gandhi1" ref-type="bibr">[17]</xref>, <xref rid="pone.0043803-Robbins1" ref-type="bibr">[22]</xref>, <xref rid="pone.0043803-Robbins2" ref-type="bibr">[40]</xref>&#x02013;<xref rid="pone.0043803-Shafer1" ref-type="bibr">[41]</xref>, we did not include ART in
+adjusted models, and do not believe observed relationships between mtDNA haplogroup
+and T cell activation markers are explained by NRTI mitochondrial toxicity,
+<italic>per se</italic>. Studies using data from cohorts of subjects exposed to
+newer NRTIs will be necessary to confirm that relationships persist and are of
+similar magnitude in this setting. Less robust CD4 cell recovery on ART has been
+associated with HIV-related disease progression <xref rid="pone.0043803-Gutierrez1" ref-type="bibr">[2]</xref>, <xref rid="pone.0043803-Grabar1" ref-type="bibr">[4]</xref>, and with incidence of
+non-AIDS-defining cancers in a cohort study that included some ACTG 384 participants
+<xref rid="pone.0043803-Krishnan1" ref-type="bibr">[61]</xref>. Our
+analyses did not include these outcome data, thus we cannot determine whether less
+robust decreases in CD4 cell activation markers and/or CD4 cell increases observed
+with the African L2 haplogroup over the first 48 weeks of suppressive ART impacted
+long-term clinical outcomes. Lastly, although these results suggest that mtDNA
+variation may influence T cell activation, we do not have direct functional measures
+of mitochondrial oxidative phosphorylation or apoptosis in these subjects to provide
+additional data on potential mechanisms. Future studies will include such
+measures.</p><p>In summary, we report what is to our knowledge the first association between mtDNA
+variation and measures of T cell activation in an HIV infected population. The
+careful data and specimen collection as part of a prospective clinical trial is a
+strength of these analyses. Replication of these results in independent clinical
+trial datasets is needed, ideally including African populations where the L2
+haplogroup is prevalent. Larger studies may also allow for more specific assessment
+of mtDNA subhaplogroups and/or SNPs associated with even more pronounced differences
+in CD4 recovery. Mechanistic studies of mitochondrial function within T cells are
+feasible, and will be necessary to further confirm and characterize relationships
+between mtDNA variants and T cell function. Ultimately, an improved understanding of
+the role of mitochondria and mtDNA variation in T cell dynamics could lead to
+improved decisions about when and in whom to initiate ART, and to targeted
+therapeutic interventions that could augment CD4 recovery and its health benefits in
+HIV-infected persons.</p></sec></body><back><ack><p>The authors gratefully acknowledge the many HIV-infected patients who participated in
+ACTG study 384 and protocol A5128. We also acknowledge Laura Smeaton, Diana Ventura,
+and Roy Matining (Harvard School of Public Health) for assistance with clinical data
+from ACTG study 384.</p><p>Additional members of the ACTG 384 study leadership team included: Victor De
+Gruttola (Harvard School of Public Health), Sally Snyder, Thomas Nevin (Social
+&#x00026; Scientific Systems), Carla Pettinelli (National Institutes of Health),
+Michael Dube (Indiana University), Margaret Fischl (Miami University), Robert
+Delaphna (Howard University), Linda Gideon (Frontier Science and Technology
+Foundation), Richard D&#x02019;Aquila (Vanderbilt University), Stefano Vella
+(Istituto Superiore de Sanita), Thomas Merigan (Stanford University) and Martin
+Hirsch (Harvard Medical School).</p></ack><ref-list><title>References</title><ref id="pone.0043803-Kitahata1"><label>1</label><mixed-citation publication-type="journal">
+<name><surname>Kitahata</surname><given-names>MM</given-names></name>, <name><surname>Gange</surname><given-names>SJ</given-names></name>, <name><surname>Abraham</surname><given-names>AG</given-names></name>, <name><surname>Merriman</surname><given-names>B</given-names></name>, <name><surname>Saag</surname><given-names>MS</given-names></name>, <etal>et al</etal> (<year>2009</year>) <article-title>Effect of early
+versus deferred antiretroviral therapy for HIV on survival</article-title>.
+<source>N Engl J Med</source>
+<volume>360</volume>:
+<fpage>1815</fpage>&#x02013;<lpage>1826</lpage>.<pub-id pub-id-type="pmid">19339714</pub-id></mixed-citation></ref><ref id="pone.0043803-Gutierrez1"><label>2</label><mixed-citation publication-type="journal">
+<name><surname>Gutierrez</surname><given-names>F</given-names></name>, <name><surname>Padilla</surname><given-names>S</given-names></name>, <name><surname>Masia</surname><given-names>M</given-names></name>, <name><surname>Iribarren</surname><given-names>JA</given-names></name>, <name><surname>Moreno</surname><given-names>S</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Clinical outcome
+of HIV-infected patients with sustained virologic response to antiretroviral
+therapy: long-term follow-up of a multicenter cohort</article-title>.
+<source>PLoS ONE</source>
+<volume>1</volume>: <fpage>e89</fpage>.<pub-id pub-id-type="pmid">17183720</pub-id></mixed-citation></ref><ref id="pone.0043803-Gazzola1"><label>3</label><mixed-citation publication-type="journal">
+<name><surname>Gazzola</surname><given-names>L</given-names></name>, <name><surname>Tincati</surname><given-names>C</given-names></name>, <name><surname>Bellistri</surname><given-names>GM</given-names></name>, <name><surname>Monforte</surname><given-names>A</given-names></name>, <name><surname>Marchetti</surname><given-names>G</given-names></name> (<year>2009</year>) <article-title>The absence of CD4+ T cell count
+recovery despite receipt of virologically suppressive highly active
+antiretroviral therapy: clinical risk, immunological gaps, and therapeutic
+options</article-title>. <source>Clin Infect Dis</source>
+<volume>48</volume>:
+<fpage>328</fpage>&#x02013;<lpage>337</lpage>.<pub-id pub-id-type="pmid">19123868</pub-id></mixed-citation></ref><ref id="pone.0043803-Grabar1"><label>4</label><mixed-citation publication-type="journal">
+<name><surname>Grabar</surname><given-names>S</given-names></name>, <name><surname>Le Moing</surname><given-names>V</given-names></name>, <name><surname>Goujard</surname><given-names>C</given-names></name>, <name><surname>Leport</surname><given-names>C</given-names></name>, <name><surname>Kazatchkine</surname><given-names>MD</given-names></name>, <etal>et al</etal> (<year>2000</year>) <article-title>Clinical outcome
+of patients with HIV-1 infection according to immunologic and virologic
+response after 6 months of highly active antiretroviral
+therapy</article-title>. <source>Ann Intern Med</source>
+<volume>133</volume>:
+<fpage>401</fpage>&#x02013;<lpage>410</lpage>.<pub-id pub-id-type="pmid">10975957</pub-id></mixed-citation></ref><ref id="pone.0043803-Rigato1"><label>5</label><mixed-citation publication-type="journal">
+<name><surname>Rigato</surname><given-names>PO</given-names></name>, <name><surname>Hong</surname><given-names>MA</given-names></name>, <name><surname>Casseb</surname><given-names>J</given-names></name>, <name><surname>Ueda</surname><given-names>M</given-names></name>, <name><surname>de Castro</surname><given-names>I</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Better CD4+
+T cell recovery in Brazilian HIV-infected individuals under HAART due to
+cumulative carriage of SDF-1&#x02013;3&#x02032;A, CCR2-V64I, CCR5-D32 and
+CCR5-promoter 59029A/G polymorphisms</article-title>. <source>Curr HIV
+Res</source>
+<volume>6</volume>:
+<fpage>466</fpage>&#x02013;<lpage>473</lpage>.<pub-id pub-id-type="pmid">18855658</pub-id></mixed-citation></ref><ref id="pone.0043803-Ahuja1"><label>6</label><mixed-citation publication-type="journal">
+<name><surname>Ahuja</surname><given-names>SK</given-names></name>, <name><surname>Kulkarni</surname><given-names>H</given-names></name>, <name><surname>Catano</surname><given-names>G</given-names></name>, <name><surname>Agan</surname><given-names>BK</given-names></name>, <name><surname>Camargo</surname><given-names>JF</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>CCL3L1-CCR5
+genotype influences durability of immune recovery during antiretroviral
+therapy of HIV-1-infected individuals</article-title>. <source>Nat
+Med</source>
+<volume>14</volume>:
+<fpage>413</fpage>&#x02013;<lpage>420</lpage>.<pub-id pub-id-type="pmid">18376407</pub-id></mixed-citation></ref><ref id="pone.0043803-Rauch1"><label>7</label><mixed-citation publication-type="journal">
+<name><surname>Rauch</surname><given-names>A</given-names></name>, <name><surname>Nolan</surname><given-names>D</given-names></name>, <name><surname>Furrer</surname><given-names>H</given-names></name>, <name><surname>McKinnon</surname><given-names>E</given-names></name>, <name><surname>John</surname><given-names>M</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>HLA-Bw4
+homozygosity is associated with an impaired CD4 T cell recovery after
+initiation of antiretroviral therapy</article-title>. <source>Clin Infect
+Dis</source>
+<volume>46</volume>:
+<fpage>1921</fpage>&#x02013;<lpage>1925</lpage>.<pub-id pub-id-type="pmid">18466093</pub-id></mixed-citation></ref><ref id="pone.0043803-Soria1"><label>8</label><mixed-citation publication-type="journal">
+<name><surname>Soria</surname><given-names>A</given-names></name>, <name><surname>Guerini</surname><given-names>FR</given-names></name>, <name><surname>Bandera</surname><given-names>A</given-names></name>, <name><surname>Bolognesi</surname><given-names>E</given-names></name>, <name><surname>Uglietti</surname><given-names>A</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>KIR-HLA
+Genotypes in HIV-Infected Patients Lacking Immunological Recovery despite
+Effective Antiretroviral Therapy</article-title>. <source>PLoS One</source>
+<volume>6</volume>: <fpage>e27349</fpage>.<pub-id pub-id-type="pmid">22073315</pub-id></mixed-citation></ref><ref id="pone.0043803-Haas1"><label>9</label><mixed-citation publication-type="journal">
+<name><surname>Haas</surname><given-names>DW</given-names></name>, <name><surname>Geraghty</surname><given-names>DE</given-names></name>, <name><surname>Andersen</surname><given-names>J</given-names></name>, <name><surname>Mar</surname><given-names>J</given-names></name>, <name><surname>Motsinger</surname><given-names>AA</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Immunogenetics
+of CD4 lymphocyte count recovery during antiretroviral therapy: An AIDS
+Clinical Trials Group study</article-title>. <source>J Infect Dis</source>
+<volume>194</volume>:
+<fpage>1098</fpage>&#x02013;<lpage>1107</lpage>.<pub-id pub-id-type="pmid">16991084</pub-id></mixed-citation></ref><ref id="pone.0043803-Nasi1"><label>10</label><mixed-citation publication-type="journal">
+<name><surname>Nasi</surname><given-names>M</given-names></name>, <name><surname>Pinti</surname><given-names>M</given-names></name>, <name><surname>Bugarini</surname><given-names>R</given-names></name>, <name><surname>Troiano</surname><given-names>L</given-names></name>, <name><surname>Lugli</surname><given-names>E</given-names></name>, <etal>et al</etal> (<year>2005</year>) <article-title>Genetic
+polymorphisms of Fas (CD95) and Fas ligand (CD178) influence the rise in
+CD4+ T cell count after antiretroviral therapy in drug-naive
+HIV-positive patients</article-title>. <source>Immunogenetics</source>
+<volume>57</volume>:
+<fpage>628</fpage>&#x02013;<lpage>635</lpage>.<pub-id pub-id-type="pmid">16158329</pub-id></mixed-citation></ref><ref id="pone.0043803-Varbanov1"><label>11</label><mixed-citation publication-type="journal">
+<name><surname>Varbanov</surname><given-names>M</given-names></name>, <name><surname>Espert</surname><given-names>L</given-names></name>, <name><surname>Biard-Piechaczyk</surname><given-names>M</given-names></name> (<year>2006</year>) <article-title>Mechanisms of CD4 T-cell depletion
+triggered by HIV-1 viral proteins</article-title>. <source>AIDS Rev</source>
+<volume>8</volume>:
+<fpage>221</fpage>&#x02013;<lpage>236</lpage>.<pub-id pub-id-type="pmid">17219737</pub-id></mixed-citation></ref><ref id="pone.0043803-Petit1"><label>12</label><mixed-citation publication-type="journal">
+<name><surname>Petit</surname><given-names>F</given-names></name>, <name><surname>Arnoult</surname><given-names>D</given-names></name>, <name><surname>Viollet</surname><given-names>L</given-names></name>, <name><surname>Estaquier</surname><given-names>J</given-names></name> (<year>2003</year>) <article-title>Intrinsic and extrinsic pathways
+signaling during HIV-1 mediated cell death</article-title>.
+<source>Biochimie</source>
+<volume>85</volume>:
+<fpage>795</fpage>&#x02013;<lpage>811</lpage>.<pub-id pub-id-type="pmid">14585547</pub-id></mixed-citation></ref><ref id="pone.0043803-Hunt1"><label>13</label><mixed-citation publication-type="journal">
+<name><surname>Hunt</surname><given-names>PW</given-names></name>, <name><surname>Martin</surname><given-names>JN</given-names></name>, <name><surname>Sinclair</surname><given-names>E</given-names></name>, <name><surname>Bredt</surname><given-names>B</given-names></name>, <name><surname>Hagos</surname><given-names>E</given-names></name>, <etal>et al</etal> (<year>2003</year>) <article-title>T cell
+activation is associated with lower CD4+ T cell gains in human
+immunodeficiency virus-infected patients with sustained viral suppression
+during antiretroviral therapy</article-title>. <source>J Infect Dis</source>
+<volume>187</volume>:
+<fpage>1534</fpage>&#x02013;<lpage>1543</lpage>.<pub-id pub-id-type="pmid">12721933</pub-id></mixed-citation></ref><ref id="pone.0043803-Deeks1"><label>14</label><mixed-citation publication-type="journal">
+<name><surname>Deeks</surname><given-names>SG</given-names></name>, <name><surname>Kitchen</surname><given-names>CM</given-names></name>, <name><surname>Liu</surname><given-names>L</given-names></name>, <name><surname>Guo</surname><given-names>H</given-names></name>, <name><surname>Gascon</surname><given-names>R</given-names></name>, <etal>et al</etal> (<year>2004</year>) <article-title>Immune
+activation set point during early HIV infection predicts subsequent
+CD4+ T-cell changes independent of viral load</article-title>.
+<source>Blood</source>
+<volume>104</volume>:
+<fpage>942</fpage>&#x02013;<lpage>947</lpage>.<pub-id pub-id-type="pmid">15117761</pub-id></mixed-citation></ref><ref id="pone.0043803-Goicoechea1"><label>15</label><mixed-citation publication-type="journal">
+<name><surname>Goicoechea</surname><given-names>M</given-names></name>, <name><surname>Smith</surname><given-names>DM</given-names></name>, <name><surname>Liu</surname><given-names>L</given-names></name>, <name><surname>May</surname><given-names>S</given-names></name>, <name><surname>Tenorio</surname><given-names>AR</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Determinants of
+CD4+ T cell recovery during suppressive antiretroviral therapy:
+association of immune activation, T cell maturation markers, and cellular
+HIV-1 DNA</article-title>. <source>J Infect Dis</source>
+<volume>194</volume>:
+<fpage>29</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">16741879</pub-id></mixed-citation></ref><ref id="pone.0043803-Massanella1"><label>16</label><mixed-citation publication-type="journal">
+<name><surname>Massanella</surname><given-names>M</given-names></name>, <name><surname>Negredo</surname><given-names>E</given-names></name>, <name><surname>Perez-Alvarez</surname><given-names>N</given-names></name>, <name><surname>Puig</surname><given-names>J</given-names></name>, <name><surname>Ruiz-Hernandez</surname><given-names>R</given-names></name>, <etal>et al</etal> (<year>2010</year>) <article-title>CD4 T-cell
+hyperactivation and susceptibility to cell death determine poor CD4 T-cell
+recovery during suppressive HAART</article-title>. <source>AIDS</source>
+<volume>24</volume>:
+<fpage>959</fpage>&#x02013;<lpage>968</lpage>.<pub-id pub-id-type="pmid">20177358</pub-id></mixed-citation></ref><ref id="pone.0043803-Gandhi1"><label>17</label><mixed-citation publication-type="journal">
+<name><surname>Gandhi</surname><given-names>RT</given-names></name>, <name><surname>Spritzler</surname><given-names>J</given-names></name>, <name><surname>Chan</surname><given-names>E</given-names></name>, <name><surname>Asmuth</surname><given-names>DM</given-names></name>, <name><surname>Rodriguez</surname><given-names>B</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Effect of
+baseline- and treatment-related factors on immunologic recovery after
+initiation of antiretroviral therapy in HIV-1-positive subjects: results
+from ACTG 384</article-title>. <source>J Acquir Immune Defic Syndr</source>
+<volume>42</volume>:
+<fpage>426</fpage>&#x02013;<lpage>434</lpage>.<pub-id pub-id-type="pmid">16810109</pub-id></mixed-citation></ref><ref id="pone.0043803-Gougeon1"><label>18</label><mixed-citation publication-type="journal">
+<name><surname>Gougeon</surname><given-names>ML</given-names></name>, <name><surname>Lecoeur</surname><given-names>H</given-names></name>, <name><surname>Dulioust</surname><given-names>A</given-names></name>, <name><surname>Enouf</surname><given-names>MG</given-names></name>, <name><surname>Crouvoiser</surname><given-names>M</given-names></name>, <etal>et al</etal> (<year>1996</year>) <article-title>Programmed cell
+death in peripheral lymphocytes from HIV-infected persons: increased
+susceptibility to apoptosis of CD4 and CD8 T cells correlates with
+lymphocyte activation and with disease progression</article-title>.
+<source>J Immunol</source>
+<volume>156</volume>:
+<fpage>3509</fpage>&#x02013;<lpage>3520</lpage>.<pub-id pub-id-type="pmid">8617980</pub-id></mixed-citation></ref><ref id="pone.0043803-Groux1"><label>19</label><mixed-citation publication-type="journal">
+<name><surname>Groux</surname><given-names>H</given-names></name>, <name><surname>Torpier</surname><given-names>G</given-names></name>, <name><surname>Monte</surname><given-names>D</given-names></name>, <name><surname>Mouton</surname><given-names>Y</given-names></name>, <name><surname>Capron</surname><given-names>A</given-names></name>, <etal>et al</etal> (<year>1992</year>)
+<article-title>Activation-induced death by apoptosis in CD4+ T cells
+from human immunodeficiency virus-infected asymptomatic
+individuals</article-title>. <source>J Exp Med</source>
+<volume>175</volume>:
+<fpage>331</fpage>&#x02013;<lpage>340</lpage>.<pub-id pub-id-type="pmid">1346269</pub-id></mixed-citation></ref><ref id="pone.0043803-Gougeon2"><label>20</label><mixed-citation publication-type="journal">
+<name><surname>Gougeon</surname><given-names>ML</given-names></name>, <name><surname>Piacentini</surname><given-names>M</given-names></name> (<year>2009</year>) <article-title>New insights on the role of apoptosis
+and autophagy in HIV pathogenesis</article-title>.
+<source>Apoptosis</source>
+<volume>14</volume>:
+<fpage>501</fpage>&#x02013;<lpage>508</lpage>.<pub-id pub-id-type="pmid">19199038</pub-id></mixed-citation></ref><ref id="pone.0043803-Nakanjako1"><label>21</label><mixed-citation publication-type="journal">
+<name><surname>Nakanjako</surname><given-names>D</given-names></name>, <name><surname>Ssewanyana</surname><given-names>I</given-names></name>, <name><surname>Mayanja-Kizza</surname><given-names>H</given-names></name>, <name><surname>Kiragga</surname><given-names>A</given-names></name>, <name><surname>Colebunders</surname><given-names>R</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>High T-cell
+immune activation and immune exhaustion among individuals with suboptimal
+CD4 recovery after 4 years of antiretroviral therapy in an African
+cohort</article-title>. <source>BMC Infect Dis</source>
+<volume>11</volume>: <fpage>43</fpage>.<pub-id pub-id-type="pmid">21299909</pub-id></mixed-citation></ref><ref id="pone.0043803-Robbins1"><label>22</label><mixed-citation publication-type="journal">
+<name><surname>Robbins</surname><given-names>GK</given-names></name>, <name><surname>Spritzler</surname><given-names>JG</given-names></name>, <name><surname>Chan</surname><given-names>ES</given-names></name>, <name><surname>Asmuth</surname><given-names>DM</given-names></name>, <name><surname>Gandhi</surname><given-names>RT</given-names></name>, <etal>et al</etal> (<year>2009</year>) <article-title>Incomplete
+reconstitution of T cell subsets on combination antiretroviral therapy in
+the AIDS Clinical Trials Group protocol 384</article-title>. <source>Clin
+Infect Dis</source>
+<volume>48</volume>:
+<fpage>350</fpage>&#x02013;<lpage>361</lpage>.<pub-id pub-id-type="pmid">19123865</pub-id></mixed-citation></ref><ref id="pone.0043803-Bouillet1"><label>23</label><mixed-citation publication-type="journal">
+<name><surname>Bouillet</surname><given-names>P</given-names></name>, <name><surname>O&#x02019;Reilly</surname><given-names>LA</given-names></name> (<year>2009</year>) <article-title>CD95, BIM and T cell
+homeostasis</article-title>. <source>Nat Rev Immunol</source>
+<volume>9</volume>:
+<fpage>514</fpage>&#x02013;<lpage>519</lpage>.<pub-id pub-id-type="pmid">19543226</pub-id></mixed-citation></ref><ref id="pone.0043803-Grimaldi1"><label>24</label><mixed-citation publication-type="journal">
+<name><surname>Grimaldi</surname><given-names>M</given-names></name>, <name><surname>Denizot</surname><given-names>M</given-names></name>, <name><surname>Espert</surname><given-names>L</given-names></name>, <name><surname>Robert-Hebmann</surname><given-names>V</given-names></name>, <name><surname>Biard-Piechaczyk</surname><given-names>M</given-names></name> (<year>2005</year>) <article-title>Mitochondria-dependent apoptosis in
+T-cell homeostasis</article-title>. <source>Curr Opin Investig
+Drugs</source>
+<volume>6</volume>:
+<fpage>1095</fpage>&#x02013;<lpage>1102</lpage>.</mixed-citation></ref><ref id="pone.0043803-Negredo1"><label>25</label><mixed-citation publication-type="journal">
+<name><surname>Negredo</surname><given-names>E</given-names></name>, <name><surname>Massanella</surname><given-names>M</given-names></name>, <name><surname>Puig</surname><given-names>J</given-names></name>, <name><surname>Perez-Alvarez</surname><given-names>N</given-names></name>, <name><surname>Gallego-Escuredo</surname><given-names>JM</given-names></name>, <etal>et al</etal> (<year>2010</year>) <article-title>Nadir CD4 T cell
+count as predictor and high CD4 T cell intrinsic apoptosis as final
+mechanism of poor CD4 T cell recovery in virologically suppressed
+HIV-infected patients: clinical implications</article-title>. <source>Clin
+Infect Dis</source>
+<volume>50</volume>:
+<fpage>1300</fpage>&#x02013;<lpage>1308</lpage>.<pub-id pub-id-type="pmid">20367229</pub-id></mixed-citation></ref><ref id="pone.0043803-Badley1"><label>26</label><mixed-citation publication-type="journal">
+<name><surname>Badley</surname><given-names>AD</given-names></name>, <name><surname>Roumier</surname><given-names>T</given-names></name>, <name><surname>Lum</surname><given-names>JJ</given-names></name>, <name><surname>Kroemer</surname><given-names>G</given-names></name> (<year>2003</year>) <article-title>Mitochondrion-mediated apoptosis in
+HIV-1 infection</article-title>. <source>Trends Pharmacol Sci</source>
+<volume>24</volume>:
+<fpage>298</fpage>&#x02013;<lpage>305</lpage>.<pub-id pub-id-type="pmid">12823956</pub-id></mixed-citation></ref><ref id="pone.0043803-Chavan1"><label>27</label><mixed-citation publication-type="journal">
+<name><surname>Chavan</surname><given-names>SJ</given-names></name>, <name><surname>Tamma</surname><given-names>SL</given-names></name>, <name><surname>Kaplan</surname><given-names>M</given-names></name>, <name><surname>Gersten</surname><given-names>M</given-names></name>, <name><surname>Pahwa</surname><given-names>SG</given-names></name> (<year>1999</year>) <article-title>Reduction in T cell apoptosis in
+patients with HIV disease following antiretroviral therapy</article-title>.
+<source>Clin Immunol</source>
+<volume>93</volume>: <fpage>24</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">10497008</pub-id></mixed-citation></ref><ref id="pone.0043803-Johnson1"><label>28</label><mixed-citation publication-type="journal">
+<name><surname>Johnson</surname><given-names>N</given-names></name>, <name><surname>Parkin</surname><given-names>JM</given-names></name> (<year>1998</year>) <article-title>Anti-retroviral therapy reverses
+HIV-associated abnormalities in lymphocyte apoptosis</article-title>.
+<source>Clin Exp Immunol</source>
+<volume>113</volume>:
+<fpage>229</fpage>&#x02013;<lpage>234</lpage>.<pub-id pub-id-type="pmid">9717972</pub-id></mixed-citation></ref><ref id="pone.0043803-Wallace1"><label>29</label><mixed-citation publication-type="journal">
+<name><surname>Wallace</surname><given-names>DC</given-names></name>, <name><surname>Brown</surname><given-names>MD</given-names></name>, <name><surname>Lott</surname><given-names>MT</given-names></name> (<year>1999</year>) <article-title>Mitochondrial DNA variation in human
+evolution and disease</article-title>. <source>Gene</source>
+<volume>238</volume>:
+<fpage>211</fpage>&#x02013;<lpage>230</lpage>.<pub-id pub-id-type="pmid">10570998</pub-id></mixed-citation></ref><ref id="pone.0043803-GomezDuran1"><label>30</label><mixed-citation publication-type="journal">
+<name><surname>Gomez-Duran</surname><given-names>A</given-names></name>, <name><surname>Pacheu-Grau</surname><given-names>D</given-names></name>, <name><surname>Lopez-Gallardo</surname><given-names>E</given-names></name>, <name><surname>Diez-Sanchez</surname><given-names>C</given-names></name>, <name><surname>Montoya</surname><given-names>J</given-names></name>, <etal>et al</etal> (<year>2010</year>) <article-title>Unmasking the
+causes of multifactorial disorders: OXPHOS differences between mitochondrial
+haplogroups</article-title>. <source>Hum Mol Genet</source>
+<volume>19</volume>:
+<fpage>3343</fpage>&#x02013;<lpage>3353</lpage>.<pub-id pub-id-type="pmid">20566709</pub-id></mixed-citation></ref><ref id="pone.0043803-Brown1"><label>31</label><mixed-citation publication-type="journal">
+<name><surname>Brown</surname><given-names>MD</given-names></name>, <name><surname>Trounce</surname><given-names>IA</given-names></name>, <name><surname>Jun</surname><given-names>AS</given-names></name>, <name><surname>Allen</surname><given-names>JC</given-names></name>, <name><surname>Wallace</surname><given-names>DC</given-names></name> (<year>2000</year>) <article-title>Functional analysis of lymphoblast
+and cybrid mitochondria containing the 3460, 11778, or 14484 Leber&#x02019;s
+hereditary optic neuropathy mitochondrial DNA mutation</article-title>.
+<source>J Biol Chem</source>
+<volume>275</volume>:
+<fpage>39831</fpage>&#x02013;<lpage>39836</lpage>.<pub-id pub-id-type="pmid">10976107</pub-id></mixed-citation></ref><ref id="pone.0043803-DeBenedictis1"><label>32</label><mixed-citation publication-type="journal">
+<name><surname>De Benedictis</surname><given-names>G</given-names></name>, <name><surname>Rose</surname><given-names>G</given-names></name>, <name><surname>Carrieri</surname><given-names>G</given-names></name>, <name><surname>De Luca</surname><given-names>M</given-names></name>, <name><surname>Falcone</surname><given-names>E</given-names></name>, <etal>et al</etal> (<year>1999</year>) <article-title>Mitochondrial
+DNA inherited variants are associated with successful aging and longevity in
+humans</article-title>. <source>FASEB J</source>
+<volume>13</volume>: <fpage>1532</fpage>.<pub-id pub-id-type="pmid">10463944</pub-id></mixed-citation></ref><ref id="pone.0043803-Mancuso1"><label>33</label><mixed-citation publication-type="journal">
+<name><surname>Mancuso</surname><given-names>M</given-names></name>, <name><surname>Filosto</surname><given-names>M</given-names></name>, <name><surname>Orsucci</surname><given-names>D</given-names></name>, <name><surname>Siciliano</surname><given-names>G</given-names></name> (<year>2008</year>) <article-title>Mitochondrial DNA sequence variation
+and neurodegeneration</article-title>. <source>Hum Genomics</source>
+<volume>3</volume>: <fpage>71</fpage>&#x02013;<lpage>78</lpage>.<pub-id pub-id-type="pmid">19129091</pub-id></mixed-citation></ref><ref id="pone.0043803-Nishigaki1"><label>34</label><mixed-citation publication-type="journal">
+<name><surname>Nishigaki</surname><given-names>Y</given-names></name>, <name><surname>Fuku</surname><given-names>N</given-names></name>, <name><surname>Tanaka</surname><given-names>M</given-names></name> (<year>2010</year>) <article-title>Mitochondrial haplogroups associated
+with lifestyle-related diseases and longevity in the Japanese
+population</article-title>. <source>Geriatr Gerontol Int</source>
+<volume>10</volume>
+<issue>Suppl 1</issue>:
+<fpage>S221</fpage>&#x02013;<lpage>235</lpage>.<pub-id pub-id-type="pmid">20590837</pub-id></mixed-citation></ref><ref id="pone.0043803-Raule1"><label>35</label><mixed-citation publication-type="journal">
+<name><surname>Raule</surname><given-names>N</given-names></name>, <name><surname>Sevini</surname><given-names>F</given-names></name>, <name><surname>Santoro</surname><given-names>A</given-names></name>, <name><surname>Altilia</surname><given-names>S</given-names></name>, <name><surname>Franceschi</surname><given-names>C</given-names></name> (<year>2007</year>) <article-title>Association studies on human
+mitochondrial DNA: methodological aspects and results in the most common
+age-related diseases</article-title>. <source>Mitochondrion</source>
+<volume>7</volume>: <fpage>29</fpage>&#x02013;<lpage>38</lpage>.<pub-id pub-id-type="pmid">17306632</pub-id></mixed-citation></ref><ref id="pone.0043803-Casula1"><label>36</label><mixed-citation publication-type="journal">
+<name><surname>Casula</surname><given-names>M</given-names></name>, <name><surname>Vrisekoop</surname><given-names>N</given-names></name>, <name><surname>Wit</surname><given-names>FW</given-names></name>, <name><surname>de Baar</surname><given-names>MP</given-names></name>, <name><surname>de Ronde</surname><given-names>A</given-names></name>, <etal>et al</etal> (<year>2007</year>) <article-title>Mitochondrial
+DNA decline in T cells of HIV-1 seroconverters may be dependent on immune
+activation</article-title>. <source>J Infect Dis</source>
+<volume>196</volume>:
+<fpage>371</fpage>&#x02013;<lpage>376</lpage>.<pub-id pub-id-type="pmid">17597451</pub-id></mixed-citation></ref><ref id="pone.0043803-Maagaard1"><label>37</label><mixed-citation publication-type="journal">
+<name><surname>Maagaard</surname><given-names>A</given-names></name>, <name><surname>Holberg-Petersen</surname><given-names>M</given-names></name>, <name><surname>Kvittingen</surname><given-names>EA</given-names></name>, <name><surname>Sandvik</surname><given-names>L</given-names></name>, <name><surname>Bruun</surname><given-names>JN</given-names></name> (<year>2006</year>) <article-title>Depletion of mitochondrial DNA
+copies/cell in peripheral blood mononuclear cells in HIV-1-infected
+treatment-naive patients</article-title>. <source>HIV Med</source>
+<volume>7</volume>: <fpage>53</fpage>&#x02013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">16313293</pub-id></mixed-citation></ref><ref id="pone.0043803-Hendrickson1"><label>38</label><mixed-citation publication-type="journal">
+<name><surname>Hendrickson</surname><given-names>SL</given-names></name>, <name><surname>Hutcheson</surname><given-names>HB</given-names></name>, <name><surname>Ruiz-Pesini</surname><given-names>E</given-names></name>, <name><surname>Poole</surname><given-names>JC</given-names></name>, <name><surname>Lautenberger</surname><given-names>J</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Mitochondrial
+DNA haplogroups influence AIDS progression</article-title>.
+<source>AIDS</source>
+<volume>22</volume>:
+<fpage>2429</fpage>&#x02013;<lpage>2439</lpage>.<pub-id pub-id-type="pmid">19005266</pub-id></mixed-citation></ref><ref id="pone.0043803-Grady1"><label>39</label><mixed-citation publication-type="journal">
+<name><surname>Grady</surname><given-names>BJ</given-names></name>, <name><surname>Samuels</surname><given-names>DC</given-names></name>, <name><surname>Robbins</surname><given-names>GK</given-names></name>, <name><surname>Selph</surname><given-names>D</given-names></name>, <name><surname>Canter</surname><given-names>JA</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>Mitochondrial
+Genomics and CD4 T-Cell Count Recovery After Antiretroviral Therapy
+Initiation in AIDS Clinical Trials Group Study 384</article-title>.
+<source>J Acquir Immune Defic Syndr</source>
+<volume>58</volume>:
+<fpage>363</fpage>&#x02013;<lpage>370</lpage>.<pub-id pub-id-type="pmid">21792066</pub-id></mixed-citation></ref><ref id="pone.0043803-Robbins2"><label>40</label><mixed-citation publication-type="journal">
+<name><surname>Robbins</surname><given-names>GK</given-names></name>, <name><surname>De Gruttola</surname><given-names>V</given-names></name>, <name><surname>Shafer</surname><given-names>RW</given-names></name>, <name><surname>Smeaton</surname><given-names>LM</given-names></name>, <name><surname>Snyder</surname><given-names>SW</given-names></name>, <etal>et al</etal> (<year>2003</year>) <article-title>Comparison of
+sequential three-drug regimens as initial therapy for HIV-1
+infection</article-title>. <source>N Engl J Med</source>
+<volume>349</volume>:
+<fpage>2293</fpage>&#x02013;<lpage>2303</lpage>.<pub-id pub-id-type="pmid">14668455</pub-id></mixed-citation></ref><ref id="pone.0043803-Shafer1"><label>41</label><mixed-citation publication-type="journal">
+<name><surname>Shafer</surname><given-names>RW</given-names></name>, <name><surname>Smeaton</surname><given-names>LM</given-names></name>, <name><surname>Robbins</surname><given-names>GK</given-names></name>, <name><surname>De Gruttola</surname><given-names>V</given-names></name>, <name><surname>Snyder</surname><given-names>SW</given-names></name>, <etal>et al</etal> (<year>2003</year>) <article-title>Comparison of
+four-drug regimens and pairs of sequential three-drug regimens as initial
+therapy for HIV-1 infection</article-title>. <source>N Engl J Med</source>
+<volume>349</volume>:
+<fpage>2304</fpage>&#x02013;<lpage>2315</lpage>.<pub-id pub-id-type="pmid">14668456</pub-id></mixed-citation></ref><ref id="pone.0043803-Haas2"><label>42</label><mixed-citation publication-type="journal">
+<name><surname>Haas</surname><given-names>DW</given-names></name>, <name><surname>Wilkinson</surname><given-names>GR</given-names></name>, <name><surname>Kuritzkes</surname><given-names>DR</given-names></name>, <name><surname>Richman</surname><given-names>DD</given-names></name>, <name><surname>Nicotera</surname><given-names>J</given-names></name>, <etal>et al</etal> (<year>2003</year>) <article-title>A
+multi-investigator/institutional DNA bank for AIDS-related human genetic
+studies: AACTG Protocol A5128</article-title>. <source>HIV Clin
+Trials</source>
+<volume>4</volume>:
+<fpage>287</fpage>&#x02013;<lpage>300</lpage>.<pub-id pub-id-type="pmid">14583845</pub-id></mixed-citation></ref><ref id="pone.0043803-Hulgan1"><label>43</label><mixed-citation publication-type="journal">
+<name><surname>Hulgan</surname><given-names>T</given-names></name>, <name><surname>Haas</surname><given-names>DW</given-names></name>, <name><surname>Haines</surname><given-names>JL</given-names></name>, <name><surname>Ritchie</surname><given-names>MD</given-names></name>, <name><surname>Robbins</surname><given-names>GK</given-names></name>, <etal>et al</etal> (<year>2005</year>) <article-title>Mitochondrial
+haplogroups and peripheral neuropathy during antiretroviral therapy: an
+adult AIDS clinical trials group study</article-title>.
+<source>Aids</source>
+<volume>19</volume>:
+<fpage>1341</fpage>&#x02013;<lpage>1349</lpage>.<pub-id pub-id-type="pmid">16103764</pub-id></mixed-citation></ref><ref id="pone.0043803-Kallianpur1"><label>44</label><mixed-citation publication-type="journal">
+<name><surname>Kallianpur</surname><given-names>AR</given-names></name>, <name><surname>Hulgan</surname><given-names>T</given-names></name>, <name><surname>Canter</surname><given-names>JA</given-names></name>, <name><surname>Ritchie</surname><given-names>MD</given-names></name>, <name><surname>Haines</surname><given-names>JL</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Hemochromatosis
+(HFE) gene mutations and peripheral neuropathy during antiretroviral
+therapy</article-title>. <source>Aids</source>
+<volume>20</volume>:
+<fpage>1503</fpage>&#x02013;<lpage>1513</lpage>.<pub-id pub-id-type="pmid">16847405</pub-id></mixed-citation></ref><ref id="pone.0043803-Motsinger1"><label>45</label><mixed-citation publication-type="journal">
+<name><surname>Motsinger</surname><given-names>AA</given-names></name>, <name><surname>Ritchie</surname><given-names>MD</given-names></name>, <name><surname>Shafer</surname><given-names>RW</given-names></name>, <name><surname>Robbins</surname><given-names>GK</given-names></name>, <name><surname>Morse</surname><given-names>GD</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Multilocus
+genetic interactions and response to efavirenz-containing regimens: an adult
+AIDS clinical trials group study</article-title>. <source>Pharmacogenet
+Genomics</source>
+<volume>16</volume>:
+<fpage>837</fpage>&#x02013;<lpage>845</lpage>.<pub-id pub-id-type="pmid">17047492</pub-id></mixed-citation></ref><ref id="pone.0043803-Maitra1"><label>46</label><mixed-citation publication-type="journal">
+<name><surname>Maitra</surname><given-names>A</given-names></name>, <name><surname>Cohen</surname><given-names>Y</given-names></name>, <name><surname>Gillespie</surname><given-names>SE</given-names></name>, <name><surname>Mambo</surname><given-names>E</given-names></name>, <name><surname>Fukushima</surname><given-names>N</given-names></name>, <etal>et al</etal> (<year>2004</year>) <article-title>The Human
+MitoChip: a high-throughput sequencing microarray for mitochondrial mutation
+detection</article-title>. <source>Genome Res</source>
+<volume>14</volume>:
+<fpage>812</fpage>&#x02013;<lpage>819</lpage>.<pub-id pub-id-type="pmid">15123581</pub-id></mixed-citation></ref><ref id="pone.0043803-Andrews1"><label>47</label><mixed-citation publication-type="journal">
+<name><surname>Andrews</surname><given-names>RM</given-names></name>, <name><surname>Kubacka</surname><given-names>I</given-names></name>, <name><surname>Chinnery</surname><given-names>PF</given-names></name>, <name><surname>Lightowlers</surname><given-names>RN</given-names></name>, <name><surname>Turnbull</surname><given-names>DM</given-names></name>, <etal>et al</etal> (<year>1999</year>) <article-title>Reanalysis and
+revision of the Cambridge reference sequence for human mitochondrial
+DNA</article-title>. <source>Nat Genet</source>
+<volume>23</volume>: <fpage>147</fpage>.<pub-id pub-id-type="pmid">10508508</pub-id></mixed-citation></ref><ref id="pone.0043803-Herrnstadt1"><label>48</label><mixed-citation publication-type="journal">
+<name><surname>Herrnstadt</surname><given-names>C</given-names></name>, <name><surname>Elson</surname><given-names>JL</given-names></name>, <name><surname>Fahy</surname><given-names>E</given-names></name>, <name><surname>Preston</surname><given-names>G</given-names></name>, <name><surname>Turnbull</surname><given-names>DM</given-names></name>, <etal>et al</etal> (<year>2002</year>)
+<article-title>Reduced-median-network analysis of complete mitochondrial DNA
+coding-region sequences for the major African, Asian, and European
+haplogroups</article-title>. <source>Am J Hum Genet</source>
+<volume>70</volume>:
+<fpage>1152</fpage>&#x02013;<lpage>1171</lpage>.<pub-id pub-id-type="pmid">11938495</pub-id></mixed-citation></ref><ref id="pone.0043803-Garg1"><label>49</label><mixed-citation publication-type="journal">
+<name><surname>Garg</surname><given-names>H</given-names></name>, <name><surname>Blumenthal</surname><given-names>R</given-names></name> (<year>2006</year>) <article-title>HIV gp41-induced apoptosis is
+mediated by caspase-3-dependent mitochondrial depolarization, which is
+inhibited by HIV protease inhibitor nelfinavir</article-title>. <source>J
+Leukoc Biol</source>
+<volume>79</volume>:
+<fpage>351</fpage>&#x02013;<lpage>362</lpage>.<pub-id pub-id-type="pmid">16330530</pub-id></mixed-citation></ref><ref id="pone.0043803-Peraire1"><label>50</label><mixed-citation publication-type="journal">
+<name><surname>Peraire</surname><given-names>J</given-names></name>, <name><surname>Miro</surname><given-names>O</given-names></name>, <name><surname>Saumoy</surname><given-names>M</given-names></name>, <name><surname>Domingo</surname><given-names>P</given-names></name>, <name><surname>Pedrol</surname><given-names>E</given-names></name>, <etal>et al</etal> (<year>2007</year>) <article-title>HIV-1-infected
+long-term non-progressors have milder mitochondrial impairment and lower
+mitochondrially-driven apoptosis in peripheral blood mononuclear cells than
+typical progressors</article-title>. <source>Curr HIV Res</source>
+<volume>5</volume>:
+<fpage>467</fpage>&#x02013;<lpage>473</lpage>.<pub-id pub-id-type="pmid">17896966</pub-id></mixed-citation></ref><ref id="pone.0043803-Miura1"><label>51</label><mixed-citation publication-type="journal">
+<name><surname>Miura</surname><given-names>T</given-names></name>, <name><surname>Goto</surname><given-names>M</given-names></name>, <name><surname>Hosoya</surname><given-names>N</given-names></name>, <name><surname>Odawara</surname><given-names>T</given-names></name>, <name><surname>Kitamura</surname><given-names>Y</given-names></name>, <etal>et al</etal> (<year>2003</year>) <article-title>Depletion of
+mitochondrial DNA in HIV-1-infected patients and its amelioration by
+antiretroviral therapy</article-title>. <source>J Med Virol</source>
+<volume>70</volume>:
+<fpage>497</fpage>&#x02013;<lpage>505</lpage>.<pub-id pub-id-type="pmid">12794710</pub-id></mixed-citation></ref><ref id="pone.0043803-Sternfeld1"><label>52</label><mixed-citation publication-type="journal">
+<name><surname>Sternfeld</surname><given-names>T</given-names></name>, <name><surname>Schmid</surname><given-names>M</given-names></name>, <name><surname>Tischleder</surname><given-names>A</given-names></name>, <name><surname>Mudra</surname><given-names>S</given-names></name>, <name><surname>Schlamp</surname><given-names>A</given-names></name>, <etal>et al</etal> (<year>2007</year>) <article-title>The influence of
+HIV infection and antiretroviral therapy on the mitochondrial membrane
+potential of peripheral mononuclear cells</article-title>. <source>Antivir
+Ther</source>
+<volume>12</volume>:
+<fpage>769</fpage>&#x02013;<lpage>778</lpage>.<pub-id pub-id-type="pmid">17713160</pub-id></mixed-citation></ref><ref id="pone.0043803-Sternfeld2"><label>53</label><mixed-citation publication-type="journal">
+<name><surname>Sternfeld</surname><given-names>T</given-names></name>, <name><surname>Tischleder</surname><given-names>A</given-names></name>, <name><surname>Schuster</surname><given-names>M</given-names></name>, <name><surname>Bogner</surname><given-names>JR</given-names></name> (<year>2009</year>) <article-title>Mitochondrial membrane potential and
+apoptosis of blood mononuclear cells in untreated HIV-1 infected
+patients</article-title>. <source>HIV Med</source>
+<volume>10</volume>:
+<fpage>512</fpage>&#x02013;<lpage>519</lpage>.<pub-id pub-id-type="pmid">19496834</pub-id></mixed-citation></ref><ref id="pone.0043803-Karamchand1"><label>54</label><mixed-citation publication-type="journal">
+<name><surname>Karamchand</surname><given-names>L</given-names></name>, <name><surname>Dawood</surname><given-names>H</given-names></name>, <name><surname>Chuturgoon</surname><given-names>AA</given-names></name> (<year>2008</year>) <article-title>Lymphocyte mitochondrial
+depolarization and apoptosis in HIV-1-infected HAART
+patients</article-title>. <source>J Acquir Immune Defic Syndr</source>
+<volume>48</volume>:
+<fpage>381</fpage>&#x02013;<lpage>388</lpage>.<pub-id pub-id-type="pmid">18614930</pub-id></mixed-citation></ref><ref id="pone.0043803-Quintana1"><label>55</label><mixed-citation publication-type="journal">
+<name><surname>Quintana</surname><given-names>A</given-names></name>, <name><surname>Pasche</surname><given-names>M</given-names></name>, <name><surname>Junker</surname><given-names>C</given-names></name>, <name><surname>Al-Ansary</surname><given-names>D</given-names></name>, <name><surname>Rieger</surname><given-names>H</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>Calcium
+microdomains at the immunological synapse: how ORAI channels, mitochondria
+and calcium pumps generate local calcium signals for efficient T-cell
+activation</article-title>. <source>EMBO J</source>
+<volume>30</volume>:
+<fpage>3895</fpage>&#x02013;<lpage>3912</lpage>.<pub-id pub-id-type="pmid">21847095</pub-id></mixed-citation></ref><ref id="pone.0043803-Quintana2"><label>56</label><mixed-citation publication-type="journal">
+<name><surname>Quintana</surname><given-names>A</given-names></name>, <name><surname>Schwindling</surname><given-names>C</given-names></name>, <name><surname>Wenning</surname><given-names>AS</given-names></name>, <name><surname>Becherer</surname><given-names>U</given-names></name>, <name><surname>Rettig</surname><given-names>J</given-names></name>, <etal>et al</etal> (<year>2007</year>) <article-title>T cell
+activation requires mitochondrial translocation to the immunological
+synapse</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<volume>104</volume>:
+<fpage>14418</fpage>&#x02013;<lpage>14423</lpage>.<pub-id pub-id-type="pmid">17726106</pub-id></mixed-citation></ref><ref id="pone.0043803-Wang1"><label>57</label><mixed-citation publication-type="journal">
+<name><surname>Wang</surname><given-names>J</given-names></name>, <name><surname>Silva</surname><given-names>JP</given-names></name>, <name><surname>Gustafsson</surname><given-names>CM</given-names></name>, <name><surname>Rustin</surname><given-names>P</given-names></name>, <name><surname>Larsson</surname><given-names>NG</given-names></name> (<year>2001</year>) <article-title>Increased in vivo apoptosis in cells
+lacking mitochondrial DNA gene expression</article-title>. <source>Proc Natl
+Acad Sci U S A</source>
+<volume>98</volume>:
+<fpage>4038</fpage>&#x02013;<lpage>4043</lpage>.<pub-id pub-id-type="pmid">11259653</pub-id></mixed-citation></ref><ref id="pone.0043803-Mirabella1"><label>58</label><mixed-citation publication-type="journal">
+<name><surname>Mirabella</surname><given-names>M</given-names></name>, <name><surname>Di Giovanni</surname><given-names>S</given-names></name>, <name><surname>Silvestri</surname><given-names>G</given-names></name>, <name><surname>Tonali</surname><given-names>P</given-names></name>, <name><surname>Servidei</surname><given-names>S</given-names></name> (<year>2000</year>) <article-title>Apoptosis in mitochondrial
+encephalomyopathies with mitochondrial DNA mutations: a potential pathogenic
+mechanism</article-title>. <source>Brain 123 (Pt</source>
+<volume>1)</volume>:
+<fpage>93</fpage>&#x02013;<lpage>104</lpage>.</mixed-citation></ref><ref id="pone.0043803-Geromel1"><label>59</label><mixed-citation publication-type="journal">
+<name><surname>Geromel</surname><given-names>V</given-names></name>, <name><surname>Kadhom</surname><given-names>N</given-names></name>, <name><surname>Cebalos-Picot</surname><given-names>I</given-names></name>, <name><surname>Ouari</surname><given-names>O</given-names></name>, <name><surname>Polidori</surname><given-names>A</given-names></name>, <etal>et al</etal> (<year>2001</year>)
+<article-title>Superoxide-induced massive apoptosis in cultured skin
+fibroblasts harboring the neurogenic ataxia retinitis pigmentosa (NARP)
+mutation in the ATPase-6 gene of the mitochondrial DNA</article-title>.
+<source>Hum Mol Genet</source>
+<volume>10</volume>:
+<fpage>1221</fpage>&#x02013;<lpage>1228</lpage>.<pub-id pub-id-type="pmid">11371515</pub-id></mixed-citation></ref><ref id="pone.0043803-Nasi2"><label>60</label><mixed-citation publication-type="journal">
+<name><surname>Nasi</surname><given-names>M</given-names></name>, <name><surname>Guaraldi</surname><given-names>G</given-names></name>, <name><surname>Orlando</surname><given-names>G</given-names></name>, <name><surname>Durante</surname><given-names>C</given-names></name>, <name><surname>Pinti</surname><given-names>M</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Mitochondrial
+DNA Haplogroups and Highly Active Antiretroviral Therapy-Related
+Lipodystrophy</article-title>. <source>Clin Infect Dis</source>
+<volume>47</volume>:
+<fpage>962</fpage>&#x02013;<lpage>968</lpage>.<pub-id pub-id-type="pmid">18752438</pub-id></mixed-citation></ref><ref id="pone.0043803-Krishnan1"><label>61</label><mixed-citation publication-type="journal">
+<name><surname>Krishnan</surname><given-names>S</given-names></name>, <name><surname>Schouten</surname><given-names>JT</given-names></name>, <name><surname>Jacobson</surname><given-names>DL</given-names></name>, <name><surname>Benson</surname><given-names>CA</given-names></name>, <name><surname>Collier</surname><given-names>AC</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>Incidence of
+non-AIDS-defining cancer in antiretroviral treatment-naive subjects after
+antiretroviral treatment initiation: an ACTG longitudinal linked randomized
+trials analysis</article-title>. <source>Oncology</source>
+<volume>80</volume>: <fpage>42</fpage>&#x02013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">21606663</pub-id></mixed-citation></ref></ref-list></back></article>

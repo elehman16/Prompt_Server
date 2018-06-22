@@ -1,0 +1,481 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22715372</article-id><article-id pub-id-type="pmc">3371007</article-id><article-id pub-id-type="publisher-id">PONE-D-12-09532</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0037885</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Biochemistry</subject><subj-group><subject>Drug Discovery</subject></subj-group></subj-group><subj-group><subject>Biotechnology</subject><subj-group><subject>Drug Discovery</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Clinical Research Design</subject><subj-group><subject>Clinical Trials</subject></subj-group></subj-group><subj-group><subject>Drugs and Devices</subject><subj-group><subject>Drug Research and Development</subject><subj-group><subject>Drug Discovery</subject></subj-group></subj-group><subj-group><subject>Clinical Pharmacology</subject><subject>Neuropharmacology</subject></subj-group></subj-group><subj-group><subject>Neurology</subject><subj-group><subject>Motor Neuron Diseases</subject><subj-group><subject>Amyotrophic Lateral Sclerosis</subject></subj-group></subj-group><subj-group><subject>Neurodegenerative Diseases</subject><subject>Neuromuscular Diseases</subject><subject>Neuropharmacology</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>A Randomized, Double Blind, Placebo-Controlled Trial of Pioglitazone in Combination with Riluzole in Amyotrophic Lateral Sclerosis</article-title><alt-title alt-title-type="running-head">Pioglitazone in ALS</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Dupuis</surname><given-names>Luc</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Dengler</surname><given-names>Reinhard</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Heneka</surname><given-names>Michael T.</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Meyer</surname><given-names>Thomas</given-names></name><xref ref-type="aff" rid="aff6">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Zierz</surname><given-names>Stephan</given-names></name><xref ref-type="aff" rid="aff7">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kassubek</surname><given-names>Jan</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Fischer</surname><given-names>Wilhelm</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Steiner</surname><given-names>Franziska</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lindauer</surname><given-names>Eva</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Otto</surname><given-names>Markus</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Dreyhaupt</surname><given-names>Jens</given-names></name><xref ref-type="aff" rid="aff8">
+<sup>8</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Grehl</surname><given-names>Torsten</given-names></name><xref ref-type="aff" rid="aff9">
+<sup>9</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hermann</surname><given-names>Andreas</given-names></name><xref ref-type="aff" rid="aff10">
+<sup>10</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Winkler</surname><given-names>Andrea S.</given-names></name><xref ref-type="aff" rid="aff11">
+<sup>11</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Bogdahn</surname><given-names>Ulrich</given-names></name><xref ref-type="aff" rid="aff12">
+<sup>12</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Benecke</surname><given-names>Reiner</given-names></name><xref ref-type="aff" rid="aff13">
+<sup>13</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Schrank</surname><given-names>Bertold</given-names></name><xref ref-type="aff" rid="aff14">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wessig</surname><given-names>Carsten</given-names></name><xref ref-type="aff" rid="aff15">
+<sup>15</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Grosskreutz</surname><given-names>Julian</given-names></name><xref ref-type="aff" rid="aff16">
+<sup>16</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ludolph</surname><given-names>Albert C.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><collab>the GERP ALS Study Group</collab><xref ref-type="author-notes" rid="fn1">
+<sup>&#x000b6;</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Neurology, University of Ulm, Ulm, Germany</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>U692 - Laboratoire de Signalisations Mol&#x000e9;culaires et Neurod&#x000e9;g&#x000e9;n&#x000e9;rescence, INSERM, Strasbourg, France</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>UMRS692, Facult&#x000e9; de M&#x000e9;decine, Universit&#x000e9; de Strasbourg, Strasbourg, France</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Department of Neurology, Hannover Medical School, Hannover, Germany</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Department of Neurology, University of Bonn, Bonn, Germany</addr-line>
+</aff><aff id="aff6">
+<label>6</label>
+<addr-line>Department of Neurology, Charit&#x000e9; University Hospital, Berlin, Germany</addr-line>
+</aff><aff id="aff7">
+<label>7</label>
+<addr-line>Department of Neurology, University of Halle-Wittenberg, Halle, Germany</addr-line>
+</aff><aff id="aff8">
+<label>8</label>
+<addr-line>Institute of Epidemiology and Medical Biometry, University of Ulm, Ulm, Germany</addr-line>
+</aff><aff id="aff9">
+<label>9</label>
+<addr-line>Department of Neurology, Ruhr-Universit&#x000e4;t, Bochum, Germany</addr-line>
+</aff><aff id="aff10">
+<label>10</label>
+<addr-line>Department of Neurology, Dresden University of Technology, Dresden, Germany</addr-line>
+</aff><aff id="aff11">
+<label>11</label>
+<addr-line>Department of Neurology, Technical University, Munich, Germany</addr-line>
+</aff><aff id="aff12">
+<label>12</label>
+<addr-line>Department of Neurology, University of Regensburg, Regensburg, Germany</addr-line>
+</aff><aff id="aff13">
+<label>13</label>
+<addr-line>Neurology clinic, University of Rostock, Rostock, Germany</addr-line>
+</aff><aff id="aff14">
+<label>14</label>
+<addr-line>Deutsche Klinik f&#x000fc;r Diagnostik, Wiesbaden, Germany</addr-line>
+</aff><aff id="aff15">
+<label>15</label>
+<addr-line>Department of Neurology, University of W&#x000fc;rzburg, W&#x000fc;rzburg, Germany</addr-line>
+</aff><aff id="aff16">
+<label>16</label>
+<addr-line>Department of Neurology, University Hospital, Jena, Germany</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Sensi</surname><given-names>Stefano L.</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">University G. D&#x02019;Annunzio, Italy</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>Albert.Ludolph@rku.de</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: RD MTH TM SZ WF ACL. Performed the experiments: RD MTH TM SZ JK WF FS EL MO TG AH ASW UB RB BS CW JG ACL. Analyzed the data: LD JK MO JD ACL. Wrote the paper: LD.</p></fn><fn id="fn1" fn-type="other"><p>&#x000b6; Membership of the GERP ALS study group is provided in the Acknowledgments.</p></fn></author-notes><pub-date pub-type="collection"><year>2012</year></pub-date><pub-date pub-type="epub"><day>8</day><month>6</month><year>2012</year></pub-date><volume>7</volume><issue>6</issue><elocation-id>e37885</elocation-id><history><date date-type="received"><day>23</day><month>2</month><year>2012</year></date><date date-type="accepted"><day>30</day><month>4</month><year>2012</year></date></history><permissions><copyright-statement>Dupuis et al.</copyright-statement><copyright-year>2012</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Background</title><p>Pioglitazone, an oral anti-diabetic that stimulates the PPAR-gamma transcription factor, increased survival of mice with amyotrophic lateral sclerosis (ALS).</p></sec><sec><title>Methods/Principal Findings</title><p>We performed a phase II, double blind, multicentre, placebo controlled trial of pioglitazone in ALS patients under riluzole. 219 patients were randomly assigned to receive 45 mg/day of pioglitazone or placebo (one: one allocation ratio). The primary endpoint was survival. Secondary endpoints included incidence of non-invasive ventilation and tracheotomy, and slopes of ALS-FRS, slow vital capacity, and quality of life as assessed using EUROQoL EQ-5D. The study was conducted under a two-stage group sequential test, allowing to stop for futility or superiority after interim analysis. Shortly after interim analysis, 30 patients under pioglitazone and 24 patients under placebo had died. The trial was stopped for futility; the hazard ratio for primary endpoint was 1.21 (95&#x00025; CI: 0.71&#x02013;2.07, p&#x0200a;=&#x0200a;0.48). Secondary endpoints were not modified by pioglitazone treatment. Pioglitazone was well tolerated.</p></sec><sec><title>Conclusion/Significance</title><p>Pioglitazone has no beneficial effects on the survival of ALS patients as add-on therapy to riluzole.</p></sec><sec><title>Trial Registration</title><p>Clinicaltrials.gov <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov/ct2/show/NCT00690118">NCT00690118</ext-link>.</p></sec></abstract><counts><page-count count="7"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Amyotrophic lateral sclerosis (ALS) is a lethal neurological disease with limited therapeutic options. Only riluzole demonstrated efficacy in prolonging survival of ALS patients <xref rid="pone.0037885-Lacomblez1" ref-type="bibr">[1]</xref>. Inflammatory mediators are heavily produced in the CNS of ALS patients, and decreasing inflammation is protective in mouse models of ALS <xref rid="pone.0037885-Philips1" ref-type="bibr">[2]</xref>.</p><p>Pioglitazone is an oral anti-diabetic that stimulates the transcriptional activity of peroxisome proliferation activated receptors (PPARs), most notably of the PPAR subtype. Pioglitazone possesses anti-inflammatory properties that might be beneficial in ALS patients <xref rid="pone.0037885-Ceriello1" ref-type="bibr">[3]</xref>. Interestingly, three independent groups reported beneficial effects of pioglitazone in ALS mouse models associated with decreased levels of inflammatory mediators <xref rid="pone.0037885-Shibata1" ref-type="bibr">[4]</xref>, <xref rid="pone.0037885-Schutz1" ref-type="bibr">[5]</xref>, <xref rid="pone.0037885-Kiaei1" ref-type="bibr">[6]</xref>. Pioglitazone displays pleiotropic effects on energy metabolism through insulin sensitization, decreased glycaemia, and decreased circulating levels of liver enzymes and has been shown to be safe even in non-diabetic patients <xref rid="pone.0037885-DeFronzo1" ref-type="bibr">[7]</xref>, <xref rid="pone.0037885-Sanyal1" ref-type="bibr">[8]</xref>, <xref rid="pone.0037885-Belfort1" ref-type="bibr">[9]</xref>, <xref rid="pone.0037885-Promrat1" ref-type="bibr">[10]</xref>. A widely documented side effect of pioglitazone is a robust (3&#x02013;5 kg) weight gain dependent upon neuronal, presumably hypothalamic, PPAR-&#x003b3; receptors <xref rid="pone.0037885-DeFronzo1" ref-type="bibr">[7]</xref>, <xref rid="pone.0037885-Sanyal1" ref-type="bibr">[8]</xref>, <xref rid="pone.0037885-Belfort1" ref-type="bibr">[9]</xref>, <xref rid="pone.0037885-Promrat1" ref-type="bibr">[10]</xref>, <xref rid="pone.0037885-Lu1" ref-type="bibr">[11]</xref>, <xref rid="pone.0037885-Ryan1" ref-type="bibr">[12]</xref>. These metabolic effects, and especially weight gain, might be clinically relevant for ALS since rescuing energy deficit in animal models alleviates neurodegeneration <xref rid="pone.0037885-Dupuis1" ref-type="bibr">[13]</xref>. Furthermore, moderate obesity <xref rid="pone.0037885-Paganoni1" ref-type="bibr">[14]</xref> and hyperlipemia <xref rid="pone.0037885-Dupuis2" ref-type="bibr">[15]</xref>, <xref rid="pone.0037885-Dorst1" ref-type="bibr">[16]</xref> have been associated with improved survival in ALS, suggesting that increased weight gain might be protective.</p><p>In all, pioglitazone represented a candidate drug able to act through multiple protective mechanisms. Here, we sought to test whether pioglitazone is beneficial in ALS by performing a phase II, multicentre, stratified, parallel-group, placebo-controlled trial of pioglitazone in ALS to assess the potential efficacy of pioglitazone as an add-on therapy to riluzole on survival as a primary endpoint. Incidence of non-invasive ventilation (NIV) and tracheotomy, and slopes of revised ALS functional rating scale (ALS-FRS-R), slow vital capacity (SVC), and quality of life (using EUROQoL EQ-5D; http: <ext-link ext-link-type="uri" xlink:href="http://www.euroqol.org">www.euroqol.org</ext-link>) were secondary endpoints.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><p>This phase II clinical trial was designed as a multicentre, stratified, parallel-group, placebo-controlled trial of pioglitazone in patients with ALS as an add-on therapy to riluzole. The trial protocol can be accessed at <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">http://www.clinicaltrials.gov</ext-link> (NCT00690118). This protocol and supporting CONSORT checklist are available as supporting information; see <xref ref-type="supplementary-material" rid="pone.0037885.s002">Checklist S1</xref> and <xref ref-type="supplementary-material" rid="pone.0037885.s003">Protocol S1</xref>.</p><sec id="s2a"><title>Participants</title><p>Patients with possible, probable (clinically or laboratory-supported) or definite ALS according to the revised version of the El Escorial World Federation of Neurology criteria were considered for enrolment into the study. Included patients displayed onset of progressive weakness within 36 months prior to study and had a disease duration of more than six months and less than three years (inclusive) with disease onset defined as date of first muscle weakness, excluding fasciculation and cramps. They reached a best-sitting SVC between 50&#x00025; and 95&#x00025; of predicted normal. They were capable of thoroughly understanding the information provided and giving full informed consent. Included women of childbearing age were non-lactating, and surgically sterile, or used a highly effective method of birth control, and had a negative pregnancy test. All included patients had been treated with 100 mg riluzole daily for at least three months prior to inclusion.</p><p>Exclusion criteria were: Participation in another clinical study within the preceding 12 weeks; tracheotomy or assisted ventilation during the preceding three months; gastrostomy; any medical condition known to have an association with motor neuron dysfunction which might confound the diagnosis of ALS; presence of any life-threatening disease or impairment likely to interfere with functional assessment; confirmed hepatic insufficiency or abnormal liver function (ASAT and/or ALAT &#x0003e;1.5 upper limit of normal); renal insufficiency (serum creatinine &#x0003e;2.26 mg/dL); evidence of major psychiatric disorder or clinically evident dementia; known hypersensitivity to the study drugs; patient likely to be not cooperative, not comply with the trial requirements (as assessed by the investigator), or unable to be reached in emergency; use of other antidiabetic drugs; heart failure, or history of heart failure (NYHA I to IV); history of macular oedema; treatment with thiazolidinediones within three months prior to screening; known or suspected history of alcohol and/or drug abuse; treatment with gemfibrozil within three months prior to screening.</p></sec><sec id="s2b"><title>Ethics</title><p>All patients gave written informed consent. The ethics committee of the University of Ulm approved the study protocol.</p></sec><sec id="s2c"><title>Interventions</title><p>The two treatment groups were 100 mg riluzole plus 45 mg pioglitazone (pioglitazone group), and 100 mg riluzole plus placebo (placebo group).</p><p>After inclusion, patients underwent a four-week screening phase, and a treatment phase (18 months). The dosage was increased stepwise: 15 mg once daily (od) during the first two weeks, 30 mg od during week three and four and 45 mg od from week five. Clinical and physical examinations, blood sampling, and drug compliance were recorded at on-site visits (1, 2, 6, 12 and 18 months after baseline visit). Body weight, and functional status (including NIV and ALS-FRS-R) were also recorded at 9 and 15 months after baseline visit through telephone contacts. The investigator observed patients for adverse events (AEs), and instructed patients to report any events. A period of 14 days for follow-up of AEs after the patient had routinely or prematurely terminated the study was performed additionally.</p></sec><sec id="s2d"><title>Objectives</title><p>We sought to test whether pioglitazone 45 mg daily is beneficial in ALS patients under riluzole.</p></sec><sec id="s2e"><title>Outcomes</title><p>The primary endpoint was survival time, <italic>i.e</italic>. time between inclusion in the study and death or last patient contact. Secondary efficacy outcomes were incidence of tracheotomy, and of NIV during study period, ALSFRS-R, and its changes, Quality of life using the EUROQoL EQ-5D and its changes.</p></sec><sec id="s2f"><title>Sample Size</title><p>Sample size was calculated according to a previously published clinical trial in ALS <xref rid="pone.0037885-Meininger1" ref-type="bibr">[17]</xref>. The study was conducted using a two-stage group sequential test design within the &#x00394;-class of critical values <xref rid="pone.0037885-Wang1" ref-type="bibr">[18]</xref> with possible sample size adaptation after the planned interim analysis. A p-value of 0.5 was assumed as stopping for futility bound in interim analysis. For sample size calculation the following assumptions were made: One-sided alpha&#x0200a;=&#x0200a;0.025 and 18-month survival rates of 60&#x00025; in the placebo group and 78&#x00025; in the pioglitazone group (hazard ratio&#x0200a;=&#x0200a;0.486) <xref rid="pone.0037885-Meininger1" ref-type="bibr">[17]</xref>, the statistical power is 80&#x00025; if the log-rank test is performed after observation of 31 deaths at the first stage and after 62 deaths at the second stage according to the formula of Schoenfeld (using ADDPLAN&#x000ae; version 3.1.2, ADDPLAN GmbH, Germany).</p><p>Pioglitazone was originally developed as oral antidiabetic drug and clinical trials showed that pioglitazone was well tolerated. At present, it has been prescribed to over 3.5 million patients. Thus, the use of a one-sided statistical test for primary efficacy analysis was considered as acceptable. Assuming an accrual time of six months, a treatment period of 18 months, and a constant accrual rate, a total of 176 subjects (88 subjects per group) was expected to yield the necessary number of deaths. Under these assumptions, the time points of analyses were expected to be 12.3 month&#x02019;s observation time (interim analysis) and 24 months observation time (final analysis). Considering a dropout rate of 10&#x00025;, inclusion of 196 patients was planned.</p></sec><sec id="s2g"><title>Randomization- sequence Generation, Allocation and Implementation</title><p>At the randomisation visit, each patient eligible for study participation was randomised to one of the two treatment groups, and received the next consecutive randomisation/patient number according to her/his stratum from a block of randomisation numbers per site. The code was broken only for interim analysis, and at the end of study.</p><p>Haupt Pharma Brackenheim GmbH (Brackenheim, Germany) generated the randomisation list. Block-randomisation with a block size of four was performed. A pseudo-random number generator ensured that the resulting treatment sequence was reproducible. Patients were assigned to their stratum according to the location of the earliest ALS symptom. Patients with simultaneous spinal and bulbar onset were defined as bulbar. Cervical and respiratory onsets were stratified to the spinal-onset stratum.</p></sec><sec id="s2h"><title>Blinding</title><p>The trial was double-blinded. Study medication was packed and blinded by Haupt Pharma Brackenheim.</p></sec><sec id="s2i"><title>Statistical Methods</title><p>The study population was analysed according to the intention-to-treat principle. All randomized patients who received at least one intake of study medication were analysed for efficacy and safety.</p><p>To investigate efficacy, the unstratified log rank test was used to compare groups. The statistical hypotheses in terms of the hazard ratio were the following:</p><p>H0: &#x003bb;2/&#x003bb;1&#x0003e;&#x0200a;=&#x0200a;1 (i.e. identical or poorer survival in the pioglitazone group).</p><p>H1: &#x003bb;2/&#x003bb;1&#x0003c;1 (i.e. better survival in the pioglitazone group),</p><p>Where &#x003bb;2/&#x003bb;1 is the hazard ratio, &#x003bb;1 denotes the hazard in the placebo group; &#x003bb;1 denotes the hazard in the pioglitazone group.</p><p>The overall type-I-error rate was set at &#x003b1;&#x0200a;=&#x0200a;0.025 (one-sided).</p><p>For comparison of baseline characteristics, we performed group comparisons using Mann-Whitney test for continous items and &#x003c7;<sup>2</sup> test for binary outcomes. Binary secondary outcomes (incidence of tracheotomy or NIV) were calculated both as total number and as percentage including the 95&#x00025; confidence interval and group comparisons were performed using the &#x003c7;<sup>2</sup> test. For continuous secondary outcomes (ALSFRS-R, EUROQoL EQ-5D) group comparisons were performed using mixed effects regression model analysis. All secondary endpoints were analysed descriptively. All statistical tests performed were two-sided at a significance level of 5&#x00025;. All results from analysis of the secondary endpoints were regarded as hypothesis generating only, and not as proof of efficacy.</p><p>An independent statistician performed the interim analysis at July 17th 2009 at the Institute of Epidemiology and Medical Biometrics at the University of Ulm. The interim analysis was performed with data from all available patients on June 10th, 2009 (197 patients, pioglitazone n&#x0200a;=&#x0200a;99, placebo n&#x0200a;=&#x0200a;98). Interim analysis was initially planned after observation of 31 deaths. However, because of the unexpected low number of deaths from start of trial until March 2009, the protocol was amended to perform the interim analysis either after observation of a total of 31 deaths or in June 2009, depending on what condition happens first. Statistical analyses were performed at the Institute of Epidemiology and Medical Biometrics at the University of Ulm using the statistical software package SAS Version 9.2 under Windows.</p></sec></sec><sec id="s3"><title>Results</title><sec id="s3a"><title>Participant Flow and Recruitment</title><p>Between the 29<sup>th</sup> of May 2008 and the 14th of August 2009, 219 ALS patients were enrolled, and randomly allocated to either placebo (n&#x0200a;=&#x0200a;110; bulbar: n&#x0200a;=&#x0200a;33, spinal: n&#x0200a;=&#x0200a;77), or pioglitazone (n&#x0200a;=&#x0200a;109; bulbar: n&#x0200a;=&#x0200a;32, spinal: n&#x0200a;=&#x0200a;77) treatment after stratification based on site of onset (bulbar or spinal). One patient in the placebo group did not take any dose of study medication and was therefore excluded from the study. <xref ref-type="fig" rid="pone-0037885-g001">Figure 1</xref> shows the study flow chart.</p><fig id="pone-0037885-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0037885.g001</object-id><label>Figure 1</label><caption><title>Study flow chart.</title><p>The figure presents the numbers of participants who were randomly assigned, received pioglitazone or placebo, and were analysed for the primary outcome.</p></caption><graphic xlink:href="pone.0037885.g001"/></fig></sec><sec id="s3b"><title>Baseline Data</title><p>Baseline characteristics of both groups were similar (<xref ref-type="table" rid="pone-0037885-t001">Table 1</xref>). In particular, both groups of patients showed similar sex ratio, age and functional status as measured by revised ALS functional rating scale (ALSFRS-R) and slow vital capacity (SVC, a measure of respiratory function). Since energy metabolism is a modifyer of ALS disease <xref rid="pone.0037885-Dupuis3" ref-type="bibr">[19]</xref> and pioglitazone interferes with energy metabolism, we also monitored BMI, glycaemia, circulating liver enzymes (ASAT and ALAT) and found these different parameters similar at inclusion between both groups (<xref ref-type="table" rid="pone-0037885-t001">Table 1</xref>). Blood pressure showed a trend to be higher in the pioglitazone group.</p><table-wrap id="pone-0037885-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0037885.t001</object-id><label>Table 1</label><caption><title>Baseline characteristics of ALS patients.</title></caption><alternatives><graphic id="pone-0037885-t001-1" xlink:href="pone.0037885.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Pioglitazone (n&#x0200a;=&#x0200a;109)</td><td align="left" rowspan="1" colspan="1">Placebo (n&#x0200a;=&#x0200a;109)</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic> value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sex ratio (M/F)</td><td align="left" rowspan="1" colspan="1">63/46</td><td align="left" rowspan="1" colspan="1">71/38</td><td align="left" rowspan="1" colspan="1">0.33</td></tr><tr><td align="left" rowspan="1" colspan="1">Age at enrolment (years)</td><td align="left" rowspan="1" colspan="1">58.9 (10.6)</td><td align="left" rowspan="1" colspan="1">59.0 (10.4)</td><td align="left" rowspan="1" colspan="1">0.94</td></tr><tr><td align="left" rowspan="1" colspan="1">Site of onset (bulbar/spinal)</td><td align="left" rowspan="1" colspan="1">31/77</td><td align="left" rowspan="1" colspan="1">33/76</td><td align="left" rowspan="1" colspan="1">0.88</td></tr><tr><td align="left" rowspan="1" colspan="1">ALSFRS-R</td><td align="left" rowspan="1" colspan="1">37.5 (6.0)</td><td align="left" rowspan="1" colspan="1">37.0 (5.6)</td><td align="left" rowspan="1" colspan="1">0.51</td></tr><tr><td align="left" rowspan="1" colspan="1">SVC (&#x00025;)</td><td align="left" rowspan="1" colspan="1">76.2 (16.6)</td><td align="left" rowspan="1" colspan="1">73.5 (15.4)</td><td align="left" rowspan="1" colspan="1">0.21</td></tr><tr><td align="left" rowspan="1" colspan="1">Body weight (kg)</td><td align="left" rowspan="1" colspan="1">72.8 (12.7)</td><td align="left" rowspan="1" colspan="1">74.1 (13.1)</td><td align="left" rowspan="1" colspan="1">0.46</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI (kg/m2)</td><td align="left" rowspan="1" colspan="1">24.7 (3.8)</td><td align="left" rowspan="1" colspan="1">24.8 (3.7)</td><td align="left" rowspan="1" colspan="1">0.84</td></tr><tr><td align="left" rowspan="1" colspan="1">Glycaemia (mg/dL)</td><td align="left" rowspan="1" colspan="1">95.9 (13.3)</td><td align="left" rowspan="1" colspan="1">94.3 (14.8)</td><td align="left" rowspan="1" colspan="1">0.40</td></tr><tr><td align="left" rowspan="1" colspan="1">ASAT (U/L)</td><td align="left" rowspan="1" colspan="1">35.8 (12.1)</td><td align="left" rowspan="1" colspan="1">32.7 (11.3)</td><td align="left" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">ALAT (U/L)</td><td align="left" rowspan="1" colspan="1">40.1 (17.9)</td><td align="left" rowspan="1" colspan="1">37.8 (21.3)</td><td align="left" rowspan="1" colspan="1">0.39</td></tr><tr><td align="left" rowspan="1" colspan="1">Blood pressure (systolic/diastolic, mm Hg)</td><td align="left" rowspan="1" colspan="1">133.2 (16.9)/83.0 (9.5)</td><td align="left" rowspan="1" colspan="1">138.5 (19.7)/87.0 (11.3)</td><td align="left" rowspan="1" colspan="1">0.07/0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">Time from symptom onset to diagnosis (months)</td><td align="left" rowspan="1" colspan="1">9.6 (5.6)</td><td align="left" rowspan="1" colspan="1">8.7 (5.7)</td><td align="left" rowspan="1" colspan="1">0.25</td></tr><tr><td align="left" rowspan="1" colspan="1">Time from symptom onset to baseline screening (months)</td><td align="left" rowspan="1" colspan="1">18.9 (8.6)</td><td align="left" rowspan="1" colspan="1">18.6 (9.0)</td><td align="left" rowspan="1" colspan="1">0.81</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>Values are indicated as mean (SD).</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3c"><title>Primary Outcome</title><p>In interim analysis, which was performed about one year after start of recruiting patients, we observed death of 24 patients, 14 in the pioglitazone group and 10 in the placebo group. There was no difference between pioglitazone group and placebo group. Since the number of deaths was unexpectedly low, the data monitoring and safety committee (DMSC) requested continuation of the trial. Number of deaths and death rate were provided monthly and the DMSC recommended to stop the trial for futility on the 28<sup>th</sup> of April 2010 due to the increased death rate in the pioglitazone group (pioglitazone, 30 deaths; placebo, 24 deaths). In final statistical analysis, the hazard ratio was 1.21 (95&#x00025;CI: 0.71&#x02013;2.07, <italic>p</italic>&#x0200a;=&#x0200a;0.48). This means that the hazard for death was increased of 21&#x00025; in the pioglitazone group and the difference between both groups was not significant. The comparison of survival curves for both treatment groups showed no difference in survival (<xref ref-type="fig" rid="pone-0037885-g002">Figure 2</xref>).</p><fig id="pone-0037885-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0037885.g002</object-id><label>Figure 2</label><caption><title>Survival upon pioglitazone.</title><p>Kaplan-Meier plot for survival, the primary endpoint of the trial. Placebo-treated patients are in blue and pioglitazone treated patients are in red. Ticks represent censored patients. The shaded box indicates the first month of treatment during which a stepwise increase in pioglitazone dosage was performed. Numbers below the X axis indicate the number of patients still alive (&#x0201c;at risk&#x0201d;, <italic>i.e.</italic> living and not censored) at entry, 6, 12 and 18 months after randomization.</p></caption><graphic xlink:href="pone.0037885.g002"/></fig></sec><sec id="s3d"><title>Secondary Outcomes</title><p>Secondary variables for efficacy were also non-significantly affected by pioglitazone treatment. ALS-FRS-R score and slope was not affected by pioglitazone (<italic>p</italic>&#x0200a;=&#x0200a;0.66, <xref ref-type="fig" rid="pone-0037885-g003">Figure 3</xref>), and this was also the case for quality of life and slow vital capacity (not shown). The incidence of tracheotomy during the study period was unchanged by pioglitazone (pioglitazone: 6.4&#x00025;, placebo: 4.6&#x00025;, <italic>p</italic>&#x0200a;=&#x0200a;0.54). So was the incidence of NIV (pioglitazone: 20.2&#x00025;, placebo: 26.6&#x00025;, <italic>p</italic>&#x0200a;=&#x0200a;0.28).</p><fig id="pone-0037885-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0037885.g003</object-id><label>Figure 3</label><caption><title>ALS-FRS upon pioglitazone.</title><p>Total changes in ALS-FRS-R score after initiation of the treatment. Placebo-treated patients are in blue and pioglitazone treated patients are in red. The table below indicates the number of patients (n) per time point. Error bars are standard errors.</p></caption><graphic xlink:href="pone.0037885.g003"/></fig></sec><sec id="s3e"><title>Adverse Events</title><p>Pioglitazone was well tolerated and most adverse events were due to ALS disease progression, <italic>e.g.</italic> dysphagia, dyspnoea or respiratory failure rather than to pioglitazone treatment, <italic>e.g.</italic> oedema (<xref ref-type="table" rid="pone-0037885-t002">table 2</xref>).</p><table-wrap id="pone-0037885-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0037885.t002</object-id><label>Table 2</label><caption><title>Adverse events.</title></caption><alternatives><graphic id="pone-0037885-t002-2" xlink:href="pone.0037885.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Adverse event</td><td align="left" rowspan="1" colspan="1">Pioglitazone (n&#x0200a;=&#x0200a;109)</td><td align="left" rowspan="1" colspan="1">Placebo (n&#x0200a;=&#x0200a;109)</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic> value</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Dysphagia</td><td align="left" rowspan="1" colspan="1">32 (29.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">34 (31.2&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.88</td></tr><tr><td align="left" rowspan="1" colspan="1">Dyspnoea</td><td align="left" rowspan="1" colspan="1">35 (32.1&#x00025;)</td><td align="left" rowspan="1" colspan="1">31 (28.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.66</td></tr><tr><td align="left" rowspan="1" colspan="1">Respiratory failure</td><td align="left" rowspan="1" colspan="1">33 (30.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">31 (28.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.88</td></tr><tr><td align="left" rowspan="1" colspan="1">Oedema</td><td align="left" rowspan="1" colspan="1">26 (23.9&#x00025;)</td><td align="left" rowspan="1" colspan="1">18 (16.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.24</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression</td><td align="left" rowspan="1" colspan="1">14 (12.8&#x00025;)</td><td align="left" rowspan="1" colspan="1">13 (11.9&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Weight loss</td><td align="left" rowspan="1" colspan="1">18 (16.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">9 (8.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.10</td></tr><tr><td align="left" rowspan="1" colspan="1">Constipation</td><td align="left" rowspan="1" colspan="1">15 (13.8&#x00025;)</td><td align="left" rowspan="1" colspan="1">11 (10.1&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.53</td></tr><tr><td align="left" rowspan="1" colspan="1">Fatigue</td><td align="left" rowspan="1" colspan="1">12 (11.0&#x00025;)</td><td align="left" rowspan="1" colspan="1">14 (12.8&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.83</td></tr><tr><td align="left" rowspan="1" colspan="1">Nasopharyngitis</td><td align="left" rowspan="1" colspan="1">13 (11.9&#x00025;)</td><td align="left" rowspan="1" colspan="1">12 (11.0&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.83</td></tr><tr><td align="left" rowspan="1" colspan="1">Fall</td><td align="left" rowspan="1" colspan="1">11 (10.1&#x00025;)</td><td align="left" rowspan="1" colspan="1">11 (10.1&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Back pain</td><td align="left" rowspan="1" colspan="1">9 (8.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">10 (9.2&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Musculoskeletal pain</td><td align="left" rowspan="1" colspan="1">9 (8.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">7 (6.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.80</td></tr><tr><td align="left" rowspan="1" colspan="1">Headache</td><td align="left" rowspan="1" colspan="1">7 (6.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">7 (6.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Muscle spasms</td><td align="left" rowspan="1" colspan="1">7 (6.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">7 (6.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Salivary hyper secretion</td><td align="left" rowspan="1" colspan="1">6 (5.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">8 (7.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.78</td></tr><tr><td align="left" rowspan="1" colspan="1">Sleep disorder</td><td align="left" rowspan="1" colspan="1">6 (5.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">8 (7.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.78</td></tr><tr><td align="left" rowspan="1" colspan="1">Bronchitis</td><td align="left" rowspan="1" colspan="1">7 (6.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">5 (4.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.77</td></tr><tr><td align="left" rowspan="1" colspan="1">Dizziness</td><td align="left" rowspan="1" colspan="1">8 (7.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">4 (3.7&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.37</td></tr><tr><td align="left" rowspan="1" colspan="1">Pain in extremity</td><td align="left" rowspan="1" colspan="1">10 (9.2&#x00025;)</td><td align="left" rowspan="1" colspan="1">2 (1.8&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.03</td></tr><tr><td align="left" rowspan="1" colspan="1">Pneumonia</td><td align="left" rowspan="1" colspan="1">7 (6.4&#x00025;)</td><td align="left" rowspan="1" colspan="1">5 (4.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.77</td></tr><tr><td align="left" rowspan="1" colspan="1">Urinary tract infection</td><td align="left" rowspan="1" colspan="1">9 (8.3&#x00025;)</td><td align="left" rowspan="1" colspan="1">3 (2.8&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.13</td></tr><tr><td align="left" rowspan="1" colspan="1">Nausea</td><td align="left" rowspan="1" colspan="1">6 (5.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">5 (4.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Pain</td><td align="left" rowspan="1" colspan="1">6 (5.5&#x00025;)</td><td align="left" rowspan="1" colspan="1">5 (4.6&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr></tbody></table></alternatives></table-wrap></sec></sec><sec id="s4"><title>Discussion</title><p>In this randomized clinical trial, we could not show that pioglitazone is a valid therapeutic option for ALS patients under riluzole.</p><p>A number of clinical trials have been performed in ALS since the positive trial of riluzole (<xref ref-type="supplementary-material" rid="pone.0037885.s001">Table S1</xref> and references therein) <xref rid="pone.0037885-Lacomblez1" ref-type="bibr">[1]</xref>. Except the recent small trial on dexpramipaxole <xref rid="pone.0037885-Cudkowicz1" ref-type="bibr">[20]</xref>, these trials were all negative. Most of them were based on preclinical results obtained in SOD1 mouse models that were either single studies in animals, that have not been reproduced by other laboratories (creatine <xref rid="pone.0037885-Klivenyi1" ref-type="bibr">[21]</xref>, <xref rid="pone.0037885-Scott1" ref-type="bibr">[22]</xref>, celecoxib <xref rid="pone.0037885-Klivenyi1" ref-type="bibr">[21]</xref>, <xref rid="pone.0037885-Scott1" ref-type="bibr">[22]</xref>, <xref rid="pone.0037885-Klivenyi2" ref-type="bibr">[23]</xref>), or controversial studies (lithium <xref rid="pone.0037885-Fornai1" ref-type="bibr">[24]</xref>, <xref rid="pone.0037885-Gill1" ref-type="bibr">[25]</xref>, <xref rid="pone.0037885-Pizzasegola1" ref-type="bibr">[26]</xref>, IGF-1 <xref rid="pone.0037885-Kaspar1" ref-type="bibr">[27]</xref>, <xref rid="pone.0037885-Dobrowolny1" ref-type="bibr">[28]</xref>, <xref rid="pone.0037885-Messi1" ref-type="bibr">[29]</xref>) (<xref ref-type="supplementary-material" rid="pone.0037885.s001">Table S1</xref> and references therein). To our knowledge, only minocycline <xref rid="pone.0037885-Kriz1" ref-type="bibr">[30]</xref>, <xref rid="pone.0037885-VanDenBosch1" ref-type="bibr">[31]</xref>, <xref rid="pone.0037885-Zhu1" ref-type="bibr">[32]</xref> and pioglitazone <xref rid="pone.0037885-Schutz1" ref-type="bibr">[5]</xref>, <xref rid="pone.0037885-Kiaei1" ref-type="bibr">[6]</xref> have been shown to display protection in mutant SOD1 mice by at least two independent laboratories and have been tested in clinical trials (this study and <xref rid="pone.0037885-Gordon1" ref-type="bibr">[33]</xref>). These disappointing results claim strongly for the generation of alternative models of ALS. Indeed, the recent identification of new genetic causes of ALS, in particular intronic expansions in the Chr9 ORF 72 gene that account for more than 30&#x00025; of familial ALS, and a subset of sporadic ALS <xref rid="pone.0037885-DejesusHernandez1" ref-type="bibr">[34]</xref>, <xref rid="pone.0037885-Renton1" ref-type="bibr">[35]</xref>, could provide unvaluable alternative preclinical models. Mutant SOD1 mice currently represent the only animal model that reliably reproduces the phenotype of ALS patients, but one should keep in mind that SOD1 mutations only represent 2&#x00025; of total ALS cases and do not lead to TDP43/FUS/optineurin inclusions <xref rid="pone.0037885-Deng1" ref-type="bibr">[36]</xref>, <xref rid="pone.0037885-Mackenzie1" ref-type="bibr">[37]</xref>, <xref rid="pone.0037885-Deng2" ref-type="bibr">[38]</xref>.</p><p>In the specific case of pioglitazone, three groups independently reported protection by pioglitazone in mutant SOD1 mice <xref rid="pone.0037885-Shibata1" ref-type="bibr">[4]</xref>, <xref rid="pone.0037885-Schutz1" ref-type="bibr">[5]</xref>, <xref rid="pone.0037885-Kiaei1" ref-type="bibr">[6]</xref>. The causes of the discrepancy between our negative clinical trial result, and these promising preclinical trials are still elusive. First, preclinical trials might have been inadequately designed since they did not follow guidelines published after their completion <xref rid="pone.0037885-Scott1" ref-type="bibr">[22]</xref>, <xref rid="pone.0037885-Ludolph1" ref-type="bibr">[39]</xref>. In particular these guidelines now indicate to use at least 12 animals per group and per gender in a fully blinded manner <xref rid="pone.0037885-Ludolph1" ref-type="bibr">[39]</xref>. Both studies used 7&#x02013;12 mice per group for survival analysis, with Schutz and collaborators <xref rid="pone.0037885-Schutz1" ref-type="bibr">[5]</xref> using only male mice while Kiaei and collaborators <xref rid="pone.0037885-Kiaei1" ref-type="bibr">[6]</xref> did not specify gender. Blinding, mandatory in the new guidelines, was performed for one of the studies <xref rid="pone.0037885-Schutz1" ref-type="bibr">[5]</xref>, but is not mentionned for the other one. Second, the animal model might be relevant for studying mechanisms, but of poor relevance for preclinical trials. Third, we cannot completely exclude that riluzole masks beneficial effects of pioglitazone, for instance through modification of its brain disposal. Indeed, riluzole interferes with P-glycoprotein efflux pomp and modifies brain disposal of minocycline <xref rid="pone.0037885-Milane1" ref-type="bibr">[40]</xref>. Thus, despite pioglitazone is known to cross partially the blood brain barriers in mammals <xref rid="pone.0037885-Maeshiba1" ref-type="bibr">[41]</xref>, it may not have reached the concerned brain regions in concentrations that would have allowed for neuroprotection due to interference with riluzole. Of note, a poor translation of the dosage is unlikely since doses used correspond to dosages recently described for their efficacy in non-diabetic patients. However, preclinical trials have been performed in mice before disease onset, and the time window of pioglitazone administration might well be inadequate. Indeed, PPAR&#x003b3; and inflammation-promoting transduction pathways such as NF-&#x003ba;B are antagonistic <xref rid="pone.0037885-Glass1" ref-type="bibr">[42]</xref>, <xref rid="pone.0037885-Glass2" ref-type="bibr">[43]</xref>. Given the robust inflammatory reaction in the ventral horn of ALS patients <xref rid="pone.0037885-Philips1" ref-type="bibr">[2]</xref> initiation of treatment after several months of disease progression might be too late. Our study illustrates the difficult translation from mouse models to human ALS, and strongly claims for the generation of new SOD1-independent animal models.</p><p>Summarizing, we could not find any protective effect of pioglitazone in ALS patients under riluzole. The cause for this failed clinical translation remains elusive.</p></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0037885.s001"><label>Table S1</label><caption><p>
+<bold>Previous clinical trials in ALS since riluzole trials (1994&#x02013;1996).</bold>
+</p><p>(DOC)</p></caption><media xlink:href="pone.0037885.s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0037885.s002"><label>Checklist S1</label><caption><p>
+<bold>CONSORT Checklist.</bold>
+</p><p>(DOC)</p></caption><media xlink:href="pone.0037885.s002.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0037885.s003"><label>Protocol S1</label><caption><p>
+<bold>Trial Protocol.</bold>
+</p><p>(PDF)</p></caption><media xlink:href="pone.0037885.s003.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We thank the patients and families.</p><p>
+<bold><underline>Members of the GERP ALS study group:</underline></bold>
+</p><p>Investigators are listed by alphabetical order of centre and investigator:</p><p>
+<bold>Berlin (Department of Neurology, Charit&#x000e9; University Hospital)</bold>
+</p><p>Nadja Borisow; Theresa Holm; Andre Maier; Thomas Meyer</p><p>
+<bold><italic>Bochum (Department of Neurology, University Hospital Bergmannsheil)</italic></bold>
+</p><p>Paula Budde; Torsten Grehl; Anne-Katrin Guettsches</p><p>
+<bold>Bonn (Department of Neurology, University Hospital of Bonn)</bold>
+</p><p>Malte Bewersdorff; Michael Heneka</p><p>
+<bold>Dresden (Department of Neurology, University Hospital Carl Gustav Carus, University of Technology)</bold>
+</p><p>Andreas Hermann; Alexander Storch</p><p>
+<bold>G&#x000f6;ttingen (Department of Neurology, University Hospital of G&#x000f6;ttingen)</bold>
+</p><p>Tobias Frank; Bettina G&#x000f6;ricke; Jochen Weishaupt</p><p>
+<bold>Halle (Department of Neurology, University Hospital of Halle/Saale)</bold>
+</p><p>Katharina Eger; Frank Hanisch; Stephan Zierz</p><p>
+<bold>Hannover (Department of Neurology and Clinical Neurophysiology, Hannover Medical School (MHH), University Clinic)</bold>
+</p><p>Anna-Lena Cordes; Reinhard Dengler; Sonja Koerner; Katja Kollewe; Susanne Petri</p><p>
+<bold>Jena (Department of Neurology, University Hospital Jena)</bold>
+</p><p>Julian Grosskreutz; Albrecht Kunze; Tino Prell; Thomas Ringer; Jan Zinke</p><p>
+<bold>Munich (Department of Neurology, University of Munich)</bold>
+</p><p>Johanna Anneser; Gian Domenico Borasio; Christine Chahli; Andrea S. Winkler</p><p>
+<bold>Muenster (Department of Neurology, University of Muenster)</bold>
+</p><p>Matthias Boentert; Bianca Stubbe-Draeger; Peter Young</p><p>
+<bold>Regensburg (Department of Neurology, University of Regensburg)</bold>
+</p><p>Ulrich Bogdahn; Steffen Franz; Verena Haringer; Norbert Weidner</p><p>
+<bold>Rostock (Department of Neurology, University of Rostock)</bold>
+</p><p>Reiner Benecke; Stefanie Meister; Johannes Prudlo; Matthias Wittstock</p><p>
+<bold>Ulm (Department of Neurology, University of Ulm)</bold>
+</p><p>Johannes Dorst; Corinna Hendrich; Albert C. Ludolph; Anne-Dorte Sperfeld; Ulrike Weiland</p><p>
+<bold>Wiesbaden (Department of Neurology, Neurological clinic, DKD)</bold>
+</p><p>Sabine Neidhardt; Berthold Schrank</p><p>
+<bold>Wurzburg (Department of Neurology, University of Wurzburg)</bold>
+</p><p>Marcus Beck; Peter Kraft; Klaus Toyka; Jochen Ulzheimer; Carsten Wessig</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>Takeda Pharma GmbH partly funded this study. The trial used Pioglitazone which is a Takeda product. There are no other patents, products in development or marketed products to disclose. This does not alter the authors&#x02019; adherence to all the PLOS ONE policies on sharing data and materials.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>The study was partly supported by Takeda Pharma GmbH (Germany). No additional external funding was received for this study. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. The principal investigator (ACL) had full access to the data, and took the final decision to publication. LD is supported by a DFG Mercator professorship and a &#x0201c;contrat d&#x02019;interface&#x0201d; INSERM AP-HP.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0037885-Lacomblez1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lacomblez</surname><given-names>L</given-names></name><name><surname>Bensimon</surname><given-names>G</given-names></name><name><surname>Leigh</surname><given-names>PN</given-names></name><name><surname>Guillet</surname><given-names>P</given-names></name><name><surname>Meininger</surname><given-names>V</given-names></name></person-group>
+<year>1996</year>
+<article-title>Dose-ranging study of riluzole in amyotrophic lateral sclerosis. Amyotrophic Lateral Sclerosis/Riluzole Study Group II.</article-title>
+<source>Lancet</source>
+<volume>347</volume>
+<fpage>1425</fpage>
+<lpage>1431</lpage>
+<pub-id pub-id-type="pmid">8676624</pub-id></element-citation></ref><ref id="pone.0037885-Philips1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Philips</surname><given-names>T</given-names></name><name><surname>Robberecht</surname><given-names>W</given-names></name></person-group>
+<year>2011</year>
+<article-title>Neuroinflammation in amyotrophic lateral sclerosis: role of glial activation in motor neuron disease.</article-title>
+<source>Lancet Neurol</source>
+<volume>10</volume>
+<fpage>253</fpage>
+<lpage>263</lpage>
+<pub-id pub-id-type="pmid">21349440</pub-id></element-citation></ref><ref id="pone.0037885-Ceriello1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ceriello</surname><given-names>A</given-names></name></person-group>
+<year>2008</year>
+<article-title>Thiazolidinediones as anti-inflammatory and anti-atherogenic agents.</article-title>
+<source>Diabetes Metab Res Rev</source>
+<volume>24</volume>
+<fpage>14</fpage>
+<lpage>26</lpage>
+<pub-id pub-id-type="pmid">17990280</pub-id></element-citation></ref><ref id="pone.0037885-Shibata1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shibata</surname><given-names>N</given-names></name><name><surname>Kawaguchi-Niida</surname><given-names>M</given-names></name><name><surname>Yamamoto</surname><given-names>T</given-names></name><name><surname>Toi</surname><given-names>S</given-names></name><name><surname>Hirano</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Effects of the PPARgamma activator pioglitazone on p38 MAP kinase and IkappaBalpha in the spinal cord of a transgenic mouse model of amyotrophic lateral sclerosis.</article-title>
+<source>Neuropathology</source>
+<volume>28</volume>
+<fpage>387</fpage>
+<lpage>398</lpage>
+<pub-id pub-id-type="pmid">18312546</pub-id></element-citation></ref><ref id="pone.0037885-Schutz1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schutz</surname><given-names>B</given-names></name><name><surname>Reimann</surname><given-names>J</given-names></name><name><surname>Dumitrescu-Ozimek</surname><given-names>L</given-names></name><name><surname>Kappes-Horn</surname><given-names>K</given-names></name><name><surname>Landreth</surname><given-names>GE</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>The oral antidiabetic pioglitazone protects from neurodegeneration and amyotrophic lateral sclerosis-like symptoms in superoxide dismutase-G93A transgenic mice.</article-title>
+<source>J Neurosci</source>
+<volume>25</volume>
+<fpage>7805</fpage>
+<lpage>7812</lpage>
+<pub-id pub-id-type="pmid">16120782</pub-id></element-citation></ref><ref id="pone.0037885-Kiaei1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kiaei</surname><given-names>M</given-names></name><name><surname>Kipiani</surname><given-names>K</given-names></name><name><surname>Chen</surname><given-names>J</given-names></name><name><surname>Calingasan</surname><given-names>NY</given-names></name><name><surname>Beal</surname><given-names>MF</given-names></name></person-group>
+<year>2005</year>
+<article-title>Peroxisome proliferator-activated receptor-gamma agonist extends survival in transgenic mouse model of amyotrophic lateral sclerosis.</article-title>
+<source>Exp Neurol</source>
+<volume>191</volume>
+<fpage>331</fpage>
+<lpage>336</lpage>
+<pub-id pub-id-type="pmid">15649489</pub-id></element-citation></ref><ref id="pone.0037885-DeFronzo1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>DeFronzo</surname><given-names>RA</given-names></name><name><surname>Tripathy</surname><given-names>D</given-names></name><name><surname>Schwenke</surname><given-names>DC</given-names></name><name><surname>Banerji</surname><given-names>M</given-names></name><name><surname>Bray</surname><given-names>GA</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Pioglitazone for diabetes prevention in impaired glucose tolerance.</article-title>
+<source>N Engl J Med</source>
+<volume>364</volume>
+<fpage>1104</fpage>
+<lpage>1115</lpage>
+<pub-id pub-id-type="pmid">21428766</pub-id></element-citation></ref><ref id="pone.0037885-Sanyal1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanyal</surname><given-names>AJ</given-names></name><name><surname>Chalasani</surname><given-names>N</given-names></name><name><surname>Kowdley</surname><given-names>KV</given-names></name><name><surname>McCullough</surname><given-names>A</given-names></name><name><surname>Diehl</surname><given-names>AM</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Pioglitazone, vitamin E, or placebo for nonalcoholic steatohepatitis.</article-title>
+<source>N Engl J Med</source>
+<volume>362</volume>
+<fpage>1675</fpage>
+<lpage>1685</lpage>
+<pub-id pub-id-type="pmid">20427778</pub-id></element-citation></ref><ref id="pone.0037885-Belfort1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Belfort</surname><given-names>R</given-names></name><name><surname>Harrison</surname><given-names>SA</given-names></name><name><surname>Brown</surname><given-names>K</given-names></name><name><surname>Darland</surname><given-names>C</given-names></name><name><surname>Finch</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>A placebo-controlled trial of pioglitazone in subjects with nonalcoholic steatohepatitis.</article-title>
+<source>N Engl J Med</source>
+<volume>355</volume>
+<fpage>2297</fpage>
+<lpage>2307</lpage>
+<pub-id pub-id-type="pmid">17135584</pub-id></element-citation></ref><ref id="pone.0037885-Promrat1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Promrat</surname><given-names>K</given-names></name><name><surname>Lutchman</surname><given-names>G</given-names></name><name><surname>Uwaifo</surname><given-names>GI</given-names></name><name><surname>Freedman</surname><given-names>RJ</given-names></name><name><surname>Soza</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>A pilot study of pioglitazone treatment for nonalcoholic steatohepatitis.</article-title>
+<source>Hepatology</source>
+<volume>39</volume>
+<fpage>188</fpage>
+<lpage>196</lpage>
+<pub-id pub-id-type="pmid">14752837</pub-id></element-citation></ref><ref id="pone.0037885-Lu1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lu</surname><given-names>M</given-names></name><name><surname>Sarruf</surname><given-names>DA</given-names></name><name><surname>Talukdar</surname><given-names>S</given-names></name><name><surname>Sharma</surname><given-names>S</given-names></name><name><surname>Li</surname><given-names>P</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Brain PPAR-gamma promotes obesity and is required for the insulin-sensitizing effect of thiazolidinediones.</article-title>
+<source>Nat Med</source>
+<volume>17</volume>
+<fpage>618</fpage>
+<lpage>622</lpage>
+<pub-id pub-id-type="pmid">21532596</pub-id></element-citation></ref><ref id="pone.0037885-Ryan1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ryan</surname><given-names>KK</given-names></name><name><surname>Li</surname><given-names>B</given-names></name><name><surname>Grayson</surname><given-names>BE</given-names></name><name><surname>Matter</surname><given-names>EK</given-names></name><name><surname>Woods</surname><given-names>SC</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>A role for central nervous system PPAR-gamma in the regulation of energy balance.</article-title>
+<source>Nat Med</source>
+<volume>17</volume>
+<fpage>623</fpage>
+<lpage>626</lpage>
+<pub-id pub-id-type="pmid">21532595</pub-id></element-citation></ref><ref id="pone.0037885-Dupuis1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dupuis</surname><given-names>L</given-names></name><name><surname>Oudart</surname><given-names>H</given-names></name><name><surname>Rene</surname><given-names>F</given-names></name><name><surname>Gonzalez de Aguilar</surname><given-names>JL</given-names></name><name><surname>Loeffler</surname><given-names>JP</given-names></name></person-group>
+<year>2004</year>
+<article-title>Evidence for defective energy homeostasis in amyotrophic lateral sclerosis: benefit of a high-energy diet in a transgenic mouse model.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>101</volume>
+<fpage>11159</fpage>
+<lpage>11164</lpage>
+<pub-id pub-id-type="pmid">15263088</pub-id></element-citation></ref><ref id="pone.0037885-Paganoni1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paganoni</surname><given-names>S</given-names></name><name><surname>Deng</surname><given-names>J</given-names></name><name><surname>Jaffa</surname><given-names>M</given-names></name><name><surname>Cudkowicz</surname><given-names>ME</given-names></name><name><surname>Wills</surname><given-names>AM</given-names></name></person-group>
+<year>2011</year>
+<article-title>Body mass index, not dyslipidemia, is an independent predictor of survival in amyotrophic lateral sclerosis.</article-title>
+<source>Muscle Nerve</source>
+<volume>44</volume>
+<fpage>20</fpage>
+<lpage>24</lpage>
+<pub-id pub-id-type="pmid">21607987</pub-id></element-citation></ref><ref id="pone.0037885-Dupuis2"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dupuis</surname><given-names>L</given-names></name><name><surname>Corcia</surname><given-names>P</given-names></name><name><surname>Fergani</surname><given-names>A</given-names></name><name><surname>Gonzalez De Aguilar</surname><given-names>JL</given-names></name><name><surname>Bonnefont-Rousselot</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Dyslipidemia is a protective factor in amyotrophic lateral sclerosis.</article-title>
+<source>Neurology</source>
+<volume>70</volume>
+<fpage>1004</fpage>
+<lpage>1009</lpage>
+<pub-id pub-id-type="pmid">18199832</pub-id></element-citation></ref><ref id="pone.0037885-Dorst1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dorst</surname><given-names>J</given-names></name><name><surname>K&#x000fc;hnlein</surname><given-names>P</given-names></name><name><surname>Hendrich</surname><given-names>C</given-names></name><name><surname>Kassubek</surname><given-names>J</given-names></name><name><surname>Sperfeld</surname><given-names>AD</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Patients with elevated triglyceride and cholesterol serum levels have a prolonged survival in Amyotrophic Lateral Sclerosis.</article-title>
+<source>J Neurol</source>
+<volume>258</volume>
+<fpage>613</fpage>
+<lpage>617</lpage>
+<pub-id pub-id-type="pmid">21128082</pub-id></element-citation></ref><ref id="pone.0037885-Meininger1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meininger</surname><given-names>V</given-names></name><name><surname>Asselain</surname><given-names>B</given-names></name><name><surname>Guillet</surname><given-names>P</given-names></name><name><surname>Leigh</surname><given-names>PN</given-names></name><name><surname>Ludolph</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Pentoxifylline in ALS: a double-blind, randomized, multicenter, placebo-controlled trial.</article-title>
+<source>Neurology</source>
+<volume>66</volume>
+<fpage>88</fpage>
+<lpage>92</lpage>
+<pub-id pub-id-type="pmid">16401852</pub-id></element-citation></ref><ref id="pone.0037885-Wang1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>SK</given-names></name><name><surname>Tsiatis</surname><given-names>AA</given-names></name></person-group>
+<year>1987</year>
+<article-title>Approximately optimal one-parameter boundaries for group sequential trials.</article-title>
+<source>Biometrics</source>
+<volume>43</volume>
+<fpage>193</fpage>
+<lpage>199</lpage>
+<pub-id pub-id-type="pmid">3567304</pub-id></element-citation></ref><ref id="pone.0037885-Dupuis3"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dupuis</surname><given-names>L</given-names></name><name><surname>Pradat</surname><given-names>PF</given-names></name><name><surname>Ludolph</surname><given-names>AC</given-names></name><name><surname>Loeffler</surname><given-names>JP</given-names></name></person-group>
+<year>2011</year>
+<article-title>Energy metabolism in amyotrophic lateral sclerosis.</article-title>
+<source>Lancet Neurol</source>
+<volume>10</volume>
+<fpage>75</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="pmid">21035400</pub-id></element-citation></ref><ref id="pone.0037885-Cudkowicz1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cudkowicz</surname><given-names>M</given-names></name><name><surname>Bozik</surname><given-names>ME</given-names></name><name><surname>Ingersoll</surname><given-names>EW</given-names></name><name><surname>Miller</surname><given-names>R</given-names></name><name><surname>Mitsumoto</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>The effects of dexpramipexole (KNS-760704) in individuals with amyotrophic lateral sclerosis.</article-title>
+<source>Nat Med</source>
+<volume>17</volume>
+<fpage>1652</fpage>
+<lpage>1656</lpage>
+<pub-id pub-id-type="pmid">22101764</pub-id></element-citation></ref><ref id="pone.0037885-Klivenyi1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klivenyi</surname><given-names>P</given-names></name><name><surname>Ferrante</surname><given-names>RJ</given-names></name><name><surname>Matthews</surname><given-names>RT</given-names></name><name><surname>Bogdanov</surname><given-names>MB</given-names></name><name><surname>Klein</surname><given-names>AM</given-names></name><etal/></person-group>
+<year>1999</year>
+<article-title>Neuroprotective effects of creatine in a transgenic animal model of amyotrophic lateral sclerosis.</article-title>
+<source>Nat Med</source>
+<volume>5</volume>
+<fpage>347</fpage>
+<lpage>350</lpage>
+<pub-id pub-id-type="pmid">10086395</pub-id></element-citation></ref><ref id="pone.0037885-Scott1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scott</surname><given-names>S</given-names></name><name><surname>Kranz</surname><given-names>JE</given-names></name><name><surname>Cole</surname><given-names>J</given-names></name><name><surname>Lincecum</surname><given-names>JM</given-names></name><name><surname>Thompson</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Design, power, and interpretation of studies in the standard murine model of ALS.</article-title>
+<source>Amyotroph Lateral Scler</source>
+<volume>9</volume>
+<fpage>4</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="pmid">18273714</pub-id></element-citation></ref><ref id="pone.0037885-Klivenyi2"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klivenyi</surname><given-names>P</given-names></name><name><surname>Kiaei</surname><given-names>M</given-names></name><name><surname>Gardian</surname><given-names>G</given-names></name><name><surname>Calingasan</surname><given-names>NY</given-names></name><name><surname>Beal</surname><given-names>MF</given-names></name></person-group>
+<year>2004</year>
+<article-title>Additive neuroprotective effects of creatine and cyclooxygenase 2 inhibitors in a transgenic mouse model of amyotrophic lateral sclerosis.</article-title>
+<source>J Neurochem</source>
+<volume>88</volume>
+<fpage>576</fpage>
+<lpage>582</lpage>
+<pub-id pub-id-type="pmid">14720207</pub-id></element-citation></ref><ref id="pone.0037885-Fornai1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fornai</surname><given-names>F</given-names></name><name><surname>Longone</surname><given-names>P</given-names></name><name><surname>Cafaro</surname><given-names>L</given-names></name><name><surname>Kastsiuchenka</surname><given-names>O</given-names></name><name><surname>Ferrucci</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Lithium delays progression of amyotrophic lateral sclerosis.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>105</volume>
+<fpage>2052</fpage>
+<lpage>2057</lpage>
+<pub-id pub-id-type="pmid">18250315</pub-id></element-citation></ref><ref id="pone.0037885-Gill1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gill</surname><given-names>A</given-names></name><name><surname>Kidd</surname><given-names>J</given-names></name><name><surname>Vieira</surname><given-names>F</given-names></name><name><surname>Thompson</surname><given-names>K</given-names></name><name><surname>Perrin</surname><given-names>S</given-names></name></person-group>
+<year>2009</year>
+<article-title>No benefit from chronic lithium dosing in a sibling-matched, gender balanced, investigator-blinded trial using a standard mouse model of familial ALS.</article-title>
+<source>PLoS One</source>
+<volume>4</volume>
+<fpage>e6489</fpage>
+<pub-id pub-id-type="pmid">19649300</pub-id></element-citation></ref><ref id="pone.0037885-Pizzasegola1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pizzasegola</surname><given-names>C</given-names></name><name><surname>Caron</surname><given-names>I</given-names></name><name><surname>Daleno</surname><given-names>C</given-names></name><name><surname>Ronchi</surname><given-names>A</given-names></name><name><surname>Minoia</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Treatment with lithium carbonate does not improve disease progression in two different strains of SOD1 mutant mice.</article-title>
+<source>Amyotroph Lateral Scler</source>
+<volume>10</volume>
+<fpage>221</fpage>
+<lpage>228</lpage>
+<pub-id pub-id-type="pmid">19308767</pub-id></element-citation></ref><ref id="pone.0037885-Kaspar1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaspar</surname><given-names>BK</given-names></name><name><surname>Llado</surname><given-names>J</given-names></name><name><surname>Sherkat</surname><given-names>N</given-names></name><name><surname>Rothstein</surname><given-names>JD</given-names></name><name><surname>Gage</surname><given-names>FH</given-names></name></person-group>
+<year>2003</year>
+<article-title>Retrograde viral delivery of IGF-1 prolongs survival in a mouse ALS model.</article-title>
+<source>Science</source>
+<volume>301</volume>
+<fpage>839</fpage>
+<lpage>842</lpage>
+<pub-id pub-id-type="pmid">12907804</pub-id></element-citation></ref><ref id="pone.0037885-Dobrowolny1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dobrowolny</surname><given-names>G</given-names></name><name><surname>Giacinti</surname><given-names>C</given-names></name><name><surname>Pelosi</surname><given-names>L</given-names></name><name><surname>Nicoletti</surname><given-names>C</given-names></name><name><surname>Winn</surname><given-names>N</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Muscle expression of a local Igf-1 isoform protects motor neurons in an ALS mouse model.</article-title>
+<source>J Cell Biol</source>
+<volume>168</volume>
+<fpage>193</fpage>
+<lpage>199</lpage>
+<pub-id pub-id-type="pmid">15657392</pub-id></element-citation></ref><ref id="pone.0037885-Messi1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Messi</surname><given-names>ML</given-names></name><name><surname>Clark</surname><given-names>HM</given-names></name><name><surname>Prevette</surname><given-names>DM</given-names></name><name><surname>Oppenheim</surname><given-names>RW</given-names></name><name><surname>Delbono</surname><given-names>O</given-names></name></person-group>
+<year>2007</year>
+<article-title>The lack of effect of specific overexpression of IGF-1 in the central nervous system or skeletal muscle on pathophysiology in the G93A SOD-1 mouse model of ALS.</article-title>
+<source>Exp Neurol</source>
+<volume>207</volume>
+<fpage>52</fpage>
+<lpage>63</lpage>
+<pub-id pub-id-type="pmid">17597610</pub-id></element-citation></ref><ref id="pone.0037885-Kriz1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kriz</surname><given-names>J</given-names></name><name><surname>Nguyen</surname><given-names>MD</given-names></name><name><surname>Julien</surname><given-names>JP</given-names></name></person-group>
+<year>2002</year>
+<article-title>Minocycline slows disease progression in a mouse model of amyotrophic lateral sclerosis.</article-title>
+<source>Neurobiol Dis</source>
+<volume>10</volume>
+<fpage>268</fpage>
+<lpage>278</lpage>
+<pub-id pub-id-type="pmid">12270689</pub-id></element-citation></ref><ref id="pone.0037885-VanDenBosch1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Den Bosch</surname><given-names>L</given-names></name><name><surname>Tilkin</surname><given-names>P</given-names></name><name><surname>Lemmens</surname><given-names>G</given-names></name><name><surname>Robberecht</surname><given-names>W</given-names></name></person-group>
+<year>2002</year>
+<article-title>Minocycline delays disease onset and mortality in a transgenic model of ALS.</article-title>
+<source>Neuroreport</source>
+<volume>13</volume>
+<fpage>1067</fpage>
+<lpage>1070</lpage>
+<pub-id pub-id-type="pmid">12060810</pub-id></element-citation></ref><ref id="pone.0037885-Zhu1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhu</surname><given-names>S</given-names></name><name><surname>Stavrovskaya</surname><given-names>IG</given-names></name><name><surname>Drozda</surname><given-names>M</given-names></name><name><surname>Kim</surname><given-names>BY</given-names></name><name><surname>Ona</surname><given-names>V</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Minocycline inhibits cytochrome c release and delays progression of amyotrophic lateral sclerosis in mice.</article-title>
+<source>Nature</source>
+<volume>417</volume>
+<fpage>74</fpage>
+<lpage>78</lpage>
+<pub-id pub-id-type="pmid">11986668</pub-id></element-citation></ref><ref id="pone.0037885-Gordon1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gordon</surname><given-names>PH</given-names></name><name><surname>Moore</surname><given-names>DH</given-names></name><name><surname>Miller</surname><given-names>RG</given-names></name><name><surname>Florence</surname><given-names>JM</given-names></name><name><surname>Verheijde</surname><given-names>JL</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Efficacy of minocycline in patients with amyotrophic lateral sclerosis: a phase III randomised trial.</article-title>
+<source>Lancet Neurol</source>
+<volume>6</volume>
+<fpage>1045</fpage>
+<lpage>1053</lpage>
+<pub-id pub-id-type="pmid">17980667</pub-id></element-citation></ref><ref id="pone.0037885-DejesusHernandez1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dejesus-Hernandez</surname><given-names>M</given-names></name><name><surname>Mackenzie</surname><given-names>IR</given-names></name><name><surname>Boeve</surname><given-names>BF</given-names></name><name><surname>Boxer</surname><given-names>AL</given-names></name><name><surname>Baker</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Expanded GGGGCC Hexanucleotide Repeat in Noncoding Region of C9ORF72 Causes Chromosome 9p-Linked FTD and ALS.</article-title>
+<source>Neuron</source>
+<volume>72</volume>
+<fpage>245</fpage>
+<lpage>256</lpage>
+<pub-id pub-id-type="pmid">21944778</pub-id></element-citation></ref><ref id="pone.0037885-Renton1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Renton</surname><given-names>AE</given-names></name><name><surname>Majounie</surname><given-names>E</given-names></name><name><surname>Waite</surname><given-names>A</given-names></name><name><surname>Simon-Sanchez</surname><given-names>J</given-names></name><name><surname>Rollinson</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>A Hexanucleotide Repeat Expansion in C9ORF72 Is the Cause of Chromosome 9p21-Linked ALS-FTD.</article-title>
+<source>Neuron</source>
+<volume>72</volume>
+<fpage>257</fpage>
+<lpage>268</lpage>
+<pub-id pub-id-type="pmid">21944779</pub-id></element-citation></ref><ref id="pone.0037885-Deng1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deng</surname><given-names>HX</given-names></name><name><surname>Zhai</surname><given-names>H</given-names></name><name><surname>Bigio</surname><given-names>EH</given-names></name><name><surname>Yan</surname><given-names>J</given-names></name><name><surname>Fecto</surname><given-names>F</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>FUS-immunoreactive inclusions are a common feature in sporadic and non-SOD1 familial amyotrophic lateral sclerosis.</article-title>
+<source>Ann Neurol</source>
+<volume>67</volume>
+<fpage>739</fpage>
+<lpage>748</lpage>
+<pub-id pub-id-type="pmid">20517935</pub-id></element-citation></ref><ref id="pone.0037885-Mackenzie1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mackenzie</surname><given-names>IR</given-names></name><name><surname>Bigio</surname><given-names>EH</given-names></name><name><surname>Ince</surname><given-names>PG</given-names></name><name><surname>Geser</surname><given-names>F</given-names></name><name><surname>Neumann</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Pathological TDP-43 distinguishes sporadic amyotrophic lateral sclerosis from amyotrophic lateral sclerosis with SOD1 mutations.</article-title>
+<source>Ann Neurol</source>
+<volume>61</volume>
+<fpage>427</fpage>
+<lpage>434</lpage>
+<pub-id pub-id-type="pmid">17469116</pub-id></element-citation></ref><ref id="pone.0037885-Deng2"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deng</surname><given-names>HX</given-names></name><name><surname>Bigio</surname><given-names>EH</given-names></name><name><surname>Zhai</surname><given-names>H</given-names></name><name><surname>Fecto</surname><given-names>F</given-names></name><name><surname>Ajroud</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Differential Involvement of Optineurin in Amyotrophic Lateral Sclerosis With or Without SOD1 Mutations.</article-title>
+<source>Arch Neurol</source>
+<volume>68</volume>
+<fpage>1057</fpage>
+<lpage>1061</lpage>
+<pub-id pub-id-type="pmid">21825243</pub-id></element-citation></ref><ref id="pone.0037885-Ludolph1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ludolph</surname><given-names>AC</given-names></name><name><surname>Bendotti</surname><given-names>C</given-names></name><name><surname>Blaugrund</surname><given-names>E</given-names></name><name><surname>Hengerer</surname><given-names>B</given-names></name><name><surname>Loffler</surname><given-names>JP</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Guidelines for the preclinical in vivo evaluation of pharmacological active drugs for ALS/MND: report on the 142nd ENMC international workshop.</article-title>
+<source>Amyotroph Lateral Scler</source>
+<volume>8</volume>
+<fpage>217</fpage>
+<lpage>223</lpage>
+<pub-id pub-id-type="pmid">17653919</pub-id></element-citation></ref><ref id="pone.0037885-Milane1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Milane</surname><given-names>A</given-names></name><name><surname>Tortolano</surname><given-names>L</given-names></name><name><surname>Fernandez</surname><given-names>C</given-names></name><name><surname>Bensimon</surname><given-names>G</given-names></name><name><surname>Meininger</surname><given-names>V</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Brain and plasma riluzole pharmacokinetics: effect of minocycline combination.</article-title>
+<source>J Pharm Pharm Sci</source>
+<volume>12</volume>
+<fpage>209</fpage>
+<lpage>217</lpage>
+<pub-id pub-id-type="pmid">19732498</pub-id></element-citation></ref><ref id="pone.0037885-Maeshiba1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maeshiba</surname><given-names>Y</given-names></name><name><surname>Kiyota</surname><given-names>Y</given-names></name><name><surname>Yamashita</surname><given-names>K</given-names></name><name><surname>Yoshimura</surname><given-names>Y</given-names></name><name><surname>Motohashi</surname><given-names>M</given-names></name><etal/></person-group>
+<year>1997</year>
+<article-title>Disposition of the new antidiabetic agent pioglitazone in rats, dogs, and monkeys.</article-title>
+<source>Arzneimittelforschung</source>
+<volume>47</volume>
+<fpage>29</fpage>
+<lpage>35</lpage>
+<pub-id pub-id-type="pmid">9037440</pub-id></element-citation></ref><ref id="pone.0037885-Glass1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Glass</surname><given-names>CK</given-names></name><name><surname>Saijo</surname><given-names>K</given-names></name></person-group>
+<year>2010</year>
+<article-title>Nuclear receptor transrepression pathways that regulate inflammation in macrophages and T cells.</article-title>
+<source>Nat Rev Immunol</source>
+<volume>10</volume>
+<fpage>365</fpage>
+<lpage>376</lpage>
+<pub-id pub-id-type="pmid">20414208</pub-id></element-citation></ref><ref id="pone.0037885-Glass2"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Glass</surname><given-names>CK</given-names></name><name><surname>Saijo</surname><given-names>K</given-names></name><name><surname>Winner</surname><given-names>B</given-names></name><name><surname>Marchetto</surname><given-names>MC</given-names></name><name><surname>Gage</surname><given-names>FH</given-names></name></person-group>
+<year>2010</year>
+<article-title>Mechanisms underlying inflammation in neurodegeneration.</article-title>
+<source>Cell</source>
+<volume>140</volume>
+<fpage>918</fpage>
+<lpage>934</lpage>
+<pub-id pub-id-type="pmid">20303880</pub-id></element-citation></ref></ref-list></back></article>
