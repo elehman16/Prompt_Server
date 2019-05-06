@@ -56,6 +56,7 @@ function update_row() {
   highlighted[2].innerHTML = data['cmp'];
   highlighted[3].innerHTML = data['ans'];
   highlighted[4].innerHTML = data['res'];
+  highlighted[5].innerHTML = data['xml'];
 
   // reset
   document.getElementById("final-prompt-submit-but").onclick = submit_text;
@@ -194,7 +195,9 @@ function submit() {
     }
 
     table_data.push(row_data);
+    console.log(row_data);
   }
+  console.log(table_data);
 
   if (can_final_submit(table_data)) {
     post("/submit/", {"userid": document.getElementById("userid").innerHTML,
