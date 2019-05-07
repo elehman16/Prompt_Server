@@ -288,7 +288,7 @@ class XMLReader(Reader):
         if not next_file:
             return None
             
-        pmc = "PMC" + str(int(next_file)) + ".nxml"
+        pmc = "PMC" + str(int(next_file)) + ".html"
         path_to_file =  self.path + '/' + pmc # the path to XML files
         et = ET.parse(path_to_file) 
         root = et.getroot() 

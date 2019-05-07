@@ -32,6 +32,7 @@ function get_form_data() {
   data["cmp"] = $("#comparator-resp").val();
   data["ans"] = getCheckBoxSelection();
   data["res"] = $("#reasoning-resp").val();
+  data["xml"] = $("#reasoning-resp").attr('xml_offsets');
   return data;
 }
 
@@ -104,19 +105,24 @@ function breakDownText(text, orig_tab) {
 * Get the text that was highlighted by the user.
 */
 function getSelectedText() {
+  return getSelectedTextAndRange()[0];
+}
+
+function getSelectedTextAndRange() {
     var text = "";
+    var range = null;
 
-    if (window.getSelection) {
-        text = window.getSelection().toString();
-    } else if (document.selection && document.selection.type != "Control") {
-        text = document.selection.createRange().text;
+    var selection = window.getSelection();
+    if (selection) {
+      text = selection.toString();
+      if (text.length > 0) {
+        range = selection.getRangeAt(0);
+      }
     }
-
+    
     window.getSelection().removeAllRanges();
-
     text = text.trim();
-
-    return text;
+    return [text, range];
 }
 
 /**

@@ -71,7 +71,7 @@ class CSVWriter(Writer):
             self.save_invalid(data)
             return None
             
-        row_heading = ['RowID', 'Outcome', 'Comparator', 'Intervention', 'Answer', 'Reasoning', 'XML', 'PMID', 'Location']
+        row_heading = ['RowID', 'Outcome', 'Comparator', 'Intervention', 'Answer', 'Reasoning', 'xml_offsets', 'XML', 'PMID', 'Location']
         
         path = './/all_outputs//out_{}.csv'.format(data['userid'])
         data = self.__finish_data__(data)
@@ -128,9 +128,10 @@ class CSVWriter(Writer):
             inter = row[2]
             ans = row[3]
             res = row[4]
+            xml = row[5]
             where = row[-1]
             
-            row_data = [rowid, out, cmp, inter, ans, res, id_, pmid, where]
+            row_data = [rowid, out, cmp, inter, ans, res, xml, id_, pmid, where]
             data.append(row_data)
        
         return data
