@@ -4,7 +4,7 @@
 # Options: csv, sql, xml
 reader = 'xml'
 reader_params = {
-    'path': '/Users/elizabethwagoner/Desktop/ben/evidence-inference/annotations/test/'
+    'path': './/..//annotation_test//'
 }
 
 # The writer to use, along with the paramaters that
