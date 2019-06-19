@@ -10,12 +10,30 @@ function is_active_submit_but() {
   }
 }
 
+function add_reasoning_from_highlight() {
+  var text, range;
+  [text, range] = getSelectedTextAndRange();
+  var xml_i = -1;
+  var xml_f = -1;
+  if (range) {
+    var node_i = parseInt(range.startContainer.parentNode.getAttribute('xml_i'));
+    var node_f = parseInt(range.endContainer.parentNode.getAttribute('xml_i'));
+    xml_i = node_i + range.startOffset;
+    xml_f = node_f + range.endOffset;
+  }
+  $("#reasoning-resp").val(text);
+  $("#reasoning-resp").attr('xml_offsets', xml_i + ':' + xml_f);
+  return text;
+}
+
 /**
 * Show a modal that is essentially a form for users to fill out information for.
 */
 function add_prompt() {
-  $("#reasoning-resp").val(getSelectedText());
-  document.getElementById("clear-text-but").disabled = true;
+  var initial_text = add_reasoning_from_highlight();
+  if (initial_text != "") {
+    document.getElementById("clear-text-but").disabled = false;
+  }
   $("#addPromptModal").modal('show');
 }
 
@@ -34,10 +52,9 @@ function clear_resp() {
 * Also, check if we should make the submit button available.
 */
 function mouse_up_select_text() {
-  var selected_text = getSelectedText();
+  var selected_text = add_reasoning_from_highlight();
   if (selected_text !== "") {
     $("#addPromptModal").modal('show'); // make modal visable
-    $("#reasoning-resp").val(selected_text);
     document.onmouseup = null;
     is_active_submit_but();
     $("#reasoning-table-tag").css("background-color", "white");
@@ -150,6 +167,11 @@ function addToTable() {
   // insert reason
   var newCell = newRow.insertCell(4);
   var newText = document.createTextNode(data['res']);
+  newCell.appendChild(newText);
+  
+  var newCell = newRow.insertCell(5);
+  newCell.style.display = 'none';
+  var newText = document.createTextNode(data['xml']);
   newCell.appendChild(newText);
 }
 
