@@ -61,7 +61,21 @@ Grabs a specified article and displays the full text.
 """                             
 @application.route('/annotate_full/<userid>/<id_>/', methods=['GET'])
 def annotate_full(userid, id_ = None):
-    art = anne.get_next_article(userid, id_)
+    try:
+        art = anne.get_next_article(userid, id_)
+    except:
+        user_progress = np.genfromtxt('.//data//user_progress.csv', delimiter = ",", dtype = str)
+        user_progress = user_progress.reshape((int(user_progress.size / 2), 2))              
+        i = 0
+        for row in user_progress:
+            if (row[0] == userid):
+                user_progress[i][1] = str(int(user_progress[i][1]) + 1)
+                np.savetxt('.//data//user_progress.csv', user_progress, delimiter = ",", fmt = "%s")
+                break
+            i += 1
+           
+        id_ = anne.get_next_file(userid)
+        return annotate_full(userid, id_)
     
     if not art:
         return flask.redirect(flask.url_for('finish'))
