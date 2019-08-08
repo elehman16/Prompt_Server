@@ -20,12 +20,12 @@ def more_work(n, user):
             all_pmc_files.add(pmc_file)
             
     # Gets all of the PMC files
-    pmcs = glob.glob("..\\..\\all_path_my_xml_files\\*.nxml")       
+    pmcs = glob.glob("..\\..\\annotation_test\\*.html")       
     # Determines which PMC files we haven't done, and creates a list of N of them
     to_do = []
     for file in pmcs:
-        loc = '..\\..\\all_path_my_xml_files\\PMC'
-        file_num = int(file.replace(loc, "").replace(".nxml", "")) # trim the file to have just the number
+        loc = '..\\..\\annotation_test\\PMC'
+        file_num = int(file.replace(loc, "").replace(".html", "")) # trim the file to have just the number
         if not(file_num in all_pmc_files):
             to_do.append(file_num)
             5
